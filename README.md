@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Alternatives to OpenClaw If You Need Enterprise-Grade Security](https://dev.to/dextralabs/5-alternatives-to-openclaw-if-you-need-enterprise-grade-security-3p1o)
-- [Copilot CLI Weekly: MCP Servers Get LLM Access](https://dev.to/htekdev/copilot-cli-weekly-mcp-servers-get-llm-access-2jli)
-- [Hey Dev.to, I&#39;m Bitrus](https://dev.to/cr4n31/hey-devto-im-bitrus-3oko)
-- [How Linux is Used in Real-World Data Engineering](https://dev.to/fredrickm/how-linux-is-used-in-real-world-data-engineering-47nh)
+- [I Built a Skill So Claude Automatically Routes Tasks to Free-Tier AI Providers](https://dev.to/lakshmisravyavedantham/i-built-a-skill-so-claude-automatically-routes-tasks-to-free-tier-ai-providers-1m10)
+- [CI/CD en AWS: Lab práctico para automatizar el despliegue de sitios web estáticos S3, CloudFront, CodePipeline y CodeBuild](https://dev.to/juanhcode/cicd-en-aws-lab-practico-para-automatizar-el-despliegue-de-sitios-web-estaticos-s3-cloudfront-11dc)
+- [CVE-2026-32241: CVE-2026-32241: Command Injection in Flannel Experimental Extension Backend](https://dev.to/cverports/cve-2026-32241-cve-2026-32241-command-injection-in-flannel-experimental-extension-backend-332h)
+- [Porting Test Drive II from SNES to PC, Part 46: Demoting game_11.mss from gameplay seed to front-end menu state](https://dev.to/nivandosoares/porting-test-drive-ii-from-snes-to-pc-part-46-demoting-game11mss-from-gameplay-seed-to-5a55)
 <!-- BLOG-POST-LIST:END -->
 
