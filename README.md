@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why we replaced Node.js with Bun for 5x throughput](https://dev.to/triggerdotdev/why-we-replaced-nodejs-with-bun-for-5x-throughput-3ca1)
-- [I Tried Building a Netflix-Style System on AWS — Here’s What Actually Matters](https://dev.to/zeed_xo/i-tried-building-a-netflix-style-system-on-aws-heres-what-actually-matters-jf0)
-- [I Built an n8n Workflow That Auto-Triages Every GitHub Issue with AI](https://dev.to/automatewithai/i-built-an-n8n-workflow-that-auto-triages-every-github-issue-with-ai-49bh)
-- [ClickHouse Has a Free Column-Oriented Database — Query Billions of Rows in Milliseconds](https://dev.to/0012303/clickhouse-has-a-free-column-oriented-database-query-billions-of-rows-in-milliseconds-61e)
+- [STIR/SHAKEN para VICIdial: La Guia Completa de Implementacion 2026](https://dev.to/gamlin/stirshaken-para-vicidial-la-guia-completa-de-implementacion-2026-2hl1)
+- [La Guia Completa de Instalacion de VICIdial &lpar;2026&rpar;: De Servidor Nuevo a Primera Llamada en Menos de 2 Horas](https://dev.to/gamlin/la-guia-completa-de-instalacion-de-vicidial-2026-de-servidor-nuevo-a-primera-llamada-en-menos-de-2l9a)
+- [4 pgvector Mistakes That Silently Break Your RAG Pipeline in Production](https://dev.to/mianzubair/4-pgvector-mistakes-that-silently-break-your-rag-pipeline-in-production-4e0p)
+- [Our Agent&#39;s #1 Failure Mode: Thinking](https://dev.to/benixbuzz/our-agents-1-failure-mode-thinking-2bda)
 <!-- BLOG-POST-LIST:END -->
 
