@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Arduino Email Alert System Using DHT11 &amp; Circuitdigest Cloud API](https://dev.to/david_thomas/arduino-email-alert-system-using-dht11-circuitdigest-cloud-api-4aef)
-- [Balancing Cost, Performance, and Developer Experience: A Fair Pricing Model for CI Runners](https://dev.to/maricode/balancing-cost-performance-and-developer-experience-a-fair-pricing-model-for-ci-runners-ef2)
-- [It’s Better to Be Lucky Than Right: Why Your Code Needs the &quot;Seemingly Pointless&quot; Catch-Alls](https://dev.to/chadders13/its-better-to-be-lucky-than-right-why-your-code-needs-the-seemingly-pointless-catch-alls-494f)
-- [# APIs: The Invisible Infrastructure of Everything You Use](https://dev.to/venkiboo/-apis-the-invisible-infrastructure-of-everything-you-use-3o8b)
+- [Why Most AI Products Are Built Wrong &lpar;From a System Design Perspective&rpar;](https://dev.to/cloyouai/why-most-ai-products-are-built-wrong-from-a-system-design-perspective-192e)
+- [Build a Smart Building Automation Controller Using NORVI X](https://dev.to/bhanuka_gamachchige/build-a-smart-building-automation-controller-using-norvi-x-1m17)
+- [🦀 Rust Weekly Log — Weekly progress snapshot](https://dev.to/vinecksie_rust/rust-weekly-log-weekly-progress-snapshot-3cg9)
+- [Tailwind CSS vs Bootstrap - Why Developers Are Ditching Bootstrap and Never Looking Back 🎨](https://dev.to/hamidrazadev/tailwind-css-vs-bootstrap-why-developers-are-ditching-bootstrap-and-never-looking-back-m7j)
 <!-- BLOG-POST-LIST:END -->
 
