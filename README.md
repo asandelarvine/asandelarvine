@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [STIR/SHAKEN para VICIdial: La Guia Completa de Implementacion 2026](https://dev.to/gamlin/stirshaken-para-vicidial-la-guia-completa-de-implementacion-2026-2hl1)
-- [La Guia Completa de Instalacion de VICIdial &lpar;2026&rpar;: De Servidor Nuevo a Primera Llamada en Menos de 2 Horas](https://dev.to/gamlin/la-guia-completa-de-instalacion-de-vicidial-2026-de-servidor-nuevo-a-primera-llamada-en-menos-de-2l9a)
-- [4 pgvector Mistakes That Silently Break Your RAG Pipeline in Production](https://dev.to/mianzubair/4-pgvector-mistakes-that-silently-break-your-rag-pipeline-in-production-4e0p)
-- [Our Agent&#39;s #1 Failure Mode: Thinking](https://dev.to/benixbuzz/our-agents-1-failure-mode-thinking-2bda)
+- [5 Alternatives to OpenClaw If You Need Enterprise-Grade Security](https://dev.to/dextralabs/5-alternatives-to-openclaw-if-you-need-enterprise-grade-security-3p1o)
+- [Copilot CLI Weekly: MCP Servers Get LLM Access](https://dev.to/htekdev/copilot-cli-weekly-mcp-servers-get-llm-access-2jli)
+- [Hey Dev.to, I&#39;m Bitrus](https://dev.to/cr4n31/hey-devto-im-bitrus-3oko)
+- [How Linux is Used in Real-World Data Engineering](https://dev.to/fredrickm/how-linux-is-used-in-real-world-data-engineering-47nh)
 <!-- BLOG-POST-LIST:END -->
 
