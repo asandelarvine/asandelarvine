@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#Open Claw that runs Food Truck ..](https://dev.to/bkashji/open-claw-that-runs-food-truck--1fa3)
-- [How to Build a Real Estate Business Plan: 8 Steps to Scale Your Success &lpar;+ Free Template&rpar;](https://dev.to/aloycwl/how-to-build-a-real-estate-business-plan-8-steps-to-scale-your-success-free-template-d4j)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-3f6p)
-- [Angular 22: Mix Signal Forms and Reactive Forms Seamlessly](https://dev.to/brianmtreese/angular-22-mix-signal-forms-and-reactive-forms-seamlessly-3p6k)
+- [How I Built a Memory System for Claude Code and Open-Sourced It](https://dev.to/awrshift/how-i-built-a-memory-system-for-claude-code-and-open-sourced-it-3m31)
+- [I Benchmarked 5 File Editing Strategies for AI Coding Agents. Here&#39;s What Actually Works.](https://dev.to/ceaksan/i-benchmarked-5-file-editing-strategies-for-ai-coding-agents-heres-what-actually-works-1855)
+- [Common Mistakes Laravel Developers Make &lpar;And How to Avoid Them&rpar;](https://dev.to/lakshya-addweb/common-mistakes-laravel-developers-make-and-how-to-avoid-them-3oem)
+- [The EM Algorithm: An Intuitive Guide with the Coin Toss Example](https://dev.to/berkan_sesen/the-em-algorithm-an-intuitive-guide-with-the-coin-toss-example-4ldh)
 <!-- BLOG-POST-LIST:END -->
 
