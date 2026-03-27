@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 8-Month Feature Nobody Wanted &lpar;Including Me, Eventually&rpar;](https://dev.to/_boweii/the-8-month-feature-nobody-wanted-including-me-eventually-4fg9)
-- [How I Quickly Turn CSV Files Into Charts &lpar;Without Excel or Coding&rpar;](https://dev.to/adhibot/how-i-quickly-turn-csv-files-into-charts-without-excel-or-coding-59p7)
-- [How I used Next.js and Claude 3.5 to stop my PM from nagging me about Jira](https://dev.to/phantasm0009/how-i-used-nextjs-and-claude-35-to-stop-my-pm-from-nagging-me-about-jira-1d81)
-- [Rust MCP Server Setup Guide for Vibe CLI](https://dev.to/opensite/rust-mcp-server-setup-guide-for-vibe-cli-5nk)
+- [I Built a Dashboard That Installs Claude Code, Codex &amp; Gemini CLI in One Click](https://dev.to/yiyaoai/i-built-a-dashboard-that-installs-claude-code-codex-gemini-cli-in-one-click-35kc)
+- [Introducing AIO Sandbox, All-in-One Sandbox Environment for AI Agents](https://dev.to/bytedanceoss/introducing-aio-sandbox-all-in-one-sandbox-environment-for-ai-agents-18k0)
+- [The Real Cost of Your AI Agent &lpar;It&#39;s Not What You Think&rpar;](https://dev.to/devonakelley/the-real-cost-of-your-ai-agent-its-not-what-you-think-aai)
+- [GHSA-PRH4-VHFH-24MJ: GHSA-PRH4-VHFH-24MJ: Information Exposure in Harbor Configuration Audit Logs](https://dev.to/cverports/ghsa-prh4-vhfh-24mj-ghsa-prh4-vhfh-24mj-information-exposure-in-harbor-configuration-audit-logs-1f5c)
 <!-- BLOG-POST-LIST:END -->
 
