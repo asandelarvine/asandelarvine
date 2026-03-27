@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Memory System for Claude Code and Open-Sourced It](https://dev.to/awrshift/how-i-built-a-memory-system-for-claude-code-and-open-sourced-it-3m31)
-- [I Benchmarked 5 File Editing Strategies for AI Coding Agents. Here&#39;s What Actually Works.](https://dev.to/ceaksan/i-benchmarked-5-file-editing-strategies-for-ai-coding-agents-heres-what-actually-works-1855)
-- [Common Mistakes Laravel Developers Make &lpar;And How to Avoid Them&rpar;](https://dev.to/lakshya-addweb/common-mistakes-laravel-developers-make-and-how-to-avoid-them-3oem)
-- [The EM Algorithm: An Intuitive Guide with the Coin Toss Example](https://dev.to/berkan_sesen/the-em-algorithm-an-intuitive-guide-with-the-coin-toss-example-4ldh)
+- [Arduino Email Alert System Using DHT11 &amp; Circuitdigest Cloud API](https://dev.to/david_thomas/arduino-email-alert-system-using-dht11-circuitdigest-cloud-api-4aef)
+- [Balancing Cost, Performance, and Developer Experience: A Fair Pricing Model for CI Runners](https://dev.to/maricode/balancing-cost-performance-and-developer-experience-a-fair-pricing-model-for-ci-runners-ef2)
+- [It’s Better to Be Lucky Than Right: Why Your Code Needs the &quot;Seemingly Pointless&quot; Catch-Alls](https://dev.to/chadders13/its-better-to-be-lucky-than-right-why-your-code-needs-the-seemingly-pointless-catch-alls-494f)
+- [# APIs: The Invisible Infrastructure of Everything You Use](https://dev.to/venkiboo/-apis-the-invisible-infrastructure-of-everything-you-use-3o8b)
 <!-- BLOG-POST-LIST:END -->
 
