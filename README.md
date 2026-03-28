@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Mac Apps for Developers Who Ship on Tight Deadlines in 2026](https://dev.to/godnick/7-mac-apps-for-developers-who-ship-on-tight-deadlines-in-2026-3oo)
-- [What AI Actually Changed About My Work as a Technical Writer](https://dev.to/wordcaster/what-ai-actually-changed-about-my-work-as-a-technical-writer-2edh)
-- [From Errors to Experience: My Developer Journey](https://dev.to/nani_hatake_cff6f15517cdd/from-errors-to-experience-my-developer-journey-a23)
-- [Discussion: Web Development / Creative Coding](https://dev.to/tacit_71799acf6d056b5155c/discussion-web-development-creative-coding-4ia0)
+- [I built a free image to PDF converter that works offline - no upload, privacy focused](https://dev.to/xyrox1/i-built-a-free-image-to-pdf-converter-that-works-offline-no-upload-privacy-focused-2o88)
+- [How I Reverse-Lookup M-Pesa&#39;s Hashed Phone Numbers Using a 7.2 GB Binary File and One S3 Request](https://dev.to/endafk/how-i-reverse-lookup-m-pesas-hashed-phone-numbers-using-a-72-gb-binary-file-and-one-s3-request-mk7)
+- [Why I stopped building &quot;projects&quot; and started building &quot;products.&quot;](https://dev.to/shah_1dc539e440e1c97/why-i-stopped-building-projects-and-started-building-products-5dh)
+- [I Built a Kubernetes Monitoring Stack — And Breaking It Was the Best Part](https://dev.to/adil-khan-723/i-built-a-kubernetes-monitoring-stack-and-breaking-it-was-the-best-part-1lba)
 <!-- BLOG-POST-LIST:END -->
 
