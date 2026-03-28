@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Mac Apps Built for Apple Silicon That Every Developer Should Try in 2026](https://dev.to/godnick/7-mac-apps-built-for-apple-silicon-that-every-developer-should-try-in-2026-2e4p)
-- [📦 I Built 3 Astro Integrations and Shipped Them to npm — Here&#39;s What They Do](https://dev.to/shiftescape/i-built-3-astro-integrations-and-shipped-them-to-npm-heres-what-they-do-1873)
-- [How I built my portfolio with React + TypeScript &lpar;Lighthouse 97/100&rpar;](https://dev.to/dorbindevfrlncr/how-i-built-my-portfolio-with-react-typescript-lighthouse-97100-5843)
-- [Video Ads for Elementor, Managing Pre-Roll Campaigns at Scale](https://dev.to/nexuwp/video-ads-for-elementor-managing-pre-roll-campaigns-at-scale-b0e)
+- [GitHub Spec Kit Is 80% Right — Here&#39;s the Missing 20% That Would Make It Transformative](https://dev.to/kotaroyamame/github-spec-kit-is-80-right-heres-the-missing-20-that-would-make-it-transformative-2bi6)
+- [I Backtested 49 Crypto Trading Strategies. Here&#39;s Every Single Result.](https://dev.to/maymay5692/i-backtested-49-crypto-trading-strategies-heres-every-single-result-4gg5)
+- [I Connected to a Crypto Exchange API in 3 Lines of Python](https://dev.to/maymay5692/i-connected-to-a-crypto-exchange-api-in-3-lines-of-python-345d)
+- [clauhist: browse full Claude Code history and resume sessions across projects](https://dev.to/lef237/clauhist-browse-full-claude-code-history-and-resume-sessions-across-projects-1c1o)
 <!-- BLOG-POST-LIST:END -->
 
