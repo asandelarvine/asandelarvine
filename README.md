@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Spec Kit Is 80% Right — Here&#39;s the Missing 20% That Would Make It Transformative](https://dev.to/kotaroyamame/github-spec-kit-is-80-right-heres-the-missing-20-that-would-make-it-transformative-2bi6)
-- [I Backtested 49 Crypto Trading Strategies. Here&#39;s Every Single Result.](https://dev.to/maymay5692/i-backtested-49-crypto-trading-strategies-heres-every-single-result-4gg5)
-- [I Connected to a Crypto Exchange API in 3 Lines of Python](https://dev.to/maymay5692/i-connected-to-a-crypto-exchange-api-in-3-lines-of-python-345d)
-- [clauhist: browse full Claude Code history and resume sessions across projects](https://dev.to/lef237/clauhist-browse-full-claude-code-history-and-resume-sessions-across-projects-1c1o)
+- [Day 54 of #100DaysOfCode — Creating Blog App](https://dev.to/m_saad_ahmad/day-54-of-100daysofcode-creating-blog-app-gn3)
+- [How to Build a Daily LinkedIn Outreach Tracker That Tells You Which Prospects Are Going Cold](https://dev.to/vhub_systems_ed5641f65d59/how-to-build-a-daily-linkedin-outreach-tracker-that-tells-you-which-prospects-are-going-cold-5hdm)
+- [Ollama Has a Free Local LLM Runner — Run AI Models on Your Laptop](https://dev.to/0012303/ollama-has-a-free-local-llm-runner-run-ai-models-on-your-laptop-3gkn)
+- [Bruno Has a Free API Client — Git-Friendly Alternative to Postman](https://dev.to/0012303/bruno-has-a-free-api-client-git-friendly-alternative-to-postman-5g9d)
 <!-- BLOG-POST-LIST:END -->
 
