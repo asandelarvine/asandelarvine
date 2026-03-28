@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 54 of #100DaysOfCode — Creating Blog App](https://dev.to/m_saad_ahmad/day-54-of-100daysofcode-creating-blog-app-gn3)
-- [How to Build a Daily LinkedIn Outreach Tracker That Tells You Which Prospects Are Going Cold](https://dev.to/vhub_systems_ed5641f65d59/how-to-build-a-daily-linkedin-outreach-tracker-that-tells-you-which-prospects-are-going-cold-5hdm)
-- [Ollama Has a Free Local LLM Runner — Run AI Models on Your Laptop](https://dev.to/0012303/ollama-has-a-free-local-llm-runner-run-ai-models-on-your-laptop-3gkn)
-- [Bruno Has a Free API Client — Git-Friendly Alternative to Postman](https://dev.to/0012303/bruno-has-a-free-api-client-git-friendly-alternative-to-postman-5g9d)
+- [Debugging Kubernetes is Painful… So I Built an AI Tool to Fix It](https://dev.to/sumitpurandare/debugging-kubernetes-is-painful-so-i-built-an-ai-tool-to-fix-it-2m09)
+- [I built a 98-tool MCP server for managing Meta Ads from Claude Code](https://dev.to/faraso/i-built-a-98-tool-mcp-server-for-managing-meta-ads-from-claude-code-2dcm)
+- [Teaching Claude Code to Write XSLT — The Hook in Action](https://dev.to/imdj/teaching-claude-code-to-write-xslt-the-hook-in-action-l8n)
+- [Teaching Claude Code to Write XSLT — The Hook Chain](https://dev.to/imdj/teaching-claude-code-to-write-xslt-the-hook-chain-1k7)
 <!-- BLOG-POST-LIST:END -->
 
