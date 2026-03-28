@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Scraping API Pricing Compared: Cut Costs 90%](https://dev.to/alterlab/web-scraping-api-pricing-compared-cut-costs-90-3g3)
-- [Structured Logging in Go with slog for Observability and Alerting](https://dev.to/rosgluk/structured-logging-in-go-with-slog-for-observability-and-alerting-3fnm)
-- [OBSIDIAN Neural — quand l&#39;IA devient un instrument de scène](https://dev.to/innermost_47/obsidian-neural-quand-lia-devient-un-instrument-de-scene-59l0)
-- [Why Your Terminal is the Worst Place to Debug AI Agents](https://dev.to/tacit_71799acf6d056b5155c/why-your-terminal-is-the-worst-place-to-debug-ai-agents-5h6g)
+- [From understanding the problem -&gt; to building the system&lt;/&gt;](https://dev.to/bhargavsai_dbs/from-understanding-the-problem-to-building-the-system-2404)
+- [I built a programming language in C](https://dev.to/aaka3h/i-built-a-programming-language-in-c-ohp)
+- [How I built an OpenAI-compatible API layer on top of Ollama &lpar;and what broke along the way&rpar;](https://dev.to/nestaibychirai/how-i-built-an-openai-compatible-api-layer-on-top-of-ollama-and-what-broke-along-the-way-217m)
+- [How I Use AI to Code 10x Faster &lpar;With Real Examples&rpar;](https://dev.to/respect17/how-i-use-ai-to-code-10x-faster-with-real-examples-13fd)
 <!-- BLOG-POST-LIST:END -->
 
