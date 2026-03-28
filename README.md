@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Native Android build failed: what I would check first](https://dev.to/asta_dev/react-native-android-build-failed-what-i-would-check-first-2klf)
-- [How to Scrape Glassdoor: Complete Guide for 2026](https://dev.to/alterlab/how-to-scrape-glassdoor-complete-guide-for-2026-5434)
-- [Neon Has a Free Serverless PostgreSQL — Scale to Zero, Branch Like Git](https://dev.to/0012303/neon-has-a-free-serverless-postgresql-scale-to-zero-branch-like-git-3i03)
-- [How I Built Factcovery in 2 Days with Claude — 0 Lines of Code Written by Me](https://dev.to/hoanganhlam/how-i-built-factcovery-in-2-days-with-claude-0-lines-of-code-written-by-me-5cei)
+- [Syncing Controlled Inputs with External State in React &lpar;Without useEffect or setState-in-render&rpar;](https://dev.to/nareshipme/syncing-controlled-inputs-with-external-state-in-react-without-useeffect-or-setstate-in-render-d39)
+- [How I Built an AI That Generates README Files and API Docs from Any GitHub Repo](https://dev.to/peaklinestudio/how-i-built-an-ai-that-generates-readme-files-and-api-docs-from-any-github-repo-400f)
+- [Building a QR Code Scanner in Next.js with html5-qrcode &lpar;Camera + Image Upload&rpar;](https://dev.to/shaishav_patel_271fdcd61a/building-a-qr-code-scanner-in-nextjs-with-html5-qrcode-camera-image-upload-28ll)
+- [Pyth Roulette: Building a BTC Price Betting Game with Pyth Entropy and Price Feeds](https://dev.to/__c278553094/pyth-roulette-building-a-btc-price-betting-game-with-pyth-entropy-and-price-feeds-2pan)
 <!-- BLOG-POST-LIST:END -->
 
