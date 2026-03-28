@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Syncing Controlled Inputs with External State in React &lpar;Without useEffect or setState-in-render&rpar;](https://dev.to/nareshipme/syncing-controlled-inputs-with-external-state-in-react-without-useeffect-or-setstate-in-render-d39)
-- [How I Built an AI That Generates README Files and API Docs from Any GitHub Repo](https://dev.to/peaklinestudio/how-i-built-an-ai-that-generates-readme-files-and-api-docs-from-any-github-repo-400f)
-- [Building a QR Code Scanner in Next.js with html5-qrcode &lpar;Camera + Image Upload&rpar;](https://dev.to/shaishav_patel_271fdcd61a/building-a-qr-code-scanner-in-nextjs-with-html5-qrcode-camera-image-upload-28ll)
-- [Pyth Roulette: Building a BTC Price Betting Game with Pyth Entropy and Price Feeds](https://dev.to/__c278553094/pyth-roulette-building-a-btc-price-betting-game-with-pyth-entropy-and-price-feeds-2pan)
+- [7 Mac Apps That Make Code Reviews Faster in 2026](https://dev.to/godnick/7-mac-apps-that-make-code-reviews-faster-in-2026-5ej3)
+- [How a Pushdown Automaton becomes a Parser [part 3]](https://dev.to/jocerfranquiz/how-a-pushdown-automaton-becomes-a-parser-part-3-1ijd)
+- [How to Calculate Your Burn Rate in 5 Minutes — No Spreadsheet Needed](https://dev.to/arhammbokaria/how-to-calculate-your-burn-rate-in-5-minutes-no-spreadsheet-needed-17fp)
+- [Why Flutter AI Chat UIs Break &lpar;And How to Fix Them&rpar;](https://dev.to/abphaiboon/why-flutter-ai-chat-uis-break-and-how-to-fix-them-1290)
 <!-- BLOG-POST-LIST:END -->
 
