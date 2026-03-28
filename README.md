@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Cut Our AI API Bill by 78% &lpar;And Let Cursor See Our Entire Codebase&rpar;](https://dev.to/ashu_578bf1ca5f6b3c112df8/how-we-built-a-context-engine-that-makes-ai-code-assistants-see-your-entire-codebase-3076)
-- [Your AI Doesn&#39;t Need Screenshots. It Needs DevTools.](https://dev.to/emad_omar_5311e0e328be24c/your-ai-doesnt-need-screenshots-it-needs-devtools-3lg1)
-- [Building an A2A Simulator to Debug Agent-to-Agent Communication](https://dev.to/agentdm/building-an-a2a-simulator-to-debug-agent-to-agent-communication-4keb)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-g9i)
+- [AI Agents on Polymarket: Automated Prediction Market Trading](https://dev.to/walletguy/ai-agents-on-polymarket-automated-prediction-market-trading-4p08)
+- [From Pixels to Payload Part 2: DLL Search Order Hijacking via explorer.exe](https://dev.to/yuribe/from-pixels-to-payload-part-2-dll-search-order-hijacking-via-explorerexe-2dln)
+- [How I Got 149 Pages Indexed in 27 Days With a New Domain](https://dev.to/relahconvert/how-i-got-149-pages-indexed-in-27-days-with-a-new-domain-17pp)
+- [Best AI Code Review Tools for Pull Requests in 2026](https://dev.to/rahulxsingh/best-ai-code-review-tools-for-pull-requests-in-2026-2n4p)
 <!-- BLOG-POST-LIST:END -->
 
