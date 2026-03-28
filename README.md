@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI That Matches Lonely People with Therapy Pets — Here&#39;s What I Learned](https://dev.to/coach4life/i-built-an-ai-that-matches-lonely-people-with-therapy-pets-heres-what-i-learned-3p94)
-- [7 Mac Apps for Developers Preparing for Technical Interviews in 2026](https://dev.to/godnick/7-mac-apps-for-developers-preparing-for-technical-interviews-in-2026-3al8)
-- [OpenClaw vs K8s Agent Orchestrators &lpar;2026&rpar;](https://dev.to/techpulselab/openclaw-vs-k8s-agent-orchestrators-2026-46n3)
-- [Your Cookie Banner Is Probably Breaking GDPR — Here&#39;s the 20-Point Audit to Find Out](https://dev.to/vhub_systems_ed5641f65d59/your-cookie-banner-is-probably-breaking-gdpr-heres-the-20-point-audit-to-find-out-12o9)
+- [React Native Android build failed: what I would check first](https://dev.to/asta_dev/react-native-android-build-failed-what-i-would-check-first-2klf)
+- [How to Scrape Glassdoor: Complete Guide for 2026](https://dev.to/alterlab/how-to-scrape-glassdoor-complete-guide-for-2026-5434)
+- [Neon Has a Free Serverless PostgreSQL — Scale to Zero, Branch Like Git](https://dev.to/0012303/neon-has-a-free-serverless-postgresql-scale-to-zero-branch-like-git-3i03)
+- [How I Built Factcovery in 2 Days with Claude — 0 Lines of Code Written by Me](https://dev.to/hoanganhlam/how-i-built-factcovery-in-2-days-with-claude-0-lines-of-code-written-by-me-5cei)
 <!-- BLOG-POST-LIST:END -->
 
