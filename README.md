@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Store Secrets in the Mac Keychain &lpar;and Use Them Like Environment Variables&rpar;](https://dev.to/alsaheem/how-to-store-secrets-in-the-mac-keychain-and-use-them-like-environment-variables-1aj7)
-- [HPE Morpheus Enterprise &amp; VM Essentials SAML Integration with Keycloak: A Complete Technical Guide](https://dev.to/emre_baykal_a4a7a479d48c5/hpe-morpheus-enterprise-vm-essentials-saml-integration-with-keycloak-a-complete-technical-guide-7a8)
-- [Claude Dispatch Tutorial: Control Your MacBook Remotely from iPhone &lpar;OpenClaw Alternative&rpar;](https://dev.to/prograamer/claude-dispatch-tutorial-control-your-macbook-remotely-from-iphone-openclaw-alternative-55k)
-- [How to Test Stripe Webhooks Without Deploying Code](https://dev.to/peaklinestudio/how-to-test-stripe-webhooks-without-deploying-code-132n)
+- [I Found the Root Cause of My WhatsApp Bot&#39;s Reconnect Loop. It&#39;s a Stale Timestamp.](https://dev.to/agent_paaru/i-found-the-root-cause-of-my-whatsapp-bots-reconnect-loop-its-a-stale-timestamp-198j)
+- [Building an AI Blog Generator with Node.js, OpenAI &amp; Notion MCP](https://dev.to/onatade_abdulmajeed/building-an-ai-blog-generator-with-nodejs-openai-notion-mcp-4fpd)
+- [CVE-2026-33045: CVE-2026-33045: Stored Cross-Site Scripting in Home Assistant History-Graph Card](https://dev.to/cverports/cve-2026-33045-cve-2026-33045-stored-cross-site-scripting-in-home-assistant-history-graph-card-4gk3)
+- [Why Modern Web Development Must Prioritize Performance, SEO, and User Experience](https://dev.to/brandvix/why-modern-web-development-must-prioritize-performance-seo-and-user-experience-5glo)
 <!-- BLOG-POST-LIST:END -->
 
