@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Mac Apps That Make Code Reviews Faster in 2026](https://dev.to/godnick/7-mac-apps-that-make-code-reviews-faster-in-2026-5ej3)
-- [How a Pushdown Automaton becomes a Parser [part 3]](https://dev.to/jocerfranquiz/how-a-pushdown-automaton-becomes-a-parser-part-3-1ijd)
-- [How to Calculate Your Burn Rate in 5 Minutes — No Spreadsheet Needed](https://dev.to/arhammbokaria/how-to-calculate-your-burn-rate-in-5-minutes-no-spreadsheet-needed-17fp)
-- [Why Flutter AI Chat UIs Break &lpar;And How to Fix Them&rpar;](https://dev.to/abphaiboon/why-flutter-ai-chat-uis-break-and-how-to-fix-them-1290)
+- [How to Store Secrets in the Mac Keychain &lpar;and Use Them Like Environment Variables&rpar;](https://dev.to/alsaheem/how-to-store-secrets-in-the-mac-keychain-and-use-them-like-environment-variables-1aj7)
+- [HPE Morpheus Enterprise &amp; VM Essentials SAML Integration with Keycloak: A Complete Technical Guide](https://dev.to/emre_baykal_a4a7a479d48c5/hpe-morpheus-enterprise-vm-essentials-saml-integration-with-keycloak-a-complete-technical-guide-7a8)
+- [Claude Dispatch Tutorial: Control Your MacBook Remotely from iPhone &lpar;OpenClaw Alternative&rpar;](https://dev.to/prograamer/claude-dispatch-tutorial-control-your-macbook-remotely-from-iphone-openclaw-alternative-55k)
+- [How to Test Stripe Webhooks Without Deploying Code](https://dev.to/peaklinestudio/how-to-test-stripe-webhooks-without-deploying-code-132n)
 <!-- BLOG-POST-LIST:END -->
 
