@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 55 of #100DayOfCode — Data Fetching and Caching in NextJS](https://dev.to/m_saad_ahmad/day-55-of-100dayofcode-data-fetching-and-caching-in-nextjs-2mk8)
-- [Créer un blog gratuit avec GitHub Pages en 2026 : guide complet](https://dev.to/lucasmdevdev/creer-un-blog-gratuit-avec-github-pages-en-2026-guide-complet-439m)
-- [Why I Built Migrun](https://dev.to/dakujem/why-i-built-migrun-2moa)
-- [Beautiful Perl feature: &quot;heredocs&quot;, multi-line strings embedded in source code](https://dev.to/damil/beautiful-perl-feature-heredocs-multi-line-strings-embedded-in-source-code-863)
+- [15 JavaScript Tips That Will Make You a Better Developer in 2026](https://dev.to/lucasmdevdev/15-javascript-tips-that-will-make-you-a-better-developer-in-2026-28pl)
+- [Les 7 Meilleurs Outils IA pour Développeurs en 2026](https://dev.to/lucasmdevdev/les-7-meilleurs-outils-ia-pour-developpeurs-en-2026-7kn)
+- [What Running a One-Person AI Studio Actually Looks Like](https://dev.to/raxxostudios/what-running-a-one-person-ai-studio-actually-looks-like-mm8)
+- [LINUX AS THE NERVOUS SYSTEM OF DATA ENGINEERING](https://dev.to/cnew_aerospace_85c7b7d3cb/linux-as-the-nervous-system-of-data-engineering-12hk)
 <!-- BLOG-POST-LIST:END -->
 
