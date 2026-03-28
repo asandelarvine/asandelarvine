@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Monitoring Past Performance vs. Alerting Real-Time Issues: What React Teams Are Missing](https://dev.to/nosyos/monitoring-past-performance-vs-alerting-real-time-issues-what-react-teams-are-missing-hdc)
-- [I Built a Netflix-Style AI App to Study AWS &lpar;And It Actually Works&rpar;](https://dev.to/davidkljajo/i-built-a-netflix-style-ai-aws-saa-coach-using-partyrock-14cf)
-- [GDPR for Recruitment Agencies: Candidate CVs, Talent Pools and Retention Schedules](https://dev.to/custodiaadmin/gdpr-for-recruitment-agencies-candidate-cvs-talent-pools-and-retention-schedules-2ila)
-- [How to Fix CORS Errors in Your Frontend App Using a Proxy Server](https://dev.to/0xdezman/how-to-fix-cors-errors-in-your-frontend-app-using-a-proxy-server-5h65)
+- [7 Mac Apps Built for Apple Silicon That Every Developer Should Try in 2026](https://dev.to/godnick/7-mac-apps-built-for-apple-silicon-that-every-developer-should-try-in-2026-2e4p)
+- [📦 I Built 3 Astro Integrations and Shipped Them to npm — Here&#39;s What They Do](https://dev.to/shiftescape/i-built-3-astro-integrations-and-shipped-them-to-npm-heres-what-they-do-1873)
+- [How I built my portfolio with React + TypeScript &lpar;Lighthouse 97/100&rpar;](https://dev.to/dorbindevfrlncr/how-i-built-my-portfolio-with-react-typescript-lighthouse-97100-5843)
+- [Video Ads for Elementor, Managing Pre-Roll Campaigns at Scale](https://dev.to/nexuwp/video-ads-for-elementor-managing-pre-roll-campaigns-at-scale-b0e)
 <!-- BLOG-POST-LIST:END -->
 
