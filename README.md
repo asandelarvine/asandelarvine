@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a free image to PDF converter that works offline - no upload, privacy focused](https://dev.to/xyrox1/i-built-a-free-image-to-pdf-converter-that-works-offline-no-upload-privacy-focused-2o88)
-- [How I Reverse-Lookup M-Pesa&#39;s Hashed Phone Numbers Using a 7.2 GB Binary File and One S3 Request](https://dev.to/endafk/how-i-reverse-lookup-m-pesas-hashed-phone-numbers-using-a-72-gb-binary-file-and-one-s3-request-mk7)
-- [Why I stopped building &quot;projects&quot; and started building &quot;products.&quot;](https://dev.to/shah_1dc539e440e1c97/why-i-stopped-building-projects-and-started-building-products-5dh)
-- [I Built a Kubernetes Monitoring Stack — And Breaking It Was the Best Part](https://dev.to/adil-khan-723/i-built-a-kubernetes-monitoring-stack-and-breaking-it-was-the-best-part-1lba)
+- [Web Scraping API Pricing Compared: Cut Costs 90%](https://dev.to/alterlab/web-scraping-api-pricing-compared-cut-costs-90-3g3)
+- [Structured Logging in Go with slog for Observability and Alerting](https://dev.to/rosgluk/structured-logging-in-go-with-slog-for-observability-and-alerting-3fnm)
+- [OBSIDIAN Neural — quand l&#39;IA devient un instrument de scène](https://dev.to/innermost_47/obsidian-neural-quand-lia-devient-un-instrument-de-scene-59l0)
+- [Why Your Terminal is the Worst Place to Debug AI Agents](https://dev.to/tacit_71799acf6d056b5155c/why-your-terminal-is-the-worst-place-to-debug-ai-agents-5h6g)
 <!-- BLOG-POST-LIST:END -->
 
