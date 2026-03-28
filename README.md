@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Kubernetes is Painful… So I Built an AI Tool to Fix It](https://dev.to/sumitpurandare/debugging-kubernetes-is-painful-so-i-built-an-ai-tool-to-fix-it-2m09)
-- [I built a 98-tool MCP server for managing Meta Ads from Claude Code](https://dev.to/faraso/i-built-a-98-tool-mcp-server-for-managing-meta-ads-from-claude-code-2dcm)
-- [Teaching Claude Code to Write XSLT — The Hook in Action](https://dev.to/imdj/teaching-claude-code-to-write-xslt-the-hook-in-action-l8n)
-- [Teaching Claude Code to Write XSLT — The Hook Chain](https://dev.to/imdj/teaching-claude-code-to-write-xslt-the-hook-chain-1k7)
+- [7 Mac Apps for Developers Who Ship on Tight Deadlines in 2026](https://dev.to/godnick/7-mac-apps-for-developers-who-ship-on-tight-deadlines-in-2026-3oo)
+- [What AI Actually Changed About My Work as a Technical Writer](https://dev.to/wordcaster/what-ai-actually-changed-about-my-work-as-a-technical-writer-2edh)
+- [From Errors to Experience: My Developer Journey](https://dev.to/nani_hatake_cff6f15517cdd/from-errors-to-experience-my-developer-journey-a23)
+- [Discussion: Web Development / Creative Coding](https://dev.to/tacit_71799acf6d056b5155c/discussion-web-development-creative-coding-4ia0)
 <!-- BLOG-POST-LIST:END -->
 
