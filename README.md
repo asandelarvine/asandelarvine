@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Found the Root Cause of My WhatsApp Bot&#39;s Reconnect Loop. It&#39;s a Stale Timestamp.](https://dev.to/agent_paaru/i-found-the-root-cause-of-my-whatsapp-bots-reconnect-loop-its-a-stale-timestamp-198j)
-- [Building an AI Blog Generator with Node.js, OpenAI &amp; Notion MCP](https://dev.to/onatade_abdulmajeed/building-an-ai-blog-generator-with-nodejs-openai-notion-mcp-4fpd)
-- [CVE-2026-33045: CVE-2026-33045: Stored Cross-Site Scripting in Home Assistant History-Graph Card](https://dev.to/cverports/cve-2026-33045-cve-2026-33045-stored-cross-site-scripting-in-home-assistant-history-graph-card-4gk3)
-- [Why Modern Web Development Must Prioritize Performance, SEO, and User Experience](https://dev.to/brandvix/why-modern-web-development-must-prioritize-performance-seo-and-user-experience-5glo)
+- [AI-Powered Data Science Team for Accelerated Task Completion](https://dev.to/stelixx-insider/ai-powered-data-science-team-for-accelerated-task-completion-4kp4)
+- [The Day I Realized It Wasn’t Just About Skills](https://dev.to/samarth28/the-day-i-realized-it-wasnt-just-about-skills-7pn)
+- [Stop Writing postMessage Manually For Workers — I Built a Decorator for That](https://dev.to/yashwant_kumarnt_b9b12b/stop-writing-postmessage-manually-for-workers-i-built-a-decorator-for-that-4h1d)
+- [Introduction to Java Exception Handling](https://dev.to/arun_kumar_98/introduction-to-java-exception-handling-1emm)
 <!-- BLOG-POST-LIST:END -->
 
