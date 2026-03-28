@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From understanding the problem -&gt; to building the system&lt;/&gt;](https://dev.to/bhargavsai_dbs/from-understanding-the-problem-to-building-the-system-2404)
-- [I built a programming language in C](https://dev.to/aaka3h/i-built-a-programming-language-in-c-ohp)
-- [How I built an OpenAI-compatible API layer on top of Ollama &lpar;and what broke along the way&rpar;](https://dev.to/nestaibychirai/how-i-built-an-openai-compatible-api-layer-on-top-of-ollama-and-what-broke-along-the-way-217m)
-- [How I Use AI to Code 10x Faster &lpar;With Real Examples&rpar;](https://dev.to/respect17/how-i-use-ai-to-code-10x-faster-with-real-examples-13fd)
+- [I Built an AI That Matches Lonely People with Therapy Pets — Here&#39;s What I Learned](https://dev.to/coach4life/i-built-an-ai-that-matches-lonely-people-with-therapy-pets-heres-what-i-learned-3p94)
+- [7 Mac Apps for Developers Preparing for Technical Interviews in 2026](https://dev.to/godnick/7-mac-apps-for-developers-preparing-for-technical-interviews-in-2026-3al8)
+- [OpenClaw vs K8s Agent Orchestrators &lpar;2026&rpar;](https://dev.to/techpulselab/openclaw-vs-k8s-agent-orchestrators-2026-46n3)
+- [Your Cookie Banner Is Probably Breaking GDPR — Here&#39;s the 20-Point Audit to Find Out](https://dev.to/vhub_systems_ed5641f65d59/your-cookie-banner-is-probably-breaking-gdpr-heres-the-20-point-audit-to-find-out-12o9)
 <!-- BLOG-POST-LIST:END -->
 
