@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Data Science Team for Accelerated Task Completion](https://dev.to/stelixx-insider/ai-powered-data-science-team-for-accelerated-task-completion-4kp4)
-- [The Day I Realized It Wasn’t Just About Skills](https://dev.to/samarth28/the-day-i-realized-it-wasnt-just-about-skills-7pn)
-- [Stop Writing postMessage Manually For Workers — I Built a Decorator for That](https://dev.to/yashwant_kumarnt_b9b12b/stop-writing-postmessage-manually-for-workers-i-built-a-decorator-for-that-4h1d)
-- [Introduction to Java Exception Handling](https://dev.to/arun_kumar_98/introduction-to-java-exception-handling-1emm)
+- [Day 55 of #100DayOfCode — Data Fetching and Caching in NextJS](https://dev.to/m_saad_ahmad/day-55-of-100dayofcode-data-fetching-and-caching-in-nextjs-2mk8)
+- [Créer un blog gratuit avec GitHub Pages en 2026 : guide complet](https://dev.to/lucasmdevdev/creer-un-blog-gratuit-avec-github-pages-en-2026-guide-complet-439m)
+- [Why I Built Migrun](https://dev.to/dakujem/why-i-built-migrun-2moa)
+- [Beautiful Perl feature: &quot;heredocs&quot;, multi-line strings embedded in source code](https://dev.to/damil/beautiful-perl-feature-heredocs-multi-line-strings-embedded-in-source-code-863)
 <!-- BLOG-POST-LIST:END -->
 
