@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Most AI Cold Emails Go to Spam &lpar;And How to Fix It&rpar;](https://dev.to/the1stlink/why-most-ai-cold-emails-go-to-spam-and-how-to-fix-it-5dbn)
-- [Automating Cross-Posting with Attributed Unsplash Cover Images](https://dev.to/krizekster/automating-cross-posting-with-attributed-unsplash-cover-images-21m2)
-- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/derickmenje/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-22ia)
-- [Semantic Caching for LLMs: Faster Responses, Lower Costs](https://dev.to/derrickpedranti/semantic-caching-for-llms-faster-responses-lower-costs-81e)
+- [Vim Isn&#39;t an Editor. It&#39;s a Language.](https://dev.to/neuraldownload/vim-isnt-an-editor-its-a-language-43le)
+- [AWS PrivateLink - VPC Endpoints: Gateway vs Interface para acceso a Amazon S3 &lpar;en español sencillo&rpar; - Parte 2](https://dev.to/pangoro24/aws-privatelink-vpc-endpoints-gateway-vs-interface-para-acceso-a-amazon-s3-en-espanol-sencillo-4e8c)
+- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/brian_munene_5aa68baf9e47/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-5a33)
+- [How to Recover from a Corrupted Git Repository](https://dev.to/alanwest/how-to-recover-from-a-corrupted-git-repository-22oc)
 <!-- BLOG-POST-LIST:END -->
 
