@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents on Polymarket: Automated Prediction Market Trading](https://dev.to/walletguy/ai-agents-on-polymarket-automated-prediction-market-trading-4p08)
-- [From Pixels to Payload Part 2: DLL Search Order Hijacking via explorer.exe](https://dev.to/yuribe/from-pixels-to-payload-part-2-dll-search-order-hijacking-via-explorerexe-2dln)
-- [How I Got 149 Pages Indexed in 27 Days With a New Domain](https://dev.to/relahconvert/how-i-got-149-pages-indexed-in-27-days-with-a-new-domain-17pp)
-- [Best AI Code Review Tools for Pull Requests in 2026](https://dev.to/rahulxsingh/best-ai-code-review-tools-for-pull-requests-in-2026-2n4p)
+- [I Built an Andean Medicinal Plant Identifier That Uses Traditional Knowledge + Modern Data](https://dev.to/botanica_andina/i-built-an-andean-medicinal-plant-identifier-that-uses-traditional-knowledge-modern-data-244i)
+- [Can AI Exit Vim?](https://dev.to/minimal-architect/can-ai-exit-vim-16o6)
+- [Beyond the Hype: Building a Practical AI Memory System with Vector Databases](https://dev.to/midas126/beyond-the-hype-building-a-practical-ai-memory-system-with-vector-databases-5hba)
+- [7 Mac Apps for Developers Who Self-Host Everything in 2026](https://dev.to/godnick/7-mac-apps-for-developers-who-self-host-everything-in-2026-59fh)
 <!-- BLOG-POST-LIST:END -->
 
