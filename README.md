@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Wasting Tokens: How MCP Servers Fix Context Window Problems](https://dev.to/aiqahacks/stop-wasting-tokens-how-mcp-servers-fix-context-window-problems-c61)
-- [Every backend developer has this headache 😩](https://dev.to/poojan69/every-backend-developer-has-this-headache-1983)
-- [Consistency boundaries in SQL vs. MongoDB](https://dev.to/franckpachot/consistency-boundaries-in-sql-vs-mongodb-54dm)
-- [not-claw: A Personal AI Agent That Lives in Telegram and Thinks in Notion](https://dev.to/writerviber/not-claw-a-personal-ai-agent-that-lives-in-telegram-and-thinks-in-notion-2cla)
+- [Understanding Data Modelling in Power BI: Joins, Relationships and Schemas Explained.](https://dev.to/gabriel_njoroge_5be6652c3/understanding-data-modelling-in-power-bi-joins-relationships-and-schemas-explained-29g5)
+- [10 Things You Can Do With Vercel MCP Server](https://dev.to/rupa_tiwari_dd308948d710f/10-things-you-can-do-with-vercel-mcp-server-1c9j)
+- [What Cursor&#39;s 8GB Storage Bloat Teaches Us About Claude Code&#39;s Clean Architecture](https://dev.to/gentic_news/what-cursors-8gb-storage-bloat-teaches-us-about-claude-codes-clean-architecture-5173)
+- [I Gave Claude Access to Data on All 54 African Countries. Here&#39;s How.](https://dev.to/youngbobby/i-gave-claude-access-to-data-on-all-54-african-countries-heres-how-1oeo)
 <!-- BLOG-POST-LIST:END -->
 
