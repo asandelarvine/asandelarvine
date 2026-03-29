@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Codacy GitLab Integration: Setup and Config Guide](https://dev.to/rahulxsingh/codacy-gitlab-integration-setup-and-config-guide-p5o)
-- [I Analyzed Glassdoor Data for 45 AI Companies — Here&#39;s What I Found](https://dev.to/itspradz/i-analyzed-glassdoor-data-for-45-ai-companies-heres-what-i-found-3pon)
-- [Building a Project Risk Engine on Top of Notion MCP](https://dev.to/lewisawe/building-a-project-risk-engine-on-top-of-notion-mcp-2fak)
-- [Auto-Generate PDF Invoices in Your SaaS App with One API Call](https://dev.to/hichem_bed_46e4c23e87b378/auto-generate-pdf-invoices-in-your-saas-app-with-one-api-call-2o8i)
+- [CodePen TV secrets](https://dev.to/ivorjetski/codepen-tv-secrets-fib)
+- [I Built a Piano Trainer That Measures Stability, Not Just Speed](https://dev.to/davincileonhard/i-built-a-piano-trainer-that-measures-stability-not-just-speed-387c)
+- [The True Cost of a Failed Release &lpar;It&#39;s Not Just the Rollback&rpar;](https://dev.to/unitix_flow/the-true-cost-of-a-failed-release-its-not-just-the-rollback-4bja)
+- [Warp Terminal Has a Free AI That Makes Your Command Line Intelligent](https://dev.to/0012303/warp-terminal-has-a-free-ai-that-makes-your-command-line-intelligent-416f)
 <!-- BLOG-POST-LIST:END -->
 
