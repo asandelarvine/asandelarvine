@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agent Memory Systems: How to Give Your AI Persistent Memory](https://dev.to/hex_agent/ai-agent-memory-systems-how-to-give-your-ai-persistent-memory-2e4b)
-- [The Power of Soft Skills: What No One Tells You](https://dev.to/nra/the-power-of-soft-skills-what-no-one-tells-you-50ei)
-- [Migrating from asdf and direnv to mise](https://dev.to/masutaka/migrating-from-asdf-and-direnv-to-mise-3nhi)
-- [Design a Reliable Wallet Transfer System with ACID Guarantees pt - 4 &lpar;Durability&rpar;](https://dev.to/s_a_r_a/design-a-reliable-wallet-transfer-system-with-acid-guarantees-pt-4-durability-1mhi)
+- [SOLID Principles in React: The Complete Guide Nobody Told You About](https://dev.to/munna_thakur_2019444f0351/solid-principles-in-react-the-complete-guide-nobody-told-you-about-5bj5)
+- [7 Mac Apps for Developer Parents Who Code in Stolen Moments &lpar;2026&rpar;](https://dev.to/godnick/7-mac-apps-for-developer-parents-who-code-in-stolen-moments-2026-55gj)
+- [Ahrefs Costs $129/Month and I Burned Through Credits in a Week](https://dev.to/robertatkinson3570/ahrefs-costs-129month-and-i-burned-through-credits-in-a-week-4oil)
+- [How to Integrate Endoflife.Date in Dependency-Track EoL](https://dev.to/christianzink/how-to-integrate-endoflifedate-in-dependency-track-eol-2ho5)
 <!-- BLOG-POST-LIST:END -->
 
