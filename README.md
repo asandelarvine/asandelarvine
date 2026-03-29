@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix OpenClaw Cron Jobs That Go Silent on Weekends](https://dev.to/anicca_301094325e/how-to-fix-openclaw-cron-jobs-that-go-silent-on-weekends-50df)
-- [How to Build a React App from Scratch That Doesn&#39;t Fall Apart in 6 Months - Scalable, Performant, Secure, and Testable](https://dev.to/anisubhra_sarkar/how-to-build-a-react-app-from-scratch-that-doesnt-fall-apart-in-6-months-scalable-performant-46gd)
-- [Zod Has a Free Validation Library: TypeScript-First Schema Validation With Zero Dependencies](https://dev.to/0012303/zod-has-a-free-validation-library-typescript-first-schema-validation-with-zero-dependencies-4fd5)
-- [Your Local LLM Just Learned to Think: Building an Autonomous ReAct Agent with Ollama + MCP](https://dev.to/tsunamayo7/your-local-llm-just-learned-to-think-building-an-autonomous-react-agent-with-ollama-mcp-44ln)
+- [Durablity](https://dev.to/abirami_prabhakar/durablity-pi9)
+- [i was burning a ton of tokens on silly stuff](https://dev.to/nalalou/i-was-burning-a-ton-of-tokens-on-silly-stuff-od)
+- [Star Wars sliding text animation](https://dev.to/preetha_vaishnavi_2b82358/star-wars-sliding-text-animation-4cbe)
+- [How I built a browser-based n8n workflow generator using Gemini AI](https://dev.to/toolforgeio/how-i-built-a-browser-based-n8n-workflow-generator-using-gemini-ai-5c3n)
 <!-- BLOG-POST-LIST:END -->
 
