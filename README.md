@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Durablity](https://dev.to/abirami_prabhakar/durablity-pi9)
-- [i was burning a ton of tokens on silly stuff](https://dev.to/nalalou/i-was-burning-a-ton-of-tokens-on-silly-stuff-od)
-- [Star Wars sliding text animation](https://dev.to/preetha_vaishnavi_2b82358/star-wars-sliding-text-animation-4cbe)
-- [How I built a browser-based n8n workflow generator using Gemini AI](https://dev.to/toolforgeio/how-i-built-a-browser-based-n8n-workflow-generator-using-gemini-ai-5c3n)
+- [Scaling React List to 100K Items](https://dev.to/viswas_saripalli/scaling-react-list-to-100k-items-466o)
+- [zerompk: The Fastest MessagePack Implementation for Rust and Its Optimization Techniques](https://dev.to/nuskey8/zerompk-the-fastest-messagepack-implementation-for-rust-and-its-optimization-techniques-7e4)
+- [From RAG to a “memory layer”: what building an AI assistant taught us](https://dev.to/christian_alexandernonis/from-rag-to-a-memory-layer-what-building-an-ai-assistant-taught-us-4efm)
+- [Stop Wasting Tokens: Building Deterministic Custom Agents with Google ADK [GDE]](https://dev.to/gde/stop-wasting-tokens-building-deterministic-custom-agents-with-google-adk-gde-56ck)
 <!-- BLOG-POST-LIST:END -->
 
