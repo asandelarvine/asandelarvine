@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Self-Hosting Stripe Anomaly Detection: Building a Multi-Tenant BillingWatch with FastAPI&quot;](https://dev.to/qcautomation/self-hosting-stripe-anomaly-detection-building-a-multi-tenant-billingwatch-with-fastapi-22ef)
-- [&quot;How I Built an Overnight Strategy Tournament System for Algorithmic Paper Trading&quot;](https://dev.to/qcautomation/how-i-built-an-overnight-strategy-tournament-system-for-algorithmic-paper-trading-34op)
-- [AxKeyStore: A Zero-Trust CLI for Managing Secrets Using GitHub as Your Backend](https://dev.to/robin_a_p/axkeystore-a-zero-trust-cli-for-managing-secrets-using-github-as-your-backend-e0m)
-- [Getting Started with Seal Report: Applying Dependant Filters](https://dev.to/vladg_dev/getting-started-with-seal-report-applying-dependant-filters-3j7a)
+- [How I Reimplemented LÖVE2D in Rust to Play Balatro in a Terminal](https://dev.to/4rh1t3ct0r/how-i-reimplemented-love2d-in-rust-to-play-balatro-in-a-terminal-2ag2)
+- [Building a Daily Chinese Diary Habit with Notion MCP + Claude](https://dev.to/enoki85/building-a-daily-chinese-diary-habit-with-notion-mcp-claude-l3n)
+- [Fast Domain Adaptation for Neural Machine Translation](https://dev.to/paperium/fast-domain-adaptation-for-neural-machine-translation-40ja)
+- [Web Developer Travis McCracken on API Gateway Design with Rust and Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-api-gateway-design-with-rust-and-go-ncp)
 <!-- BLOG-POST-LIST:END -->
 
