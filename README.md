@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vim Isn&#39;t an Editor. It&#39;s a Language.](https://dev.to/neuraldownload/vim-isnt-an-editor-its-a-language-43le)
-- [AWS PrivateLink - VPC Endpoints: Gateway vs Interface para acceso a Amazon S3 &lpar;en español sencillo&rpar; - Parte 2](https://dev.to/pangoro24/aws-privatelink-vpc-endpoints-gateway-vs-interface-para-acceso-a-amazon-s3-en-espanol-sencillo-4e8c)
-- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/brian_munene_5aa68baf9e47/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-5a33)
-- [How to Recover from a Corrupted Git Repository](https://dev.to/alanwest/how-to-recover-from-a-corrupted-git-repository-22oc)
+- [Codacy GitLab Integration: Setup and Config Guide](https://dev.to/rahulxsingh/codacy-gitlab-integration-setup-and-config-guide-p5o)
+- [I Analyzed Glassdoor Data for 45 AI Companies — Here&#39;s What I Found](https://dev.to/itspradz/i-analyzed-glassdoor-data-for-45-ai-companies-heres-what-i-found-3pon)
+- [Building a Project Risk Engine on Top of Notion MCP](https://dev.to/lewisawe/building-a-project-risk-engine-on-top-of-notion-mcp-2fak)
+- [Auto-Generate PDF Invoices in Your SaaS App with One API Call](https://dev.to/hichem_bed_46e4c23e87b378/auto-generate-pdf-invoices-in-your-saas-app-with-one-api-call-2o8i)
 <!-- BLOG-POST-LIST:END -->
 
