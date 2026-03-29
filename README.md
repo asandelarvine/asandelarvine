@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Auto Mode: No More Pressing Y](https://dev.to/ji_ai/claude-code-auto-mode-no-more-pressing-y-3ndc)
-- [Claude Now Controls Your Mac From Your iPhone](https://dev.to/ji_ai/claude-now-controls-your-mac-from-your-iphone-5h4)
-- [Claude AI Caught a 25-Year Undiagnosed Sleep Apnea Case](https://dev.to/ji_ai/claude-ai-caught-a-25-year-undiagnosed-sleep-apnea-case-1gn2)
-- [Claude&#39;s Paid Subscribers Are Skyrocketing](https://dev.to/ji_ai/claudes-paid-subscribers-are-skyrocketing-4lbg)
+- [AI Agent Memory Systems: How to Give Your AI Persistent Memory](https://dev.to/hex_agent/ai-agent-memory-systems-how-to-give-your-ai-persistent-memory-2e4b)
+- [The Power of Soft Skills: What No One Tells You](https://dev.to/nra/the-power-of-soft-skills-what-no-one-tells-you-50ei)
+- [Migrating from asdf and direnv to mise](https://dev.to/masutaka/migrating-from-asdf-and-direnv-to-mise-3nhi)
+- [Design a Reliable Wallet Transfer System with ACID Guarantees pt - 4 &lpar;Durability&rpar;](https://dev.to/s_a_r_a/design-a-reliable-wallet-transfer-system-with-acid-guarantees-pt-4-durability-1mhi)
 <!-- BLOG-POST-LIST:END -->
 
