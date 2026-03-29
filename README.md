@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Andean Medicinal Plant Identifier That Uses Traditional Knowledge + Modern Data](https://dev.to/botanica_andina/i-built-an-andean-medicinal-plant-identifier-that-uses-traditional-knowledge-modern-data-244i)
-- [Can AI Exit Vim?](https://dev.to/minimal-architect/can-ai-exit-vim-16o6)
-- [Beyond the Hype: Building a Practical AI Memory System with Vector Databases](https://dev.to/midas126/beyond-the-hype-building-a-practical-ai-memory-system-with-vector-databases-5hba)
-- [7 Mac Apps for Developers Who Self-Host Everything in 2026](https://dev.to/godnick/7-mac-apps-for-developers-who-self-host-everything-in-2026-59fh)
+- [I Let OpenClaw Build a Web App From Scratch - It Even Created the PayPal Plan](https://dev.to/juveni_jah_6ed48b472d2647/i-let-openclaw-build-a-web-app-from-scratch-it-even-created-the-paypal-plan-373n)
+- [Stop Googling for Symbols: How I Built a Lightning-Fast Unicode Search Tool](https://dev.to/getinfotoyou/stop-googling-for-symbols-how-i-built-a-lightning-fast-unicode-search-tool-4n8e)
+- [Exploring Feature Distributions from Pedestrian Trajectories](https://dev.to/bonebasket_a3284c91925b56/exploring-feature-distributions-from-pedestrian-trajectories-3636)
+- [Guide to when there will be layoffs where you work](https://dev.to/objective_entropy/guide-to-when-there-will-be-layoffs-where-you-work-36hm)
 <!-- BLOG-POST-LIST:END -->
 
