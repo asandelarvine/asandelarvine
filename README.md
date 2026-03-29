@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling React List to 100K Items](https://dev.to/viswas_saripalli/scaling-react-list-to-100k-items-466o)
-- [zerompk: The Fastest MessagePack Implementation for Rust and Its Optimization Techniques](https://dev.to/nuskey8/zerompk-the-fastest-messagepack-implementation-for-rust-and-its-optimization-techniques-7e4)
-- [From RAG to a “memory layer”: what building an AI assistant taught us](https://dev.to/christian_alexandernonis/from-rag-to-a-memory-layer-what-building-an-ai-assistant-taught-us-4efm)
-- [Stop Wasting Tokens: Building Deterministic Custom Agents with Google ADK [GDE]](https://dev.to/gde/stop-wasting-tokens-building-deterministic-custom-agents-with-google-adk-gde-56ck)
+- [Stop Wasting Tokens: How MCP Servers Fix Context Window Problems](https://dev.to/aiqahacks/stop-wasting-tokens-how-mcp-servers-fix-context-window-problems-c61)
+- [Every backend developer has this headache 😩](https://dev.to/poojan69/every-backend-developer-has-this-headache-1983)
+- [Consistency boundaries in SQL vs. MongoDB](https://dev.to/franckpachot/consistency-boundaries-in-sql-vs-mongodb-54dm)
+- [not-claw: A Personal AI Agent That Lives in Telegram and Thinks in Notion](https://dev.to/writerviber/not-claw-a-personal-ai-agent-that-lives-in-telegram-and-thinks-in-notion-2cla)
 <!-- BLOG-POST-LIST:END -->
 
