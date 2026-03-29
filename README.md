@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Give Your AI Agent Real-Time Shipping Intelligence in 2 Minutes](https://dev.to/vinaybhosle/give-your-ai-agent-real-time-shipping-intelligence-in-2-minutes-1bo8)
-- [The Trust Layer Nobody Built: Why AI Agents Need Verification Before They Can Spend](https://dev.to/o96a/the-trust-layer-nobody-built-why-ai-agents-need-verification-before-they-can-spend-4e4k)
-- [Developer Productivity in the Age of AI](https://dev.to/recursivecube44/developer-productivity-in-the-age-of-ai-1ff6)
-- [I Built an AI Product Description Generator with Compliance Checking for Japanese E-commerce](https://dev.to/miccho27/i-built-an-ai-product-description-generator-with-compliance-checking-for-japanese-e-commerce-1gie)
+- [Why Most AI Cold Emails Go to Spam &lpar;And How to Fix It&rpar;](https://dev.to/the1stlink/why-most-ai-cold-emails-go-to-spam-and-how-to-fix-it-5dbn)
+- [Automating Cross-Posting with Attributed Unsplash Cover Images](https://dev.to/krizekster/automating-cross-posting-with-attributed-unsplash-cover-images-21m2)
+- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/derickmenje/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-22ia)
+- [Semantic Caching for LLMs: Faster Responses, Lower Costs](https://dev.to/derrickpedranti/semantic-caching-for-llms-faster-responses-lower-costs-81e)
 <!-- BLOG-POST-LIST:END -->
 
