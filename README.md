@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging in Java: Practice with 10 Errors in a Simple Program](https://dev.to/harini_magesh_fa40041cf8d/debugging-in-java-practice-with-10-errors-in-a-simple-program-2bln)
-- [Cron is the codebase: automation as infrastructure philosophy](https://dev.to/jmolinasoler/cron-is-the-codebase-automation-as-infrastructure-philosophy-2p2b)
-- [LLM APIs for AI Agents: Anthropic vs OpenAI vs Google AI &lpar;AN Score Data&rpar;](https://dev.to/supertrained/llm-apis-for-ai-agents-anthropic-vs-openai-vs-google-ai-an-score-data-3e1j)
-- [Talent Oversupply: How Less Prestigious Firms Can Attract Top-Tier Candidates Amid Economic Shifts](https://dev.to/svetlix/talent-oversupply-how-less-prestigious-firms-can-attract-top-tier-candidates-amid-economic-shifts-34g5)
+- [Claude Code Auto Mode: No More Pressing Y](https://dev.to/ji_ai/claude-code-auto-mode-no-more-pressing-y-3ndc)
+- [Claude Now Controls Your Mac From Your iPhone](https://dev.to/ji_ai/claude-now-controls-your-mac-from-your-iphone-5h4)
+- [Claude AI Caught a 25-Year Undiagnosed Sleep Apnea Case](https://dev.to/ji_ai/claude-ai-caught-a-25-year-undiagnosed-sleep-apnea-case-1gn2)
+- [Claude&#39;s Paid Subscribers Are Skyrocketing](https://dev.to/ji_ai/claudes-paid-subscribers-are-skyrocketing-4lbg)
 <!-- BLOG-POST-LIST:END -->
 
