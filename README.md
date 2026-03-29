@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SOLID Principles in React: The Complete Guide Nobody Told You About](https://dev.to/munna_thakur_2019444f0351/solid-principles-in-react-the-complete-guide-nobody-told-you-about-5bj5)
-- [7 Mac Apps for Developer Parents Who Code in Stolen Moments &lpar;2026&rpar;](https://dev.to/godnick/7-mac-apps-for-developer-parents-who-code-in-stolen-moments-2026-55gj)
-- [Ahrefs Costs $129/Month and I Burned Through Credits in a Week](https://dev.to/robertatkinson3570/ahrefs-costs-129month-and-i-burned-through-credits-in-a-week-4oil)
-- [How to Integrate Endoflife.Date in Dependency-Track EoL](https://dev.to/christianzink/how-to-integrate-endoflifedate-in-dependency-track-eol-2ho5)
+- [&quot;Self-Hosting Stripe Anomaly Detection: Building a Multi-Tenant BillingWatch with FastAPI&quot;](https://dev.to/qcautomation/self-hosting-stripe-anomaly-detection-building-a-multi-tenant-billingwatch-with-fastapi-22ef)
+- [&quot;How I Built an Overnight Strategy Tournament System for Algorithmic Paper Trading&quot;](https://dev.to/qcautomation/how-i-built-an-overnight-strategy-tournament-system-for-algorithmic-paper-trading-34op)
+- [AxKeyStore: A Zero-Trust CLI for Managing Secrets Using GitHub as Your Backend](https://dev.to/robin_a_p/axkeystore-a-zero-trust-cli-for-managing-secrets-using-github-as-your-backend-e0m)
+- [Getting Started with Seal Report: Applying Dependant Filters](https://dev.to/vladg_dev/getting-started-with-seal-report-applying-dependant-filters-3j7a)
 <!-- BLOG-POST-LIST:END -->
 
