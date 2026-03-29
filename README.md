@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Let OpenClaw Build a Web App From Scratch - It Even Created the PayPal Plan](https://dev.to/juveni_jah_6ed48b472d2647/i-let-openclaw-build-a-web-app-from-scratch-it-even-created-the-paypal-plan-373n)
-- [Stop Googling for Symbols: How I Built a Lightning-Fast Unicode Search Tool](https://dev.to/getinfotoyou/stop-googling-for-symbols-how-i-built-a-lightning-fast-unicode-search-tool-4n8e)
-- [Exploring Feature Distributions from Pedestrian Trajectories](https://dev.to/bonebasket_a3284c91925b56/exploring-feature-distributions-from-pedestrian-trajectories-3636)
-- [Guide to when there will be layoffs where you work](https://dev.to/objective_entropy/guide-to-when-there-will-be-layoffs-where-you-work-36hm)
+- [Debugging in Java: Practice with 10 Errors in a Simple Program](https://dev.to/harini_magesh_fa40041cf8d/debugging-in-java-practice-with-10-errors-in-a-simple-program-2bln)
+- [Cron is the codebase: automation as infrastructure philosophy](https://dev.to/jmolinasoler/cron-is-the-codebase-automation-as-infrastructure-philosophy-2p2b)
+- [LLM APIs for AI Agents: Anthropic vs OpenAI vs Google AI &lpar;AN Score Data&rpar;](https://dev.to/supertrained/llm-apis-for-ai-agents-anthropic-vs-openai-vs-google-ai-an-score-data-3e1j)
+- [Talent Oversupply: How Less Prestigious Firms Can Attract Top-Tier Candidates Amid Economic Shifts](https://dev.to/svetlix/talent-oversupply-how-less-prestigious-firms-can-attract-top-tier-candidates-amid-economic-shifts-34g5)
 <!-- BLOG-POST-LIST:END -->
 
