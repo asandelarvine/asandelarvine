@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Linux is Used in Real-World Data Engineering](https://dev.to/wambuijoan/how-linux-is-used-in-real-world-data-engineering-451p)
-- [I Tested GPT-5.4 vs Claude Opus 4.6 vs Gemini 3.1 Pro on 5 Real Coding Tasks](https://dev.to/sean_2148a807e8325f444e21/i-tested-gpt-54-vs-claude-opus-46-vs-gemini-31-pro-on-5-real-coding-tasks-15ob)
-- [Recursion](https://dev.to/keerthigap/recursion-2d67)
-- [The Tiny AI Emotion Engine That Makes Your Companion Feel Alive &lpar;Meet DiEmo for LivinGrimoire&rpar;](https://dev.to/owly/the-tiny-ai-emotion-engine-that-makes-your-companion-feel-alive-meet-diemo-for-livingrimoire-2hmo)
+- [NexusTriage: Turning Notion into an Autonomous, Self-Healing System 🧠](https://dev.to/coph1a/nexustriage-turning-notion-into-an-autonomous-self-healing-system-5a3c)
+- [World Models Can Render Anything. But Can They Think?](https://dev.to/ai_openfree_b23025ef075cf/world-models-can-render-anything-but-can-they-think-3i9b)
+- [Decoding the Sandwich Attack: How MEV Bots Exploit Your On-Chain Trades](https://dev.to/alphecca/decoding-the-sandwich-attack-how-mev-bots-exploit-your-on-chain-trades-54oc)
+- [Testing React Components Without React: What Happens When Your AI Agent Can&#39;t Use jsdom](https://dev.to/tmdlrg/testing-react-components-without-react-what-happens-when-your-ai-agent-cant-use-jsdom-4j2)
 <!-- BLOG-POST-LIST:END -->
 
