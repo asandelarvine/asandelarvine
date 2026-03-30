@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to Crypto Hero &lpar;Week 4&rpar; - Week of Break from Coding and Big Regret](https://dev.to/luftietheanonymous/from-zero-to-crypto-hero-week-4-week-of-break-from-coding-and-big-regret-3ejn)
-- [ABAP Unit Testing in SAP S/4HANA: A Senior Architect&#39;s Guide to Writing Tests That Actually Matter](https://dev.to/oktay_a56a5e9cc26cc1df8fe/abap-unit-testing-in-sap-s4hana-a-senior-architects-guide-to-writing-tests-that-actually-matter-2816)
-- [Cosine Similarity vs Dot Product in Attention Mechanisms](https://dev.to/rijultp/cosine-similarity-vs-dot-product-in-attention-mechanisms-1m9h)
-- [Technical Leadership in SAP Projects: How Senior Architects Make Better Decisions Under Pressure](https://dev.to/oktay_a56a5e9cc26cc1df8fe/technical-leadership-in-sap-projects-how-senior-architects-make-better-decisions-under-pressure-4chi)
+- [This Week in AI Security: OpenAI Codex Hacked, LiteLLM Supply Chain Attack, Claude Gets Computer Control](https://dev.to/solobillions/this-week-in-ai-security-openai-codex-hacked-litellm-supply-chain-attack-claude-gets-computer-55gh)
+- [I automated competitor price tracking with Python &lpar;saved 4 hours per week&rpar;](https://dev.to/nicodev__/i-automated-competitor-price-tracking-with-python-saved-4-hours-per-week-34gi)
+- [Your AI Coding Agent Has Root Access to Your Machine. Does Anything Else?](https://dev.to/mrluke2/your-ai-coding-agent-has-root-access-to-your-machine-does-anything-else-3m5j)
+- [I built an AI wardrobe app by myself. Here&#39;s what actually happened.](https://dev.to/shubham030/i-built-an-ai-wardrobe-app-by-myself-heres-what-actually-happened-1dkd)
 <!-- BLOG-POST-LIST:END -->
 
