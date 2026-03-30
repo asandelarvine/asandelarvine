@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT-5.3-Codex vs. Claude Code: a comparison](https://dev.to/abtosoftware/gpt-53-codex-vs-claude-code-a-comparison-14i4)
-- [Open-Source MobileVC: Control Your AI Dev Workflow Fully on Phone &lpar;No CLI/SSH, Transparent vs Black-Box Agents&rpar;](https://dev.to/jaycrl/open-source-mobilevc-control-your-ai-dev-workflow-fully-on-phone-no-clissh-transparent-vs-39jc)
-- [The Hidden Cost of SaaS Free Trial Abuse &lpar;And How to Detect It&rpar;](https://dev.to/shuicici/the-hidden-cost-of-saas-free-trial-abuse-and-how-to-detect-it-598p)
-- [OpenClaw AI Agent Review: Does It Actually Cut Cognitive Load for Developers?](https://dev.to/marcus-reid-psych/openclaw-ai-agent-review-does-it-actually-cut-cognitive-load-for-developers-hdk)
+- [The Agent Loop: How 20 Lines of Swift Turn an API Client into a Coding Agent](https://dev.to/ivan_magda_8417a0295eb014/the-agent-loop-how-20-lines-of-swift-turn-an-api-client-into-a-coding-agent-4h5i)
+- [MagicAudio — clean your audio in seconds with AI](https://dev.to/magicaudio/magicaudio-a-small-tool-i-built-to-clean-up-audio-faster-48c0)
+- [Flexible Code Without Losing Type Safety with TS Generics](https://dev.to/jacobandrewsky/flexible-code-without-losing-type-safety-with-ts-generics-1pem)
+- [Philosophizing with an AI: consciousness, survival and entropy](https://dev.to/ohugonnot/philosophizing-with-an-ai-consciousness-survival-and-entropy-1cb3)
 <!-- BLOG-POST-LIST:END -->
 
