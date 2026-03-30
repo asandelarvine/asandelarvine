@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Agent Loop: How 20 Lines of Swift Turn an API Client into a Coding Agent](https://dev.to/ivan_magda_8417a0295eb014/the-agent-loop-how-20-lines-of-swift-turn-an-api-client-into-a-coding-agent-4h5i)
-- [MagicAudio — clean your audio in seconds with AI](https://dev.to/magicaudio/magicaudio-a-small-tool-i-built-to-clean-up-audio-faster-48c0)
-- [Flexible Code Without Losing Type Safety with TS Generics](https://dev.to/jacobandrewsky/flexible-code-without-losing-type-safety-with-ts-generics-1pem)
-- [Philosophizing with an AI: consciousness, survival and entropy](https://dev.to/ohugonnot/philosophizing-with-an-ai-consciousness-survival-and-entropy-1cb3)
+- [I built a Lighthouse for MCP tools — it scores your tool definitions on every PR](https://dev.to/imhiroki/i-built-a-lighthouse-for-mcp-tools-it-scores-your-tool-definitions-on-every-pr-26ec)
+- [Building a Hyperliquid Trading Bot: Perps, Spot, and Sub-Accounts](https://dev.to/walletguy/building-a-hyperliquid-trading-bot-perps-spot-and-sub-accounts-4lf6)
+- [Inside the Go Scheduler: How GMP Model Powers Millions of Goroutines](https://dev.to/debianbaker/inside-the-go-scheduler-how-gmp-model-powers-millions-of-goroutines-940)
+- [The Complete Guide to Data Structures in C: From Arrays to Hash Tables](https://dev.to/cosimos/the-complete-guide-to-data-structures-in-c-from-arrays-to-hash-tables-3gba)
 <!-- BLOG-POST-LIST:END -->
 
