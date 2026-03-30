@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Lighthouse for MCP tools — it scores your tool definitions on every PR](https://dev.to/imhiroki/i-built-a-lighthouse-for-mcp-tools-it-scores-your-tool-definitions-on-every-pr-26ec)
-- [Building a Hyperliquid Trading Bot: Perps, Spot, and Sub-Accounts](https://dev.to/walletguy/building-a-hyperliquid-trading-bot-perps-spot-and-sub-accounts-4lf6)
-- [Inside the Go Scheduler: How GMP Model Powers Millions of Goroutines](https://dev.to/debianbaker/inside-the-go-scheduler-how-gmp-model-powers-millions-of-goroutines-940)
-- [The Complete Guide to Data Structures in C: From Arrays to Hash Tables](https://dev.to/cosimos/the-complete-guide-to-data-structures-in-c-from-arrays-to-hash-tables-3gba)
+- [Proudly Found Elsewhere](https://dev.to/aws-builders/proudly-found-elsewhere-2fnl)
+- [AWS-native incident investigation PoC](https://dev.to/oded_keren/aws-native-incident-investigation-poc-6aj)
+- [One query is never enough: why top RAG systems search three times](https://dev.to/wiscale-fr/one-query-is-never-enough-why-top-rag-systems-search-three-times-55hj)
+- [We Trained a Skin analysis AI Model on Millions of Real Photos — What Actually Works in Production](https://dev.to/malkiel/we-trained-a-skin-analysis-ai-model-on-millions-of-real-photos-what-actually-works-in-production-4a80)
 <!-- BLOG-POST-LIST:END -->
 
