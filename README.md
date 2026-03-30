@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Proudly Found Elsewhere](https://dev.to/aws-builders/proudly-found-elsewhere-2fnl)
-- [AWS-native incident investigation PoC](https://dev.to/oded_keren/aws-native-incident-investigation-poc-6aj)
-- [One query is never enough: why top RAG systems search three times](https://dev.to/wiscale-fr/one-query-is-never-enough-why-top-rag-systems-search-three-times-55hj)
-- [We Trained a Skin analysis AI Model on Millions of Real Photos — What Actually Works in Production](https://dev.to/malkiel/we-trained-a-skin-analysis-ai-model-on-millions-of-real-photos-what-actually-works-in-production-4a80)
+- [How I Designed a Real-Time Dashboard Using Kafka, Socket.IO, and a BFF](https://dev.to/kaustubhalandkar/how-i-designed-a-real-time-dashboard-using-kafka-socketio-and-a-bff-4b8m)
+- [Lesson learned building AI](https://dev.to/ker2x/lesson-learned-building-ai-1ka5)
+- [AI Is Not Your Intern. And That’s the Problem.](https://dev.to/lewiskori/ai-is-not-your-intern-and-thats-the-problem-2ec9)
+- [What Building a Social Scheduler Taught Me About Reliability](https://dev.to/ashb4/what-building-a-social-scheduler-taught-me-about-reliability-4ff3)
 <!-- BLOG-POST-LIST:END -->
 
