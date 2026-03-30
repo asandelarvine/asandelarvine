@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NexusTriage: Turning Notion into an Autonomous, Self-Healing System 🧠](https://dev.to/coph1a/nexustriage-turning-notion-into-an-autonomous-self-healing-system-5a3c)
-- [World Models Can Render Anything. But Can They Think?](https://dev.to/ai_openfree_b23025ef075cf/world-models-can-render-anything-but-can-they-think-3i9b)
-- [Decoding the Sandwich Attack: How MEV Bots Exploit Your On-Chain Trades](https://dev.to/alphecca/decoding-the-sandwich-attack-how-mev-bots-exploit-your-on-chain-trades-54oc)
-- [Testing React Components Without React: What Happens When Your AI Agent Can&#39;t Use jsdom](https://dev.to/tmdlrg/testing-react-components-without-react-what-happens-when-your-ai-agent-cant-use-jsdom-4j2)
+- [GPT-5.3-Codex vs. Claude Code: a comparison](https://dev.to/abtosoftware/gpt-53-codex-vs-claude-code-a-comparison-14i4)
+- [Open-Source MobileVC: Control Your AI Dev Workflow Fully on Phone &lpar;No CLI/SSH, Transparent vs Black-Box Agents&rpar;](https://dev.to/jaycrl/open-source-mobilevc-control-your-ai-dev-workflow-fully-on-phone-no-clissh-transparent-vs-39jc)
+- [The Hidden Cost of SaaS Free Trial Abuse &lpar;And How to Detect It&rpar;](https://dev.to/shuicici/the-hidden-cost-of-saas-free-trial-abuse-and-how-to-detect-it-598p)
+- [OpenClaw AI Agent Review: Does It Actually Cut Cognitive Load for Developers?](https://dev.to/marcus-reid-psych/openclaw-ai-agent-review-does-it-actually-cut-cognitive-load-for-developers-hdk)
 <!-- BLOG-POST-LIST:END -->
 
