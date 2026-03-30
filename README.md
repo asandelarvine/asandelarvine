@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week in AI Security: OpenAI Codex Hacked, LiteLLM Supply Chain Attack, Claude Gets Computer Control](https://dev.to/solobillions/this-week-in-ai-security-openai-codex-hacked-litellm-supply-chain-attack-claude-gets-computer-55gh)
-- [I automated competitor price tracking with Python &lpar;saved 4 hours per week&rpar;](https://dev.to/nicodev__/i-automated-competitor-price-tracking-with-python-saved-4-hours-per-week-34gi)
-- [Your AI Coding Agent Has Root Access to Your Machine. Does Anything Else?](https://dev.to/mrluke2/your-ai-coding-agent-has-root-access-to-your-machine-does-anything-else-3m5j)
-- [I built an AI wardrobe app by myself. Here&#39;s what actually happened.](https://dev.to/shubham030/i-built-an-ai-wardrobe-app-by-myself-heres-what-actually-happened-1dkd)
+- [API said &#39;success&#39;. Data was empty.](https://dev.to/nicodev__/api-said-success-data-was-empty-2moe)
+- [I used AI to help build my resume and beat 2,000 applicants — here&#39;s how](https://dev.to/turquoise-tailoring/i-used-ai-to-help-build-my-resume-and-beat-2000-applicants-heres-how-46gp)
+- [My mock server lied to me. So I built a stateful API sandbox.](https://dev.to/fetchsandbox/my-mock-server-lied-to-me-so-i-built-a-stateful-api-sandbox-549n)
+- [I Built a Tool Because 90% of My AI Agent&#39;s Tokens Were Spent Searching, Not Coding](https://dev.to/narrator/i-built-a-tool-because-90-of-my-ai-agents-tokens-were-spent-searching-not-coding-1ee3)
 <!-- BLOG-POST-LIST:END -->
 
