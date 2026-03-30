@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Designed a Real-Time Dashboard Using Kafka, Socket.IO, and a BFF](https://dev.to/kaustubhalandkar/how-i-designed-a-real-time-dashboard-using-kafka-socketio-and-a-bff-4b8m)
-- [Lesson learned building AI](https://dev.to/ker2x/lesson-learned-building-ai-1ka5)
-- [AI Is Not Your Intern. And That’s the Problem.](https://dev.to/lewiskori/ai-is-not-your-intern-and-thats-the-problem-2ec9)
-- [What Building a Social Scheduler Taught Me About Reliability](https://dev.to/ashb4/what-building-a-social-scheduler-taught-me-about-reliability-4ff3)
+- [AnalogJS 2.4: Vite 8, Vitest Snapshot Serializers, Astro v6 Support, and more!](https://dev.to/analogjs/analogjs-24-vite-8-vitest-snapshot-serializers-astro-v6-support-and-more-3hgo)
+- [what if MCP servers had a Lighthouse-style security score?](https://dev.to/yedanyagamiaicmd/what-if-mcp-servers-had-a-lighthouse-style-security-score-35df)
+- [Does ramalama make AI boring?? Running AI models with Ramalama.](https://dev.to/njeri_kimaru/does-ramalama-make-ai-boring-running-ai-models-with-ramalama-2kml)
+- [I built a career intelligence platform for developers — LynCareer 🚀](https://dev.to/aiherrera/i-built-a-career-intelligence-platform-for-developers-lyncareer-1kb1)
 <!-- BLOG-POST-LIST:END -->
 
