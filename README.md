@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CodePen TV secrets](https://dev.to/ivorjetski/codepen-tv-secrets-fib)
-- [I Built a Piano Trainer That Measures Stability, Not Just Speed](https://dev.to/davincileonhard/i-built-a-piano-trainer-that-measures-stability-not-just-speed-387c)
-- [The True Cost of a Failed Release &lpar;It&#39;s Not Just the Rollback&rpar;](https://dev.to/unitix_flow/the-true-cost-of-a-failed-release-its-not-just-the-rollback-4bja)
-- [Warp Terminal Has a Free AI That Makes Your Command Line Intelligent](https://dev.to/0012303/warp-terminal-has-a-free-ai-that-makes-your-command-line-intelligent-416f)
+- [How Linux is Used in Real-World Data Engineering](https://dev.to/wambuijoan/how-linux-is-used-in-real-world-data-engineering-451p)
+- [I Tested GPT-5.4 vs Claude Opus 4.6 vs Gemini 3.1 Pro on 5 Real Coding Tasks](https://dev.to/sean_2148a807e8325f444e21/i-tested-gpt-54-vs-claude-opus-46-vs-gemini-31-pro-on-5-real-coding-tasks-15ob)
+- [Recursion](https://dev.to/keerthigap/recursion-2d67)
+- [The Tiny AI Emotion Engine That Makes Your Companion Feel Alive &lpar;Meet DiEmo for LivinGrimoire&rpar;](https://dev.to/owly/the-tiny-ai-emotion-engine-that-makes-your-companion-feel-alive-meet-diemo-for-livingrimoire-2hmo)
 <!-- BLOG-POST-LIST:END -->
 
