@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AnalogJS 2.4: Vite 8, Vitest Snapshot Serializers, Astro v6 Support, and more!](https://dev.to/analogjs/analogjs-24-vite-8-vitest-snapshot-serializers-astro-v6-support-and-more-3hgo)
-- [what if MCP servers had a Lighthouse-style security score?](https://dev.to/yedanyagamiaicmd/what-if-mcp-servers-had-a-lighthouse-style-security-score-35df)
-- [Does ramalama make AI boring?? Running AI models with Ramalama.](https://dev.to/njeri_kimaru/does-ramalama-make-ai-boring-running-ai-models-with-ramalama-2kml)
-- [I built a career intelligence platform for developers — LynCareer 🚀](https://dev.to/aiherrera/i-built-a-career-intelligence-platform-for-developers-lyncareer-1kb1)
+- [🚀 Big update drop for The Coffee Timer! ☕](https://dev.to/adrianbailador/big-update-drop-for-the-coffee-timer-2heb)
+- [The Line Between Research and Surveillance Is Gone](https://dev.to/numbpill3d/the-line-between-research-and-surveillance-is-gone-3gno)
+- [Your Resume Might Not Even Be Seen by a Human](https://dev.to/madhurjya_gogoi/your-resume-might-not-even-be-seen-by-a-human-5561)
+- [Your AI Doesn&#39;t Generate Bad Designs. You Do!](https://dev.to/alaa_elghamry_144eeef8b71/your-ai-doesnt-generate-bad-designs-you-do-13j6)
 <!-- BLOG-POST-LIST:END -->
 
