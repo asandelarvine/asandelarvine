@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Big update drop for The Coffee Timer! ☕](https://dev.to/adrianbailador/big-update-drop-for-the-coffee-timer-2heb)
-- [The Line Between Research and Surveillance Is Gone](https://dev.to/numbpill3d/the-line-between-research-and-surveillance-is-gone-3gno)
-- [Your Resume Might Not Even Be Seen by a Human](https://dev.to/madhurjya_gogoi/your-resume-might-not-even-be-seen-by-a-human-5561)
-- [Your AI Doesn&#39;t Generate Bad Designs. You Do!](https://dev.to/alaa_elghamry_144eeef8b71/your-ai-doesnt-generate-bad-designs-you-do-13j6)
+- [[CONFIDENTIAL] Leak of RFID and Wireless Application Documents from Sanctioned U.S. Arms Manufacturer Lockheed Martin on the Dark Web](https://dev.to/excalibra/confidential-leak-of-rfid-and-wireless-application-documents-from-sanctioned-us-arms-2k22)
+- [OpenAI Codex Had a Command Injection Bug That Could Steal Your GitHub Tokens](https://dev.to/solobillions/openai-codex-had-a-command-injection-bug-that-could-steal-your-github-tokens-441j)
+- [I can now replay any AI agent stream from production. Here&#39;s how.](https://dev.to/abhishek_chatterjee_33b9d/i-can-now-replay-any-ai-agent-stream-from-production-heres-how-4bg4)
+- [What Actually Happens When You Leave an ESP32 Running 24/7](https://dev.to/numbpill3d/what-actually-happens-when-you-leave-an-esp32-running-247-347e)
 <!-- BLOG-POST-LIST:END -->
 
