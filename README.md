@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[CONFIDENTIAL] Leak of RFID and Wireless Application Documents from Sanctioned U.S. Arms Manufacturer Lockheed Martin on the Dark Web](https://dev.to/excalibra/confidential-leak-of-rfid-and-wireless-application-documents-from-sanctioned-us-arms-2k22)
-- [OpenAI Codex Had a Command Injection Bug That Could Steal Your GitHub Tokens](https://dev.to/solobillions/openai-codex-had-a-command-injection-bug-that-could-steal-your-github-tokens-441j)
-- [I can now replay any AI agent stream from production. Here&#39;s how.](https://dev.to/abhishek_chatterjee_33b9d/i-can-now-replay-any-ai-agent-stream-from-production-heres-how-4bg4)
-- [What Actually Happens When You Leave an ESP32 Running 24/7](https://dev.to/numbpill3d/what-actually-happens-when-you-leave-an-esp32-running-247-347e)
+- [From Zero to Crypto Hero &lpar;Week 4&rpar; - Week of Break from Coding and Big Regret](https://dev.to/luftietheanonymous/from-zero-to-crypto-hero-week-4-week-of-break-from-coding-and-big-regret-3ejn)
+- [ABAP Unit Testing in SAP S/4HANA: A Senior Architect&#39;s Guide to Writing Tests That Actually Matter](https://dev.to/oktay_a56a5e9cc26cc1df8fe/abap-unit-testing-in-sap-s4hana-a-senior-architects-guide-to-writing-tests-that-actually-matter-2816)
+- [Cosine Similarity vs Dot Product in Attention Mechanisms](https://dev.to/rijultp/cosine-similarity-vs-dot-product-in-attention-mechanisms-1m9h)
+- [Technical Leadership in SAP Projects: How Senior Architects Make Better Decisions Under Pressure](https://dev.to/oktay_a56a5e9cc26cc1df8fe/technical-leadership-in-sap-projects-how-senior-architects-make-better-decisions-under-pressure-4chi)
 <!-- BLOG-POST-LIST:END -->
 
