@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Make Claude and Gemini Argue: Building an Adversarial Agentic Workflow &lpar;Open-Source Skill&rpar;](https://dev.to/awrshift/why-i-make-claude-and-gemini-argue-building-an-adversarial-agentic-workflow-open-source-skill-2bgl)
-- [How catch-block selection works in exception handling](https://dev.to/pvsdev/how-catch-block-selection-works-in-exception-handling-1921)
-- [Stop Babysitting Your AI — How I Made Claude Code Enforce Its Own Rules](https://dev.to/odakin/stop-babysitting-your-ai-how-i-made-claude-code-enforce-its-own-rules-jmm)
-- [More women in Tech. Fewer women leading](https://dev.to/r_elena_mendez_escobar/more-women-in-tech-fewer-women-leading-5f9e)
+- [NICE Actimize Alternatives for Fintechs: 2026 Comparison](https://dev.to/amir_shachar_bc46a63dda21/nice-actimize-alternatives-for-fintechs-2026-comparison-1oap)
+- [How I Built a Capital Markets Trade Lifecycle System That Mirrors Real Banking Infrastructure](https://dev.to/ra9huvansh/how-i-built-a-capital-markets-trade-lifecycle-system-that-mirrors-real-banking-infrastructure-898)
+- [Building a Local AI Assistant on Linux — Recent Progress on Echo](https://dev.to/crow/building-a-local-ai-assistant-on-linux-recent-progress-on-echo-214d)
+- [Meeting-Free Project Management Experiment: Results of an Extreme Experiment](https://dev.to/_jeongyuhyeon_03de1/meeting-free-project-management-experiment-results-of-an-extreme-experiment-4lml)
 <!-- BLOG-POST-LIST:END -->
 
