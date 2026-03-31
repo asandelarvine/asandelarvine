@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NICE Actimize Alternatives for Fintechs: 2026 Comparison](https://dev.to/amir_shachar_bc46a63dda21/nice-actimize-alternatives-for-fintechs-2026-comparison-1oap)
-- [How I Built a Capital Markets Trade Lifecycle System That Mirrors Real Banking Infrastructure](https://dev.to/ra9huvansh/how-i-built-a-capital-markets-trade-lifecycle-system-that-mirrors-real-banking-infrastructure-898)
-- [Building a Local AI Assistant on Linux — Recent Progress on Echo](https://dev.to/crow/building-a-local-ai-assistant-on-linux-recent-progress-on-echo-214d)
-- [Meeting-Free Project Management Experiment: Results of an Extreme Experiment](https://dev.to/_jeongyuhyeon_03de1/meeting-free-project-management-experiment-results-of-an-extreme-experiment-4lml)
+- [Python Developer AI Toolkit, Part 1: How I stopped rewriting the same prompts and packaged 272 that actually work](https://dev.to/peytongreen_dev/python-developer-ai-toolkit-part-1-how-i-stopped-rewriting-the-same-prompts-and-packaged-272-that-12h5)
+- [Implementing a RAG system: Walk](https://dev.to/gde/implementing-a-rag-system-walk-4h76)
+- [How We Built Edge-First License Validation in Under 50ms](https://dev.to/trafficorchestrator/how-we-built-edge-first-license-validation-in-under-50ms-1jl9)
+- [The Hidden Cost of Game Engine Lock-in &lpar;and What Web Devs Can Learn&rpar;](https://dev.to/ziva/the-hidden-cost-of-game-engine-lock-in-and-what-web-devs-can-learn-38m5)
 <!-- BLOG-POST-LIST:END -->
 
