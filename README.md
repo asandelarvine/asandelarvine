@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LiteLLM Was Poisoned. Here&#39;s What It Reveals About AI Tool Supply Chains.](https://dev.to/rotiferdev/litellm-was-poisoned-heres-what-it-reveals-about-ai-tool-supply-chains-16lh)
-- [Stop Fighting Matplotlib for Economics Charts: econ-viz Is Your Friend](https://dev.to/yueswater/stop-fighting-matplotlib-for-economics-charts-econ-viz-is-your-friend-5a5d)
-- [My $5/month Cloudflare bill hit $4,868 because of an infinite loop](https://dev.to/nathanschram/my-5month-cloudflare-bill-hit-4868-because-of-an-infinite-loop-13g8)
-- [HTML - An Introduction](https://dev.to/janunirmal/html-an-introduction-2mog)
+- [Generative AI and Non-Determinism](https://dev.to/andychiare/generative-ai-and-non-determinism-526l)
+- [The AI Rebound Effect and the Transition to Systems Architecture](https://dev.to/alifunk/the-ai-rebound-effect-and-the-transition-to-systems-architecture-32n9)
+- [Como Usar Qwen3.5-Omni: Texto, Áudio, Vídeo e Clonagem de Voz via API](https://dev.to/lucas_ferreira/como-usar-qwen35-omni-texto-audio-video-e-clonagem-de-voz-via-api-3kjb)
+- [No Notary Required: EU Inc&#39;s Digital Revolution in Company Formation](https://dev.to/euincnews/no-notary-required-eu-incs-digital-revolution-in-company-formation-mo8)
 <!-- BLOG-POST-LIST:END -->
 
