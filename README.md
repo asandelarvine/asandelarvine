@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get City, Postal Code, Address from Latitude and Longitude](https://dev.to/geoapify-maps-api/how-to-get-city-postal-code-address-from-latitude-and-longitude-1b4)
-- [Inference Observability: Why You Don&#39;t See the Cost Spike Until It&#39;s Too Late](https://dev.to/ntctech/inference-observability-why-you-dont-see-the-cost-spike-until-its-too-late-2ioh)
-- [How We Cut Rails on GKE Costs by 60%: The &quot;Efficiency First&quot; Roadmap](https://dev.to/katz/how-we-cut-rails-on-gke-costs-by-60-the-efficiency-first-roadmap-14pg)
-- [You Can Build While You&#39;re Still Becoming!](https://dev.to/jo_deguzman/you-can-build-while-youre-still-becoming-4bhj)
+- [Why I Make Claude and Gemini Argue: Building an Adversarial Agentic Workflow &lpar;Open-Source Skill&rpar;](https://dev.to/awrshift/why-i-make-claude-and-gemini-argue-building-an-adversarial-agentic-workflow-open-source-skill-2bgl)
+- [How catch-block selection works in exception handling](https://dev.to/pvsdev/how-catch-block-selection-works-in-exception-handling-1921)
+- [Stop Babysitting Your AI — How I Made Claude Code Enforce Its Own Rules](https://dev.to/odakin/stop-babysitting-your-ai-how-i-made-claude-code-enforce-its-own-rules-jmm)
+- [More women in Tech. Fewer women leading](https://dev.to/r_elena_mendez_escobar/more-women-in-tech-fewer-women-leading-5f9e)
 <!-- BLOG-POST-LIST:END -->
 
