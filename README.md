@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating blog publishing to dev.to and LinkedIn](https://dev.to/ohugonnot/automating-blog-publishing-to-devto-and-linkedin-270p)
-- [I Built 20+ Open-Source Tools and a Cyberpunk Terminal Portfolio to Showcase Them All](https://dev.to/freerave/i-built-20-open-source-tools-and-a-cyberpunk-terminal-portfolio-to-showcase-them-all-25nb)
-- [How AI Call Monitoring Works Under the Hood: ASR, NLP, and Automated QA Pipelines](https://dev.to/gourav_pal_385d90d2d20c91/how-ai-call-monitoring-works-under-the-hood-asr-nlp-and-automated-qa-pipelines-51cb)
-- [Como Implementei 30 Tipos de Schema JSON-LD e llms.txt Para Ser Citado por ChatGPT, Gemini e Claude](https://dev.to/alexandrebrt14sys/como-implementei-30-tipos-de-schema-json-ld-e-llmstxt-para-ser-citado-por-chatgpt-gemini-e-claude-3ooc)
+- [Semgrep Observability with OpenTelemetry](https://dev.to/agardnerit/semgrep-observability-with-opentelemetry-4k6o)
+- [Your Context Window Is Chaos. We Fixed It.](https://dev.to/robimbeault/your-context-window-is-chaos-we-fixed-it-3ca5)
+- [Getting 404 Errors After Building a Teams Tab App? HTML Caching Might Be the Cause](https://dev.to/upa_rupa/getting-404-errors-after-building-a-teams-tab-app-html-caching-might-be-the-cause-1i98)
+- [Your Knowledge, Your Model — Part 3: Determinism Is Not Accuracy](https://dev.to/macsart_ai_by_tim/your-knowledge-your-model-part-3-determinism-is-not-accuracy-1b6j)
 <!-- BLOG-POST-LIST:END -->
 
