@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative AI and Non-Determinism](https://dev.to/andychiare/generative-ai-and-non-determinism-526l)
-- [The AI Rebound Effect and the Transition to Systems Architecture](https://dev.to/alifunk/the-ai-rebound-effect-and-the-transition-to-systems-architecture-32n9)
-- [Como Usar Qwen3.5-Omni: Texto, Áudio, Vídeo e Clonagem de Voz via API](https://dev.to/lucas_ferreira/como-usar-qwen35-omni-texto-audio-video-e-clonagem-de-voz-via-api-3kjb)
-- [No Notary Required: EU Inc&#39;s Digital Revolution in Company Formation](https://dev.to/euincnews/no-notary-required-eu-incs-digital-revolution-in-company-formation-mo8)
+- [Automating blog publishing to dev.to and LinkedIn](https://dev.to/ohugonnot/automating-blog-publishing-to-devto-and-linkedin-270p)
+- [I Built 20+ Open-Source Tools and a Cyberpunk Terminal Portfolio to Showcase Them All](https://dev.to/freerave/i-built-20-open-source-tools-and-a-cyberpunk-terminal-portfolio-to-showcase-them-all-25nb)
+- [How AI Call Monitoring Works Under the Hood: ASR, NLP, and Automated QA Pipelines](https://dev.to/gourav_pal_385d90d2d20c91/how-ai-call-monitoring-works-under-the-hood-asr-nlp-and-automated-qa-pipelines-51cb)
+- [Como Implementei 30 Tipos de Schema JSON-LD e llms.txt Para Ser Citado por ChatGPT, Gemini e Claude](https://dev.to/alexandrebrt14sys/como-implementei-30-tipos-de-schema-json-ld-e-llmstxt-para-ser-citado-por-chatgpt-gemini-e-claude-3ooc)
 <!-- BLOG-POST-LIST:END -->
 
