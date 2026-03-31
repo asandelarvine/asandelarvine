@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Year of Change and Persistence](https://dev.to/jess/a-year-of-change-and-persistence-19cf)
-- [Agent Factory Recap: Reinforcement Learning and Fine-Tuning on TPUs](https://dev.to/googleai/agent-factory-recap-reinforcement-learning-and-fine-tuning-on-tpus-1o6j)
-- [Building a Chrome Extension with Zero Unnecessary Permissions](https://dev.to/pmestreforge/building-a-chrome-extension-with-zero-unnecessary-permissions-3cj5)
-- [Guardrails para Agentes de IA: Reglas Que los LLM No Pueden Evadir](https://dev.to/aws-espanol/guardrails-para-agentes-de-ia-reglas-que-los-llm-no-pueden-evadir-5dmn)
+- [REST vs GraphQL vs WebSockets vs Webhooks: A Real-World Decision Guide &lpar;With Code&rpar;](https://dev.to/rosewabere/rest-vs-graphql-vs-websockets-vs-webhooks-a-real-world-decision-guide-with-code-2bem)
+- [Your Ruby CSV Import Ran Successfully — Your Data May Still Be Wrong](https://dev.to/tilo_sloboda/your-ruby-csv-import-ran-successfully-your-data-may-still-be-wrong-5h5a)
+- [Cómo crear un chatbot de WhatsApp con n8n, aws y OpenAI](https://dev.to/joseluissr/como-crear-un-chatbot-de-whatsapp-con-n8n-aws-y-openai-1hm5)
+- [How TurboQuant Works for LLMs and Why It Uses Much Less RAM](https://dev.to/zaxwebs/how-turboquant-works-for-llms-and-why-it-uses-much-less-ram-3emk)
 <!-- BLOG-POST-LIST:END -->
 
