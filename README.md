@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Semgrep Observability with OpenTelemetry](https://dev.to/agardnerit/semgrep-observability-with-opentelemetry-4k6o)
-- [Your Context Window Is Chaos. We Fixed It.](https://dev.to/robimbeault/your-context-window-is-chaos-we-fixed-it-3ca5)
-- [Getting 404 Errors After Building a Teams Tab App? HTML Caching Might Be the Cause](https://dev.to/upa_rupa/getting-404-errors-after-building-a-teams-tab-app-html-caching-might-be-the-cause-1i98)
-- [Your Knowledge, Your Model — Part 3: Determinism Is Not Accuracy](https://dev.to/macsart_ai_by_tim/your-knowledge-your-model-part-3-determinism-is-not-accuracy-1b6j)
+- [How to Get City, Postal Code, Address from Latitude and Longitude](https://dev.to/geoapify-maps-api/how-to-get-city-postal-code-address-from-latitude-and-longitude-1b4)
+- [Inference Observability: Why You Don&#39;t See the Cost Spike Until It&#39;s Too Late](https://dev.to/ntctech/inference-observability-why-you-dont-see-the-cost-spike-until-its-too-late-2ioh)
+- [How We Cut Rails on GKE Costs by 60%: The &quot;Efficiency First&quot; Roadmap](https://dev.to/katz/how-we-cut-rails-on-gke-costs-by-60-the-efficiency-first-roadmap-14pg)
+- [You Can Build While You&#39;re Still Becoming!](https://dev.to/jo_deguzman/you-can-build-while-youre-still-becoming-4bhj)
 <!-- BLOG-POST-LIST:END -->
 
