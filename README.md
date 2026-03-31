@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Give Claude Long-Term Memory](https://dev.to/hjarni/how-to-give-claude-long-term-memory-4a6)
-- [20 Niche CSS Libraries for 2026 🚀](https://dev.to/butterflycss/20-niche-css-libraries-for-2026-f5)
-- [InsightAgent — Turn Any CSV Into AI-Powered Stories](https://dev.to/njericodecraft/insightagent-turn-any-csv-into-ai-powered-stories-2m5f)
-- [The Vulnerability Scanner That Became the Vulnerability](https://dev.to/peternasarah/the-vulnerability-scanner-that-became-the-vulnerability-ak8)
+- [Task Skills vs Step Skills: What an RL Paper Taught Me About My Own Skill Directory](https://dev.to/sami-openlife/task-skills-vs-step-skills-what-an-rl-paper-taught-me-about-my-own-skill-directory-ml8)
+- [CodiumAI Review: AI-Powered Test Generation for VS Code](https://dev.to/rahulxsingh/codiumai-review-ai-powered-test-generation-for-vs-code-401c)
+- [How I Built an AI Employee to Run My SaaS Revenue &lpar;OpenClaw + Creem&rpar;](https://dev.to/vayo/how-i-built-an-ai-employee-to-run-my-saas-revenue-openclaw-creem-5d7d)
+- [Things That Instantly Make a Web App Feel Slow &lpar;Even If It’s Not&rpar;](https://dev.to/rohith_kn/things-that-instantly-make-a-web-app-feel-slow-even-if-its-not-kic)
 <!-- BLOG-POST-LIST:END -->
 
