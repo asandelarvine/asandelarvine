@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Developer AI Toolkit, Part 1: How I stopped rewriting the same prompts and packaged 272 that actually work](https://dev.to/peytongreen_dev/python-developer-ai-toolkit-part-1-how-i-stopped-rewriting-the-same-prompts-and-packaged-272-that-12h5)
-- [Implementing a RAG system: Walk](https://dev.to/gde/implementing-a-rag-system-walk-4h76)
-- [How We Built Edge-First License Validation in Under 50ms](https://dev.to/trafficorchestrator/how-we-built-edge-first-license-validation-in-under-50ms-1jl9)
-- [The Hidden Cost of Game Engine Lock-in &lpar;and What Web Devs Can Learn&rpar;](https://dev.to/ziva/the-hidden-cost-of-game-engine-lock-in-and-what-web-devs-can-learn-38m5)
+- [A Year of Change and Persistence](https://dev.to/jess/a-year-of-change-and-persistence-19cf)
+- [Agent Factory Recap: Reinforcement Learning and Fine-Tuning on TPUs](https://dev.to/googleai/agent-factory-recap-reinforcement-learning-and-fine-tuning-on-tpus-1o6j)
+- [Building a Chrome Extension with Zero Unnecessary Permissions](https://dev.to/pmestreforge/building-a-chrome-extension-with-zero-unnecessary-permissions-3cj5)
+- [Guardrails para Agentes de IA: Reglas Que los LLM No Pueden Evadir](https://dev.to/aws-espanol/guardrails-para-agentes-de-ia-reglas-que-los-llm-no-pueden-evadir-5dmn)
 <!-- BLOG-POST-LIST:END -->
 
