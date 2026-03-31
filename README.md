@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [REST vs GraphQL vs WebSockets vs Webhooks: A Real-World Decision Guide &lpar;With Code&rpar;](https://dev.to/rosewabere/rest-vs-graphql-vs-websockets-vs-webhooks-a-real-world-decision-guide-with-code-2bem)
-- [Your Ruby CSV Import Ran Successfully — Your Data May Still Be Wrong](https://dev.to/tilo_sloboda/your-ruby-csv-import-ran-successfully-your-data-may-still-be-wrong-5h5a)
-- [Cómo crear un chatbot de WhatsApp con n8n, aws y OpenAI](https://dev.to/joseluissr/como-crear-un-chatbot-de-whatsapp-con-n8n-aws-y-openai-1hm5)
-- [How TurboQuant Works for LLMs and Why It Uses Much Less RAM](https://dev.to/zaxwebs/how-turboquant-works-for-llms-and-why-it-uses-much-less-ram-3emk)
+- [How to Give Claude Long-Term Memory](https://dev.to/hjarni/how-to-give-claude-long-term-memory-4a6)
+- [20 Niche CSS Libraries for 2026 🚀](https://dev.to/butterflycss/20-niche-css-libraries-for-2026-f5)
+- [InsightAgent — Turn Any CSV Into AI-Powered Stories](https://dev.to/njericodecraft/insightagent-turn-any-csv-into-ai-powered-stories-2m5f)
+- [The Vulnerability Scanner That Became the Vulnerability](https://dev.to/peternasarah/the-vulnerability-scanner-that-became-the-vulnerability-ak8)
 <!-- BLOG-POST-LIST:END -->
 
