@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API said &#39;success&#39;. Data was empty.](https://dev.to/nicodev__/api-said-success-data-was-empty-2moe)
-- [I used AI to help build my resume and beat 2,000 applicants — here&#39;s how](https://dev.to/turquoise-tailoring/i-used-ai-to-help-build-my-resume-and-beat-2000-applicants-heres-how-46gp)
-- [My mock server lied to me. So I built a stateful API sandbox.](https://dev.to/fetchsandbox/my-mock-server-lied-to-me-so-i-built-a-stateful-api-sandbox-549n)
-- [I Built a Tool Because 90% of My AI Agent&#39;s Tokens Were Spent Searching, Not Coding](https://dev.to/narrator/i-built-a-tool-because-90-of-my-ai-agents-tokens-were-spent-searching-not-coding-1ee3)
+- [Securing the Agentic Era: AI Agents as First-Class Security Principals](https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f)
+- [My AI remembered the wrong thing and broke my build. So I built memory governance.](https://dev.to/michael_onyekwere/my-ai-remembered-the-wrong-thing-and-broke-my-build-so-i-built-memory-governance-50b2)
+- [Turn Your Home Server into a NAS — Access Files from Any Device with Samba](https://dev.to/avgskully/turn-your-home-server-into-a-nas-access-files-from-any-device-with-samba-5fgl)
+- [Building a Chat UI with el.js &lpar;Vanilla JavaScript Approach&rpar;](https://dev.to/slice_code/building-a-chat-ui-with-eljs-vanilla-javascript-approach-323n)
 <!-- BLOG-POST-LIST:END -->
 
