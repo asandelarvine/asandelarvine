@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing the Agentic Era: AI Agents as First-Class Security Principals](https://dev.to/practiceoverflow/securing-the-agentic-era-ai-agents-as-first-class-security-principals-500f)
-- [My AI remembered the wrong thing and broke my build. So I built memory governance.](https://dev.to/michael_onyekwere/my-ai-remembered-the-wrong-thing-and-broke-my-build-so-i-built-memory-governance-50b2)
-- [Turn Your Home Server into a NAS — Access Files from Any Device with Samba](https://dev.to/avgskully/turn-your-home-server-into-a-nas-access-files-from-any-device-with-samba-5fgl)
-- [Building a Chat UI with el.js &lpar;Vanilla JavaScript Approach&rpar;](https://dev.to/slice_code/building-a-chat-ui-with-eljs-vanilla-javascript-approach-323n)
+- [LiteLLM Was Poisoned. Here&#39;s What It Reveals About AI Tool Supply Chains.](https://dev.to/rotiferdev/litellm-was-poisoned-heres-what-it-reveals-about-ai-tool-supply-chains-16lh)
+- [Stop Fighting Matplotlib for Economics Charts: econ-viz Is Your Friend](https://dev.to/yueswater/stop-fighting-matplotlib-for-economics-charts-econ-viz-is-your-friend-5a5d)
+- [My $5/month Cloudflare bill hit $4,868 because of an infinite loop](https://dev.to/nathanschram/my-5month-cloudflare-bill-hit-4868-because-of-an-infinite-loop-13g8)
+- [HTML - An Introduction](https://dev.to/janunirmal/html-an-introduction-2mog)
 <!-- BLOG-POST-LIST:END -->
 
