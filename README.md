@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Task Skills vs Step Skills: What an RL Paper Taught Me About My Own Skill Directory](https://dev.to/sami-openlife/task-skills-vs-step-skills-what-an-rl-paper-taught-me-about-my-own-skill-directory-ml8)
-- [CodiumAI Review: AI-Powered Test Generation for VS Code](https://dev.to/rahulxsingh/codiumai-review-ai-powered-test-generation-for-vs-code-401c)
-- [How I Built an AI Employee to Run My SaaS Revenue &lpar;OpenClaw + Creem&rpar;](https://dev.to/vayo/how-i-built-an-ai-employee-to-run-my-saas-revenue-openclaw-creem-5d7d)
-- [Things That Instantly Make a Web App Feel Slow &lpar;Even If It’s Not&rpar;](https://dev.to/rohith_kn/things-that-instantly-make-a-web-app-feel-slow-even-if-its-not-kic)
+- [You keep repeating yourself to AI every day. We tried to fix that.](https://dev.to/hovhannisians/you-keep-repeating-yourself-to-ai-every-day-we-tried-to-fix-that-39me)
+- [Streamlining access to powerful disaster recovery capabilities of AWS](https://dev.to/setheliot/streamlining-access-to-powerful-disaster-recovery-capabilities-of-aws-4129)
+- [Most Test Cases Are a Waste of Time, But Here’s What Good Testers Do Instead](https://dev.to/msalaz80/most-test-cases-are-a-waste-of-time-but-heres-what-good-testers-do-instead-21eo)
+- [Migrating to Nano Banana 2: Enhancing Your Angular Firebase AI App](https://dev.to/gde/migrating-to-nano-banana-2-enhancing-your-angular-firebase-ai-app-1jae)
 <!-- BLOG-POST-LIST:END -->
 
