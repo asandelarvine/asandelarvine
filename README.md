@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scan Any Document to a Searchable PDF — For Free, Right in Your Browser](https://dev.to/pranav_mailarpawar_7039f2/scan-any-document-to-a-searchable-pdf-for-free-right-in-your-browser-2ea3)
-- [Why LLM orchestration is broken &lpar;and how cryptographic agent identities fix it&rpar;](https://dev.to/authora/why-llm-orchestration-is-broken-and-how-cryptographic-agent-identities-fix-it-3ni5)
-- [Beyond the Hype: A Practical Guide to Integrating AI into Your Development Workflow](https://dev.to/midas126/beyond-the-hype-a-practical-guide-to-integrating-ai-into-your-development-workflow-fn6)
-- [Facebook Messenger to Amazon Connect Chat](https://dev.to/ensamblador/facebook-messenger-to-amazon-connect-chat-5ccg)
+- [The Fallback That Never Fires](https://dev.to/oolongtea2026/the-fallback-that-never-fires-2p9j)
+- [5 Open-Source AWS Security CLI Tools Worth Trying in 2026](https://dev.to/haitmg/5-open-source-aws-security-cli-tools-worth-trying-in-2026-med)
+- [Japan Is Building a 1.4nm AI Chip. No, That&#39;s Not a Typo.](https://dev.to/alanwest/japan-is-building-a-14nm-ai-chip-no-thats-not-a-typo-5e5o)
+- [AI Lies About Your Favorite Restaurant](https://dev.to/piiiico/ai-lies-about-your-favorite-restaurant-1ahm)
 <!-- BLOG-POST-LIST:END -->
 
