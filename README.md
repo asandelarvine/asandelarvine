@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Fallback That Never Fires](https://dev.to/oolongtea2026/the-fallback-that-never-fires-2p9j)
-- [5 Open-Source AWS Security CLI Tools Worth Trying in 2026](https://dev.to/haitmg/5-open-source-aws-security-cli-tools-worth-trying-in-2026-med)
-- [Japan Is Building a 1.4nm AI Chip. No, That&#39;s Not a Typo.](https://dev.to/alanwest/japan-is-building-a-14nm-ai-chip-no-thats-not-a-typo-5e5o)
-- [AI Lies About Your Favorite Restaurant](https://dev.to/piiiico/ai-lies-about-your-favorite-restaurant-1ahm)
+- [ABAP OOP Design Patterns — Part 2: Factory, Observer, and Decorator Patterns in Real SAP Systems](https://dev.to/oktay_a56a5e9cc26cc1df8fe/abap-oop-design-patterns-part-2-factory-observer-and-decorator-patterns-in-real-sap-systems-1b18)
+- [Why Your AI Agent Health Check Is Lying to You](https://dev.to/clevagent/why-your-ai-agent-health-check-is-lying-to-you-2ib1)
+- [Deep Dive: Array Internals &amp; Memory Layout](https://dev.to/congar97/deep-dive-array-internals-memory-layout-4p0l)
+- [Why AI Agents Need Both Memory and Money](https://dev.to/t49qnsx7qtkpanks/why-ai-agents-need-both-memory-and-money-5cpl)
 <!-- BLOG-POST-LIST:END -->
 
