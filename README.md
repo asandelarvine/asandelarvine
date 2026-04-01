@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude code and 512000 Becoming Public](https://dev.to/pvgomes/claude-code-and-512000-becoming-public-4f74)
-- [Seeing Everything, Knowing Nothing](https://dev.to/rawveg/seeing-everything-knowing-nothing-3ibd)
-- [KYC and AML Automation for Forex Brokers: What Actually Gets Automated](https://dev.to/divulgetech/kyc-and-aml-automation-for-forex-brokers-what-actually-gets-automated-33e0)
-- [We Scanned 400+ Websites. Here&#39;s What We Found.](https://dev.to/razazu/we-scanned-400-websites-heres-what-we-found-4n26)
+- [My AI Agent Said &quot;Done.&quot; Twice. Both Times It Was Lying.](https://dev.to/rentierdigital/my-ai-agent-said-done-twice-both-times-it-was-lying-4dpk)
+- [Callback trace contracts for the TD2 compare lane](https://dev.to/nivandosoares/callback-trace-contracts-for-the-td2-compare-lane-4po5)
+- [Understanding Arrays: A Beginner-Friendly Explanation &lpar;With Examples&rpar;](https://dev.to/subash_4870e66d76ac024544/understanding-arrays-a-beginner-friendly-explanation-with-examples-18pd)
+- [strict-env-validator](https://dev.to/darshan1005/strict-env-validator-3ki7)
 <!-- BLOG-POST-LIST:END -->
 
