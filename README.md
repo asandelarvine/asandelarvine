@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You keep repeating yourself to AI every day. We tried to fix that.](https://dev.to/hovhannisians/you-keep-repeating-yourself-to-ai-every-day-we-tried-to-fix-that-39me)
-- [Streamlining access to powerful disaster recovery capabilities of AWS](https://dev.to/setheliot/streamlining-access-to-powerful-disaster-recovery-capabilities-of-aws-4129)
-- [Most Test Cases Are a Waste of Time, But Here’s What Good Testers Do Instead](https://dev.to/msalaz80/most-test-cases-are-a-waste-of-time-but-heres-what-good-testers-do-instead-21eo)
-- [Migrating to Nano Banana 2: Enhancing Your Angular Firebase AI App](https://dev.to/gde/migrating-to-nano-banana-2-enhancing-your-angular-firebase-ai-app-1jae)
+- [TypeScript Discriminated Unions: Safe API Response Handling](https://dev.to/maanu07/typescript-discriminated-unions-safe-api-response-handling-17ca)
+- [RAG Web Browser: Give Your AI Real-Time Web Access Without Hallucinations](https://dev.to/2gelbuy/rag-web-browser-give-your-ai-real-time-web-access-without-hallucinations-4oo7)
+- [What Nobody Tells You About Building a Protocol for AI Agents](https://dev.to/kirk42/what-nobody-tells-you-about-building-a-protocol-for-ai-agents-hlj)
+- [The Evidence Is in the Phone. Most of It Never Makes It Into the Case.](https://dev.to/charles_west_99af57fcbac3/the-evidence-is-in-the-phone-most-of-it-never-makes-it-into-the-case-mle)
 <!-- BLOG-POST-LIST:END -->
 
