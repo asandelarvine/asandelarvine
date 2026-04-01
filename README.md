@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ABAP OOP Design Patterns — Part 2: Factory, Observer, and Decorator Patterns in Real SAP Systems](https://dev.to/oktay_a56a5e9cc26cc1df8fe/abap-oop-design-patterns-part-2-factory-observer-and-decorator-patterns-in-real-sap-systems-1b18)
-- [Why Your AI Agent Health Check Is Lying to You](https://dev.to/clevagent/why-your-ai-agent-health-check-is-lying-to-you-2ib1)
-- [Deep Dive: Array Internals &amp; Memory Layout](https://dev.to/congar97/deep-dive-array-internals-memory-layout-4p0l)
-- [Why AI Agents Need Both Memory and Money](https://dev.to/t49qnsx7qtkpanks/why-ai-agents-need-both-memory-and-money-5cpl)
+- [Working with Claude: A Senior Developer&#39;s Honest Take](https://dev.to/swmcc/working-with-claude-a-senior-developers-honest-take-2kkj)
+- [Custom Agents for Claude Code](https://dev.to/swmcc/custom-agents-for-claude-code-35dh)
+- [Building Swanson: A RAG-Enhanced Recommendation System for whatisonthe.tv](https://dev.to/swmcc/building-swanson-a-rag-enhanced-recommendation-system-for-whatisonthetv-33b)
+- [Extracting Authentication to a Microservice](https://dev.to/swmcc/extracting-authentication-to-a-microservice-h99)
 <!-- BLOG-POST-LIST:END -->
 
