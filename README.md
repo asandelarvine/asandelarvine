@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with Claude: A Senior Developer&#39;s Honest Take](https://dev.to/swmcc/working-with-claude-a-senior-developers-honest-take-2kkj)
-- [Custom Agents for Claude Code](https://dev.to/swmcc/custom-agents-for-claude-code-35dh)
-- [Building Swanson: A RAG-Enhanced Recommendation System for whatisonthe.tv](https://dev.to/swmcc/building-swanson-a-rag-enhanced-recommendation-system-for-whatisonthetv-33b)
-- [Extracting Authentication to a Microservice](https://dev.to/swmcc/extracting-authentication-to-a-microservice-h99)
+- [Configuring GPU Pass-Through for AMD cards on openSUSE Kalpa](https://dev.to/nutthawit-l/configuring-gpu-pass-through-for-amd-cards-on-opensuse-kalpa-31e)
+- [Install NetBird on openSUSE MicroOS](https://dev.to/nutthawit-l/install-netbird-on-opensuse-microos-b2c)
+- [COA-MAS v2: A Meta-Framework for Cross-Domain Multi-Agent Governance](https://dev.to/rudsoncarvalho/coa-mas-v2-a-meta-framework-for-cross-domain-multi-agent-governance-4mji)
+- [Build a RAG Pipeline in Java &lpar;Text Vector LLM, No Paid APIs&rpar;](https://dev.to/sanjayghosh/build-a-rag-pipeline-in-java-text-vector-llm-no-paid-apis-3lc3)
 <!-- BLOG-POST-LIST:END -->
 
