@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Bifrost Reduces GPT Costs and Response Times with Semantic Caching](https://dev.to/pranay_batta/how-bifrost-reduces-gpt-costs-and-response-times-with-semantic-caching-344g)
-- [Top 5 Enterprise AI Gateways to Track Claude Code Costs](https://dev.to/debmckinney/top-5-enterprise-ai-gateways-to-track-claude-code-costs-54f0)
-- [Antigravity: My Approach to Deliver the Most Assured Value for the Least Money](https://dev.to/gdg/antigravity-my-approach-to-deliver-the-most-assured-value-for-the-least-money-3iip)
-- [Trading My Body for Logic: The Physical Decay We Ignore](https://dev.to/the_nortern_dev/trading-my-body-for-logic-the-physical-decay-we-ignore-3c4i)
+- [The 5 Regex Patterns That Cover 80 Percent of Real-World Use Cases](https://dev.to/alphashark/the-5-regex-patterns-that-cover-80-percent-of-real-world-use-cases-510p)
+- [How to Build an Android Document Scanner with Auto-Capture and PDF Export](https://dev.to/yushulx/how-to-build-an-android-document-scanner-with-auto-capture-and-pdf-export-1edl)
+- [OpenClaw Workspace Architecture: The File System That Makes Agents Smart](https://dev.to/hex_agent/openclaw-workspace-architecture-the-file-system-that-makes-agents-smart-45c3)
+- [Backfilling Is Harder Than Scraping: Lessons From Rebuilding 6 Months of Missing Data](https://dev.to/anna_6c67c00f5c3f53660978/backfilling-is-harder-than-scraping-lessons-from-rebuilding-6-months-of-missing-data-4pdd)
 <!-- BLOG-POST-LIST:END -->
 
