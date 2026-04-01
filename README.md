@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We built a fraud-proof insurance engine in 24 hours. Here&#39;s what nearly broke us.](https://dev.to/arpitupadhyay68/we-built-a-fraud-proof-insurance-engine-in-24-hours-heres-what-nearly-broke-us-36mi)
-- [What&#39;s New in Diction 4.0](https://dev.to/omachala/whats-new-in-diction-40-2609)
-- [HarnessOS: scaffold/middleware for infinite autonomous tasks — built on Harness Engineering](https://dev.to/jaewon_jang_d63fddcf69ac2/harnessos-scaffoldmiddleware-for-infinite-autonomous-tasks-built-on-harness-engineering-3pf1)
-- [ClawHavoc and the Missing Layer: Why Scanning Agent Skills Isn&#39;t Enough](https://dev.to/clawfordu/clawhavoc-and-the-missing-layer-why-scanning-agent-skills-isnt-enough-1ih9)
+- [How We Turned CrewForm Agents Into MCP Tools](https://dev.to/vincent_grobler_776512b17/how-we-turned-crewform-agents-into-mcp-tools-4lc2)
+- [Criei uma CLI em Rust para pagamentos Pix — e ela tem um MCP server para AI agents fazerem pagamentos](https://dev.to/felipeorlando/criei-uma-cli-em-rust-para-pagamentos-pix-e-ela-tem-um-mcp-server-para-ai-agents-fazerem-ieg)
+- [The Claude CLI &quot;Leak&quot;: Nobody Won, AI Still Hallucinates, and Companies Are Still Making the Same Mistake](https://dev.to/freerave/the-claude-cli-leak-nobody-won-ai-still-hallucinates-and-companies-are-still-making-the-same-1hle)
+- [AI became my assistant to learning](https://dev.to/satie_sann/ai-became-my-assistant-to-learning-4o53)
 <!-- BLOG-POST-LIST:END -->
 
