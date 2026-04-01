@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My AI Agent Said &quot;Done.&quot; Twice. Both Times It Was Lying.](https://dev.to/rentierdigital/my-ai-agent-said-done-twice-both-times-it-was-lying-4dpk)
-- [Callback trace contracts for the TD2 compare lane](https://dev.to/nivandosoares/callback-trace-contracts-for-the-td2-compare-lane-4po5)
-- [Understanding Arrays: A Beginner-Friendly Explanation &lpar;With Examples&rpar;](https://dev.to/subash_4870e66d76ac024544/understanding-arrays-a-beginner-friendly-explanation-with-examples-18pd)
-- [strict-env-validator](https://dev.to/darshan1005/strict-env-validator-3ki7)
+- [We built a fraud-proof insurance engine in 24 hours. Here&#39;s what nearly broke us.](https://dev.to/arpitupadhyay68/we-built-a-fraud-proof-insurance-engine-in-24-hours-heres-what-nearly-broke-us-36mi)
+- [What&#39;s New in Diction 4.0](https://dev.to/omachala/whats-new-in-diction-40-2609)
+- [HarnessOS: scaffold/middleware for infinite autonomous tasks — built on Harness Engineering](https://dev.to/jaewon_jang_d63fddcf69ac2/harnessos-scaffoldmiddleware-for-infinite-autonomous-tasks-built-on-harness-engineering-3pf1)
+- [ClawHavoc and the Missing Layer: Why Scanning Agent Skills Isn&#39;t Enough](https://dev.to/clawfordu/clawhavoc-and-the-missing-layer-why-scanning-agent-skills-isnt-enough-1ih9)
 <!-- BLOG-POST-LIST:END -->
 
