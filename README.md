@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Turned CrewForm Agents Into MCP Tools](https://dev.to/vincent_grobler_776512b17/how-we-turned-crewform-agents-into-mcp-tools-4lc2)
-- [Criei uma CLI em Rust para pagamentos Pix — e ela tem um MCP server para AI agents fazerem pagamentos](https://dev.to/felipeorlando/criei-uma-cli-em-rust-para-pagamentos-pix-e-ela-tem-um-mcp-server-para-ai-agents-fazerem-ieg)
-- [The Claude CLI &quot;Leak&quot;: Nobody Won, AI Still Hallucinates, and Companies Are Still Making the Same Mistake](https://dev.to/freerave/the-claude-cli-leak-nobody-won-ai-still-hallucinates-and-companies-are-still-making-the-same-1hle)
-- [AI became my assistant to learning](https://dev.to/satie_sann/ai-became-my-assistant-to-learning-4o53)
+- [Scan Any Document to a Searchable PDF — For Free, Right in Your Browser](https://dev.to/pranav_mailarpawar_7039f2/scan-any-document-to-a-searchable-pdf-for-free-right-in-your-browser-2ea3)
+- [Why LLM orchestration is broken &lpar;and how cryptographic agent identities fix it&rpar;](https://dev.to/authora/why-llm-orchestration-is-broken-and-how-cryptographic-agent-identities-fix-it-3ni5)
+- [Beyond the Hype: A Practical Guide to Integrating AI into Your Development Workflow](https://dev.to/midas126/beyond-the-hype-a-practical-guide-to-integrating-ai-into-your-development-workflow-fn6)
+- [Facebook Messenger to Amazon Connect Chat](https://dev.to/ensamblador/facebook-messenger-to-amazon-connect-chat-5ccg)
 <!-- BLOG-POST-LIST:END -->
 
