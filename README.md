@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript Discriminated Unions: Safe API Response Handling](https://dev.to/maanu07/typescript-discriminated-unions-safe-api-response-handling-17ca)
-- [RAG Web Browser: Give Your AI Real-Time Web Access Without Hallucinations](https://dev.to/2gelbuy/rag-web-browser-give-your-ai-real-time-web-access-without-hallucinations-4oo7)
-- [What Nobody Tells You About Building a Protocol for AI Agents](https://dev.to/kirk42/what-nobody-tells-you-about-building-a-protocol-for-ai-agents-hlj)
-- [The Evidence Is in the Phone. Most of It Never Makes It Into the Case.](https://dev.to/charles_west_99af57fcbac3/the-evidence-is-in-the-phone-most-of-it-never-makes-it-into-the-case-mle)
+- [How Bifrost Reduces GPT Costs and Response Times with Semantic Caching](https://dev.to/pranay_batta/how-bifrost-reduces-gpt-costs-and-response-times-with-semantic-caching-344g)
+- [Top 5 Enterprise AI Gateways to Track Claude Code Costs](https://dev.to/debmckinney/top-5-enterprise-ai-gateways-to-track-claude-code-costs-54f0)
+- [Antigravity: My Approach to Deliver the Most Assured Value for the Least Money](https://dev.to/gdg/antigravity-my-approach-to-deliver-the-most-assured-value-for-the-least-money-3iip)
+- [Trading My Body for Logic: The Physical Decay We Ignore](https://dev.to/the_nortern_dev/trading-my-body-for-logic-the-physical-decay-we-ignore-3c4i)
 <!-- BLOG-POST-LIST:END -->
 
