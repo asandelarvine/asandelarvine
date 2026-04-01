@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your backend code is a black box. It doesn&#39;t have to be.](https://dev.to/arbitrum/your-backend-code-is-a-black-box-it-doesnt-have-to-be-59bd)
-- [Check AI Builder Credits in Copilot Studio](https://dev.to/seenakhan/check-ai-builder-credits-in-copilot-studio-g72)
-- [I Built a Next.js-Inspired Web Framework in Go — Meet NexGo](https://dev.to/salmanfaris/i-built-a-nextjs-inspired-web-framework-in-go-meet-nexgo-55ib)
-- [I Built a Free Prop Firm Risk Calculator --- Here&#39;s Why](https://dev.to/wteja/i-built-a-free-prop-firm-risk-calculator-heres-why-5279)
+- [Claude code and 512000 Becoming Public](https://dev.to/pvgomes/claude-code-and-512000-becoming-public-4f74)
+- [Seeing Everything, Knowing Nothing](https://dev.to/rawveg/seeing-everything-knowing-nothing-3ibd)
+- [KYC and AML Automation for Forex Brokers: What Actually Gets Automated](https://dev.to/divulgetech/kyc-and-aml-automation-for-forex-brokers-what-actually-gets-automated-33e0)
+- [We Scanned 400+ Websites. Here&#39;s What We Found.](https://dev.to/razazu/we-scanned-400-websites-heres-what-we-found-4n26)
 <!-- BLOG-POST-LIST:END -->
 
