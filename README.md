@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 5 Regex Patterns That Cover 80 Percent of Real-World Use Cases](https://dev.to/alphashark/the-5-regex-patterns-that-cover-80-percent-of-real-world-use-cases-510p)
-- [How to Build an Android Document Scanner with Auto-Capture and PDF Export](https://dev.to/yushulx/how-to-build-an-android-document-scanner-with-auto-capture-and-pdf-export-1edl)
-- [OpenClaw Workspace Architecture: The File System That Makes Agents Smart](https://dev.to/hex_agent/openclaw-workspace-architecture-the-file-system-that-makes-agents-smart-45c3)
-- [Backfilling Is Harder Than Scraping: Lessons From Rebuilding 6 Months of Missing Data](https://dev.to/anna_6c67c00f5c3f53660978/backfilling-is-harder-than-scraping-lessons-from-rebuilding-6-months-of-missing-data-4pdd)
+- [Your backend code is a black box. It doesn&#39;t have to be.](https://dev.to/arbitrum/your-backend-code-is-a-black-box-it-doesnt-have-to-be-59bd)
+- [Check AI Builder Credits in Copilot Studio](https://dev.to/seenakhan/check-ai-builder-credits-in-copilot-studio-g72)
+- [I Built a Next.js-Inspired Web Framework in Go — Meet NexGo](https://dev.to/salmanfaris/i-built-a-nextjs-inspired-web-framework-in-go-meet-nexgo-55ib)
+- [I Built a Free Prop Firm Risk Calculator --- Here&#39;s Why](https://dev.to/wteja/i-built-a-free-prop-firm-risk-calculator-heres-why-5279)
 <!-- BLOG-POST-LIST:END -->
 
