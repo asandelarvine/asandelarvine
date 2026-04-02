@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Retrieval-Backed Chatbot to Replace My Resume Screening Step](https://dev.to/rich_robertson/how-i-built-a-retrieval-backed-chatbot-to-replace-my-resume-screening-step-131n)
-- [I built an AI tool because I was too lazy to write tech blogs from my commits 😅](https://dev.to/devcraft_devcraft_87312/i-built-an-ai-tool-because-i-was-too-lazy-to-write-tech-blogs-from-my-commits-54b5)
-- [How to Add iMessage to OpenClaw Without a Mac](https://dev.to/emre_sarbak_261ccbd85f8fa/we-built-an-imessage-api-for-openclaw-agents-so-you-dont-need-a-mac-2foo)
-- [The Final Boss: Enterprise Governance &amp; Scalability](https://dev.to/kenwalger/the-final-boss-enterprise-governance-scalability-1d9f)
+- [building an atomic bomberman clone, part 4: react vs. the game loop](https://dev.to/tomerl1/building-an-atomic-bomberman-clone-part-4-react-vs-the-game-loop-2fg8)
+- [Why My &quot;Lightning Fast&quot; Spring Boot Native App Took 9 Seconds to Boot on Fly.io](https://dev.to/aerc18/why-my-lightning-fast-spring-boot-native-app-took-9-seconds-to-boot-on-flyio-db5)
+- [How to Upload Files and Get Public URLs with One API Call](https://dev.to/momo_dev2/how-to-upload-files-and-get-public-urls-with-one-api-call-590n)
+- [Self Introduction for Interview — Your First Impression Matters](https://dev.to/m2yglobalacademy1/self-introduction-for-interview-your-first-impression-matters-1c8f)
 <!-- BLOG-POST-LIST:END -->
 
