@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Our Introduction](https://dev.to/hurricanegaymer/our-introduction-4l75)
-- [Bringing Blink Cameras and SmartRent Devices to Apple HomeKit with Homebridge](https://dev.to/bitwise0x/bringing-blink-cameras-and-smartrent-devices-to-apple-homekit-with-homebridge-142g)
-- [When I Met ORM and ODM… and They Judged Me🤦‍♂️](https://dev.to/tomorrmonkey/when-i-met-orm-and-odm-and-they-judged-me-1p8m)
-- [Consistency Patterns &lpar;Strong, Eventual, Weak&rpar; in System Design](https://dev.to/code_2/consistency-patterns-strong-eventual-weak-in-system-design-2pjf)
+- [Why I&#39;m Building NodeDB](https://dev.to/nodedb/why-im-building-nodedb-4ml)
+- [Most Functional Coffee Is Just Regular Coffee With a Story](https://dev.to/caffstackdev/most-functional-coffee-is-just-regular-coffee-with-a-story-4c3g)
+- [365 Days of Building in Public, Perfectly Reflected By My Badges](https://dev.to/georgekobaidze/365-days-of-building-in-public-perfectly-reflected-by-my-badges-2h5f)
+- [Optimizando Cargas de Trabajo Serverless Técnicas para mejorar Rendimiento y Eficiencia](https://dev.to/aws-builders/optimizando-cargas-de-trabajo-serverless-tecnicas-para-mejorar-rendimiento-y-eficiencia-48og)
 <!-- BLOG-POST-LIST:END -->
 
