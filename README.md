@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub PR Review: Best Practices and Tools &lpar;2026&rpar;](https://dev.to/rahulxsingh/github-pr-review-best-practices-and-tools-2026-1p90)
-- [I Tried Building My Own AI… Here’s What Actually Happened](https://dev.to/krrish_jagbandhu_eca8db9d/i-tried-building-my-own-ai-heres-what-actually-happened-fn1)
-- [Filesystem for AI Agents: What I Learned Building One](https://dev.to/wondadav/filesystem-for-ai-agents-what-i-learned-building-one-pm4)
-- [Pros y Cons de las arquitecturas multi-región](https://dev.to/aws-builders/pros-y-cons-de-las-arquitecturas-multi-region-l5k)
+- [This Is What’s Really Hitting Your Website &lpar;Hint: Not People&rpar;](https://dev.to/gb26/this-is-whats-really-hitting-your-website-hint-not-people-31p6)
+- [Unit Testing in React Using Vitest — A Practical Guide](https://dev.to/thecoollearner/unit-testing-in-react-using-vitest-a-practical-guide-pbd)
+- [How to create your own Radio Station using a dynamic ip domain.](https://dev.to/djemos/how-to-create-your-own-radio-station-using-a-dynamic-ip-domain-ini)
+- [HIPAA Breach Notification Rules: A Technical Guide to What Triggers Reporting and How Fast You Need to Move](https://dev.to/joegellatly/hipaa-breach-notification-rules-a-technical-guide-to-what-triggers-reporting-and-how-fast-you-need-2lii)
 <!-- BLOG-POST-LIST:END -->
 
