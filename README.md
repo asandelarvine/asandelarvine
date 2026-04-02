@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BrewOps: A Production-Grade HTCPCP Dashboard](https://dev.to/sanjaysah/brewops-a-production-grade-htcpcp-dashboard-l35)
-- [How I Built a Free AI-Powered Article Analyzer That Scores Content for AI Search Readiness](https://dev.to/nadiamohamed/how-i-built-a-free-ai-powered-article-analyzer-that-scores-content-for-ai-search-readiness-2o06)
-- [Users Don’t Care About Your Homepage — They Care About Your Tool Page](https://dev.to/bhavin-allinonetools/users-dont-care-about-your-homepage-they-care-about-your-tool-page-3dhh)
-- [How WebAssembly makes it possible to process PDFs entirely in your browser](https://dev.to/zedxzain/how-webassembly-makes-it-possible-to-process-pdfs-entirely-in-your-browser-b70)
+- [How I built a Blog app using Edge Functions](https://dev.to/sujalluhar/how-i-built-a-blog-app-using-edge-functions-531j)
+- [Beyond the Hype: A Practical Guide to Integrating AI into Your Development Workflow](https://dev.to/midas126/beyond-the-hype-a-practical-guide-to-integrating-ai-into-your-development-workflow-41o)
+- [Designing accessible color systems and ensuring contrast across themes](https://dev.to/beefedai/designing-accessible-color-systems-and-ensuring-contrast-across-themes-2i43)
+- [Auto-Caption Generation: Whisper + FFmpeg in a Node.js Worker](https://dev.to/kyle_clipspeedai/auto-caption-generation-whisper-ffmpeg-in-a-nodejs-worker-53b0)
 <!-- BLOG-POST-LIST:END -->
 
