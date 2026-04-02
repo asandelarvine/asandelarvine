@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BDD Test Cases from User Stories: 5 Steps and 12 Scenarios](https://dev.to/krinosystems/bdd-test-cases-from-user-stories-5-steps-and-12-scenarios-g76)
-- [Del aprendizaje a la práctica: Por qué decidí dejar de estudiar en privado y empezar a compartir 🚀](https://dev.to/exegol/del-aprendizaje-a-la-practica-por-que-decidi-dejar-de-estudiar-en-privado-y-empezar-a-compartir-298g)
-- [Claude Code CLAUDE.md vs settings.json: which one controls what &lpar;and why it matters&rpar;](https://dev.to/subprime2010/claude-code-claudemd-vs-settingsjson-which-one-controls-what-and-why-it-matters-10i3)
-- [The Hallucination Problem of AI Programming Assistants: How to Implement Specification-Driven Development with OpenSpec](https://dev.to/newbe36524/the-hallucination-problem-of-ai-programming-assistants-how-to-implement-specification-driven-2i2j)
+- [I Stress-Tested PAIO for OpenClaw: Faster Setup, Lower Token Use, Better Security?](https://dev.to/dhruvjoshi9/i-stress-tested-paio-for-openclaw-faster-setup-lower-token-use-better-security-3p87)
+- [Api Structure with Http](https://dev.to/ldflutter/api-structure-with-http-299j)
+- [Optimizing Spring Boot Performance: A Practical Guide for Developers](https://dev.to/akshay_sabu_061f86c4b261e/optimizing-spring-boot-performance-a-practical-guide-for-developers-54j9)
+- [🚀 I Built an API Documentation Generator That Works in 5 Seconds](https://dev.to/jarvis_684002c699f9a6a63e/i-built-an-api-documentation-generator-that-works-in-5-seconds-4a0h)
 <!-- BLOG-POST-LIST:END -->
 
