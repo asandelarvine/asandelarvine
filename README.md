@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I rebuilt VS Code on Tauri instead of Electron and just open-sourced it](https://dev.to/kendallbooker/i-rebuilt-vs-code-on-tauri-instead-of-electron-and-just-open-sourced-it-53ao)
-- [Backpropagation Demystified: Neural Nets from First Principles](https://dev.to/berkan_sesen/backpropagation-demystified-neural-nets-from-first-principles-4303)
-- [Array Data Structure সহজভাবে বুঝুন &lpar;Operations + Real-Life Example&rpar;](https://dev.to/mohammad_alamin_a95501e7/array-data-structure-shjbhaabe-bujhun-operations-real-life-example-39m0)
-- [axios@1.14.1 Tedarik Zinciri Saldırısı: Şimdi Ne Yapmalı](https://dev.to/tobiass_hoffmann/axios1141-tedarik-zinciri-saldirisi-simdi-ne-yapmali-193a)
+- [How I Replaced Axios With `fetch` Without Breaking the App](https://dev.to/mdkaifansari04/how-i-replaced-axios-with-fetch-without-breaking-the-app-207o)
+- [How to Scrape Telegram Channels in 2026 — Free MCP + Apify Actor &lpar;No Login Required&rpar;](https://dev.to/khadin_akbar_e285e57c49af/how-to-scrape-telegram-channels-in-2026-free-mcp-apify-actor-no-login-required-17i0)
+- [Scaling WooCommerce Category Descriptions with AI](https://dev.to/nexuwp/scaling-woocommerce-category-descriptions-with-ai-3cbe)
+- [Synchronous vs Asynchronous JavaScript](https://dev.to/ritam369/synchronous-vs-asynchronous-javascript-18j2)
 <!-- BLOG-POST-LIST:END -->
 
