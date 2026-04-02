@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I’m sick of $200 SaaS boilerplates that leak tenant data. Here is how to build real isolation.](https://dev.to/jacksonkasi/im-sick-of-200-saas-boilerplates-that-leak-tenant-data-here-is-how-to-build-real-isolation-41oo)
-- [Proof of Humanity™](https://dev.to/qainsights/proof-of-humanity-198m)
-- [I Built an AI Agent Harness in Go](https://dev.to/lucasnevespereira/i-built-an-ai-agent-harness-in-go-51om)
-- [I built a browser extension that shows you everything websites store on your device and the results are kind of wild](https://dev.to/permissiontrail/i-built-a-browser-extension-that-shows-you-everything-websites-store-on-your-device-and-the-results-2han)
+- [How I Built a Retrieval-Backed Chatbot to Replace My Resume Screening Step](https://dev.to/rich_robertson/how-i-built-a-retrieval-backed-chatbot-to-replace-my-resume-screening-step-131n)
+- [I built an AI tool because I was too lazy to write tech blogs from my commits 😅](https://dev.to/devcraft_devcraft_87312/i-built-an-ai-tool-because-i-was-too-lazy-to-write-tech-blogs-from-my-commits-54b5)
+- [How to Add iMessage to OpenClaw Without a Mac](https://dev.to/emre_sarbak_261ccbd85f8fa/we-built-an-imessage-api-for-openclaw-agents-so-you-dont-need-a-mac-2foo)
+- [The Final Boss: Enterprise Governance &amp; Scalability](https://dev.to/kenwalger/the-final-boss-enterprise-governance-scalability-1d9f)
 <!-- BLOG-POST-LIST:END -->
 
