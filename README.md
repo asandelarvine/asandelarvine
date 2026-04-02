@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I&#39;m Building NodeDB](https://dev.to/nodedb/why-im-building-nodedb-4ml)
-- [Most Functional Coffee Is Just Regular Coffee With a Story](https://dev.to/caffstackdev/most-functional-coffee-is-just-regular-coffee-with-a-story-4c3g)
-- [365 Days of Building in Public, Perfectly Reflected By My Badges](https://dev.to/georgekobaidze/365-days-of-building-in-public-perfectly-reflected-by-my-badges-2h5f)
-- [Optimizando Cargas de Trabajo Serverless Técnicas para mejorar Rendimiento y Eficiencia](https://dev.to/aws-builders/optimizando-cargas-de-trabajo-serverless-tecnicas-para-mejorar-rendimiento-y-eficiencia-48og)
+- [GitHub PR Review: Best Practices and Tools &lpar;2026&rpar;](https://dev.to/rahulxsingh/github-pr-review-best-practices-and-tools-2026-1p90)
+- [I Tried Building My Own AI… Here’s What Actually Happened](https://dev.to/krrish_jagbandhu_eca8db9d/i-tried-building-my-own-ai-heres-what-actually-happened-fn1)
+- [Filesystem for AI Agents: What I Learned Building One](https://dev.to/wondadav/filesystem-for-ai-agents-what-i-learned-building-one-pm4)
+- [Pros y Cons de las arquitecturas multi-región](https://dev.to/aws-builders/pros-y-cons-de-las-arquitecturas-multi-region-l5k)
 <!-- BLOG-POST-LIST:END -->
 
