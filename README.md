@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Configuring GPU Pass-Through for AMD cards on openSUSE Kalpa](https://dev.to/nutthawit-l/configuring-gpu-pass-through-for-amd-cards-on-opensuse-kalpa-31e)
-- [Install NetBird on openSUSE MicroOS](https://dev.to/nutthawit-l/install-netbird-on-opensuse-microos-b2c)
-- [COA-MAS v2: A Meta-Framework for Cross-Domain Multi-Agent Governance](https://dev.to/rudsoncarvalho/coa-mas-v2-a-meta-framework-for-cross-domain-multi-agent-governance-4mji)
-- [Build a RAG Pipeline in Java &lpar;Text Vector LLM, No Paid APIs&rpar;](https://dev.to/sanjayghosh/build-a-rag-pipeline-in-java-text-vector-llm-no-paid-apis-3lc3)
+- [BDD Test Cases from User Stories: 5 Steps and 12 Scenarios](https://dev.to/krinosystems/bdd-test-cases-from-user-stories-5-steps-and-12-scenarios-g76)
+- [Del aprendizaje a la práctica: Por qué decidí dejar de estudiar en privado y empezar a compartir 🚀](https://dev.to/exegol/del-aprendizaje-a-la-practica-por-que-decidi-dejar-de-estudiar-en-privado-y-empezar-a-compartir-298g)
+- [Claude Code CLAUDE.md vs settings.json: which one controls what &lpar;and why it matters&rpar;](https://dev.to/subprime2010/claude-code-claudemd-vs-settingsjson-which-one-controls-what-and-why-it-matters-10i3)
+- [The Hallucination Problem of AI Programming Assistants: How to Implement Specification-Driven Development with OpenSpec](https://dev.to/newbe36524/the-hallucination-problem-of-ai-programming-assistants-how-to-implement-specification-driven-2i2j)
 <!-- BLOG-POST-LIST:END -->
 
