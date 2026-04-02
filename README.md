@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [On-Chain RSI: How to Read Live Technical Indicators From a Solidity Smart Contract](https://dev.to/pythiatheoracle/on-chain-rsi-how-to-read-live-technical-indicators-from-a-solidity-smart-contract-ghh)
-- [Why Your Streaming AI Agent Looks Broken &lpar;And How to Fix It&rpar;](https://dev.to/json_shotwell/why-your-streaming-ai-agent-looks-broken-and-how-to-fix-it-23a7)
-- [How to Add Verifiable Execution to LangChain and n8n Workflows &lpar;with NexArt&rpar;](https://dev.to/arrotu/how-to-add-verifiable-execution-to-langchain-and-n8n-workflows-with-nexart-2ijn)
-- [Go&#39;s Multiple Return Values vs. Tuples: Historical Rationale from Developer Discussions and RFCs](https://dev.to/viklogix/gos-multiple-return-values-vs-tuples-historical-rationale-from-developer-discussions-and-rfcs-3ncg)
+- [I’m sick of $200 SaaS boilerplates that leak tenant data. Here is how to build real isolation.](https://dev.to/jacksonkasi/im-sick-of-200-saas-boilerplates-that-leak-tenant-data-here-is-how-to-build-real-isolation-41oo)
+- [Proof of Humanity™](https://dev.to/qainsights/proof-of-humanity-198m)
+- [I Built an AI Agent Harness in Go](https://dev.to/lucasnevespereira/i-built-an-ai-agent-harness-in-go-51om)
+- [I built a browser extension that shows you everything websites store on your device and the results are kind of wild](https://dev.to/permissiontrail/i-built-a-browser-extension-that-shows-you-everything-websites-store-on-your-device-and-the-results-2han)
 <!-- BLOG-POST-LIST:END -->
 
