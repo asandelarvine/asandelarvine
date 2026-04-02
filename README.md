@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [building an atomic bomberman clone, part 4: react vs. the game loop](https://dev.to/tomerl1/building-an-atomic-bomberman-clone-part-4-react-vs-the-game-loop-2fg8)
-- [Why My &quot;Lightning Fast&quot; Spring Boot Native App Took 9 Seconds to Boot on Fly.io](https://dev.to/aerc18/why-my-lightning-fast-spring-boot-native-app-took-9-seconds-to-boot-on-flyio-db5)
-- [How to Upload Files and Get Public URLs with One API Call](https://dev.to/momo_dev2/how-to-upload-files-and-get-public-urls-with-one-api-call-590n)
-- [Self Introduction for Interview — Your First Impression Matters](https://dev.to/m2yglobalacademy1/self-introduction-for-interview-your-first-impression-matters-1c8f)
+- [Our Introduction](https://dev.to/hurricanegaymer/our-introduction-4l75)
+- [Bringing Blink Cameras and SmartRent Devices to Apple HomeKit with Homebridge](https://dev.to/bitwise0x/bringing-blink-cameras-and-smartrent-devices-to-apple-homekit-with-homebridge-142g)
+- [When I Met ORM and ODM… and They Judged Me🤦‍♂️](https://dev.to/tomorrmonkey/when-i-met-orm-and-odm-and-they-judged-me-1p8m)
+- [Consistency Patterns &lpar;Strong, Eventual, Weak&rpar; in System Design](https://dev.to/code_2/consistency-patterns-strong-eventual-weak-in-system-design-2pjf)
 <!-- BLOG-POST-LIST:END -->
 
