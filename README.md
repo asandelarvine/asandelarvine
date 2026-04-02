@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a Blog app using Edge Functions](https://dev.to/sujalluhar/how-i-built-a-blog-app-using-edge-functions-531j)
-- [Beyond the Hype: A Practical Guide to Integrating AI into Your Development Workflow](https://dev.to/midas126/beyond-the-hype-a-practical-guide-to-integrating-ai-into-your-development-workflow-41o)
-- [Designing accessible color systems and ensuring contrast across themes](https://dev.to/beefedai/designing-accessible-color-systems-and-ensuring-contrast-across-themes-2i43)
-- [Auto-Caption Generation: Whisper + FFmpeg in a Node.js Worker](https://dev.to/kyle_clipspeedai/auto-caption-generation-whisper-ffmpeg-in-a-nodejs-worker-53b0)
+- [On-Chain RSI: How to Read Live Technical Indicators From a Solidity Smart Contract](https://dev.to/pythiatheoracle/on-chain-rsi-how-to-read-live-technical-indicators-from-a-solidity-smart-contract-ghh)
+- [Why Your Streaming AI Agent Looks Broken &lpar;And How to Fix It&rpar;](https://dev.to/json_shotwell/why-your-streaming-ai-agent-looks-broken-and-how-to-fix-it-23a7)
+- [How to Add Verifiable Execution to LangChain and n8n Workflows &lpar;with NexArt&rpar;](https://dev.to/arrotu/how-to-add-verifiable-execution-to-langchain-and-n8n-workflows-with-nexart-2ijn)
+- [Go&#39;s Multiple Return Values vs. Tuples: Historical Rationale from Developer Discussions and RFCs](https://dev.to/viklogix/gos-multiple-return-values-vs-tuples-historical-rationale-from-developer-discussions-and-rfcs-3ncg)
 <!-- BLOG-POST-LIST:END -->
 
