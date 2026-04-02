@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Hype: A Developer&#39;s Guide to Practical AI Integration](https://dev.to/midas126/beyond-the-hype-a-developers-guide-to-practical-ai-integration-n0)
-- [How Much GPU Memory Does Your LLM Actually Need?](https://dev.to/vishalvi/how-much-gpu-memory-does-your-llm-actually-need-40le)
-- [Server hardening and attack surface reduction](https://dev.to/binadit/server-hardening-and-attack-surface-reduction-1i83)
-- [Edge Caching Strategies to Cut Latency and Cost](https://dev.to/beefedai/edge-caching-strategies-to-cut-latency-and-cost-377k)
+- [I rebuilt VS Code on Tauri instead of Electron and just open-sourced it](https://dev.to/kendallbooker/i-rebuilt-vs-code-on-tauri-instead-of-electron-and-just-open-sourced-it-53ao)
+- [Backpropagation Demystified: Neural Nets from First Principles](https://dev.to/berkan_sesen/backpropagation-demystified-neural-nets-from-first-principles-4303)
+- [Array Data Structure সহজভাবে বুঝুন &lpar;Operations + Real-Life Example&rpar;](https://dev.to/mohammad_alamin_a95501e7/array-data-structure-shjbhaabe-bujhun-operations-real-life-example-39m0)
+- [axios@1.14.1 Tedarik Zinciri Saldırısı: Şimdi Ne Yapmalı](https://dev.to/tobiass_hoffmann/axios1141-tedarik-zinciri-saldirisi-simdi-ne-yapmali-193a)
 <!-- BLOG-POST-LIST:END -->
 
