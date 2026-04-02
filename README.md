@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Stress-Tested PAIO for OpenClaw: Faster Setup, Lower Token Use, Better Security?](https://dev.to/dhruvjoshi9/i-stress-tested-paio-for-openclaw-faster-setup-lower-token-use-better-security-3p87)
-- [Api Structure with Http](https://dev.to/ldflutter/api-structure-with-http-299j)
-- [Optimizing Spring Boot Performance: A Practical Guide for Developers](https://dev.to/akshay_sabu_061f86c4b261e/optimizing-spring-boot-performance-a-practical-guide-for-developers-54j9)
-- [🚀 I Built an API Documentation Generator That Works in 5 Seconds](https://dev.to/jarvis_684002c699f9a6a63e/i-built-an-api-documentation-generator-that-works-in-5-seconds-4a0h)
+- [Beyond the Hype: A Developer&#39;s Guide to Practical AI Integration](https://dev.to/midas126/beyond-the-hype-a-developers-guide-to-practical-ai-integration-n0)
+- [How Much GPU Memory Does Your LLM Actually Need?](https://dev.to/vishalvi/how-much-gpu-memory-does-your-llm-actually-need-40le)
+- [Server hardening and attack surface reduction](https://dev.to/binadit/server-hardening-and-attack-surface-reduction-1i83)
+- [Edge Caching Strategies to Cut Latency and Cost](https://dev.to/beefedai/edge-caching-strategies-to-cut-latency-and-cost-377k)
 <!-- BLOG-POST-LIST:END -->
 
