@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Tools Race Heats Up: Week of March 16 – April 2, 2026](https://dev.to/alexmercedcoder/ai-tools-race-heats-up-week-of-march-16-april-2-2026-46hp)
-- [Apache Data Lakehouse Weekly: March 16 – April 2, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-march-16-april-2-2026-1lj5)
-- [Why We Don’t Use React](https://dev.to/designrai/why-we-dont-use-react-33b8)
-- [Puppeteer in Rust: Chromiumoxide and Headless_Chrome vs the Python Alternative](https://dev.to/vhub_systems_ed5641f65d59/puppeteer-in-rust-chromiumoxide-and-headlesschrome-vs-the-python-alternative-4ji0)
+- [I stopped building AI tools and started doing the tasks manually instead](https://dev.to/euphorie/i-stopped-building-ai-tools-and-started-doing-the-tasks-manually-instead-5de4)
+- [The Ultimate Guide to Building AI-Powered Web Apps with the Vercel AI SDK in 2026](https://dev.to/bean_bean/the-ultimate-guide-to-building-ai-powered-web-apps-with-the-vercel-ai-sdk-in-2026-1c6a)
+- [Inside Claude Code: What 512,000 Lines of Leaked TypeScript Reveal About Building AI Coding Agents](https://dev.to/bean_bean/inside-claude-code-what-512000-lines-of-leaked-typescript-reveal-about-building-ai-coding-agents-5ep)
+- [How to Scrape Websites That Require Login Without Using Selenium](https://dev.to/vhub_systems_ed5641f65d59/how-to-scrape-websites-that-require-login-without-using-selenium-240p)
 <!-- BLOG-POST-LIST:END -->
 
