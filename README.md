@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This Is What’s Really Hitting Your Website &lpar;Hint: Not People&rpar;](https://dev.to/gb26/this-is-whats-really-hitting-your-website-hint-not-people-31p6)
-- [Unit Testing in React Using Vitest — A Practical Guide](https://dev.to/thecoollearner/unit-testing-in-react-using-vitest-a-practical-guide-pbd)
-- [How to create your own Radio Station using a dynamic ip domain.](https://dev.to/djemos/how-to-create-your-own-radio-station-using-a-dynamic-ip-domain-ini)
-- [HIPAA Breach Notification Rules: A Technical Guide to What Triggers Reporting and How Fast You Need to Move](https://dev.to/joegellatly/hipaa-breach-notification-rules-a-technical-guide-to-what-triggers-reporting-and-how-fast-you-need-2lii)
+- [AI Tools Race Heats Up: Week of March 16 – April 2, 2026](https://dev.to/alexmercedcoder/ai-tools-race-heats-up-week-of-march-16-april-2-2026-46hp)
+- [Apache Data Lakehouse Weekly: March 16 – April 2, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-march-16-april-2-2026-1lj5)
+- [Why We Don’t Use React](https://dev.to/designrai/why-we-dont-use-react-33b8)
+- [Puppeteer in Rust: Chromiumoxide and Headless_Chrome vs the Python Alternative](https://dev.to/vhub_systems_ed5641f65d59/puppeteer-in-rust-chromiumoxide-and-headlesschrome-vs-the-python-alternative-4ji0)
 <!-- BLOG-POST-LIST:END -->
 
