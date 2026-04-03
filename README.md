@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Staying Open for Business on the Busiest Internet Shopping Day](https://dev.to/lowlifehighway/staying-open-for-business-on-the-busiest-internet-shopping-day-2gdd)
-- [Stop Polluting Your Dev Inbox: A Developer&#39;s Guide to Temp Email in 2026](https://dev.to/waqarhabib/stop-polluting-your-dev-inbox-a-developers-guide-to-temp-email-in-2025-3o30)
-- [Why I Built a 3,200-Line Python Pipeline to Generate Synthetic Financial Data From Math -- Not AI](https://dev.to/sovereignforger/why-i-built-a-3200-line-python-pipeline-to-generate-synthetic-financial-data-from-math-not-ai-hki)
-- [Cache Me If You Can: Building a Web-Based Redis Upgrade Dashboard on AWS](https://dev.to/aws-builders/cache-me-if-you-can-building-a-web-based-redis-upgrade-dashboard-on-aws-495n)
+- [No It Wasn&#39;t A Waste Entirely](https://dev.to/ddebajyati/no-it-wasnt-a-waste-entirely-58oi)
+- [System Design: проектируем систему бронирования билетов](https://dev.to/nowinterview/system-design-proiektiruiem-sistiemu-bronirovaniia-bilietov-2e1e)
+- [Addressing Civic Transparency: Centralized Tools to Track Corporate Influence on Government Activities](https://dev.to/romdevin/addressing-civic-transparency-centralized-tools-to-track-corporate-influence-on-government-2e04)
+- [Building a Zero-Cost SEO Prerender Pipeline for My React SPA on AWS](https://dev.to/aws-builders/building-a-zero-cost-seo-prerender-pipeline-for-my-react-spa-on-aws-4b6o)
 <!-- BLOG-POST-LIST:END -->
 
