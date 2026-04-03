@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Guesswork to Growth: Aligning AI Forecasts with CSA Demand](https://dev.to/ken_deng_ai/from-guesswork-to-growth-aligning-ai-forecasts-with-csa-demand-5201)
-- [🚀 What’s New in React: Latest Features You Should Know](https://dev.to/pulkitagrawal105/whats-new-in-react-latest-features-you-should-know-d1h)
-- [ai agent tools vs mcp](https://dev.to/aditya_gupta_india/ai-agent-tools-vs-mcp-4ef1)
-- [I spent 6 months building a Chrome extension with Vue 3 and Shadow DOM -- here are the hard parts](https://dev.to/cs_alishopping/i-spent-6-months-building-a-chrome-extension-with-vue-3-and-shadow-dom-here-are-the-hard-parts-p2m)
+- [Jira for AI Agents &amp; Humans](https://dev.to/yvg/jira-for-ai-agents-humans-282a)
+- [From Script-Kiddie to Enterprise: Re-architecting Python Scraping Tools into Scalable FastMCP Backends](https://dev.to/mbit/from-script-kiddie-to-enterprise-re-architecting-python-scraping-tools-into-scalable-fastmcp-4ad2)
+- [Zero-Trust IT Audit: How to Secure Business Processes Before Entering European Markets](https://dev.to/mbit/zero-trust-it-audit-how-to-secure-business-processes-before-entering-european-markets-4eif)
+- [Automating Multilingual Content for Odoo 18: Our Headless CMS Pipeline with GPT-5.4](https://dev.to/mbit/automating-multilingual-content-for-odoo-18-our-headless-cms-pipeline-with-gpt-54-6dl)
 <!-- BLOG-POST-LIST:END -->
 
