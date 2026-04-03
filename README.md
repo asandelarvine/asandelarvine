@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Resize Observer in Modern Web Development](https://dev.to/manoj_004d/understanding-resize-observer-in-modern-web-development-3gij)
-- [AI Will Fundamentally Reshape How Advertising Works. Here&#39;s the Structural Analysis.](https://dev.to/s3atoshi_leading_ai/ai-will-fundamentally-reshape-how-advertising-works-heres-the-structural-analysis-pa6)
-- [Getting Data from Multiple Sources in Power BI:A Beginner-Friendly Approach](https://dev.to/afeezfausat/getting-data-from-multiple-sources-in-power-bia-beginner-friendly-approach-1b71)
-- [WebMCP Explained: The New Standard That Turns Websites Into APIs for AI Agents](https://dev.to/lazyasscoder/webmcp-explained-the-new-standard-that-turns-websites-into-apis-for-ai-agents-38l)
+- [Why OpenAI Buying TBPN Matters More Than It Looks](https://dev.to/damogallagher/why-openai-buying-tbpn-matters-more-than-it-looks-46dd)
+- [The Docker Dependency Problem No One Talks About &lpar;But Everyone Feels&rpar;](https://dev.to/mindmagic/the-docker-dependency-problem-no-one-talks-about-but-everyone-feels-56co)
+- [**Title: The Hidden Relationships That Keep Modern IT Systems Alive**](https://dev.to/mindmagic/title-the-hidden-relationships-that-keep-modern-it-systems-alive-48p2)
+- [Your AI sales agent has a problem](https://dev.to/george_gogidze_2bfb36969a/your-ai-sales-agent-has-a-problem-1j3d)
 <!-- BLOG-POST-LIST:END -->
 
