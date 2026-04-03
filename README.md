@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Echoes of Experience : From Assumptions to Architecture](https://dev.to/eyepatch5263/echoes-of-experience-from-assumptions-to-architecture-pfl)
-- [We Built Domain-Specific Compression for Messages. Here&#39;s What We Learned.](https://dev.to/atomsrkuul/we-built-domain-specific-compression-for-messages-heres-what-we-learned-2o28)
-- [How Freelancers Can Host 3 Client Apps for Free with Deploynix](https://dev.to/deploynix/how-freelancers-can-host-3-client-apps-for-free-with-deploynix-kj1)
-- [What if 30,000 Ex-Oracle Employees Teamed Up?](https://dev.to/bilalmez/what-if-30000-ex-oracle-employees-teamed-up-4h2c)
+- [Which AI models are actually &quot;brain-like&quot;? I built an open-source benchmark to measure it](https://dev.to/sid_r/which-ai-models-are-actually-brain-like-i-built-an-open-source-benchmark-to-measure-it-fja)
+- [Why cadou.me doesn’t have a mobile app &lpar;and why users prefer it that way&rpar;](https://dev.to/cadou_me_20827c3ecf1f7514/why-cadoume-doesnt-have-a-mobile-app-and-why-users-prefer-it-that-way-4e41)
+- [Creating a simple Message Bus: Episode 3](https://dev.to/breda/creating-a-simple-message-bus-episode-3-1mam)
+- [Solo Dev Needs Android Testers: Built a Focus Timer and a Noise Logger](https://dev.to/orthogonalinfo/solo-dev-needs-android-testers-built-a-focus-timer-and-a-noise-logger-552c)
 <!-- BLOG-POST-LIST:END -->
 
