@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an honest Amazon review scorer. Here&#39;s what 478 shoppers told us about why returns are broken.](https://dev.to/chad_musselman_f3bbf4cc78/i-built-an-honest-amazon-review-scorer-heres-what-478-shoppers-told-us-about-why-returns-are-8bk)
-- [mathfuse: TypeScript Math Utilities &lpar;Statistics, Vectors, Matrices&rpar; Zero Dependencies](https://dev.to/avinashvelu03/mathfuse-typescript-math-utilities-statistics-vectors-matrices-zero-dependencies-173o)
-- [9 Reasons qwen3.5:9B Outshines Larger Models for Local Agents on RTX 5070 Ti](https://dev.to/onewallai/9-reasons-qwen359b-outshines-larger-models-for-local-agents-on-rtx-5070-ti-5c69)
-- [How to Run Local AI Agents on Consumer‑Grade Hardware: A Practical Guide](https://dev.to/onewallai/how-to-run-local-ai-agents-on-consumer-grade-hardware-a-practical-guide-19kj)
+- [Echoes of Experience : From Assumptions to Architecture](https://dev.to/eyepatch5263/echoes-of-experience-from-assumptions-to-architecture-pfl)
+- [We Built Domain-Specific Compression for Messages. Here&#39;s What We Learned.](https://dev.to/atomsrkuul/we-built-domain-specific-compression-for-messages-heres-what-we-learned-2o28)
+- [How Freelancers Can Host 3 Client Apps for Free with Deploynix](https://dev.to/deploynix/how-freelancers-can-host-3-client-apps-for-free-with-deploynix-kj1)
+- [What if 30,000 Ex-Oracle Employees Teamed Up?](https://dev.to/bilalmez/what-if-30000-ex-oracle-employees-teamed-up-4h2c)
 <!-- BLOG-POST-LIST:END -->
 
