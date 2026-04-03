@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Should I stress over a staging environment?](https://dev.to/highcenburg/should-i-stress-over-a-staging-environment-2chp)
-- [How I Stopped UI State Drift with a DOM Boundary Approach](https://dev.to/y_arakawalabo192/how-i-stopped-ui-state-drift-with-a-dom-boundary-approach-bg6)
-- [I had a bunch of Skills sitting in a folder. None of them were callable as APIs](https://dev.to/skrun/i-had-a-bunch-of-skills-sitting-in-a-folder-none-of-them-were-callable-as-apis-m46)
-- [Why Markdoc for LLM Streaming UI](https://dev.to/abhaygawade/why-markdoc-for-llm-streaming-ui-3m26)
+- [I Built ckpt: Automatic Checkpoints for AI Coding Sessions](https://dev.to/moo_moo_5f1e2b4306785a535/i-built-ckpt-automatic-checkpoints-for-ai-coding-sessions-44gl)
+- [How I test AI agent frontends without calling the API once](https://dev.to/abhishek_chatterjee_33b9d/how-i-test-ai-agent-frontends-without-calling-the-api-once-1ea1)
+- [Depresso-Tron 418: I Built a Bureaucratic Coffee Machine That Cannot Make Coffee](https://dev.to/greysquirr3l/depresso-tron-418-i-built-a-bureaucratic-coffee-machine-that-cannot-make-coffee-33pl)
+- [AI-Based Medicinal Plant Leaf Analysis System](https://dev.to/surya_saketh_2ad73f686fdf/ai-based-medicinal-plant-leaf-analysis-system-3pj6)
 <!-- BLOG-POST-LIST:END -->
 
