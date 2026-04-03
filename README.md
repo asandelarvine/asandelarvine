@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Homelab HA Kubernetes Cluster Upgrade: My New Shrine / Altar](https://dev.to/ezejioforog/homelab-ha-kubernetes-cluster-upgrade-my-new-shrine-altar-5c34)
-- [April 9 - Visual AI Agents Workshop](https://dev.to/voxel51/april-9-visual-ai-agents-workshop-482m)
-- [How to Run Google&#39;s Gemma 4 Locally with Ollama — All 4 Model Sizes Compared](https://dev.to/purpledoubled/how-to-run-googles-gemma-4-locally-with-ollama-all-4-model-sizes-compared-2pbh)
-- [Why Python Told Me To Stop Writing My Own Code](https://dev.to/grantdotdev/why-python-told-me-to-stop-writing-my-own-code-4fbb)
+- [I Hacked the JVM to Visualize Algorithms Without Touching the Source Code](https://dev.to/vishchan/i-hacked-the-jvm-to-visualize-algorithms-without-touching-the-source-code-1kp1)
+- [O1 vs O3-mini vs O4-mini: Code Review Comparison](https://dev.to/rahulxsingh/o1-vs-o3-mini-vs-o4-mini-code-review-comparison-a7p)
+- [The Frontend as an Intelligent Assistant](https://dev.to/rohith_kn/the-frontend-as-an-intelligent-assistant-14ab)
+- [I Built a Personal AI Assistant with a Telegram Bot Using OpenClaw — Here&#39;s How](https://dev.to/btechnik/i-built-a-personal-ai-assistant-with-a-telegram-bot-using-openclaw-heres-how-2am3)
 <!-- BLOG-POST-LIST:END -->
 
