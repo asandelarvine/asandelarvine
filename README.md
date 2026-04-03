@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [No It Wasn&#39;t A Waste Entirely](https://dev.to/ddebajyati/no-it-wasnt-a-waste-entirely-58oi)
-- [System Design: проектируем систему бронирования билетов](https://dev.to/nowinterview/system-design-proiektiruiem-sistiemu-bronirovaniia-bilietov-2e1e)
-- [Addressing Civic Transparency: Centralized Tools to Track Corporate Influence on Government Activities](https://dev.to/romdevin/addressing-civic-transparency-centralized-tools-to-track-corporate-influence-on-government-2e04)
-- [Building a Zero-Cost SEO Prerender Pipeline for My React SPA on AWS](https://dev.to/aws-builders/building-a-zero-cost-seo-prerender-pipeline-for-my-react-spa-on-aws-4b6o)
+- [Should I stress over a staging environment?](https://dev.to/highcenburg/should-i-stress-over-a-staging-environment-2chp)
+- [How I Stopped UI State Drift with a DOM Boundary Approach](https://dev.to/y_arakawalabo192/how-i-stopped-ui-state-drift-with-a-dom-boundary-approach-bg6)
+- [I had a bunch of Skills sitting in a folder. None of them were callable as APIs](https://dev.to/skrun/i-had-a-bunch-of-skills-sitting-in-a-folder-none-of-them-were-callable-as-apis-m46)
+- [Why Markdoc for LLM Streaming UI](https://dev.to/abhaygawade/why-markdoc-for-llm-streaming-ui-3m26)
 <!-- BLOG-POST-LIST:END -->
 
