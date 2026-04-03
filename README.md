@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built ckpt: Automatic Checkpoints for AI Coding Sessions](https://dev.to/moo_moo_5f1e2b4306785a535/i-built-ckpt-automatic-checkpoints-for-ai-coding-sessions-44gl)
-- [How I test AI agent frontends without calling the API once](https://dev.to/abhishek_chatterjee_33b9d/how-i-test-ai-agent-frontends-without-calling-the-api-once-1ea1)
-- [Depresso-Tron 418: I Built a Bureaucratic Coffee Machine That Cannot Make Coffee](https://dev.to/greysquirr3l/depresso-tron-418-i-built-a-bureaucratic-coffee-machine-that-cannot-make-coffee-33pl)
-- [AI-Based Medicinal Plant Leaf Analysis System](https://dev.to/surya_saketh_2ad73f686fdf/ai-based-medicinal-plant-leaf-analysis-system-3pj6)
+- [The Mandate Had No Return Address](https://dev.to/jonoherrington/the-mandate-had-no-return-address-16fo)
+- [Cursor AI Review 2026: The Code Editor That Thinks Alongside You](https://dev.to/techsifted/cursor-ai-review-2026-the-code-editor-that-thinks-alongside-you-33gl)
+- [Rescuing 216 Pages from the GeoCities Era: How I Built an HTML-to-Blogger Tool](https://dev.to/amekusa03/rescuing-216-pages-from-the-geocities-era-how-i-built-an-html-to-blogger-tool-2ajk)
+- [Gemma 4: A Practical Guide for Developers](https://dev.to/arshtechpro/gemma-4-a-practical-guide-for-developers-2co5)
 <!-- BLOG-POST-LIST:END -->
 
