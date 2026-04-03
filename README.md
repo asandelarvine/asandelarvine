@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Jira for AI Agents &amp; Humans](https://dev.to/yvg/jira-for-ai-agents-humans-282a)
-- [From Script-Kiddie to Enterprise: Re-architecting Python Scraping Tools into Scalable FastMCP Backends](https://dev.to/mbit/from-script-kiddie-to-enterprise-re-architecting-python-scraping-tools-into-scalable-fastmcp-4ad2)
-- [Zero-Trust IT Audit: How to Secure Business Processes Before Entering European Markets](https://dev.to/mbit/zero-trust-it-audit-how-to-secure-business-processes-before-entering-european-markets-4eif)
-- [Automating Multilingual Content for Odoo 18: Our Headless CMS Pipeline with GPT-5.4](https://dev.to/mbit/automating-multilingual-content-for-odoo-18-our-headless-cms-pipeline-with-gpt-54-6dl)
+- [Staying Open for Business on the Busiest Internet Shopping Day](https://dev.to/lowlifehighway/staying-open-for-business-on-the-busiest-internet-shopping-day-2gdd)
+- [Stop Polluting Your Dev Inbox: A Developer&#39;s Guide to Temp Email in 2026](https://dev.to/waqarhabib/stop-polluting-your-dev-inbox-a-developers-guide-to-temp-email-in-2025-3o30)
+- [Why I Built a 3,200-Line Python Pipeline to Generate Synthetic Financial Data From Math -- Not AI](https://dev.to/sovereignforger/why-i-built-a-3200-line-python-pipeline-to-generate-synthetic-financial-data-from-math-not-ai-hki)
+- [Cache Me If You Can: Building a Web-Based Redis Upgrade Dashboard on AWS](https://dev.to/aws-builders/cache-me-if-you-can-building-a-web-based-redis-upgrade-dashboard-on-aws-495n)
 <!-- BLOG-POST-LIST:END -->
 
