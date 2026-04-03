@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Hacked the JVM to Visualize Algorithms Without Touching the Source Code](https://dev.to/vishchan/i-hacked-the-jvm-to-visualize-algorithms-without-touching-the-source-code-1kp1)
-- [O1 vs O3-mini vs O4-mini: Code Review Comparison](https://dev.to/rahulxsingh/o1-vs-o3-mini-vs-o4-mini-code-review-comparison-a7p)
-- [The Frontend as an Intelligent Assistant](https://dev.to/rohith_kn/the-frontend-as-an-intelligent-assistant-14ab)
-- [I Built a Personal AI Assistant with a Telegram Bot Using OpenClaw — Here&#39;s How](https://dev.to/btechnik/i-built-a-personal-ai-assistant-with-a-telegram-bot-using-openclaw-heres-how-2am3)
+- [7 Fatal Lighting Mistakes That Will Destroy Your Exhibition Stand](https://dev.to/gianni2009/7-fatal-lighting-mistakes-that-will-destroy-your-exhibition-stand-5856)
+- [I Started Building a Roguelike RPG — Powered by On-Device AI #1](https://dev.to/as1as/i-started-building-a-roguelike-rpg-powered-by-on-device-ai-2o4i)
+- [Eu achava que Node.js era o “Django do JavaScript”… até entender isso](https://dev.to/mffdeo/eu-achava-que-nodejs-era-o-django-do-javascript-ate-entender-isso-4904)
+- [01-VPC — AWS Private/Public Subnet Architecture](https://dev.to/recklessbud_19/01-vpc-aws-privatepublic-subnet-architecture-47be)
 <!-- BLOG-POST-LIST:END -->
 
