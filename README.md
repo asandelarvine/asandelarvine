@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I stopped building AI tools and started doing the tasks manually instead](https://dev.to/euphorie/i-stopped-building-ai-tools-and-started-doing-the-tasks-manually-instead-5de4)
-- [The Ultimate Guide to Building AI-Powered Web Apps with the Vercel AI SDK in 2026](https://dev.to/bean_bean/the-ultimate-guide-to-building-ai-powered-web-apps-with-the-vercel-ai-sdk-in-2026-1c6a)
-- [Inside Claude Code: What 512,000 Lines of Leaked TypeScript Reveal About Building AI Coding Agents](https://dev.to/bean_bean/inside-claude-code-what-512000-lines-of-leaked-typescript-reveal-about-building-ai-coding-agents-5ep)
-- [How to Scrape Websites That Require Login Without Using Selenium](https://dev.to/vhub_systems_ed5641f65d59/how-to-scrape-websites-that-require-login-without-using-selenium-240p)
+- [From Guesswork to Growth: Aligning AI Forecasts with CSA Demand](https://dev.to/ken_deng_ai/from-guesswork-to-growth-aligning-ai-forecasts-with-csa-demand-5201)
+- [🚀 What’s New in React: Latest Features You Should Know](https://dev.to/pulkitagrawal105/whats-new-in-react-latest-features-you-should-know-d1h)
+- [ai agent tools vs mcp](https://dev.to/aditya_gupta_india/ai-agent-tools-vs-mcp-4ef1)
+- [I spent 6 months building a Chrome extension with Vue 3 and Shadow DOM -- here are the hard parts](https://dev.to/cs_alishopping/i-spent-6-months-building-a-chrome-extension-with-vue-3-and-shadow-dom-here-are-the-hard-parts-p2m)
 <!-- BLOG-POST-LIST:END -->
 
