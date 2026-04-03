@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Which AI models are actually &quot;brain-like&quot;? I built an open-source benchmark to measure it](https://dev.to/sid_r/which-ai-models-are-actually-brain-like-i-built-an-open-source-benchmark-to-measure-it-fja)
-- [Why cadou.me doesn’t have a mobile app &lpar;and why users prefer it that way&rpar;](https://dev.to/cadou_me_20827c3ecf1f7514/why-cadoume-doesnt-have-a-mobile-app-and-why-users-prefer-it-that-way-4e41)
-- [Creating a simple Message Bus: Episode 3](https://dev.to/breda/creating-a-simple-message-bus-episode-3-1mam)
-- [Solo Dev Needs Android Testers: Built a Focus Timer and a Noise Logger](https://dev.to/orthogonalinfo/solo-dev-needs-android-testers-built-a-focus-timer-and-a-noise-logger-552c)
+- [Understanding Resize Observer in Modern Web Development](https://dev.to/manoj_004d/understanding-resize-observer-in-modern-web-development-3gij)
+- [AI Will Fundamentally Reshape How Advertising Works. Here&#39;s the Structural Analysis.](https://dev.to/s3atoshi_leading_ai/ai-will-fundamentally-reshape-how-advertising-works-heres-the-structural-analysis-pa6)
+- [Getting Data from Multiple Sources in Power BI:A Beginner-Friendly Approach](https://dev.to/afeezfausat/getting-data-from-multiple-sources-in-power-bia-beginner-friendly-approach-1b71)
+- [WebMCP Explained: The New Standard That Turns Websites Into APIs for AI Agents](https://dev.to/lazyasscoder/webmcp-explained-the-new-standard-that-turns-websites-into-apis-for-ai-agents-38l)
 <!-- BLOG-POST-LIST:END -->
 
