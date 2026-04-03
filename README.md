@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why OpenAI Buying TBPN Matters More Than It Looks](https://dev.to/damogallagher/why-openai-buying-tbpn-matters-more-than-it-looks-46dd)
-- [The Docker Dependency Problem No One Talks About &lpar;But Everyone Feels&rpar;](https://dev.to/mindmagic/the-docker-dependency-problem-no-one-talks-about-but-everyone-feels-56co)
-- [**Title: The Hidden Relationships That Keep Modern IT Systems Alive**](https://dev.to/mindmagic/title-the-hidden-relationships-that-keep-modern-it-systems-alive-48p2)
-- [Your AI sales agent has a problem](https://dev.to/george_gogidze_2bfb36969a/your-ai-sales-agent-has-a-problem-1j3d)
+- [Homelab HA Kubernetes Cluster Upgrade: My New Shrine / Altar](https://dev.to/ezejioforog/homelab-ha-kubernetes-cluster-upgrade-my-new-shrine-altar-5c34)
+- [April 9 - Visual AI Agents Workshop](https://dev.to/voxel51/april-9-visual-ai-agents-workshop-482m)
+- [How to Run Google&#39;s Gemma 4 Locally with Ollama — All 4 Model Sizes Compared](https://dev.to/purpledoubled/how-to-run-googles-gemma-4-locally-with-ollama-all-4-model-sizes-compared-2pbh)
+- [Why Python Told Me To Stop Writing My Own Code](https://dev.to/grantdotdev/why-python-told-me-to-stop-writing-my-own-code-4fbb)
 <!-- BLOG-POST-LIST:END -->
 
