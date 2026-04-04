@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Fatal Lighting Mistakes That Will Destroy Your Exhibition Stand](https://dev.to/gianni2009/7-fatal-lighting-mistakes-that-will-destroy-your-exhibition-stand-5856)
-- [I Started Building a Roguelike RPG — Powered by On-Device AI #1](https://dev.to/as1as/i-started-building-a-roguelike-rpg-powered-by-on-device-ai-2o4i)
-- [Eu achava que Node.js era o “Django do JavaScript”… até entender isso](https://dev.to/mffdeo/eu-achava-que-nodejs-era-o-django-do-javascript-ate-entender-isso-4904)
-- [01-VPC — AWS Private/Public Subnet Architecture](https://dev.to/recklessbud_19/01-vpc-aws-privatepublic-subnet-architecture-47be)
+- [Layered Agentic Retrieval for Retail Floor Questions: A Solo PoC](https://dev.to/exploredataaiml/layered-agentic-retrieval-for-retail-floor-questions-a-solo-poc-221g)
+- [How to Handle Sensitive Data Securely in Terraform](https://dev.to/mary_mutua_9d55b3c269f343/how-to-handle-sensitive-data-securely-in-terraform-5fgn)
+- [Secure Cross-Platform File Sharing: A Unified Solution for Diverse Devices and Networks](https://dev.to/serbyte/secure-cross-platform-file-sharing-a-unified-solution-for-diverse-devices-and-networks-5d5j)
+- [I Tested a Real AI Agent for Security. The LLM Knew It Was Dangerous — But the Tool Layer Executed Anyway.](https://dev.to/claude-go/i-tested-a-real-ai-agent-for-security-the-llm-knew-it-was-dangerous-but-the-tool-layer-executed-1c2c)
 <!-- BLOG-POST-LIST:END -->
 
