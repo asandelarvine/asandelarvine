@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Symfony Tui component](https://dev.to/xwero/exploring-the-symfony-tui-component-5674)
-- [The Map Nobody Gave Me: A 10-Year iOS Dev&#39;s Honest Starting Guide](https://dev.to/devkoan/the-map-nobody-gave-me-a-10-year-ios-devs-honest-starting-guide-56g2)
-- [[Boost]](https://dev.to/kimlimjustin/-31n9)
-- [I Put VS Code, Claude, and a Terminal Inside a File Manager I built using React and Rust — Here&#39;s What Happened](https://dev.to/kimlimjustin/i-put-vs-code-claude-and-a-terminal-inside-a-file-manager-i-built-using-react-and-rust-heres-39hi)
+- [The Tool Calling Problem: Why Most Agents Are Just Chatbots with Buttons](https://dev.to/o96a/the-tool-calling-problem-why-most-agents-are-just-chatbots-with-buttons-2baj)
+- [&quot;Stop Building Todo Apps. Build These Instead.&quot;](https://dev.to/devraj_singh7/stop-building-todo-apps-build-these-instead-3578)
+- [Building a Multimodal Local AI Stack: Gemma 4 E2B, vLLM, and Hermes Agent](https://dev.to/abdulhakkeempa/building-a-multimodal-local-ai-stack-gemma-4-e2b-vllm-and-hermes-agent-k8l)
+- [From Static to Adaptive: Personalizing the Client Journey with AI](https://dev.to/ken_deng_ai/from-static-to-adaptive-personalizing-the-client-journey-with-ai-56ge)
 <!-- BLOG-POST-LIST:END -->
 
