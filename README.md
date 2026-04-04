@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cursor 3 Turned My IDE Into a Management Dashboard. I&#39;m Not Sure I Asked for That.](https://dev.to/adioof/cursor-3-turned-my-ide-into-a-management-dashboard-im-not-sure-i-asked-for-that-277j)
-- [How to Build Forms in Strapi v5 with strapi-plugin-form-builder-cms](https://dev.to/devcluna/how-to-build-forms-in-strapi-v5-with-strapi-plugin-form-builder-cms-393j)
-- [I Used ChatGPT as My Sales Role-Play Partner — Here&#39;s What Happened](https://dev.to/_5aa8ee1f92b89fef1/i-used-chatgpt-as-my-sales-role-play-partner-heres-what-happened-27l3)
-- [Day 3 - Added Security, Authentication and Jwt Tokens in REST API Project](https://dev.to/bharathdhana/day-3-added-security-authentication-and-jwt-tokens-in-rest-api-project-3kal)
+- [Make Every Problem Claude&#39;s Problem](https://dev.to/rdeknijf/make-every-problem-claudes-problem-12n)
+- [StackWeave - a fullstack monorepo for web, mobile &amp; backend &lpar;and why I built it&rpar;](https://dev.to/amitgharge/stackweave-a-fullstack-monorepo-for-web-mobile-backend-and-why-i-built-it-27o0)
+- [How We Built a Free Browser-Based Screen Recorder](https://dev.to/paweldotio/how-we-built-a-free-browser-based-screen-recorder-4m04)
+- [Artemis II Hoax Command Center: A Tabbed Dashboard Full of Trump Truth Posts and Moon Landing Debunking Chaos](https://dev.to/wereelliot/artemis-ii-hoax-command-center-a-tabbed-dashboard-full-of-trump-truth-posts-and-moon-landing-49i1)
 <!-- BLOG-POST-LIST:END -->
 
