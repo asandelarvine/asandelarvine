@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Cursor 3 Just Dropped: Why &quot;Agent Swarms&quot; Are the New Meta for Developers](https://dev.to/siddhesh_surve/cursor-3-just-dropped-why-agent-swarms-are-the-new-meta-for-developers-2l2c)
-- [Why JSON Breaks in AI Pipelines — and the TOON Format I Built to Fix It](https://dev.to/pramod_kumar_0820/why-json-breaks-in-ai-pipelines-and-the-toon-format-i-built-to-fix-it-2hp)
-- [HMRC and US LLCs: The Opaque Entity Tax Trap for UK Founders](https://dev.to/jettfu/hmrc-and-us-llcs-the-opaque-entity-tax-trap-for-uk-founders-4iib)
-- [Miss Form 5472? The $25,000 IRS Penalty for Non-Resident LLCs](https://dev.to/jettfu/miss-form-5472-the-25000-irs-penalty-for-non-resident-llcs-123d)
+- [5 Open Source CSS Frameworks for Mobile-First Web Development](https://dev.to/137foundry/5-open-source-css-frameworks-for-mobile-first-web-development-2he9)
+- [I Built a Product While My User Slept. Here&#39;s What I Learned About Autonomous AI.](https://dev.to/xadenai/i-built-a-product-while-my-user-slept-heres-what-i-learned-about-autonomous-ai-bp1)
+- [Understanding the this Keyword in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/understanding-the-this-keyword-in-javascript-5135)
+- [Map and Set in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/map-and-set-in-javascript-58ip)
 <!-- BLOG-POST-LIST:END -->
 
