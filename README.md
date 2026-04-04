@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Supabase App Might Be Leaking User Data &lpar;and How to Fix It with RLS&rpar;](https://dev.to/gifteddev/why-your-supabase-app-might-be-leaking-user-data-and-how-to-fix-it-with-rls-2fbf)
-- [How Much Does It Cost to Build a Mobile App in 2026? &lpar;Real Numbers&rpar;](https://dev.to/techvinta/how-much-does-it-cost-to-build-a-mobile-app-in-2026-real-numbers-aek)
-- [I Automated My Content Pipeline with Claude Code. Here&#39;s Everything.](https://dev.to/igorgridel/i-automated-my-content-pipeline-with-claude-code-heres-everything-1a58)
-- [I got tired of explaining myself with 5 different links, so I built this](https://dev.to/vipulbuilds/i-got-tired-of-explaining-myself-with-5-different-links-so-i-built-this-336b)
+- [Evolution of the Type System: Assessing the Impact of TypeScript 6.0](https://dev.to/otuny/evolution-of-the-type-system-assessing-the-impact-of-typescript-60-4h38)
+- [Unpacking the True Cost of Blockchain Indexing: More Than Just Infrastructure](https://dev.to/0xagency/unpacking-the-true-cost-of-blockchain-indexing-more-than-just-infrastructure-3pp4)
+- [The coordinate space bug that four rewrites couldn&#39;t fix](https://dev.to/frandy-slueue/the-coordinate-space-bug-that-four-rewrites-couldnt-fix-3khi)
+- [Stop Googling Cron Syntax -Use This Instead](https://dev.to/mpsoftwarestudio/stop-googling-cron-syntax-use-this-instead-5aon)
 <!-- BLOG-POST-LIST:END -->
 
