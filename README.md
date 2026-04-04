@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter State Management Done Right: GetX Pattern Template You Can Clone Today](https://dev.to/alexdevson/flutter-state-management-done-right-getx-pattern-template-you-can-clone-today-569a)
-- [Automating Repetitive Tasks with Workany](https://dev.to/stelixx-insider/automating-repetitive-tasks-with-workany-28jb)
-- [Top Skills by Category — 2026-04-04](https://dev.to/_0ae5dca97e251657f73267/top-skills-by-category-2026-04-04-1koj)
-- [Coding Alone Won&#39;t Save Your Career in 2026. Here&#39;s What Will](https://dev.to/jintukumardas/coding-alone-wont-save-your-career-in-2026-heres-what-will-4ha0)
+- [Building Lysis: A Review Engine Where AI Models Collaborate and Evolve](https://dev.to/sho_ikeda/building-lysis-a-review-engine-where-ai-models-collaborate-and-evolve-41b6)
+- [Gemma 4 Just Dropped. It&#39;s the Sharpest Tool in the Shed. Do You Have a Plan?](https://dev.to/mattbuscher/gemma-4-just-dropped-its-the-sharpest-tool-in-the-shed-do-you-have-a-plan-m86)
+- [The Hidden Cost of Import Chains](https://dev.to/peng_cao/the-hidden-cost-of-import-chains-20jk)
+- [Most tutorials miss these Basic and important concepts about Dockerization.](https://dev.to/codewithdev2/most-tutorials-miss-these-basic-and-important-concepts-about-dockerization-2hjd)
 <!-- BLOG-POST-LIST:END -->
 
