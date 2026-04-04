@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sample of function](https://dev.to/vignesh_sky/sample-of-function-20j4)
-- [We Had 100 Dead Alerts Firing for Services That No Longer Existed. So I Built a Kubernetes Operator.](https://dev.to/infra_tools_97d10de984ee0/we-had-100-dead-alerts-firing-for-services-that-no-longer-existed-so-i-built-a-kubernetes-operator-5e6d)
-- [How Photography Rebuilt My Brain After a Traumatic Injury](https://dev.to/zsky/how-photography-rebuilt-my-brain-after-a-traumatic-injury-m1b)
-- [Compile Your Knowledge, Don&quot;t Search It: What LLM Knowledge Bases Reveal About Agent Memory](https://dev.to/rotiferdev/compile-your-knowledge-dont-search-it-what-llm-knowledge-bases-reveal-about-agent-memory-32pg)
+- [I Built an MCP Server That Understands Your MSBuild Project Graph — Before You Build](https://dev.to/florinvica/i-built-an-mcp-server-that-understands-your-msbuild-project-graph-before-you-build-1pc8)
+- [Agent Middleware in Microsoft Agent Framework 1.0](https://dev.to/sreeni5018/agent-middleware-in-microsoft-agent-framework-10-2bm0)
+- [کود کشاورزی — Complete Guide](https://dev.to/sahand1987/khwd-khshwrzy-complete-guide-4ic4)
+- [How I Track My AI Spending as a Solo Dev &lpar;Without Going Broke&rpar;](https://dev.to/godnick/how-i-track-my-ai-spending-as-a-solo-dev-without-going-broke-5ec1)
 <!-- BLOG-POST-LIST:END -->
 
