@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Tool Calling Problem: Why Most Agents Are Just Chatbots with Buttons](https://dev.to/o96a/the-tool-calling-problem-why-most-agents-are-just-chatbots-with-buttons-2baj)
-- [&quot;Stop Building Todo Apps. Build These Instead.&quot;](https://dev.to/devraj_singh7/stop-building-todo-apps-build-these-instead-3578)
-- [Building a Multimodal Local AI Stack: Gemma 4 E2B, vLLM, and Hermes Agent](https://dev.to/abdulhakkeempa/building-a-multimodal-local-ai-stack-gemma-4-e2b-vllm-and-hermes-agent-k8l)
-- [From Static to Adaptive: Personalizing the Client Journey with AI](https://dev.to/ken_deng_ai/from-static-to-adaptive-personalizing-the-client-journey-with-ai-56ge)
+- [Sample of function](https://dev.to/vignesh_sky/sample-of-function-20j4)
+- [We Had 100 Dead Alerts Firing for Services That No Longer Existed. So I Built a Kubernetes Operator.](https://dev.to/infra_tools_97d10de984ee0/we-had-100-dead-alerts-firing-for-services-that-no-longer-existed-so-i-built-a-kubernetes-operator-5e6d)
+- [How Photography Rebuilt My Brain After a Traumatic Injury](https://dev.to/zsky/how-photography-rebuilt-my-brain-after-a-traumatic-injury-m1b)
+- [Compile Your Knowledge, Don&quot;t Search It: What LLM Knowledge Bases Reveal About Agent Memory](https://dev.to/rotiferdev/compile-your-knowledge-dont-search-it-what-llm-knowledge-bases-reveal-about-agent-memory-32pg)
 <!-- BLOG-POST-LIST:END -->
 
