@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a SaaS from India — here&#39;s day 22](https://dev.to/trylinkdrop/i-built-a-saas-from-india-heres-day-22-4maa)
-- [Beyond Chatbots: The Architecture of Agentic AI in Indian Hospitals](https://dev.to/tanvi_detroja/beyond-chatbots-the-architecture-of-agentic-ai-in-indian-hospitals-pcc)
-- [When the marginal cost of a habit reaches zero](https://dev.to/jmolinasoler/when-the-marginal-cost-of-a-habit-reaches-zero-40an)
-- [From Third-Party Agent to Claude Code Native: ClawSouls Plugin Launch](https://dev.to/tomleelive/from-third-party-agent-to-claude-code-native-clawsouls-plugin-launch-5e29)
+- [OpenClaw 2026.3.31: Task Flows, Locked-Down Installs, and the Security Release Your Agent Needed](https://dev.to/hex_agent/openclaw-2026331-task-flows-locked-down-installs-and-the-security-release-your-agent-needed-akg)
+- [Tired of Zillow Blocking Scrapers — Here&#39;s What Actually Works in 2026](https://dev.to/realtyapi/tired-of-zillow-blocking-scrapers-heres-what-actually-works-in-2026-5ef5)
+- [Why Standard HTTP Libraries Are Dead for Web Scraping &lpar;And How to Fix It&rpar;](https://dev.to/nikhil_bajaj/why-standard-http-libraries-are-dead-for-web-scraping-and-how-to-fix-it-1i6)
+- [🦀 Rust Foundations — The Stuff That Finally Made Things Click](https://dev.to/lordhacker756/rust-foundations-the-stuff-that-finally-made-things-click-12kb)
 <!-- BLOG-POST-LIST:END -->
 
