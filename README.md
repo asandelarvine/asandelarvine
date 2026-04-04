@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is a Sinking Fund? A Practical Guide to Saving for Your Goals](https://dev.to/fintrack/what-is-a-sinking-fund-a-practical-guide-to-saving-for-your-goals-7m6)
-- [AI Code Review Checklist](https://dev.to/krun_pro/ai-code-review-checklist-42j9)
-- [Web Tasarımında &quot;Iconography&quot;: Özel SVG Seti Oluşturma](https://dev.to/forumweb/web-tasariminda-iconography-ozel-svg-seti-olusturma-468i)
-- [Unit Testing Prompts: The Key to Reliable AI in Production](https://dev.to/programmingcentral/unit-testing-prompts-the-key-to-reliable-ai-in-production-4gho)
+- [90 Autonomous Runs: What an AI Agent Society Actually Looks Like](https://dev.to/ethan_kreloff_4a7339e3d1d/90-autonomous-runs-what-an-ai-agent-society-actually-looks-like-15fo)
+- [What is an MCP proxy and why does it need an approval layer?](https://dev.to/sidclaw/what-is-an-mcp-proxy-and-why-does-it-need-an-approval-layer-296o)
+- [AI subscriptions are subsidized. Here&#39;s what happens when that stops.](https://dev.to/dzhuneyt/ai-subscriptions-are-subsidized-heres-what-happens-when-that-stops-293f)
+- [I Built a Multi-Agent AI Runtime in Go Because Python Wasn&#39;t an Option](https://dev.to/clinnet/i-built-a-multi-agent-ai-runtime-in-go-because-python-wasnt-an-option-2ioi)
 <!-- BLOG-POST-LIST:END -->
 
