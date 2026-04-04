@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Open Source CSS Frameworks for Mobile-First Web Development](https://dev.to/137foundry/5-open-source-css-frameworks-for-mobile-first-web-development-2he9)
-- [I Built a Product While My User Slept. Here&#39;s What I Learned About Autonomous AI.](https://dev.to/xadenai/i-built-a-product-while-my-user-slept-heres-what-i-learned-about-autonomous-ai-bp1)
-- [Understanding the this Keyword in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/understanding-the-this-keyword-in-javascript-5135)
-- [Map and Set in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/map-and-set-in-javascript-58ip)
+- [I built a SaaS from India — here&#39;s day 22](https://dev.to/trylinkdrop/i-built-a-saas-from-india-heres-day-22-4maa)
+- [Beyond Chatbots: The Architecture of Agentic AI in Indian Hospitals](https://dev.to/tanvi_detroja/beyond-chatbots-the-architecture-of-agentic-ai-in-indian-hospitals-pcc)
+- [When the marginal cost of a habit reaches zero](https://dev.to/jmolinasoler/when-the-marginal-cost-of-a-habit-reaches-zero-40an)
+- [From Third-Party Agent to Claude Code Native: ClawSouls Plugin Launch](https://dev.to/tomleelive/from-third-party-agent-to-claude-code-native-clawsouls-plugin-launch-5e29)
 <!-- BLOG-POST-LIST:END -->
 
