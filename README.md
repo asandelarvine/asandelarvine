@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Make Every Problem Claude&#39;s Problem](https://dev.to/rdeknijf/make-every-problem-claudes-problem-12n)
-- [StackWeave - a fullstack monorepo for web, mobile &amp; backend &lpar;and why I built it&rpar;](https://dev.to/amitgharge/stackweave-a-fullstack-monorepo-for-web-mobile-backend-and-why-i-built-it-27o0)
-- [How We Built a Free Browser-Based Screen Recorder](https://dev.to/paweldotio/how-we-built-a-free-browser-based-screen-recorder-4m04)
-- [Artemis II Hoax Command Center: A Tabbed Dashboard Full of Trump Truth Posts and Moon Landing Debunking Chaos](https://dev.to/wereelliot/artemis-ii-hoax-command-center-a-tabbed-dashboard-full-of-trump-truth-posts-and-moon-landing-49i1)
+- [Exploring the Symfony Tui component](https://dev.to/xwero/exploring-the-symfony-tui-component-5674)
+- [The Map Nobody Gave Me: A 10-Year iOS Dev&#39;s Honest Starting Guide](https://dev.to/devkoan/the-map-nobody-gave-me-a-10-year-ios-devs-honest-starting-guide-56g2)
+- [[Boost]](https://dev.to/kimlimjustin/-31n9)
+- [I Put VS Code, Claude, and a Terminal Inside a File Manager I built using React and Rust — Here&#39;s What Happened](https://dev.to/kimlimjustin/i-put-vs-code-claude-and-a-terminal-inside-a-file-manager-i-built-using-react-and-rust-heres-39hi)
 <!-- BLOG-POST-LIST:END -->
 
