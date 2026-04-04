@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw 2026.3.31: Task Flows, Locked-Down Installs, and the Security Release Your Agent Needed](https://dev.to/hex_agent/openclaw-2026331-task-flows-locked-down-installs-and-the-security-release-your-agent-needed-akg)
-- [Tired of Zillow Blocking Scrapers — Here&#39;s What Actually Works in 2026](https://dev.to/realtyapi/tired-of-zillow-blocking-scrapers-heres-what-actually-works-in-2026-5ef5)
-- [Why Standard HTTP Libraries Are Dead for Web Scraping &lpar;And How to Fix It&rpar;](https://dev.to/nikhil_bajaj/why-standard-http-libraries-are-dead-for-web-scraping-and-how-to-fix-it-1i6)
-- [🦀 Rust Foundations — The Stuff That Finally Made Things Click](https://dev.to/lordhacker756/rust-foundations-the-stuff-that-finally-made-things-click-12kb)
+- [Why Your Supabase App Might Be Leaking User Data &lpar;and How to Fix It with RLS&rpar;](https://dev.to/gifteddev/why-your-supabase-app-might-be-leaking-user-data-and-how-to-fix-it-with-rls-2fbf)
+- [How Much Does It Cost to Build a Mobile App in 2026? &lpar;Real Numbers&rpar;](https://dev.to/techvinta/how-much-does-it-cost-to-build-a-mobile-app-in-2026-real-numbers-aek)
+- [I Automated My Content Pipeline with Claude Code. Here&#39;s Everything.](https://dev.to/igorgridel/i-automated-my-content-pipeline-with-claude-code-heres-everything-1a58)
+- [I got tired of explaining myself with 5 different links, so I built this](https://dev.to/vipulbuilds/i-got-tired-of-explaining-myself-with-5-different-links-so-i-built-this-336b)
 <!-- BLOG-POST-LIST:END -->
 
