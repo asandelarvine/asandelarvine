@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Built &lpar;almost&rpar; a structured Lobster pipeline on OpenClaw to solve AI non-determinism](https://dev.to/supreet_s/built-almost-a-structured-lobster-pipeline-on-openclaw-to-solve-ai-non-determinism-3c5j)
-- [I built a local-first Obsidian suite to safely feed my vault to AI 🛠️🐕](https://dev.to/met_architect/i-built-a-local-first-obsidian-suite-to-safely-feed-my-vault-to-ai-9c9)
-- [Critical Cybersecurity and DevOps News Updates | 2026.04.04 | April 4th, 2026](https://dev.to/mrcomputerscience/breaking-cybersecurity-news-for-20260404-pithy-cyborg-threats-breaches-intel-bok)
-- [What I learned building git11 - an AI documentation tool for GitHub teams](https://dev.to/omyvnss/what-i-learned-building-git11-an-ai-documentation-tool-for-github-teams-2ai8)
+- [Constructing a Station-Level Statistical Manifold with Dual Flat Structure from Pedestrian Trajectories](https://dev.to/bonebasket_a3284c91925b56/constructing-a-station-level-statistical-manifold-with-dual-flat-structure-from-pedestrian-5c7g)
+- [My Last Few Months](https://dev.to/coder0214h/my-last-few-months-306p)
+- [x * y = k, and Other Things I Should&#39;ve Learned Sooner](https://dev.to/ranting_sage/x-y-k-and-other-things-i-shouldve-learned-sooner-ofe)
+- [Qodo AI Test Generation: How It Works with Examples](https://dev.to/rahulxsingh/qodo-ai-test-generation-how-it-works-with-examples-4abk)
 <!-- BLOG-POST-LIST:END -->
 
