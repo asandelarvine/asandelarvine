@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Lysis: A Review Engine Where AI Models Collaborate and Evolve](https://dev.to/sho_ikeda/building-lysis-a-review-engine-where-ai-models-collaborate-and-evolve-41b6)
-- [Gemma 4 Just Dropped. It&#39;s the Sharpest Tool in the Shed. Do You Have a Plan?](https://dev.to/mattbuscher/gemma-4-just-dropped-its-the-sharpest-tool-in-the-shed-do-you-have-a-plan-m86)
-- [The Hidden Cost of Import Chains](https://dev.to/peng_cao/the-hidden-cost-of-import-chains-20jk)
-- [Most tutorials miss these Basic and important concepts about Dockerization.](https://dev.to/codewithdev2/most-tutorials-miss-these-basic-and-important-concepts-about-dockerization-2hjd)
+- [Cursor 3 Turned My IDE Into a Management Dashboard. I&#39;m Not Sure I Asked for That.](https://dev.to/adioof/cursor-3-turned-my-ide-into-a-management-dashboard-im-not-sure-i-asked-for-that-277j)
+- [How to Build Forms in Strapi v5 with strapi-plugin-form-builder-cms](https://dev.to/devcluna/how-to-build-forms-in-strapi-v5-with-strapi-plugin-form-builder-cms-393j)
+- [I Used ChatGPT as My Sales Role-Play Partner — Here&#39;s What Happened](https://dev.to/_5aa8ee1f92b89fef1/i-used-chatgpt-as-my-sales-role-play-partner-heres-what-happened-27l3)
+- [Day 3 - Added Security, Authentication and Jwt Tokens in REST API Project](https://dev.to/bharathdhana/day-3-added-security-authentication-and-jwt-tokens-in-rest-api-project-3kal)
 <!-- BLOG-POST-LIST:END -->
 
