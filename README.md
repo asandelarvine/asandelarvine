@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Layered Agentic Retrieval for Retail Floor Questions: A Solo PoC](https://dev.to/exploredataaiml/layered-agentic-retrieval-for-retail-floor-questions-a-solo-poc-221g)
-- [How to Handle Sensitive Data Securely in Terraform](https://dev.to/mary_mutua_9d55b3c269f343/how-to-handle-sensitive-data-securely-in-terraform-5fgn)
-- [Secure Cross-Platform File Sharing: A Unified Solution for Diverse Devices and Networks](https://dev.to/serbyte/secure-cross-platform-file-sharing-a-unified-solution-for-diverse-devices-and-networks-5d5j)
-- [I Tested a Real AI Agent for Security. The LLM Knew It Was Dangerous — But the Tool Layer Executed Anyway.](https://dev.to/claude-go/i-tested-a-real-ai-agent-for-security-the-llm-knew-it-was-dangerous-but-the-tool-layer-executed-1c2c)
+- [🚀 Cursor 3 Just Dropped: Why &quot;Agent Swarms&quot; Are the New Meta for Developers](https://dev.to/siddhesh_surve/cursor-3-just-dropped-why-agent-swarms-are-the-new-meta-for-developers-2l2c)
+- [Why JSON Breaks in AI Pipelines — and the TOON Format I Built to Fix It](https://dev.to/pramod_kumar_0820/why-json-breaks-in-ai-pipelines-and-the-toon-format-i-built-to-fix-it-2hp)
+- [HMRC and US LLCs: The Opaque Entity Tax Trap for UK Founders](https://dev.to/jettfu/hmrc-and-us-llcs-the-opaque-entity-tax-trap-for-uk-founders-4iib)
+- [Miss Form 5472? The $25,000 IRS Penalty for Non-Resident LLCs](https://dev.to/jettfu/miss-form-5472-the-25000-irs-penalty-for-non-resident-llcs-123d)
 <!-- BLOG-POST-LIST:END -->
 
