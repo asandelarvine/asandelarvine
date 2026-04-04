@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Evolution of the Type System: Assessing the Impact of TypeScript 6.0](https://dev.to/otuny/evolution-of-the-type-system-assessing-the-impact-of-typescript-60-4h38)
-- [Unpacking the True Cost of Blockchain Indexing: More Than Just Infrastructure](https://dev.to/0xagency/unpacking-the-true-cost-of-blockchain-indexing-more-than-just-infrastructure-3pp4)
-- [The coordinate space bug that four rewrites couldn&#39;t fix](https://dev.to/frandy-slueue/the-coordinate-space-bug-that-four-rewrites-couldnt-fix-3khi)
-- [Stop Googling Cron Syntax -Use This Instead](https://dev.to/mpsoftwarestudio/stop-googling-cron-syntax-use-this-instead-5aon)
+- [Flutter State Management Done Right: GetX Pattern Template You Can Clone Today](https://dev.to/alexdevson/flutter-state-management-done-right-getx-pattern-template-you-can-clone-today-569a)
+- [Automating Repetitive Tasks with Workany](https://dev.to/stelixx-insider/automating-repetitive-tasks-with-workany-28jb)
+- [Top Skills by Category — 2026-04-04](https://dev.to/_0ae5dca97e251657f73267/top-skills-by-category-2026-04-04-1koj)
+- [Coding Alone Won&#39;t Save Your Career in 2026. Here&#39;s What Will](https://dev.to/jintukumardas/coding-alone-wont-save-your-career-in-2026-heres-what-will-4ha0)
 <!-- BLOG-POST-LIST:END -->
 
