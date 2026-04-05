@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Killed Our 23-Zap Stack and Built One Database Instead — Here&#39;s Why Middleware Always Fails](https://dev.to/arham_mirkar/i-killed-our-23-zap-stack-and-built-one-database-instead-heres-why-middleware-always-fails-20lj)
-- [How to Set Up llms.txt and robots.txt for AI Crawlers on WordPress &lpar;2026 Guide&rpar;](https://dev.to/amitkumarseo/how-to-set-up-llmstxt-and-robotstxt-for-ai-crawlers-on-wordpress-2026-guide-2ocg)
-- [Embedding &quot;xương sống&quot; của RAG](https://dev.to/david_chan_1994/embedding-xuong-song-cua-rag-57go)
-- [How to Self-Host n8n with Docker — AI Workflow Automation Guide 2026](https://dev.to/jangwook_kim_e31e7291ad98/how-to-self-host-n8n-with-docker-ai-workflow-automation-guide-2026-3lec)
+- [Open Source in 2026: The Fork Wars Are Getting Ugly](https://dev.to/gabrielanhaia/open-source-in-2026-the-fork-wars-are-getting-ugly-28n)
+- [Cursor vs GitHub Copilot vs Codeium: Which AI Codes Best?](https://dev.to/techsifted/cursor-vs-github-copilot-vs-codeium-which-ai-codes-best-1n55)
+- [A Jury Found Meta and Google Liable for Addictive Design. Here&#39;s What That Looks Like in Code.](https://dev.to/gabrielanhaia/a-jury-found-meta-and-google-liable-for-addictive-design-heres-what-that-looks-like-in-code-51kd)
+- [I Replaced JSON with TOON in My LLM Prompts and Saved 40% on Tokens. Here&#39;s How published: false](https://dev.to/fedosdotcom/i-replaced-json-with-toon-in-my-llm-prompts-and-saved-40-on-tokens-heres-howpublished-false-587a)
 <!-- BLOG-POST-LIST:END -->
 
