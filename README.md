@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to publish a Power BI report and embed it in a website.](https://dev.to/muriithilydia46wq/how-to-publish-a-power-bi-report-and-embed-it-in-a-website-1035)
-- [Stop paying the Goldfish Tax: Why your agent&#39;s memory is a massive waste of money](https://dev.to/vektor_memory_43f51a32376/stop-paying-the-goldfish-tax-why-your-agents-memory-is-a-massive-waste-of-money-4go0)
-- [Zuckerberg Is Writing Code Again. With Claude Code.](https://dev.to/monkfromearth/zuckerberg-is-writing-code-again-with-claude-code-26b1)
-- [I built an API that converts any webpage to clean Markdown in under 1 second](https://dev.to/filtede98/i-built-an-api-that-converts-any-webpage-to-clean-markdown-in-under-1-second-3p5m)
+- [How to Replicate a Full Mobile Dev Workflow in Claude Code](https://dev.to/gentic_news/how-to-replicate-a-full-mobile-dev-workflow-in-claude-code-33a2)
+- [Building an eBPF-based SIP Monitor in Go](https://dev.to/aibudaevv/building-an-ebpf-based-sip-monitor-in-go-3igk)
+- [Day 2 of my 21-day API challenge, built a Password Strength &amp; Security Scorer API](https://dev.to/ruanmuller04/day-2-of-my-21-day-api-challenge-built-a-password-strength-security-scorer-api-489c)
+- [CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models](https://dev.to/paperium/cosyvoice-2-scalable-streaming-speech-synthesis-with-large-language-models-253o)
 <!-- BLOG-POST-LIST:END -->
 
