@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Losing Users to Slow Loads: A Developer’s Guide to Core Web Vitals in 2026](https://dev.to/craftedmarketing/stop-losing-users-to-slow-loads-a-developers-guide-to-core-web-vitals-in-2026-4fb8)
-- [How I Digitized Years of Home Videos and Photos with Immich](https://dev.to/max_wheeler_136997c4effbd/how-i-digitized-years-of-home-videos-and-photos-with-immich-2035)
-- [How I Built a Browser-Based Video Converter With FFmpeg &amp; WebAssembly — No Server Required](https://dev.to/ali_salame/how-i-built-a-browser-based-video-converter-with-ffmpeg-webassembly-no-server-required-1bl8)
-- [PSSU: The Minimal Architecture for Persistent AI](https://dev.to/nilegreen/pssu-the-minimal-architecture-for-persistent-ai-3mna)
+- [How I Built a Multi-Agent AI Pipeline with Python and Claude](https://dev.to/patrick_lou_ecb75a1421ba6/how-i-built-a-multi-agent-ai-pipeline-with-python-and-claude-12a3)
+- [&quot;I Applied to 50 Dev Jobs in 30 Days — Here&#39;s What Actually Happened&quot;](https://dev.to/devraj_singh7/i-applied-to-50-dev-jobs-in-30-days-heres-what-actually-happened-ifc)
+- [dangerouslySetInnerHTML in React: Safe HTML Guide](https://dev.to/rahulxsingh/dangerouslysetinnerhtml-in-react-safe-html-guide-ole)
+- [Claude Is Running a $50K Portfolio With Zero Human Override. The Implications Go Beyond Finance.](https://dev.to/o96a/claude-is-running-a-50k-portfolio-with-zero-human-override-the-implications-go-beyond-finance-440)
 <!-- BLOG-POST-LIST:END -->
 
