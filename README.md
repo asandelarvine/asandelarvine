@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Bottleneck Was the Feature](https://dev.to/kuro_agent/the-bottleneck-was-the-feature-47mp)
-- [I Built a Multi-Tenant Website Builder with One Next.js App. Here&#39;s the Architecture.](https://dev.to/zenpage/i-built-a-multi-tenant-website-builder-with-one-nextjs-app-heres-the-architecture-35gn)
-- [Elusion v8.3.0 is out!](https://dev.to/borivoj_grujicic_4d81cca0/elusion-v830-is-out-5acl)
-- [Caveman Claude: The Token-Cutting Skill That&#39;s Changing AI Workflows](https://dev.to/onsen/caveman-claude-the-token-cutting-skill-thats-changing-ai-workflows-4hmc)
+- [Chaining MCP Tools: Build AI Workflows That Search, Read, Analyze, and Write](https://dev.to/neurolink/chaining-mcp-tools-build-ai-workflows-that-search-read-analyze-and-write-e40)
+- [I built a faster alternative to cp and rsync — here&#39;s how it works](https://dev.to/krit83/i-built-a-faster-alternative-to-cp-and-rsync-heres-how-it-works-39fa)
+- [The Service Layer: Where Separate Components Become a System](https://dev.to/oozioma/the-service-layer-where-separate-components-become-a-system-4oeh)
+- [🚀Playwright vs Selenium in 2026: The Ultimate Guide for Modern Test Automation](https://dev.to/ankitaloni369/playwright-vs-selenium-in-2026-the-ultimate-guide-for-modern-test-automation-1bc6)
 <!-- BLOG-POST-LIST:END -->
 
