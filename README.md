@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Valkey vs. Redis for Laravel Caching and Queues: What You Need to Know](https://dev.to/deploynix/valkey-vs-redis-for-laravel-caching-and-queues-what-you-need-to-know-3653)
-- [They Forced a Junior to Use AI. Then Fired Him for the Bugs It Wrote.](https://dev.to/gabrielanhaia/they-forced-a-junior-to-use-ai-then-fired-him-for-the-bugs-it-wrote-407k)
-- [my pc was such a mess with projects scattered everywhere so i built a tool to organize everything](https://dev.to/relax-i0/my-pc-was-such-a-mess-with-projects-scattered-everywhere-so-i-built-a-tool-to-organize-everything-je9)
-- [captio](https://dev.to/__4f93f2e8d8dea1d/captio-4mpo)
+- [Anthropic Found Emotion Circuits Inside Claude. They&#39;re Causing It to Blackmail People.](https://dev.to/om_shree_0709/anthropic-found-emotion-circuits-inside-claude-theyre-causing-it-to-blackmail-people-248m)
+- [Understanding Transformers Part 1: How Transformers Understand Word Order](https://dev.to/rijultp/understanding-transformers-part-1-how-transformers-understand-word-order-eea)
+- [How to Detect the Tech Stack of Any Website &lpar;2026 Guide&rpar;](https://dev.to/pavan_jangid_529a30e1d8c1/how-to-detect-the-tech-stack-of-any-website-2026-guide-5eml)
+- [I built an iOS app at 50 using AI tools. Here&#39;s what actually worked](https://dev.to/houbsta/title-i-built-an-ios-app-at-50-using-ai-tools-heres-what-actually-worked-2mci)
 <!-- BLOG-POST-LIST:END -->
 
