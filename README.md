@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The AWS Dev Setup Nobody Told You About. Claude Code, Kiro Pro, and Agent Plugins.](https://dev.to/aws-heroes/the-aws-dev-setup-nobody-told-you-about-claude-code-kiro-pro-and-agent-plugins-1c3p)
-- [I Built a Zero-Login Postman Alternative in 5 Weeks. My Cofounder Is an AI and I Work Long Shifts.](https://dev.to/apibuilderhq/i-built-a-zero-login-postman-alternative-in-5-weeks-my-cofounder-is-an-ai-and-i-work-long-shifts-4phn)
-- [Scarcity Captures the Mind](https://dev.to/odiong/scarcity-captures-the-mind-4pe7)
-- [Want Your AI to Stay Private? Run a Fully Local LLM with Open WebUI + Ollama](https://dev.to/micheal_angelo_41cea4e81a/want-your-ai-to-stay-private-run-a-fully-local-llm-with-open-webui-ollama-3c8f)
+- [I Turned My MacBook&#39;s Notch Into a Control Center for AI Coding Agents](https://dev.to/krisying/i-turned-my-macbooks-notch-into-a-control-center-for-ai-coding-agents-2o57)
+- [BuildWithAI: What Broke, What I Learned, What&#39;s Next](https://dev.to/aws-builders/buildwithai-what-broke-what-i-learned-whats-next-jdp)
+- [BuildWithAI: Prompt Engineering 6 DR Tools with Amazon Bedrock](https://dev.to/aws-builders/buildwithai-prompt-engineering-6-dr-tools-with-amazon-bedrock-336i)
+- [BuildWithAI: Architecting a Serverless DR Toolkit on AWS](https://dev.to/aws-builders/buildwithai-architecting-a-serverless-dr-toolkit-on-aws-123d)
 <!-- BLOG-POST-LIST:END -->
 
