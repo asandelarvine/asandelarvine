@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I let Claude Code run marketing workflows for brands](https://dev.to/tgdn/i-let-claude-code-run-marketing-workflows-for-brands-3n0e)
-- [The Skill That Helps Me Do Code Review](https://dev.to/david_shimon/the-skill-that-helps-me-do-code-review-3ejc)
-- [npm package commitment scores: zod has 139M weekly downloads and one maintainer](https://dev.to/piiiico/npm-package-commitment-scores-zod-has-139m-weekly-downloads-and-one-maintainer-1h42)
-- [Valid JSON, broken discovery: the UCP checks that should fail your build](https://dev.to/ucptools/valid-json-broken-discovery-the-ucp-checks-that-should-fail-your-build-4c6a)
+- [I Built a Cross-Platform Price Comparison Tool for Retail Arbitrage](https://dev.to/_350df62777eb55e1/i-built-a-cross-platform-price-comparison-tool-for-retail-arbitrage-5fpc)
+- [I built a CLI to test Tauri apps because nothing else worked](https://dev.to/mpiton/i-built-a-cli-to-test-tauri-apps-because-nothing-else-worked-3915)
+- [What does it really cost to become a DevOps engineer? Getting started in DevOps without spending a dime](https://dev.to/durrello/what-does-it-really-cost-to-become-a-devops-engineer-getting-started-in-devops-without-spending-a-1p0a)
+- [The Conformation](https://dev.to/thesythesis/the-conformation-2g8o)
 <!-- BLOG-POST-LIST:END -->
 
