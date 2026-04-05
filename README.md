@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Turned My MacBook&#39;s Notch Into a Control Center for AI Coding Agents](https://dev.to/krisying/i-turned-my-macbooks-notch-into-a-control-center-for-ai-coding-agents-2o57)
-- [BuildWithAI: What Broke, What I Learned, What&#39;s Next](https://dev.to/aws-builders/buildwithai-what-broke-what-i-learned-whats-next-jdp)
-- [BuildWithAI: Prompt Engineering 6 DR Tools with Amazon Bedrock](https://dev.to/aws-builders/buildwithai-prompt-engineering-6-dr-tools-with-amazon-bedrock-336i)
-- [BuildWithAI: Architecting a Serverless DR Toolkit on AWS](https://dev.to/aws-builders/buildwithai-architecting-a-serverless-dr-toolkit-on-aws-123d)
+- [Your AI Agent Stopped Responding 2 Hours Ago. Nobody Noticed.](https://dev.to/george_belsky_a513cfbf3df/your-ai-agent-stopped-responding-2-hours-ago-nobody-noticed-5340)
+- [How I Reduced WordPress Page Load Times by 30% and Improved Core Web Vitals](https://dev.to/kishandhruv/how-i-reduced-wordpress-page-load-times-by-30-and-improved-core-web-vitals-7mj)
+- [How Microsoft Nearly Lost OpenAI &lpar;And Wasted a Trillion Dollars Doing It&rpar;](https://dev.to/benriemer/how-microsoft-nearly-lost-openai-and-wasted-a-trillion-dollars-doing-it-l0j)
+- [Chromatic Automata: How Simple Rules Paint Surprising Worlds of Color](https://dev.to/jsamwrites/chromatic-automata-how-simple-rules-paint-surprising-worlds-of-color-2nc9)
 <!-- BLOG-POST-LIST:END -->
 
