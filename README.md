@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Cross-Platform Price Comparison Tool for Retail Arbitrage](https://dev.to/_350df62777eb55e1/i-built-a-cross-platform-price-comparison-tool-for-retail-arbitrage-5fpc)
-- [I built a CLI to test Tauri apps because nothing else worked](https://dev.to/mpiton/i-built-a-cli-to-test-tauri-apps-because-nothing-else-worked-3915)
-- [What does it really cost to become a DevOps engineer? Getting started in DevOps without spending a dime](https://dev.to/durrello/what-does-it-really-cost-to-become-a-devops-engineer-getting-started-in-devops-without-spending-a-1p0a)
-- [The Conformation](https://dev.to/thesythesis/the-conformation-2g8o)
+- [How to publish a Power BI report and embed it in a website.](https://dev.to/muriithilydia46wq/how-to-publish-a-power-bi-report-and-embed-it-in-a-website-1035)
+- [Stop paying the Goldfish Tax: Why your agent&#39;s memory is a massive waste of money](https://dev.to/vektor_memory_43f51a32376/stop-paying-the-goldfish-tax-why-your-agents-memory-is-a-massive-waste-of-money-4go0)
+- [Zuckerberg Is Writing Code Again. With Claude Code.](https://dev.to/monkfromearth/zuckerberg-is-writing-code-again-with-claude-code-26b1)
+- [I built an API that converts any webpage to clean Markdown in under 1 second](https://dev.to/filtede98/i-built-an-api-that-converts-any-webpage-to-clean-markdown-in-under-1-second-3p5m)
 <!-- BLOG-POST-LIST:END -->
 
