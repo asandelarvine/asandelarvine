@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Multi-Agent AI Pipeline with Python and Claude](https://dev.to/patrick_lou_ecb75a1421ba6/how-i-built-a-multi-agent-ai-pipeline-with-python-and-claude-12a3)
-- [&quot;I Applied to 50 Dev Jobs in 30 Days — Here&#39;s What Actually Happened&quot;](https://dev.to/devraj_singh7/i-applied-to-50-dev-jobs-in-30-days-heres-what-actually-happened-ifc)
-- [dangerouslySetInnerHTML in React: Safe HTML Guide](https://dev.to/rahulxsingh/dangerouslysetinnerhtml-in-react-safe-html-guide-ole)
-- [Claude Is Running a $50K Portfolio With Zero Human Override. The Implications Go Beyond Finance.](https://dev.to/o96a/claude-is-running-a-50k-portfolio-with-zero-human-override-the-implications-go-beyond-finance-440)
+- [Building LinkedIN Job Application Agents - Part 3](https://dev.to/mindy_jen_phd/building-linkedin-job-application-agents-part-3-in6)
+- [[Rust Guide] 2.1. Number Guessing Game Pt.1 - One Guess](https://dev.to/someb1oody/rust-guide-21-number-guessing-game-pt1-one-guess-3fbf)
+- [[Rust Guide] 1.3. Rust Cargo](https://dev.to/someb1oody/rust-guide-13-rust-cargo-6eg)
+- [How We Introduced Cortical Help Without Breaking the Site Experience](https://dev.to/xandertaylor/how-we-introduced-cortical-help-without-breaking-the-site-experience-1j2e)
 <!-- BLOG-POST-LIST:END -->
 
