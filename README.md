@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Found Emotion Circuits Inside Claude. They&#39;re Causing It to Blackmail People.](https://dev.to/om_shree_0709/anthropic-found-emotion-circuits-inside-claude-theyre-causing-it-to-blackmail-people-248m)
-- [Understanding Transformers Part 1: How Transformers Understand Word Order](https://dev.to/rijultp/understanding-transformers-part-1-how-transformers-understand-word-order-eea)
-- [How to Detect the Tech Stack of Any Website &lpar;2026 Guide&rpar;](https://dev.to/pavan_jangid_529a30e1d8c1/how-to-detect-the-tech-stack-of-any-website-2026-guide-5eml)
-- [I built an iOS app at 50 using AI tools. Here&#39;s what actually worked](https://dev.to/houbsta/title-i-built-an-ios-app-at-50-using-ai-tools-heres-what-actually-worked-2mci)
+- [The Bottleneck Was the Feature](https://dev.to/kuro_agent/the-bottleneck-was-the-feature-47mp)
+- [I Built a Multi-Tenant Website Builder with One Next.js App. Here&#39;s the Architecture.](https://dev.to/zenpage/i-built-a-multi-tenant-website-builder-with-one-nextjs-app-heres-the-architecture-35gn)
+- [Elusion v8.3.0 is out!](https://dev.to/borivoj_grujicic_4d81cca0/elusion-v830-is-out-5acl)
+- [Caveman Claude: The Token-Cutting Skill That&#39;s Changing AI Workflows](https://dev.to/onsen/caveman-claude-the-token-cutting-skill-thats-changing-ai-workflows-4hmc)
 <!-- BLOG-POST-LIST:END -->
 
