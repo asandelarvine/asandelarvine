@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chaining MCP Tools: Build AI Workflows That Search, Read, Analyze, and Write](https://dev.to/neurolink/chaining-mcp-tools-build-ai-workflows-that-search-read-analyze-and-write-e40)
-- [I built a faster alternative to cp and rsync — here&#39;s how it works](https://dev.to/krit83/i-built-a-faster-alternative-to-cp-and-rsync-heres-how-it-works-39fa)
-- [The Service Layer: Where Separate Components Become a System](https://dev.to/oozioma/the-service-layer-where-separate-components-become-a-system-4oeh)
-- [🚀Playwright vs Selenium in 2026: The Ultimate Guide for Modern Test Automation](https://dev.to/ankitaloni369/playwright-vs-selenium-in-2026-the-ultimate-guide-for-modern-test-automation-1bc6)
+- [Stop Losing Users to Slow Loads: A Developer’s Guide to Core Web Vitals in 2026](https://dev.to/craftedmarketing/stop-losing-users-to-slow-loads-a-developers-guide-to-core-web-vitals-in-2026-4fb8)
+- [How I Digitized Years of Home Videos and Photos with Immich](https://dev.to/max_wheeler_136997c4effbd/how-i-digitized-years-of-home-videos-and-photos-with-immich-2035)
+- [How I Built a Browser-Based Video Converter With FFmpeg &amp; WebAssembly — No Server Required](https://dev.to/ali_salame/how-i-built-a-browser-based-video-converter-with-ffmpeg-webassembly-no-server-required-1bl8)
+- [PSSU: The Minimal Architecture for Persistent AI](https://dev.to/nilegreen/pssu-the-minimal-architecture-for-persistent-ai-3mna)
 <!-- BLOG-POST-LIST:END -->
 
