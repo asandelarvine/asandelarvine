@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Constructing a Station-Level Statistical Manifold with Dual Flat Structure from Pedestrian Trajectories](https://dev.to/bonebasket_a3284c91925b56/constructing-a-station-level-statistical-manifold-with-dual-flat-structure-from-pedestrian-5c7g)
-- [My Last Few Months](https://dev.to/coder0214h/my-last-few-months-306p)
-- [x * y = k, and Other Things I Should&#39;ve Learned Sooner](https://dev.to/ranting_sage/x-y-k-and-other-things-i-shouldve-learned-sooner-ofe)
-- [Qodo AI Test Generation: How It Works with Examples](https://dev.to/rahulxsingh/qodo-ai-test-generation-how-it-works-with-examples-4abk)
+- [The AWS Dev Setup Nobody Told You About. Claude Code, Kiro Pro, and Agent Plugins.](https://dev.to/aws-heroes/the-aws-dev-setup-nobody-told-you-about-claude-code-kiro-pro-and-agent-plugins-1c3p)
+- [I Built a Zero-Login Postman Alternative in 5 Weeks. My Cofounder Is an AI and I Work Long Shifts.](https://dev.to/apibuilderhq/i-built-a-zero-login-postman-alternative-in-5-weeks-my-cofounder-is-an-ai-and-i-work-long-shifts-4phn)
+- [Scarcity Captures the Mind](https://dev.to/odiong/scarcity-captures-the-mind-4pe7)
+- [Want Your AI to Stay Private? Run a Fully Local LLM with Open WebUI + Ollama](https://dev.to/micheal_angelo_41cea4e81a/want-your-ai-to-stay-private-run-a-fully-local-llm-with-open-webui-ollama-3c8f)
 <!-- BLOG-POST-LIST:END -->
 
