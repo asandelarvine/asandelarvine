@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s Actually Wrong with Web Components](https://dev.to/kirill_novgorodtsev_f9433/whats-actually-wrong-with-web-components-4m8e)
-- [Running Sonatype Nexus 3 on a 1 Gi RAM VPS — A Practical Guide](https://dev.to/hanatole/running-sonatype-nexus-3-on-a-1-gi-ram-vps-a-practical-guide-3bec)
-- [How to Publish a Power BI Report and Embed it in a Website](https://dev.to/keim/how-to-publish-a-power-bi-report-and-embed-it-in-a-website-2f3n)
-- [Understanding Data Modeling in Power BI: Joins, Relationships and Schemas Explained](https://dev.to/samkaruri/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-1ah9)
+- [I Killed Our 23-Zap Stack and Built One Database Instead — Here&#39;s Why Middleware Always Fails](https://dev.to/arham_mirkar/i-killed-our-23-zap-stack-and-built-one-database-instead-heres-why-middleware-always-fails-20lj)
+- [How to Set Up llms.txt and robots.txt for AI Crawlers on WordPress &lpar;2026 Guide&rpar;](https://dev.to/amitkumarseo/how-to-set-up-llmstxt-and-robotstxt-for-ai-crawlers-on-wordpress-2026-guide-2ocg)
+- [Embedding &quot;xương sống&quot; của RAG](https://dev.to/david_chan_1994/embedding-xuong-song-cua-rag-57go)
+- [How to Self-Host n8n with Docker — AI Workflow Automation Guide 2026](https://dev.to/jangwook_kim_e31e7291ad98/how-to-self-host-n8n-with-docker-ai-workflow-automation-guide-2026-3lec)
 <!-- BLOG-POST-LIST:END -->
 
