@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Spring Dependency Injection Best Practices You Need](https://dev.to/onatade_abdulmajeed/top-5-spring-dependency-injection-best-practices-you-need-22n5)
-- [I Built My Own Site Crawler](https://dev.to/carlosarias_/i-built-my-own-site-crawler-hjl)
-- [Recursive PII Masking in DataWeave: One Function for Any Depth &lpar;and the Null Trap&rpar;](https://dev.to/thasha/recursive-pii-masking-in-dataweave-one-function-for-any-depth-and-the-null-trap-3dka)
-- [I Built a YouTube Watch-Together Extension in a Day](https://dev.to/rocky_singh/i-built-a-youtube-watch-together-extension-in-a-day-59l9)
+- [Valkey vs. Redis for Laravel Caching and Queues: What You Need to Know](https://dev.to/deploynix/valkey-vs-redis-for-laravel-caching-and-queues-what-you-need-to-know-3653)
+- [They Forced a Junior to Use AI. Then Fired Him for the Bugs It Wrote.](https://dev.to/gabrielanhaia/they-forced-a-junior-to-use-ai-then-fired-him-for-the-bugs-it-wrote-407k)
+- [my pc was such a mess with projects scattered everywhere so i built a tool to organize everything](https://dev.to/relax-i0/my-pc-was-such-a-mess-with-projects-scattered-everywhere-so-i-built-a-tool-to-organize-everything-je9)
+- [captio](https://dev.to/__4f93f2e8d8dea1d/captio-4mpo)
 <!-- BLOG-POST-LIST:END -->
 
