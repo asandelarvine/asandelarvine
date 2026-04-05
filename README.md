@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Stopped Responding 2 Hours Ago. Nobody Noticed.](https://dev.to/george_belsky_a513cfbf3df/your-ai-agent-stopped-responding-2-hours-ago-nobody-noticed-5340)
-- [How I Reduced WordPress Page Load Times by 30% and Improved Core Web Vitals](https://dev.to/kishandhruv/how-i-reduced-wordpress-page-load-times-by-30-and-improved-core-web-vitals-7mj)
-- [How Microsoft Nearly Lost OpenAI &lpar;And Wasted a Trillion Dollars Doing It&rpar;](https://dev.to/benriemer/how-microsoft-nearly-lost-openai-and-wasted-a-trillion-dollars-doing-it-l0j)
-- [Chromatic Automata: How Simple Rules Paint Surprising Worlds of Color](https://dev.to/jsamwrites/chromatic-automata-how-simple-rules-paint-surprising-worlds-of-color-2nc9)
+- [I let Claude Code run marketing workflows for brands](https://dev.to/tgdn/i-let-claude-code-run-marketing-workflows-for-brands-3n0e)
+- [The Skill That Helps Me Do Code Review](https://dev.to/david_shimon/the-skill-that-helps-me-do-code-review-3ejc)
+- [npm package commitment scores: zod has 139M weekly downloads and one maintainer](https://dev.to/piiiico/npm-package-commitment-scores-zod-has-139m-weekly-downloads-and-one-maintainer-1h42)
+- [Valid JSON, broken discovery: the UCP checks that should fail your build](https://dev.to/ucptools/valid-json-broken-discovery-the-ucp-checks-that-should-fail-your-build-4c6a)
 <!-- BLOG-POST-LIST:END -->
 
