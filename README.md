@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Replicate a Full Mobile Dev Workflow in Claude Code](https://dev.to/gentic_news/how-to-replicate-a-full-mobile-dev-workflow-in-claude-code-33a2)
-- [Building an eBPF-based SIP Monitor in Go](https://dev.to/aibudaevv/building-an-ebpf-based-sip-monitor-in-go-3igk)
-- [Day 2 of my 21-day API challenge, built a Password Strength &amp; Security Scorer API](https://dev.to/ruanmuller04/day-2-of-my-21-day-api-challenge-built-a-password-strength-security-scorer-api-489c)
-- [CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models](https://dev.to/paperium/cosyvoice-2-scalable-streaming-speech-synthesis-with-large-language-models-253o)
+- [What&#39;s Actually Wrong with Web Components](https://dev.to/kirill_novgorodtsev_f9433/whats-actually-wrong-with-web-components-4m8e)
+- [Running Sonatype Nexus 3 on a 1 Gi RAM VPS — A Practical Guide](https://dev.to/hanatole/running-sonatype-nexus-3-on-a-1-gi-ram-vps-a-practical-guide-3bec)
+- [How to Publish a Power BI Report and Embed it in a Website](https://dev.to/keim/how-to-publish-a-power-bi-report-and-embed-it-in-a-website-2f3n)
+- [Understanding Data Modeling in Power BI: Joins, Relationships and Schemas Explained](https://dev.to/samkaruri/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-1ah9)
 <!-- BLOG-POST-LIST:END -->
 
