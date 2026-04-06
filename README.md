@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building LinkedIN Job Application Agents - Part 3](https://dev.to/mindy_jen_phd/building-linkedin-job-application-agents-part-3-in6)
-- [[Rust Guide] 2.1. Number Guessing Game Pt.1 - One Guess](https://dev.to/someb1oody/rust-guide-21-number-guessing-game-pt1-one-guess-3fbf)
-- [[Rust Guide] 1.3. Rust Cargo](https://dev.to/someb1oody/rust-guide-13-rust-cargo-6eg)
-- [How We Introduced Cortical Help Without Breaking the Site Experience](https://dev.to/xandertaylor/how-we-introduced-cortical-help-without-breaking-the-site-experience-1j2e)
+- [Alma and Rocky Linux ISOs: DVD vs Boot vs Minimal](https://dev.to/tylerlwsmith/alma-and-rocky-isos-dvd-vs-boot-vs-minimal-hi5)
+- [🚀 Simplifying Bulk Operations with Dapper in .NET](https://dev.to/ricardo_gpignone_282ea6/simplifying-bulk-operations-with-dapper-in-net-oik)
+- [A beginner&#39;s guide to the Nano-Banana-2 model by Google on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-nano-banana-2-model-by-google-on-replicate-jel)
+- [Stop Prompting; Use the Design-Log Method to Build Predictable Tools](https://dev.to/cypheroxide/stop-prompting-use-the-design-log-method-to-build-predictable-tools-2773)
 <!-- BLOG-POST-LIST:END -->
 
