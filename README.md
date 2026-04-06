@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Reliable Payment API for Real-Time Donations](https://dev.to/sircatalyst/designing-a-reliable-payment-api-for-real-time-donations-2khi)
-- [Web Theme Loader, hand-crafted or AI generated](https://dev.to/zijianhuang/web-theme-loader-hand-crafted-or-ai-generated-3imc)
-- [How to Use Snyk in CI/CD: Jenkins, GitHub Actions, More](https://dev.to/rahulxsingh/how-to-use-snyk-in-cicd-jenkins-github-actions-more-4551)
-- [I Built an Autonomous Phone Verification Agent &lpar;Full Code + Tutorial&rpar;](https://dev.to/fathin_dosunmu/i-built-an-autonomous-phone-verification-agent-full-code-tutorial-2374)
+- [I Built an Autonomous Job Application Agent with Claude AI — Here&#39;s How It Works](https://dev.to/tanzilahmed/i-built-an-autonomous-job-application-agent-with-claude-ai-heres-how-it-works-31d9)
+- [Advancing DevOps/Cloud Learning: Strategies for Post-Foundational Skill Development](https://dev.to/maricode/advancing-devopscloud-learning-strategies-for-post-foundational-skill-development-3be0)
+- [Your Startup Isn’t Confusing Your Documentation Is &lpar;Here’s How to Fix It&rpar;](https://dev.to/ezejah_chimkamma_06758a9b/your-startup-isnt-confusing-your-documentation-is-heres-how-to-fix-it-4o1b)
+- [How AI Engineers Actually Use Datasets: Test Cases, Edge Cases](https://dev.to/kalio/how-ai-engineers-actually-use-datasets-test-cases-edge-cases-35gf)
 <!-- BLOG-POST-LIST:END -->
 
