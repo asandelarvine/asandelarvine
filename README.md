@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Multiplies What You Already Have](https://dev.to/jonoherrington/ai-multiplies-what-you-already-have-51ia)
-- [I built an open-source benchmark that scores AI agents, not models](https://dev.to/alethios000/i-built-an-open-source-benchmark-that-scores-ai-agents-not-models-36aa)
-- [Google Maps for Codebases: Paste a GitHub URL, Ask Anything](https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8)
-- [25 Internal Knowledge and Productivity Agent Patterns on AWS You Can Steal Right Now](https://dev.to/aws-builders/25-internal-knowledge-and-productivity-agent-patterns-on-aws-you-can-steal-right-now-34b4)
+- [Por que testar virou commodity?](https://dev.to/julianomoreno/por-que-testar-virou-commodity-21jp)
+- [The Skill of Switching Between Creation and Execution](https://dev.to/ranjitshah79/the-skill-of-switching-between-creation-and-execution-jfn)
+- [Inside Event-Driven Architecture](https://dev.to/mihirverma7781/a-practical-guide-to-event-driven-architecture-1gcd)
+- [Before You Let an Agent Touch Your Code, Write the Tests](https://dev.to/tacoda/before-you-let-an-agent-touch-your-code-write-the-tests-31pa)
 <!-- BLOG-POST-LIST:END -->
 
