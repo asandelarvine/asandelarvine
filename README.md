@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [9 CSS Generators in One Place — Because I Had 9 Different Bookmarks and That&#39;s Ridiculous](https://dev.to/ryancadev/9-css-generators-in-one-place-because-i-had-9-different-bookmarks-and-thats-ridiculous-28d3)
-- [Architecting Multi-Tenant VoIP for Scale: A Technical Deep Dive](https://dev.to/ecosmob_technologies/architecting-multi-tenant-voip-for-scale-a-technical-deep-dive-1mpg)
-- [I Got Tired of Opening 5 Different Sites to Plan My Nutrition — So I Built One Free Hub](https://dev.to/ryancadev/i-got-tired-of-opening-5-different-sites-to-plan-my-nutrition-so-i-built-one-free-hub-4g2e)
-- [I needed to know if the cheaper model was good enough. So I built an LLM-as-a-Judge pipeline](https://dev.to/archminor/i-needed-to-know-if-the-cheaper-model-was-good-enough-so-i-built-an-llm-as-a-judge-pipeline-4ll)
+- [I Spent 8 Years Selling Cloud at AWS and Alibaba. At 42, I Got Fired. Now I Run My Business with AI.](https://dev.to/fightyai/i-spent-8-years-selling-cloud-at-aws-and-alibaba-at-42-i-got-fired-now-i-run-my-business-with-ai-545c)
+- [Is Your Ruby Version Still Supported? A Maintainer&#39;s Guide to Ruby&#39;s Release Cycle](https://dev.to/hsbt/is-your-ruby-version-still-supported-a-maintainers-guide-to-rubys-release-cycle-799)
+- [$187 and 16 Hours: My First Million-Token Session](https://dev.to/codewithagents_de/187-and-16-hours-my-first-million-token-session-2ae2)
+- [How to Publish a Power BI Report and Embed It on a Website &lpar;Step-by-Step Guide&rpar;](https://dev.to/leah_kivuti_be52fd03ba0f5/how-to-publish-a-power-bi-report-and-embed-it-on-a-website-step-by-step-guide-297b)
 <!-- BLOG-POST-LIST:END -->
 
