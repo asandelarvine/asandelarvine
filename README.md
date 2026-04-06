@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Spent 8 Years Selling Cloud at AWS and Alibaba. At 42, I Got Fired. Now I Run My Business with AI.](https://dev.to/fightyai/i-spent-8-years-selling-cloud-at-aws-and-alibaba-at-42-i-got-fired-now-i-run-my-business-with-ai-545c)
-- [Is Your Ruby Version Still Supported? A Maintainer&#39;s Guide to Ruby&#39;s Release Cycle](https://dev.to/hsbt/is-your-ruby-version-still-supported-a-maintainers-guide-to-rubys-release-cycle-799)
-- [$187 and 16 Hours: My First Million-Token Session](https://dev.to/codewithagents_de/187-and-16-hours-my-first-million-token-session-2ae2)
-- [How to Publish a Power BI Report and Embed It on a Website &lpar;Step-by-Step Guide&rpar;](https://dev.to/leah_kivuti_be52fd03ba0f5/how-to-publish-a-power-bi-report-and-embed-it-on-a-website-step-by-step-guide-297b)
+- [🚨 npm Vulnerabilities Are Growing — A Practical Defense Using OSV.dev in React Native](https://dev.to/amitkumar13/npm-vulnerabilities-are-growing-a-practical-defense-using-osvdev-in-react-native-2h12)
+- [The Insider Screamed. The Outsider Whispered. Same Truth, Different Volume.](https://dev.to/jarradbermingham/the-insider-screamed-the-outsider-whispered-same-truth-different-volume-8no)
+- [How to Supercharge Your AI Coding Workflow with Oh My Codex](https://dev.to/benriemer/how-to-supercharge-your-ai-coding-workflow-with-oh-my-codex-1n5f)
+- [Learning Go in 2026: the honest guide for experienced developers](https://dev.to/ohugonnot/learning-go-in-2026-the-honest-guide-for-experienced-developers-10ed)
 <!-- BLOG-POST-LIST:END -->
 
