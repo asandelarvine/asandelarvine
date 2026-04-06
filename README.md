@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Foundations First: Why AI Assistants Still Need a Human Driver](https://dev.to/bytelearn_dev/foundations-first-why-ai-assistants-still-need-a-human-driver-4k7)
-- [How to Build a Sports Betting Arbitrage Scanner in Python](https://dev.to/mlazcode/how-to-build-a-sports-betting-arbitrage-scanner-in-python-2ee5)
-- [Traits to Services: Refactoring for Testability &lpar;and for Agents&rpar;](https://dev.to/tacoda/traits-to-services-refactoring-for-testability-and-for-agents-4bpn)
-- [The Five Stages That Make AI Task Automation Work &lpar;Part 2&rpar;](https://dev.to/mitkotschimev/the-five-stages-that-make-ai-task-automation-work-part-2-1l2n)
+- [From Generic Tools to Custom AI Models: A Coach&#39;s Guide](https://dev.to/ken_deng_ai/from-generic-tools-to-custom-ai-models-a-coachs-guide-2mng)
+- [Swarm Intelligence on a Budget: Ephemeral AI Agents with AWS Fargate Spot](https://dev.to/dhananjay_lakkawar/swarm-intelligence-on-a-budget-ephemeral-ai-agents-with-aws-fargate-spot-3fi8)
+- [Normalizing Flight Statuses Across 7 Languages: What I Learned Building a Global Airport API](https://dev.to/jfcaba/normalizing-flight-statuses-across-7-languages-what-i-learned-building-a-global-airport-api-po0)
+- [Tired of Overthinking CSS Architecture? Meet Lism CSS](https://dev.to/ddryo_loos/tired-of-overthinking-css-architecture-meet-lism-css-2m4o)
 <!-- BLOG-POST-LIST:END -->
 
