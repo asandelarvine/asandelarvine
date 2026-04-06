@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Monorepos - Vite, React and Shadcn](https://dev.to/franciscolunadev82/getting-started-with-monorepos-vite-react-and-shadcn-52e9)
-- [Cilium&#39;s ipcache scalability issue: Understanding identity distribution in Kubernetes clusters for optimized network policy.](https://dev.to/alitron/ciliums-ipcache-scalability-issue-understanding-identity-distribution-in-kubernetes-clusters-for-cma)
-- [Building &#39;The Endurance Log&#39; 🏃‍♂️: A Full-Stack Next.js Strava Dashboard](https://dev.to/peetiphat1/building-the-endurance-log-a-full-stack-nextjs-strava-dashboard-lm3)
-- [Threads, processos, deadlock e race condition no contexto de concorrência e paralelismo](https://dev.to/freirart/threads-processos-deadlock-e-race-condition-no-contexto-de-concorrencia-e-paralelismo-6o0)
+- [AI Multiplies What You Already Have](https://dev.to/jonoherrington/ai-multiplies-what-you-already-have-51ia)
+- [I built an open-source benchmark that scores AI agents, not models](https://dev.to/alethios000/i-built-an-open-source-benchmark-that-scores-ai-agents-not-models-36aa)
+- [Google Maps for Codebases: Paste a GitHub URL, Ask Anything](https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8)
+- [25 Internal Knowledge and Productivity Agent Patterns on AWS You Can Steal Right Now](https://dev.to/aws-builders/25-internal-knowledge-and-productivity-agent-patterns-on-aws-you-can-steal-right-now-34b4)
 <!-- BLOG-POST-LIST:END -->
 
