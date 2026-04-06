@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We didn’t have a coding problem - We had a “where do I even start?” problem](https://dev.to/bgdnvarlamov/we-didnt-have-a-coding-problem-we-had-a-where-do-i-even-start-problem-4ap2)
-- [The Seven Engineering Problems That Make Real-Time Enterprise Sync Almost Impossible](https://dev.to/ruben-burdin/the-seven-engineering-problems-that-make-real-time-enterprise-sync-almost-impossible-9hf)
-- [Write Once, Publish Everywhere: Build a Multi-Platform Dev Blog Pipeline with GitHub Actions](https://dev.to/akhileshpothuri/write-once-publish-everywhere-build-a-multi-platform-dev-blog-pipeline-with-github-actions-5ai2)
-- [50 Things Anthropic&#39;s API Can&#39;t Do &lpar;And We&#39;re Going to Walk Through Every Single One&rpar;](https://dev.to/jon_at_backboardio/50-things-anthropics-api-cant-do-and-were-going-to-walk-through-every-single-one-4ilc)
+- [I built a free PDF toolkit with 31 AI tools — no signup, no limits](https://dev.to/kabir_daki/i-built-a-free-pdf-toolkit-with-31-ai-tools-no-signup-no-limits-3k5d)
+- [Cloud Supply Chain &amp; AWS CodeBuild PrivEsc Exposed; GDDR6 Rowhammer to Root Shell](https://dev.to/soytuber/cloud-supply-chain-aws-codebuild-privesc-exposed-gddr6-rowhammer-to-root-shell-3nko)
+- [Claude Code Powers AI Workflows: Ultraplan for Agent Orchestration &amp; App Store Automation](https://dev.to/soytuber/claude-code-powers-ai-workflows-ultraplan-for-agent-orchestration-app-store-automation-1n30)
+- [SQLite Internals: Memory Leak, Security Vuln; PostgREST Goes Edge](https://dev.to/soytuber/sqlite-internals-memory-leak-security-vuln-postgrest-goes-edge-3hch)
 <!-- BLOG-POST-LIST:END -->
 
