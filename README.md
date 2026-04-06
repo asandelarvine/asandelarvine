@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Alma and Rocky Linux ISOs: DVD vs Boot vs Minimal](https://dev.to/tylerlwsmith/alma-and-rocky-isos-dvd-vs-boot-vs-minimal-hi5)
-- [🚀 Simplifying Bulk Operations with Dapper in .NET](https://dev.to/ricardo_gpignone_282ea6/simplifying-bulk-operations-with-dapper-in-net-oik)
-- [A beginner&#39;s guide to the Nano-Banana-2 model by Google on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-nano-banana-2-model-by-google-on-replicate-jel)
-- [Stop Prompting; Use the Design-Log Method to Build Predictable Tools](https://dev.to/cypheroxide/stop-prompting-use-the-design-log-method-to-build-predictable-tools-2773)
+- [9 CSS Generators in One Place — Because I Had 9 Different Bookmarks and That&#39;s Ridiculous](https://dev.to/ryancadev/9-css-generators-in-one-place-because-i-had-9-different-bookmarks-and-thats-ridiculous-28d3)
+- [Architecting Multi-Tenant VoIP for Scale: A Technical Deep Dive](https://dev.to/ecosmob_technologies/architecting-multi-tenant-voip-for-scale-a-technical-deep-dive-1mpg)
+- [I Got Tired of Opening 5 Different Sites to Plan My Nutrition — So I Built One Free Hub](https://dev.to/ryancadev/i-got-tired-of-opening-5-different-sites-to-plan-my-nutrition-so-i-built-one-free-hub-4g2e)
+- [I needed to know if the cheaper model was good enough. So I built an LLM-as-a-Judge pipeline](https://dev.to/archminor/i-needed-to-know-if-the-cheaper-model-was-good-enough-so-i-built-an-llm-as-a-judge-pipeline-4ll)
 <!-- BLOG-POST-LIST:END -->
 
