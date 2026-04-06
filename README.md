@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Generic Tools to Custom AI Models: A Coach&#39;s Guide](https://dev.to/ken_deng_ai/from-generic-tools-to-custom-ai-models-a-coachs-guide-2mng)
-- [Swarm Intelligence on a Budget: Ephemeral AI Agents with AWS Fargate Spot](https://dev.to/dhananjay_lakkawar/swarm-intelligence-on-a-budget-ephemeral-ai-agents-with-aws-fargate-spot-3fi8)
-- [Normalizing Flight Statuses Across 7 Languages: What I Learned Building a Global Airport API](https://dev.to/jfcaba/normalizing-flight-statuses-across-7-languages-what-i-learned-building-a-global-airport-api-po0)
-- [Tired of Overthinking CSS Architecture? Meet Lism CSS](https://dev.to/ddryo_loos/tired-of-overthinking-css-architecture-meet-lism-css-2m4o)
+- [Wednesday : April 8 - Computer Vision Workflows Workshop](https://dev.to/voxel51/wednesday-april-8-computer-vision-workflows-workshop-39n6)
+- [Building JarvisOS.](https://dev.to/ocansey11/building-jarvisos-bg3)
+- [How I gave my OpenClaw agent an iMessage number — without a Mac](https://dev.to/canssayy/how-i-gave-my-openclaw-agent-an-imessage-number-without-a-mac-3i34)
+- [Build Enterprise-Grade Flutter Dashboards in Minutes 🚀 &lpar;What’s New in NRB 3.0.3&rpar;](https://dev.to/innovatenestlabs/build-enterprise-grade-flutter-dashboards-in-minutes-whats-new-in-nrb-303-4pgc)
 <!-- BLOG-POST-LIST:END -->
 
