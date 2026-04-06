@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a free PDF toolkit with 31 AI tools — no signup, no limits](https://dev.to/kabir_daki/i-built-a-free-pdf-toolkit-with-31-ai-tools-no-signup-no-limits-3k5d)
-- [Cloud Supply Chain &amp; AWS CodeBuild PrivEsc Exposed; GDDR6 Rowhammer to Root Shell](https://dev.to/soytuber/cloud-supply-chain-aws-codebuild-privesc-exposed-gddr6-rowhammer-to-root-shell-3nko)
-- [Claude Code Powers AI Workflows: Ultraplan for Agent Orchestration &amp; App Store Automation](https://dev.to/soytuber/claude-code-powers-ai-workflows-ultraplan-for-agent-orchestration-app-store-automation-1n30)
-- [SQLite Internals: Memory Leak, Security Vuln; PostgREST Goes Edge](https://dev.to/soytuber/sqlite-internals-memory-leak-security-vuln-postgrest-goes-edge-3hch)
+- [Designing a Reliable Payment API for Real-Time Donations](https://dev.to/sircatalyst/designing-a-reliable-payment-api-for-real-time-donations-2khi)
+- [Web Theme Loader, hand-crafted or AI generated](https://dev.to/zijianhuang/web-theme-loader-hand-crafted-or-ai-generated-3imc)
+- [How to Use Snyk in CI/CD: Jenkins, GitHub Actions, More](https://dev.to/rahulxsingh/how-to-use-snyk-in-cicd-jenkins-github-actions-more-4551)
+- [I Built an Autonomous Phone Verification Agent &lpar;Full Code + Tutorial&rpar;](https://dev.to/fathin_dosunmu/i-built-an-autonomous-phone-verification-agent-full-code-tutorial-2374)
 <!-- BLOG-POST-LIST:END -->
 
