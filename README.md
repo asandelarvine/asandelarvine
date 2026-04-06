@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Por que testar virou commodity?](https://dev.to/julianomoreno/por-que-testar-virou-commodity-21jp)
-- [The Skill of Switching Between Creation and Execution](https://dev.to/ranjitshah79/the-skill-of-switching-between-creation-and-execution-jfn)
-- [Inside Event-Driven Architecture](https://dev.to/mihirverma7781/a-practical-guide-to-event-driven-architecture-1gcd)
-- [Before You Let an Agent Touch Your Code, Write the Tests](https://dev.to/tacoda/before-you-let-an-agent-touch-your-code-write-the-tests-31pa)
+- [Foundations First: Why AI Assistants Still Need a Human Driver](https://dev.to/bytelearn_dev/foundations-first-why-ai-assistants-still-need-a-human-driver-4k7)
+- [How to Build a Sports Betting Arbitrage Scanner in Python](https://dev.to/mlazcode/how-to-build-a-sports-betting-arbitrage-scanner-in-python-2ee5)
+- [Traits to Services: Refactoring for Testability &lpar;and for Agents&rpar;](https://dev.to/tacoda/traits-to-services-refactoring-for-testability-and-for-agents-4bpn)
+- [The Five Stages That Make AI Task Automation Work &lpar;Part 2&rpar;](https://dev.to/mitkotschimev/the-five-stages-that-make-ai-task-automation-work-part-2-1l2n)
 <!-- BLOG-POST-LIST:END -->
 
