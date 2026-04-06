@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete DevSecOps Engineer Career Guide: From Pipeline Security to Platform Architect in 2026](https://dev.to/rezast/the-complete-devsecops-engineer-career-guide-from-pipeline-security-to-platform-architect-in-2026-43k6)
-- [OpenAI’s $1M API Credits, Holos’ Agentic Web, and Xpertbench’s Expert Tasks](https://dev.to/anikalp1/openais-1m-api-credits-holos-agentic-web-and-xpertbenchs-expert-tasks-54j2)
-- [Why We Built 5 Products on FastAPI + Next.js &lpar;and Would Do It Again&rpar;](https://dev.to/obsidiancladlabs/why-we-built-5-products-on-fastapi-nextjs-and-would-do-it-again-4337)
-- [DNS, SSL, and Domains: The Guide I Wish Existed When We Started](https://dev.to/obsidiancladlabs/dns-ssl-and-domains-the-guide-i-wish-existed-when-we-started-1bo6)
+- [We didn’t have a coding problem - We had a “where do I even start?” problem](https://dev.to/bgdnvarlamov/we-didnt-have-a-coding-problem-we-had-a-where-do-i-even-start-problem-4ap2)
+- [The Seven Engineering Problems That Make Real-Time Enterprise Sync Almost Impossible](https://dev.to/ruben-burdin/the-seven-engineering-problems-that-make-real-time-enterprise-sync-almost-impossible-9hf)
+- [Write Once, Publish Everywhere: Build a Multi-Platform Dev Blog Pipeline with GitHub Actions](https://dev.to/akhileshpothuri/write-once-publish-everywhere-build-a-multi-platform-dev-blog-pipeline-with-github-actions-5ai2)
+- [50 Things Anthropic&#39;s API Can&#39;t Do &lpar;And We&#39;re Going to Walk Through Every Single One&rpar;](https://dev.to/jon_at_backboardio/50-things-anthropics-api-cant-do-and-were-going-to-walk-through-every-single-one-4ilc)
 <!-- BLOG-POST-LIST:END -->
 
