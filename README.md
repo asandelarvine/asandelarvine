@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Wednesday : April 8 - Computer Vision Workflows Workshop](https://dev.to/voxel51/wednesday-april-8-computer-vision-workflows-workshop-39n6)
-- [Building JarvisOS.](https://dev.to/ocansey11/building-jarvisos-bg3)
-- [How I gave my OpenClaw agent an iMessage number — without a Mac](https://dev.to/canssayy/how-i-gave-my-openclaw-agent-an-imessage-number-without-a-mac-3i34)
-- [Build Enterprise-Grade Flutter Dashboards in Minutes 🚀 &lpar;What’s New in NRB 3.0.3&rpar;](https://dev.to/innovatenestlabs/build-enterprise-grade-flutter-dashboards-in-minutes-whats-new-in-nrb-303-4pgc)
+- [The Complete DevSecOps Engineer Career Guide: From Pipeline Security to Platform Architect in 2026](https://dev.to/rezast/the-complete-devsecops-engineer-career-guide-from-pipeline-security-to-platform-architect-in-2026-43k6)
+- [OpenAI’s $1M API Credits, Holos’ Agentic Web, and Xpertbench’s Expert Tasks](https://dev.to/anikalp1/openais-1m-api-credits-holos-agentic-web-and-xpertbenchs-expert-tasks-54j2)
+- [Why We Built 5 Products on FastAPI + Next.js &lpar;and Would Do It Again&rpar;](https://dev.to/obsidiancladlabs/why-we-built-5-products-on-fastapi-nextjs-and-would-do-it-again-4337)
+- [DNS, SSL, and Domains: The Guide I Wish Existed When We Started](https://dev.to/obsidiancladlabs/dns-ssl-and-domains-the-guide-i-wish-existed-when-we-started-1bo6)
 <!-- BLOG-POST-LIST:END -->
 
