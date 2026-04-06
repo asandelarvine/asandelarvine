@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚨 npm Vulnerabilities Are Growing — A Practical Defense Using OSV.dev in React Native](https://dev.to/amitkumar13/npm-vulnerabilities-are-growing-a-practical-defense-using-osvdev-in-react-native-2h12)
-- [The Insider Screamed. The Outsider Whispered. Same Truth, Different Volume.](https://dev.to/jarradbermingham/the-insider-screamed-the-outsider-whispered-same-truth-different-volume-8no)
-- [How to Supercharge Your AI Coding Workflow with Oh My Codex](https://dev.to/benriemer/how-to-supercharge-your-ai-coding-workflow-with-oh-my-codex-1n5f)
-- [Learning Go in 2026: the honest guide for experienced developers](https://dev.to/ohugonnot/learning-go-in-2026-the-honest-guide-for-experienced-developers-10ed)
+- [Getting Started with Monorepos - Vite, React and Shadcn](https://dev.to/franciscolunadev82/getting-started-with-monorepos-vite-react-and-shadcn-52e9)
+- [Cilium&#39;s ipcache scalability issue: Understanding identity distribution in Kubernetes clusters for optimized network policy.](https://dev.to/alitron/ciliums-ipcache-scalability-issue-understanding-identity-distribution-in-kubernetes-clusters-for-cma)
+- [Building &#39;The Endurance Log&#39; 🏃‍♂️: A Full-Stack Next.js Strava Dashboard](https://dev.to/peetiphat1/building-the-endurance-log-a-full-stack-nextjs-strava-dashboard-lm3)
+- [Threads, processos, deadlock e race condition no contexto de concorrência e paralelismo](https://dev.to/freirart/threads-processos-deadlock-e-race-condition-no-contexto-de-concorrencia-e-paralelismo-6o0)
 <!-- BLOG-POST-LIST:END -->
 
