@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Syntax of .me – Simple, Powerful, and Language-Agnostic](https://dev.to/suign/syntax-of-me-simple-powerful-and-language-agnostic-1jfp)
-- [Why Git Rebase Will Change How You Use Git Forever](https://dev.to/farhadrahimiklie/why-git-rebase-will-change-how-you-use-git-forever-51ie)
-- [Dumbsite](https://dev.to/discovered12345/dumbsite-5epl)
-- [How an Online Stamp Maker Works: A Deep Dive into Browser-Based Design Tools](https://dev.to/mark_jay_469638c95f1b372e/how-an-online-stamp-maker-works-a-deep-dive-into-browser-based-design-tools-3bl7)
+- [Merkle Trees](https://dev.to/amalik18/merkle-trees-j37)
+- [Merkle Trees....continued &lpar;#4&rpar;](https://dev.to/amalik18/merkle-treescontinued-4-3kgi)
+- [What VPNs Actually Do &lpar;And the 3 Things They Don&#39;t&rpar;](https://dev.to/bitsizecuriosity/what-vpns-actually-do-and-the-3-things-they-dont-5dc9)
+- [Understanding Methods in Java with Simple Example](https://dev.to/harini_magesh_fa40041cf8d/understanding-methods-in-java-with-simple-example-117)
 <!-- BLOG-POST-LIST:END -->
 
