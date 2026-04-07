@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stamp It! Why Software Version Reporting is Critical in Modern Tech](https://dev.to/arkacoc13/stamp-it-why-software-version-reporting-is-critical-in-modern-tech-316c)
-- [What&#39;s actually inside an EU AI Act Annex IV technical file &lpar;and what engineers usually miss&rpar;](https://dev.to/rostyslav_myronenko_faf2f/whats-actually-inside-an-eu-ai-act-annex-iv-technical-file-and-what-engineers-usually-miss-4nh4)
-- [A Fake Singer Just Took 11 Spots on the iTunes Top 100. The Platforms Did Nothing.](https://dev.to/adioof/a-fake-singer-just-took-11-spots-on-the-itunes-top-100-the-platforms-did-nothing-59lb)
-- [The Vibe Ceiling: A Decision Framework for When to Stop Trusting AI-Generated Code](https://dev.to/alexcloudstar/the-vibe-ceiling-a-decision-framework-for-when-to-stop-trusting-ai-generated-code-40o)
+- [How I burned $10 on Vercel with only 50 daily users](https://dev.to/roach54023/how-i-burned-10-on-vercel-with-only-50-daily-users-bm4)
+- [I Turned My University Java Project Into an Open Source Auth Toolkit](https://dev.to/yuvkun10/i-turned-my-university-java-project-into-an-open-source-auth-toolkit-2ghg)
+- [You’re probably leaking sensitive data every time you use online dev tools](https://dev.to/andrewrozumny/youre-probably-leaking-sensitive-data-every-time-you-use-online-dev-tools-47j8)
+- [I published my benchmark scores. Your turn.](https://dev.to/luckypipewrench/i-published-my-benchmark-scores-your-turn-101n)
 <!-- BLOG-POST-LIST:END -->
 
