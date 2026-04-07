@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemma 4 on Apple Silicon: 85 tok/s with a pip install](https://dev.to/raullen_chai_76e18e9705b0/gemma-4-on-apple-silicon-85-toks-with-a-pip-install-299a)
-- [Verifying Zcash Proofs on Ethereum with EIP-152](https://dev.to/zknd3r/verifying-zcash-proofs-on-ethereum-with-eip-152-4h80)
-- [I Replaced OpenAI&#39;s API and Cut My Inference Bill by 94%](https://dev.to/voltagegpu/i-replaced-openais-api-and-cut-my-inference-bill-by-94-340n)
-- [“Debugging Agentic AI in Production: Why Your Logs Are Useless”](https://dev.to/hari_sathwik/agentic-ai-debugging-in-production-tracing-the-untraceable-56d8)
+- [Why Your Agent Doesn&#39;t Know What Time It Is](https://dev.to/terrapin88/why-your-agent-doesnt-know-what-time-it-is-15j4)
+- [[Boost]](https://dev.to/elizabethfuentes12/-3fip)
+- [Your accessibility score is lying to you](https://dev.to/chris_devto/your-accessibility-score-is-lying-to-you-5fh2)
+- [Zephyr Events – A 2KB TypeScript event emitter that&#39;s race-condition safe](https://dev.to/bogdan_bododumitrescu_/zephyr-events-a-2kb-typescript-event-emitter-thats-race-condition-safe-4ng2)
 <!-- BLOG-POST-LIST:END -->
 
