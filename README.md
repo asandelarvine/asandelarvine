@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Chose a Fine-Tuned 7B Model Over GPT-4 for High-Volume IT Support Ticket Routing](https://dev.to/rakshath/why-i-chose-a-fine-tuned-7b-model-over-gpt-4-for-high-volume-it-support-ticket-routing-3o27)
-- [Treesize le logiciel par excellence pour la gestion de vos fichiers et PC](https://dev.to/gladson004/treesize-le-logiciel-par-excellence-pour-la-gestion-de-vos-fichiers-et-pc-1kce)
-- [What the Hell is a Token?](https://dev.to/jeffreese/what-the-hell-is-a-token-2226)
-- [I built a governance layer for AI agents after watching them fail silently in production](https://dev.to/dingdawg/i-built-a-governance-layer-for-ai-agents-after-watching-them-fail-silently-in-production-3li3)
+- [How to Find a $10k/mo SaaS Idea with Python &amp; Apify &lpar;Geo-Arbitrage&rpar;](https://dev.to/datakaz/how-to-find-a-10kmo-saas-idea-with-python-apify-geo-arbitrage-34ho)
+- [Top 5 Developer Tools to Find Micro-SaaS Ideas Before Coding &lpar;2026&rpar;](https://dev.to/datakaz/top-5-developer-tools-to-find-micro-saas-ideas-before-coding-2026-4ghf)
+- [Google Workspace Studio Tutorial: Turn Google Forms into a Full CRM - Auto Lead Capture, Personalized Emails &amp; Team Notifications](https://dev.to/gde/google-workspace-studio-tutorial-turn-google-forms-into-a-full-crm-auto-lead-capture-2og6)
+- [Non-Intrusive JavaScript Runtime Instrumentation via Chrome DevTools Protocol for Advanced Debugging and Reverse Engineering](https://dev.to/kserude/non-intrusive-javascript-runtime-instrumentation-via-chrome-devtools-protocol-for-advanced-2p24)
 <!-- BLOG-POST-LIST:END -->
 
