@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Autonomous Job Application Agent with Claude AI — Here&#39;s How It Works](https://dev.to/tanzilahmed/i-built-an-autonomous-job-application-agent-with-claude-ai-heres-how-it-works-31d9)
-- [Advancing DevOps/Cloud Learning: Strategies for Post-Foundational Skill Development](https://dev.to/maricode/advancing-devopscloud-learning-strategies-for-post-foundational-skill-development-3be0)
-- [Your Startup Isn’t Confusing Your Documentation Is &lpar;Here’s How to Fix It&rpar;](https://dev.to/ezejah_chimkamma_06758a9b/your-startup-isnt-confusing-your-documentation-is-heres-how-to-fix-it-4o1b)
-- [How AI Engineers Actually Use Datasets: Test Cases, Edge Cases](https://dev.to/kalio/how-ai-engineers-actually-use-datasets-test-cases-edge-cases-35gf)
+- [Syntax of .me – Simple, Powerful, and Language-Agnostic](https://dev.to/suign/syntax-of-me-simple-powerful-and-language-agnostic-1jfp)
+- [Why Git Rebase Will Change How You Use Git Forever](https://dev.to/farhadrahimiklie/why-git-rebase-will-change-how-you-use-git-forever-51ie)
+- [Dumbsite](https://dev.to/discovered12345/dumbsite-5epl)
+- [How an Online Stamp Maker Works: A Deep Dive into Browser-Based Design Tools](https://dev.to/mark_jay_469638c95f1b372e/how-an-online-stamp-maker-works-a-deep-dive-into-browser-based-design-tools-3bl7)
 <!-- BLOG-POST-LIST:END -->
 
