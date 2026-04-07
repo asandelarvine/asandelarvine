@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I burned $10 on Vercel with only 50 daily users](https://dev.to/roach54023/how-i-burned-10-on-vercel-with-only-50-daily-users-bm4)
-- [I Turned My University Java Project Into an Open Source Auth Toolkit](https://dev.to/yuvkun10/i-turned-my-university-java-project-into-an-open-source-auth-toolkit-2ghg)
-- [You’re probably leaking sensitive data every time you use online dev tools](https://dev.to/andrewrozumny/youre-probably-leaking-sensitive-data-every-time-you-use-online-dev-tools-47j8)
-- [I published my benchmark scores. Your turn.](https://dev.to/luckypipewrench/i-published-my-benchmark-scores-your-turn-101n)
+- [From GitHub Actions to ArgoCD: A Complete GitOps Migration Guide](https://dev.to/varunvarde/from-github-actions-to-argocd-a-complete-gitops-migration-guide-4kd4)
+- [Mistake 4/14: Same data breaks Playwright group tests](https://dev.to/testdino01/mistake-414-same-data-breaks-playwright-group-tests-5dj1)
+- [pytest fixtures that actually scale: patterns from 2 years of Python CI pipelines](https://dev.to/peytongreen_dev/pytest-fixtures-that-actually-scale-patterns-from-2-years-of-python-ci-pipelines-3d98)
+- [Vibe Coding Is Dead. Here&#39;s What You Actually Need to Pass Technical Interviews in 2026.](https://dev.to/jintukumardas/vibe-coding-is-dead-heres-what-you-actually-need-to-pass-technical-interviews-in-2026-538b)
 <!-- BLOG-POST-LIST:END -->
 
