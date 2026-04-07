@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Production-Grade Infrastructure with Terraform](https://dev.to/mary_mutua_9d55b3c269f343/creating-production-grade-infrastructure-with-terraform-255)
-- [Is there a silent bug in your useEffect?](https://dev.to/falcondpr/is-there-a-silent-bug-in-your-useeffect-1fi5)
-- [Why I built a SvelteKit + FastAPI SaaS Boilerplate &lpar;and open-sourced the starter&rpar;](https://dev.to/quartalis/why-i-built-a-sveltekit-fastapi-saas-boilerplate-and-open-sourced-the-starter-4ne1)
-- [Understanding SQL for Data Analysis in Real World.](https://dev.to/rayhady/understanding-sql-for-data-analysis-in-real-world-2pcg)
+- [Excalidraw: Free Online Whiteboard, No Login Required](https://dev.to/nologintools/excalidraw-free-online-whiteboard-no-login-required-25j5)
+- [The Circuit That Knows Itself](https://dev.to/7ard1grad3/the-circuit-that-knows-itself-4fnl)
+- [The $5.4 Billion Lesson Fortune 500 Companies Paid in One Day &amp; the IoT Architecture Flaw That Made It Worse Than It Had to Be](https://dev.to/arrows/the-54-billion-lesson-fortune-500-companies-paid-in-one-day-the-iot-architecture-flaw-that-made-gk3)
+- [How I Save $1,463 per Month Using Claude Code as My Server Admin](https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb)
 <!-- BLOG-POST-LIST:END -->
 
