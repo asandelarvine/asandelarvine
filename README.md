@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Excalidraw: Free Online Whiteboard, No Login Required](https://dev.to/nologintools/excalidraw-free-online-whiteboard-no-login-required-25j5)
-- [The Circuit That Knows Itself](https://dev.to/7ard1grad3/the-circuit-that-knows-itself-4fnl)
-- [The $5.4 Billion Lesson Fortune 500 Companies Paid in One Day &amp; the IoT Architecture Flaw That Made It Worse Than It Had to Be](https://dev.to/arrows/the-54-billion-lesson-fortune-500-companies-paid-in-one-day-the-iot-architecture-flaw-that-made-gk3)
-- [How I Save $1,463 per Month Using Claude Code as My Server Admin](https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb)
+- [Gemma 4 on Apple Silicon: 85 tok/s with a pip install](https://dev.to/raullen_chai_76e18e9705b0/gemma-4-on-apple-silicon-85-toks-with-a-pip-install-299a)
+- [Verifying Zcash Proofs on Ethereum with EIP-152](https://dev.to/zknd3r/verifying-zcash-proofs-on-ethereum-with-eip-152-4h80)
+- [I Replaced OpenAI&#39;s API and Cut My Inference Bill by 94%](https://dev.to/voltagegpu/i-replaced-openais-api-and-cut-my-inference-bill-by-94-340n)
+- [“Debugging Agentic AI in Production: Why Your Logs Are Useless”](https://dev.to/hari_sathwik/agentic-ai-debugging-in-production-tracing-the-untraceable-56d8)
 <!-- BLOG-POST-LIST:END -->
 
