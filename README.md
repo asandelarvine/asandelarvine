@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Agent Doesn&#39;t Know What Time It Is](https://dev.to/terrapin88/why-your-agent-doesnt-know-what-time-it-is-15j4)
-- [[Boost]](https://dev.to/elizabethfuentes12/-3fip)
-- [Your accessibility score is lying to you](https://dev.to/chris_devto/your-accessibility-score-is-lying-to-you-5fh2)
-- [Zephyr Events – A 2KB TypeScript event emitter that&#39;s race-condition safe](https://dev.to/bogdan_bododumitrescu_/zephyr-events-a-2kb-typescript-event-emitter-thats-race-condition-safe-4ng2)
+- [Claude Code CLAUDE.md: the one file that makes your AI sessions 10x more consistent](https://dev.to/subprime2010/claude-code-claudemd-the-one-file-that-makes-your-ai-sessions-10x-more-consistent-595g)
+- [Why I Switched from React to Vue &lpar;And Back Again&rpar; - Updated April 07, 2026](https://dev.to/mukhtar_abdussalam_0de093/why-i-switched-from-react-to-vue-and-back-again-updated-april-07-2026-11fh)
+- [Greenfield EKS: Choosing Standard EKS vs EKS Auto Mode Without Legacy Baggage](https://dev.to/jajera/greenfield-eks-choosing-standard-eks-vs-eks-auto-mode-without-legacy-baggage-39f3)
+- [SELECTOOLS: Multi-agent graphs, tool calling, RAG, 50 evaluators, PII redaction. All in one pip install.](https://dev.to/johnnichev/selectools-multi-agent-graphs-tool-calling-rag-50-evaluators-pii-redaction-all-in-one-pip-bnm)
 <!-- BLOG-POST-LIST:END -->
 
