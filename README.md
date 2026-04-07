@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From GitHub Actions to ArgoCD: A Complete GitOps Migration Guide](https://dev.to/varunvarde/from-github-actions-to-argocd-a-complete-gitops-migration-guide-4kd4)
-- [Mistake 4/14: Same data breaks Playwright group tests](https://dev.to/testdino01/mistake-414-same-data-breaks-playwright-group-tests-5dj1)
-- [pytest fixtures that actually scale: patterns from 2 years of Python CI pipelines](https://dev.to/peytongreen_dev/pytest-fixtures-that-actually-scale-patterns-from-2-years-of-python-ci-pipelines-3d98)
-- [Vibe Coding Is Dead. Here&#39;s What You Actually Need to Pass Technical Interviews in 2026.](https://dev.to/jintukumardas/vibe-coding-is-dead-heres-what-you-actually-need-to-pass-technical-interviews-in-2026-538b)
+- [Why I Chose a Fine-Tuned 7B Model Over GPT-4 for High-Volume IT Support Ticket Routing](https://dev.to/rakshath/why-i-chose-a-fine-tuned-7b-model-over-gpt-4-for-high-volume-it-support-ticket-routing-3o27)
+- [Treesize le logiciel par excellence pour la gestion de vos fichiers et PC](https://dev.to/gladson004/treesize-le-logiciel-par-excellence-pour-la-gestion-de-vos-fichiers-et-pc-1kce)
+- [What the Hell is a Token?](https://dev.to/jeffreese/what-the-hell-is-a-token-2226)
+- [I built a governance layer for AI agents after watching them fail silently in production](https://dev.to/dingdawg/i-built-a-governance-layer-for-ai-agents-after-watching-them-fail-silently-in-production-3li3)
 <!-- BLOG-POST-LIST:END -->
 
