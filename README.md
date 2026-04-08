@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code CLAUDE.md: the one file that makes your AI sessions 10x more consistent](https://dev.to/subprime2010/claude-code-claudemd-the-one-file-that-makes-your-ai-sessions-10x-more-consistent-595g)
-- [Why I Switched from React to Vue &lpar;And Back Again&rpar; - Updated April 07, 2026](https://dev.to/mukhtar_abdussalam_0de093/why-i-switched-from-react-to-vue-and-back-again-updated-april-07-2026-11fh)
-- [Greenfield EKS: Choosing Standard EKS vs EKS Auto Mode Without Legacy Baggage](https://dev.to/jajera/greenfield-eks-choosing-standard-eks-vs-eks-auto-mode-without-legacy-baggage-39f3)
-- [SELECTOOLS: Multi-agent graphs, tool calling, RAG, 50 evaluators, PII redaction. All in one pip install.](https://dev.to/johnnichev/selectools-multi-agent-graphs-tool-calling-rag-50-evaluators-pii-redaction-all-in-one-pip-bnm)
+- [I Built a Chrome Extension in Blazor WASM, Rewrote It in JavaScript, and I&#39;m Going Back to Blazor](https://dev.to/lostbeard/i-built-a-chrome-extension-in-blazor-wasm-rewrote-it-in-javascript-and-im-going-back-to-blazor-305g)
+- [Test Your LLM Like You Test Your UI](https://dev.to/cporter97/test-your-llm-like-you-test-your-ui-1113)
+- [Zero Changes Passed Our Quality Gate](https://dev.to/gitautoai/zero-changes-passed-our-quality-gate-3h43)
+- [A beginner&#39;s guide to the Imagen-4-Fast model by Google on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-imagen-4-fast-model-by-google-on-replicate-1nl7)
 <!-- BLOG-POST-LIST:END -->
 
