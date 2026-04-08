@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Extending your API gateway without forking it](https://dev.to/bruma/extending-your-api-gateway-without-forking-it-bf1)
-- [Why does performance debugging still suck so much?](https://dev.to/aliamerj/why-does-performance-debugging-still-suck-so-much-17j2)
-- [Why SQLite+FTS5 beats Vector DBs for AI Agent Memory](https://dev.to/fex_beck_27bfd4dccd05f062/why-sqlitefts5-beats-vector-dbs-for-ai-agent-memory-4inj)
-- [Basic Array Methods in JS](https://dev.to/akashiyyappan/basic-array-methods-in-js-4ed8)
+- [Array basic methods in j.s](https://dev.to/mohandassmani/array-basic-methods-in-js-3nje)
+- [Find me an app or Build me an app?](https://dev.to/shankara_run/find-me-an-app-or-build-me-an-app-1ec0)
+- [SQLite Internals, PostgreSQL Extensions &amp; Performance Tuning Updates](https://dev.to/soytuber/sqlite-internals-postgresql-extensions-performance-tuning-updates-2kk9)
+- [AI Coding Agent Security: Practical Guardrails for Claude Code, Copilot, and Codex](https://dev.to/maxkrivich/ai-coding-agent-security-practical-guardrails-for-claude-code-copilot-and-codex-och)
 <!-- BLOG-POST-LIST:END -->
 
