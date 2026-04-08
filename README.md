@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vector Database Performance Compared: pgvector vs Pinecone vs Qdrant vs Weaviate](https://dev.to/kencho/vector-database-performance-compared-pgvector-vs-pinecone-vs-qdrant-vs-weaviate-2ne6)
-- [&quot;Red Flags Developers Have in Interviews &lpar;And Don&#39;t Even Know It&rpar;&quot;](https://dev.to/devraj_singh7/red-flags-developers-have-in-interviews-and-dont-even-know-it-2k57)
-- [SonarQube vs PMD: Java Static Analysis Compared &lpar;2026&rpar;](https://dev.to/rahulxsingh/sonarqube-vs-pmd-java-static-analysis-compared-2026-30fd)
-- [Every React Developer Uses Hooks. Almost None Can Explain How They Work.](https://dev.to/luizgarcia/every-react-developer-uses-hooks-almost-none-can-explain-how-they-work-4eoo)
+- [SOLID Principles you won&#39;t forget again](https://dev.to/sarupy/solid-principles-you-wont-forget-again-479o)
+- [MCP Security: Why Your AI Agent&#39;s Tool Calls Need a Firewall](https://dev.to/aymenhmaidi/mcp-security-why-your-ai-agents-tool-calls-need-a-firewall-3h48)
+- [Meta Just Revealed Its Agent Architecture. The Tool List Tells Us Everything.](https://dev.to/o96a/meta-just-revealed-its-agent-architecture-the-tool-list-tells-us-everything-53o6)
+- [How to Test WebSocket Connections in the Browser &lpar;No Install Required&rpar;](https://dev.to/willivan0706/how-to-test-websocket-connections-in-the-browser-no-install-required-1p68)
 <!-- BLOG-POST-LIST:END -->
 
