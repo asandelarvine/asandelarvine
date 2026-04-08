@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Switched to Stacked PRs. My Team Reviews Code in Hours, Not Days.](https://dev.to/adioof/i-switched-to-stacked-prs-my-team-reviews-code-in-hours-not-days-429i)
-- [TOP 25 ALGORITMOS | Selection Sort](https://dev.to/sdrariane/top-25-algoritmos-selection-sort-5baf)
-- [Why HIPAA Is Not the Problem — And Why Privacy-by-Architecture Is a Different Category](https://dev.to/roryqis/why-hipaa-is-not-the-problem-and-why-privacy-by-architecture-is-a-different-category-blp)
-- [Semver in Retrograde](https://dev.to/trknhr/semver-in-retrograde-1oj3)
+- [When to Stop Self-Hosting Whisper &lpar;and What You Actually Gain&rpar;](https://dev.to/martschweiger/when-to-stop-self-hosting-whisper-and-what-you-actually-gain-32k1)
+- [How I Cut a Telemedicine MVP Down to Something a Clinic Could Actually Use](https://dev.to/kajol_shah/how-i-cut-a-telemedicine-mvp-down-to-something-a-clinic-could-actually-use-3c1f)
+- [Add Authentication and MFA to Unreal Engine with Descope](https://dev.to/descope/add-authentication-and-mfa-to-unreal-engine-with-descope-2ff1)
+- [Custom Skills: The End-to-End Workflow Made Executable](https://dev.to/tacoda/custom-skills-the-end-to-end-workflow-made-executable-i8i)
 <!-- BLOG-POST-LIST:END -->
 
