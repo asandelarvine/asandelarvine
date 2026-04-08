@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Array basic methods in j.s](https://dev.to/mohandassmani/array-basic-methods-in-js-3nje)
-- [Find me an app or Build me an app?](https://dev.to/shankara_run/find-me-an-app-or-build-me-an-app-1ec0)
-- [SQLite Internals, PostgreSQL Extensions &amp; Performance Tuning Updates](https://dev.to/soytuber/sqlite-internals-postgresql-extensions-performance-tuning-updates-2kk9)
-- [AI Coding Agent Security: Practical Guardrails for Claude Code, Copilot, and Codex](https://dev.to/maxkrivich/ai-coding-agent-security-practical-guardrails-for-claude-code-copilot-and-codex-och)
+- [Vector Database Performance Compared: pgvector vs Pinecone vs Qdrant vs Weaviate](https://dev.to/kencho/vector-database-performance-compared-pgvector-vs-pinecone-vs-qdrant-vs-weaviate-2ne6)
+- [&quot;Red Flags Developers Have in Interviews &lpar;And Don&#39;t Even Know It&rpar;&quot;](https://dev.to/devraj_singh7/red-flags-developers-have-in-interviews-and-dont-even-know-it-2k57)
+- [SonarQube vs PMD: Java Static Analysis Compared &lpar;2026&rpar;](https://dev.to/rahulxsingh/sonarqube-vs-pmd-java-static-analysis-compared-2026-30fd)
+- [Every React Developer Uses Hooks. Almost None Can Explain How They Work.](https://dev.to/luizgarcia/every-react-developer-uses-hooks-almost-none-can-explain-how-they-work-4eoo)
 <!-- BLOG-POST-LIST:END -->
 
