@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding PCIe Data Link Layer](https://dev.to/ripan030/understanding-pcie-data-link-layer-9jp)
-- [I built &quot;sysview&quot; — a beautiful terminal system monitor for developers](https://dev.to/12britz/i-built-sysview-a-beautiful-terminal-system-monitor-for-developers-3h08)
-- [Ostium Exchange Explained for Developers: RWA Perpetual Trading Architecture on Arbitrum](https://dev.to/noahwhitaker/ostium-exchange-explained-for-developers-rwa-perpetual-trading-architecture-on-arbitrum-2jbb)
-- [The connection pool paradox: why more connections slow your database down](https://dev.to/tony_hp/the-connection-pool-paradox-why-more-connections-slow-your-database-down-2kjg)
+- [I Switched to Stacked PRs. My Team Reviews Code in Hours, Not Days.](https://dev.to/adioof/i-switched-to-stacked-prs-my-team-reviews-code-in-hours-not-days-429i)
+- [TOP 25 ALGORITMOS | Selection Sort](https://dev.to/sdrariane/top-25-algoritmos-selection-sort-5baf)
+- [Why HIPAA Is Not the Problem — And Why Privacy-by-Architecture Is a Different Category](https://dev.to/roryqis/why-hipaa-is-not-the-problem-and-why-privacy-by-architecture-is-a-different-category-blp)
+- [Semver in Retrograde](https://dev.to/trknhr/semver-in-retrograde-1oj3)
 <!-- BLOG-POST-LIST:END -->
 
