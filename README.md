@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Discord Bot That Alerts Your Team When Competitors Post](https://dev.to/olams/build-a-discord-bot-that-alerts-your-team-when-competitors-post-4eo8)
-- [API Explained: From Basics to Real-World Systems &lpar;UPI Deep Dive&rpar;](https://dev.to/sreekanth_kuruba_91721e5d/api-explained-from-basics-to-real-world-systems-upi-deep-dive-8gn)
-- [How I built a viral gaming SaaS with my 14yo son &lpar;and survived a massive traffic spike on AWS without going bankrupt&rpar;](https://dev.to/brawlvalue/how-i-built-a-viral-gaming-saas-with-my-14yo-son-and-survived-a-massive-traffic-spike-on-aws-31pa)
-- [Building Your Own &quot;Google Maps for Codebases&quot;: A Guide to Semantic Code Search with LLMs](https://dev.to/midas126/building-your-own-google-maps-for-codebases-a-guide-to-semantic-code-search-with-llms-431l)
+- [Your Architecture Diagram Is Lying To You](https://dev.to/aakashio/your-architecture-diagram-is-lying-to-you-224k)
+- [Method Overloading in Java](https://dev.to/harini_magesh_fa40041cf8d/method-overloading-in-java-4d25)
+- [Methods Examples in Java](https://dev.to/harini_magesh_fa40041cf8d/methods-examples-in-java-51b2)
+- [Synchronous, asynchronous, concurrent, parallel: the 4 concepts explained in Go](https://dev.to/ohugonnot/synchronous-asynchronous-concurrent-parallel-the-4-concepts-explained-in-go-2gka)
 <!-- BLOG-POST-LIST:END -->
 
