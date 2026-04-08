@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Chrome Extension in Blazor WASM, Rewrote It in JavaScript, and I&#39;m Going Back to Blazor](https://dev.to/lostbeard/i-built-a-chrome-extension-in-blazor-wasm-rewrote-it-in-javascript-and-im-going-back-to-blazor-305g)
-- [Test Your LLM Like You Test Your UI](https://dev.to/cporter97/test-your-llm-like-you-test-your-ui-1113)
-- [Zero Changes Passed Our Quality Gate](https://dev.to/gitautoai/zero-changes-passed-our-quality-gate-3h43)
-- [A beginner&#39;s guide to the Imagen-4-Fast model by Google on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-imagen-4-fast-model-by-google-on-replicate-1nl7)
+- [AI vs reality: Why GitLab pipelines confuse LLMs](https://dev.to/polarsquad/ai-vs-reality-why-gitlab-pipelines-confuse-llms-h90)
+- [OWASP Top 10 Explained: Real-World Vulnerabilities &amp; How to Fix Them](https://dev.to/17j/owasp-top-10-explained-real-world-vulnerabilities-how-to-fix-them-1ilm)
+- [What Production Agent Architecture Actually Requires &lpar;Most Setups Don&#39;t Have It&rpar;](https://dev.to/thebrierfox/what-production-agent-architecture-actually-requires-most-setups-dont-have-it-2b69)
+- [Why Senior Engineers Choose Boring Go Over Exciting Rust](https://dev.to/speed_engineer/why-senior-engineers-choose-boring-go-over-exciting-rust-lod)
 <!-- BLOG-POST-LIST:END -->
 
