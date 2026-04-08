@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Full Stack Community Platform from Scratch - And What I Learned](https://dev.to/samwitadhikary/how-i-built-a-full-stack-community-platform-from-scratch-and-what-i-learned-3ljh)
-- [I Built an Enterprise SaaS for HTTP 418 — The World&#39;s Most Useless Teapot](https://dev.to/engineeredsoul/i-built-an-enterprise-saas-for-http-418-the-worlds-most-useless-teapot-1jjb)
-- [I Ran Three LLMs Entirely in the Browser to Power an AI Coaching Feature. Here&#39;s What I Measured.](https://dev.to/refactory/i-ran-three-llms-entirely-in-the-browser-to-power-an-ai-coaching-feature-heres-what-i-measured-9jm)
-- [Time Travel for Your State: Undo/Redo - with Zustand and React Query &lpar;Part 2&rpar;](https://dev.to/math-krish/time-travel-for-your-state-undoredo-with-zustand-and-react-query-part-2-4d64)
+- [Extending your API gateway without forking it](https://dev.to/bruma/extending-your-api-gateway-without-forking-it-bf1)
+- [Why does performance debugging still suck so much?](https://dev.to/aliamerj/why-does-performance-debugging-still-suck-so-much-17j2)
+- [Why SQLite+FTS5 beats Vector DBs for AI Agent Memory](https://dev.to/fex_beck_27bfd4dccd05f062/why-sqlitefts5-beats-vector-dbs-for-ai-agent-memory-4inj)
+- [Basic Array Methods in JS](https://dev.to/akashiyyappan/basic-array-methods-in-js-4ed8)
 <!-- BLOG-POST-LIST:END -->
 
