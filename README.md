@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Architecture Diagram Is Lying To You](https://dev.to/aakashio/your-architecture-diagram-is-lying-to-you-224k)
-- [Method Overloading in Java](https://dev.to/harini_magesh_fa40041cf8d/method-overloading-in-java-4d25)
-- [Methods Examples in Java](https://dev.to/harini_magesh_fa40041cf8d/methods-examples-in-java-51b2)
-- [Synchronous, asynchronous, concurrent, parallel: the 4 concepts explained in Go](https://dev.to/ohugonnot/synchronous-asynchronous-concurrent-parallel-the-4-concepts-explained-in-go-2gka)
+- [The Productive Programmer](https://dev.to/steveharrison/the-productive-programmer-775)
+- [Western AI Rules for Everyone](https://dev.to/rawveg/western-ai-rules-for-everyone-6j)
+- [Why I stopped using DOM locators for End-to-End tests altogether—and replaced them with computer vision](https://dev.to/angelina_kos/why-i-stopped-using-dom-locators-for-end-to-end-tests-altogether-and-replaced-them-with-computer-399)
+- [WebRTC vs. MoQ — Two Protocols, One Platform Completely Built for Both](https://dev.to/antmedia_io/webrtc-vs-moq-two-protocols-one-platform-completely-built-for-both-4aj1)
 <!-- BLOG-POST-LIST:END -->
 
