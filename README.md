@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI vs reality: Why GitLab pipelines confuse LLMs](https://dev.to/polarsquad/ai-vs-reality-why-gitlab-pipelines-confuse-llms-h90)
-- [OWASP Top 10 Explained: Real-World Vulnerabilities &amp; How to Fix Them](https://dev.to/17j/owasp-top-10-explained-real-world-vulnerabilities-how-to-fix-them-1ilm)
-- [What Production Agent Architecture Actually Requires &lpar;Most Setups Don&#39;t Have It&rpar;](https://dev.to/thebrierfox/what-production-agent-architecture-actually-requires-most-setups-dont-have-it-2b69)
-- [Why Senior Engineers Choose Boring Go Over Exciting Rust](https://dev.to/speed_engineer/why-senior-engineers-choose-boring-go-over-exciting-rust-lod)
+- [Build a Discord Bot That Alerts Your Team When Competitors Post](https://dev.to/olams/build-a-discord-bot-that-alerts-your-team-when-competitors-post-4eo8)
+- [API Explained: From Basics to Real-World Systems &lpar;UPI Deep Dive&rpar;](https://dev.to/sreekanth_kuruba_91721e5d/api-explained-from-basics-to-real-world-systems-upi-deep-dive-8gn)
+- [How I built a viral gaming SaaS with my 14yo son &lpar;and survived a massive traffic spike on AWS without going bankrupt&rpar;](https://dev.to/brawlvalue/how-i-built-a-viral-gaming-saas-with-my-14yo-son-and-survived-a-massive-traffic-spike-on-aws-31pa)
+- [Building Your Own &quot;Google Maps for Codebases&quot;: A Guide to Semantic Code Search with LLMs](https://dev.to/midas126/building-your-own-google-maps-for-codebases-a-guide-to-semantic-code-search-with-llms-431l)
 <!-- BLOG-POST-LIST:END -->
 
