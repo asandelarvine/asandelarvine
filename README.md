@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Productive Programmer](https://dev.to/steveharrison/the-productive-programmer-775)
-- [Western AI Rules for Everyone](https://dev.to/rawveg/western-ai-rules-for-everyone-6j)
-- [Why I stopped using DOM locators for End-to-End tests altogether—and replaced them with computer vision](https://dev.to/angelina_kos/why-i-stopped-using-dom-locators-for-end-to-end-tests-altogether-and-replaced-them-with-computer-399)
-- [WebRTC vs. MoQ — Two Protocols, One Platform Completely Built for Both](https://dev.to/antmedia_io/webrtc-vs-moq-two-protocols-one-platform-completely-built-for-both-4aj1)
+- [Understanding PCIe Data Link Layer](https://dev.to/ripan030/understanding-pcie-data-link-layer-9jp)
+- [I built &quot;sysview&quot; — a beautiful terminal system monitor for developers](https://dev.to/12britz/i-built-sysview-a-beautiful-terminal-system-monitor-for-developers-3h08)
+- [Ostium Exchange Explained for Developers: RWA Perpetual Trading Architecture on Arbitrum](https://dev.to/noahwhitaker/ostium-exchange-explained-for-developers-rwa-perpetual-trading-architecture-on-arbitrum-2jbb)
+- [The connection pool paradox: why more connections slow your database down](https://dev.to/tony_hp/the-connection-pool-paradox-why-more-connections-slow-your-database-down-2kjg)
 <!-- BLOG-POST-LIST:END -->
 
