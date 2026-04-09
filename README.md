@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [6 SAP S/4HANA Migration Moves That Actually Work &lpar;From the Trenches&rpar;](https://dev.to/kalyani_bansod_3cea9cf292/6-sap-s4hana-migration-moves-that-actually-work-from-the-trenches-3ip8)
-- [Yahoo Finance Scraping: Extract Stock Prices, Financial Data and Market News](https://dev.to/agenthustler/yahoo-finance-scraping-extract-stock-prices-financial-data-and-market-news-34k2)
-- [Stack Overflow Scraping: Extract Questions, Answers, and Developer Data](https://dev.to/agenthustler/stack-overflow-scraping-extract-questions-answers-and-developer-data-1pj8)
-- [Functions](https://dev.to/nanthini_ammu_ac02ad32802/functions-d8o)
+- [Meilleures alternatives à Pika Labs en 2026: vidéos plus longues, meilleures API, plus de modèles](https://dev.to/antoine_laurentt/meilleures-alternatives-a-pika-labs-en-2026-videos-plus-longues-meilleures-api-plus-de-modeles-59ja)
+- [Marker, hosted: a scientific PDF parser API with LaTeX equations preserved](https://dev.to/kjyounai/marker-hosted-a-scientific-pdf-parser-api-with-latex-equations-preserved-5df8)
+- [Self-Hosted n8n vs n8n Cloud: Which Should You Choose in 2026](https://dev.to/chasebot/self-hosted-n8n-vs-n8n-cloud-which-should-you-choose-in-2026-5789)
+- [Experimenting with AI subagents](https://dev.to/nfrankel/experimenting-with-ai-subagents-pc7)
 <!-- BLOG-POST-LIST:END -->
 
