@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular &amp; the &quot;Disappearing this&quot;: Why Arrow Functions are More Than Just Syntax Sugar](https://dev.to/agraczyk/angular-the-disappearing-this-why-arrow-functions-are-more-than-just-syntax-sugar-3925)
-- [Custom Software vs SaaS: The Real 5-Year Cost Comparison](https://dev.to/petr_patek_12/custom-software-vs-saas-the-real-5-year-cost-comparison-3b8j)
-- [How to Build a Multiplayer Lobby in Unity with Socket.IO](https://dev.to/magithar/how-to-build-a-multiplayer-lobby-in-unity-with-socketio-ko9)
-- [Understanding Transformers Part 4: Introduction to Self-Attention](https://dev.to/rijultp/understanding-transformers-part-4-introduction-to-self-attention-45bg)
+- [How to Add Comments to an Astro Site &lpar;Lazy-Loaded, Zero JS by Default&rpar;](https://dev.to/yoni_ryabinski_da05ba8c9c/how-to-add-comments-to-an-astro-site-lazy-loaded-zero-js-by-default-hba)
+- [Building a Full Player Onboarding Flow in UE5 &lpar;Account Email Character Creation&rpar;](https://dev.to/domtechgaming/building-a-full-player-onboarding-flow-in-ue5-account-email-character-creation-1nhl)
+- [I Built a 5-Line SDK for Claude Agents — Here&#39;s Why](https://dev.to/santhosh_dhandapani/i-built-a-5-line-sdk-for-claude-agents-heres-why-3i8j)
+- [Meet Trysil: a lightweight ORM for Delphi](https://dev.to/davidlastrucci/meet-trysil-a-lightweight-orm-for-delphi-45c2)
 <!-- BLOG-POST-LIST:END -->
 
