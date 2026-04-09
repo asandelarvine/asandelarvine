@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to get YouTube data for a growth strategy: video and channel analysis](https://dev.to/eunit/how-to-get-youtube-data-for-a-growth-strategy-video-and-channel-analysis-7a1)
-- [Python Modules and Imports Explained Simply](https://dev.to/shahrouzlogs/python-modules-and-imports-explained-simply-44i)
-- [The constant background hum](https://dev.to/raphink/the-constant-background-hum-hh7)
-- [Pod Security Standards: A Security-First Guide](https://dev.to/orthogonalinfo/pod-security-standards-a-security-first-guide-33ln)
+- [Angular &amp; the &quot;Disappearing this&quot;: Why Arrow Functions are More Than Just Syntax Sugar](https://dev.to/agraczyk/angular-the-disappearing-this-why-arrow-functions-are-more-than-just-syntax-sugar-3925)
+- [Custom Software vs SaaS: The Real 5-Year Cost Comparison](https://dev.to/petr_patek_12/custom-software-vs-saas-the-real-5-year-cost-comparison-3b8j)
+- [How to Build a Multiplayer Lobby in Unity with Socket.IO](https://dev.to/magithar/how-to-build-a-multiplayer-lobby-in-unity-with-socketio-ko9)
+- [Understanding Transformers Part 4: Introduction to Self-Attention](https://dev.to/rijultp/understanding-transformers-part-4-introduction-to-self-attention-45bg)
 <!-- BLOG-POST-LIST:END -->
 
