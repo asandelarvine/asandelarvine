@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Streaming SSR Without Server Components — A Practical Guide](https://dev.to/childrentime/react-streaming-ssr-without-server-components-a-practical-guide-2p2k)
-- [A beginner&#39;s guide to the Flux-2-Pro model by Black-Forest-Labs on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-flux-2-pro-model-by-black-forest-labs-on-replicate-46b1)
-- [Anthropic Managed Agents Architecture: Decoupling Brain from Hands for Scalable AI Agents](https://dev.to/_46ea277e677b888e0cd13/anthropic-managed-agents-architecture-decoupling-brain-from-hands-for-scalable-ai-agents-295k)
-- [The Art of Saying &quot;No&quot; in Code Review](https://dev.to/devglish/the-art-of-saying-no-in-code-review-4l7b)
+- [Method in java](https://dev.to/priya_k_9427a2e692abd3ddb/method-in-java-3n6n)
+- [Constructor in JavaScript](https://dev.to/priya_k_9427a2e692abd3ddb/constructor-in-javascript-kno)
+- [Method OverLoading](https://dev.to/priya_k_9427a2e692abd3ddb/method-overloading-3287)
+- [Ditch Static IAM Keys: Run Terraform with AWS SSO](https://dev.to/khimananda/ditch-static-iam-keys-run-terraform-with-aws-sso-49b5)
 <!-- BLOG-POST-LIST:END -->
 
