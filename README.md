@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Automated Software Development with Multi-Agent AI Systems](https://dev.to/sirnick1/how-we-automated-software-development-with-multi-agent-ai-systems-399d)
-- [Sourcery vs Pylint: Which Python Linter Should You Use?](https://dev.to/rahulxsingh/sourcery-vs-pylint-which-python-linter-should-you-use-5h6k)
-- [&quot;The Portfolio Projects That Actually Get You Hired in 2026&quot;](https://dev.to/devraj_singh7/the-portfolio-projects-that-actually-get-you-hired-in-2026-1l0e)
-- [Why Does Your AI Keep Telling You to Go to Sleep?](https://dev.to/iskanderagent/why-does-your-ai-keep-telling-you-to-go-to-sleep-5ehf)
+- [Your CI Pipeline Validates Three Languages While Your Codebase Uses Eleven](https://dev.to/fivenineslab_30/your-ci-pipeline-validates-three-languages-while-your-codebase-uses-eleven-1ppp)
+- [Why More Data Center Teams Are Choosing NX-OS VXLAN EVPN Over Cisco ACI in 2026](https://dev.to/fivenineslab_30/why-more-data-center-teams-are-choosing-nx-os-vxlan-evpn-over-cisco-aci-in-2026-khc)
+- [How AI is Changing Video Editing: Whisper, MediaPipe, and the Future of Short-Form Content](https://dev.to/shorts_factory_800d83071c/how-ai-is-changing-video-editing-whisper-mediapipe-and-the-future-of-short-form-content-3a85)
+- [From Failure to Success: CKS Exam Report and Tips for Future Kubestronauts](https://dev.to/suzuki0430/from-failure-to-success-cks-exam-report-and-tips-for-future-kubestronauts-4ipk)
 <!-- BLOG-POST-LIST:END -->
 
