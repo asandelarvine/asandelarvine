@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Method in java](https://dev.to/priya_k_9427a2e692abd3ddb/method-in-java-3n6n)
-- [Constructor in JavaScript](https://dev.to/priya_k_9427a2e692abd3ddb/constructor-in-javascript-kno)
-- [Method OverLoading](https://dev.to/priya_k_9427a2e692abd3ddb/method-overloading-3287)
-- [Ditch Static IAM Keys: Run Terraform with AWS SSO](https://dev.to/khimananda/ditch-static-iam-keys-run-terraform-with-aws-sso-49b5)
+- [6 SAP S/4HANA Migration Moves That Actually Work &lpar;From the Trenches&rpar;](https://dev.to/kalyani_bansod_3cea9cf292/6-sap-s4hana-migration-moves-that-actually-work-from-the-trenches-3ip8)
+- [Yahoo Finance Scraping: Extract Stock Prices, Financial Data and Market News](https://dev.to/agenthustler/yahoo-finance-scraping-extract-stock-prices-financial-data-and-market-news-34k2)
+- [Stack Overflow Scraping: Extract Questions, Answers, and Developer Data](https://dev.to/agenthustler/stack-overflow-scraping-extract-questions-answers-and-developer-data-1pj8)
+- [Functions](https://dev.to/nanthini_ammu_ac02ad32802/functions-d8o)
 <!-- BLOG-POST-LIST:END -->
 
