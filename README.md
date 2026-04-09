@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kiro CLI + ArgoCD MCP: Manage GitOps from Your Terminal](https://dev.to/habib_masri/kiro-cli-argocd-mcp-manage-gitops-from-your-terminal-10k3)
-- [One Model Provider Is a Toy Nowadays. Part 4/5](https://dev.to/jon_at_backboardio/one-model-provider-is-a-toy-nowadays-part-45-29jo)
-- [Serverless applications on AWS with Lambda using Java 25, API Gateway and Aurora DSQL - Part 4 SnapStart + DSQL request priming](https://dev.to/aws-heroes/serverless-applications-on-aws-with-lambda-using-java-25-api-gateway-and-aurora-dsql-part-4-1kg5)
-- [Every Dev Has the New-Project Itch. Rapid Prototyping Makes It Creative.](https://dev.to/cn8001/every-dev-has-the-new-project-itch-rapid-prototyping-makes-it-creative-3ocf)
+- [How to get YouTube data for a growth strategy: video and channel analysis](https://dev.to/eunit/how-to-get-youtube-data-for-a-growth-strategy-video-and-channel-analysis-7a1)
+- [Python Modules and Imports Explained Simply](https://dev.to/shahrouzlogs/python-modules-and-imports-explained-simply-44i)
+- [The constant background hum](https://dev.to/raphink/the-constant-background-hum-hh7)
+- [Pod Security Standards: A Security-First Guide](https://dev.to/orthogonalinfo/pod-security-standards-a-security-first-guide-33ln)
 <!-- BLOG-POST-LIST:END -->
 
