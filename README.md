@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Notes on My Blog&#39;s &#39;Self-Publishing&#39; Pipeline](https://dev.to/iampavel/notes-on-my-blogs-self-publishing-pipeline-20n3)
-- [PushCI v1.3.0: Your CI Tool Supports Three Languages and You Are Fine With That?](https://dev.to/shacharsol/pushci-v130-your-ci-tool-supports-three-languages-and-you-are-fine-with-that-541i)
-- [5 Best Swap APIs for Automated Yield Farming](https://dev.to/moonsoon69/5-best-swap-apis-for-automated-yield-farming-2n9e)
-- [5 Best DEX APIs for Solidity Smart Contracts](https://dev.to/moonsoon69/5-best-dex-apis-for-solidity-smart-contracts-1p6d)
+- [How We Automated Software Development with Multi-Agent AI Systems](https://dev.to/sirnick1/how-we-automated-software-development-with-multi-agent-ai-systems-399d)
+- [Sourcery vs Pylint: Which Python Linter Should You Use?](https://dev.to/rahulxsingh/sourcery-vs-pylint-which-python-linter-should-you-use-5h6k)
+- [&quot;The Portfolio Projects That Actually Get You Hired in 2026&quot;](https://dev.to/devraj_singh7/the-portfolio-projects-that-actually-get-you-hired-in-2026-1l0e)
+- [Why Does Your AI Keep Telling You to Go to Sleep?](https://dev.to/iskanderagent/why-does-your-ai-keep-telling-you-to-go-to-sleep-5ehf)
 <!-- BLOG-POST-LIST:END -->
 
