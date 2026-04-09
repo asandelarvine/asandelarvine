@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The $39 Trillion Bill: How Corruption Built Big Tech and Why Indie Devs Pay the Price](https://dev.to/lostbeard/the-39-trillion-bill-how-corruption-built-big-tech-and-why-indie-devs-pay-the-price-222n)
-- [How to Cache Exchange Rates and Avoid Rate Limit Errors](https://dev.to/chathuranga_basnayaka_d50/how-to-cache-exchange-rates-and-avoid-rate-limit-errors-5bd1)
-- [🚀 Day 30 of My Automation Journey – Java Strings &lpar;Package, Memory, Limitations &amp; Real-Time Usage&rpar; - part 2](https://dev.to/bala_d_kaveri/day-30-of-my-automation-journey-java-strings-deep-dive-package-memory-limitations--4gf3)
-- [Building SilentGuard — a lightweight Linux network monitor &lpar;TUI + GUI&rpar;](https://dev.to/thezupzup/building-silentguard-a-lightweight-linux-network-monitor-tui-gui-1poe)
+- [Kiro CLI + ArgoCD MCP: Manage GitOps from Your Terminal](https://dev.to/habib_masri/kiro-cli-argocd-mcp-manage-gitops-from-your-terminal-10k3)
+- [One Model Provider Is a Toy Nowadays. Part 4/5](https://dev.to/jon_at_backboardio/one-model-provider-is-a-toy-nowadays-part-45-29jo)
+- [Serverless applications on AWS with Lambda using Java 25, API Gateway and Aurora DSQL - Part 4 SnapStart + DSQL request priming](https://dev.to/aws-heroes/serverless-applications-on-aws-with-lambda-using-java-25-api-gateway-and-aurora-dsql-part-4-1kg5)
+- [Every Dev Has the New-Project Itch. Rapid Prototyping Makes It Creative.](https://dev.to/cn8001/every-dev-has-the-new-project-itch-rapid-prototyping-makes-it-creative-3ocf)
 <!-- BLOG-POST-LIST:END -->
 
