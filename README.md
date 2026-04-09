@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Comments to an Astro Site &lpar;Lazy-Loaded, Zero JS by Default&rpar;](https://dev.to/yoni_ryabinski_da05ba8c9c/how-to-add-comments-to-an-astro-site-lazy-loaded-zero-js-by-default-hba)
-- [Building a Full Player Onboarding Flow in UE5 &lpar;Account Email Character Creation&rpar;](https://dev.to/domtechgaming/building-a-full-player-onboarding-flow-in-ue5-account-email-character-creation-1nhl)
-- [I Built a 5-Line SDK for Claude Agents — Here&#39;s Why](https://dev.to/santhosh_dhandapani/i-built-a-5-line-sdk-for-claude-agents-heres-why-3i8j)
-- [Meet Trysil: a lightweight ORM for Delphi](https://dev.to/davidlastrucci/meet-trysil-a-lightweight-orm-for-delphi-45c2)
+- [Notes on My Blog&#39;s &#39;Self-Publishing&#39; Pipeline](https://dev.to/iampavel/notes-on-my-blogs-self-publishing-pipeline-20n3)
+- [PushCI v1.3.0: Your CI Tool Supports Three Languages and You Are Fine With That?](https://dev.to/shacharsol/pushci-v130-your-ci-tool-supports-three-languages-and-you-are-fine-with-that-541i)
+- [5 Best Swap APIs for Automated Yield Farming](https://dev.to/moonsoon69/5-best-swap-apis-for-automated-yield-farming-2n9e)
+- [5 Best DEX APIs for Solidity Smart Contracts](https://dev.to/moonsoon69/5-best-dex-apis-for-solidity-smart-contracts-1p6d)
 <!-- BLOG-POST-LIST:END -->
 
