@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Review Revolution: Why Code Review Is Now the Most Important Skill You Have](https://dev.to/pavel_polivka/the-review-revolution-why-code-review-is-now-the-most-important-skill-you-have-1j1f)
-- [Parsing X12 850 Purchase Orders in Java with OBOE](https://dev.to/stock_trendswithjoe_712/parsing-x12-850-purchase-orders-in-java-with-oboe-1nnp)
-- [FoolPot: Hyper-Judgmental AI Teapot with Google AI Studio Build, Gemini API &amp; CloudRun](https://dev.to/kheai/foolpot-hyper-judgmental-ai-teapot-with-google-ai-studio-build-gemini-api-cloudrun-o8e)
-- [ARIA Labels Done Wrong: The Most Common Mistakes I See in Production Code](https://dev.to/priya_nair/aria-labels-done-wrong-the-most-common-mistakes-i-see-in-production-code-39ga)
+- [The $39 Trillion Bill: How Corruption Built Big Tech and Why Indie Devs Pay the Price](https://dev.to/lostbeard/the-39-trillion-bill-how-corruption-built-big-tech-and-why-indie-devs-pay-the-price-222n)
+- [How to Cache Exchange Rates and Avoid Rate Limit Errors](https://dev.to/chathuranga_basnayaka_d50/how-to-cache-exchange-rates-and-avoid-rate-limit-errors-5bd1)
+- [🚀 Day 30 of My Automation Journey – Java Strings &lpar;Package, Memory, Limitations &amp; Real-Time Usage&rpar; - part 2](https://dev.to/bala_d_kaveri/day-30-of-my-automation-journey-java-strings-deep-dive-package-memory-limitations--4gf3)
+- [Building SilentGuard — a lightweight Linux network monitor &lpar;TUI + GUI&rpar;](https://dev.to/thezupzup/building-silentguard-a-lightweight-linux-network-monitor-tui-gui-1poe)
 <!-- BLOG-POST-LIST:END -->
 
