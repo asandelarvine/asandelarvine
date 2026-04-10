@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Crashed My Mac 5 Times So You Don&#39;t Have To: Mounting S3 Files on macOS](https://dev.to/aws-heroes/i-crashed-my-mac-5-times-so-you-dont-have-to-mounting-s3-files-on-macos-3nmp)
-- [next-intl vs next-i18next: Choosing the Right i18n Library for Next.js](https://dev.to/adrai/next-intl-vs-next-i18next-choosing-the-right-i18n-library-for-nextjs-646)
-- [Run Leetcode locally - Javascript test case for practices](https://dev.to/rickvian/run-leetcode-locally-javascript-test-case-for-practices-1ffn)
-- [Resilient Retries: The API Tactics That Shrink Tail Latency](https://dev.to/speed_engineer/resilient-retries-the-api-tactics-that-shrink-tail-latency-2olk)
+- [12 Free LLM APIs You Can Use Right Now &lpar;No Credit Card, Real Limits Tested&rpar;](https://dev.to/tokenmixai/12-free-llm-apis-you-can-use-right-now-no-credit-card-real-limits-tested-13f8)
+- [I Built a 100% Free Document Scanner App — No Ads, No Watermarks](https://dev.to/fan_ei_bc365d7c81ba45eed9/i-built-a-100-free-document-scanner-app-no-ads-no-watermarks-8ke)
+- [Transformer Architecture in 2026: From Attention to Mixture of Experts &lpar;MoE&rpar;](https://dev.to/jintukumardas/transformer-architecture-in-2026-from-attention-to-mixture-of-experts-moe-3d46)
+- [Recurring VPS Hosting Issues: How Switching Providers and Negotiating Contracts Restores Trust and Reliability](https://dev.to/maxgeris/recurring-vps-hosting-issues-how-switching-providers-and-negotiating-contracts-restores-trust-and-4h0p)
 <!-- BLOG-POST-LIST:END -->
 
