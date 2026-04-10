@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WHAT IS THIS RUBBER DUCK FOR?](https://dev.to/bongli/what-is-this-rubber-duck-for-5cok)
-- [Project Glasswing and the Mythos Moment: A Critical Examination of AI&#39;s Cybersecurity Crossroads](https://dev.to/therabbithole/project-glasswing-and-the-mythos-moment-a-critical-examination-of-ais-cybersecurity-crossroads-129d)
-- [Claude Code Skills vs MCP Servers — What to Use, How to Install, and the Best Ones in 2026](https://dev.to/williamwangai/claude-code-skills-vs-mcp-servers-what-to-use-how-to-install-and-the-best-ones-in-2026-548k)
-- [Concurrency vs parallelism in Go: applied to Event Sourcing and CQRS](https://dev.to/ohugonnot/concurrency-vs-parallelism-in-go-applied-to-event-sourcing-and-cqrs-19l4)
+- [From Flat Files to a Living Memory: Building Graph-Based Semantic Memory for PocketPaw](https://dev.to/amritesh240304/from-flat-files-to-a-living-memory-building-graph-based-semantic-memory-for-pocketpaw-5cp8)
+- [How Dialer Software Improves Sales Performance and ROI](https://dev.to/john_wick_280091e620a41df/how-dialer-software-improves-sales-performance-and-roi-5h9m)
+- [Why Employee Engagement is the Real Bottleneck &lpar;297 employees analyzed&rpar;](https://dev.to/ricardopad/why-employee-engagement-is-the-real-bottleneck-297-employees-analyzed-4dd)
+- [Building Embodied AI Memory: moteDB for Vectors, Time-Series and State](https://dev.to/motedb/building-embodied-ai-memory-motedb-for-vectors-time-series-and-state-14pk)
 <!-- BLOG-POST-LIST:END -->
 
