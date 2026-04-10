@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js Uygulamalarında Dinamik Yönlendirme Nasıl Yapılır?](https://dev.to/forumweb/nextjs-uygulamalarinda-dinamik-yonlendirme-nasil-yapilir-5hjj)
-- [Large Language Models, Explained Like You&#39;re a Curious Human](https://dev.to/sabitak/large-language-models-explained-like-youre-a-curious-human-51ac)
-- [Perpetual Engine Series Part 2: Real-Time PnL Calculation 📈](https://dev.to/sumana10l/perpetual-engine-series-part-2-real-time-pnl-calculation-2npa)
-- [I slashed my AI token costs by 90% by &quot;interviewing&quot; my code. Here&#39;s the tool. &lpar;Show DEV&rpar;](https://dev.to/tuandm/i-slashed-my-ai-token-costs-by-90-by-interviewing-my-code-heres-the-tool-show-dev-2nmk)
+- [Next.js ile Geliştirilen Uygulamalarda Yük Dengeleme Yöntemleri](https://dev.to/forumweb/nextjs-ile-gelistirilen-uygulamalarda-yuk-dengeleme-yontemleri-3a8e)
+- [The JavaScript Runtime: Fixing the Mental Model](https://dev.to/marshateo/the-javascript-runtime-fixing-the-mental-model-5f5b)
+- [JavaScript Event Loop Series: Building the Event Loop Mental Model from Experiments](https://dev.to/marshateo/javascript-event-loop-series-building-the-event-loop-mental-model-from-experiments-4d8i)
+- [EasyPollVote [Dev Log #1]](https://dev.to/francistrdev/easypollvote-dev-log-1-n7j)
 <!-- BLOG-POST-LIST:END -->
 
