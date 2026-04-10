@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your CI Pipeline Validates Three Languages While Your Codebase Uses Eleven](https://dev.to/fivenineslab_30/your-ci-pipeline-validates-three-languages-while-your-codebase-uses-eleven-1ppp)
-- [Why More Data Center Teams Are Choosing NX-OS VXLAN EVPN Over Cisco ACI in 2026](https://dev.to/fivenineslab_30/why-more-data-center-teams-are-choosing-nx-os-vxlan-evpn-over-cisco-aci-in-2026-khc)
-- [How AI is Changing Video Editing: Whisper, MediaPipe, and the Future of Short-Form Content](https://dev.to/shorts_factory_800d83071c/how-ai-is-changing-video-editing-whisper-mediapipe-and-the-future-of-short-form-content-3a85)
-- [From Failure to Success: CKS Exam Report and Tips for Future Kubestronauts](https://dev.to/suzuki0430/from-failure-to-success-cks-exam-report-and-tips-for-future-kubestronauts-4ipk)
+- [I got tired of LaTeX, so I built a zero-config Python CLI to turn Markdown into premium PDFs](https://dev.to/leonardosalasd/i-got-tired-of-latex-so-i-built-a-zero-config-python-cli-to-turn-markdown-into-premium-pdfs-oob)
+- [$0.60 per session, just on orientation. Here is what my AI agent was doing before writing any code.](https://dev.to/thegdsks/060-per-session-just-on-orientation-here-is-what-my-ai-agent-was-doing-before-writing-any-code-28i5)
+- [The State of OCR in .NET &lpar;2026&rpar;: From Text Extraction to Real Pipelines](https://dev.to/woltw_dev/the-state-of-ocr-in-net-2026-from-text-extraction-to-real-pipelines-25cb)
+- [The Sort Algo Every Language Uses &lpar;Not Quicksort&rpar;](https://dev.to/neuraldownload/the-sort-algo-every-language-uses-not-quicksort-3lk2)
 <!-- BLOG-POST-LIST:END -->
 
