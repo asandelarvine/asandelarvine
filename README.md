@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Flat Files to a Living Memory: Building Graph-Based Semantic Memory for PocketPaw](https://dev.to/amritesh240304/from-flat-files-to-a-living-memory-building-graph-based-semantic-memory-for-pocketpaw-5cp8)
-- [How Dialer Software Improves Sales Performance and ROI](https://dev.to/john_wick_280091e620a41df/how-dialer-software-improves-sales-performance-and-roi-5h9m)
-- [Why Employee Engagement is the Real Bottleneck &lpar;297 employees analyzed&rpar;](https://dev.to/ricardopad/why-employee-engagement-is-the-real-bottleneck-297-employees-analyzed-4dd)
-- [Building Embodied AI Memory: moteDB for Vectors, Time-Series and State](https://dev.to/motedb/building-embodied-ai-memory-motedb-for-vectors-time-series-and-state-14pk)
+- [How One Field in a Sort Query Brought Down Our OpenSearch Cluster](https://dev.to/jdsouza/how-one-field-in-a-sort-query-brought-down-our-opensearch-cluster-3fb)
+- [AI-Assisted SAP Code Reviews. What to Trust and What to Verify](https://dev.to/avotechs/ai-assisted-sap-code-reviews-what-to-trust-and-what-to-verify-383h)
+- [How I Built a Daily Stock Digest Using n8n &lpar;Financial Automation Guide&rpar;](https://dev.to/kevin_menesesgonzlez/how-i-built-a-daily-stock-digest-using-n8n-financial-automation-guide-4j28)
+- [Local-First Vectors: How to Build Privacy-Preserving AI Apps without the Cloud](https://dev.to/akosidencio/local-first-vectors-how-to-build-privacy-preserving-ai-apps-without-the-cloud-4lih)
 <!-- BLOG-POST-LIST:END -->
 
