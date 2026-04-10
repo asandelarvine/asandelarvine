@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prompting from the Abyss: Why Your AI Only Gives You Boring Answers &lpar;And How to Fix It&rpar;](https://dev.to/hiddenlayermedia/prompting-from-the-abyss-why-your-ai-only-gives-you-boring-answers-and-how-to-fix-it-3p3b)
-- [DirectAdmin Altyapısı - Detaylı Teknik Analiz Rehberi 2026](https://dev.to/forumweb/directadmin-altyapisi-detayli-teknik-analiz-rehberi-2026-1adg)
-- [From Monolithic Prompts to Modular Context: A Practical Architecture for Agent Memory](https://dev.to/salt_creative/from-monolithic-prompts-to-modular-context-a-practical-architecture-for-agent-memory-1lcp)
-- [Apache Parquet File Anatomy: Row Groups, Column Chunks, Pages, and Metadata Explained 🧱📦](https://dev.to/databro/apache-parquet-file-anatomy-row-groups-column-chunks-pages-and-metadata-explained-4ebg)
+- [Next.js Uygulamalarında Dinamik Yönlendirme Nasıl Yapılır?](https://dev.to/forumweb/nextjs-uygulamalarinda-dinamik-yonlendirme-nasil-yapilir-5hjj)
+- [Large Language Models, Explained Like You&#39;re a Curious Human](https://dev.to/sabitak/large-language-models-explained-like-youre-a-curious-human-51ac)
+- [Perpetual Engine Series Part 2: Real-Time PnL Calculation 📈](https://dev.to/sumana10l/perpetual-engine-series-part-2-real-time-pnl-calculation-2npa)
+- [I slashed my AI token costs by 90% by &quot;interviewing&quot; my code. Here&#39;s the tool. &lpar;Show DEV&rpar;](https://dev.to/tuandm/i-slashed-my-ai-token-costs-by-90-by-interviewing-my-code-heres-the-tool-show-dev-2nmk)
 <!-- BLOG-POST-LIST:END -->
 
