@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coffee Debt: Gamifying AI Error Tracking with Claude Code Hooks](https://dev.to/ceaksan/coffee-debt-gamifying-ai-error-tracking-with-claude-code-hooks-1mci)
-- [Belajar kubernetes di hp? kenapa gw pilih K3s dibanding K8s standar](https://dev.to/onokosy/belajar-kubernetes-di-hp-kenapa-gw-pilih-k3s-dibanding-k8s-standar-2aeb)
-- [Why I needed Durable Execution to Read a Toy Manual](https://dev.to/temporalio/why-i-needed-durable-execution-to-read-a-toy-manual-35cn)
-- [Flutter Apple Sign In Error 1000: The Fix No One Talks About](https://dev.to/devsnake/flutter-apple-sign-in-error-1000-the-fix-no-one-talks-about-3nld)
+- [Choose wisely. Or wait to leave when sick, bored, fired, or burned out.](https://dev.to/canro91/choose-wisely-or-wait-to-leave-when-sick-bored-fired-or-burned-out-31h8)
+- [How I Built a Free AI Video Generator](https://dev.to/polskoydm/how-i-built-a-free-ai-video-generator-5beh)
+- [What is an LLM actually doing when it&#39;s &quot;thinking&quot;?](https://dev.to/googleai/what-is-an-llm-actually-doing-when-its-thinking-5do5)
+- [Why Math.random&lpar;&rpar; Will Fail Your Next Security Audit](https://dev.to/tim_o_5617baa5171354e/why-mathrandom-will-fail-your-next-security-audit-4h2c)
 <!-- BLOG-POST-LIST:END -->
 
