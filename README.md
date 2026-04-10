@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [objects in JavaScript](https://dev.to/jegadeshwaran_b_b86e7dd1a/objects-in-javascript-2ckl)
-- [Your .md Files Are Now Your Most Powerful Engineering Artifact ,And You&#39;re Probably Ignoring Them](https://dev.to/vinayakak001/your-md-files-are-now-your-most-powerful-engineering-artifact-and-youre-probably-ignoring-them-10ni)
-- [Why Reasoning Models Changed Everything](https://dev.to/shresthapandey/why-reasoning-models-changed-everything-5e1n)
-- [How to Add Cost-Aware Model Selection to Your AI Agent](https://dev.to/simonamsharp/how-to-add-cost-aware-model-selection-to-your-ai-agent-43mh)
+- [Coffee Debt: Gamifying AI Error Tracking with Claude Code Hooks](https://dev.to/ceaksan/coffee-debt-gamifying-ai-error-tracking-with-claude-code-hooks-1mci)
+- [Belajar kubernetes di hp? kenapa gw pilih K3s dibanding K8s standar](https://dev.to/onokosy/belajar-kubernetes-di-hp-kenapa-gw-pilih-k3s-dibanding-k8s-standar-2aeb)
+- [Why I needed Durable Execution to Read a Toy Manual](https://dev.to/temporalio/why-i-needed-durable-execution-to-read-a-toy-manual-35cn)
+- [Flutter Apple Sign In Error 1000: The Fix No One Talks About](https://dev.to/devsnake/flutter-apple-sign-in-error-1000-the-fix-no-one-talks-about-3nld)
 <!-- BLOG-POST-LIST:END -->
 
