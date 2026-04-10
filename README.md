@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Free LLM APIs You Can Use Right Now &lpar;No Credit Card, Real Limits Tested&rpar;](https://dev.to/tokenmixai/12-free-llm-apis-you-can-use-right-now-no-credit-card-real-limits-tested-13f8)
-- [I Built a 100% Free Document Scanner App — No Ads, No Watermarks](https://dev.to/fan_ei_bc365d7c81ba45eed9/i-built-a-100-free-document-scanner-app-no-ads-no-watermarks-8ke)
-- [Transformer Architecture in 2026: From Attention to Mixture of Experts &lpar;MoE&rpar;](https://dev.to/jintukumardas/transformer-architecture-in-2026-from-attention-to-mixture-of-experts-moe-3d46)
-- [Recurring VPS Hosting Issues: How Switching Providers and Negotiating Contracts Restores Trust and Reliability](https://dev.to/maxgeris/recurring-vps-hosting-issues-how-switching-providers-and-negotiating-contracts-restores-trust-and-4h0p)
+- [WHAT IS THIS RUBBER DUCK FOR?](https://dev.to/bongli/what-is-this-rubber-duck-for-5cok)
+- [Project Glasswing and the Mythos Moment: A Critical Examination of AI&#39;s Cybersecurity Crossroads](https://dev.to/therabbithole/project-glasswing-and-the-mythos-moment-a-critical-examination-of-ais-cybersecurity-crossroads-129d)
+- [Claude Code Skills vs MCP Servers — What to Use, How to Install, and the Best Ones in 2026](https://dev.to/williamwangai/claude-code-skills-vs-mcp-servers-what-to-use-how-to-install-and-the-best-ones-in-2026-548k)
+- [Concurrency vs parallelism in Go: applied to Event Sourcing and CQRS](https://dev.to/ohugonnot/concurrency-vs-parallelism-in-go-applied-to-event-sourcing-and-cqrs-19l4)
 <!-- BLOG-POST-LIST:END -->
 
