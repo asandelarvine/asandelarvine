@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Best Code Test Coverage Tools in 2026 - Comprehensive Guide](https://dev.to/rahulxsingh/12-best-code-test-coverage-tools-in-2026-comprehensive-guide-3kh3)
-- [&quot;Fresher Got ₹12 LPA Offer — Here&#39;s the Exact Skills Stack They Had&quot;](https://dev.to/devraj_singh7/fresher-got-12-lpa-offer-heres-the-exact-skills-stack-they-had-5bah)
-- [Cert-gating every tool call: zero-trust for AI agents](https://dev.to/1r0nw1ll/cert-gating-every-tool-call-zero-trust-for-ai-agents-8pg)
-- [Claude Code install and config for Ollama, llama.cpp, pricing](https://dev.to/rosgluk/claude-code-install-and-config-for-ollama-llamacpp-pricing-3842)
+- [I Built an SEO API That Runs 14 Analysis Modules for $0.003 Per Call](https://dev.to/br0ski777/i-built-an-seo-api-that-runs-14-analysis-modules-for-0003-per-call-3h)
+- [What is the difference between ETL and ETL?](https://dev.to/cliffe_okoth/what-is-the-difference-between-etl-and-etl-3ok4)
+- [Your Kubernetes backups are lying to you](https://dev.to/isevenbe/your-kubernetes-backups-are-lying-to-you-2eb5)
+- [Why I’m finally open-sourcing my architectural work after 20 years building private enterprise systems](https://dev.to/sanadidari/why-im-finally-open-sourcing-my-architectural-work-after-20-years-building-private-enterprise-3ibn)
 <!-- BLOG-POST-LIST:END -->
 
