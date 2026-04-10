@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How One Field in a Sort Query Brought Down Our OpenSearch Cluster](https://dev.to/jdsouza/how-one-field-in-a-sort-query-brought-down-our-opensearch-cluster-3fb)
-- [AI-Assisted SAP Code Reviews. What to Trust and What to Verify](https://dev.to/avotechs/ai-assisted-sap-code-reviews-what-to-trust-and-what-to-verify-383h)
-- [How I Built a Daily Stock Digest Using n8n &lpar;Financial Automation Guide&rpar;](https://dev.to/kevin_menesesgonzlez/how-i-built-a-daily-stock-digest-using-n8n-financial-automation-guide-4j28)
-- [Local-First Vectors: How to Build Privacy-Preserving AI Apps without the Cloud](https://dev.to/akosidencio/local-first-vectors-how-to-build-privacy-preserving-ai-apps-without-the-cloud-4lih)
+- [I wrote a novel about personal AI in 2017. In 2026, I built it.](https://dev.to/hrajmohanr/i-wrote-a-novel-about-personal-ai-in-2017-in-2026-i-built-it-4g18)
+- [The $400M AI FinOps Gap: Why Cost Visibility Isn&#39;t the Same as Cost Control](https://dev.to/waxell/the-400m-ai-finops-gap-why-cost-visibility-isnt-the-same-as-cost-control-25m6)
+- [Playwright vs Cypress 2026: Which E2E Testing Framework Should You Use?](https://dev.to/jake_kim_bd3065a6816799db/playwright-vs-cypress-2026-which-e2e-testing-framework-should-you-use-1kmo)
+- [Prisma vs Drizzle ORM 2026: Which TypeScript ORM Should You Use?](https://dev.to/jake_kim_bd3065a6816799db/prisma-vs-drizzle-orm-2026-which-typescript-orm-should-you-use-2j15)
 <!-- BLOG-POST-LIST:END -->
 
