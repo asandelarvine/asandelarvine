@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Choose wisely. Or wait to leave when sick, bored, fired, or burned out.](https://dev.to/canro91/choose-wisely-or-wait-to-leave-when-sick-bored-fired-or-burned-out-31h8)
-- [How I Built a Free AI Video Generator](https://dev.to/polskoydm/how-i-built-a-free-ai-video-generator-5beh)
-- [What is an LLM actually doing when it&#39;s &quot;thinking&quot;?](https://dev.to/googleai/what-is-an-llm-actually-doing-when-its-thinking-5do5)
-- [Why Math.random&lpar;&rpar; Will Fail Your Next Security Audit](https://dev.to/tim_o_5617baa5171354e/why-mathrandom-will-fail-your-next-security-audit-4h2c)
+- [Prompting from the Abyss: Why Your AI Only Gives You Boring Answers &lpar;And How to Fix It&rpar;](https://dev.to/hiddenlayermedia/prompting-from-the-abyss-why-your-ai-only-gives-you-boring-answers-and-how-to-fix-it-3p3b)
+- [DirectAdmin Altyapısı - Detaylı Teknik Analiz Rehberi 2026](https://dev.to/forumweb/directadmin-altyapisi-detayli-teknik-analiz-rehberi-2026-1adg)
+- [From Monolithic Prompts to Modular Context: A Practical Architecture for Agent Memory](https://dev.to/salt_creative/from-monolithic-prompts-to-modular-context-a-practical-architecture-for-agent-memory-1lcp)
+- [Apache Parquet File Anatomy: Row Groups, Column Chunks, Pages, and Metadata Explained 🧱📦](https://dev.to/databro/apache-parquet-file-anatomy-row-groups-column-chunks-pages-and-metadata-explained-4ebg)
 <!-- BLOG-POST-LIST:END -->
 
