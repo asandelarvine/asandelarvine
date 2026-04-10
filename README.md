@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I wrote a novel about personal AI in 2017. In 2026, I built it.](https://dev.to/hrajmohanr/i-wrote-a-novel-about-personal-ai-in-2017-in-2026-i-built-it-4g18)
-- [The $400M AI FinOps Gap: Why Cost Visibility Isn&#39;t the Same as Cost Control](https://dev.to/waxell/the-400m-ai-finops-gap-why-cost-visibility-isnt-the-same-as-cost-control-25m6)
-- [Playwright vs Cypress 2026: Which E2E Testing Framework Should You Use?](https://dev.to/jake_kim_bd3065a6816799db/playwright-vs-cypress-2026-which-e2e-testing-framework-should-you-use-1kmo)
-- [Prisma vs Drizzle ORM 2026: Which TypeScript ORM Should You Use?](https://dev.to/jake_kim_bd3065a6816799db/prisma-vs-drizzle-orm-2026-which-typescript-orm-should-you-use-2j15)
+- [objects in JavaScript](https://dev.to/jegadeshwaran_b_b86e7dd1a/objects-in-javascript-2ckl)
+- [Your .md Files Are Now Your Most Powerful Engineering Artifact ,And You&#39;re Probably Ignoring Them](https://dev.to/vinayakak001/your-md-files-are-now-your-most-powerful-engineering-artifact-and-youre-probably-ignoring-them-10ni)
+- [Why Reasoning Models Changed Everything](https://dev.to/shresthapandey/why-reasoning-models-changed-everything-5e1n)
+- [How to Add Cost-Aware Model Selection to Your AI Agent](https://dev.to/simonamsharp/how-to-add-cost-aware-model-selection-to-your-ai-agent-43mh)
 <!-- BLOG-POST-LIST:END -->
 
