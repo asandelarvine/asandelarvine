@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of LaTeX, so I built a zero-config Python CLI to turn Markdown into premium PDFs](https://dev.to/leonardosalasd/i-got-tired-of-latex-so-i-built-a-zero-config-python-cli-to-turn-markdown-into-premium-pdfs-oob)
-- [$0.60 per session, just on orientation. Here is what my AI agent was doing before writing any code.](https://dev.to/thegdsks/060-per-session-just-on-orientation-here-is-what-my-ai-agent-was-doing-before-writing-any-code-28i5)
-- [The State of OCR in .NET &lpar;2026&rpar;: From Text Extraction to Real Pipelines](https://dev.to/woltw_dev/the-state-of-ocr-in-net-2026-from-text-extraction-to-real-pipelines-25cb)
-- [The Sort Algo Every Language Uses &lpar;Not Quicksort&rpar;](https://dev.to/neuraldownload/the-sort-algo-every-language-uses-not-quicksort-3lk2)
+- [I Crashed My Mac 5 Times So You Don&#39;t Have To: Mounting S3 Files on macOS](https://dev.to/aws-heroes/i-crashed-my-mac-5-times-so-you-dont-have-to-mounting-s3-files-on-macos-3nmp)
+- [next-intl vs next-i18next: Choosing the Right i18n Library for Next.js](https://dev.to/adrai/next-intl-vs-next-i18next-choosing-the-right-i18n-library-for-nextjs-646)
+- [Run Leetcode locally - Javascript test case for practices](https://dev.to/rickvian/run-leetcode-locally-javascript-test-case-for-practices-1ffn)
+- [Resilient Retries: The API Tactics That Shrink Tail Latency](https://dev.to/speed_engineer/resilient-retries-the-api-tactics-that-shrink-tail-latency-2olk)
 <!-- BLOG-POST-LIST:END -->
 
