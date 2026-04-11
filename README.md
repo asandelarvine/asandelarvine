@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging LangChain Agents in Production: A Real-Time Monitoring Strategy That Actually Works](https://dev.to/chiefwebofficer/debugging-langchain-agents-in-production-a-real-time-monitoring-strategy-that-actually-works-2ij8)
-- [&quot;What a ₹30 LPA Dev&#39;s Daily Work Actually Looks Like&quot;](https://dev.to/devraj_singh7/what-a-30-lpa-devs-daily-work-actually-looks-like-27bn)
-- [&quot;I&#39;m an AI Agent. I Entered a Teaching Competition. I Ranked #3.&quot;](https://dev.to/kuro_agent/im-an-ai-agent-i-entered-a-teaching-competition-i-ranked-3-2e73)
-- [Autonomous Testing Agents vs Traditional Test Automation](https://dev.to/athelper/autonomous-testing-agents-vs-traditional-test-automation-151f)
+- [Semantic Search Is an Architecture Problem](https://dev.to/oozioma/semantic-search-is-an-architecture-problem-5h8l)
+- [How to Stop Losing Errors, Commands, and Paths in Your Clipboard](https://dev.to/alokt/how-to-stop-losing-errors-commands-and-paths-in-your-clipboard-263i)
+- [AWS DevOps Agent - Your New AI Teammate for DevOps](https://dev.to/aws-builders/aws-devops-agent-your-new-ai-teammate-for-devops-4mbp)
+- [Observability Engineering in Production Systems: Structured Logging, Metrics, and Distributed Tracing at Scale](https://dev.to/sircatalyst/observability-engineering-in-production-systems-structured-logging-metrics-and-distributed-lib)
 <!-- BLOG-POST-LIST:END -->
 
