@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure API Management Service with Custom Domain](https://dev.to/shailugit/azure-api-management-service-with-custom-domain-2ol3)
-- [Playwright Studio from AIQEAcademy](https://dev.to/srikanth_srinivas_22928e3/-title-i-built-a-chrome-devtools-extension-to-record-assert-and-run-playwright-tests-without-45ic)
-- [Building Your Own &quot;Google Maps for Codebases&quot;: A Guide to Semantic Code Search with LLMs](https://dev.to/midas126/building-your-own-google-maps-for-codebases-a-guide-to-semantic-code-search-with-llms-138g)
-- [I trusted the code AI wrote for me. My data was silently broken the whole time.](https://dev.to/ai_finder/i-trusted-the-code-ai-wrote-for-me-my-data-was-silently-broken-the-whole-time-1ng8)
+- [Build a Desktop File Organizer in 35 Lines of Python — Weekend Project](https://dev.to/automate-archit/build-a-desktop-file-organizer-in-35-lines-of-python-weekend-project-3o4h)
+- [Convex recovery of a structured signal from independent random linearmeasurements](https://dev.to/paperium/convex-recovery-of-a-structured-signal-from-independent-random-linearmeasurements-2id3)
+- [Is Railway Reliable for Customer-Facing APIs in 2026?](https://dev.to/stackandsails/is-railway-reliable-for-customer-facing-apis-in-2026-ff3)
+- [Stop Leaving Your Servers Open: Hardening Linux in 5 Minutes with Ansible](https://dev.to/muhammadkamrankabeeross/stop-leaving-your-servers-open-hardening-linux-in-5-minutes-with-ansible-46a2)
 <!-- BLOG-POST-LIST:END -->
 
