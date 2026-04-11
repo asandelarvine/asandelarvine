@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Desktop File Organizer in 35 Lines of Python — Weekend Project](https://dev.to/automate-archit/build-a-desktop-file-organizer-in-35-lines-of-python-weekend-project-3o4h)
-- [Convex recovery of a structured signal from independent random linearmeasurements](https://dev.to/paperium/convex-recovery-of-a-structured-signal-from-independent-random-linearmeasurements-2id3)
-- [Is Railway Reliable for Customer-Facing APIs in 2026?](https://dev.to/stackandsails/is-railway-reliable-for-customer-facing-apis-in-2026-ff3)
-- [Stop Leaving Your Servers Open: Hardening Linux in 5 Minutes with Ansible](https://dev.to/muhammadkamrankabeeross/stop-leaving-your-servers-open-hardening-linux-in-5-minutes-with-ansible-46a2)
+- [Claude Code vs Codex CLI vs Gemini CLI: Which AI Terminal Agent Wins in 2026?](https://dev.to/rahulxsingh/claude-code-vs-codex-cli-vs-gemini-cli-which-ai-terminal-agent-wins-in-2026-55f5)
+- [Stop Blind-CURLing in Production: How I Built an Audit Layer for API Operations](https://dev.to/lerufic/stop-blind-curling-in-production-how-i-built-an-audit-layer-for-api-operations-2aln)
+- [I rewrote my encrypted form tool because I was tired of Cloudflare owning my setup](https://dev.to/grayguava/i-rewrote-my-encrypted-form-tool-because-i-was-tired-of-cloudflare-owning-my-setup-9j)
+- [Every Trending AI Agent Project Is Reinventing Something Humans Already Built](https://dev.to/willamhou/every-trending-ai-agent-project-is-reinventing-something-humans-already-built-469e)
 <!-- BLOG-POST-LIST:END -->
 
