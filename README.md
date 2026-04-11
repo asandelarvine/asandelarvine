@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo iniciar en AWS: la guía honesta para empezar sin perderte](https://dev.to/byron_lainez/como-iniciar-en-aws-la-guia-honesta-para-empezar-sin-perderte-d71)
-- [Learning XS - Custom Ops](https://dev.to/lnation/learning-xs-custom-ops-4lag)
-- [Beyond the Console: The Modern DevOps Guide to Architecting on AWS](https://dev.to/matt0135/beyond-the-console-the-modern-devops-guide-to-architecting-on-aws-3aea)
-- [The &quot;Claude Mythos&quot; Illusion: Innovation or Data Harvesting?](https://dev.to/casonadams/the-claude-mythos-illusion-innovation-or-data-harvesting-4o6m)
+- [I Built an Open-Source n8n Alternative with AI Agents — Here&#39;s What I Learned](https://dev.to/sibercoder/i-built-an-open-source-n8n-alternative-with-ai-agents-heres-what-i-learned-5hlp)
+- [Understanding Transformers Part 5: Queries, Keys, and Similarity](https://dev.to/rijultp/understanding-transformers-part-5-queries-keys-and-similarity-3o7k)
+- [Blame-aware code review — why your AI reviewer should only flag what you changed](https://dev.to/radpdx/blame-aware-code-review-why-your-ai-reviewer-should-only-flag-what-you-changed-54he)
+- [In the AI age, Java is more relevant than ever](https://dev.to/0x41414141/in-the-ai-age-java-is-more-relevant-than-ever-4d97)
 <!-- BLOG-POST-LIST:END -->
 
