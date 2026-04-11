@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a 7 MB XAMPP alternative for Windows in pure Go &lpar;no Docker, no WSL&rpar;](https://dev.to/abdulm/i-built-a-7-mb-xampp-alternative-for-windows-in-pure-go-no-docker-no-wsl-3kn7)
-- [Uzman Lottie Rehberi - Detaylı Teknik Analiz Rehberi 2026](https://dev.to/forumweb/uzman-lottie-rehberi-detayli-teknik-analiz-rehberi-2026-1e49)
-- [Shopify Agentic Storefronts Enabled? Your UCP Profile Still Has Gaps.](https://dev.to/ucptools/shopify-agentic-storefronts-enabled-your-ucp-profile-still-has-gaps-1lc1)
-- [AI Writes What You Ask. Architecture Survives What You Didn’t Expect](https://dev.to/asmaa-almadhoun/ai-writes-what-you-ask-architecture-survives-what-you-didnt-expect-c9b)
+- [VarCouch — I Built an AI Therapist for Your Code Variables &lpar;They Need It&rpar;](https://dev.to/yashksaini/varcouch-i-built-an-ai-therapist-for-your-code-variables-they-need-it-2ec)
+- [We Read the Whole OpenClaw Spec. Here&#39;s What Most Teams Miss When Building on OpenClaw for Enterprise](https://dev.to/aekanun/we-read-the-whole-openclaw-spec-heres-what-most-teams-miss-when-building-on-openclaw-for-1a1g)
+- [The Evolution of Backend and DevOps: A 25-Year Prediction Timeline](https://dev.to/codephoenix86/the-evolution-of-backend-and-devops-a-25-year-prediction-timeline-d8m)
+- [IJCAI Reviewer Bias: Addressing False Claims and Policy Violations in Paper Evaluation](https://dev.to/valesys/ijcai-reviewer-bias-addressing-false-claims-and-policy-violations-in-paper-evaluation-5cfi)
 <!-- BLOG-POST-LIST:END -->
 
