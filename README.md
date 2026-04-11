@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Can’t Download Netflix Videos: A Deep Dive into DRM](https://dev.to/unstbl/why-you-cant-download-netflix-videos-a-deep-dive-into-drm-nbh)
-- [How to Understand AI: Agents, Search, Machine Learning, and Deep Learning](https://dev.to/zeromathai/ai-concepts-and-structure-a-unified-view-of-agents-search-machine-learning-and-deep-learning-1h8p)
-- [When Your Node.js App Works Locally but Fails on a VPS](https://dev.to/nixx/when-your-nodejs-app-works-locally-but-fails-on-a-vps-3nd6)
-- [HTCPCP-2000 // COFFEE_OS](https://dev.to/shadrack_baidoo_503368216/htcpcp-2000-coffeeos-3k8p)
+- [I built a 7 MB XAMPP alternative for Windows in pure Go &lpar;no Docker, no WSL&rpar;](https://dev.to/abdulm/i-built-a-7-mb-xampp-alternative-for-windows-in-pure-go-no-docker-no-wsl-3kn7)
+- [Uzman Lottie Rehberi - Detaylı Teknik Analiz Rehberi 2026](https://dev.to/forumweb/uzman-lottie-rehberi-detayli-teknik-analiz-rehberi-2026-1e49)
+- [Shopify Agentic Storefronts Enabled? Your UCP Profile Still Has Gaps.](https://dev.to/ucptools/shopify-agentic-storefronts-enabled-your-ucp-profile-still-has-gaps-1lc1)
+- [AI Writes What You Ask. Architecture Survives What You Didn’t Expect](https://dev.to/asmaa-almadhoun/ai-writes-what-you-ask-architecture-survives-what-you-didnt-expect-c9b)
 <!-- BLOG-POST-LIST:END -->
 
