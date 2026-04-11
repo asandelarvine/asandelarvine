@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome Extension: Aftermark](https://dev.to/davidcanhelp/chrome-extension-aftermark-a)
-- [Why I have ditched the QuerySelector](https://dev.to/aadswebdesign/why-i-have-ditched-the-queryselector-1km9)
-- [What the Scrapy Maintainer Thinks About AI-Generated Scrapers](https://dev.to/extractdata/what-the-scrapy-maintainer-thinks-about-ai-generated-scrapers-24c0)
-- [@NotBlank vs @Column&lpar;nullable = false&rpar; vs @NotNull — Which one should you use?](https://dev.to/babisha_s/notblank-vs-columnnullable-false-vs-notnull-which-one-should-you-use-27e9)
+- [SSL Certificate Validity Is Dropping to 200 Days in 2026](https://dev.to/domain-sentry/ssl-certificate-validity-is-dropping-to-200-days-in-2026-155n)
+- [Quarterly Check In - 2026, Q1](https://dev.to/gasik1417/quarterly-check-in-2026-q1-m9j)
+- [Theoretical Foundations of Deep Learning &lpar;Why Neural Networks Actually Work&rpar;](https://dev.to/zeromathai/theoretical-foundations-of-deep-learning-why-neural-networks-actually-work-2he5)
+- [Twill.ai y el sueño de &#39;delegá a un agente, recibí un PR&#39;: yo ya lo viví y fue más raro de lo que parece](https://dev.to/jtorchia/twillai-y-el-sueno-de-delega-a-un-agente-recibi-un-pr-yo-ya-lo-vivi-y-fue-mas-raro-de-lo-que-2ohk)
 <!-- BLOG-POST-LIST:END -->
 
