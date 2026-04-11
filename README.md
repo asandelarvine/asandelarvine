@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Logtide 0.9.0: Custom Dashboards, Health Monitoring, and Log Parsing Pipelines](https://dev.to/polliog/logtide-090-custom-dashboards-health-monitoring-and-log-parsing-pipelines-3a8k)
-- [Adaptive Local Linear Regression for Short-Term Trend Following in Growth Stocks](https://dev.to/ayratmurtazin/adaptive-local-linear-regression-for-short-term-trend-following-in-growth-stocks-21c9)
-- [🤠 AI Whipper String — Whip Your AI Into Shape](https://dev.to/ssukhpinder/ai-whipper-string-whip-your-ai-into-shape-c9b)
-- [Symfony 7 and Sylius 2.0: What Changes for Developers](https://dev.to/pierrearthurdemengel/symfony-7-and-sylius-20-what-changes-for-developers-ihe)
+- [Your risk model passes all its tests. It will still blow up in a crisis.](https://dev.to/lushenwar/your-risk-model-passes-all-its-tests-it-will-still-blow-up-in-a-crisis-14po)
+- [Building an Eval Stack for a LangGraph Agent: From LangFuse to AWS AgentCore](https://dev.to/topuzas/building-an-eval-stack-for-a-langgraph-agent-from-langfuse-to-aws-agentcore-8id)
+- [I Built a Tool That Cuts Windows Setup Time From 4 Hours to 2 Minutes](https://dev.to/anasbr25/i-built-a-tool-that-cuts-windows-setup-time-from-4-hours-to-2-minutes-1ac)
+- [I added video calls inside a real-time coding editor &lpar;CodeKaro&rpar;](https://dev.to/akhilesh_singhmaurya_1c2/i-added-video-calls-inside-a-real-time-coding-editor-codekaro-5ccc)
 <!-- BLOG-POST-LIST:END -->
 
