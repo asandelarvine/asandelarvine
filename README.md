@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [kasetto - declarative AI agent environment manager, written in Rust](https://dev.to/pivoshenko/kasetto-declarative-ai-agent-environment-manager-written-in-rust-34kf)
-- [Why PostgreSQL Ignores Your Index &lpar;Sometimes&rpar;, Entry #2](https://dev.to/fluffyfi3/why-postgresql-ignores-your-index-sometimes-entry-2-42p1)
-- [How I Built a Fraud Detection API That Catches Antidetect Browsers](https://dev.to/raigo_mets_f4b56ae1ac307b/how-i-built-a-fraud-detection-api-that-catches-antidetect-browsers-1l2f)
-- [From ML Model to Deployable AI App – MoodSense AI](https://dev.to/aman179102/from-ml-model-to-deployable-ai-app-moodsense-ai-4h0h)
+- [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon EKS, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-eks-and-gemini-cli-4gp8)
+- [Building a Linux Kernel Module in Rust: Zero Panics in 14 Months Production](https://dev.to/speed_engineer/building-a-linux-kernel-module-in-rust-zero-panics-in-14-months-production-52i6)
+- [The Meeting Skill No Coding Bootcamp Teaches You](https://dev.to/devkoan/the-meeting-skill-no-coding-bootcamp-teaches-you-e6l)
+- [🐍 Python Teaching Assistant — preview v1.0.3 is on the way.](https://dev.to/acubura/python-teaching-assistant-preview-v103-is-on-the-way-38o)
 <!-- BLOG-POST-LIST:END -->
 
