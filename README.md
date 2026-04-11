@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SSL Certificate Validity Is Dropping to 200 Days in 2026](https://dev.to/domain-sentry/ssl-certificate-validity-is-dropping-to-200-days-in-2026-155n)
-- [Quarterly Check In - 2026, Q1](https://dev.to/gasik1417/quarterly-check-in-2026-q1-m9j)
-- [Theoretical Foundations of Deep Learning &lpar;Why Neural Networks Actually Work&rpar;](https://dev.to/zeromathai/theoretical-foundations-of-deep-learning-why-neural-networks-actually-work-2he5)
-- [Twill.ai y el sueño de &#39;delegá a un agente, recibí un PR&#39;: yo ya lo viví y fue más raro de lo que parece](https://dev.to/jtorchia/twillai-y-el-sueno-de-delega-a-un-agente-recibi-un-pr-yo-ya-lo-vivi-y-fue-mas-raro-de-lo-que-2ohk)
+- [Regularization in Machine Learning — How to Actually Prevent Overfitting &lpar;L1, L2, Dropout&rpar;](https://dev.to/zeromathai/regularization-in-machine-learning-how-to-actually-prevent-overfitting-l1-l2-dropout-1dph)
+- [Hosting a Static Website on AWS with S3 and CloudFront using Terraform](https://dev.to/vatul16/hosting-a-static-website-on-aws-with-s3-and-cloudfront-using-terraform-174b)
+- [Add Voice Calling to Claude Desktop in 5 Minutes with MCP](https://dev.to/voipbin/add-voice-calling-to-claude-desktop-in-5-minutes-with-mcp-4io7)
+- [Your Job shouldn&#39;t give you meaning, Your meaning should give you a job.](https://dev.to/destinytimothy/your-job-shouldnt-give-you-meaning-your-meaning-should-give-you-a-job-g7)
 <!-- BLOG-POST-LIST:END -->
 
