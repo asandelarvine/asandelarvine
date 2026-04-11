@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an SEO API That Runs 14 Analysis Modules for $0.003 Per Call](https://dev.to/br0ski777/i-built-an-seo-api-that-runs-14-analysis-modules-for-0003-per-call-3h)
-- [What is the difference between ETL and ETL?](https://dev.to/cliffe_okoth/what-is-the-difference-between-etl-and-etl-3ok4)
-- [Your Kubernetes backups are lying to you](https://dev.to/isevenbe/your-kubernetes-backups-are-lying-to-you-2eb5)
-- [Why I’m finally open-sourcing my architectural work after 20 years building private enterprise systems](https://dev.to/sanadidari/why-im-finally-open-sourcing-my-architectural-work-after-20-years-building-private-enterprise-3ibn)
+- [Azure API Management Service with Custom Domain](https://dev.to/shailugit/azure-api-management-service-with-custom-domain-2ol3)
+- [Playwright Studio from AIQEAcademy](https://dev.to/srikanth_srinivas_22928e3/-title-i-built-a-chrome-devtools-extension-to-record-assert-and-run-playwright-tests-without-45ic)
+- [Building Your Own &quot;Google Maps for Codebases&quot;: A Guide to Semantic Code Search with LLMs](https://dev.to/midas126/building-your-own-google-maps-for-codebases-a-guide-to-semantic-code-search-with-llms-138g)
+- [I trusted the code AI wrote for me. My data was silently broken the whole time.](https://dev.to/ai_finder/i-trusted-the-code-ai-wrote-for-me-my-data-was-silently-broken-the-whole-time-1ng8)
 <!-- BLOG-POST-LIST:END -->
 
