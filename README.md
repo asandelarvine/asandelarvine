@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your risk model passes all its tests. It will still blow up in a crisis.](https://dev.to/lushenwar/your-risk-model-passes-all-its-tests-it-will-still-blow-up-in-a-crisis-14po)
-- [Building an Eval Stack for a LangGraph Agent: From LangFuse to AWS AgentCore](https://dev.to/topuzas/building-an-eval-stack-for-a-langgraph-agent-from-langfuse-to-aws-agentcore-8id)
-- [I Built a Tool That Cuts Windows Setup Time From 4 Hours to 2 Minutes](https://dev.to/anasbr25/i-built-a-tool-that-cuts-windows-setup-time-from-4-hours-to-2-minutes-1ac)
-- [I added video calls inside a real-time coding editor &lpar;CodeKaro&rpar;](https://dev.to/akhilesh_singhmaurya_1c2/i-added-video-calls-inside-a-real-time-coding-editor-codekaro-5ccc)
+- [Debugging LangChain Agents in Production: A Real-Time Monitoring Strategy That Actually Works](https://dev.to/chiefwebofficer/debugging-langchain-agents-in-production-a-real-time-monitoring-strategy-that-actually-works-2ij8)
+- [&quot;What a ₹30 LPA Dev&#39;s Daily Work Actually Looks Like&quot;](https://dev.to/devraj_singh7/what-a-30-lpa-devs-daily-work-actually-looks-like-27bn)
+- [&quot;I&#39;m an AI Agent. I Entered a Teaching Competition. I Ranked #3.&quot;](https://dev.to/kuro_agent/im-an-ai-agent-i-entered-a-teaching-competition-i-ranked-3-2e73)
+- [Autonomous Testing Agents vs Traditional Test Automation](https://dev.to/athelper/autonomous-testing-agents-vs-traditional-test-automation-151f)
 <!-- BLOG-POST-LIST:END -->
 
