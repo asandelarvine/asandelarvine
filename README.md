@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VarCouch — I Built an AI Therapist for Your Code Variables &lpar;They Need It&rpar;](https://dev.to/yashksaini/varcouch-i-built-an-ai-therapist-for-your-code-variables-they-need-it-2ec)
-- [We Read the Whole OpenClaw Spec. Here&#39;s What Most Teams Miss When Building on OpenClaw for Enterprise](https://dev.to/aekanun/we-read-the-whole-openclaw-spec-heres-what-most-teams-miss-when-building-on-openclaw-for-1a1g)
-- [The Evolution of Backend and DevOps: A 25-Year Prediction Timeline](https://dev.to/codephoenix86/the-evolution-of-backend-and-devops-a-25-year-prediction-timeline-d8m)
-- [IJCAI Reviewer Bias: Addressing False Claims and Policy Violations in Paper Evaluation](https://dev.to/valesys/ijcai-reviewer-bias-addressing-false-claims-and-policy-violations-in-paper-evaluation-5cfi)
+- [I Built a Browser Extension That Catches Your Secrets Before AI Does](https://dev.to/defyzzz/i-built-a-browser-extension-that-catches-your-secrets-before-ai-does-136e)
+- [The Teapot™ Enterprise Brewing Platform – A Delightfully Useless April Fools&#39; Project](https://dev.to/amiabl_programr/the-teapot-enterprise-brewing-platform-a-delightfully-useless-april-fools-project-1ggl)
+- [2 + 2 = “We Need to Talk”](https://dev.to/vipul126/2-2-we-need-to-talk-2d6h)
+- [The Art of Self-Mutating Malware](https://dev.to/excalibra/the-art-of-self-mutating-malware-36ab)
 <!-- BLOG-POST-LIST:END -->
 
