@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Browser Extension That Catches Your Secrets Before AI Does](https://dev.to/defyzzz/i-built-a-browser-extension-that-catches-your-secrets-before-ai-does-136e)
-- [The Teapot™ Enterprise Brewing Platform – A Delightfully Useless April Fools&#39; Project](https://dev.to/amiabl_programr/the-teapot-enterprise-brewing-platform-a-delightfully-useless-april-fools-project-1ggl)
-- [2 + 2 = “We Need to Talk”](https://dev.to/vipul126/2-2-we-need-to-talk-2d6h)
-- [The Art of Self-Mutating Malware](https://dev.to/excalibra/the-art-of-self-mutating-malware-36ab)
+- [kasetto - declarative AI agent environment manager, written in Rust](https://dev.to/pivoshenko/kasetto-declarative-ai-agent-environment-manager-written-in-rust-34kf)
+- [Why PostgreSQL Ignores Your Index &lpar;Sometimes&rpar;, Entry #2](https://dev.to/fluffyfi3/why-postgresql-ignores-your-index-sometimes-entry-2-42p1)
+- [How I Built a Fraud Detection API That Catches Antidetect Browsers](https://dev.to/raigo_mets_f4b56ae1ac307b/how-i-built-a-fraud-detection-api-that-catches-antidetect-browsers-1l2f)
+- [From ML Model to Deployable AI App – MoodSense AI](https://dev.to/aman179102/from-ml-model-to-deployable-ai-app-moodsense-ai-4h0h)
 <!-- BLOG-POST-LIST:END -->
 
