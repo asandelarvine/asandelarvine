@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Multimodal Cross Cloud Live Agent with ADK, Amazon EKS, and Gemini CLI](https://dev.to/gde/building-a-multimodal-cross-cloud-live-agent-with-adk-amazon-eks-and-gemini-cli-4gp8)
-- [Building a Linux Kernel Module in Rust: Zero Panics in 14 Months Production](https://dev.to/speed_engineer/building-a-linux-kernel-module-in-rust-zero-panics-in-14-months-production-52i6)
-- [The Meeting Skill No Coding Bootcamp Teaches You](https://dev.to/devkoan/the-meeting-skill-no-coding-bootcamp-teaches-you-e6l)
-- [🐍 Python Teaching Assistant — preview v1.0.3 is on the way.](https://dev.to/acubura/python-teaching-assistant-preview-v103-is-on-the-way-38o)
+- [Conectando Tudo: Integração Flutter com Deep Links Nativos &lpar;Parte 4&rpar;](https://dev.to/cdornelles/conectando-tudo-integracao-flutter-com-deep-links-nativos-parte-4-5blb)
+- [Why Every Developer Should Understand Binary and ASCII &lpar;With Real Examples&rpar;](https://dev.to/findbest_tools/why-every-developer-should-understand-binary-and-ascii-with-real-examples-10io)
+- [Writing Conway&#39;s Game of Life With Uint8Array and Canvas, Including a Gosper Glider Gun](https://dev.to/sendotltd/writing-conways-game-of-life-with-uint8array-and-canvas-including-a-gosper-glider-gun-1ppf)
+- [How I Shipped 18 Landing Pages in 9 Hours &lpar;As a Solo Founder&rpar;](https://dev.to/zsky/how-i-shipped-18-landing-pages-in-9-hours-as-a-solo-founder-22b5)
 <!-- BLOG-POST-LIST:END -->
 
