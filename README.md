@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Open-Source n8n Alternative with AI Agents — Here&#39;s What I Learned](https://dev.to/sibercoder/i-built-an-open-source-n8n-alternative-with-ai-agents-heres-what-i-learned-5hlp)
-- [Understanding Transformers Part 5: Queries, Keys, and Similarity](https://dev.to/rijultp/understanding-transformers-part-5-queries-keys-and-similarity-3o7k)
-- [Blame-aware code review — why your AI reviewer should only flag what you changed](https://dev.to/radpdx/blame-aware-code-review-why-your-ai-reviewer-should-only-flag-what-you-changed-54he)
-- [In the AI age, Java is more relevant than ever](https://dev.to/0x41414141/in-the-ai-age-java-is-more-relevant-than-ever-4d97)
+- [Logtide 0.9.0: Custom Dashboards, Health Monitoring, and Log Parsing Pipelines](https://dev.to/polliog/logtide-090-custom-dashboards-health-monitoring-and-log-parsing-pipelines-3a8k)
+- [Adaptive Local Linear Regression for Short-Term Trend Following in Growth Stocks](https://dev.to/ayratmurtazin/adaptive-local-linear-regression-for-short-term-trend-following-in-growth-stocks-21c9)
+- [🤠 AI Whipper String — Whip Your AI Into Shape](https://dev.to/ssukhpinder/ai-whipper-string-whip-your-ai-into-shape-c9b)
+- [Symfony 7 and Sylius 2.0: What Changes for Developers](https://dev.to/pierrearthurdemengel/symfony-7-and-sylius-20-what-changes-for-developers-ihe)
 <!-- BLOG-POST-LIST:END -->
 
