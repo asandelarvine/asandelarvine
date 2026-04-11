@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code vs Codex CLI vs Gemini CLI: Which AI Terminal Agent Wins in 2026?](https://dev.to/rahulxsingh/claude-code-vs-codex-cli-vs-gemini-cli-which-ai-terminal-agent-wins-in-2026-55f5)
-- [Stop Blind-CURLing in Production: How I Built an Audit Layer for API Operations](https://dev.to/lerufic/stop-blind-curling-in-production-how-i-built-an-audit-layer-for-api-operations-2aln)
-- [I rewrote my encrypted form tool because I was tired of Cloudflare owning my setup](https://dev.to/grayguava/i-rewrote-my-encrypted-form-tool-because-i-was-tired-of-cloudflare-owning-my-setup-9j)
-- [Every Trending AI Agent Project Is Reinventing Something Humans Already Built](https://dev.to/willamhou/every-trending-ai-agent-project-is-reinventing-something-humans-already-built-469e)
+- [Why You Can’t Download Netflix Videos: A Deep Dive into DRM](https://dev.to/unstbl/why-you-cant-download-netflix-videos-a-deep-dive-into-drm-nbh)
+- [How to Understand AI: Agents, Search, Machine Learning, and Deep Learning](https://dev.to/zeromathai/ai-concepts-and-structure-a-unified-view-of-agents-search-machine-learning-and-deep-learning-1h8p)
+- [When Your Node.js App Works Locally but Fails on a VPS](https://dev.to/nixx/when-your-nodejs-app-works-locally-but-fails-on-a-vps-3nd6)
+- [HTCPCP-2000 // COFFEE_OS](https://dev.to/shadrack_baidoo_503368216/htcpcp-2000-coffeeos-3k8p)
 <!-- BLOG-POST-LIST:END -->
 
