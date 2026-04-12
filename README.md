@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Pipeline Is 14.8h Behind: Catching Real Estate Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-148h-behind-catching-real-estate-sentiment-leads-with-pulsebit-59n4)
-- [From Django Library to AWS Cognito: My Journey Building Enterprise SSO](https://dev.to/soldatov-ss/from-django-library-to-aws-cognito-my-journey-building-enterprise-sso-30be)
-- [Build a Freelancer Payout Platform with the Afriex SDK and Next.js](https://dev.to/afriex/build-a-freelancer-payout-platform-with-the-afriex-sdk-and-nextjs-2oc8)
-- [ASIC Miner Power Supply Guide 2026: Everything You Need to Know](https://dev.to/zhang_jelly_8783ba0ebac8e/asic-miner-power-supply-guide-2026-everything-you-need-to-know-2ack)
+- [Why Instagram Ruins Your Photo Quality &lpar;And How to Fix It&rpar;](https://dev.to/samma1997/why-instagram-ruins-your-photo-quality-and-how-to-fix-it-2m3c)
+- [Best Free Remove.bg Alternatives 2026: 7 Background Removers Tested](https://dev.to/samma1997/best-free-removebg-alternatives-2026-7-background-removers-tested-2if6)
+- [From Chaos to Control: AI-Powered Contingency Planning for Wedding Pros](https://dev.to/ken_deng_ai/from-chaos-to-control-ai-powered-contingency-planning-for-wedding-pros-oag)
+- [My Journey Into Python: From Beginner to Building Real Projects](https://dev.to/amirheshamdev/my-journey-into-python-from-beginner-to-building-real-projects-1bif)
 <!-- BLOG-POST-LIST:END -->
 
