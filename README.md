@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Uncentered DIV](https://dev.to/karthikpaii/uncentered-div-569i)
-- [KMP Native UI Login and Profile screens, navigation, and more](https://dev.to/saad4software/kmp-native-ui-login-and-profile-screens-navigation-and-more-1461)
-- [AI编程真的让我有点震惊，作为安全工程师我开始认真思考自己的价值在哪里](https://dev.to/chinatiger/aibian-cheng-zhen-de-rang-wo-you-dian-zhen-liang-zuo-wei-an-quan-gong-cheng-shi-wo-kai-shi-ren-zhen-si-kao-zi-ji-de-jie-zhi-zai-na-li-4g35)
-- [&quot;I Built an AI Platform for Students — Here&#39;s What the Architecture Actually Looked Like&quot;](https://dev.to/udit_bhatt_a2c4723953dffb/i-built-an-ai-platform-for-students-heres-what-the-architecture-actually-looked-like-4ho5)
+- [AI Diagnoses Knees, Drugs, Configs, and License‑Buying Agents](https://dev.to/anikalp1/ai-diagnoses-knees-drugs-configs-and-license-buying-agents-co2)
+- [🗄️ Guia Completo de Backup e Restauração no MySQL](https://dev.to/jeanmfdias/guia-completo-de-backup-e-restauracao-no-mysql-3ie)
+- [Observability Engineering in Production Systems: Structured Logging, Metrics, and Distributed Tracing at Scale](https://dev.to/sircatalyst/observability-engineering-in-production-systems-structured-logging-metrics-and-distributed-45om)
+- [I Built a Voice-Controlled AI Agent in Python](https://dev.to/aditya_nagalkar_e38db4d7b/i-built-a-voice-controlled-ai-agent-in-python-2045)
 <!-- BLOG-POST-LIST:END -->
 
