@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Spark Is Leaving Before the Code Breaks](https://dev.to/jonoherrington/the-spark-is-leaving-before-the-code-breaks-4kj3)
-- [I built an open-source trading RSS directory &lpar;inspired by public API lists&rpar;](https://dev.to/phithanh1230/i-built-an-open-source-trading-rss-directory-inspired-by-public-api-lists-4ag2)
-- [How We Built a Custom ERP System: Tech Stack &amp; Lessons Learned](https://dev.to/abhishek_pundir_beb087d2b/how-we-built-a-custom-erp-system-tech-stack-lessons-learned-5c35)
-- [How to Ask for Help Without Sounding Junior](https://dev.to/devglish/how-to-ask-for-help-without-sounding-junior-ggh)
+- [30-Day Cloud &amp; DevOps Challenge: Day 7 — Docker Compose: One Command to Rule Them All](https://dev.to/michellewanjiru/30-day-cloud-devops-challenge-day-7-docker-compose-one-command-to-rule-them-all-1ll)
+- [Why I Built Patch Pulse](https://dev.to/barrymichaeldoyle/why-i-built-patch-pulse-1094)
+- [ACR is designed as a printer-independent report rendering service, not just a library.](https://dev.to/maskedridersystem/acr-is-designed-as-a-printer-independent-report-rendering-service-not-just-a-library-11d3)
+- [Backend Engineering — Building the Intelligence Engine for Cross-Lifecycle Systems](https://dev.to/ayush_raj_8bafd4826764fe3/backend-engineering-building-the-intelligence-engine-for-cross-lifecycle-systems-2lo)
 <!-- BLOG-POST-LIST:END -->
 
