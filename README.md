@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Load Balancers and its strategies](https://dev.to/sarupy/load-balancer-and-its-strategies-5e29)
-- [Python Remove Window From Screen Share With Tkinter](https://dev.to/avinash_tare_6d6e81721bb6/python-remove-window-from-screen-share-with-tkinter-43bc)
-- [The agent over-applies everything: why “don’t” is my most-used word](https://dev.to/euzharkov/the-agent-over-applies-everything-why-dont-is-my-most-used-word-2omc)
-- [Auditing Claude Code: what I found and how I contained it](https://dev.to/cepunkt_1d9c6e96d0ed47998/auditing-claude-code-what-i-found-and-how-i-contained-it-5djo)
+- [ETL vs ELT: Which One Should You Use and Why?](https://dev.to/anthony-gicheru/etl-vs-elt-which-one-should-you-use-and-why-412e)
+- [From Voltage to Logic: What I Learned While Digging into the CPU&#39;s Heart](https://dev.to/utkuhanakar/from-voltage-to-logic-what-i-learned-while-digging-into-the-cpus-heart-13f1)
+- [Why Most Study Planners Fail: A Student-Led Experiment on Real Behavior](https://dev.to/cryptic_melancholy/why-most-study-planners-fail-a-student-led-experiment-on-real-behavior-3h7i)
+- [Construindo uma rede social de estudos com IA: desafios e aprendizados](https://dev.to/josimar_canejo/construindo-uma-rede-social-de-estudos-com-ia-desafios-e-aprendizados-3og)
 <!-- BLOG-POST-LIST:END -->
 
