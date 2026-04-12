@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Coding Assistant Stack That Actually Works in 2026](https://dev.to/silvesterdivas/the-ai-coding-assistant-stack-that-actually-works-in-2026-9cd)
-- [&quot;I Added AI to My Project in 2 Hours — Here&#39;s the Exact Code&quot;](https://dev.to/devraj_singh7/i-added-ai-to-my-project-in-2-hours-heres-the-exact-code-abf)
-- [TEAPOT.EXE &lpar;Enterprise SaaS for HTTP 418: Zero Coffee, 100% Compliance&rpar;](https://dev.to/abdullahdevs_/teapotexe-enterprise-saas-for-http-418-zero-coffee-100-compliance-b6c)
-- [Drumbeats vs Healthchecks.io: An Honest Comparison &lpar;2026&rpar;](https://dev.to/urtuba/drumbeats-vs-healthchecksio-an-honest-comparison-2026-1in9)
+- [Your Voice Assistant Doesn&#39;t Need the Cloud — Here&#39;s How I Built 5 Offline NLP Tools](https://dev.to/kennedyraju55/your-voice-assistant-doesnt-need-the-cloud-heres-how-i-built-5-offline-nlp-tools-4n44)
+- [Stop Sending Your Security Alerts to Cloud AI — Build Local LLM Tools Instead](https://dev.to/kennedyraju55/stop-sending-your-security-alerts-to-cloud-ai-build-local-llm-tools-instead-1dgl)
+- [Cómo hacer tu primer juego en Godot con IA en un fin de semana](https://dev.to/ziva/como-hacer-tu-primer-juego-en-godot-con-ia-en-un-fin-de-semana-1a91)
+- [Your Financial Data Should Never Leave Your Machine — Here&#39;s How I Built 5 AI Tools That Prove It](https://dev.to/kennedyraju55/your-financial-data-should-never-leave-your-machine-heres-how-i-built-5-ai-tools-that-prove-it-517l)
 <!-- BLOG-POST-LIST:END -->
 
