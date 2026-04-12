@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Incident Triage Without Context Switching: Bash workflow notes &lpar;Bash Pipe Stack&rpar;](https://dev.to/arnostorg/incident-triage-without-context-switching-bash-workflow-notes-bash-pipe-stack-48pm)
-- [Why let over var in JavaScript?](https://dev.to/mateebhussain/why-let-over-var-in-javascript-2o07)
-- [10 Claude Prompts for Faster Debugging &lpar;With Examples&rpar;](https://dev.to/devprompts/10-claude-prompts-for-faster-debugging-with-examples-329a)
-- [I Built an AI Website Roaster — Paste a URL, Get Absolutely Destroyed](https://dev.to/iamovi/i-built-an-ai-website-roaster-paste-a-url-get-absolutely-destroyed-3053)
+- [I Built a Fully Local Voice AI Agent — Here&#39;s What Broke &lpar;and How I Fixed It&rpar;](https://dev.to/akhilesh0605/i-built-a-fully-local-voice-ai-agent-heres-what-broke-and-how-i-fixed-it-259m)
+- [Leiningen — Complete Tutorial &amp; Best Practices](https://dev.to/ivangavlik/leiningen-complete-tutorial-best-practices-3f8l)
+- [Build Your Own &quot;Private Copilot&quot; in 10 Minutes: Ollama, Continue, and DeepSeek-V3](https://dev.to/syedahmershah/build-your-own-private-copilot-in-10-minutes-ollama-continue-and-deepseek-v3-4cog)
+- [How to Resize an LVM Volume in Linux](https://dev.to/nuculabs_dev/how-to-resize-an-lvm-volume-in-linux-4jib)
 <!-- BLOG-POST-LIST:END -->
 
