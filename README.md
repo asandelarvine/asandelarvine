@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Most Users Leave Before Your Tool Even Loads &lpar;Here’s What I Fixed&rpar;](https://dev.to/bhavin-allinonetools/most-users-leave-before-your-tool-even-loads-heres-what-i-fixed-4nbb)
-- [本地运行AI模型完整指南：用Ollama在电脑上跑GPT-4级模型](https://dev.to/ylihjefangco/ben-di-yun-xing-aimo-xing-wan-zheng-zhi-nan-yong-ollamazai-dian-nao-shang-pao-gpt-4ji-mo-xing-1icl)
-- [Bengali AI Interview Coach](https://dev.to/kfrs20/bengali-ai-interview-coach-11mk)
-- [Rate Limiting Deep Dive: Token Bucket vs Leaky Bucket vs Sliding Window](https://dev.to/dylan_dumont_266378d98367/rate-limiting-deep-dive-token-bucket-vs-leaky-bucket-vs-sliding-window-47b7)
+- [Your Pipeline Is 14.8h Behind: Catching Real Estate Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-148h-behind-catching-real-estate-sentiment-leads-with-pulsebit-59n4)
+- [From Django Library to AWS Cognito: My Journey Building Enterprise SSO](https://dev.to/soldatov-ss/from-django-library-to-aws-cognito-my-journey-building-enterprise-sso-30be)
+- [Build a Freelancer Payout Platform with the Afriex SDK and Next.js](https://dev.to/afriex/build-a-freelancer-payout-platform-with-the-afriex-sdk-and-nextjs-2oc8)
+- [ASIC Miner Power Supply Guide 2026: Everything You Need to Know](https://dev.to/zhang_jelly_8783ba0ebac8e/asic-miner-power-supply-guide-2026-everything-you-need-to-know-2ack)
 <!-- BLOG-POST-LIST:END -->
 
