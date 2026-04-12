@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [12 things you can do today to make your transactional emails work for humans and AI agents](https://dev.to/broodnet/12-things-you-can-do-today-to-make-your-transactional-emails-work-for-humans-and-ai-agents-k1b)
-- [Fundamental Concepts in Cloud Computing](https://dev.to/raphael_gabriels_54fe31c4/fundamental-concepts-in-cloud-computing-n85)
-- [Beyond the Vector Wall: The Case for Microsecond Graph-RAG](https://dev.to/orneryd/beyond-the-vector-wall-the-case-for-microsecond-graph-rag-59c3)
-- [Harness Engineering — The Environment Matters More Than the Prompt](https://dev.to/lazydev_oh/harness-engineering-the-environment-matters-more-than-the-prompt-3cod)
+- [Uncentered DIV](https://dev.to/karthikpaii/uncentered-div-569i)
+- [KMP Native UI Login and Profile screens, navigation, and more](https://dev.to/saad4software/kmp-native-ui-login-and-profile-screens-navigation-and-more-1461)
+- [AI编程真的让我有点震惊，作为安全工程师我开始认真思考自己的价值在哪里](https://dev.to/chinatiger/aibian-cheng-zhen-de-rang-wo-you-dian-zhen-liang-zuo-wei-an-quan-gong-cheng-shi-wo-kai-shi-ren-zhen-si-kao-zi-ji-de-jie-zhi-zai-na-li-4g35)
+- [&quot;I Built an AI Platform for Students — Here&#39;s What the Architecture Actually Looked Like&quot;](https://dev.to/udit_bhatt_a2c4723953dffb/i-built-an-ai-platform-for-students-heres-what-the-architecture-actually-looked-like-4ho5)
 <!-- BLOG-POST-LIST:END -->
 
