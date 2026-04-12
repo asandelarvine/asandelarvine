@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Semantic Search Is an Architecture Problem](https://dev.to/oozioma/semantic-search-is-an-architecture-problem-5h8l)
-- [How to Stop Losing Errors, Commands, and Paths in Your Clipboard](https://dev.to/alokt/how-to-stop-losing-errors-commands-and-paths-in-your-clipboard-263i)
-- [AWS DevOps Agent - Your New AI Teammate for DevOps](https://dev.to/aws-builders/aws-devops-agent-your-new-ai-teammate-for-devops-4mbp)
-- [Observability Engineering in Production Systems: Structured Logging, Metrics, and Distributed Tracing at Scale](https://dev.to/sircatalyst/observability-engineering-in-production-systems-structured-logging-metrics-and-distributed-lib)
+- [M||D||JS = MorDorJS](https://dev.to/pengeszikra/mdjs-mordorjs-1mon)
+- [Diário Sentinel #2: o dia que o dashboard mentiu &lpar;e outros bugs honestos&rpar;](https://dev.to/boccato85/diario-sentinel-o-dia-que-o-dashboard-mentiu-e-outros-bugs-honestos-38n8)
+- [Improving on DevOps with Kubernetes, Helm, and GitOps](https://dev.to/smgestupa/improving-on-devops-with-kubernetes-helm-and-gitops-bgd)
+- [Building a Football Analytics Pipeline: Patterns, Tradeoffs, and What Production Would Look Like](https://dev.to/ayoabass777/building-a-football-analytics-pipeline-patterns-tradeoffs-and-what-production-would-look-like-n66)
 <!-- BLOG-POST-LIST:END -->
 
