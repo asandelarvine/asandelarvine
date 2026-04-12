@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Railway Reliable for Internal Tools in 2026?](https://dev.to/stackandsails/is-railway-reliable-for-internal-tools-in-2026-5fc6)
-- [This is how i write commands quickly](https://dev.to/arnostorg/this-is-how-i-write-commands-quickly-1bg1)
-- [AgentCore Registry: 16 Skills, 1 Hour, Zero Downtime](https://dev.to/aws-builders/agentcore-registry-16-skills-1-hour-zero-downtime-4ne7)
-- [A Repeatable Daily Shell Workflow: Bash workflow notes &lpar;Bash Pipe Stack&rpar;](https://dev.to/arnostorg/a-repeatable-daily-shell-workflow-bash-workflow-notes-bash-pipe-stack-3jma)
+- [Most Users Leave Before Your Tool Even Loads &lpar;Here’s What I Fixed&rpar;](https://dev.to/bhavin-allinonetools/most-users-leave-before-your-tool-even-loads-heres-what-i-fixed-4nbb)
+- [本地运行AI模型完整指南：用Ollama在电脑上跑GPT-4级模型](https://dev.to/ylihjefangco/ben-di-yun-xing-aimo-xing-wan-zheng-zhi-nan-yong-ollamazai-dian-nao-shang-pao-gpt-4ji-mo-xing-1icl)
+- [Bengali AI Interview Coach](https://dev.to/kfrs20/bengali-ai-interview-coach-11mk)
+- [Rate Limiting Deep Dive: Token Bucket vs Leaky Bucket vs Sliding Window](https://dev.to/dylan_dumont_266378d98367/rate-limiting-deep-dive-token-bucket-vs-leaky-bucket-vs-sliding-window-47b7)
 <!-- BLOG-POST-LIST:END -->
 
