@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [HOW I BUILT A FULL STACK WEBSITE &lpar;MERN&rpar;](https://dev.to/nswarnob/how-i-built-a-full-stack-website-mern-2hg6)
-- [What code review process do you use for AI-generated code?](https://dev.to/manthanbhatt/what-code-review-process-do-you-use-for-ai-generated-code-4n4l)
-- [SPF Records Explained: Prevent Email Spoofing with Sender Policy Framework](https://dev.to/toolbox_starnomina/spf-records-explained-prevent-email-spoofing-with-sender-policy-framework-1lad)
-- [DKIM Explained: How Email Digital Signatures Protect Your Domain](https://dev.to/toolbox_starnomina/dkim-explained-how-email-digital-signatures-protect-your-domain-1i9i)
+- [Load Balancers and its strategies](https://dev.to/sarupy/load-balancer-and-its-strategies-5e29)
+- [Python Remove Window From Screen Share With Tkinter](https://dev.to/avinash_tare_6d6e81721bb6/python-remove-window-from-screen-share-with-tkinter-43bc)
+- [The agent over-applies everything: why “don’t” is my most-used word](https://dev.to/euzharkov/the-agent-over-applies-everything-why-dont-is-my-most-used-word-2omc)
+- [Auditing Claude Code: what I found and how I contained it](https://dev.to/cepunkt_1d9c6e96d0ed47998/auditing-claude-code-what-i-found-and-how-i-contained-it-5djo)
 <!-- BLOG-POST-LIST:END -->
 
