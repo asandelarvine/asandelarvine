@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Fully Local Voice AI Agent — Here&#39;s What Broke &lpar;and How I Fixed It&rpar;](https://dev.to/akhilesh0605/i-built-a-fully-local-voice-ai-agent-heres-what-broke-and-how-i-fixed-it-259m)
-- [Leiningen — Complete Tutorial &amp; Best Practices](https://dev.to/ivangavlik/leiningen-complete-tutorial-best-practices-3f8l)
-- [Build Your Own &quot;Private Copilot&quot; in 10 Minutes: Ollama, Continue, and DeepSeek-V3](https://dev.to/syedahmershah/build-your-own-private-copilot-in-10-minutes-ollama-continue-and-deepseek-v3-4cog)
-- [How to Resize an LVM Volume in Linux](https://dev.to/nuculabs_dev/how-to-resize-an-lvm-volume-in-linux-4jib)
+- [The Spark Is Leaving Before the Code Breaks](https://dev.to/jonoherrington/the-spark-is-leaving-before-the-code-breaks-4kj3)
+- [I built an open-source trading RSS directory &lpar;inspired by public API lists&rpar;](https://dev.to/phithanh1230/i-built-an-open-source-trading-rss-directory-inspired-by-public-api-lists-4ag2)
+- [How We Built a Custom ERP System: Tech Stack &amp; Lessons Learned](https://dev.to/abhishek_pundir_beb087d2b/how-we-built-a-custom-erp-system-tech-stack-lessons-learned-5c35)
+- [How to Ask for Help Without Sounding Junior](https://dev.to/devglish/how-to-ask-for-help-without-sounding-junior-ggh)
 <!-- BLOG-POST-LIST:END -->
 
