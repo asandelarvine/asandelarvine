@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Instagram Ruins Your Photo Quality &lpar;And How to Fix It&rpar;](https://dev.to/samma1997/why-instagram-ruins-your-photo-quality-and-how-to-fix-it-2m3c)
-- [Best Free Remove.bg Alternatives 2026: 7 Background Removers Tested](https://dev.to/samma1997/best-free-removebg-alternatives-2026-7-background-removers-tested-2if6)
-- [From Chaos to Control: AI-Powered Contingency Planning for Wedding Pros](https://dev.to/ken_deng_ai/from-chaos-to-control-ai-powered-contingency-planning-for-wedding-pros-oag)
-- [My Journey Into Python: From Beginner to Building Real Projects](https://dev.to/amirheshamdev/my-journey-into-python-from-beginner-to-building-real-projects-1bif)
+- [Incident Triage Without Context Switching: Bash workflow notes &lpar;Bash Pipe Stack&rpar;](https://dev.to/arnostorg/incident-triage-without-context-switching-bash-workflow-notes-bash-pipe-stack-48pm)
+- [Why let over var in JavaScript?](https://dev.to/mateebhussain/why-let-over-var-in-javascript-2o07)
+- [10 Claude Prompts for Faster Debugging &lpar;With Examples&rpar;](https://dev.to/devprompts/10-claude-prompts-for-faster-debugging-with-examples-329a)
+- [I Built an AI Website Roaster — Paste a URL, Get Absolutely Destroyed](https://dev.to/iamovi/i-built-an-ai-website-roaster-paste-a-url-get-absolutely-destroyed-3053)
 <!-- BLOG-POST-LIST:END -->
 
