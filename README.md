@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Diagnoses Knees, Drugs, Configs, and License‑Buying Agents](https://dev.to/anikalp1/ai-diagnoses-knees-drugs-configs-and-license-buying-agents-co2)
-- [🗄️ Guia Completo de Backup e Restauração no MySQL](https://dev.to/jeanmfdias/guia-completo-de-backup-e-restauracao-no-mysql-3ie)
-- [Observability Engineering in Production Systems: Structured Logging, Metrics, and Distributed Tracing at Scale](https://dev.to/sircatalyst/observability-engineering-in-production-systems-structured-logging-metrics-and-distributed-45om)
-- [I Built a Voice-Controlled AI Agent in Python](https://dev.to/aditya_nagalkar_e38db4d7b/i-built-a-voice-controlled-ai-agent-in-python-2045)
+- [HOW I BUILT A FULL STACK WEBSITE &lpar;MERN&rpar;](https://dev.to/nswarnob/how-i-built-a-full-stack-website-mern-2hg6)
+- [What code review process do you use for AI-generated code?](https://dev.to/manthanbhatt/what-code-review-process-do-you-use-for-ai-generated-code-4n4l)
+- [SPF Records Explained: Prevent Email Spoofing with Sender Policy Framework](https://dev.to/toolbox_starnomina/spf-records-explained-prevent-email-spoofing-with-sender-policy-framework-1lad)
+- [DKIM Explained: How Email Digital Signatures Protect Your Domain](https://dev.to/toolbox_starnomina/dkim-explained-how-email-digital-signatures-protect-your-domain-1i9i)
 <!-- BLOG-POST-LIST:END -->
 
