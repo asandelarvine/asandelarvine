@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [M||D||JS = MorDorJS](https://dev.to/pengeszikra/mdjs-mordorjs-1mon)
-- [Diário Sentinel #2: o dia que o dashboard mentiu &lpar;e outros bugs honestos&rpar;](https://dev.to/boccato85/diario-sentinel-o-dia-que-o-dashboard-mentiu-e-outros-bugs-honestos-38n8)
-- [Improving on DevOps with Kubernetes, Helm, and GitOps](https://dev.to/smgestupa/improving-on-devops-with-kubernetes-helm-and-gitops-bgd)
-- [Building a Football Analytics Pipeline: Patterns, Tradeoffs, and What Production Would Look Like](https://dev.to/ayoabass777/building-a-football-analytics-pipeline-patterns-tradeoffs-and-what-production-would-look-like-n66)
+- [Is Railway Reliable for Internal Tools in 2026?](https://dev.to/stackandsails/is-railway-reliable-for-internal-tools-in-2026-5fc6)
+- [This is how i write commands quickly](https://dev.to/arnostorg/this-is-how-i-write-commands-quickly-1bg1)
+- [AgentCore Registry: 16 Skills, 1 Hour, Zero Downtime](https://dev.to/aws-builders/agentcore-registry-16-skills-1-hour-zero-downtime-4ne7)
+- [A Repeatable Daily Shell Workflow: Bash workflow notes &lpar;Bash Pipe Stack&rpar;](https://dev.to/arnostorg/a-repeatable-daily-shell-workflow-bash-workflow-notes-bash-pipe-stack-3jma)
 <!-- BLOG-POST-LIST:END -->
 
