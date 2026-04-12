@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power BI Career Roadmap — From Zero to Data Analyst in 2026](https://dev.to/devwithdata/the-power-bi-career-roadmap-from-zero-to-data-analyst-in-2026-4gng)
-- [Let your coding agent read runtime logs](https://dev.to/amitay_cohen_a97786cfb477/let-your-coding-agent-read-runtime-logs-2kac)
-- [Setting Up a Custom Caddy Reverse Proxy for OpenClaw on macOS](https://dev.to/vasyl_herman/setting-up-a-custom-caddy-reverse-proxy-for-openclaw-on-macos-524p)
-- [API success is a lie: why “200 OK” doesn’t mean anything](https://dev.to/bridgexapi/api-success-is-a-lie-why-200-ok-doesnt-mean-anything-2b6m)
+- [12 things you can do today to make your transactional emails work for humans and AI agents](https://dev.to/broodnet/12-things-you-can-do-today-to-make-your-transactional-emails-work-for-humans-and-ai-agents-k1b)
+- [Fundamental Concepts in Cloud Computing](https://dev.to/raphael_gabriels_54fe31c4/fundamental-concepts-in-cloud-computing-n85)
+- [Beyond the Vector Wall: The Case for Microsecond Graph-RAG](https://dev.to/orneryd/beyond-the-vector-wall-the-case-for-microsecond-graph-rag-59c3)
+- [Harness Engineering — The Environment Matters More Than the Prompt](https://dev.to/lazydev_oh/harness-engineering-the-environment-matters-more-than-the-prompt-3cod)
 <!-- BLOG-POST-LIST:END -->
 
