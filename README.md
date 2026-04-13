@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Evolución de los precios de los carburantes en España](https://dev.to/baltasarq/evolucion-de-los-precios-de-los-carburantes-en-espana-3nof)
-- [Offline Voice Control with SU-03T: No Internet, No Delay, Just Commands](https://dev.to/david_thomas/offline-voice-control-with-su-03t-no-internet-no-delay-just-commands-4mg7)
-- [I built a data platform that lets AI agents query 2,500+ verified datasets](https://dev.to/nicolas_borjans/i-built-a-data-platform-that-lets-ai-agents-query-2500-verified-datasets-42g9)
-- [ETL vs ELT: Two Paradigms, One Goal](https://dev.to/edmund_eryuba/etl-vs-elt-two-paradigms-one-goal-12fc)
+- [AI Isn&#39;t Killing Your Hiring. Your Double Standard Is.](https://dev.to/jonoherrington/ai-isnt-killing-your-hiring-your-double-standard-is-2p2i)
+- [Introducing Revenant: A Dollar-Cost Averaging Spot Trading Bot for Hyperliquid DEX.](https://dev.to/chainparser/introducing-revenant-a-dollar-cost-averaging-spot-trading-bot-for-hyperliquid-dex-264e)
+- [How I Built state-in-url: My Journey Turning the URL Bar into Real React State](https://dev.to/asmyshlyaev177/how-i-built-state-in-url-my-journey-turning-the-url-bar-into-real-react-state-a67)
+- [Setting GitHub as a trusted publisher for npm](https://dev.to/_steve_fenton_/setting-github-as-a-trusted-publisher-for-npm-560i)
 <!-- BLOG-POST-LIST:END -->
 
