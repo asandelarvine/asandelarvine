@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Open Sourcerer of Forem: Beyond the UI](https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p)
-- [Comparing Popular Frameworks in Real Combat: Experience of Implementation in Production](https://dev.to/devepro/comparing-popular-frameworks-in-real-combat-experience-of-implementation-in-production-lah)
-- [5 Engineering Decisions That Made Godot the Fastest-Growing Game Engine](https://dev.to/ziva/5-engineering-decisions-that-made-godot-the-fastest-growing-game-engine-5hgh)
-- [Panduan Pengujian: Implementasi Widget, Properti, dan Arsitektur SaryPOS](https://dev.to/ariscandra/panduan-pengujian-implementasi-widget-properti-dan-arsitektur-sarypos-hp1)
+- [You’re Probably Not Testing Accessibility the Way Users Experience It](https://dev.to/r3ticular/youre-probably-not-testing-accessibility-the-way-users-experience-it-46em)
+- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-506f)
+- [CVE-2026-5724: CVE-2026-5724: Missing Authentication in Temporal gRPC Streaming Endpoint](https://dev.to/cverports/cve-2026-5724-cve-2026-5724-missing-authentication-in-temporal-grpc-streaming-endpoint-3mif)
+- [Agentic Analytics on the Apache Lakehouse](https://dev.to/alexmercedcoder/agentic-analytics-on-the-apache-lakehouse-1a3b)
 <!-- BLOG-POST-LIST:END -->
 
