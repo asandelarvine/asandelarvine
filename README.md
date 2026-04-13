@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Isn&#39;t Killing Your Hiring. Your Double Standard Is.](https://dev.to/jonoherrington/ai-isnt-killing-your-hiring-your-double-standard-is-2p2i)
-- [Introducing Revenant: A Dollar-Cost Averaging Spot Trading Bot for Hyperliquid DEX.](https://dev.to/chainparser/introducing-revenant-a-dollar-cost-averaging-spot-trading-bot-for-hyperliquid-dex-264e)
-- [How I Built state-in-url: My Journey Turning the URL Bar into Real React State](https://dev.to/asmyshlyaev177/how-i-built-state-in-url-my-journey-turning-the-url-bar-into-real-react-state-a67)
-- [Setting GitHub as a trusted publisher for npm](https://dev.to/_steve_fenton_/setting-github-as-a-trusted-publisher-for-npm-560i)
+- [The Moment Your Project Knows You&#39;re There](https://dev.to/_0c004e5fde78250aee362/the-moment-your-project-knows-youre-there-5hjb)
+- [Building a Voice-Controlled AI Agent Using Whisper and Ollama](https://dev.to/naasgar_basha_2dd0c49ff/building-a-voice-controlled-ai-agent-using-whisper-and-ollama-5c88)
+- [The Moment Your Project Knows You&#39;re There](https://dev.to/_0c004e5fde78250aee362/the-moment-your-project-knows-youre-there-2ngm)
+- [Day 7](https://dev.to/thirusakthi-dev/day-7-4n2g)
 <!-- BLOG-POST-LIST:END -->
 
