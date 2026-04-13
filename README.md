@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Learned SQL by Creating a Simple School Database](https://dev.to/joseph_mwangi_3ae1f57a132/how-i-learned-sql-by-creating-a-simple-school-database-5alf)
-- [I built a zero-config, 100% serverless portfolio generator so you never have to update yours again.](https://dev.to/nishal21/i-built-a-zero-config-100-serverless-portfolio-generator-so-you-never-have-to-update-yours-again-14a1)
-- [what actually happens when you provision a phone number in twilio](https://dev.to/fetchsandbox/what-actually-happens-when-you-provision-a-phone-number-in-twilio-11fd)
-- [5 Next.js Performance Patterns That Cut Our Load Time by 60%](https://dev.to/mzunain/5-nextjs-performance-patterns-that-cut-our-load-time-by-60-11gk)
+- [Concurrency in Go — Part 3: concurrent errors and panic handling](https://dev.to/ohugonnot/concurrency-in-go-part-3-concurrent-errors-and-panic-handling-1bli)
+- [COPPA Compliance Deadline is April 22, 2026 - Here&#39;s What Your Edtech Product Needs to Do Now](https://dev.to/bhavesh_pawar_8205920953a/coppa-compliance-deadline-is-april-22-2026-heres-what-your-edtech-product-needs-to-do-now-1k00)
+- [Are AI Coding Tools Actually Merging? Here&#39;s What&#39;s Happening in 2026](https://dev.to/tinymomentum1/are-ai-coding-tools-actually-merging-heres-whats-happening-in-2026-23o7)
+- [How to Publish a Power BI Report and Embed It into a Website](https://dev.to/billymuli/how-to-publish-a-power-bi-report-and-embed-it-into-a-website-3ng3)
 <!-- BLOG-POST-LIST:END -->
 
