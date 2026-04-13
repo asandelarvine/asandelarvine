@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;My AI Coding Tools Were Running Up a Tab I Couldn&#39;t See — So I Fixed That&quot;](https://dev.to/yiyaoai/my-ai-coding-tools-were-running-up-a-tab-i-couldnt-see-so-i-fixed-that-1g67)
-- [Karpathy&#39;s LLM Knowledge Base SEO: I applied the pattern for 12 months and here&#39;s what I learned](https://dev.to/jim_l_efc70c3a738e9f4baa7/karpathys-llm-knowledge-base-x-seo-i-applied-the-pattern-for-12-months-and-heres-what-i-learned-51g9)
-- [One Open Source Project a Day &lpar;No.37&rpar;: everything-claude-code - The Most Systematic Claude Code Enhancement Framework](https://dev.to/wonderlab/one-open-source-project-a-day-no37-everything-claude-code-the-most-systematic-claude-code-1322)
-- [Gemini 3.1 Pro vs GPT-5.4: I Ran Both on the Same 500 Tasks — Here&#39;s Which Won &lpar;And It Wasn&#39;t Close on Cost&rpar;](https://dev.to/tokenmixai/gemini-31-pro-vs-gpt-54-i-ran-both-on-the-same-500-tasks-heres-which-won-and-it-wasnt-close-2li8)
+- [How I Learned SQL by Creating a Simple School Database](https://dev.to/joseph_mwangi_3ae1f57a132/how-i-learned-sql-by-creating-a-simple-school-database-5alf)
+- [I built a zero-config, 100% serverless portfolio generator so you never have to update yours again.](https://dev.to/nishal21/i-built-a-zero-config-100-serverless-portfolio-generator-so-you-never-have-to-update-yours-again-14a1)
+- [what actually happens when you provision a phone number in twilio](https://dev.to/fetchsandbox/what-actually-happens-when-you-provision-a-phone-number-in-twilio-11fd)
+- [5 Next.js Performance Patterns That Cut Our Load Time by 60%](https://dev.to/mzunain/5-nextjs-performance-patterns-that-cut-our-load-time-by-60-11gk)
 <!-- BLOG-POST-LIST:END -->
 
