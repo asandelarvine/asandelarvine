@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Concurrency in Go — Part 3: concurrent errors and panic handling](https://dev.to/ohugonnot/concurrency-in-go-part-3-concurrent-errors-and-panic-handling-1bli)
-- [COPPA Compliance Deadline is April 22, 2026 - Here&#39;s What Your Edtech Product Needs to Do Now](https://dev.to/bhavesh_pawar_8205920953a/coppa-compliance-deadline-is-april-22-2026-heres-what-your-edtech-product-needs-to-do-now-1k00)
-- [Are AI Coding Tools Actually Merging? Here&#39;s What&#39;s Happening in 2026](https://dev.to/tinymomentum1/are-ai-coding-tools-actually-merging-heres-whats-happening-in-2026-23o7)
-- [How to Publish a Power BI Report and Embed It into a Website](https://dev.to/billymuli/how-to-publish-a-power-bi-report-and-embed-it-into-a-website-3ng3)
+- [Evolución de los precios de los carburantes en España](https://dev.to/baltasarq/evolucion-de-los-precios-de-los-carburantes-en-espana-3nof)
+- [Offline Voice Control with SU-03T: No Internet, No Delay, Just Commands](https://dev.to/david_thomas/offline-voice-control-with-su-03t-no-internet-no-delay-just-commands-4mg7)
+- [I built a data platform that lets AI agents query 2,500+ verified datasets](https://dev.to/nicolas_borjans/i-built-a-data-platform-that-lets-ai-agents-query-2500-verified-datasets-42g9)
+- [ETL vs ELT: Two Paradigms, One Goal](https://dev.to/edmund_eryuba/etl-vs-elt-two-paradigms-one-goal-12fc)
 <!-- BLOG-POST-LIST:END -->
 
