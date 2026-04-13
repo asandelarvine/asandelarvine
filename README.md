@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Voice Assistant Doesn&#39;t Need the Cloud — Here&#39;s How I Built 5 Offline NLP Tools](https://dev.to/kennedyraju55/your-voice-assistant-doesnt-need-the-cloud-heres-how-i-built-5-offline-nlp-tools-4n44)
-- [Stop Sending Your Security Alerts to Cloud AI — Build Local LLM Tools Instead](https://dev.to/kennedyraju55/stop-sending-your-security-alerts-to-cloud-ai-build-local-llm-tools-instead-1dgl)
-- [Cómo hacer tu primer juego en Godot con IA en un fin de semana](https://dev.to/ziva/como-hacer-tu-primer-juego-en-godot-con-ia-en-un-fin-de-semana-1a91)
-- [Your Financial Data Should Never Leave Your Machine — Here&#39;s How I Built 5 AI Tools That Prove It](https://dev.to/kennedyraju55/your-financial-data-should-never-leave-your-machine-heres-how-i-built-5-ai-tools-that-prove-it-517l)
+- [&quot;My AI Coding Tools Were Running Up a Tab I Couldn&#39;t See — So I Fixed That&quot;](https://dev.to/yiyaoai/my-ai-coding-tools-were-running-up-a-tab-i-couldnt-see-so-i-fixed-that-1g67)
+- [Karpathy&#39;s LLM Knowledge Base SEO: I applied the pattern for 12 months and here&#39;s what I learned](https://dev.to/jim_l_efc70c3a738e9f4baa7/karpathys-llm-knowledge-base-x-seo-i-applied-the-pattern-for-12-months-and-heres-what-i-learned-51g9)
+- [One Open Source Project a Day &lpar;No.37&rpar;: everything-claude-code - The Most Systematic Claude Code Enhancement Framework](https://dev.to/wonderlab/one-open-source-project-a-day-no37-everything-claude-code-the-most-systematic-claude-code-1322)
+- [Gemini 3.1 Pro vs GPT-5.4: I Ran Both on the Same 500 Tasks — Here&#39;s Which Won &lpar;And It Wasn&#39;t Close on Cost&rpar;](https://dev.to/tokenmixai/gemini-31-pro-vs-gpt-54-i-ran-both-on-the-same-500-tasks-heres-which-won-and-it-wasnt-close-2li8)
 <!-- BLOG-POST-LIST:END -->
 
