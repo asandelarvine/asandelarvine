@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How WebAssembly Powers Free Browser Tools With No Login](https://dev.to/nologintools/how-webassembly-powers-free-browser-tools-with-no-login-1bcf)
-- [Introducing Side-by-Side Store Compare: See How Any Two UCP Stores Stack Up](https://dev.to/benjifisher/introducing-side-by-side-store-compare-see-how-any-two-ucp-stores-stack-up-3djm)
-- [We Stopped Writing Code First. Here&#39;s Why Our Projects Got Better.](https://dev.to/decivo/we-stopped-writing-code-first-heres-why-our-projects-got-better-4871)
-- [How I Built a Multi-Agent Code Review Pipeline](https://dev.to/thegdsks/how-i-built-a-multi-agent-code-review-pipeline-2h7b)
+- [The Open Sourcerer of Forem: Beyond the UI](https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p)
+- [Comparing Popular Frameworks in Real Combat: Experience of Implementation in Production](https://dev.to/devepro/comparing-popular-frameworks-in-real-combat-experience-of-implementation-in-production-lah)
+- [5 Engineering Decisions That Made Godot the Fastest-Growing Game Engine](https://dev.to/ziva/5-engineering-decisions-that-made-godot-the-fastest-growing-game-engine-5hgh)
+- [Panduan Pengujian: Implementasi Widget, Properti, dan Arsitektur SaryPOS](https://dev.to/ariscandra/panduan-pengujian-implementasi-widget-properti-dan-arsitektur-sarypos-hp1)
 <!-- BLOG-POST-LIST:END -->
 
