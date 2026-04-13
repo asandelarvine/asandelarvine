@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Billing That Won’t Break: Deterministic Design to Kill Double Charges &lpar;API Contract DB Boundary Execution Patterns&rpar;](https://dev.to/kanaria007/billing-that-wont-break-deterministic-design-to-kill-double-charges-api-contract-db-boundary-33ll)
-- [“Skills” in Claude Aren’t About Prompts — They’re About Context Design](https://dev.to/akdevcraft/skills-in-claude-arent-about-prompts-theyre-about-context-design-46hf)
-- [Designing Agentic AI: From Simple Prompts to Autonomous Loops](https://dev.to/karan_kumar_f09865ff0efe9/designing-agentic-ai-from-simple-prompts-to-autonomous-loops-54m2)
-- [The 8 CISSP Security Domains You Probably Don’t Think About — But Should](https://dev.to/srsoumyax11/the-8-cissp-security-domains-you-probably-dont-think-about-but-should-gnl)
+- [Stop sending private PDFs to servers: Building a 100% Client-Side PDF Suite](https://dev.to/zengkkj/stop-sending-private-pdfs-to-servers-building-a-100-client-side-pdf-suite-fk1)
+- [Why React Native Builds Break After Updating Dependencies &lpar;And How to Fix It&rpar;](https://dev.to/asta_dev/why-react-native-builds-break-after-updating-dependencies-and-how-to-fix-it-a27)
+- [Frontend Framework Bundle Size Benchmark: React/Vue/Angular vs Fine-Grained Runtimes](https://dev.to/qingkuai/frontend-framework-bundle-size-benchmark-reactvueangular-vs-fine-grained-runtimes-2nk0)
+- [Un lenguaje &#39;perfeccionable&#39;: por qué la idea me parece hermosa y por qué va a fracasar igual](https://dev.to/jtorchia/un-lenguaje-perfeccionable-por-que-la-idea-me-parece-hermosa-y-por-que-va-a-fracasar-igual-5f78)
 <!-- BLOG-POST-LIST:END -->
 
