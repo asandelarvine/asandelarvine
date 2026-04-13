@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [You’re Probably Not Testing Accessibility the Way Users Experience It](https://dev.to/r3ticular/youre-probably-not-testing-accessibility-the-way-users-experience-it-46em)
-- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-506f)
-- [CVE-2026-5724: CVE-2026-5724: Missing Authentication in Temporal gRPC Streaming Endpoint](https://dev.to/cverports/cve-2026-5724-cve-2026-5724-missing-authentication-in-temporal-grpc-streaming-endpoint-3mif)
-- [Agentic Analytics on the Apache Lakehouse](https://dev.to/alexmercedcoder/agentic-analytics-on-the-apache-lakehouse-1a3b)
+- [Stop Prompting. Start Engineering Perception.](https://dev.to/serhiip/stop-prompting-start-engineering-perception-4fh5)
+- [AI Context Window Overflow: Memory Pointer Fix](https://dev.to/aws/ai-context-window-overflow-memory-pointer-fix-3akc)
+- [A Mirror Held by a Friend](https://dev.to/mindon/a-mirror-held-by-a-friend-4314)
+- [Gemini Models for Hermes Agent — Long-Context Workflows](https://dev.to/zacvibecodez/gemini-models-for-hermes-agent-long-context-workflows-3pae)
 <!-- BLOG-POST-LIST:END -->
 
