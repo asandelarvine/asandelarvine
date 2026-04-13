@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop sending private PDFs to servers: Building a 100% Client-Side PDF Suite](https://dev.to/zengkkj/stop-sending-private-pdfs-to-servers-building-a-100-client-side-pdf-suite-fk1)
-- [Why React Native Builds Break After Updating Dependencies &lpar;And How to Fix It&rpar;](https://dev.to/asta_dev/why-react-native-builds-break-after-updating-dependencies-and-how-to-fix-it-a27)
-- [Frontend Framework Bundle Size Benchmark: React/Vue/Angular vs Fine-Grained Runtimes](https://dev.to/qingkuai/frontend-framework-bundle-size-benchmark-reactvueangular-vs-fine-grained-runtimes-2nk0)
-- [Un lenguaje &#39;perfeccionable&#39;: por qué la idea me parece hermosa y por qué va a fracasar igual](https://dev.to/jtorchia/un-lenguaje-perfeccionable-por-que-la-idea-me-parece-hermosa-y-por-que-va-a-fracasar-igual-5f78)
+- [How WebAssembly Powers Free Browser Tools With No Login](https://dev.to/nologintools/how-webassembly-powers-free-browser-tools-with-no-login-1bcf)
+- [Introducing Side-by-Side Store Compare: See How Any Two UCP Stores Stack Up](https://dev.to/benjifisher/introducing-side-by-side-store-compare-see-how-any-two-ucp-stores-stack-up-3djm)
+- [We Stopped Writing Code First. Here&#39;s Why Our Projects Got Better.](https://dev.to/decivo/we-stopped-writing-code-first-heres-why-our-projects-got-better-4871)
+- [How I Built a Multi-Agent Code Review Pipeline](https://dev.to/thegdsks/how-i-built-a-multi-agent-code-review-pipeline-2h7b)
 <!-- BLOG-POST-LIST:END -->
 
