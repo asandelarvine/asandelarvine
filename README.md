@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why File Paths Are Not Enough for AI Knowledge](https://dev.to/synthaicode_commander/why-file-paths-are-not-enough-for-ai-knowledge-17f8)
-- [SQL Fundamentals: DDL, DML, and Practical Data Manipulation](https://dev.to/muriuki_kahuthu_54/sql-fundamentals-ddl-dml-and-practical-data-manipulation-3bic)
-- [What Amazon, Google, and Meta actually test in coding interviews &lpar;with specific problems&rpar;](https://dev.to/subbu_uppalapati_727d6e7a/what-amazon-google-and-meta-actually-test-in-coding-interviews-with-specific-problems-2o6j)
-- [Complete Guide to System Testing: Types, Workflow, Tools &amp; Examples](https://dev.to/adam_zampa_/complete-guide-to-system-testing-types-workflow-tools-examples-33k0)
+- [Deploynix vs. Coolify vs. CapRover: Managed Platform or Self-Hosted PaaS?](https://dev.to/deploynix/deploynix-vs-coolify-vs-caprover-managed-platform-or-self-hosted-paas-jg0)
+- [Set It Up Once, Use It for Your Whole Career](https://dev.to/gcolonna12/set-it-up-once-use-it-for-your-whole-career-107a)
+- [Fat Controller to Clean Architecture in Laravel &lpar;Step-by-Step Refactor&rpar;](https://dev.to/codecraft_diary_3d13677fb/fat-controller-to-clean-architecture-in-laravel-step-by-step-refactor-3eii)
+- [The Solana Buffer Recovery Problem Nobody Talks About](https://dev.to/compustable/the-solana-buffer-recovery-problem-nobody-talks-about-34cp)
 <!-- BLOG-POST-LIST:END -->
 
