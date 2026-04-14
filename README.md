@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploynix vs. Coolify vs. CapRover: Managed Platform or Self-Hosted PaaS?](https://dev.to/deploynix/deploynix-vs-coolify-vs-caprover-managed-platform-or-self-hosted-paas-jg0)
-- [Set It Up Once, Use It for Your Whole Career](https://dev.to/gcolonna12/set-it-up-once-use-it-for-your-whole-career-107a)
-- [Fat Controller to Clean Architecture in Laravel &lpar;Step-by-Step Refactor&rpar;](https://dev.to/codecraft_diary_3d13677fb/fat-controller-to-clean-architecture-in-laravel-step-by-step-refactor-3eii)
-- [The Solana Buffer Recovery Problem Nobody Talks About](https://dev.to/compustable/the-solana-buffer-recovery-problem-nobody-talks-about-34cp)
+- [Listen to Your Cloud: Co-Developing a CloudTrail Sonifier with an AI Partner](https://dev.to/btarbox/listen-to-your-cloud-co-developing-a-cloudtrail-sonifier-with-an-ai-partner-17p3)
+- [Why Your Claude Agents Burn Through API Limits in Hour 1 &lpar;And the Fix&rpar;](https://dev.to/whoffagents/why-your-claude-agents-burn-through-api-limits-in-hour-1-and-the-fix-lb7)
+- [I built an MCP server in one weekend — here&#39;s what FastMCP made easy &lpar;and what it didn&#39;t&rpar;](https://dev.to/vdalhambra/i-built-an-mcp-server-in-one-weekend-heres-what-fastmcp-made-easy-and-what-it-didnt-2dp3)
+- [The Restart Challenge: Day 0](https://dev.to/mk_novice/the-restart-challenge-day-0-3hm6)
 <!-- BLOG-POST-LIST:END -->
 
