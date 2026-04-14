@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free MCP Server for European Financial Data](https://dev.to/dimitri_roesing/i-built-a-free-mcp-server-for-european-financial-data-50co)
-- [How I Built a 2,600-Page Unit Converter with Programmatic SEO](https://dev.to/jjpdev/how-i-built-a-2600-page-unit-converter-with-programmatic-seo-2ml)
-- [Fix ERR_TOO_MANY_REDIRECTS: WordPress di Belakang AWS ALB](https://dev.to/eryanfauzan/fix-errtoomanyredirects-wordpress-di-belakang-aws-alb-1114)
-- [Kimi Desktop on Ubuntu 26.04: Fixing the Broken .deb with Tauri v2](https://dev.to/johnohhh1/kimi-desktop-on-ubuntu-2604-fixing-the-broken-deb-with-tauri-v2-1e25)
+- [How I built a file-sharing tool where even I can&#39;t read your files &lpar;zero-knowledge architecture in Next.js&rpar;](https://dev.to/axaysharma/how-i-built-a-file-sharing-tool-where-even-i-cant-read-your-files-zero-knowledge-architecture-in-5h9a)
+- [Idempotency Is Not Enough: Designing Deterministic Payment Systems](https://dev.to/rahmannugar/idempotency-is-not-enough-designing-deterministic-payment-systems-4514)
+- [TraceMind v2 — I added hallucination detection and A/B testing to my open-source LLM eval platform](https://dev.to/aayush_kumarsingh_6ee1ffe/tracemind-v2-i-added-hallucination-detection-and-ab-testing-to-my-open-source-llm-eval-platform-1lkn)
+- [What Most Beginners Get Wrong About Building AI Apps](https://dev.to/raju_dandigam/what-most-beginners-get-wrong-about-building-ai-apps-32mg)
 <!-- BLOG-POST-LIST:END -->
 
