@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ArchScope Engineering Update: Multi-Selection &amp; Undo/Redo Implementation &lpar;April 14, 2026&rpar;](https://dev.to/irishcheezecake/archscope-engineering-update-multi-selection-undoredo-implementation-april-14-2026-1i53)
-- [How I Built a CoreOptimize FPS Calculator to Instantly Estimate Game Performance](https://dev.to/coreoptimize22/how-i-built-a-coreoptimize-fps-calculator-to-instantly-estimate-game-performance-ckp)
-- [Fonctionnement d’une blockchain — Étape 1/8 : Création d’une transaction](https://dev.to/amel_in_tech/fonctionnement-dune-blockchain-etape-18-creation-dune-transaction-5fp2)
-- [Voice-Controlled Local AI Agent](https://dev.to/anjali_kumari_f7905d18f3a/voice-controlled-local-ai-agent-2dhk)
+- [Why Go Handles Millions of Connections: User-Space Context Switching, Explained](https://dev.to/harrison_guo_e01b4c8793a0/why-go-handles-millions-of-connections-user-space-context-switching-explained-kf3)
+- [Three agent frameworks, same missing piece](https://dev.to/sidclaw/three-agent-frameworks-same-missing-piece-3mha)
+- [elm-simple-icons: Another Elm package](https://dev.to/agj/elm-simple-icons-another-elm-package-23pk)
+- [Connecting PostgreSQL to Power BI for Data Analysis](https://dev.to/charles_ndungu/connecting-postgresql-to-power-bi-for-data-analysis-3pnj)
 <!-- BLOG-POST-LIST:END -->
 
