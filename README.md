@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Prompting. Start Engineering Perception.](https://dev.to/serhiip/stop-prompting-start-engineering-perception-4fh5)
-- [AI Context Window Overflow: Memory Pointer Fix](https://dev.to/aws/ai-context-window-overflow-memory-pointer-fix-3akc)
-- [A Mirror Held by a Friend](https://dev.to/mindon/a-mirror-held-by-a-friend-4314)
-- [Gemini Models for Hermes Agent — Long-Context Workflows](https://dev.to/zacvibecodez/gemini-models-for-hermes-agent-long-context-workflows-3pae)
+- [I Built a Free MCP Server for European Financial Data](https://dev.to/dimitri_roesing/i-built-a-free-mcp-server-for-european-financial-data-50co)
+- [How I Built a 2,600-Page Unit Converter with Programmatic SEO](https://dev.to/jjpdev/how-i-built-a-2600-page-unit-converter-with-programmatic-seo-2ml)
+- [Fix ERR_TOO_MANY_REDIRECTS: WordPress di Belakang AWS ALB](https://dev.to/eryanfauzan/fix-errtoomanyredirects-wordpress-di-belakang-aws-alb-1114)
+- [Kimi Desktop on Ubuntu 26.04: Fixing the Broken .deb with Tauri v2](https://dev.to/johnohhh1/kimi-desktop-on-ubuntu-2604-fixing-the-broken-deb-with-tauri-v2-1e25)
 <!-- BLOG-POST-LIST:END -->
 
