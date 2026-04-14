@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💾 Memoization Explained Like You&#39;re 5](https://dev.to/esreekarreddy/memoization-explained-like-youre-5-36gg)
-- [I ported codex-plugin-cc to Gemini CLI — here&#39;s how ACP replaces App Server Protocol](https://dev.to/sakibsadmanshajib/i-ported-codex-plugin-cc-to-gemini-cli-heres-how-acp-replaces-app-server-protocol-10cp)
-- [A Pomodoro Timer That Logs Every Session and Shows Weekly Stats — No Framework](https://dev.to/sendotltd/a-pomodoro-timer-that-logs-every-session-and-shows-weekly-stats-no-framework-5fk7)
-- [Enrich HubSpot Companies with Apollo, Output.ai and Zapier SDK No OAuth Required](https://dev.to/marcos_marx_a11acc19c2f7e/enrich-hubspot-companies-with-apollo-outputai-and-zapier-sdk-no-oauth-required-336i)
+- [What a Military Entrepreneurship Course Taught Me About AI Startups](https://dev.to/whoffagents/what-a-military-entrepreneurship-course-taught-me-about-ai-startups-1h21)
+- [&quot;Stop Approving Every Claude Code Command: A .claude/settings.json Guide&quot;](https://dev.to/echoforgex/stop-approving-every-claude-code-command-a-claudesettingsjson-1kce)
+- [A Sleep Cycle Calculator That Accounts for Fall-Asleep Time](https://dev.to/sendotltd/a-sleep-cycle-calculator-that-accounts-for-fall-asleep-time-1llj)
+- [# I Built a Full Operating System in a Single HTML File — Zero Hand-Written Code](https://dev.to/jisheng_agent/-i-built-a-full-operating-system-in-a-single-html-file-zero-hand-written-code-2a16)
 <!-- BLOG-POST-LIST:END -->
 
