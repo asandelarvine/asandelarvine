@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AOC vs. DAC vs. ACC vs. AEC Cables in AI Data Centers and Large-Scale GPU Clusters](https://dev.to/aicplight/aoc-vs-dac-vs-acc-vs-aec-cables-in-ai-data-centers-and-large-scale-gpu-clusters-3iki)
-- [CAP Theorem Revisited: PACELC](https://dev.to/godofgeeks/cap-theorem-revisited-pacelc-mo2)
-- [The Security Lindy Effect: What Smart Contracts Can Teach Us About Software Security in the Age of AI](https://dev.to/bastarrd/the-security-lindy-effect-what-smart-contracts-can-teach-us-about-software-security-in-the-age-of-2nb0)
-- [Automate Client Revisions with AI-Powered Version Control](https://dev.to/ken_deng_ai/automate-client-revisions-with-ai-powered-version-control-4856)
+- [Claude skills vs Commands](https://dev.to/hellonehha/claude-skills-vs-commands-1dcm)
+- [How Traefik Turns Kubernetes Changes Into Live Routing Updates](https://dev.to/abdellani/how-traefik-turns-kubernetes-changes-into-live-routing-updates-4gd3)
+- [What Edtech Companies Need to Check for COPPA Compliance in 2026 &lpar;Full Checklist&rpar;](https://dev.to/bhavesh_pawar_8205920953a/what-edtech-companies-need-to-check-for-coppa-compliance-in-2026-full-checklist-24nl)
+- [How to Process Video in Make.com with FFmpeg &lpar;No Module Required&rpar;](https://dev.to/javidjamae/how-to-process-video-in-makecom-with-ffmpeg-no-module-required-45l0)
 <!-- BLOG-POST-LIST:END -->
 
