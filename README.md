@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Añadir aljibe a un proyecto que ya tiene Ddev](https://dev.to/oskar_calvo_1615a9b3b293f/anadir-aljibe-a-un-proyecto-que-ya-tiene-ddev-c6m)
-- [El responsive te lo debo &lpar;mini proyecto en html&rpar;.](https://dev.to/gusgus/el-responsive-te-lo-debo-mini-proyecto-en-html-4c05)
-- [Rethinking WordPress Editing: Inline vs ACF Workflows](https://dev.to/steven-k/rethinking-wordpress-editing-inline-vs-acf-workflows-215i)
-- [How to Run AI Locally with Lemonade Server: No Cloud, No API Keys, No Problem](https://dev.to/benriemer/how-to-run-ai-locally-with-lemonade-server-no-cloud-no-api-keys-no-problem-4hhj)
+- [Why File Paths Are Not Enough for AI Knowledge](https://dev.to/synthaicode_commander/why-file-paths-are-not-enough-for-ai-knowledge-17f8)
+- [SQL Fundamentals: DDL, DML, and Practical Data Manipulation](https://dev.to/muriuki_kahuthu_54/sql-fundamentals-ddl-dml-and-practical-data-manipulation-3bic)
+- [What Amazon, Google, and Meta actually test in coding interviews &lpar;with specific problems&rpar;](https://dev.to/subbu_uppalapati_727d6e7a/what-amazon-google-and-meta-actually-test-in-coding-interviews-with-specific-problems-2o6j)
+- [Complete Guide to System Testing: Types, Workflow, Tools &amp; Examples](https://dev.to/adam_zampa_/complete-guide-to-system-testing-types-workflow-tools-examples-33k0)
 <!-- BLOG-POST-LIST:END -->
 
