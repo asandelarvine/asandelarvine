@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a file-sharing tool where even I can&#39;t read your files &lpar;zero-knowledge architecture in Next.js&rpar;](https://dev.to/axaysharma/how-i-built-a-file-sharing-tool-where-even-i-cant-read-your-files-zero-knowledge-architecture-in-5h9a)
-- [Idempotency Is Not Enough: Designing Deterministic Payment Systems](https://dev.to/rahmannugar/idempotency-is-not-enough-designing-deterministic-payment-systems-4514)
-- [TraceMind v2 — I added hallucination detection and A/B testing to my open-source LLM eval platform](https://dev.to/aayush_kumarsingh_6ee1ffe/tracemind-v2-i-added-hallucination-detection-and-ab-testing-to-my-open-source-llm-eval-platform-1lkn)
-- [What Most Beginners Get Wrong About Building AI Apps](https://dev.to/raju_dandigam/what-most-beginners-get-wrong-about-building-ai-apps-32mg)
+- [AOC vs. DAC vs. ACC vs. AEC Cables in AI Data Centers and Large-Scale GPU Clusters](https://dev.to/aicplight/aoc-vs-dac-vs-acc-vs-aec-cables-in-ai-data-centers-and-large-scale-gpu-clusters-3iki)
+- [CAP Theorem Revisited: PACELC](https://dev.to/godofgeeks/cap-theorem-revisited-pacelc-mo2)
+- [The Security Lindy Effect: What Smart Contracts Can Teach Us About Software Security in the Age of AI](https://dev.to/bastarrd/the-security-lindy-effect-what-smart-contracts-can-teach-us-about-software-security-in-the-age-of-2nb0)
+- [Automate Client Revisions with AI-Powered Version Control](https://dev.to/ken_deng_ai/automate-client-revisions-with-ai-powered-version-control-4856)
 <!-- BLOG-POST-LIST:END -->
 
