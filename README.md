@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude skills vs Commands](https://dev.to/hellonehha/claude-skills-vs-commands-1dcm)
-- [How Traefik Turns Kubernetes Changes Into Live Routing Updates](https://dev.to/abdellani/how-traefik-turns-kubernetes-changes-into-live-routing-updates-4gd3)
-- [What Edtech Companies Need to Check for COPPA Compliance in 2026 &lpar;Full Checklist&rpar;](https://dev.to/bhavesh_pawar_8205920953a/what-edtech-companies-need-to-check-for-coppa-compliance-in-2026-full-checklist-24nl)
-- [How to Process Video in Make.com with FFmpeg &lpar;No Module Required&rpar;](https://dev.to/javidjamae/how-to-process-video-in-makecom-with-ffmpeg-no-module-required-45l0)
+- [Añadir aljibe a un proyecto que ya tiene Ddev](https://dev.to/oskar_calvo_1615a9b3b293f/anadir-aljibe-a-un-proyecto-que-ya-tiene-ddev-c6m)
+- [El responsive te lo debo &lpar;mini proyecto en html&rpar;.](https://dev.to/gusgus/el-responsive-te-lo-debo-mini-proyecto-en-html-4c05)
+- [Rethinking WordPress Editing: Inline vs ACF Workflows](https://dev.to/steven-k/rethinking-wordpress-editing-inline-vs-acf-workflows-215i)
+- [How to Run AI Locally with Lemonade Server: No Cloud, No API Keys, No Problem](https://dev.to/benriemer/how-to-run-ai-locally-with-lemonade-server-no-cloud-no-api-keys-no-problem-4hhj)
 <!-- BLOG-POST-LIST:END -->
 
