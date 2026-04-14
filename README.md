@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Go Handles Millions of Connections: User-Space Context Switching, Explained](https://dev.to/harrison_guo_e01b4c8793a0/why-go-handles-millions-of-connections-user-space-context-switching-explained-kf3)
-- [Three agent frameworks, same missing piece](https://dev.to/sidclaw/three-agent-frameworks-same-missing-piece-3mha)
-- [elm-simple-icons: Another Elm package](https://dev.to/agj/elm-simple-icons-another-elm-package-23pk)
-- [Connecting PostgreSQL to Power BI for Data Analysis](https://dev.to/charles_ndungu/connecting-postgresql-to-power-bi-for-data-analysis-3pnj)
+- [💾 Memoization Explained Like You&#39;re 5](https://dev.to/esreekarreddy/memoization-explained-like-youre-5-36gg)
+- [I ported codex-plugin-cc to Gemini CLI — here&#39;s how ACP replaces App Server Protocol](https://dev.to/sakibsadmanshajib/i-ported-codex-plugin-cc-to-gemini-cli-heres-how-acp-replaces-app-server-protocol-10cp)
+- [A Pomodoro Timer That Logs Every Session and Shows Weekly Stats — No Framework](https://dev.to/sendotltd/a-pomodoro-timer-that-logs-every-session-and-shows-weekly-stats-no-framework-5fk7)
+- [Enrich HubSpot Companies with Apollo, Output.ai and Zapier SDK No OAuth Required](https://dev.to/marcos_marx_a11acc19c2f7e/enrich-hubspot-companies-with-apollo-outputai-and-zapier-sdk-no-oauth-required-336i)
 <!-- BLOG-POST-LIST:END -->
 
