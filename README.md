@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello Dev.to!👋 I&#39;m starting my journey as a developer🌱](https://dev.to/umitomo-lab/hello-devto-im-starting-my-journey-as-a-developer-5agb)
-- [Zero JavaScript: CRUD Completo com Blazor WASM e Radzen](https://dev.to/lzocate-li/zero-javascript-crud-completo-com-blazor-wasm-e-radzen-1f12)
-- [Paginação em APIs REST com C# e EF Core: Guia Prático](https://dev.to/lzocate-li/paginacao-em-apis-rest-com-c-e-ef-core-guia-pratico-5of)
-- [Is Railway a Good Fit for Teams Without DevOps in 2026?](https://dev.to/stackandsails/is-railway-a-good-fit-for-teams-without-devops-in-2026-1apj)
+- [I Built a Chrome Extension That Translates Manga Directly in Your Browser &lpar;No Uploads Needed&rpar;](https://dev.to/peterslab/i-built-a-chrome-extension-that-translates-manga-directly-in-your-browser-no-uploads-needed-402f)
+- [I Ran 163 Benchmarks Across 10 LLMs So You Don&#39;t Have To. Here&#39;s What I Found](https://dev.to/manideep_patibandla/i-ran-163-benchmarks-across-15-llms-so-you-dont-have-to-heres-what-i-found-fna)
+- [Väinämöinen vs MemPalace vs claude-mem: A Source-Code-Level Comparison of AI Agent Memory Systems](https://dev.to/vainamoinen/vainamoinen-vs-mempalace-vs-claude-mem-a-source-code-level-comparison-of-ai-agent-memory-systems-4bk4)
+- [SHAP Is Not Production-Ready — And We Need to Stop Pretending It Is](https://dev.to/emmimal_alexander_3be8cc7/shap-is-not-production-ready-and-we-need-to-stop-pretending-it-is-14f0)
 <!-- BLOG-POST-LIST:END -->
 
