@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a fake review detector API because I got tired of not being able to trust product reviews](https://dev.to/flusnot/i-built-a-fake-review-detector-api-because-i-got-tired-of-not-being-able-to-trust-product-reviews-3fhe)
-- [Weekly Challenge: Group Tag](https://dev.to/simongreennet/weekly-challenge-group-tag-k56)
-- [AI Experts Are Dead. Long Live the AI Experts.](https://dev.to/berkan_sesen/ai-experts-are-dead-long-live-the-ai-experts-3hg2)
-- [Key Differences Between MySQL and PostgreSQL Architecture, Performance &amp; Use Cases](https://dev.to/mafiree/key-differences-between-mysql-and-postgresql-architecture-performance-use-cases-39cf)
+- [How We Built an AI Voice Agent: Backend Architecture Guide](https://dev.to/heivan/how-we-built-an-ai-voice-agent-backend-architecture-guide-gpm)
+- [How to Find Every Consumer of Your Terraform Module](https://dev.to/danielwe/how-to-find-every-consumer-of-your-terraform-module-enh)
+- [Context Windows Explained: Why 1M Tokens Changes How You Architect AI Applications](https://dev.to/emperorakashi20/context-windows-explained-why-1m-tokens-changes-how-you-architect-ai-applications-fe6)
+- [.NET 10 and the Next Leap in Native AOT for Cloud-Native Apps](https://dev.to/arthus15/net-10-and-the-next-leap-in-native-aot-for-cloud-native-apps-a0k)
 <!-- BLOG-POST-LIST:END -->
 
