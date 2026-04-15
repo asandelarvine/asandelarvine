@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [zod-to-schema: A Zero-Config CLI That Runs Your TypeScript In-Process](https://dev.to/sendotltd/zod-to-schema-a-zero-config-cli-that-runs-your-typescript-in-process-54kh)
-- [Why AI Governance Committees Fail — And What to Do Instead](https://dev.to/nagasatish_chilakamarti_2/why-ai-governance-committees-fail-and-what-to-do-instead-1150)
-- [A local requestbin in 200 lines of PHP — why self-hosting beats webhook.site for production debugging](https://dev.to/sendotltd/a-local-requestbin-in-200-lines-of-php-why-self-hosting-beats-webhooksite-for-production-5h31)
-- [Your SSD is at 97% &quot;Healthy&quot; and it&#39;s Dying: The SMART Data Lie &lpar;5 Hard Lessons&rpar;](https://dev.to/hamada147/your-ssd-is-at-97-healthy-and-its-dying-the-smart-data-lie-5-hard-lessons-4ohn)
+- [Add a &#39;Call Me Back&#39; Button to Any Website — Backed by an AI Agent](https://dev.to/voipbin/add-a-call-me-back-button-to-any-website-backed-by-an-ai-agent-585k)
+- [How I built a privacy-first Claude Code burn-rate analyzer in a single HTML file](https://dev.to/geniej/how-i-built-a-privacy-first-claude-code-burn-rate-analyzer-in-a-single-html-file-48o7)
+- [Frontend Isn’t Getting More Complex — The Boundaries Are Getting Blurry](https://dev.to/rohith_kn/frontend-isnt-getting-more-complex-the-boundaries-are-getting-blurry-jka)
+- [rabbitholes: inline knowledge without leaving the page](https://dev.to/palo_alto_ai/rabbitholes-inline-knowledge-without-leaving-the-page-4mmn)
 <!-- BLOG-POST-LIST:END -->
 
