@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built an AI Voice Agent: Backend Architecture Guide](https://dev.to/heivan/how-we-built-an-ai-voice-agent-backend-architecture-guide-gpm)
-- [How to Find Every Consumer of Your Terraform Module](https://dev.to/danielwe/how-to-find-every-consumer-of-your-terraform-module-enh)
-- [Context Windows Explained: Why 1M Tokens Changes How You Architect AI Applications](https://dev.to/emperorakashi20/context-windows-explained-why-1m-tokens-changes-how-you-architect-ai-applications-fe6)
-- [.NET 10 and the Next Leap in Native AOT for Cloud-Native Apps](https://dev.to/arthus15/net-10-and-the-next-leap-in-native-aot-for-cloud-native-apps-a0k)
+- [What&#39;s Actually In This CSV? A Zero-Dep Python Profiler](https://dev.to/sendotltd/whats-actually-in-this-csv-a-zero-dep-python-profiler-1bfh)
+- [Happy — The Open-Source App That Puts Claude Code in Your Pocket](https://dev.to/_53fb7c03dd741a6124e4e/happy-the-open-source-app-that-puts-claude-code-in-your-pocket-7i2)
+- [Claude Code를 폰에 들고 다니게 해주는 오픈소스, Happy](https://dev.to/_53fb7c03dd741a6124e4e/claude-codereul-pone-deulgo-danige-haejuneun-opeunsoseu-happy-2i5n)
+- [Perceptual Image Diff Without NumPy — Building a Pillow-Only CLI](https://dev.to/sendotltd/perceptual-image-diff-without-numpy-building-a-pillow-only-cli-1lc6)
 <!-- BLOG-POST-LIST:END -->
 
