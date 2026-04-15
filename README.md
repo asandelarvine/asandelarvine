@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s Actually In This CSV? A Zero-Dep Python Profiler](https://dev.to/sendotltd/whats-actually-in-this-csv-a-zero-dep-python-profiler-1bfh)
-- [Happy — The Open-Source App That Puts Claude Code in Your Pocket](https://dev.to/_53fb7c03dd741a6124e4e/happy-the-open-source-app-that-puts-claude-code-in-your-pocket-7i2)
-- [Claude Code를 폰에 들고 다니게 해주는 오픈소스, Happy](https://dev.to/_53fb7c03dd741a6124e4e/claude-codereul-pone-deulgo-danige-haejuneun-opeunsoseu-happy-2i5n)
-- [Perceptual Image Diff Without NumPy — Building a Pillow-Only CLI](https://dev.to/sendotltd/perceptual-image-diff-without-numpy-building-a-pillow-only-cli-1lc6)
+- [I Built an AI Chat in React Native in 30 Lines — Here&#39;s the Library That Made It Possible](https://dev.to/alexrixten/i-built-an-ai-chat-in-react-native-in-30-lines-heres-the-library-that-made-it-possible-4i12)
+- [An LLM Has No Idea It&#39;s Killing Your Infrastructure. That&#39;s Your Problem to Solve.](https://dev.to/ola_the_builder/an-llm-has-no-idea-its-killing-your-infrastructure-thats-your-problem-to-solve-2m19)
+- [AWS ECS vs EKS: A Practical Decision Framework for Startups](https://dev.to/instadevops/aws-ecs-vs-eks-a-practical-decision-framework-for-startups-3dgp)
+- [Mistake 11/14: Your E2E tests are checking email format](https://dev.to/testdino01/mistake-1114-your-e2e-tests-are-checking-email-format-11mk)
 <!-- BLOG-POST-LIST:END -->
 
