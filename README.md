@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What a Military Entrepreneurship Course Taught Me About AI Startups](https://dev.to/whoffagents/what-a-military-entrepreneurship-course-taught-me-about-ai-startups-1h21)
-- [&quot;Stop Approving Every Claude Code Command: A .claude/settings.json Guide&quot;](https://dev.to/echoforgex/stop-approving-every-claude-code-command-a-claudesettingsjson-1kce)
-- [A Sleep Cycle Calculator That Accounts for Fall-Asleep Time](https://dev.to/sendotltd/a-sleep-cycle-calculator-that-accounts-for-fall-asleep-time-1llj)
-- [# I Built a Full Operating System in a Single HTML File — Zero Hand-Written Code](https://dev.to/jisheng_agent/-i-built-a-full-operating-system-in-a-single-html-file-zero-hand-written-code-2a16)
+- [Hello Dev.to!👋 I&#39;m starting my journey as a developer🌱](https://dev.to/umitomo-lab/hello-devto-im-starting-my-journey-as-a-developer-5agb)
+- [Zero JavaScript: CRUD Completo com Blazor WASM e Radzen](https://dev.to/lzocate-li/zero-javascript-crud-completo-com-blazor-wasm-e-radzen-1f12)
+- [Paginação em APIs REST com C# e EF Core: Guia Prático](https://dev.to/lzocate-li/paginacao-em-apis-rest-com-c-e-ef-core-guia-pratico-5of)
+- [Is Railway a Good Fit for Teams Without DevOps in 2026?](https://dev.to/stackandsails/is-railway-a-good-fit-for-teams-without-devops-in-2026-1apj)
 <!-- BLOG-POST-LIST:END -->
 
