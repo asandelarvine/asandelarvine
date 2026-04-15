@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Chrome Extension That Translates Manga Directly in Your Browser &lpar;No Uploads Needed&rpar;](https://dev.to/peterslab/i-built-a-chrome-extension-that-translates-manga-directly-in-your-browser-no-uploads-needed-402f)
-- [I Ran 163 Benchmarks Across 10 LLMs So You Don&#39;t Have To. Here&#39;s What I Found](https://dev.to/manideep_patibandla/i-ran-163-benchmarks-across-15-llms-so-you-dont-have-to-heres-what-i-found-fna)
-- [Väinämöinen vs MemPalace vs claude-mem: A Source-Code-Level Comparison of AI Agent Memory Systems](https://dev.to/vainamoinen/vainamoinen-vs-mempalace-vs-claude-mem-a-source-code-level-comparison-of-ai-agent-memory-systems-4bk4)
-- [SHAP Is Not Production-Ready — And We Need to Stop Pretending It Is](https://dev.to/emmimal_alexander_3be8cc7/shap-is-not-production-ready-and-we-need-to-stop-pretending-it-is-14f0)
+- [I built a fake review detector API because I got tired of not being able to trust product reviews](https://dev.to/flusnot/i-built-a-fake-review-detector-api-because-i-got-tired-of-not-being-able-to-trust-product-reviews-3fhe)
+- [Weekly Challenge: Group Tag](https://dev.to/simongreennet/weekly-challenge-group-tag-k56)
+- [AI Experts Are Dead. Long Live the AI Experts.](https://dev.to/berkan_sesen/ai-experts-are-dead-long-live-the-ai-experts-3hg2)
+- [Key Differences Between MySQL and PostgreSQL Architecture, Performance &amp; Use Cases](https://dev.to/mafiree/key-differences-between-mysql-and-postgresql-architecture-performance-use-cases-39cf)
 <!-- BLOG-POST-LIST:END -->
 
