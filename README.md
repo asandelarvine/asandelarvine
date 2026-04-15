@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GHSA-JJ6C-8H6C-HPPX: GHSA-JJ6C-8H6C-HPPX: Uncontrolled Resource Consumption in pypdf via Malformed PDF Streams](https://dev.to/cverports/ghsa-jj6c-8h6c-hppx-ghsa-jj6c-8h6c-hppx-uncontrolled-resource-consumption-in-pypdf-via-malformed-16jh)
-- [The Real Problem With AI Agents Isn&#39;t the Code — It&#39;s the Memory](https://dev.to/dragoninexile/the-real-problem-with-ai-agents-isnt-the-code-its-the-memory-270d)
-- [&quot;GitHub Copilot vs Claude vs ChatGPT — Which Helps You Code Faster?&quot;](https://dev.to/devraj_singh7/github-copilot-vs-claude-vs-chatgpt-which-helps-you-code-faster-53gj)
-- [Dependency: That One Line in build.gradle You Copy Without Thinking? Let&#39;s Actually Understand It.](https://dev.to/itsaalaa7/dependency-that-one-line-in-buildgradle-you-copy-without-thinking-lets-actually-understand-it-5l8)
+- [Database Optimization Strategies That Cut Query Execution Time by 60%: A Practical Guide](https://dev.to/oluwatosinolamilekan/database-optimization-strategies-that-cut-query-execution-time-by-60-a-practical-guide-4786)
+- [HTTP 402 waited 27 years for this moment: the x402 Foundation and the agent economy](https://dev.to/aaron_schnieder_4563d5d33/http-402-waited-27-years-for-this-moment-the-x402-foundation-and-the-agent-economy-db9)
+- [How WooCommerce Coupon Tracking Fails at Scale Without Automation](https://dev.to/nexuwp/how-woocommerce-coupon-tracking-fails-at-scale-without-automation-490n)
+- [Kubernetes Observability: What to Monitor and Why](https://dev.to/samson_tanimawo/kubernetes-observability-what-to-monitor-and-why-8ek)
 <!-- BLOG-POST-LIST:END -->
 
