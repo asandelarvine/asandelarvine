@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Vertical Area Chart with JavaScript: 80+ Years of U.S. Presidential Approval Data](https://dev.to/andreykh/creating-a-vertical-area-chart-with-javascript-80-years-of-us-presidential-approval-data-ei5)
-- [I Built an LLM Gateway That Learns Which Model to Use — Here&#39;s How the Routing Works](https://dev.to/syndicalt/i-built-an-llm-gateway-that-learns-which-model-to-use-heres-how-the-routing-works-16cg)
-- [I Built My First AI Agent in an Afternoon. Here&#39;s the Playbook I Wish I Had on Day One.](https://dev.to/daniel_marin_871e4c78cfc0/i-built-my-first-ai-agent-in-an-afternoon-heres-the-playbook-i-wish-i-had-on-day-one-m3i)
-- [Build an AI Assistant Web App Using Streamlit](https://dev.to/code_with_me/build-an-ai-assistant-web-app-using-streamlit-2gof)
+- [Building multilingual runtime collections in a Filament plugin](https://dev.to/serhii_fedorenko/building-multilingual-runtime-collections-in-a-filament-plugin-27cm)
+- [OpenAI&#39;s Promptfoo deal puts evaluation and red-teaming at the centre of the agent stack](https://dev.to/yujia_zhang_0328/openais-promptfoo-deal-puts-evaluation-and-red-teaming-at-the-centre-of-the-agent-stack-2208)
+- [Opencode for network systems administration. OMG.](https://dev.to/mikecase/opencode-for-network-systems-administration-omg-18g6)
+- [How to Detect if a Website Uses Intercom: 5 Methods](https://dev.to/detectzestack/how-to-detect-if-a-website-uses-intercom-5-methods-3o4k)
 <!-- BLOG-POST-LIST:END -->
 
