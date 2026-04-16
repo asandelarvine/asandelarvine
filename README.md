@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why LLM Cost Dashboards Are Not Enough — The Runtime Enforcement Gap](https://dev.to/amedinat/why-llm-cost-dashboards-are-not-enough-the-runtime-enforcement-gap-3fea)
-- [I synthesized 12 classic engineering books into an AI code reviewer — here&#39;s what it caught](https://dev.to/hyhmrright/i-synthesized-12-classic-engineering-books-into-an-ai-code-reviewer-heres-what-it-caught-3ed1)
-- [Why AI coding agents keep making the same mistakes &lpar;and how we fixed it&rpar;](https://dev.to/pekg/why-ai-coding-agents-keep-making-the-same-mistakes-and-how-we-fixed-it-ejh)
-- [Why Your AI Builder Platform Fails at Scale &lpar;And How We Fixed It&rpar;](https://dev.to/nometria_vibecoding/why-your-ai-builder-platform-fails-at-scale-and-how-we-fixed-it-1j5f)
+- [🚀 Day 31 of My Automation Journey – IntelliJ Setup, GitHub Copilot &amp; Developer Tools](https://dev.to/bala_d_kaveri/day-31-of-my-automation-journey-intellij-setup-github-copilot-developer-tools-4jm9)
+- [Claude Opus 4.7: What Actually Changed for Agentic Coding](https://dev.to/speedy_devv/claude-opus-47-what-actually-changed-for-agentic-coding-4i27)
+- [How I built a Game Theory engine in C++](https://dev.to/ferruscpp/how-i-built-a-game-theory-engine-in-c-10k9)
+- [I&#39;ve shipped 17 iOS apps in the last 6 months as a solo founder. Here&#39;s what I&#39;ve learned.](https://dev.to/supamrvl/ive-shipped-17-ios-apps-in-the-last-6-months-as-a-solo-founder-heres-what-ive-learned-47do)
 <!-- BLOG-POST-LIST:END -->
 
