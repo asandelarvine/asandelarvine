@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Audit Who Did What in Your Multi-Tenant App: Building an Activity Log With Convex and Kinde](https://dev.to/sholajegede/how-to-audit-who-did-what-in-your-multi-tenant-app-building-an-activity-log-with-convex-and-kinde-4n25)
-- [Amazon Consent Signal &lpar;ACS&rpar;: What It Is, How It Breaks, and How to Fix It at the Tag Level](https://dev.to/mehwish_malik_4f29ff7fb04/amazon-consent-signal-acs-what-it-is-how-it-breaks-and-how-to-fix-it-at-the-tag-level-1oid)
-- [Intro to React: Why Everyone’s Switching &lpar;And Why You Might Too&rpar;](https://dev.to/kathirvel-s/intro-to-react-why-everyones-switching-and-why-you-might-too-29mh)
-- [From RPA to Data Thinking: Building a High-Scale Payment Processing System](https://dev.to/kunal_deshmukh_175f888b9a/from-rpa-to-data-thinking-building-a-high-scale-payment-processing-system-3lld)
+- [When](https://dev.to/robertatkinson3570/when-e3)
+- [We Scanned 200 SMB Domains. Here&#39;s What We Found.](https://dev.to/compliancelayer/we-scanned-200-smb-domains-heres-what-we-found-3abc)
+- [Benchmarking Memoria on LongMemEval: Strong Memory Retrieval, Clear Reader Separation](https://dev.to/origin_matrix_b790e656217/benchmarking-memoria-on-longmemeval-strong-memory-retrieval-clear-reader-separation-435b)
+- [Stop Googling &#39;Can I Use That AI Feature on the Free Plan&#39;](https://dev.to/snapsynapse/stop-googling-can-i-use-that-ai-feature-on-the-free-plan-5k)
 <!-- BLOG-POST-LIST:END -->
 
