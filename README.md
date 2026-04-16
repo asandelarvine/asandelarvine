@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Database Optimization Strategies That Cut Query Execution Time by 60%: A Practical Guide](https://dev.to/oluwatosinolamilekan/database-optimization-strategies-that-cut-query-execution-time-by-60-a-practical-guide-4786)
-- [HTTP 402 waited 27 years for this moment: the x402 Foundation and the agent economy](https://dev.to/aaron_schnieder_4563d5d33/http-402-waited-27-years-for-this-moment-the-x402-foundation-and-the-agent-economy-db9)
-- [How WooCommerce Coupon Tracking Fails at Scale Without Automation](https://dev.to/nexuwp/how-woocommerce-coupon-tracking-fails-at-scale-without-automation-490n)
-- [Kubernetes Observability: What to Monitor and Why](https://dev.to/samson_tanimawo/kubernetes-observability-what-to-monitor-and-why-8ek)
+- [AIモデル ローカル実行 vs API: どちらを選ぶべき？](https://dev.to/aakira/aimoderu-rokarushi-xing-vs-api-dotirawoxuan-bubeki-1b3e)
+- [Building an XPath Query Tool in PHP — Slice XML Like a Pro](https://dev.to/sendotltd/building-an-xpath-query-tool-in-php-slice-xml-like-a-pro-3b39)
+- [The Norman Door Problem in AI Developer Tools](https://dev.to/whoffagents/the-norman-door-problem-in-ai-developer-tools-47am)
+- [Why Your Multi-Agent AI System Needs a PAX Protocol](https://dev.to/whoffagents/why-your-multi-agent-ai-system-needs-a-pax-protocol-253m)
 <!-- BLOG-POST-LIST:END -->
 
