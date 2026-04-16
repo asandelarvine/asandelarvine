@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When](https://dev.to/robertatkinson3570/when-e3)
-- [We Scanned 200 SMB Domains. Here&#39;s What We Found.](https://dev.to/compliancelayer/we-scanned-200-smb-domains-heres-what-we-found-3abc)
-- [Benchmarking Memoria on LongMemEval: Strong Memory Retrieval, Clear Reader Separation](https://dev.to/origin_matrix_b790e656217/benchmarking-memoria-on-longmemeval-strong-memory-retrieval-clear-reader-separation-435b)
-- [Stop Googling &#39;Can I Use That AI Feature on the Free Plan&#39;](https://dev.to/snapsynapse/stop-googling-can-i-use-that-ai-feature-on-the-free-plan-5k)
+- [Why LLM Cost Dashboards Are Not Enough — The Runtime Enforcement Gap](https://dev.to/amedinat/why-llm-cost-dashboards-are-not-enough-the-runtime-enforcement-gap-3fea)
+- [I synthesized 12 classic engineering books into an AI code reviewer — here&#39;s what it caught](https://dev.to/hyhmrright/i-synthesized-12-classic-engineering-books-into-an-ai-code-reviewer-heres-what-it-caught-3ed1)
+- [Why AI coding agents keep making the same mistakes &lpar;and how we fixed it&rpar;](https://dev.to/pekg/why-ai-coding-agents-keep-making-the-same-mistakes-and-how-we-fixed-it-ejh)
+- [Why Your AI Builder Platform Fails at Scale &lpar;And How We Fixed It&rpar;](https://dev.to/nometria_vibecoding/why-your-ai-builder-platform-fails-at-scale-and-how-we-fixed-it-1j5f)
 <!-- BLOG-POST-LIST:END -->
 
