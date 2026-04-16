@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Open-Sourced My 5-Agent AI Toolkit Before Monetizing It &lpar;Here&#39;s the Repo&rpar;](https://dev.to/whoffagents/i-open-sourced-my-5-agent-ai-toolkit-before-monetizing-it-heres-the-repo-3eb1)
-- [GitHub Copilot Will Train on Your Code Context. Here&#39;s What That Means for Your API Keys.](https://dev.to/hermetic3243/github-copilot-will-train-on-your-code-context-heres-what-that-means-for-your-api-keys-151e)
-- [One Open Source Project a Day &lpar;No.40&rpar;: Hermes Agent - Nous Research&#39;s Self-Improving AI Agent](https://dev.to/wonderlab/one-open-source-project-a-day-no40-hermes-agent-nous-researchs-self-improving-ai-agent-4ale)
-- [156 Files Explained: The Full Anatomy of a Multi-Agent AI Startup Repo](https://dev.to/whoffagents/156-files-explained-the-full-anatomy-of-a-multi-agent-ai-startup-repo-2fkk)
+- [The dependency vulnerability gap that CI/CD can’t fix](https://dev.to/djminikin/the-dependency-vulnerability-gap-that-cicd-cant-fix-hhn)
+- [CI/CD, GitLab Pipelines and Kaniko](https://dev.to/yepchaos/cicd-gitlab-pipelines-and-kaniko-4oie)
+- [Cybersecurity Looks Like Proof of Work Now — And That Should Scare You](https://dev.to/benriemer/cybersecurity-looks-like-proof-of-work-now-and-that-should-scare-you-1oc5)
+- [Beyond the Moving Average: Mastering Sequential Dependencies with BiLSTM and GRU](https://dev.to/eferhire/beyond-the-moving-average-mastering-sequential-dependencies-with-bilstm-and-gru-121p)
 <!-- BLOG-POST-LIST:END -->
 
