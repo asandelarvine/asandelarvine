@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Day 31 of My Automation Journey – IntelliJ Setup, GitHub Copilot &amp; Developer Tools](https://dev.to/bala_d_kaveri/day-31-of-my-automation-journey-intellij-setup-github-copilot-developer-tools-4jm9)
-- [Claude Opus 4.7: What Actually Changed for Agentic Coding](https://dev.to/speedy_devv/claude-opus-47-what-actually-changed-for-agentic-coding-4i27)
-- [How I built a Game Theory engine in C++](https://dev.to/ferruscpp/how-i-built-a-game-theory-engine-in-c-10k9)
-- [I&#39;ve shipped 17 iOS apps in the last 6 months as a solo founder. Here&#39;s what I&#39;ve learned.](https://dev.to/supamrvl/ive-shipped-17-ios-apps-in-the-last-6-months-as-a-solo-founder-heres-what-ive-learned-47do)
+- [WSJF, Cost of Delay and Why Your Loudest Stakeholder Keeps Winning the Backlog Argument](https://dev.to/aralroca/wsjf-cost-of-delay-and-why-your-loudest-stakeholder-keeps-winning-the-backlog-argument-2ggf)
+- [Compliance as an engineering problem: building an open-source Information Security, Privacy and AI Governance Platform](https://dev.to/isms-core-adm/compliance-as-an-engineering-problem-building-an-open-source-information-security-privacy-and-ai-2j18)
+- [Migrating a Terraform Module to Ephemeral Resources Without Breaking Existing Users](https://dev.to/drewmullen/migrating-a-terraform-module-to-ephemeral-resources-without-breaking-existing-users-l58)
+- [Kiwi-chan Progress Report: Steady Mining!](https://dev.to/kiwi_tech/kiwi-chan-progress-report-steady-mining-2m6f)
 <!-- BLOG-POST-LIST:END -->
 
