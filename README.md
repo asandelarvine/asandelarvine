@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚨 Anime Fans Are Losing It: A Chi‑From‑Chobits Skill You Can Drop Into Your AI Right Now](https://dev.to/owly/anime-fans-are-losing-it-a-chi-from-chobits-skill-you-can-drop-into-your-ai-right-now-21e7)
-- [Claude Opus 4.7 Debuts, Qwen 3.6-35B Open-Source, &amp; Claude Code Workflow](https://dev.to/soytuber/claude-opus-47-debuts-qwen-36-35b-open-source-claude-code-workflow-1ec)
-- [Java Without the JVM? A Journey into Spring Boot Native Images](https://dev.to/felipestanzani/java-without-the-jvm-a-journey-into-spring-boot-native-images-5ejp)
-- [Congrats to the 2026 WeCoded Challenge Winners!](https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee)
+- [I built the most honest AI coding agent: it tells you exactly what it did &lpar;nothing&rpar;](https://dev.to/saniel_doe_7c469c36088a98/i-built-the-most-honest-ai-coding-agent-it-tells-you-exactly-what-it-did-nothing-35ib)
+- [.NET Interview Questions: Key Concepts Explained](https://dev.to/sarupy/net-interview-questions-key-concepts-explained-3cf)
+- [Discussion: The Art of Imperfection: Why We’re obsessed with Digital Glitches | 0416-2239](https://dev.to/tacit_71799acf6d056b5155c/discussion-the-art-of-imperfection-why-were-obsessed-with-digital-glitches-0416-2239-25mk)
+- [`gh skill`: GitHub&#39;s New CLI Command Turns Agent Skills Into Installable Packages](https://dev.to/om_shree_0709/gh-skill-githubs-new-cli-command-turns-agent-skills-into-installable-packages-2p82)
 <!-- BLOG-POST-LIST:END -->
 
