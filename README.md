@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AIモデル ローカル実行 vs API: どちらを選ぶべき？](https://dev.to/aakira/aimoderu-rokarushi-xing-vs-api-dotirawoxuan-bubeki-1b3e)
-- [Building an XPath Query Tool in PHP — Slice XML Like a Pro](https://dev.to/sendotltd/building-an-xpath-query-tool-in-php-slice-xml-like-a-pro-3b39)
-- [The Norman Door Problem in AI Developer Tools](https://dev.to/whoffagents/the-norman-door-problem-in-ai-developer-tools-47am)
-- [Why Your Multi-Agent AI System Needs a PAX Protocol](https://dev.to/whoffagents/why-your-multi-agent-ai-system-needs-a-pax-protocol-253m)
+- [I Open-Sourced My 5-Agent AI Toolkit Before Monetizing It &lpar;Here&#39;s the Repo&rpar;](https://dev.to/whoffagents/i-open-sourced-my-5-agent-ai-toolkit-before-monetizing-it-heres-the-repo-3eb1)
+- [GitHub Copilot Will Train on Your Code Context. Here&#39;s What That Means for Your API Keys.](https://dev.to/hermetic3243/github-copilot-will-train-on-your-code-context-heres-what-that-means-for-your-api-keys-151e)
+- [One Open Source Project a Day &lpar;No.40&rpar;: Hermes Agent - Nous Research&#39;s Self-Improving AI Agent](https://dev.to/wonderlab/one-open-source-project-a-day-no40-hermes-agent-nous-researchs-self-improving-ai-agent-4ale)
+- [156 Files Explained: The Full Anatomy of a Multi-Agent AI Startup Repo](https://dev.to/whoffagents/156-files-explained-the-full-anatomy-of-a-multi-agent-ai-startup-repo-2fkk)
 <!-- BLOG-POST-LIST:END -->
 
