@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The dependency vulnerability gap that CI/CD can’t fix](https://dev.to/djminikin/the-dependency-vulnerability-gap-that-cicd-cant-fix-hhn)
-- [CI/CD, GitLab Pipelines and Kaniko](https://dev.to/yepchaos/cicd-gitlab-pipelines-and-kaniko-4oie)
-- [Cybersecurity Looks Like Proof of Work Now — And That Should Scare You](https://dev.to/benriemer/cybersecurity-looks-like-proof-of-work-now-and-that-should-scare-you-1oc5)
-- [Beyond the Moving Average: Mastering Sequential Dependencies with BiLSTM and GRU](https://dev.to/eferhire/beyond-the-moving-average-mastering-sequential-dependencies-with-bilstm-and-gru-121p)
+- [📣 Calling all AI builders in Munich!](https://dev.to/julie_wise_wandb/calling-all-ai-builders-in-munich-247m)
+- [Notifying Admins When Users Confirm Their Email — The Right Way with Supabase and Next.js&quot;](https://dev.to/frankmendez/notifying-admins-when-users-confirm-their-email-the-right-way-with-supabase-and-nextjs-23o6)
+- [Client side audio transcription using Parakeet v3 and WebGPU](https://dev.to/maikidev/client-side-audio-transcription-using-parakeet-v3-and-webgpu-1916)
+- [Best AI Gateway to Route Codex CLI to Any Model](https://dev.to/pranay_batta/best-ai-gateway-to-route-codex-cli-to-any-model-4640)
 <!-- BLOG-POST-LIST:END -->
 
