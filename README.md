@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [📣 Calling all AI builders in Munich!](https://dev.to/julie_wise_wandb/calling-all-ai-builders-in-munich-247m)
-- [Notifying Admins When Users Confirm Their Email — The Right Way with Supabase and Next.js&quot;](https://dev.to/frankmendez/notifying-admins-when-users-confirm-their-email-the-right-way-with-supabase-and-nextjs-23o6)
-- [Client side audio transcription using Parakeet v3 and WebGPU](https://dev.to/maikidev/client-side-audio-transcription-using-parakeet-v3-and-webgpu-1916)
-- [Best AI Gateway to Route Codex CLI to Any Model](https://dev.to/pranay_batta/best-ai-gateway-to-route-codex-cli-to-any-model-4640)
+- [How to Audit Who Did What in Your Multi-Tenant App: Building an Activity Log With Convex and Kinde](https://dev.to/sholajegede/how-to-audit-who-did-what-in-your-multi-tenant-app-building-an-activity-log-with-convex-and-kinde-4n25)
+- [Amazon Consent Signal &lpar;ACS&rpar;: What It Is, How It Breaks, and How to Fix It at the Tag Level](https://dev.to/mehwish_malik_4f29ff7fb04/amazon-consent-signal-acs-what-it-is-how-it-breaks-and-how-to-fix-it-at-the-tag-level-1oid)
+- [Intro to React: Why Everyone’s Switching &lpar;And Why You Might Too&rpar;](https://dev.to/kathirvel-s/intro-to-react-why-everyones-switching-and-why-you-might-too-29mh)
+- [From RPA to Data Thinking: Building a High-Scale Payment Processing System](https://dev.to/kunal_deshmukh_175f888b9a/from-rpa-to-data-thinking-building-a-high-scale-payment-processing-system-3lld)
 <!-- BLOG-POST-LIST:END -->
 
