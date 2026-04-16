@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built the most honest AI coding agent: it tells you exactly what it did &lpar;nothing&rpar;](https://dev.to/saniel_doe_7c469c36088a98/i-built-the-most-honest-ai-coding-agent-it-tells-you-exactly-what-it-did-nothing-35ib)
-- [.NET Interview Questions: Key Concepts Explained](https://dev.to/sarupy/net-interview-questions-key-concepts-explained-3cf)
-- [Discussion: The Art of Imperfection: Why We’re obsessed with Digital Glitches | 0416-2239](https://dev.to/tacit_71799acf6d056b5155c/discussion-the-art-of-imperfection-why-were-obsessed-with-digital-glitches-0416-2239-25mk)
-- [`gh skill`: GitHub&#39;s New CLI Command Turns Agent Skills Into Installable Packages](https://dev.to/om_shree_0709/gh-skill-githubs-new-cli-command-turns-agent-skills-into-installable-packages-2p82)
+- [Spec-Driven, AI-Assisted, Test-Validated — A Practitioner&#39;s Account](https://dev.to/kadetr/spec-driven-ai-assisted-test-validated-a-practitioners-account-3gd4)
+- [Security and String Interpolation](https://dev.to/cwprogram/security-and-string-interpolation-175)
+- [I got tired of writing the same CDK wiring, so I built simple-cdk](https://dev.to/pujaaan/i-got-tired-of-writing-the-same-cdk-wiring-so-i-built-simple-cdk-obg)
+- [I Let an AI Agent Supervisor Run Unattended for 19 Days. Here&#39;s What the Telemetry Says.](https://dev.to/battyterm/i-let-an-ai-agent-supervisor-run-unattended-for-19-days-heres-what-the-telemetry-says-5f5i)
 <!-- BLOG-POST-LIST:END -->
 
