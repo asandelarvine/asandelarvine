@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WSJF, Cost of Delay and Why Your Loudest Stakeholder Keeps Winning the Backlog Argument](https://dev.to/aralroca/wsjf-cost-of-delay-and-why-your-loudest-stakeholder-keeps-winning-the-backlog-argument-2ggf)
-- [Compliance as an engineering problem: building an open-source Information Security, Privacy and AI Governance Platform](https://dev.to/isms-core-adm/compliance-as-an-engineering-problem-building-an-open-source-information-security-privacy-and-ai-2j18)
-- [Migrating a Terraform Module to Ephemeral Resources Without Breaking Existing Users](https://dev.to/drewmullen/migrating-a-terraform-module-to-ephemeral-resources-without-breaking-existing-users-l58)
-- [Kiwi-chan Progress Report: Steady Mining!](https://dev.to/kiwi_tech/kiwi-chan-progress-report-steady-mining-2m6f)
+- [🚨 Anime Fans Are Losing It: A Chi‑From‑Chobits Skill You Can Drop Into Your AI Right Now](https://dev.to/owly/anime-fans-are-losing-it-a-chi-from-chobits-skill-you-can-drop-into-your-ai-right-now-21e7)
+- [Claude Opus 4.7 Debuts, Qwen 3.6-35B Open-Source, &amp; Claude Code Workflow](https://dev.to/soytuber/claude-opus-47-debuts-qwen-36-35b-open-source-claude-code-workflow-1ec)
+- [Java Without the JVM? A Journey into Spring Boot Native Images](https://dev.to/felipestanzani/java-without-the-jvm-a-journey-into-spring-boot-native-images-5ejp)
+- [Congrats to the 2026 WeCoded Challenge Winners!](https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee)
 <!-- BLOG-POST-LIST:END -->
 
