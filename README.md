@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Transformers Part 9: Stacking Self-Attention Layers](https://dev.to/rijultp/understanding-transformers-part-9-stacking-self-attention-layers-3gg3)
-- [ReactJs Performance ~ State Management~](https://dev.to/kkr0423/reactjs-performance-state-management-3bj2)
-- [Backend Developer Roadmap 2026: The Technologies You Need to Master](https://dev.to/quillai/backend-developer-roadmap-2026-the-technologies-you-need-to-master-5h92)
-- [GHSA-92JP-89MQ-4374: GHSA-92JP-89MQ-4374: Unauthenticated Sandbox Access and Context Leakage in OpenClaw](https://dev.to/cverports/ghsa-92jp-89mq-4374-ghsa-92jp-89mq-4374-unauthenticated-sandbox-access-and-context-leakage-in-56k5)
+- [My Kubernetes Mastery Journey: Installing Local Kubernetes Clusters](https://dev.to/rahimah_dev/my-kubernetes-mastery-journey-installing-local-kubernetes-clusters-176)
+- [I built an AI log monitor for my homelab — local LLM reads my *arr logs so I don&#39;t have to](https://dev.to/pdegidio/i-built-an-ai-log-monitor-for-my-homelab-local-llm-reads-my-arr-logs-so-i-dont-have-to-503n)
+- [Qwen3.6 GGUF, RTX 4080 Cooling &amp; Pragmata GPU Benchmarks Drive Performance](https://dev.to/soytuber/qwen36-gguf-rtx-4080-cooling-pragmata-gpu-benchmarks-drive-performance-46d3)
+- [Claude Design, Opus 4.7 Regression, GPT-5.3 &amp; KIMI K2 Benchmarks](https://dev.to/soytuber/claude-design-opus-47-regression-gpt-53-kimi-k2-benchmarks-c21)
 <!-- BLOG-POST-LIST:END -->
 
