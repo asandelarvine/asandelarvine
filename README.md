@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested 5 AI Image Generators Head to Head &lpar;Only 2 Shipped&rpar;](https://dev.to/raxxostudios/i-tested-5-ai-image-generators-head-to-head-only-2-shipped-bp8)
-- [MiniStack Now Emulates Amazon EKS — Free, Open-Source AWS Emulator v1.2.20](https://dev.to/nahuel990/ministack-now-emulates-amazon-eks-free-open-source-aws-emulator-v1220-2900)
-- [AngleCore / ENGO Core and # AI Doesn’t Need Better Prompts. It Needs Better Patterns.](https://dev.to/peacebinflow/anglecore-engo-core-and-ai-doesnt-need-better-prompts-it-needs-better-patterns-3o18)
-- [Tutorial: Build an AI-Powered GPU Fleet Optimizer](https://dev.to/digitalocean/tutorial-build-an-ai-powered-gpu-fleet-optimizer-8bl)
+- [Understanding Transformers Part 9: Stacking Self-Attention Layers](https://dev.to/rijultp/understanding-transformers-part-9-stacking-self-attention-layers-3gg3)
+- [ReactJs Performance ~ State Management~](https://dev.to/kkr0423/reactjs-performance-state-management-3bj2)
+- [Backend Developer Roadmap 2026: The Technologies You Need to Master](https://dev.to/quillai/backend-developer-roadmap-2026-the-technologies-you-need-to-master-5h92)
+- [GHSA-92JP-89MQ-4374: GHSA-92JP-89MQ-4374: Unauthenticated Sandbox Access and Context Leakage in OpenClaw](https://dev.to/cverports/ghsa-92jp-89mq-4374-ghsa-92jp-89mq-4374-unauthenticated-sandbox-access-and-context-leakage-in-56k5)
 <!-- BLOG-POST-LIST:END -->
 
