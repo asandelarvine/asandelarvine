@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 4 Mistakes That Kill 80% of Enterprise AI Projects](https://dev.to/hemangjoshi37a/the-4-mistakes-that-kill-80-of-enterprise-ai-projects-21f5)
-- [Claude Code forgot my architecture 3 times last week. I fixed it with one SQLite file.](https://dev.to/thestack_ai/claude-code-forgot-my-architecture-3-times-last-week-i-fixed-it-with-one-sqlite-file-253d)
-- [I got tired of every &quot;draggable&quot; library being 30KB and opinionated about my CSS - so I built react-driftkit](https://dev.to/shakcho/i-got-tired-of-every-draggable-library-being-30kb-and-opinionated-about-my-css-so-i-built-2k9i)
-- [Mastering Cloud Policy &amp; Governance with Terraform](https://dev.to/vatul16/mastering-cloud-policy-governance-with-terraform-cl4)
+- [The Ultimate Container Showdown Choosing Between Alpine and Distroless](https://dev.to/mechcloud_academy/the-ultimate-container-showdown-choosing-between-alpine-and-distroless-ipd)
+- [The 270-Second Rule: How to Cut Claude Code API Costs by 90% with Smart](https://dev.to/gentic_news/the-270-second-rule-how-to-cut-claude-code-api-costs-by-90-with-smart-2b2)
+- [Running LLM Classification After the Response: Next.js after&lpar;&rpar; + OpenRouter at $0.0002 per Call](https://dev.to/lovanaut55/running-llm-classification-after-the-response-nextjs-after-openrouter-at-00002-per-call-2efh)
+- [Tasks that don&#39;t make sense](https://dev.to/raphink/tasks-that-dont-make-sense-26k3)
 <!-- BLOG-POST-LIST:END -->
 
