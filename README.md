@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Structure-Driven Organization Theory #3 — A Structural Model of People](https://dev.to/machuz/structure-driven-organization-theory-3-a-structural-model-of-people-2okk)
-- [Structure-Driven Organization Theory #2 — Output as Structure](https://dev.to/machuz/structure-driven-organization-theory-2-output-as-structure-42ej)
-- [Structure-Driven Organization Theory #1 — The Concept of Observation](https://dev.to/machuz/structure-driven-organization-theory-1-the-concept-of-observation-5352)
-- [When Data Isn’t Enough: Designing a UI That Makes Climate Risk Feel Real](https://dev.to/sevasu77/when-data-isnt-enough-designing-a-ui-that-makes-climate-risk-feel-real-1i3n)
+- [The 4 Mistakes That Kill 80% of Enterprise AI Projects](https://dev.to/hemangjoshi37a/the-4-mistakes-that-kill-80-of-enterprise-ai-projects-21f5)
+- [Claude Code forgot my architecture 3 times last week. I fixed it with one SQLite file.](https://dev.to/thestack_ai/claude-code-forgot-my-architecture-3-times-last-week-i-fixed-it-with-one-sqlite-file-253d)
+- [I got tired of every &quot;draggable&quot; library being 30KB and opinionated about my CSS - so I built react-driftkit](https://dev.to/shakcho/i-got-tired-of-every-draggable-library-being-30kb-and-opinionated-about-my-css-so-i-built-2k9i)
+- [Mastering Cloud Policy &amp; Governance with Terraform](https://dev.to/vatul16/mastering-cloud-policy-governance-with-terraform-cl4)
 <!-- BLOG-POST-LIST:END -->
 
