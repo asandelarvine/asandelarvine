@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Performance vs Security: How Much Latency Does a Web Application Firewall Actually Add?](https://dev.to/meowth/performance-vs-security-how-much-latency-does-a-web-application-firewall-actually-add-36b1)
-- [Is There a Make.com FFmpeg Module? &lpar;And How to Use It&rpar;](https://dev.to/javidjamae/is-there-a-makecom-ffmpeg-module-and-how-to-use-it-1ic6)
-- [数字生命的持久记忆系统设计与实现](https://dev.to/lkk90/shu-zi-sheng-ming-de-chi-jiu-ji-yi-xi-tong-she-ji-yu-shi-xian-f4j)
-- [Building an Automated Invoice Processing Pipeline with Node.js](https://dev.to/toolkitonline/building-an-automated-invoice-processing-pipeline-with-nodejs-3bkj)
+- [I Dumped Linux&#39;s Entire Git History Into a Database — and What I Found Felt Like Archaeology](https://dev.to/jtorchia/i-dumped-linuxs-entire-git-history-into-a-database-and-what-i-found-felt-like-archaeology-4n66)
+- [Understanding Middleware Pipeline in ASP.NET Core &lpar;Simple Explanation&rpar;](https://dev.to/raghav_thaman/understanding-middleware-pipeline-in-aspnet-core-simple-explanation-420h)
+- [Project Glasswing: What AI Doesn&#39;t Tell You When It Writes Your Code](https://dev.to/jtorchia/project-glasswing-what-ai-doesnt-tell-you-when-it-writes-your-code-3lp)
+- [MegaTrain: Training 100B+ Parameter LLMs on a Single GPU &lpar;And Why I Had to Close My Laptop&rpar;](https://dev.to/jtorchia/megatrain-training-100b-parameter-llms-on-a-single-gpu-and-why-i-had-to-close-my-laptop-47b0)
 <!-- BLOG-POST-LIST:END -->
 
