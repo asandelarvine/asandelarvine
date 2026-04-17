@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Verify an AI Governance Claim Across Six Blockchains in Five Minutes &lpar;Without Trusting the Vendor&rpar;](https://dev.to/guardianchain/verify-an-ai-governance-claim-across-six-blockchains-in-five-minutes-without-trusting-the-vendor-500n)
-- [Local Voice-Controlled AI Agent &lpar;Whisper + Ollama + Streamlit&rpar;](https://dev.to/jessica_ekka_c7a605f5a2ee/local-voice-controlled-ai-agent-whisper-ollama-streamlit-6ac)
-- [CLAUDE.md: the file that makes AI actually remember what you built and why](https://dev.to/alvarito1983/claudemd-the-file-that-makes-ai-actually-remember-what-you-built-and-why-228d)
-- [Transaction boundaries in Django: where consistency really ends](https://dev.to/eraefi/transaction-boundaries-in-django-where-consistency-really-ends-4ilh)
+- [Building a Multi-Language Pokémon Fansite with Next.js 16 &lpar;en/ja/ko/zh&rpar;](https://dev.to/tryonfy/building-a-multi-language-pokemon-fansite-with-nextjs-16-enjakozh-4en8)
+- [What AI-Assisted Development Actually Looks Like in Two Years](https://dev.to/brian_c_d9f4c2cf20a5ee57d/what-ai-assisted-development-actually-looks-like-in-two-years-2059)
+- [Claude Opus 4.7 Is Here. Mythos Is Not. Here&#39;s the Difference.](https://dev.to/canceylan1988/claude-opus-47-is-here-mythos-is-not-heres-the-difference-3pio)
+- [I Built a 7-Agent Prompt Framework, Then Used It to Debug Its Own Output](https://dev.to/taaar1k/i-built-a-7-agent-prompt-framework-then-used-it-to-debug-its-own-output-4b3c)
 <!-- BLOG-POST-LIST:END -->
 
