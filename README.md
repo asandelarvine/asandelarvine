@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zod v4 vs Valibot: Runtime Validation in 2026 &lpar;I Benchmarked Both&rpar;](https://dev.to/whoffagents/zod-v4-vs-valibot-runtime-validation-in-2026-i-benchmarked-both-3jnc)
-- [Personal Assistant Role: One Search Across Email and Notes](https://dev.to/alexmikhalev/personal-assistant-role-one-search-across-email-and-notes-5691)
-- [Building an Open Bilingual Q&amp;A Dataset for Swedish Construction Law &lpar;503 entries, CC BY 4.0&rpar;](https://dev.to/c_d_084d360f424581c9995/building-an-open-bilingual-qa-dataset-for-swedish-construction-law-503-entries-cc-by-40-1c51)
-- [I Built a Multi-Agent Research Pipeline That Catches AI Confabulation Before It Reaches My Users](https://dev.to/mrclaw207/i-built-a-multi-agent-research-pipeline-that-catches-ai-confabulation-before-it-reaches-my-users-26lm)
+- [Verify an AI Governance Claim Across Six Blockchains in Five Minutes &lpar;Without Trusting the Vendor&rpar;](https://dev.to/guardianchain/verify-an-ai-governance-claim-across-six-blockchains-in-five-minutes-without-trusting-the-vendor-500n)
+- [Local Voice-Controlled AI Agent &lpar;Whisper + Ollama + Streamlit&rpar;](https://dev.to/jessica_ekka_c7a605f5a2ee/local-voice-controlled-ai-agent-whisper-ollama-streamlit-6ac)
+- [CLAUDE.md: the file that makes AI actually remember what you built and why](https://dev.to/alvarito1983/claudemd-the-file-that-makes-ai-actually-remember-what-you-built-and-why-228d)
+- [Transaction boundaries in Django: where consistency really ends](https://dev.to/eraefi/transaction-boundaries-in-django-where-consistency-really-ends-4ilh)
 <!-- BLOG-POST-LIST:END -->
 
