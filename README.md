@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SOLID&#39;s Packaging Principles Are Jointly Unsatisfiable](https://dev.to/yannick555/solids-packaging-principles-are-jointly-unsatisfiable-27mh)
-- [Mastering Git &amp; Github &lpar;12 most useful Git commands&rpar;](https://dev.to/codewithshahan/mastering-git-github-12-most-useful-git-commands-3l70)
-- [Using Gemini CLI with Vertex AI &lpar;Without Worrying About Your Data&rpar;](https://dev.to/hasanmn/using-gemini-cli-with-vertex-ai-without-worrying-about-your-data-4jb)
-- [How I sent 100 cold emails as a founder and none went to spam &lpar;2026 edition&rpar;](https://dev.to/tryevaluator/how-i-sent-100-cold-emails-as-a-founder-and-none-went-to-spam-2026-edition-4h3m)
+- [We raised $6.5M to kill vector databases... and it&#39;s been exactly 4 weeks. Here&#39;s what&#39;s actually happening.](https://dev.to/iharnoor/we-raised-65m-to-kill-vector-databases-and-its-been-exactly-4-weeks-heres-whats-actually-5d46)
+- [Challenge : 2 The Project Selection Trap](https://dev.to/priya_sajja_c336921bbda87/challenge-2-the-project-selection-trap-3okm)
+- [Why Azure Container Apps for AI Workloads](https://dev.to/bspann/why-azure-container-apps-for-ai-workloads-2djm)
+- [From Pixels to Predictions: Data Pipelines and Training the Sequence Model &lpar;Part 2&rpar;](https://dev.to/_iametornam/from-pixels-to-predictions-data-pipelines-and-training-the-sequence-model-part-2-217d)
 <!-- BLOG-POST-LIST:END -->
 
