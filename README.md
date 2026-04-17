@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Container Showdown Choosing Between Alpine and Distroless](https://dev.to/mechcloud_academy/the-ultimate-container-showdown-choosing-between-alpine-and-distroless-ipd)
-- [The 270-Second Rule: How to Cut Claude Code API Costs by 90% with Smart](https://dev.to/gentic_news/the-270-second-rule-how-to-cut-claude-code-api-costs-by-90-with-smart-2b2)
-- [Running LLM Classification After the Response: Next.js after&lpar;&rpar; + OpenRouter at $0.0002 per Call](https://dev.to/lovanaut55/running-llm-classification-after-the-response-nextjs-after-openrouter-at-00002-per-call-2efh)
-- [Tasks that don&#39;t make sense](https://dev.to/raphink/tasks-that-dont-make-sense-26k3)
+- [Performance vs Security: How Much Latency Does a Web Application Firewall Actually Add?](https://dev.to/meowth/performance-vs-security-how-much-latency-does-a-web-application-firewall-actually-add-36b1)
+- [Is There a Make.com FFmpeg Module? &lpar;And How to Use It&rpar;](https://dev.to/javidjamae/is-there-a-makecom-ffmpeg-module-and-how-to-use-it-1ic6)
+- [数字生命的持久记忆系统设计与实现](https://dev.to/lkk90/shu-zi-sheng-ming-de-chi-jiu-ji-yi-xi-tong-she-ji-yu-shi-xian-f4j)
+- [Building an Automated Invoice Processing Pipeline with Node.js](https://dev.to/toolkitonline/building-an-automated-invoice-processing-pipeline-with-nodejs-3bkj)
 <!-- BLOG-POST-LIST:END -->
 
