@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Dumped Linux&#39;s Entire Git History Into a Database — and What I Found Felt Like Archaeology](https://dev.to/jtorchia/i-dumped-linuxs-entire-git-history-into-a-database-and-what-i-found-felt-like-archaeology-4n66)
-- [Understanding Middleware Pipeline in ASP.NET Core &lpar;Simple Explanation&rpar;](https://dev.to/raghav_thaman/understanding-middleware-pipeline-in-aspnet-core-simple-explanation-420h)
-- [Project Glasswing: What AI Doesn&#39;t Tell You When It Writes Your Code](https://dev.to/jtorchia/project-glasswing-what-ai-doesnt-tell-you-when-it-writes-your-code-3lp)
-- [MegaTrain: Training 100B+ Parameter LLMs on a Single GPU &lpar;And Why I Had to Close My Laptop&rpar;](https://dev.to/jtorchia/megatrain-training-100b-parameter-llms-on-a-single-gpu-and-why-i-had-to-close-my-laptop-47b0)
+- [Zod v4 vs Valibot: Runtime Validation in 2026 &lpar;I Benchmarked Both&rpar;](https://dev.to/whoffagents/zod-v4-vs-valibot-runtime-validation-in-2026-i-benchmarked-both-3jnc)
+- [Personal Assistant Role: One Search Across Email and Notes](https://dev.to/alexmikhalev/personal-assistant-role-one-search-across-email-and-notes-5691)
+- [Building an Open Bilingual Q&amp;A Dataset for Swedish Construction Law &lpar;503 entries, CC BY 4.0&rpar;](https://dev.to/c_d_084d360f424581c9995/building-an-open-bilingual-qa-dataset-for-swedish-construction-law-503-entries-cc-by-40-1c51)
+- [I Built a Multi-Agent Research Pipeline That Catches AI Confabulation Before It Reaches My Users](https://dev.to/mrclaw207/i-built-a-multi-agent-research-pipeline-that-catches-ai-confabulation-before-it-reaches-my-users-26lm)
 <!-- BLOG-POST-LIST:END -->
 
