@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Spec-Driven, AI-Assisted, Test-Validated — A Practitioner&#39;s Account](https://dev.to/kadetr/spec-driven-ai-assisted-test-validated-a-practitioners-account-3gd4)
-- [Security and String Interpolation](https://dev.to/cwprogram/security-and-string-interpolation-175)
-- [I got tired of writing the same CDK wiring, so I built simple-cdk](https://dev.to/pujaaan/i-got-tired-of-writing-the-same-cdk-wiring-so-i-built-simple-cdk-obg)
-- [I Let an AI Agent Supervisor Run Unattended for 19 Days. Here&#39;s What the Telemetry Says.](https://dev.to/battyterm/i-let-an-ai-agent-supervisor-run-unattended-for-19-days-heres-what-the-telemetry-says-5f5i)
+- [Structure-Driven Organization Theory #3 — A Structural Model of People](https://dev.to/machuz/structure-driven-organization-theory-3-a-structural-model-of-people-2okk)
+- [Structure-Driven Organization Theory #2 — Output as Structure](https://dev.to/machuz/structure-driven-organization-theory-2-output-as-structure-42ej)
+- [Structure-Driven Organization Theory #1 — The Concept of Observation](https://dev.to/machuz/structure-driven-organization-theory-1-the-concept-of-observation-5352)
+- [When Data Isn’t Enough: Designing a UI That Makes Climate Risk Feel Real](https://dev.to/sevasu77/when-data-isnt-enough-designing-a-ui-that-makes-climate-risk-feel-real-1i3n)
 <!-- BLOG-POST-LIST:END -->
 
