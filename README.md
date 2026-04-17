@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Personal AI Assistant with OpenClaw](https://dev.to/darlington_mbawike_9a7a87/i-built-a-personal-ai-assistant-with-openclaw-4c41)
-- [5 self-hosted ebook managers worth trying in 2026](https://dev.to/productimpossible/5-self-hosted-ebook-managers-worth-trying-in-2026-59hn)
-- [Building Your First AI Agent with LangChain: From Chatbot to Autonomous Assistant](https://dev.to/kumail_dev110/building-your-first-ai-agent-with-langchain-from-chatbot-to-autonomous-assistant-263h)
-- [Common SOC 2 Failures &lpar;Real World&rpar;](https://dev.to/aditya_khare_cfee26fcf7c8/common-soc-2-failures-real-world-18oh)
+- [I Tested 5 AI Image Generators Head to Head &lpar;Only 2 Shipped&rpar;](https://dev.to/raxxostudios/i-tested-5-ai-image-generators-head-to-head-only-2-shipped-bp8)
+- [MiniStack Now Emulates Amazon EKS — Free, Open-Source AWS Emulator v1.2.20](https://dev.to/nahuel990/ministack-now-emulates-amazon-eks-free-open-source-aws-emulator-v1220-2900)
+- [AngleCore / ENGO Core and # AI Doesn’t Need Better Prompts. It Needs Better Patterns.](https://dev.to/peacebinflow/anglecore-engo-core-and-ai-doesnt-need-better-prompts-it-needs-better-patterns-3o18)
+- [Tutorial: Build an AI-Powered GPU Fleet Optimizer](https://dev.to/digitalocean/tutorial-build-an-ai-powered-gpu-fleet-optimizer-8bl)
 <!-- BLOG-POST-LIST:END -->
 
