@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Multi-Language Pokémon Fansite with Next.js 16 &lpar;en/ja/ko/zh&rpar;](https://dev.to/tryonfy/building-a-multi-language-pokemon-fansite-with-nextjs-16-enjakozh-4en8)
-- [What AI-Assisted Development Actually Looks Like in Two Years](https://dev.to/brian_c_d9f4c2cf20a5ee57d/what-ai-assisted-development-actually-looks-like-in-two-years-2059)
-- [Claude Opus 4.7 Is Here. Mythos Is Not. Here&#39;s the Difference.](https://dev.to/canceylan1988/claude-opus-47-is-here-mythos-is-not-heres-the-difference-3pio)
-- [I Built a 7-Agent Prompt Framework, Then Used It to Debug Its Own Output](https://dev.to/taaar1k/i-built-a-7-agent-prompt-framework-then-used-it-to-debug-its-own-output-4b3c)
+- [I Built a Personal AI Assistant with OpenClaw](https://dev.to/darlington_mbawike_9a7a87/i-built-a-personal-ai-assistant-with-openclaw-4c41)
+- [5 self-hosted ebook managers worth trying in 2026](https://dev.to/productimpossible/5-self-hosted-ebook-managers-worth-trying-in-2026-59hn)
+- [Building Your First AI Agent with LangChain: From Chatbot to Autonomous Assistant](https://dev.to/kumail_dev110/building-your-first-ai-agent-with-langchain-from-chatbot-to-autonomous-assistant-263h)
+- [Common SOC 2 Failures &lpar;Real World&rpar;](https://dev.to/aditya_khare_cfee26fcf7c8/common-soc-2-failures-real-world-18oh)
 <!-- BLOG-POST-LIST:END -->
 
