@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Examlock](https://dev.to/zheyuse/examlock-257m)
-- [A declarative CLI framework in Rust](https://dev.to/kuangren_chu_0ca6da848be4/a-declarative-cli-framework-in-rust-d8i)
-- [a claude code/codex plugin to run autoresearch on your repository](https://dev.to/alokbishoyi97/a-claude-codecodex-plugin-to-run-autoresearch-on-your-repository-45oa)
-- [I built a free Java practice playground with a built-in compiler — here&#39;s what I learned &lpar;and what&#39;s inside&rpar;](https://dev.to/priyanshu_rauth/i-built-a-free-java-practice-playground-with-a-built-in-compiler-heres-what-i-learned-and-1be0)
+- [Techn0tz Turns 1 — Help Shape What’s Next](https://dev.to/manjushaps/techn0tz-turns-1-help-shape-whats-next-5ehe)
+- [AWS Data &amp; AI Stories #02: Amazon Bedrock Data Automation](https://dev.to/aws-builders/aws-data-ai-stories-02-amazon-bedrock-data-automation-1gg7)
+- [Kubernetes v1.36 Drops April 22: What Platform Engineers Actually Need to Know](https://dev.to/mateenali66/kubernetes-v136-drops-april-22-what-platform-engineers-actually-need-to-know-3l81)
+- [I Did 2 Months of Work for a 2-Week Price — Here’s What I learned](https://dev.to/kenzicode/i-did-2-months-of-work-for-a-2-week-price-heres-what-i-learned-45gf)
 <!-- BLOG-POST-LIST:END -->
 
