@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Run a Weekly Threads Analytics Review From Claude &lpar;With a Custom Dashboard and Content Pillars&rpar;](https://dev.to/luca_restagno_acb4c68c5ca/run-a-weekly-threads-analytics-review-from-claude-with-a-custom-dashboard-and-content-pillars-1kmn)
-- [WebRTC vs WebSocket Explained: When to Use What &lpar;A Real-World Story&rpar;](https://dev.to/abdullahmubin/webrtc-vs-websocket-explained-when-to-use-what-a-real-world-story-5de9)
-- [How to Always Reply from Your Custom Domain Email in Gmail](https://dev.to/rdjarbeng/how-to-always-reply-from-your-custom-domain-email-in-gmail-9i5)
-- [Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage](https://dev.to/gde/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-4ik9)
+- [ETL vs ELT: Which one should you use and why?](https://dev.to/geraldm/etl-vs-elt-which-one-should-you-use-and-why-1j5i)
+- [AI, Hope, and Healing: Can We Build Our Own Personalized mRNA Cancer Vaccine Pipeline?](https://dev.to/auyeungdavid_2847435260/ai-hope-and-healing-can-we-build-our-own-personalized-mrna-cancer-vaccine-pipeline-3pbm)
+- [A Practical Guide to Evaluating Data Warehouses for Low-Latency Analytics &lpar;2026 Edition&rpar;](https://dev.to/engineersguide/a-practical-guide-to-evaluating-data-warehouses-for-low-latency-analytics-2026-edition-fk5)
+- [Stop copy-pasting project context: 4 stages of CLAUDE.md evolution](https://dev.to/kenimo49/stop-copy-pasting-project-context-4-stages-of-claudemd-evolution-86p)
 <!-- BLOG-POST-LIST:END -->
 
