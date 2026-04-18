@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a terminal snippet manager that stores snippets as Markdown files you can git-track](https://dev.to/phlx0/i-built-a-terminal-snippet-manager-that-stores-snippets-as-markdown-files-you-can-git-track-4ci9)
-- [Kawaii Greenhouse | Earth Day Edition 🏞️🌞🌸🌵](https://dev.to/megzlawther1/kawaii-greenhouse-earth-day-edition-3lcn)
-- [🌍 Planetary Pulse — AI-Powered Earth Dashboard with 6 Prize Tech Integrations](https://dev.to/mamoor123/planetary-pulse-ai-powered-earth-dashboard-with-6-prize-tech-integrations-18i2)
-- [Why Anomaly Detection Can&#39;t Block the Ingestion Pipeline](https://dev.to/kingsleyonoh/why-anomaly-detection-cant-block-the-ingestion-pipeline-3n42)
+- [FHE programs have precision bugs random testing can&#39;t find — here&#39;s an adversarial search tool that does](https://dev.to/bader82t/fhe-programs-have-precision-bugs-random-testing-cant-find-heres-an-adversarial-search-tool-that-1f75)
+- [Go Context Timeouts That Save Real Money](https://dev.to/speed_engineer/go-context-timeouts-that-save-real-money-4j95)
+- [Resurface Claude Code Usage Across Your Team with CloudWatch OTEL &lpar;No Lambda&rpar;](https://dev.to/aws-builders/resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i)
+- [Why I Built an AI Visibility Tool When Semrush Already Had One](https://dev.to/robertatkinson3570/why-i-built-an-ai-visibility-tool-when-semrush-already-had-one-1jo0)
 <!-- BLOG-POST-LIST:END -->
 
