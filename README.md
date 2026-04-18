@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PlanetLedger — Turning Spending Into Environmental Awareness](https://dev.to/ujja/planetledger-turning-spending-into-environmental-awareness-4b8f)
-- [How to collect system, service and kernel logs using Alloy, Loki and Grafana.](https://dev.to/thebluedrara/how-to-collect-system-service-and-kernel-logs-using-alloy-loki-and-grafana-24fk)
-- [Fully Automated Website Day 13: Thornwing Moth — First Flying Enemy and behavior: &quot;flying&quot; Branch](https://dev.to/dtannen/fully-automated-website-day-13-thornwing-moth-first-flying-enemy-and-behavior-flying-branch-fm)
-- [How we build AI receptionists for home service businesses - the full playbook](https://dev.to/nevermiss/how-we-build-ai-receptionists-for-home-service-businesses-the-full-playbook-26oc)
+- [Why I Built Yet Another AI Knowledge Tool &lpar;And How It&#39;s Different&rpar;](https://dev.to/akshay_kumarkataiah_d6e7/why-i-built-yet-another-ai-knowledge-tool-and-how-its-different-38b2)
+- [m2cgen: export your ML model without shipping Python to production](https://dev.to/jtorchia/m2cgen-export-your-ml-model-without-shipping-python-to-production-13j9)
+- [m2cgen: exportá tu modelo de ML sin llevar Python a producción](https://dev.to/jtorchia/m2cgen-exporta-tu-modelo-de-ml-sin-llevar-python-a-produccion-1e0g)
+- [The Zero-Impact Build: Why Writing Less Code is the Best Earth Day Project](https://dev.to/syedahmershah/the-zero-impact-build-why-writing-less-code-is-the-best-earth-day-project-2o5f)
 <!-- BLOG-POST-LIST:END -->
 
