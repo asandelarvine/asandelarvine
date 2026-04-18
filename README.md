@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FHE programs have precision bugs random testing can&#39;t find — here&#39;s an adversarial search tool that does](https://dev.to/bader82t/fhe-programs-have-precision-bugs-random-testing-cant-find-heres-an-adversarial-search-tool-that-1f75)
-- [Go Context Timeouts That Save Real Money](https://dev.to/speed_engineer/go-context-timeouts-that-save-real-money-4j95)
-- [Resurface Claude Code Usage Across Your Team with CloudWatch OTEL &lpar;No Lambda&rpar;](https://dev.to/aws-builders/resurface-claude-code-usage-across-your-team-with-cloudwatch-otel-no-lambda-4p0i)
-- [Why I Built an AI Visibility Tool When Semrush Already Had One](https://dev.to/robertatkinson3570/why-i-built-an-ai-visibility-tool-when-semrush-already-had-one-1jo0)
+- [I Built a Font Inspector Chrome Extension That Actually Identifies Japanese Fonts](https://dev.to/_350df62777eb55e1/i-built-a-font-inspector-chrome-extension-that-actually-identifies-japanese-fonts-50bd)
+- [Introducing Plumbed, self-healing integrations in days, not months](https://dev.to/sven_mrz_dfc2d01f06d7f20/introducing-plumbed-self-healing-integrations-in-days-not-months-1mm5)
+- [Built a simple DDNS service because existing ones felt too complicated. https://rjuip.com](https://dev.to/amit_vedante/built-a-simple-ddns-service-because-existing-ones-felt-too-complicated-httpsrjuipcom-2o0n)
+- [Your AI Isn’t Dumb. It Just Doesn’t Think Twice.](https://dev.to/saras_growth_space/your-ai-isnt-dumb-it-just-doesnt-think-twice-1nh4)
 <!-- BLOG-POST-LIST:END -->
 
