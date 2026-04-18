@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ETL vs ELT: Which one should you use and why?](https://dev.to/geraldm/etl-vs-elt-which-one-should-you-use-and-why-1j5i)
-- [AI, Hope, and Healing: Can We Build Our Own Personalized mRNA Cancer Vaccine Pipeline?](https://dev.to/auyeungdavid_2847435260/ai-hope-and-healing-can-we-build-our-own-personalized-mrna-cancer-vaccine-pipeline-3pbm)
-- [A Practical Guide to Evaluating Data Warehouses for Low-Latency Analytics &lpar;2026 Edition&rpar;](https://dev.to/engineersguide/a-practical-guide-to-evaluating-data-warehouses-for-low-latency-analytics-2026-edition-fk5)
-- [Stop copy-pasting project context: 4 stages of CLAUDE.md evolution](https://dev.to/kenimo49/stop-copy-pasting-project-context-4-stages-of-claudemd-evolution-86p)
+- [The RAG Chunking Strategy That Beat All the Trendy Ones in Production](https://dev.to/gabrielanhaia/the-rag-chunking-strategy-that-beat-all-the-trendy-ones-in-production-1en2)
+- [I Built a TikTok Downloader with Go — Here&#39;s What I Learned](https://dev.to/duc_t_356dc5761ba67044724/i-built-a-tiktok-downloader-with-go-heres-what-i-learned-o93)
+- [Beyond ChatGPT Wrappers: Building a Real Semantic Search API with ASP.NET Core and OpenAI Embeddings](https://dev.to/zeyadmohammed/beyond-chatgpt-wrappers-building-a-real-semantic-search-api-with-aspnet-core-and-openai-embeddings-5con)
+- [AI Vocal Remover Benchmark 2026: 6 Tools Tested with Python &lpar;SDR + Speed&rpar;](https://dev.to/stevecase430/ai-vocal-remover-benchmark-2026-6-tools-tested-with-python-sdr-speed-hl9)
 <!-- BLOG-POST-LIST:END -->
 
