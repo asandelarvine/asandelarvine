@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Defluffer - reduce token usage 📉 by 45% using this one simple trick! [Earthday challenge]](https://dev.to/grahamthedev/defluffer-reduce-token-usage-by-45-26jj)
-- [SQL Functions You Will Actually Use in Data Work](https://dev.to/muriuki_kahuthu_54/sql-functions-you-will-actually-use-in-data-work-24g1)
-- [Monitoring an ML-Based Intrusion Detection System on AWS SageMaker](https://dev.to/ogambakerubo/monitoring-an-ml-based-intrusion-detection-system-on-aws-sagemaker-4182)
-- [Building an AI Travel Planner with Claude: and Using Claude Code to Build It](https://dev.to/kelson_qu/building-an-ai-travel-planner-with-claude-and-using-claude-code-to-build-it-1nfh)
+- [Introducing Vectors And Vector Search](https://dev.to/kendricktech/introducing-vectors-and-vector-search-2388)
+- [AI Tools That Actually Pay You Back: A Developer&#39;s Guide to Monetizing Machine Learning](https://dev.to/caper_dev/ai-tools-that-actually-pay-you-back-a-developers-guide-to-monetizing-machine-learning-1ao2)
+- [Why would Go do this in its documentation?](https://dev.to/logicco/why-would-go-do-this-in-its-documentation-45e)
+- [How to Fix Spotify&#39;s Ugly Blue Titlebar on Gnome](https://dev.to/best_codes/how-to-fix-spotifys-ugly-blue-titlebar-on-gnome-3klk)
 <!-- BLOG-POST-LIST:END -->
 
