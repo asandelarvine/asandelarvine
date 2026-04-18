@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SAP Hybris Impex When None of Us on the Team Can Read It](https://dev.to/aralroca/sap-hybris-impex-when-none-of-us-on-the-team-can-read-it-4ok)
-- [Arrays in Javascript](https://dev.to/anees_abdul_ec1dda9c7697b/arrays-in-javascript-1hgp)
-- [RAG in Practice — Part 5: Build a RAG System in Practice](https://dev.to/gursharansingh/rag-in-practice-part-5-build-a-rag-system-in-practice-4knd)
-- [AI-Assisted Debugging in Next.js 16 with Experimental Agent DevTools](https://dev.to/mericcintosun/ai-assisted-debugging-in-nextjs-16-with-experimental-agent-devtools-1obg)
+- [PlanetLedger — Turning Spending Into Environmental Awareness](https://dev.to/ujja/planetledger-turning-spending-into-environmental-awareness-4b8f)
+- [How to collect system, service and kernel logs using Alloy, Loki and Grafana.](https://dev.to/thebluedrara/how-to-collect-system-service-and-kernel-logs-using-alloy-loki-and-grafana-24fk)
+- [Fully Automated Website Day 13: Thornwing Moth — First Flying Enemy and behavior: &quot;flying&quot; Branch](https://dev.to/dtannen/fully-automated-website-day-13-thornwing-moth-first-flying-enemy-and-behavior-flying-branch-fm)
+- [How we build AI receptionists for home service businesses - the full playbook](https://dev.to/nevermiss/how-we-build-ai-receptionists-for-home-service-businesses-the-full-playbook-26oc)
 <!-- BLOG-POST-LIST:END -->
 
