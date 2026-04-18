@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Built a free browser-only dev tools site, no server side slowness, no signup](https://dev.to/full_stacker/built-a-free-browser-only-dev-tools-site-no-server-side-slowness-no-signup-550h)
-- [Stuxnet: How a USB Drive Destroyed 1,000 Nuclear Centrifuges — A Technical Deep Dive](https://dev.to/john-paul/stuxnet-how-a-usb-drive-destroyed-1000-nuclear-centrifuges-a-technical-deep-dive-1c7c)
-- [Korea&#39;s #1 Real Estate Platform Has No Official API — So I Built a Scraper. Then Got Blocked.](https://dev.to/sessionzero_ai/koreas-1-real-estate-platform-has-no-official-api-so-i-built-a-scraper-then-got-blocked-381b)
-- [Flutter CI Broke With 2288 Errors — How dart fix --apply Saved Us](https://dev.to/kanta13jp1/flutter-ci-broke-with-2288-errors-how-dart-fix-apply-saved-us-4l6b)
+- [Defluffer - reduce token usage 📉 by 45% using this one simple trick! [Earthday challenge]](https://dev.to/grahamthedev/defluffer-reduce-token-usage-by-45-26jj)
+- [SQL Functions You Will Actually Use in Data Work](https://dev.to/muriuki_kahuthu_54/sql-functions-you-will-actually-use-in-data-work-24g1)
+- [Monitoring an ML-Based Intrusion Detection System on AWS SageMaker](https://dev.to/ogambakerubo/monitoring-an-ml-based-intrusion-detection-system-on-aws-sagemaker-4182)
+- [Building an AI Travel Planner with Claude: and Using Claude Code to Build It](https://dev.to/kelson_qu/building-an-ai-travel-planner-with-claude-and-using-claude-code-to-build-it-1nfh)
 <!-- BLOG-POST-LIST:END -->
 
