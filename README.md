@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Techn0tz Turns 1 — Help Shape What’s Next](https://dev.to/manjushaps/techn0tz-turns-1-help-shape-whats-next-5ehe)
-- [AWS Data &amp; AI Stories #02: Amazon Bedrock Data Automation](https://dev.to/aws-builders/aws-data-ai-stories-02-amazon-bedrock-data-automation-1gg7)
-- [Kubernetes v1.36 Drops April 22: What Platform Engineers Actually Need to Know](https://dev.to/mateenali66/kubernetes-v136-drops-april-22-what-platform-engineers-actually-need-to-know-3l81)
-- [I Did 2 Months of Work for a 2-Week Price — Here’s What I learned](https://dev.to/kenzicode/i-did-2-months-of-work-for-a-2-week-price-heres-what-i-learned-45gf)
+- [Run a Weekly Threads Analytics Review From Claude &lpar;With a Custom Dashboard and Content Pillars&rpar;](https://dev.to/luca_restagno_acb4c68c5ca/run-a-weekly-threads-analytics-review-from-claude-with-a-custom-dashboard-and-content-pillars-1kmn)
+- [WebRTC vs WebSocket Explained: When to Use What &lpar;A Real-World Story&rpar;](https://dev.to/abdullahmubin/webrtc-vs-websocket-explained-when-to-use-what-a-real-world-story-5de9)
+- [How to Always Reply from Your Custom Domain Email in Gmail](https://dev.to/rdjarbeng/how-to-always-reply-from-your-custom-domain-email-in-gmail-9i5)
+- [Extending a Video with Angular, Veo 3.1 Lite, Firebase Cloud Functions, and Firebase Cloud Storage](https://dev.to/gde/extending-a-video-with-angular-veo-31-lite-firebase-cloud-functions-and-firebase-cloud-storage-4ik9)
 <!-- BLOG-POST-LIST:END -->
 
