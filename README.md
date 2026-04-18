@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Portal Protocol: Reclaiming Human Connection in the Age of AI](https://dev.to/utteshkumar/the-portal-opens-at-2100-why-i-built-yeetsling-1adn)
-- [PromptCraft AI: Free Prompt Generator for Midjourney, DALL-E 3 &amp; Stable Diffusion](https://dev.to/tahosin/promptcraft-ai-free-prompt-generator-for-midjourney-dall-e-3-stable-diffusion-29ac)
-- [Your SOC 2 Audit Will Fail When AI Agents Arrive. Here&#39;s the 14-Control Fix.](https://dev.to/razashariff/your-soc-2-audit-will-fail-when-ai-agents-arrive-heres-the-14-control-fix-58fp)
-- [Learning AI Agent Engineering — Day 1: Python Foundations for Agents](https://dev.to/dadocks/learning-ai-agent-engineering-day-1-python-foundations-for-agents-5fn4)
+- [Protecting people from harmful manipulation](https://dev.to/minimal-architect/protecting-people-from-harmful-manipulation-20hf)
+- [Building AI Prompts for High-Stakes Documentation: A Healthcare Case Study](https://dev.to/peakflowlab/building-ai-prompts-for-high-stakes-documentation-a-healthcare-case-study-2me)
+- [AI Strategy in Practice: The Gap Between Governance and Adoption](https://dev.to/srinivas_53e82a3174fa73a8/ai-strategy-in-practice-the-gap-between-governance-and-adoption-f86)
+- [Configuring observability for your Qiskit runs with QObserva](https://dev.to/qobserva/configuring-observability-for-your-qiskit-runs-with-qobserva-480j)
 <!-- BLOG-POST-LIST:END -->
 
