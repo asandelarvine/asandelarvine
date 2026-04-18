@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building the Carry-On and Personal Item Size Checkers](https://dev.to/vientapps/building-the-carry-on-and-personal-item-size-checkers-2n2f)
-- [The Agent Identity Convergence: Why Everyone Is Building the Same Thing in 2026](https://dev.to/aaron_schnieder_4563d5d33/the-agent-identity-convergence-why-everyone-is-building-the-same-thing-in-2026-18la)
-- [The 8 tables behind a real auth system &lpar;Postgres schema, explained column by column&rpar;](https://dev.to/thegdsks/the-8-tables-behind-a-real-auth-system-postgres-schema-explained-column-by-column-4g6o)
-- [How to Create a Sparkly-Spoiler Effect like the one in Threads Mobile App](https://dev.to/erikwhiting88/how-to-create-a-sparkly-spoiler-effect-like-the-one-in-threads-mobile-app-19nk)
+- [Built a free browser-only dev tools site, no server side slowness, no signup](https://dev.to/full_stacker/built-a-free-browser-only-dev-tools-site-no-server-side-slowness-no-signup-550h)
+- [Stuxnet: How a USB Drive Destroyed 1,000 Nuclear Centrifuges — A Technical Deep Dive](https://dev.to/john-paul/stuxnet-how-a-usb-drive-destroyed-1000-nuclear-centrifuges-a-technical-deep-dive-1c7c)
+- [Korea&#39;s #1 Real Estate Platform Has No Official API — So I Built a Scraper. Then Got Blocked.](https://dev.to/sessionzero_ai/koreas-1-real-estate-platform-has-no-official-api-so-i-built-a-scraper-then-got-blocked-381b)
+- [Flutter CI Broke With 2288 Errors — How dart fix --apply Saved Us](https://dev.to/kanta13jp1/flutter-ci-broke-with-2288-errors-how-dart-fix-apply-saved-us-4l6b)
 <!-- BLOG-POST-LIST:END -->
 
