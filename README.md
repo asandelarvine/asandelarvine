@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The RAG Chunking Strategy That Beat All the Trendy Ones in Production](https://dev.to/gabrielanhaia/the-rag-chunking-strategy-that-beat-all-the-trendy-ones-in-production-1en2)
-- [I Built a TikTok Downloader with Go — Here&#39;s What I Learned](https://dev.to/duc_t_356dc5761ba67044724/i-built-a-tiktok-downloader-with-go-heres-what-i-learned-o93)
-- [Beyond ChatGPT Wrappers: Building a Real Semantic Search API with ASP.NET Core and OpenAI Embeddings](https://dev.to/zeyadmohammed/beyond-chatgpt-wrappers-building-a-real-semantic-search-api-with-aspnet-core-and-openai-embeddings-5con)
-- [AI Vocal Remover Benchmark 2026: 6 Tools Tested with Python &lpar;SDR + Speed&rpar;](https://dev.to/stevecase430/ai-vocal-remover-benchmark-2026-6-tools-tested-with-python-sdr-speed-hl9)
+- [PHP to Go: The Mental Model Shift Nobody Warns You About](https://dev.to/gabrielanhaia/php-to-go-the-mental-model-shift-nobody-warns-you-about-2l7b)
+- [Data Validation Using Early Return in Python](https://dev.to/meemeealm/data-validation-using-early-return-in-python-3ah)
+- [Microlearning for developers: learn new concepts in 15 minutes](https://dev.to/tdvhyfdg/microlearning-for-developers-learn-new-concepts-in-15-minutes-42f0)
+- [I Built a Circle QR Code Generator — Yes, With Curved Border Text](https://dev.to/linmingren/i-built-a-circle-qr-code-generator-yes-with-curved-border-text-4126)
 <!-- BLOG-POST-LIST:END -->
 
