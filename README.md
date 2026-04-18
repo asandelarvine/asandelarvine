@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built Yet Another AI Knowledge Tool &lpar;And How It&#39;s Different&rpar;](https://dev.to/akshay_kumarkataiah_d6e7/why-i-built-yet-another-ai-knowledge-tool-and-how-its-different-38b2)
-- [m2cgen: export your ML model without shipping Python to production](https://dev.to/jtorchia/m2cgen-export-your-ml-model-without-shipping-python-to-production-13j9)
-- [m2cgen: exportá tu modelo de ML sin llevar Python a producción](https://dev.to/jtorchia/m2cgen-exporta-tu-modelo-de-ml-sin-llevar-python-a-produccion-1e0g)
-- [The Zero-Impact Build: Why Writing Less Code is the Best Earth Day Project](https://dev.to/syedahmershah/the-zero-impact-build-why-writing-less-code-is-the-best-earth-day-project-2o5f)
+- [The Portal Protocol: Reclaiming Human Connection in the Age of AI](https://dev.to/utteshkumar/the-portal-opens-at-2100-why-i-built-yeetsling-1adn)
+- [PromptCraft AI: Free Prompt Generator for Midjourney, DALL-E 3 &amp; Stable Diffusion](https://dev.to/tahosin/promptcraft-ai-free-prompt-generator-for-midjourney-dall-e-3-stable-diffusion-29ac)
+- [Your SOC 2 Audit Will Fail When AI Agents Arrive. Here&#39;s the 14-Control Fix.](https://dev.to/razashariff/your-soc-2-audit-will-fail-when-ai-agents-arrive-heres-the-14-control-fix-58fp)
+- [Learning AI Agent Engineering — Day 1: Python Foundations for Agents](https://dev.to/dadocks/learning-ai-agent-engineering-day-1-python-foundations-for-agents-5fn4)
 <!-- BLOG-POST-LIST:END -->
 
