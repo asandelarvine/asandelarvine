@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP to Go: The Mental Model Shift Nobody Warns You About](https://dev.to/gabrielanhaia/php-to-go-the-mental-model-shift-nobody-warns-you-about-2l7b)
-- [Data Validation Using Early Return in Python](https://dev.to/meemeealm/data-validation-using-early-return-in-python-3ah)
-- [Microlearning for developers: learn new concepts in 15 minutes](https://dev.to/tdvhyfdg/microlearning-for-developers-learn-new-concepts-in-15-minutes-42f0)
-- [I Built a Circle QR Code Generator — Yes, With Curved Border Text](https://dev.to/linmingren/i-built-a-circle-qr-code-generator-yes-with-curved-border-text-4126)
+- [I built a terminal snippet manager that stores snippets as Markdown files you can git-track](https://dev.to/phlx0/i-built-a-terminal-snippet-manager-that-stores-snippets-as-markdown-files-you-can-git-track-4ci9)
+- [Kawaii Greenhouse | Earth Day Edition 🏞️🌞🌸🌵](https://dev.to/megzlawther1/kawaii-greenhouse-earth-day-edition-3lcn)
+- [🌍 Planetary Pulse — AI-Powered Earth Dashboard with 6 Prize Tech Integrations](https://dev.to/mamoor123/planetary-pulse-ai-powered-earth-dashboard-with-6-prize-tech-integrations-18i2)
+- [Why Anomaly Detection Can&#39;t Block the Ingestion Pipeline](https://dev.to/kingsleyonoh/why-anomaly-detection-cant-block-the-ingestion-pipeline-3n42)
 <!-- BLOG-POST-LIST:END -->
 
