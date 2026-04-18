@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We raised $6.5M to kill vector databases... and it&#39;s been exactly 4 weeks. Here&#39;s what&#39;s actually happening.](https://dev.to/iharnoor/we-raised-65m-to-kill-vector-databases-and-its-been-exactly-4-weeks-heres-whats-actually-5d46)
-- [Challenge : 2 The Project Selection Trap](https://dev.to/priya_sajja_c336921bbda87/challenge-2-the-project-selection-trap-3okm)
-- [Why Azure Container Apps for AI Workloads](https://dev.to/bspann/why-azure-container-apps-for-ai-workloads-2djm)
-- [From Pixels to Predictions: Data Pipelines and Training the Sequence Model &lpar;Part 2&rpar;](https://dev.to/_iametornam/from-pixels-to-predictions-data-pipelines-and-training-the-sequence-model-part-2-217d)
+- [Examlock](https://dev.to/zheyuse/examlock-257m)
+- [A declarative CLI framework in Rust](https://dev.to/kuangren_chu_0ca6da848be4/a-declarative-cli-framework-in-rust-d8i)
+- [a claude code/codex plugin to run autoresearch on your repository](https://dev.to/alokbishoyi97/a-claude-codecodex-plugin-to-run-autoresearch-on-your-repository-45oa)
+- [I built a free Java practice playground with a built-in compiler — here&#39;s what I learned &lpar;and what&#39;s inside&rpar;](https://dev.to/priyanshu_rauth/i-built-a-free-java-practice-playground-with-a-built-in-compiler-heres-what-i-learned-and-1be0)
 <!-- BLOG-POST-LIST:END -->
 
