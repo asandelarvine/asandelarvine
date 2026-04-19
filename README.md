@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in docs: Documentation dynamic shift most people seem to ignore](https://dev.to/davecodes/ai-in-docs-documentation-dynamic-shift-most-people-seem-to-ignore-2kgc)
-- [Does the concept of professionalism apply to the creative industries?](https://dev.to/fedavid/does-the-concept-of-professionalism-apply-to-the-creative-industries-7k6)
-- [Creating a good online presence: what is the best approach?](https://dev.to/fedavid/creating-a-good-online-presence-what-is-the-best-approach-1eg9)
-- [Custom Domains for Next.js: The Cloudflare + Vercel Setup That Works in 2026](https://dev.to/getcraftly/custom-domains-for-nextjs-the-cloudflare-vercel-setup-that-works-in-2026-2a3i)
+- [AI Masters vs Everyone Else](https://dev.to/jonoherrington/ai-masters-vs-everyone-else-8j2)
+- [Fusion: Everything Is a Modular Package](https://dev.to/retlim/fusion-everything-is-a-modular-package-5ggc)
+- [Tokio Versus Goroutines: Latency Under Adversarial Load](https://dev.to/speed_engineer/tokio-versus-goroutines-latency-under-adversarial-load-5ll)
+- [🌍 I Built an Interactive Climate Simulator Where You Control Earth&#39;s Fate](https://dev.to/rohan_mirjankar/i-built-an-interactive-climate-simulator-where-you-control-earths-fate-2h8n)
 <!-- BLOG-POST-LIST:END -->
 
