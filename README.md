@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Telegram Bot Approvals: Mobile-First Transaction Signing for AI Agents](https://dev.to/walletguy/telegram-bot-approvals-mobile-first-transaction-signing-for-ai-agents-26p)
-- [Scaling DNS in Multi-Cluster Kubernetes with ExternalDNS &lpar;AWS Route 53 &rpar;](https://dev.to/manoj_kr_5fe54af2495454e/scaling-dns-in-multi-cluster-kubernetes-with-externaldns-aws-route-53--11je)
-- [Making dart:ui_web Compile in Flutter Tests — The Conditional Import Pattern](https://dev.to/kanta13jp1/making-dartuiweb-compile-in-flutter-tests-the-conditional-import-pattern-1p97)
-- [How to Get Real-Time Traffic Camera Feeds via API](https://dev.to/road511/how-to-get-real-time-traffic-camera-feeds-via-api-39k3)
+- [I built an AI contract analyzer in 6 weeks - here&#39;s what I learned about prompting Claude for structured output](https://dev.to/fynprint_app/i-built-an-ai-contract-analyzer-in-6-weeks-heres-what-i-learned-about-prompting-claude-for-27ak)
+- [Yotei - Highly modular &amp; customizable SwiftUI calendar](https://dev.to/claustrofob/yotei-highly-modular-customizable-swiftui-calendar-263i)
+- [We Ran 7,600+ Cloud Provisioning Tests Across AWS, Azure, and GCP — Here&#39;s What We Found](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/we-ran-7600-cloud-provisioning-tests-across-aws-azure-and-gcp-heres-what-we-found-23hc)
+- [Building a Carbon Footprint Tracker with Google Gemini for Earth Day](https://dev.to/ha3k/building-a-carbon-footprint-tracker-with-google-gemini-for-earth-day-k6p)
 <!-- BLOG-POST-LIST:END -->
 
