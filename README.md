@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Vectors And Vector Search](https://dev.to/kendricktech/introducing-vectors-and-vector-search-2388)
-- [AI Tools That Actually Pay You Back: A Developer&#39;s Guide to Monetizing Machine Learning](https://dev.to/caper_dev/ai-tools-that-actually-pay-you-back-a-developers-guide-to-monetizing-machine-learning-1ao2)
-- [Why would Go do this in its documentation?](https://dev.to/logicco/why-would-go-do-this-in-its-documentation-45e)
-- [How to Fix Spotify&#39;s Ugly Blue Titlebar on Gnome](https://dev.to/best_codes/how-to-fix-spotifys-ugly-blue-titlebar-on-gnome-3klk)
+- [How a Leaked Translation Key Forced Me to Rethink WordPress Security](https://dev.to/nexuwp/how-a-leaked-translation-key-forced-me-to-rethink-wordpress-security-20in)
+- [Indian Alternatives to ChatGPT: The Best Sovereign AI Models Built in Bharat &lpar;2026&rpar;](https://dev.to/go_learnsap_5ab6ad5074d7/indian-alternatives-to-chatgpt-the-best-sovereign-ai-models-built-in-bharat-2026-39hg)
+- [How TikTok’s Safety Bot Forced Me to Optimize My JS Canvas Engine](https://dev.to/viablemedia/how-tiktoks-safety-bot-forced-me-to-optimize-my-js-canvas-engine-4fpl)
+- [PrepSync-AI &lpar;meeting prep agent&rpar;](https://dev.to/siddharth_c77149322a88c6f/prepsync-ai-meeting-prep-agent-1bdi)
 <!-- BLOG-POST-LIST:END -->
 
