@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an AI contract analyzer in 6 weeks - here&#39;s what I learned about prompting Claude for structured output](https://dev.to/fynprint_app/i-built-an-ai-contract-analyzer-in-6-weeks-heres-what-i-learned-about-prompting-claude-for-27ak)
-- [Yotei - Highly modular &amp; customizable SwiftUI calendar](https://dev.to/claustrofob/yotei-highly-modular-customizable-swiftui-calendar-263i)
-- [We Ran 7,600+ Cloud Provisioning Tests Across AWS, Azure, and GCP — Here&#39;s What We Found](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/we-ran-7600-cloud-provisioning-tests-across-aws-azure-and-gcp-heres-what-we-found-23hc)
-- [Building a Carbon Footprint Tracker with Google Gemini for Earth Day](https://dev.to/ha3k/building-a-carbon-footprint-tracker-with-google-gemini-for-earth-day-k6p)
+- [Understanding time &amp; space, visually](https://dev.to/sreya-satheesh/understanding-time-space-visually-k5f)
+- [Four tiers for agent action, after the matplotlib incident](https://dev.to/xihegoddess/on-2026-03-21-toms-hardware-reported-on-an-ai-agent-that-had-published-a-hit-piece-against-a-2a6o)
+- [Why I replaced Stripe with Polar, Prisma with Drizzle, and Clerk with BetterAuth and never looked back](https://dev.to/tejas_giri_19aa846141b778/why-i-replaced-stripe-with-polar-prisma-with-drizzle-and-clerk-with-betterauth-and-never-looked-f63)
+- [Subqueries vs CTEs in SQL: A Complete Guide for Beginners](https://dev.to/k1gen_/subqueries-vs-ctes-in-sql-a-complete-guide-for-beginners-49mf)
 <!-- BLOG-POST-LIST:END -->
 
