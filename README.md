@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding time &amp; space, visually](https://dev.to/sreya-satheesh/understanding-time-space-visually-k5f)
-- [Four tiers for agent action, after the matplotlib incident](https://dev.to/xihegoddess/on-2026-03-21-toms-hardware-reported-on-an-ai-agent-that-had-published-a-hit-piece-against-a-2a6o)
-- [Why I replaced Stripe with Polar, Prisma with Drizzle, and Clerk with BetterAuth and never looked back](https://dev.to/tejas_giri_19aa846141b778/why-i-replaced-stripe-with-polar-prisma-with-drizzle-and-clerk-with-betterauth-and-never-looked-f63)
-- [Subqueries vs CTEs in SQL: A Complete Guide for Beginners](https://dev.to/k1gen_/subqueries-vs-ctes-in-sql-a-complete-guide-for-beginners-49mf)
+- [AI in docs: Documentation dynamic shift most people seem to ignore](https://dev.to/davecodes/ai-in-docs-documentation-dynamic-shift-most-people-seem-to-ignore-2kgc)
+- [Does the concept of professionalism apply to the creative industries?](https://dev.to/fedavid/does-the-concept-of-professionalism-apply-to-the-creative-industries-7k6)
+- [Creating a good online presence: what is the best approach?](https://dev.to/fedavid/creating-a-good-online-presence-what-is-the-best-approach-1eg9)
+- [Custom Domains for Next.js: The Cloudflare + Vercel Setup That Works in 2026](https://dev.to/getcraftly/custom-domains-for-nextjs-the-cloudflare-vercel-setup-that-works-in-2026-2a3i)
 <!-- BLOG-POST-LIST:END -->
 
