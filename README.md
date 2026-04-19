@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How a Leaked Translation Key Forced Me to Rethink WordPress Security](https://dev.to/nexuwp/how-a-leaked-translation-key-forced-me-to-rethink-wordpress-security-20in)
-- [Indian Alternatives to ChatGPT: The Best Sovereign AI Models Built in Bharat &lpar;2026&rpar;](https://dev.to/go_learnsap_5ab6ad5074d7/indian-alternatives-to-chatgpt-the-best-sovereign-ai-models-built-in-bharat-2026-39hg)
-- [How TikTok’s Safety Bot Forced Me to Optimize My JS Canvas Engine](https://dev.to/viablemedia/how-tiktoks-safety-bot-forced-me-to-optimize-my-js-canvas-engine-4fpl)
-- [PrepSync-AI &lpar;meeting prep agent&rpar;](https://dev.to/siddharth_c77149322a88c6f/prepsync-ai-meeting-prep-agent-1bdi)
+- [3 Lines of SQL Wiped Our Entire AWS Database](https://dev.to/speedcraft_tech_labs/3-lines-of-sql-wiped-our-entire-aws-database-3cj7)
+- [How a WooCommerce Agency Ships Checkout Fields Without Late-Night Panic](https://dev.to/nexuwp/how-a-woocommerce-agency-ships-checkout-fields-without-late-night-panic-kd0)
+- [Origin Part 2: Nobody Told It Harm Was Bad](https://dev.to/jtil4201/origin-part-2-nobody-told-it-harm-was-bad-293i)
+- [How Hackers Steal Your ChatGPT Conversation History — And How to Stop It](https://dev.to/lucky_lonerusher/how-hackers-steal-your-chatgpt-conversation-history-and-how-to-stop-it-58gp)
 <!-- BLOG-POST-LIST:END -->
 
