@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I ran a security audit on my own Python codebase with an LLM for $0.90. Here is what it found.](https://dev.to/systagproject/i-ran-a-security-audit-on-my-own-python-codebase-with-an-llm-for-090-here-is-what-it-found-151c)
-- [How WebRTC Actually Works, All in one post](https://dev.to/mohamedamine_benhima/how-webrtc-actually-works-all-in-one-post-3g7o)
-- [My friend and I built a Chrome extension to fix our ChatGPT chaos — here&#39;s what we got wrong](https://dev.to/karen1117/my-friend-and-i-built-a-chrome-extension-to-fix-our-chatgpt-chaos-heres-what-we-got-wrong-3a2k)
-- [Why I Mentor Junior Developers: Growing the Next Generation of Tech Talent](https://dev.to/oluwatosinolamilekan/why-i-mentor-junior-developers-growing-the-next-generation-of-tech-talent-46nn)
+- [GenAI Test File Summarisation In Chunks With Ollama Or Cloud](https://dev.to/simbo1905/genai-test-file-summarisation-in-chunks-with-ollama-or-cloud-b52)
+- [One-click MCP install for Claude Desktop &lpar;skip the JSON&rpar;](https://dev.to/wolfejam/one-click-mcp-install-for-claude-desktop-skip-the-json-3han)
+- [Looking for a Technical Co-Founder — Fintech, Lagos. Equity. No CVs. Just conversations.](https://dev.to/chidit/looking-for-a-technical-co-founder-fintech-lagos-equity-no-cvs-just-conversations-3j7l)
+- [31 dimensions of news bias, queryable from Claude in plain English](https://dev.to/connerlambden/31-dimensions-of-news-bias-queryable-from-claude-in-plain-english-1ioo)
 <!-- BLOG-POST-LIST:END -->
 
