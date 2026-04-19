@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [X-Ray Vision - jerseyctf6](https://dev.to/davidonlinearchive/x-ray-vision-jerseyctf6-2cj2)
-- [Understanding Transaction Pipelines in Blockchain Systems](https://dev.to/cryptofixengineer/understanding-transaction-pipelines-in-blockchain-systems-3ehh)
-- [Show Dev: Your Face Is Now a Music Generator](https://dev.to/jeanmmayer/show-dev-your-face-is-now-a-music-generator-4pm7)
-- [An AI Benchmark That Tests Real Coding Workflows](https://dev.to/jagostoni/an-ai-benchmark-that-tests-real-coding-workflows-3b8l)
+- [my-cool-blog - jerseyctf6](https://dev.to/davidonlinearchive/my-cool-blog-jerseyctf6-1985)
+- [C# Lowering: The Compiler Magic Behind Your Code](https://dev.to/itplamen/c-lowering-the-compiler-magic-behind-your-code-298k)
+- [From GPS Coordinates to Screen Pixels: The Full AR Projection Math](https://dev.to/ananddhruv29/from-gps-coordinates-to-screen-pixels-the-full-ar-projection-math-4k7m)
+- [I&#39;m with STUPID ⤴️](https://dev.to/gesslar/im-with-stupid-g8m)
 <!-- BLOG-POST-LIST:END -->
 
