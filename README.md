@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Smart Stadium AI Assistant using Google Cloud &lpar;Without Overengineering&rpar;](https://dev.to/mohammed_ansari_d2425db08/building-a-smart-stadium-ai-assistant-using-google-cloud-without-overengineering-4mnj)
-- [I found a critical CVE in a top AI agent framework. Here&#39;s what it taught me about how we&#39;re all building agents wrong.](https://dev.to/byteakp/i-found-a-critical-cve-in-a-top-ai-agent-framework-heres-what-it-taught-me-about-how-were-all-463j)
-- [Magento 2 Elasticsearch vs OpenSearch: Which to Use in 2026](https://dev.to/magevanta/magento-2-elasticsearch-vs-opensearch-which-to-use-in-2026-34i8)
-- [Why Your Lab Domain Suddenly Stopped Resolving &lpar;DNS Blocklists&rpar;](https://dev.to/alanwest/why-your-lab-domain-suddenly-stopped-resolving-dns-blocklists-3dln)
+- [I Replaced Chrome with Safari for AI Browser Automation. Here&#39;s What Broke &lpar;and What Finally Worked&rpar;](https://dev.to/achiya-automation/i-replaced-chrome-with-safari-for-ai-browser-automation-heres-what-broke-and-what-finally-worked-15ep)
+- [How Python Borrows Other People&#39;s Work](https://dev.to/yakhilesh/how-python-borrows-other-peoples-work-20ob)
+- [Top 15 Reinforcement Learning Questions That Will Appear in Exams](https://dev.to/keerthana_696356/top-15-reinforcement-learning-questions-that-will-appear-in-exams-59f1)
+- [FarmSense AI - An intelligent farming companion](https://dev.to/prath47/farmsense-ai-an-intelligent-farming-companion-2i8o)
 <!-- BLOG-POST-LIST:END -->
 
