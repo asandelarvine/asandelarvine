@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Lines of SQL Wiped Our Entire AWS Database](https://dev.to/speedcraft_tech_labs/3-lines-of-sql-wiped-our-entire-aws-database-3cj7)
-- [How a WooCommerce Agency Ships Checkout Fields Without Late-Night Panic](https://dev.to/nexuwp/how-a-woocommerce-agency-ships-checkout-fields-without-late-night-panic-kd0)
-- [Origin Part 2: Nobody Told It Harm Was Bad](https://dev.to/jtil4201/origin-part-2-nobody-told-it-harm-was-bad-293i)
-- [How Hackers Steal Your ChatGPT Conversation History — And How to Stop It](https://dev.to/lucky_lonerusher/how-hackers-steal-your-chatgpt-conversation-history-and-how-to-stop-it-58gp)
+- [Telegram Bot Approvals: Mobile-First Transaction Signing for AI Agents](https://dev.to/walletguy/telegram-bot-approvals-mobile-first-transaction-signing-for-ai-agents-26p)
+- [Scaling DNS in Multi-Cluster Kubernetes with ExternalDNS &lpar;AWS Route 53 &rpar;](https://dev.to/manoj_kr_5fe54af2495454e/scaling-dns-in-multi-cluster-kubernetes-with-externaldns-aws-route-53--11je)
+- [Making dart:ui_web Compile in Flutter Tests — The Conditional Import Pattern](https://dev.to/kanta13jp1/making-dartuiweb-compile-in-flutter-tests-the-conditional-import-pattern-1p97)
+- [How to Get Real-Time Traffic Camera Feeds via API](https://dev.to/road511/how-to-get-real-time-traffic-camera-feeds-via-api-39k3)
 <!-- BLOG-POST-LIST:END -->
 
