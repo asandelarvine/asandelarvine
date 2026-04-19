@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GHSA-9J88-VVJ5-VHGR: GHSA-9j88-vvj5-vhgr: STARTTLS Response Injection and SASL Downgrade in MailKit](https://dev.to/cverports/ghsa-9j88-vvj5-vhgr-ghsa-9j88-vvj5-vhgr-starttls-response-injection-and-sasl-downgrade-in-mailkit-3c3f)
-- [Symbiote.js: superpowers for Web Components](https://dev.to/foxeyes/symbiotejs-superpowers-for-web-components-1gid)
-- [Easily showcase your skills on GitHub with clean SVG icons](https://dev.to/mzrdev/easily-showcase-your-skills-on-github-with-clean-svg-icons-1l2f)
-- [ARO – A language where business logic reads like documentation](https://dev.to/kris_simon/aro-a-language-where-business-logic-reads-like-documentation-1p8j)
+- [Building a Smart Stadium AI Assistant using Google Cloud &lpar;Without Overengineering&rpar;](https://dev.to/mohammed_ansari_d2425db08/building-a-smart-stadium-ai-assistant-using-google-cloud-without-overengineering-4mnj)
+- [I found a critical CVE in a top AI agent framework. Here&#39;s what it taught me about how we&#39;re all building agents wrong.](https://dev.to/byteakp/i-found-a-critical-cve-in-a-top-ai-agent-framework-heres-what-it-taught-me-about-how-were-all-463j)
+- [Magento 2 Elasticsearch vs OpenSearch: Which to Use in 2026](https://dev.to/magevanta/magento-2-elasticsearch-vs-opensearch-which-to-use-in-2026-34i8)
+- [Why Your Lab Domain Suddenly Stopped Resolving &lpar;DNS Blocklists&rpar;](https://dev.to/alanwest/why-your-lab-domain-suddenly-stopped-resolving-dns-blocklists-3dln)
 <!-- BLOG-POST-LIST:END -->
 
