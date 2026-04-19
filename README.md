@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Replaced Chrome with Safari for AI Browser Automation. Here&#39;s What Broke &lpar;and What Finally Worked&rpar;](https://dev.to/achiya-automation/i-replaced-chrome-with-safari-for-ai-browser-automation-heres-what-broke-and-what-finally-worked-15ep)
-- [How Python Borrows Other People&#39;s Work](https://dev.to/yakhilesh/how-python-borrows-other-peoples-work-20ob)
-- [Top 15 Reinforcement Learning Questions That Will Appear in Exams](https://dev.to/keerthana_696356/top-15-reinforcement-learning-questions-that-will-appear-in-exams-59f1)
-- [FarmSense AI - An intelligent farming companion](https://dev.to/prath47/farmsense-ai-an-intelligent-farming-companion-2i8o)
+- [X-Ray Vision - jerseyctf6](https://dev.to/davidonlinearchive/x-ray-vision-jerseyctf6-2cj2)
+- [Understanding Transaction Pipelines in Blockchain Systems](https://dev.to/cryptofixengineer/understanding-transaction-pipelines-in-blockchain-systems-3ehh)
+- [Show Dev: Your Face Is Now a Music Generator](https://dev.to/jeanmmayer/show-dev-your-face-is-now-a-music-generator-4pm7)
+- [An AI Benchmark That Tests Real Coding Workflows](https://dev.to/jagostoni/an-ai-benchmark-that-tests-real-coding-workflows-3b8l)
 <!-- BLOG-POST-LIST:END -->
 
