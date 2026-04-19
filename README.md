@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PCR vs PLS: When Fewer Features Beat More](https://dev.to/berkan_sesen/pcr-vs-pls-when-fewer-features-beat-more-2plp)
-- [TiDB for AI Memory: Vector Search, HTAP, and Horizontal Scaling in One Database](https://dev.to/codewithveek/tidb-for-ai-memory-vector-search-htap-and-horizontal-scaling-in-one-database-3376)
-- [Wireshark Is Great — Here&#39;s Why It&#39;s Not Enough for Production Networks](https://dev.to/anatraf_482389aa982e/wireshark-is-great-heres-why-its-not-enough-for-production-networks-5e84)
-- [FluentValidation en .NET 10 sin ensuciar tus entidades &lpar;Clean Architecture + MediatR&rpar;](https://dev.to/romnyd/fluentvalidation-en-net-10-sin-ensuciar-tus-entidades-clean-architecture-mediatr-cd7)
+- [GHSA-9J88-VVJ5-VHGR: GHSA-9j88-vvj5-vhgr: STARTTLS Response Injection and SASL Downgrade in MailKit](https://dev.to/cverports/ghsa-9j88-vvj5-vhgr-ghsa-9j88-vvj5-vhgr-starttls-response-injection-and-sasl-downgrade-in-mailkit-3c3f)
+- [Symbiote.js: superpowers for Web Components](https://dev.to/foxeyes/symbiotejs-superpowers-for-web-components-1gid)
+- [Easily showcase your skills on GitHub with clean SVG icons](https://dev.to/mzrdev/easily-showcase-your-skills-on-github-with-clean-svg-icons-1l2f)
+- [ARO – A language where business logic reads like documentation](https://dev.to/kris_simon/aro-a-language-where-business-logic-reads-like-documentation-1p8j)
 <!-- BLOG-POST-LIST:END -->
 
