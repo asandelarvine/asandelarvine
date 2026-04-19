@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [my-cool-blog - jerseyctf6](https://dev.to/davidonlinearchive/my-cool-blog-jerseyctf6-1985)
-- [C# Lowering: The Compiler Magic Behind Your Code](https://dev.to/itplamen/c-lowering-the-compiler-magic-behind-your-code-298k)
-- [From GPS Coordinates to Screen Pixels: The Full AR Projection Math](https://dev.to/ananddhruv29/from-gps-coordinates-to-screen-pixels-the-full-ar-projection-math-4k7m)
-- [I&#39;m with STUPID ⤴️](https://dev.to/gesslar/im-with-stupid-g8m)
+- [I ran a security audit on my own Python codebase with an LLM for $0.90. Here is what it found.](https://dev.to/systagproject/i-ran-a-security-audit-on-my-own-python-codebase-with-an-llm-for-090-here-is-what-it-found-151c)
+- [How WebRTC Actually Works, All in one post](https://dev.to/mohamedamine_benhima/how-webrtc-actually-works-all-in-one-post-3g7o)
+- [My friend and I built a Chrome extension to fix our ChatGPT chaos — here&#39;s what we got wrong](https://dev.to/karen1117/my-friend-and-i-built-a-chrome-extension-to-fix-our-chatgpt-chaos-heres-what-we-got-wrong-3a2k)
+- [Why I Mentor Junior Developers: Growing the Next Generation of Tech Talent](https://dev.to/oluwatosinolamilekan/why-i-mentor-junior-developers-growing-the-next-generation-of-tech-talent-46nn)
 <!-- BLOG-POST-LIST:END -->
 
