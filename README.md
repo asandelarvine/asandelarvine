@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GenAI Test File Summarisation In Chunks With Ollama Or Cloud](https://dev.to/simbo1905/genai-test-file-summarisation-in-chunks-with-ollama-or-cloud-b52)
-- [One-click MCP install for Claude Desktop &lpar;skip the JSON&rpar;](https://dev.to/wolfejam/one-click-mcp-install-for-claude-desktop-skip-the-json-3han)
-- [Looking for a Technical Co-Founder — Fintech, Lagos. Equity. No CVs. Just conversations.](https://dev.to/chidit/looking-for-a-technical-co-founder-fintech-lagos-equity-no-cvs-just-conversations-3j7l)
-- [31 dimensions of news bias, queryable from Claude in plain English](https://dev.to/connerlambden/31-dimensions-of-news-bias-queryable-from-claude-in-plain-english-1ioo)
+- [I Made a CLI That Talks to Any Smart Contract in Plain English](https://dev.to/pavelespitia/i-made-a-cli-that-talks-to-any-smart-contract-in-plain-english-1hoi)
+- [Rails 8 API with Devise-JWT](https://dev.to/rozaru/rails-8-api-with-devise-jwt-2136)
+- [Three Months of AI-Powered Freelancing with ClawX: The Raw Truth](https://dev.to/kevinten10/three-months-of-ai-powered-freelancing-with-clawx-the-raw-truth-1o70)
+- [Grok 4.3 Review: What&#39;s New in xAI&#39;s Latest Model &lpar;April 2026&rpar;](https://dev.to/techsifted/grok-43-review-whats-new-in-xais-latest-model-april-2026-4l2l)
 <!-- BLOG-POST-LIST:END -->
 
