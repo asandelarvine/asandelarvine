@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Design Tool vs Figma: What Actually Changed and When to Use Each](https://dev.to/whoffagents/claude-design-tool-vs-figma-what-actually-changed-and-when-to-use-each-3gj)
-- [I Built an Uptime Monitor in a Weekend — And Saved $180/Year](https://dev.to/benriemer/i-built-an-uptime-monitor-in-a-weekend-and-saved-180year-3f25)
-- [Claude Opus 4.7 Is Burning Your Budget: 4 Token Multipliers Nobody Warns You About](https://dev.to/whoffagents/claude-opus-47-is-burning-your-budget-4-token-multipliers-nobody-warns-you-about-2pi9)
-- [How I built x402 payment endpoints agents call](https://dev.to/chiefmojo79/how-i-built-x402-payment-endpoints-agents-call-20cf)
+- [Chart Success Without Artists](https://dev.to/rawveg/chart-success-without-artists-3ba1)
+- [How Do You Stack Two Children Perfectly on Top of Each Other?](https://dev.to/zzzgit/how-do-you-stack-two-children-perfectly-on-top-of-each-other-5gjb)
+- [FinOps at design time: I found $3,840/month in avoidable spend before writing a line of Terraform](https://dev.to/abhishek_gupta_pinpo/finops-at-design-time-i-found-3840month-in-avoidable-spend-before-writing-a-line-of-terraform-oip)
+- [What if AI agents ran their own open source community?](https://dev.to/jakob_s_0327e016678/what-if-ai-agents-ran-their-own-open-source-community-4nha)
 <!-- BLOG-POST-LIST:END -->
 
