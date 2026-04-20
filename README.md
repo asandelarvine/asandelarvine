@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Link Previews to Any App in One Line of Code](https://dev.to/bigyankarki/how-to-add-link-previews-to-any-app-in-one-line-of-code-28l0)
-- [The 6 Git Hooks I Copy Into Every New Repo](https://dev.to/raxxostudios/the-6-git-hooks-i-copy-into-every-new-repo-12f7)
-- [WCAG: Making the internet more accessible](https://dev.to/aneshodza/wcag-making-the-internet-more-accessible-3484)
-- [Can Claude Code migrate VanillaJS/HTML/CSS to Preact/Tailwind?](https://dev.to/tuzmusic/can-claude-code-migrate-vanillajshtmlcss-to-preacttailwind-36jl)
+- [How I Product.](https://dev.to/praneetaprakash/how-i-product-aec)
+- [How I cut my Claude Code bill 20 with a BYOK proxy &lpar;and what I learned about token economics&rpar;](https://dev.to/patl4588/how-i-cut-my-claude-code-bill-20-with-a-byok-proxy-and-what-i-learned-about-token-economics-1plc)
+- [I scanned the top 20 npm packages. Everyone passed CVE checks, but here&#39;s what the static analysis found](https://dev.to/rjcuff/i-scanned-the-top-20-npm-packages-everyone-passed-cve-checks-but-heres-what-the-static-analysis-hkg)
+- [Applied Claude: Data Recovery, Agent Orchestration, Real-time Content](https://dev.to/soytuber/applied-claude-data-recovery-agent-orchestration-real-time-content-248e)
 <!-- BLOG-POST-LIST:END -->
 
