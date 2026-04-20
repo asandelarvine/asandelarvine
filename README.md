@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Learnability Gap, Not a Capacity Gap: 353 Parameters vs a 3-Parameter Heuristic](https://dev.to/kit_good_c7f5b7ae0a9cfa0f/a-learnability-gap-not-a-capacity-gap-353-parameters-vs-a-3-parameter-heuristic-1m9f)
-- [I Stopped Using YouTube for Focus Music and My Pomodoro Sessions Got 10x Better](https://dev.to/aralroca/i-stopped-using-youtube-for-focus-music-and-my-pomodoro-sessions-got-10x-better-2p82)
-- [From Vibecoding to Vibelaunching: Building the ecosystems-cli](https://dev.to/sebs/from-vibecoding-to-vibelaunching-building-the-ecosystems-cli-nje)
-- [Why State Management is the &quot;Final Boss&quot; of Building AI Agents](https://dev.to/agiorbust/state-is-the-hardest-problem-in-ai-agents-3a8c)
+- [How to Add Link Previews to Any App in One Line of Code](https://dev.to/bigyankarki/how-to-add-link-previews-to-any-app-in-one-line-of-code-28l0)
+- [The 6 Git Hooks I Copy Into Every New Repo](https://dev.to/raxxostudios/the-6-git-hooks-i-copy-into-every-new-repo-12f7)
+- [WCAG: Making the internet more accessible](https://dev.to/aneshodza/wcag-making-the-internet-more-accessible-3484)
+- [Can Claude Code migrate VanillaJS/HTML/CSS to Preact/Tailwind?](https://dev.to/tuzmusic/can-claude-code-migrate-vanillajshtmlcss-to-preacttailwind-36jl)
 <!-- BLOG-POST-LIST:END -->
 
