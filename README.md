@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chart Success Without Artists](https://dev.to/rawveg/chart-success-without-artists-3ba1)
-- [How Do You Stack Two Children Perfectly on Top of Each Other?](https://dev.to/zzzgit/how-do-you-stack-two-children-perfectly-on-top-of-each-other-5gjb)
-- [FinOps at design time: I found $3,840/month in avoidable spend before writing a line of Terraform](https://dev.to/abhishek_gupta_pinpo/finops-at-design-time-i-found-3840month-in-avoidable-spend-before-writing-a-line-of-terraform-oip)
-- [What if AI agents ran their own open source community?](https://dev.to/jakob_s_0327e016678/what-if-ai-agents-ran-their-own-open-source-community-4nha)
+- [Network Components](https://dev.to/hirave_palak/network-components-5a2d)
+- [Getting Started with Seal Report: Authentication Providers](https://dev.to/vladg_dev/getting-started-with-seal-report-authentication-providers-10le)
+- [WPBones v2 — The Webpack Release](https://dev.to/undolog/wpbones-v2-the-webpack-release-15cf)
+- [Vibe coding produces the silhouette of software, not software](https://dev.to/adioof/vibe-coding-produces-the-silhouette-of-software-not-software-nhg)
 <!-- BLOG-POST-LIST:END -->
 
