@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an &lpar;Actually&rpar; Serverless Private Terraform Registry on AWS](https://dev.to/sebacaccaro/building-an-actually-serverless-private-terraform-registry-on-aws-hc1)
-- [Stop Googling Basic Terminal Commands: Why I Built ShellDex](https://dev.to/ibra-kdbra/stop-googling-basic-terminal-commands-why-i-built-shelldex-2la9)
-- [European Commission AWS Compromise: Identity Boundary Failure Confirmed](https://dev.to/randomchaos/european-commission-aws-compromise-identity-boundary-failure-confirmed-mk8)
-- [Challenge: 3 Making UX Work Understandable to Engineers](https://dev.to/priya_sajja_c336921bbda87/challenge-3-making-ux-work-understandable-to-engineers-1kcb)
+- [REST - ESTILO ARQUITETURAL](https://dev.to/kamis-0810/rest-estilo-arquitetural-i47)
+- [From Code to Cash: How I Turned My Knowledge Hoarding into a Real Business](https://dev.to/kevinten10/from-code-to-cash-how-i-turned-my-knowledge-hoarding-into-a-real-business-4hkj)
+- [10 Agents, One Credential Nightmare — Solved](https://dev.to/rcsxplatform/10-agents-one-credential-nightmare-solved-26hf)
+- [From PDF Invoices to Formatted Spreadsheets in Two API Calls](https://dev.to/iterationlayer/from-pdf-invoices-to-formatted-spreadsheets-in-two-api-calls-56pm)
 <!-- BLOG-POST-LIST:END -->
 
