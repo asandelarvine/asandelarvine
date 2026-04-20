@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Network Components](https://dev.to/hirave_palak/network-components-5a2d)
-- [Getting Started with Seal Report: Authentication Providers](https://dev.to/vladg_dev/getting-started-with-seal-report-authentication-providers-10le)
-- [WPBones v2 — The Webpack Release](https://dev.to/undolog/wpbones-v2-the-webpack-release-15cf)
-- [Vibe coding produces the silhouette of software, not software](https://dev.to/adioof/vibe-coding-produces-the-silhouette-of-software-not-software-nhg)
+- [I Built a Chrome Extension That Maps and Transfers Data Between Web Pages Visually](https://dev.to/_350df62777eb55e1/i-built-a-chrome-extension-that-maps-and-transfers-data-between-web-pages-visually-afl)
+- [Sysmon Logs Deep-Dive - From Raw Data to Threat Evidence](https://dev.to/reign4eer/sysmon-logs-deep-dive-from-raw-data-to-threat-evidence-5136)
+- [Deployment strategies every engineer should understand...](https://dev.to/daniel_possiblekwabi_b57/deployment-strategies-every-engineer-should-understand-ch9)
+- [Microsoft Agent Framework: Introduction](https://dev.to/lukaswalter/microsoft-agent-framework-introduction-m1e)
 <!-- BLOG-POST-LIST:END -->
 
