@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Chrome Extension That Maps and Transfers Data Between Web Pages Visually](https://dev.to/_350df62777eb55e1/i-built-a-chrome-extension-that-maps-and-transfers-data-between-web-pages-visually-afl)
-- [Sysmon Logs Deep-Dive - From Raw Data to Threat Evidence](https://dev.to/reign4eer/sysmon-logs-deep-dive-from-raw-data-to-threat-evidence-5136)
-- [Deployment strategies every engineer should understand...](https://dev.to/daniel_possiblekwabi_b57/deployment-strategies-every-engineer-should-understand-ch9)
-- [Microsoft Agent Framework: Introduction](https://dev.to/lukaswalter/microsoft-agent-framework-introduction-m1e)
+- [Part 2 : I got tired of wiring the same caching stack every project, so I built LayerCache](https://dev.to/flyingsquirrel0419/part-2-i-got-tired-of-wiring-the-same-caching-stack-every-project-so-i-built-layercache-559g)
+- [Copy Files in PowerShell: Copy-Item with Safety](https://dev.to/arnostorg/copy-files-in-powershell-copy-item-with-safety-3795)
+- [Localhost vs Deployment — The Pain Is Real](https://dev.to/sohanaakbar7/localhost-vs-deployment-the-pain-is-real-3hg2)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-555a)
 <!-- BLOG-POST-LIST:END -->
 
