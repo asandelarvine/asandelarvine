@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Made a CLI That Talks to Any Smart Contract in Plain English](https://dev.to/pavelespitia/i-made-a-cli-that-talks-to-any-smart-contract-in-plain-english-1hoi)
-- [Rails 8 API with Devise-JWT](https://dev.to/rozaru/rails-8-api-with-devise-jwt-2136)
-- [Three Months of AI-Powered Freelancing with ClawX: The Raw Truth](https://dev.to/kevinten10/three-months-of-ai-powered-freelancing-with-clawx-the-raw-truth-1o70)
-- [Grok 4.3 Review: What&#39;s New in xAI&#39;s Latest Model &lpar;April 2026&rpar;](https://dev.to/techsifted/grok-43-review-whats-new-in-xais-latest-model-april-2026-4l2l)
+- [Git Commands Every DevOps Engineer Must Know](https://dev.to/mumtaz2029/git-commands-every-devops-engineer-must-know-5c09)
+- [Local LLMs Are Rewriting the Startup Rulebook in 2026](https://dev.to/glad_labs/local-llms-are-rewriting-the-startup-rulebook-in-2026-4i0b)
+- [GreenCompute: Carbon-Aware Code Analysis Dashboard](https://dev.to/iflal/greencompute-carbon-aware-code-analysis-dashboard-1jjc)
+- [Active Inference, The Learn Arc — Part 25: Session §4.3 — Expected Free Energy, Introduced Concretely](https://dev.to/tmdlrg/active-inference-the-learn-arc-part-25-session-ss43-expected-free-energy-introduced-3moi)
 <!-- BLOG-POST-LIST:END -->
 
