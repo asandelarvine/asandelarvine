@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 2 : I got tired of wiring the same caching stack every project, so I built LayerCache](https://dev.to/flyingsquirrel0419/part-2-i-got-tired-of-wiring-the-same-caching-stack-every-project-so-i-built-layercache-559g)
-- [Copy Files in PowerShell: Copy-Item with Safety](https://dev.to/arnostorg/copy-files-in-powershell-copy-item-with-safety-3795)
-- [Localhost vs Deployment — The Pain Is Real](https://dev.to/sohanaakbar7/localhost-vs-deployment-the-pain-is-real-3hg2)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-555a)
+- [A Learnability Gap, Not a Capacity Gap: 353 Parameters vs a 3-Parameter Heuristic](https://dev.to/kit_good_c7f5b7ae0a9cfa0f/a-learnability-gap-not-a-capacity-gap-353-parameters-vs-a-3-parameter-heuristic-1m9f)
+- [I Stopped Using YouTube for Focus Music and My Pomodoro Sessions Got 10x Better](https://dev.to/aralroca/i-stopped-using-youtube-for-focus-music-and-my-pomodoro-sessions-got-10x-better-2p82)
+- [From Vibecoding to Vibelaunching: Building the ecosystems-cli](https://dev.to/sebs/from-vibecoding-to-vibelaunching-building-the-ecosystems-cli-nje)
+- [Why State Management is the &quot;Final Boss&quot; of Building AI Agents](https://dev.to/agiorbust/state-is-the-hardest-problem-in-ai-agents-3a8c)
 <!-- BLOG-POST-LIST:END -->
 
