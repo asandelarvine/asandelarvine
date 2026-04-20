@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Easiest OpenClaw Setup &amp; Onboarding Guide + Using Web Search](https://dev.to/kheai/easiest-openclaw-setup-onboarding-guide-using-web-search-52em)
-- [Multi region kubernetes cluster &lpar;Onprem/Public Cloud&rpar;](https://dev.to/yepchaos/multi-region-kubernetes-cluster-onprempublic-cloud-4ifl)
-- [Your AI Sounds Most Confident Right Before It&#39;s Wrong — Here&#39;s the Data](https://dev.to/yaseen_tech/your-ai-sounds-most-confident-right-before-its-wrong-heres-the-data-2dmp)
-- [Zero Waste, Zero Stress: Building ReMake with AI-Assisted Github Copilot Development](https://dev.to/shreya111111/zero-waste-zero-stress-building-remake-with-ai-assisted-github-copilot-development-53fo)
+- [Claude Design Tool vs Figma: What Actually Changed and When to Use Each](https://dev.to/whoffagents/claude-design-tool-vs-figma-what-actually-changed-and-when-to-use-each-3gj)
+- [I Built an Uptime Monitor in a Weekend — And Saved $180/Year](https://dev.to/benriemer/i-built-an-uptime-monitor-in-a-weekend-and-saved-180year-3f25)
+- [Claude Opus 4.7 Is Burning Your Budget: 4 Token Multipliers Nobody Warns You About](https://dev.to/whoffagents/claude-opus-47-is-burning-your-budget-4-token-multipliers-nobody-warns-you-about-2pi9)
+- [How I built x402 payment endpoints agents call](https://dev.to/chiefmojo79/how-i-built-x402-payment-endpoints-agents-call-20cf)
 <!-- BLOG-POST-LIST:END -->
 
