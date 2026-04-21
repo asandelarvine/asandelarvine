@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [mdka v2 Release](https://dev.to/nabbisen/mdka-v2-release-3n95)
-- [I Built Scribble Studio: Turn Messy Voice Notes &amp; Standups into Structured GitHub Issues + PRs](https://dev.to/hadiboukdir1/i-built-scribble-studio-turn-messy-voice-notes-standups-into-structured-github-issues-prs-241g)
-- [Salesforce Headless! All agents, all access.](https://dev.to/conor_61d358cde152bb5800a/salesforce-headless-all-agents-all-access-19ka)
-- [Ship Fast, Lose Clients: Why AI-Accelerated Fragility Is Not Engineering](https://dev.to/narnaiezzsshaa/ship-fast-lose-clients-why-ai-accelerated-fragility-is-not-engineering-19mi)
+- [Generating PDFs from JSON Instead of HTML: Why Templates Are a Dead End](https://dev.to/iterationlayer/generating-pdfs-from-json-instead-of-html-why-templates-are-a-dead-end-5acd)
+- [Building Multi-Tenant Document Pipelines: Architecture Guide for Agencies](https://dev.to/iterationlayer/building-multi-tenant-document-pipelines-architecture-guide-for-agencies-300h)
+- [One n8n Node for Your Entire Document and Image Pipeline](https://dev.to/iterationlayer/one-n8n-node-for-your-entire-document-and-image-pipeline-2gd2)
+- [Unpopular Opinion: Do not use OpenClaw...not yet.](https://dev.to/francistrdev/unpopular-opinion-do-not-use-openclawnot-yet-5foe)
 <!-- BLOG-POST-LIST:END -->
 
