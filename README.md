@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [404 robo haiku](https://dev.to/preetha_vaishnavi_2b82358/404-robo-haiku-29b8)
-- [My Cache Caused 4 Production Incidents. Here&#39;s What I Learned.](https://dev.to/flyingsquirrel0419/my-cache-caused-4-production-incidents-heres-what-i-learned-18pf)
-- [How I cut my Cursor/Claude token usage by 90% with a custom &quot;Dehydrator&quot; tool matrix 🛡️](https://dev.to/cleandatadev/how-i-cut-my-cursorclaude-token-usage-by-90-with-a-custom-dehydrator-tool-matrix-ake)
-- [AI Hacking Claude Chrome: Anthropic AI Writes Exploit Code](https://dev.to/deshtak/ai-hacking-claude-chrome-anthropic-ai-writes-exploit-code-37aj)
+- [Telegram vs Email for Cron Alerts, and When Webhooks Are Better](https://dev.to/quietpulse-social/telegram-vs-email-for-cron-alerts-and-when-webhooks-are-better-5b5o)
+- [AI-900 vs Data Science Certifications: What’s the Difference?](https://dev.to/datta_kharad_3fd1383b5036/ai-900-vs-data-science-certifications-whats-the-difference-216p)
+- [From One Agent to Many: Building a Multi-Agent Team for Snowflake Administration &lpar;Part 2&rpar;](https://dev.to/swaroop_krishna_e2f4b83b2/from-one-agent-to-many-building-a-multi-agent-team-for-snowflake-administration-part-2-379d)
+- [Azure AI Engineer vs Data Scientist: Understanding the Differences](https://dev.to/datta_kharad_3fd1383b5036/azure-ai-engineer-vs-data-scientist-understanding-the-differences-3i3b)
 <!-- BLOG-POST-LIST:END -->
 
