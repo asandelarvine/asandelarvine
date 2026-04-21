@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IDOR in AI-Generated APIs: What Cursor Won&#39;t Check for You](https://dev.to/chandan_karn_fb750e731394/idor-in-ai-generated-apis-what-cursor-wont-check-for-you-2llb)
-- [Agent Skills Benchmarks, Airflow OCR Workflows, &amp; Python PDF Extraction](https://dev.to/soytuber/agent-skills-benchmarks-airflow-ocr-workflows-python-pdf-extraction-2alg)
-- [DuckDB Streaming, SQLite BLOB Output, &amp; Securing Postgres for AI Agents](https://dev.to/soytuber/duckdb-streaming-sqlite-blob-output-securing-postgres-for-ai-agents-2k3p)
-- [Claude Opus 4.6 Didn’t Vanish: Opus 4.7 Arrived](https://dev.to/simon_paxton/claude-opus-46-didnt-vanish-opus-47-arrived-292n)
+- [mdka v2 Release](https://dev.to/nabbisen/mdka-v2-release-3n95)
+- [I Built Scribble Studio: Turn Messy Voice Notes &amp; Standups into Structured GitHub Issues + PRs](https://dev.to/hadiboukdir1/i-built-scribble-studio-turn-messy-voice-notes-standups-into-structured-github-issues-prs-241g)
+- [Salesforce Headless! All agents, all access.](https://dev.to/conor_61d358cde152bb5800a/salesforce-headless-all-agents-all-access-19ka)
+- [Ship Fast, Lose Clients: Why AI-Accelerated Fragility Is Not Engineering](https://dev.to/narnaiezzsshaa/ship-fast-lose-clients-why-ai-accelerated-fragility-is-not-engineering-19mi)
 <!-- BLOG-POST-LIST:END -->
 
