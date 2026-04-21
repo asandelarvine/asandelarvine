@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Subqueries vs. CTEs: A Guide to Writing Better Queries](https://dev.to/sharonnyabuto/sql-subqueries-vs-ctes-a-guide-to-writing-better-queries-1f44)
-- [Zustand: React State Management Without Providers or Reducers](https://dev.to/recca0120/zustand-react-state-management-without-providers-or-reducers-aek)
-- [Your C4 Diagrams Are Lying to You &lpar;And AI Coding Is Making It Worse&rpar;](https://dev.to/uxxu/your-c4-diagrams-are-lying-to-you-and-ai-coding-is-making-it-worse-2198)
-- [CachyOS Kernel 7.0 Review on Ryzen 5 5500U &lpar;Hyprland Performance Test&rpar;](https://dev.to/nishrico0098/cachyos-kernel-70-review-on-ryzen-5-5500u-hyprland-performance-test-2peh)
+- [IDOR in AI-Generated APIs: What Cursor Won&#39;t Check for You](https://dev.to/chandan_karn_fb750e731394/idor-in-ai-generated-apis-what-cursor-wont-check-for-you-2llb)
+- [Agent Skills Benchmarks, Airflow OCR Workflows, &amp; Python PDF Extraction](https://dev.to/soytuber/agent-skills-benchmarks-airflow-ocr-workflows-python-pdf-extraction-2alg)
+- [DuckDB Streaming, SQLite BLOB Output, &amp; Securing Postgres for AI Agents](https://dev.to/soytuber/duckdb-streaming-sqlite-blob-output-securing-postgres-for-ai-agents-2k3p)
+- [Claude Opus 4.6 Didn’t Vanish: Opus 4.7 Arrived](https://dev.to/simon_paxton/claude-opus-46-didnt-vanish-opus-47-arrived-292n)
 <!-- BLOG-POST-LIST:END -->
 
