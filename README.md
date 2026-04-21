@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your AI Agent Costs 7x What It Should](https://dev.to/serhiip/why-your-ai-agent-costs-7x-what-it-should-3bm0)
-- [Master Destructuring in One Go](https://dev.to/kunal_dev/destructuring-in-javascript-4k8h)
-- [Indexing Strategies for Faster Database Queries](https://dev.to/safdarwahid/indexing-strategies-for-faster-database-queries-2epf)
-- [Create a new contact in your address book from the Command Line](https://dev.to/qasim157/create-a-new-contact-in-your-address-book-from-the-command-line-2c08)
+- [SQL Subqueries vs. CTEs: A Guide to Writing Better Queries](https://dev.to/sharonnyabuto/sql-subqueries-vs-ctes-a-guide-to-writing-better-queries-1f44)
+- [Zustand: React State Management Without Providers or Reducers](https://dev.to/recca0120/zustand-react-state-management-without-providers-or-reducers-aek)
+- [Your C4 Diagrams Are Lying to You &lpar;And AI Coding Is Making It Worse&rpar;](https://dev.to/uxxu/your-c4-diagrams-are-lying-to-you-and-ai-coding-is-making-it-worse-2198)
+- [CachyOS Kernel 7.0 Review on Ryzen 5 5500U &lpar;Hyprland Performance Test&rpar;](https://dev.to/nishrico0098/cachyos-kernel-70-review-on-ryzen-5-5500u-hyprland-performance-test-2peh)
 <!-- BLOG-POST-LIST:END -->
 
