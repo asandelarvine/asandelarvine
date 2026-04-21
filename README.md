@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Project, Don&#39;t Embed: Introducing Virtual Frame](https://dev.to/lazarv/project-dont-embed-introducing-virtual-frame-klb)
-- [Inside Axiom’s Verification Kernel: BMC, UAP, Lean Replay, and the Proof Vault](https://dev.to/wintrover/inside-axioms-verification-kernel-bmc-uap-lean-replay-and-the-proof-vault-50m3)
-- [Next Milestones for Heka Insights Agent: From Console Output to Real Telemetry Delivery](https://dev.to/munirfarhan/next-milestones-for-heka-insights-agent-from-console-output-to-real-telemetry-delivery-jep)
-- [Plataforma API para Desarrollo IoT](https://dev.to/roobia/plataforma-api-para-desarrollo-iot-1971)
+- [Array Sort Methods](https://dev.to/nanthini_ammu_ac02ad32802/array-sort-methods-1kb0)
+- [14 years at one company then laid off. The senior dev career trap nobody talks about.](https://dev.to/adioof/14-years-at-one-company-then-laid-off-the-senior-dev-career-trap-nobody-talks-about-4lfh)
+- [From 10 Failed Stacks to Production: How a Data Scientist Built a Job Board with Wasp, a Full-stack Framework for the Agentic Era](https://dev.to/wasp/from-10-failed-stacks-to-production-how-a-data-scientist-built-a-job-board-with-wasp-a-full-stack-5fmp)
+- [I brought KIOKU to Claude Desktop — one .mcpb drag, no Node setup](https://dev.to/megaphone/i-brought-kioku-to-claude-desktop-one-mcpb-drag-no-node-setup-1n8l)
 <!-- BLOG-POST-LIST:END -->
 
