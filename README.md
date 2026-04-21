@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 7 Essential Tools Every Vue.js Developer Should Know 🚀](https://dev.to/ansonch/7-essential-tools-every-vuejs-developer-should-know-5bec)
-- [Django: relaciones Muchos a muchos &lpar;many to many&rpar; entre modelos](https://dev.to/manuelcanga/django-relaciones-muchos-a-muchos-many-to-many-entre-modelos-cde)
-- [How to Optimize Font Loading for Better Web Performance &lpar;Free Font Resources Included&rpar;](https://dev.to/zubair_anwar_9f082942a33c/how-to-optimize-font-loading-for-better-web-performance-free-font-resources-included-3fnc)
-- [How a DeepSeek-only agent framework hit 85% prefix cache rate &lpar;and saved 93% vs Claude&rpar;](https://dev.to/esengine/how-a-deepseek-only-agent-framework-hit-85-prefix-cache-rate-and-saved-93-vs-claude-5c9g)
+- [How to Install Your First Agent Skill](https://dev.to/99rebels/how-to-install-your-first-agent-skill-3me0)
+- [How are people comparing GPU prices across providers?](https://dev.to/ai_richie/how-are-people-comparing-gpu-prices-across-providers-3nag)
+- [How to Build AI Agents That Automate Business Workflows &lpar;Step-by-Step Guide&rpar;](https://dev.to/babavose/how-to-build-ai-agents-that-automate-business-workflows-step-by-step-guide-22f6)
+- [The 1,847-Hour Question: Why I Keep Building Knowledge Systems That Nobody Uses](https://dev.to/kevinten10/the-1847-hour-question-why-i-keep-building-knowledge-systems-that-nobody-uses-4d4l)
 <!-- BLOG-POST-LIST:END -->
 
