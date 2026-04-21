@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Agents Are Being Weaponized. Nobody&#39;s Prepared.](https://dev.to/o96a/open-source-agents-are-being-weaponized-nobodys-prepared-4m0p)
-- [Building a Real Event Bus in VibeCodeArena](https://dev.to/yashwanth_reddyk_ad8c405/building-a-real-event-bus-in-vibecodearena-534o)
-- [Visual Studio Weekly: The Debugger Agent Just Got Serious](https://dev.to/htekdev/visual-studio-weekly-the-debugger-agent-just-got-serious-1ko0)
-- [I Repurposed a Coding Agent as a Life Assistant. Then My Twins Came 10 Weeks Early.](https://dev.to/htekdev/i-repurposed-a-coding-agent-as-a-life-assistant-then-my-twins-came-10-weeks-early-knn)
+- [Why Your AI Agent Costs 7x What It Should](https://dev.to/serhiip/why-your-ai-agent-costs-7x-what-it-should-3bm0)
+- [Master Destructuring in One Go](https://dev.to/kunal_dev/destructuring-in-javascript-4k8h)
+- [Indexing Strategies for Faster Database Queries](https://dev.to/safdarwahid/indexing-strategies-for-faster-database-queries-2epf)
+- [Create a new contact in your address book from the Command Line](https://dev.to/qasim157/create-a-new-contact-in-your-address-book-from-the-command-line-2c08)
 <!-- BLOG-POST-LIST:END -->
 
