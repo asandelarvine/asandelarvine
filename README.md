@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Telegram vs Email for Cron Alerts, and When Webhooks Are Better](https://dev.to/quietpulse-social/telegram-vs-email-for-cron-alerts-and-when-webhooks-are-better-5b5o)
-- [AI-900 vs Data Science Certifications: What’s the Difference?](https://dev.to/datta_kharad_3fd1383b5036/ai-900-vs-data-science-certifications-whats-the-difference-216p)
-- [From One Agent to Many: Building a Multi-Agent Team for Snowflake Administration &lpar;Part 2&rpar;](https://dev.to/swaroop_krishna_e2f4b83b2/from-one-agent-to-many-building-a-multi-agent-team-for-snowflake-administration-part-2-379d)
-- [Azure AI Engineer vs Data Scientist: Understanding the Differences](https://dev.to/datta_kharad_3fd1383b5036/azure-ai-engineer-vs-data-scientist-understanding-the-differences-3i3b)
+- [Project, Don&#39;t Embed: Introducing Virtual Frame](https://dev.to/lazarv/project-dont-embed-introducing-virtual-frame-klb)
+- [Inside Axiom’s Verification Kernel: BMC, UAP, Lean Replay, and the Proof Vault](https://dev.to/wintrover/inside-axioms-verification-kernel-bmc-uap-lean-replay-and-the-proof-vault-50m3)
+- [Next Milestones for Heka Insights Agent: From Console Output to Real Telemetry Delivery](https://dev.to/munirfarhan/next-milestones-for-heka-insights-agent-from-console-output-to-real-telemetry-delivery-jep)
+- [Plataforma API para Desarrollo IoT](https://dev.to/roobia/plataforma-api-para-desarrollo-iot-1971)
 <!-- BLOG-POST-LIST:END -->
 
