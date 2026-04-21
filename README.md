@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [REST - ESTILO ARQUITETURAL](https://dev.to/kamis-0810/rest-estilo-arquitetural-i47)
-- [From Code to Cash: How I Turned My Knowledge Hoarding into a Real Business](https://dev.to/kevinten10/from-code-to-cash-how-i-turned-my-knowledge-hoarding-into-a-real-business-4hkj)
-- [10 Agents, One Credential Nightmare — Solved](https://dev.to/rcsxplatform/10-agents-one-credential-nightmare-solved-26hf)
-- [From PDF Invoices to Formatted Spreadsheets in Two API Calls](https://dev.to/iterationlayer/from-pdf-invoices-to-formatted-spreadsheets-in-two-api-calls-56pm)
+- [404 robo haiku](https://dev.to/preetha_vaishnavi_2b82358/404-robo-haiku-29b8)
+- [My Cache Caused 4 Production Incidents. Here&#39;s What I Learned.](https://dev.to/flyingsquirrel0419/my-cache-caused-4-production-incidents-heres-what-i-learned-18pf)
+- [How I cut my Cursor/Claude token usage by 90% with a custom &quot;Dehydrator&quot; tool matrix 🛡️](https://dev.to/cleandatadev/how-i-cut-my-cursorclaude-token-usage-by-90-with-a-custom-dehydrator-tool-matrix-ake)
+- [AI Hacking Claude Chrome: Anthropic AI Writes Exploit Code](https://dev.to/deshtak/ai-hacking-claude-chrome-anthropic-ai-writes-exploit-code-37aj)
 <!-- BLOG-POST-LIST:END -->
 
