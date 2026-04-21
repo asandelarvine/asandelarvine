@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Array Sort Methods](https://dev.to/nanthini_ammu_ac02ad32802/array-sort-methods-1kb0)
-- [14 years at one company then laid off. The senior dev career trap nobody talks about.](https://dev.to/adioof/14-years-at-one-company-then-laid-off-the-senior-dev-career-trap-nobody-talks-about-4lfh)
-- [From 10 Failed Stacks to Production: How a Data Scientist Built a Job Board with Wasp, a Full-stack Framework for the Agentic Era](https://dev.to/wasp/from-10-failed-stacks-to-production-how-a-data-scientist-built-a-job-board-with-wasp-a-full-stack-5fmp)
-- [I brought KIOKU to Claude Desktop — one .mcpb drag, no Node setup](https://dev.to/megaphone/i-brought-kioku-to-claude-desktop-one-mcpb-drag-no-node-setup-1n8l)
+- [🔥 7 Essential Tools Every Vue.js Developer Should Know 🚀](https://dev.to/ansonch/7-essential-tools-every-vuejs-developer-should-know-5bec)
+- [Django: relaciones Muchos a muchos &lpar;many to many&rpar; entre modelos](https://dev.to/manuelcanga/django-relaciones-muchos-a-muchos-many-to-many-entre-modelos-cde)
+- [How to Optimize Font Loading for Better Web Performance &lpar;Free Font Resources Included&rpar;](https://dev.to/zubair_anwar_9f082942a33c/how-to-optimize-font-loading-for-better-web-performance-free-font-resources-included-3fnc)
+- [How a DeepSeek-only agent framework hit 85% prefix cache rate &lpar;and saved 93% vs Claude&rpar;](https://dev.to/esengine/how-a-deepseek-only-agent-framework-hit-85-prefix-cache-rate-and-saved-93-vs-claude-5c9g)
 <!-- BLOG-POST-LIST:END -->
 
