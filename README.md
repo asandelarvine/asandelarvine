@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your pytest retries are lying to you. The hidden cost of --reruns, and the plugin I wrote so I could actually see what my tests were doing.](https://dev.to/michle/your-pytest-retries-are-lying-to-you-the-hidden-cost-of-reruns-and-the-plugin-i-wrote-so-i-27fh)
-- [Analyzing the Monthly Web Dev Career Thread: What…](https://dev.to/norviktech/analyzing-the-monthly-web-dev-career-thread-what-3o6g)
-- [I Fine-Tuned a Compliance Judge and Beat the Stock Model by +29.6pp F1](https://dev.to/akhona_eland_072dac9e0c2c/i-fine-tuned-a-compliance-judge-and-beat-the-stock-model-by-296pp-f1-4cgb)
-- [null=True on CharField Is Always Wrong — Here Is Why](https://dev.to/h_coder/nulltrue-on-charfield-is-always-wrong-here-is-why-1bop)
+- [When System Prompts Become Prompt Debt -What GitHub Copilot’s hidden instructions reveal about AI agent design](https://dev.to/synthaicode_commander/when-system-prompts-become-prompt-debt-what-github-copilots-hidden-instructions-reveal-about-ai-oci)
+- [KYC vs ID verification: the same software, for different reasons](https://dev.to/bestkyc/kyc-vs-id-verification-the-same-software-for-different-reasons-3pae)
+- [OCR Is Not Redaction: Building Safer Auto-Redaction With Tesseract.js](https://dev.to/byeval/ocr-is-not-redaction-building-safer-auto-redaction-with-tesseractjs-1ipj)
+- [Why Your AI Agent Forgets Everything When You Close the Tab](https://dev.to/waxell/why-your-ai-agent-forgets-everything-when-you-close-the-tab-b8p)
 <!-- BLOG-POST-LIST:END -->
 
