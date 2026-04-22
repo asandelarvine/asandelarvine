@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When System Prompts Become Prompt Debt -What GitHub Copilot’s hidden instructions reveal about AI agent design](https://dev.to/synthaicode_commander/when-system-prompts-become-prompt-debt-what-github-copilots-hidden-instructions-reveal-about-ai-oci)
-- [KYC vs ID verification: the same software, for different reasons](https://dev.to/bestkyc/kyc-vs-id-verification-the-same-software-for-different-reasons-3pae)
-- [OCR Is Not Redaction: Building Safer Auto-Redaction With Tesseract.js](https://dev.to/byeval/ocr-is-not-redaction-building-safer-auto-redaction-with-tesseractjs-1ipj)
-- [Why Your AI Agent Forgets Everything When You Close the Tab](https://dev.to/waxell/why-your-ai-agent-forgets-everything-when-you-close-the-tab-b8p)
+- [Quiz Game challenge](https://dev.to/nkwenui_nadine_4c9ccadafe/quiz-game-challenge-46ek)
+- [Contract-Based Design: How I Make AI Agents Work Faster Without Breaking Each Other](https://dev.to/akshatsoni26/contract-based-design-how-i-make-ai-agents-work-faster-without-breaking-each-other-1jn2)
+- [Cursor Rules for React: The Complete Guide to AI-Assisted React Development](https://dev.to/olivia_craft/cursor-rules-for-react-the-complete-guide-to-ai-assisted-react-development-1bbh)
+- [Cursor Rules for Angular: The Complete Guide to AI-Assisted Angular Development](https://dev.to/olivia_craft/cursor-rules-for-angular-the-complete-guide-to-ai-assisted-angular-development-2loe)
 <!-- BLOG-POST-LIST:END -->
 
