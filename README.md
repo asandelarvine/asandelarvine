@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generating PDFs from JSON Instead of HTML: Why Templates Are a Dead End](https://dev.to/iterationlayer/generating-pdfs-from-json-instead-of-html-why-templates-are-a-dead-end-5acd)
-- [Building Multi-Tenant Document Pipelines: Architecture Guide for Agencies](https://dev.to/iterationlayer/building-multi-tenant-document-pipelines-architecture-guide-for-agencies-300h)
-- [One n8n Node for Your Entire Document and Image Pipeline](https://dev.to/iterationlayer/one-n8n-node-for-your-entire-document-and-image-pipeline-2gd2)
-- [Unpopular Opinion: Do not use OpenClaw...not yet.](https://dev.to/francistrdev/unpopular-opinion-do-not-use-openclawnot-yet-5foe)
+- [TestSprite — localized dev review with feedback](https://dev.to/8006/testsprite-localized-dev-review-with-feedback-kjh)
+- [DataFrames &amp; SQL in Databricks: Reading, Writing, and Transforming Data](https://dev.to/qvfagundes/dataframes-sql-in-databricks-reading-writing-and-transforming-data-50h9)
+- [YOUR AI ASSISTANT MIGHT BE LYING TO YOU — AND OTHER UNCOMFORTABLE TRUTHS ABOUT AI TODAY](https://dev.to/samar_rai_3e37d61db7ae3a7/your-ai-assistant-might-be-lyingto-you-and-other-uncomfortable-truthsabout-ai-today-17ee)
+- [Why I Built byCode: A 100% Local, Privacy-First AI IDE](https://dev.to/matzcoelho/why-i-built-bycode-a-100-local-privacy-first-ai-ide-52a7)
 <!-- BLOG-POST-LIST:END -->
 
