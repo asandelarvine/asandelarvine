@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Events using MongoDB](https://dev.to/mongodb/introduction-to-events-using-mongodb-22b4)
-- [Make Your Hono Authorization Server Work on Any Host](https://dev.to/shygyver/make-your-hono-authorization-server-work-on-any-host-19ne)
-- [PostgreSQL CDC 240x Faster, Flowfile v0.9.0 ETL, SQLite_EXTRA_INIT Deep Dive](https://dev.to/soytuber/postgresql-cdc-240x-faster-flowfile-v090-etl-sqliteextrainit-deep-dive-44k5)
-- [This Week in Other AI Tools: Fastest-Growing Projects — April 22, 2026](https://dev.to/pullrepo/this-week-in-other-ai-tools-fastest-growing-projects-april-22-2026-1ec7)
+- [API keys were designed for humans. AI agents break them in 4 ways.](https://dev.to/allforscience/api-keys-were-designed-for-humans-ai-agents-break-them-in-4-ways-422)
+- [Kiwi-chan&#39;s Log: The Oak Log Obstacle Course](https://dev.to/kiwi_tech/kiwi-chans-log-the-oak-log-obstacle-course-27e7)
+- [Agentforce Builder: Build Your First AI Agent](https://dev.to/dipojjal/agentforce-builder-build-your-first-ai-agent-apn)
+- [Stop Memorizing the PDU names — Understand It Like Amazon Delivery](https://dev.to/taqq/stop-memorizing-the-pdu-names-understand-it-like-amazon-delivery-38km)
 <!-- BLOG-POST-LIST:END -->
 
