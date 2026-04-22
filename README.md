@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Quiz Game challenge](https://dev.to/nkwenui_nadine_4c9ccadafe/quiz-game-challenge-46ek)
-- [Contract-Based Design: How I Make AI Agents Work Faster Without Breaking Each Other](https://dev.to/akshatsoni26/contract-based-design-how-i-make-ai-agents-work-faster-without-breaking-each-other-1jn2)
-- [Cursor Rules for React: The Complete Guide to AI-Assisted React Development](https://dev.to/olivia_craft/cursor-rules-for-react-the-complete-guide-to-ai-assisted-react-development-1bbh)
-- [Cursor Rules for Angular: The Complete Guide to AI-Assisted Angular Development](https://dev.to/olivia_craft/cursor-rules-for-angular-the-complete-guide-to-ai-assisted-angular-development-2loe)
+- [Building the Best Cinematic Developer Portfolio in Nepal: A Deep Dive into React 19 &amp; GSAP](https://dev.to/santosh_kumarshah_/building-the-best-cinematic-developer-portfolio-in-nepal-a-deep-dive-into-react-19-gsap-4kng)
+- [I Was Tired of Cloning Entire GitHub Repos for One File — So I Built a GetGrabKit CLI Tool](https://dev.to/vamsha50/i-was-tired-of-cloning-entire-github-repos-for-one-file-so-i-built-a-getgrabkit-cli-tool-18nj)
+- [Blog 1: Foundations of Gradient Descent](https://dev.to/harshil_rami_8533a7388ef7/blog-1-foundations-of-gradient-descent-p6n)
+- [AI took my job but it didn&#39;t take my passion for writing software](https://dev.to/andreimerlescu/updated-last-week-24gc)
 <!-- BLOG-POST-LIST:END -->
 
