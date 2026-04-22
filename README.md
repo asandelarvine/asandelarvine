@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building the Best Cinematic Developer Portfolio in Nepal: A Deep Dive into React 19 &amp; GSAP](https://dev.to/santosh_kumarshah_/building-the-best-cinematic-developer-portfolio-in-nepal-a-deep-dive-into-react-19-gsap-4kng)
-- [I Was Tired of Cloning Entire GitHub Repos for One File — So I Built a GetGrabKit CLI Tool](https://dev.to/vamsha50/i-was-tired-of-cloning-entire-github-repos-for-one-file-so-i-built-a-getgrabkit-cli-tool-18nj)
-- [Blog 1: Foundations of Gradient Descent](https://dev.to/harshil_rami_8533a7388ef7/blog-1-foundations-of-gradient-descent-p6n)
-- [AI took my job but it didn&#39;t take my passion for writing software](https://dev.to/andreimerlescu/updated-last-week-24gc)
+- [Mastering Commonly Used SQL Joins: With Relatable Examples](https://dev.to/alex_coder/mastering-sql-joins-with-relatable-examples-1b5h)
+- [Color Contrast Checker](https://dev.to/colorswall/color-contrast-checker-5b5b)
+- [Bridging the Gap: Mastering Real-Time AI Camera Feeds in SwiftUI with UIViewRepresentable](https://dev.to/programmingcentral/bridging-the-gap-mastering-real-time-ai-camera-feeds-in-swiftui-with-uiviewrepresentable-pn5)
+- [I Imported HashiCorp&#39;s Own Terraform Repo Into a Governed Blueprint](https://dev.to/greg_lazarus_9b7e403f2daa/i-imported-hashicorps-own-terraform-repo-into-a-governed-blueprint-5fm3)
 <!-- BLOG-POST-LIST:END -->
 
