@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TestSprite — localized dev review with feedback](https://dev.to/8006/testsprite-localized-dev-review-with-feedback-kjh)
-- [DataFrames &amp; SQL in Databricks: Reading, Writing, and Transforming Data](https://dev.to/qvfagundes/dataframes-sql-in-databricks-reading-writing-and-transforming-data-50h9)
-- [YOUR AI ASSISTANT MIGHT BE LYING TO YOU — AND OTHER UNCOMFORTABLE TRUTHS ABOUT AI TODAY](https://dev.to/samar_rai_3e37d61db7ae3a7/your-ai-assistant-might-be-lyingto-you-and-other-uncomfortable-truthsabout-ai-today-17ee)
-- [Why I Built byCode: A 100% Local, Privacy-First AI IDE](https://dev.to/matzcoelho/why-i-built-bycode-a-100-local-privacy-first-ai-ide-52a7)
+- [Cache-Aside and the Null Sentinel Pattern](https://dev.to/kalio/cache-aside-and-the-null-sentinel-pattern-5gjc)
+- [Stop Manually Fixing Your Agent’s Output: How We Built a Custom Skill for Monday.com](https://dev.to/david_shimon/stop-manually-fixing-your-agents-output-how-we-built-a-custom-skill-for-mondaycom-2ilh)
+- [How AI-900 Helps Beginners Understand Machine Learning and AI](https://dev.to/datta_kharad_3fd1383b5036/how-ai-900-helps-beginners-understand-machine-learning-and-ai-13b3)
+- [How to Build a Company Knowledge Base That Doesn&#39;t Become a Dump](https://dev.to/trackstack/how-to-build-a-company-knowledge-base-that-doesnt-become-a-dump-41e6)
 <!-- BLOG-POST-LIST:END -->
 
