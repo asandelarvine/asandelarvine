@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cache-Aside and the Null Sentinel Pattern](https://dev.to/kalio/cache-aside-and-the-null-sentinel-pattern-5gjc)
-- [Stop Manually Fixing Your Agent’s Output: How We Built a Custom Skill for Monday.com](https://dev.to/david_shimon/stop-manually-fixing-your-agents-output-how-we-built-a-custom-skill-for-mondaycom-2ilh)
-- [How AI-900 Helps Beginners Understand Machine Learning and AI](https://dev.to/datta_kharad_3fd1383b5036/how-ai-900-helps-beginners-understand-machine-learning-and-ai-13b3)
-- [How to Build a Company Knowledge Base That Doesn&#39;t Become a Dump](https://dev.to/trackstack/how-to-build-a-company-knowledge-base-that-doesnt-become-a-dump-41e6)
+- [The Freelance Rate Formula I Wish I Knew Earlier &lpar;Free Calculator Included&rpar;](https://dev.to/kineticgoods/the-freelance-rate-formula-i-wish-i-knew-earlier-free-calculator-included-6lh)
+- [### Ribbon: A CLI Project with the Potential to Become the Next Mainstream Tool](https://dev.to/transpective_ecf841cb1a37/-ribbon-a-cli-project-with-the-potential-to-become-the-next-mainstream-tool-40nc)
+- [This Week in RAG &amp; Vector Databases: Fastest-Growing Projects — April 22, 2026](https://dev.to/pullrepo/this-week-in-rag-vector-databases-fastest-growing-projects-april-22-2026-4f7c)
+- [Automated Intelligence Dev Bounty Scouter with OpenClaw, Gemini &amp; SearXNG in RPi](https://dev.to/kheai/automated-intelligence-dev-bounty-scouter-with-openclaw-gemini-searxng-in-rpi-2623)
 <!-- BLOG-POST-LIST:END -->
 
