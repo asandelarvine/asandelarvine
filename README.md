@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Commonly Used SQL Joins: With Relatable Examples](https://dev.to/alex_coder/mastering-sql-joins-with-relatable-examples-1b5h)
-- [Color Contrast Checker](https://dev.to/colorswall/color-contrast-checker-5b5b)
-- [Bridging the Gap: Mastering Real-Time AI Camera Feeds in SwiftUI with UIViewRepresentable](https://dev.to/programmingcentral/bridging-the-gap-mastering-real-time-ai-camera-feeds-in-swiftui-with-uiviewrepresentable-pn5)
-- [I Imported HashiCorp&#39;s Own Terraform Repo Into a Governed Blueprint](https://dev.to/greg_lazarus_9b7e403f2daa/i-imported-hashicorps-own-terraform-repo-into-a-governed-blueprint-5fm3)
+- [Introduction to Events using MongoDB](https://dev.to/mongodb/introduction-to-events-using-mongodb-22b4)
+- [Make Your Hono Authorization Server Work on Any Host](https://dev.to/shygyver/make-your-hono-authorization-server-work-on-any-host-19ne)
+- [PostgreSQL CDC 240x Faster, Flowfile v0.9.0 ETL, SQLite_EXTRA_INIT Deep Dive](https://dev.to/soytuber/postgresql-cdc-240x-faster-flowfile-v090-etl-sqliteextrainit-deep-dive-44k5)
+- [This Week in Other AI Tools: Fastest-Growing Projects — April 22, 2026](https://dev.to/pullrepo/this-week-in-other-ai-tools-fastest-growing-projects-april-22-2026-1ec7)
 <!-- BLOG-POST-LIST:END -->
 
