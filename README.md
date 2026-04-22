@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Freelance Rate Formula I Wish I Knew Earlier &lpar;Free Calculator Included&rpar;](https://dev.to/kineticgoods/the-freelance-rate-formula-i-wish-i-knew-earlier-free-calculator-included-6lh)
-- [### Ribbon: A CLI Project with the Potential to Become the Next Mainstream Tool](https://dev.to/transpective_ecf841cb1a37/-ribbon-a-cli-project-with-the-potential-to-become-the-next-mainstream-tool-40nc)
-- [This Week in RAG &amp; Vector Databases: Fastest-Growing Projects — April 22, 2026](https://dev.to/pullrepo/this-week-in-rag-vector-databases-fastest-growing-projects-april-22-2026-4f7c)
-- [Automated Intelligence Dev Bounty Scouter with OpenClaw, Gemini &amp; SearXNG in RPi](https://dev.to/kheai/automated-intelligence-dev-bounty-scouter-with-openclaw-gemini-searxng-in-rpi-2623)
+- [Color Contrast Failures: The Number One Accessibility Issue and How to Fix It](https://dev.to/toolkitonline/color-contrast-failures-the-number-one-accessibility-issue-and-how-to-fix-it-3mn1)
+- [I Built a Swarm Agent RAG System Inspired by Karpathy&#39;s LLM Wiki](https://dev.to/arananet/i-built-a-swarm-agent-rag-system-inspired-by-karpathys-llm-wiki-2adn)
+- [Lovable Just Proved Everything We Found in Our 600K Line Audit](https://dev.to/pawel_reszka/lovable-just-proved-everything-we-found-in-our-600k-line-audit-21kl)
+- [TLS Certificate Expiry: Detection, Renewal, and the 47-Day Future](https://dev.to/xdsai/tls-certificate-expiry-detection-renewal-and-the-47-day-future-2alp)
 <!-- BLOG-POST-LIST:END -->
 
