@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Color Contrast Failures: The Number One Accessibility Issue and How to Fix It](https://dev.to/toolkitonline/color-contrast-failures-the-number-one-accessibility-issue-and-how-to-fix-it-3mn1)
-- [I Built a Swarm Agent RAG System Inspired by Karpathy&#39;s LLM Wiki](https://dev.to/arananet/i-built-a-swarm-agent-rag-system-inspired-by-karpathys-llm-wiki-2adn)
-- [Lovable Just Proved Everything We Found in Our 600K Line Audit](https://dev.to/pawel_reszka/lovable-just-proved-everything-we-found-in-our-600k-line-audit-21kl)
-- [TLS Certificate Expiry: Detection, Renewal, and the 47-Day Future](https://dev.to/xdsai/tls-certificate-expiry-detection-renewal-and-the-47-day-future-2alp)
+- [Your pytest retries are lying to you. The hidden cost of --reruns, and the plugin I wrote so I could actually see what my tests were doing.](https://dev.to/michle/your-pytest-retries-are-lying-to-you-the-hidden-cost-of-reruns-and-the-plugin-i-wrote-so-i-27fh)
+- [Analyzing the Monthly Web Dev Career Thread: What…](https://dev.to/norviktech/analyzing-the-monthly-web-dev-career-thread-what-3o6g)
+- [I Fine-Tuned a Compliance Judge and Beat the Stock Model by +29.6pp F1](https://dev.to/akhona_eland_072dac9e0c2c/i-fine-tuned-a-compliance-judge-and-beat-the-stock-model-by-296pp-f1-4cgb)
+- [null=True on CharField Is Always Wrong — Here Is Why](https://dev.to/h_coder/nulltrue-on-charfield-is-always-wrong-here-is-why-1bop)
 <!-- BLOG-POST-LIST:END -->
 
