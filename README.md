@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [API keys were designed for humans. AI agents break them in 4 ways.](https://dev.to/allforscience/api-keys-were-designed-for-humans-ai-agents-break-them-in-4-ways-422)
-- [Kiwi-chan&#39;s Log: The Oak Log Obstacle Course](https://dev.to/kiwi_tech/kiwi-chans-log-the-oak-log-obstacle-course-27e7)
-- [Agentforce Builder: Build Your First AI Agent](https://dev.to/dipojjal/agentforce-builder-build-your-first-ai-agent-apn)
-- [Stop Memorizing the PDU names — Understand It Like Amazon Delivery](https://dev.to/taqq/stop-memorizing-the-pdu-names-understand-it-like-amazon-delivery-38km)
+- [A Looming Crisis of AI Generated Text](https://dev.to/nathanepstein/a-looming-crisis-of-ai-generated-text-e4f)
+- [I Let an AI Agent Run a Product Launch for a Week. The Product Was Fine. Nobody Needed It.](https://dev.to/kairi_outputs/i-let-an-ai-agent-run-a-product-launch-for-a-week-the-product-was-fine-nobody-needed-it-7cn)
+- [I Built a Live Subscription Dashboard on RevenueCat&#39;s Charts API in One HTML File](https://dev.to/jordan_sterchele/i-built-a-live-subscription-dashboard-on-revenuecats-charts-api-in-one-html-file-5alc)
+- [Reacting to Database Changes in Real-Time: How I Built a CDC Tool](https://dev.to/olucasandrade/reacting-to-database-changes-in-real-time-how-i-built-a-cdc-tool-1pb0)
 <!-- BLOG-POST-LIST:END -->
 
