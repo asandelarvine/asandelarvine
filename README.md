@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Opening a PDF Without Leaving a Single Trace on macOS [Devlog #9]](https://dev.to/hiyoyok/opening-a-pdf-without-leaving-a-single-trace-on-macos-devlog-9-386p)
-- [Agentic Commerce Optimization: What 4,491 Merchants Reveal About UCP Readiness](https://dev.to/benjifisher/agentic-commerce-optimization-what-4491-merchants-reveal-about-ucp-readiness-3fk)
-- [The Platform Beneath the Platform: Building an Internal Developer Platform That Actually Works](https://dev.to/naveens16/the-platform-beneath-the-platform-building-an-internal-developer-platform-that-actually-works-18gk)
-- [Python CQRS: Building distributed systems without the pain &lpar;Sagas, Outbox, Event-Driven&rpar;](https://dev.to/vadikko2/python-cqrs-building-distributed-systems-without-the-pain-sagas-outbox-event-driven-5aog)
+- [I Cancelled Codex Two Months Ago. Opus 4.7 Brought Me Back.](https://dev.to/joozio/i-cancelled-codex-two-months-ago-opus-47-brought-me-back-57ef)
+- [20+ signs you&#39;re a real programmer &lpar;using two monitors isn&#39;t one&rpar;...](https://dev.to/canro91/20-signs-youre-a-real-programmer-using-two-monitors-isnt-one-4a19)
+- [How OpenSearch Plugins Really Work: Architecture &amp; Extension Points](https://dev.to/iprithv/how-opensearch-plugins-really-work-architecture-extension-points-21nd)
+- [My Claude Code status bar colors rate-limit bars by pace, not fill](https://dev.to/mikelane/my-claude-code-status-bar-colors-rate-limit-bars-by-pace-not-fill-2oh9)
 <!-- BLOG-POST-LIST:END -->
 
