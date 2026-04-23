@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mutorials: a free adaptive science trainer that makes practice actually stick](https://dev.to/mu_foundation_ba010ad8ffa/mutorials-a-free-adaptive-science-trainer-that-makes-practice-actually-stick-235l)
-- [DPDPA compliance is a cloud config problem](https://dev.to/aicloudstrategist/dpdpa-compliance-is-a-cloud-config-problem-4246)
-- [The Definitive Guide to Lightweight Kubernetes: KIND, Minikube, MicroK8s, K3s, Vcluster, k0s, and RKE2 Compared](https://dev.to/pendelabhargavasai/the-definitive-guide-to-lightweight-kubernetes-kind-minikube-microk8s-k3s-vcluster-k0s-and-3be1)
-- [Practical Guide: Building an Active-Active Multicloud Cell-Based Architecture](https://dev.to/sertaoseracloud/practical-guide-building-an-active-active-multicloud-cell-based-architecture-bk8)
+- [Stop Flickering UIs: Handle Subdomains with Next.js Edge Middleware ⚡](https://dev.to/iprajapatiparesh/stop-flickering-uis-handle-subdomains-with-nextjs-edge-middleware-egn)
+- [Fonctionnement d’une blockchain - Étape 5/8 : Lien “maillon - maillon”](https://dev.to/amel_in_tech/fonctionnement-dune-blockchain-etape-58-lien-maillon-maillon-55il)
+- [Building MCP Servers in Python: a production primer for 2026](https://dev.to/tufailkhan457/building-mcp-servers-in-python-a-production-primer-for-2026-4kh2)
+- [I Built a Local AI VRAM Calculator &amp; GPU Planner &lpar;Beta&rpar;](https://dev.to/logarithmicspirals/i-built-a-local-ai-vram-calculator-gpu-planner-beta-g7b)
 <!-- BLOG-POST-LIST:END -->
 
