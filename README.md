@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Compact Is Not TypeScript. That&#39;s the Whole Point.](https://dev.to/midnight-aliit/compact-is-not-typescript-thats-the-whole-point-3d9)
-- [SVG to PNG: Complete Guide for Developers [2026]](https://dev.to/samma1997/svg-to-png-complete-guide-for-developers-2026-261c)
-- [GIF to MP4: Stop Using Animated GIFs in 2026](https://dev.to/samma1997/gif-to-mp4-stop-using-animated-gifs-in-2026-4ofl)
-- [I built a lightweight IDE for Zig — focused, fast, and simple](https://dev.to/czax225/i-built-a-lightweight-ide-for-zig-focused-fast-and-simple-40m7)
+- [Best 7 AI Voice Agent Platforms in 2026](https://dev.to/hoe_shilee_b3aa96e0da49e/best-7-ai-voice-agent-platforms-in-2026-50b4)
+- [AWS Cognito Refused to Cooperate. So I Made Google and Cognito Think They&#39;re Talking to Each Other.&lpar;Nestjs&rpar;](https://dev.to/shubham_sharma_043/aws-cognito-refused-to-cooperate-so-i-made-google-and-cognito-think-theyre-talking-to-each-4478)
+- [I Backtested My Own GEX Product Across 8 Years of SPY. Most of It Is Just VIX.](https://dev.to/tomasz_dobrowolski_35d32c/i-backtested-my-own-gex-product-across-8-years-of-spy-most-of-it-is-just-vix-a53)
+- [AI Agent Networking in 2026: NAT Traversal, Encrypted Tunnels, and Why MCP Needs a Transport Layer](https://dev.to/artem_a/ai-agent-networking-in-2026-nat-traversal-encrypted-tunnels-and-why-mcp-needs-a-transport-layer-5hbm)
 <!-- BLOG-POST-LIST:END -->
 
