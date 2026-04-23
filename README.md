@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Cancelled Codex Two Months Ago. Opus 4.7 Brought Me Back.](https://dev.to/joozio/i-cancelled-codex-two-months-ago-opus-47-brought-me-back-57ef)
-- [20+ signs you&#39;re a real programmer &lpar;using two monitors isn&#39;t one&rpar;...](https://dev.to/canro91/20-signs-youre-a-real-programmer-using-two-monitors-isnt-one-4a19)
-- [How OpenSearch Plugins Really Work: Architecture &amp; Extension Points](https://dev.to/iprithv/how-opensearch-plugins-really-work-architecture-extension-points-21nd)
-- [My Claude Code status bar colors rate-limit bars by pace, not fill](https://dev.to/mikelane/my-claude-code-status-bar-colors-rate-limit-bars-by-pace-not-fill-2oh9)
+- [Why Is Redis INCR a Bad Fit for a Public URL Shortener?](https://dev.to/leetdezine/url-shortener-traps-that-look-correct-until-they-break-2o8g)
+- [Finding a Practical Analytics Format for Structured JSON Logs](https://dev.to/vearutop/finding-a-practical-analytics-format-for-structured-json-logs-32l1)
+- [Working with JSON in Python Explained Simply](https://dev.to/shahrouzlogs/working-with-json-in-python-explained-simply-o3d)
+- [Why I Stopped Using LangGraph](https://dev.to/deadlocker/why-i-stopped-using-langgraph-4jo2)
 <!-- BLOG-POST-LIST:END -->
 
