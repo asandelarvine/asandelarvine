@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Word ladders the right way: BFS, bidirectional search, and why Dijkstra is overkill](https://dev.to/dean_gilley/word-ladders-the-right-way-bfs-bidirectional-search-and-why-dijkstra-is-overkill-2ipb)
-- [Spelling correction at scale: Levenshtein distance, BK-trees, and symmetric deletion](https://dev.to/dean_gilley/spelling-correction-at-scale-levenshtein-distance-bk-trees-and-symmetric-deletion-4c1p)
-- [How I Built a React JSON Tool That Handles 150k+ Lines Without Freezing the Browser](https://dev.to/divyanshu_deepam_f78b286a/how-i-built-a-react-json-tool-that-handles-150k-lines-without-freezing-the-browser-4l97)
-- [How to Secure a System with mTLS Certificates &lpar;Mutual TLS&rpar;](https://dev.to/oscar_ricardosncheguti/how-to-secure-a-system-with-mtls-certificates-mutual-tls-3i39)
+- [I Replaced $800/mo in API Costs with a Local Llama 4 Setup for E-Commerce](https://dev.to/doltter/i-replaced-800mo-in-api-costs-with-a-local-llama-4-setup-for-e-commerce-2ipm)
+- [Introducing WebhookRelay: A Modern .NET Open Source Webhook Management Platform](https://dev.to/vikrant_bagal_afae3e25ca7/introducing-webhookrelay-a-modern-net-open-source-webhook-management-platform-457e)
+- [Dev Tools para Todos](https://dev.to/cescquintero/dev-tools-para-todos-jpi)
+- [Congrats to the April Fools Challenge Winners!!](https://dev.to/devteam/congrats-to-the-april-fools-challenge-winners-l8f)
 <!-- BLOG-POST-LIST:END -->
 
