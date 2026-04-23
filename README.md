@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Looming Crisis of AI Generated Text](https://dev.to/nathanepstein/a-looming-crisis-of-ai-generated-text-e4f)
-- [I Let an AI Agent Run a Product Launch for a Week. The Product Was Fine. Nobody Needed It.](https://dev.to/kairi_outputs/i-let-an-ai-agent-run-a-product-launch-for-a-week-the-product-was-fine-nobody-needed-it-7cn)
-- [I Built a Live Subscription Dashboard on RevenueCat&#39;s Charts API in One HTML File](https://dev.to/jordan_sterchele/i-built-a-live-subscription-dashboard-on-revenuecats-charts-api-in-one-html-file-5alc)
-- [Reacting to Database Changes in Real-Time: How I Built a CDC Tool](https://dev.to/olucasandrade/reacting-to-database-changes-in-real-time-how-i-built-a-cdc-tool-1pb0)
+- [Mutorials: a free adaptive science trainer that makes practice actually stick](https://dev.to/mu_foundation_ba010ad8ffa/mutorials-a-free-adaptive-science-trainer-that-makes-practice-actually-stick-235l)
+- [DPDPA compliance is a cloud config problem](https://dev.to/aicloudstrategist/dpdpa-compliance-is-a-cloud-config-problem-4246)
+- [The Definitive Guide to Lightweight Kubernetes: KIND, Minikube, MicroK8s, K3s, Vcluster, k0s, and RKE2 Compared](https://dev.to/pendelabhargavasai/the-definitive-guide-to-lightweight-kubernetes-kind-minikube-microk8s-k3s-vcluster-k0s-and-3be1)
+- [Practical Guide: Building an Active-Active Multicloud Cell-Based Architecture](https://dev.to/sertaoseracloud/practical-guide-building-an-active-active-multicloud-cell-based-architecture-bk8)
 <!-- BLOG-POST-LIST:END -->
 
