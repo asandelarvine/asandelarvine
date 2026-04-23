@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Replaced $800/mo in API Costs with a Local Llama 4 Setup for E-Commerce](https://dev.to/doltter/i-replaced-800mo-in-api-costs-with-a-local-llama-4-setup-for-e-commerce-2ipm)
-- [Introducing WebhookRelay: A Modern .NET Open Source Webhook Management Platform](https://dev.to/vikrant_bagal_afae3e25ca7/introducing-webhookrelay-a-modern-net-open-source-webhook-management-platform-457e)
-- [Dev Tools para Todos](https://dev.to/cescquintero/dev-tools-para-todos-jpi)
-- [Congrats to the April Fools Challenge Winners!!](https://dev.to/devteam/congrats-to-the-april-fools-challenge-winners-l8f)
+- [Breaking web apps](https://dev.to/ifeanyichima/breaking-web-apps-26bl)
+- [Notes from Reading Claude Code&#39;s Leaked Source](https://dev.to/arasovic/notes-from-reading-claude-codes-leaked-source-4eb5)
+- [Backend AI Needs an Action Surface, Not Just a Chat Box](https://dev.to/rapidkit/backend-ai-needs-an-action-surface-not-just-a-chat-box-40h4)
+- [Using AI to Build Your Year-End Performance Case](https://dev.to/9thquadrant/using-ai-to-build-your-year-end-performance-case-26kj)
 <!-- BLOG-POST-LIST:END -->
 
