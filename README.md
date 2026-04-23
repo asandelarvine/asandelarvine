@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best 7 AI Voice Agent Platforms in 2026](https://dev.to/hoe_shilee_b3aa96e0da49e/best-7-ai-voice-agent-platforms-in-2026-50b4)
-- [AWS Cognito Refused to Cooperate. So I Made Google and Cognito Think They&#39;re Talking to Each Other.&lpar;Nestjs&rpar;](https://dev.to/shubham_sharma_043/aws-cognito-refused-to-cooperate-so-i-made-google-and-cognito-think-theyre-talking-to-each-4478)
-- [I Backtested My Own GEX Product Across 8 Years of SPY. Most of It Is Just VIX.](https://dev.to/tomasz_dobrowolski_35d32c/i-backtested-my-own-gex-product-across-8-years-of-spy-most-of-it-is-just-vix-a53)
-- [AI Agent Networking in 2026: NAT Traversal, Encrypted Tunnels, and Why MCP Needs a Transport Layer](https://dev.to/artem_a/ai-agent-networking-in-2026-nat-traversal-encrypted-tunnels-and-why-mcp-needs-a-transport-layer-5hbm)
+- [Opening a PDF Without Leaving a Single Trace on macOS [Devlog #9]](https://dev.to/hiyoyok/opening-a-pdf-without-leaving-a-single-trace-on-macos-devlog-9-386p)
+- [Agentic Commerce Optimization: What 4,491 Merchants Reveal About UCP Readiness](https://dev.to/benjifisher/agentic-commerce-optimization-what-4491-merchants-reveal-about-ucp-readiness-3fk)
+- [The Platform Beneath the Platform: Building an Internal Developer Platform That Actually Works](https://dev.to/naveens16/the-platform-beneath-the-platform-building-an-internal-developer-platform-that-actually-works-18gk)
+- [Python CQRS: Building distributed systems without the pain &lpar;Sagas, Outbox, Event-Driven&rpar;](https://dev.to/vadikko2/python-cqrs-building-distributed-systems-without-the-pain-sagas-outbox-event-driven-5aog)
 <!-- BLOG-POST-LIST:END -->
 
