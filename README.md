@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Is Redis INCR a Bad Fit for a Public URL Shortener?](https://dev.to/leetdezine/url-shortener-traps-that-look-correct-until-they-break-2o8g)
-- [Finding a Practical Analytics Format for Structured JSON Logs](https://dev.to/vearutop/finding-a-practical-analytics-format-for-structured-json-logs-32l1)
-- [Working with JSON in Python Explained Simply](https://dev.to/shahrouzlogs/working-with-json-in-python-explained-simply-o3d)
-- [Why I Stopped Using LangGraph](https://dev.to/deadlocker/why-i-stopped-using-langgraph-4jo2)
+- [Word ladders the right way: BFS, bidirectional search, and why Dijkstra is overkill](https://dev.to/dean_gilley/word-ladders-the-right-way-bfs-bidirectional-search-and-why-dijkstra-is-overkill-2ipb)
+- [Spelling correction at scale: Levenshtein distance, BK-trees, and symmetric deletion](https://dev.to/dean_gilley/spelling-correction-at-scale-levenshtein-distance-bk-trees-and-symmetric-deletion-4c1p)
+- [How I Built a React JSON Tool That Handles 150k+ Lines Without Freezing the Browser](https://dev.to/divyanshu_deepam_f78b286a/how-i-built-a-react-json-tool-that-handles-150k-lines-without-freezing-the-browser-4l97)
+- [How to Secure a System with mTLS Certificates &lpar;Mutual TLS&rpar;](https://dev.to/oscar_ricardosncheguti/how-to-secure-a-system-with-mtls-certificates-mutual-tls-3i39)
 <!-- BLOG-POST-LIST:END -->
 
