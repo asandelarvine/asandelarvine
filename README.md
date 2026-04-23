@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Flickering UIs: Handle Subdomains with Next.js Edge Middleware ⚡](https://dev.to/iprajapatiparesh/stop-flickering-uis-handle-subdomains-with-nextjs-edge-middleware-egn)
-- [Fonctionnement d’une blockchain - Étape 5/8 : Lien “maillon - maillon”](https://dev.to/amel_in_tech/fonctionnement-dune-blockchain-etape-58-lien-maillon-maillon-55il)
-- [Building MCP Servers in Python: a production primer for 2026](https://dev.to/tufailkhan457/building-mcp-servers-in-python-a-production-primer-for-2026-4kh2)
-- [I Built a Local AI VRAM Calculator &amp; GPU Planner &lpar;Beta&rpar;](https://dev.to/logarithmicspirals/i-built-a-local-ai-vram-calculator-gpu-planner-beta-g7b)
+- [Compact Is Not TypeScript. That&#39;s the Whole Point.](https://dev.to/midnight-aliit/compact-is-not-typescript-thats-the-whole-point-3d9)
+- [SVG to PNG: Complete Guide for Developers [2026]](https://dev.to/samma1997/svg-to-png-complete-guide-for-developers-2026-261c)
+- [GIF to MP4: Stop Using Animated GIFs in 2026](https://dev.to/samma1997/gif-to-mp4-stop-using-animated-gifs-in-2026-4ofl)
+- [I built a lightweight IDE for Zig — focused, fast, and simple](https://dev.to/czax225/i-built-a-lightweight-ide-for-zig-focused-fast-and-simple-40m7)
 <!-- BLOG-POST-LIST:END -->
 
