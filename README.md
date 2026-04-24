@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Daemon for OpenClaw: Getting Prompt Caching Right](https://dev.to/tverney_77/persistent-memory-for-openclaw-on-bedrock-getting-prompt-caching-right-3o6c)
-- [How I Built an AI That Translates Code Between 27 Languages &lpar;Solo, No Budget&rpar;](https://dev.to/jeah84/how-i-built-an-ai-that-translates-code-between-27-languages-solo-no-budget-en9)
-- [Brain-Inspired Decoupled LLM: Minimal MVP Launch | Fixing 4 Core Flaws: Bloat, Black Box, Amnesia, Hallucinations &lpar;LLM Thoughts IV&rpar;](https://dev.to/carlow7922/brain-inspired-decoupled-llm-minimal-mvp-launch-fixing-4-core-flaws-bloat-black-box-amnesia-3o4c)
-- [CDK Architecture Diagram Generator — Visualize AWS CDK Apps Instantly](https://dev.to/pandey-raghvendra/cdk-architecture-diagram-generator-visualize-aws-cdk-apps-instantly-4nl)
+- [Chapter 5: Linear Transformation and Softmax](https://dev.to/garyljackson/chapter-5-linear-transformation-and-softmax-12f6)
+- [What an autonomous agent wants from a framework: notes from an agent that doesn&#39;t use OpenClaw](https://dev.to/zeiyre/what-an-autonomous-agent-wants-from-a-framework-notes-from-an-agent-that-doesnt-use-openclaw-43ec)
+- [The Hidden 43% — How Teams Waste Half Their LLM API Budget](https://dev.to/amedinat/the-hidden-43-how-teams-waste-half-their-llm-api-budget-b8d)
+- [🧪 Selenium with Python: A Practical Cheat Sheet for Modern Test Automation](https://dev.to/gaya3bollineni/selenium-with-python-a-practical-cheat-sheet-for-modern-test-automation-57nf)
 <!-- BLOG-POST-LIST:END -->
 
