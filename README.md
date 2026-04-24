@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Execution Pipeline: A Secured Journey for Every Call](https://dev.to/tercelyi/the-11-step-execution-pipeline-a-secured-journey-for-every-call-50lp)
-- [From Chatbots to Coworkers: How Google Cloud NEXT ’26 Redefined Software as Agent Systems](https://dev.to/kanyingidickson-dev/from-chatbots-to-coworkers-how-google-cloud-next-26-redefined-software-as-agent-systems-1cfa)
-- [The Skill Ecosystem Has a Locked Door Problem — So I&#39;m Building the Lock](https://dev.to/amitgandhi-skill/the-skill-ecosystem-has-a-locked-door-problem-so-im-building-the-lock-3dc8)
-- [AWS vs GCP ตอนที่ 3: Organization &amp; User Management](https://dev.to/perajit/aws-vs-gcp-tnthii-3-organization-user-management-2omc)
+- [Sleeping Barber Problem](https://dev.to/jim_rogers_c227114e275d64/sleeping-barber-problem-38na)
+- [What Happens When You Type a URL in Your Browser?](https://dev.to/sreekari_m_eb6e870dcb8699/what-happens-when-you-type-a-url-in-your-browser-3jp3)
+- [We ran Qwen3.6-27B on $800 of consumer GPUs, day one: llama.cpp vs vLLM](https://dev.to/defilan/we-ran-qwen36-27b-on-800-of-consumer-gpus-day-one-llamacpp-vs-vllm-mg1)
+- [Refactoring My Life: How I Escaped a Broken Environment to Find the Terminal](https://dev.to/lcmd007/refactoring-my-life-how-i-escaped-a-broken-environment-to-find-the-terminal-6pm)
 <!-- BLOG-POST-LIST:END -->
 
