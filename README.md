@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Consistent Project Scaffolding at Scale with structkit](https://dev.to/structkit/consistent-project-scaffolding-at-scale-with-structkit-d8p)
-- [[PT-BR] Guia de Módulo OpenTofu AWS EC2: Requisitos, Testes e Estratégia BDD](https://dev.to/cedon/pt-br-modulo-opentofu-aws-ec2-requisitos-testes-e-estrategia-bdd-55o1)
-- [SecurityHeaders.com API Is Gone — Here&#39;s the Migration](https://dev.to/guardr/securityheaderscom-api-is-gone-heres-the-migration-4461)
-- [Add Authentication and SSO to Your Flet App](https://dev.to/descope/add-authentication-and-sso-to-your-flet-app-543b)
+- [Unpacking Git 2.54: Key Updates and Their Impact on Tech Startups](https://dev.to/dd8888/unpacking-git-254-key-updates-and-their-impact-on-tech-startups-1c5d)
+- [Combining Microsoft AGT Policies with Waxell Observability: A Reference Architecture](https://dev.to/waxell/combining-microsoft-agt-policies-with-waxell-observability-a-reference-architecture-bhp)
+- [TCP worked, UDP silently died: shipping a DNS proxy to fly.io](https://dev.to/kakarotdev/tcp-worked-udp-silently-died-shipping-a-dns-proxy-to-flyio-3e9n)
+- [DeepSeek V4 Price: Pro vs Flash API Costs](https://dev.to/super_jarvis_76aa3fc6035d/deepseek-v4-price-pro-vs-flash-api-costs-4lba)
 <!-- BLOG-POST-LIST:END -->
 
