@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LuxTorrent – a simple and lightweight torrent client 🟢](https://dev.to/daexoum/luxtorrent-a-simple-and-lightweight-torrent-client-283b)
-- [A few hours ago, I woke up to an email I didn&#39;t expect.](https://dev.to/scuradimensions/a-few-hours-ago-i-woke-up-to-an-email-i-didnt-expect-5371)
-- [Why Your Servo Installation Twitches Before It Starts](https://dev.to/_0c004e5fde78250aee362/why-your-servo-installation-twitches-before-it-starts-4e7k)
-- [Less human AI agents, please](https://dev.to/bansac1981/less-human-ai-agents-please-590l)
+- [Letters of Marque for AI Agents: The 600-Year Authorization Architecture You&#39;re Reinventing](https://dev.to/vibeagentmaking/letters-of-marque-for-ai-agents-the-600-year-authorization-architecture-youre-reinventing-2je)
+- [Scaling WebSockets to 100k Connections: Lessons from a Real-Time Cricket App](https://dev.to/ujjawal_tyagi_c5a84255da4/scaling-websockets-to-100k-connections-lessons-from-a-real-time-cricket-app-3f6n)
+- [AI SRE: The Complete Guide for Engineering Teams in 2026](https://dev.to/siddharth_singh_409bd5267/ai-sre-the-complete-guide-for-engineering-teams-in-2026-51ba)
+- [Claude Code Regression Shows the Real Risk is the Wrapper](https://dev.to/simon_paxton/claude-code-regression-shows-the-real-risk-is-the-wrapper-4mga)
 <!-- BLOG-POST-LIST:END -->
 
