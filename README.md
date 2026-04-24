@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 AI Dev Tools](https://dev.to/kalpesh47/ai-dev-tools-bmh)
-- [I scanned the #1 GitHub repository and here&#39;s what I found](https://dev.to/_1353e04f14b156240b/i-scanned-the-1-github-repository-and-heres-what-i-found-2one)
-- [Why Login Isn&#39;t Enough: Cryptographic Intent Verification for AI Agents](https://dev.to/fortsignal/why-login-isnt-enough-cryptographic-intent-verification-for-ai-agents-1if3)
-- [My Journey into the Cloud: Breaking Down AWS Practitioner Essentials &lpar;Module 1&rpar;](https://dev.to/pradhum_dd2a91ad908680fce/my-journey-into-the-cloud-breaking-down-aws-practitioner-essentials-module-1-3a07)
+- [LuxTorrent – a simple and lightweight torrent client 🟢](https://dev.to/daexoum/luxtorrent-a-simple-and-lightweight-torrent-client-283b)
+- [A few hours ago, I woke up to an email I didn&#39;t expect.](https://dev.to/scuradimensions/a-few-hours-ago-i-woke-up-to-an-email-i-didnt-expect-5371)
+- [Why Your Servo Installation Twitches Before It Starts](https://dev.to/_0c004e5fde78250aee362/why-your-servo-installation-twitches-before-it-starts-4e7k)
+- [Less human AI agents, please](https://dev.to/bansac1981/less-human-ai-agents-please-590l)
 <!-- BLOG-POST-LIST:END -->
 
