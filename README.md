@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate Xero Practice Manager API &lpar;Step-by-Step + Real Use Cases&rpar;](https://dev.to/chintan-prajapati/how-to-integrate-xero-practice-manager-api-step-by-step-real-use-cases-186c)
-- [Rigid Apps Are Breaking — AI Demands Blocks](https://dev.to/blockify/rigid-apps-are-breaking-ai-demands-blocks-3fpa)
-- [ChronoAgent: I Built an Agent That Reads My WhatsApp So I Stop Missing Deadlines](https://dev.to/kakeroth/chronoagent-i-built-an-agent-that-reads-my-whatsapp-so-i-stop-missing-deadlines-34do)
-- [I Switched From Prisma to Drizzle on a Live SaaS. Here&#39;s What Nobody Warned Me About.](https://dev.to/whoffagents/i-switched-from-prisma-to-drizzle-on-a-live-saas-heres-what-nobody-warned-me-about-5811)
+- [lopdf vs pdfium in Rust — Why I Chose the Smaller One](https://dev.to/hiyoyok/lopdf-vs-pdfium-in-rust-why-i-chose-the-smaller-one-11pa)
+- [IPTV Systems Architecture: The Brutal Realities of Scaling](https://dev.to/jaksontate/iptv-systems-architecture-the-brutal-realities-of-scaling-4dpo)
+- [GPT-5.5 Is Out — What Makes It Different?](https://dev.to/jon_dabb441f4278b2d/gpt-55-is-out-what-makes-it-different-2apj)
+- [GPT-5.5 is here. So is DeepSeek V4. And honestly, I am tired of version numbers.](https://dev.to/theaiobserver/gpt-55-is-here-so-is-deepseek-v4-and-honestly-i-am-tired-of-version-numbers-1jdm)
 <!-- BLOG-POST-LIST:END -->
 
