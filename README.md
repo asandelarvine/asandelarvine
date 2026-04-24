@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Tools and Resources for AI Chatbot Automation](https://dev.to/it_zainlee_0f7f70ea3dc172/top-tools-and-resources-for-ai-chatbot-automation-99c)
-- [The Vibe Coding Reckoning](https://dev.to/rawveg/the-vibe-coding-reckoning-k38)
-- [How I Built a Personal Training Coach in One Week](https://dev.to/bokuno_log/how-i-built-a-personal-training-coach-in-one-week-47m)
-- [DukanBot: I Flipped OpenClaw Inside-Out to Run WhatsApp for 12 Million Kirana Stores](https://dev.to/simranshaikh20_50/dukanbot-i-flipped-openclaw-inside-out-to-run-whatsapp-for-12-million-kirana-stores-3956)
+- [Don&#39;t Build Your MCP Server as an API Wrapper](https://dev.to/logiqode/title-dont-build-your-mcp-server-as-an-api-wrapper-359n)
+- [Por Que Desenvolvedores Com Conhecimento Técnico Não Conseguem Vagas?](https://dev.to/talissondev/por-que-desenvolvedores-com-conhecimento-tecnico-nao-conseguem-vagas-32b8)
+- [Tecnologia não é custo. É decisão.](https://dev.to/talissondev/tecnologia-nao-e-custo-e-decisao-55bk)
+- [One-Person AI Companies Are the New Arbitrage](https://dev.to/dambilzerian/one-person-ai-companies-are-the-new-arbitrage-4ple)
 <!-- BLOG-POST-LIST:END -->
 
