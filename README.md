@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sleeping Barber Problem](https://dev.to/jim_rogers_c227114e275d64/sleeping-barber-problem-38na)
-- [What Happens When You Type a URL in Your Browser?](https://dev.to/sreekari_m_eb6e870dcb8699/what-happens-when-you-type-a-url-in-your-browser-3jp3)
-- [We ran Qwen3.6-27B on $800 of consumer GPUs, day one: llama.cpp vs vLLM](https://dev.to/defilan/we-ran-qwen36-27b-on-800-of-consumer-gpus-day-one-llamacpp-vs-vllm-mg1)
-- [Refactoring My Life: How I Escaped a Broken Environment to Find the Terminal](https://dev.to/lcmd007/refactoring-my-life-how-i-escaped-a-broken-environment-to-find-the-terminal-6pm)
+- [How to Integrate Xero Practice Manager API &lpar;Step-by-Step + Real Use Cases&rpar;](https://dev.to/chintan-prajapati/how-to-integrate-xero-practice-manager-api-step-by-step-real-use-cases-186c)
+- [Rigid Apps Are Breaking — AI Demands Blocks](https://dev.to/blockify/rigid-apps-are-breaking-ai-demands-blocks-3fpa)
+- [ChronoAgent: I Built an Agent That Reads My WhatsApp So I Stop Missing Deadlines](https://dev.to/kakeroth/chronoagent-i-built-an-agent-that-reads-my-whatsapp-so-i-stop-missing-deadlines-34do)
+- [I Switched From Prisma to Drizzle on a Live SaaS. Here&#39;s What Nobody Warned Me About.](https://dev.to/whoffagents/i-switched-from-prisma-to-drizzle-on-a-live-saas-heres-what-nobody-warned-me-about-5811)
 <!-- BLOG-POST-LIST:END -->
 
