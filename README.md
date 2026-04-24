@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unpacking Git 2.54: Key Updates and Their Impact on Tech Startups](https://dev.to/dd8888/unpacking-git-254-key-updates-and-their-impact-on-tech-startups-1c5d)
-- [Combining Microsoft AGT Policies with Waxell Observability: A Reference Architecture](https://dev.to/waxell/combining-microsoft-agt-policies-with-waxell-observability-a-reference-architecture-bhp)
-- [TCP worked, UDP silently died: shipping a DNS proxy to fly.io](https://dev.to/kakarotdev/tcp-worked-udp-silently-died-shipping-a-dns-proxy-to-flyio-3e9n)
-- [DeepSeek V4 Price: Pro vs Flash API Costs](https://dev.to/super_jarvis_76aa3fc6035d/deepseek-v4-price-pro-vs-flash-api-costs-4lba)
+- [🤖 AI Dev Tools](https://dev.to/kalpesh47/ai-dev-tools-bmh)
+- [I scanned the #1 GitHub repository and here&#39;s what I found](https://dev.to/_1353e04f14b156240b/i-scanned-the-1-github-repository-and-heres-what-i-found-2one)
+- [Why Login Isn&#39;t Enough: Cryptographic Intent Verification for AI Agents](https://dev.to/fortsignal/why-login-isnt-enough-cryptographic-intent-verification-for-ai-agents-1if3)
+- [My Journey into the Cloud: Breaking Down AWS Practitioner Essentials &lpar;Module 1&rpar;](https://dev.to/pradhum_dd2a91ad908680fce/my-journey-into-the-cloud-breaking-down-aws-practitioner-essentials-module-1-3a07)
 <!-- BLOG-POST-LIST:END -->
 
