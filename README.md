@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Build Your MCP Server as an API Wrapper](https://dev.to/logiqode/title-dont-build-your-mcp-server-as-an-api-wrapper-359n)
-- [Por Que Desenvolvedores Com Conhecimento Técnico Não Conseguem Vagas?](https://dev.to/talissondev/por-que-desenvolvedores-com-conhecimento-tecnico-nao-conseguem-vagas-32b8)
-- [Tecnologia não é custo. É decisão.](https://dev.to/talissondev/tecnologia-nao-e-custo-e-decisao-55bk)
-- [One-Person AI Companies Are the New Arbitrage](https://dev.to/dambilzerian/one-person-ai-companies-are-the-new-arbitrage-4ple)
+- [Consistent Project Scaffolding at Scale with structkit](https://dev.to/structkit/consistent-project-scaffolding-at-scale-with-structkit-d8p)
+- [[PT-BR] Guia de Módulo OpenTofu AWS EC2: Requisitos, Testes e Estratégia BDD](https://dev.to/cedon/pt-br-modulo-opentofu-aws-ec2-requisitos-testes-e-estrategia-bdd-55o1)
+- [SecurityHeaders.com API Is Gone — Here&#39;s the Migration](https://dev.to/guardr/securityheaderscom-api-is-gone-heres-the-migration-4461)
+- [Add Authentication and SSO to Your Flet App](https://dev.to/descope/add-authentication-and-sso-to-your-flet-app-543b)
 <!-- BLOG-POST-LIST:END -->
 
