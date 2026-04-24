@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [lopdf vs pdfium in Rust — Why I Chose the Smaller One](https://dev.to/hiyoyok/lopdf-vs-pdfium-in-rust-why-i-chose-the-smaller-one-11pa)
-- [IPTV Systems Architecture: The Brutal Realities of Scaling](https://dev.to/jaksontate/iptv-systems-architecture-the-brutal-realities-of-scaling-4dpo)
-- [GPT-5.5 Is Out — What Makes It Different?](https://dev.to/jon_dabb441f4278b2d/gpt-55-is-out-what-makes-it-different-2apj)
-- [GPT-5.5 is here. So is DeepSeek V4. And honestly, I am tired of version numbers.](https://dev.to/theaiobserver/gpt-55-is-here-so-is-deepseek-v4-and-honestly-i-am-tired-of-version-numbers-1jdm)
+- [Top Tools and Resources for AI Chatbot Automation](https://dev.to/it_zainlee_0f7f70ea3dc172/top-tools-and-resources-for-ai-chatbot-automation-99c)
+- [The Vibe Coding Reckoning](https://dev.to/rawveg/the-vibe-coding-reckoning-k38)
+- [How I Built a Personal Training Coach in One Week](https://dev.to/bokuno_log/how-i-built-a-personal-training-coach-in-one-week-47m)
+- [DukanBot: I Flipped OpenClaw Inside-Out to Run WhatsApp for 12 Million Kirana Stores](https://dev.to/simranshaikh20_50/dukanbot-i-flipped-openclaw-inside-out-to-run-whatsapp-for-12-million-kirana-stores-3956)
 <!-- BLOG-POST-LIST:END -->
 
