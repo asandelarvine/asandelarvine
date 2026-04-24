@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Letters of Marque for AI Agents: The 600-Year Authorization Architecture You&#39;re Reinventing](https://dev.to/vibeagentmaking/letters-of-marque-for-ai-agents-the-600-year-authorization-architecture-youre-reinventing-2je)
-- [Scaling WebSockets to 100k Connections: Lessons from a Real-Time Cricket App](https://dev.to/ujjawal_tyagi_c5a84255da4/scaling-websockets-to-100k-connections-lessons-from-a-real-time-cricket-app-3f6n)
-- [AI SRE: The Complete Guide for Engineering Teams in 2026](https://dev.to/siddharth_singh_409bd5267/ai-sre-the-complete-guide-for-engineering-teams-in-2026-51ba)
-- [Claude Code Regression Shows the Real Risk is the Wrapper](https://dev.to/simon_paxton/claude-code-regression-shows-the-real-risk-is-the-wrapper-4mga)
+- [Memory Daemon for OpenClaw: Getting Prompt Caching Right](https://dev.to/tverney_77/persistent-memory-for-openclaw-on-bedrock-getting-prompt-caching-right-3o6c)
+- [How I Built an AI That Translates Code Between 27 Languages &lpar;Solo, No Budget&rpar;](https://dev.to/jeah84/how-i-built-an-ai-that-translates-code-between-27-languages-solo-no-budget-en9)
+- [Brain-Inspired Decoupled LLM: Minimal MVP Launch | Fixing 4 Core Flaws: Bloat, Black Box, Amnesia, Hallucinations &lpar;LLM Thoughts IV&rpar;](https://dev.to/carlow7922/brain-inspired-decoupled-llm-minimal-mvp-launch-fixing-4-core-flaws-bloat-black-box-amnesia-3o4c)
+- [CDK Architecture Diagram Generator — Visualize AWS CDK Apps Instantly](https://dev.to/pandey-raghvendra/cdk-architecture-diagram-generator-visualize-aws-cdk-apps-instantly-4nl)
 <!-- BLOG-POST-LIST:END -->
 
