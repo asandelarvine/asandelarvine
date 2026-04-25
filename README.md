@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Continuous monitoring caught a credential leak in a published MCP package. Six republishes later, it is still there.](https://dev.to/michael_onyekwere/continuous-monitoring-caught-a-credential-leak-in-a-published-mcp-package-six-republishes-later-3app)
-- [Bypass Netflix&#39;s Household Verification](https://dev.to/hellodevto/bypass-netflixs-household-verification-13cf)
-- [Azure ML Pipelines + Azure DevOps: CI/CD for ML with Terraform 🔁](https://dev.to/suhas_mallesh/azure-ml-pipelines-azure-devops-cicd-for-ml-with-terraform-16oo)
-- [Join me in building a community-maintained fork of the Quill Editor 🙌](https://dev.to/jankapunkt/join-me-in-building-a-community-maintained-fork-of-the-quill-editor-29ib)
+- [Bulletproofing Your WooCommerce Checkout: A Guide for Agencies on Payment Gateway Resilience](https://dev.to/eshopset/bulletproofing-your-woocommerce-checkout-a-guide-for-agencies-on-payment-gateway-resilience-145g)
+- [Build a Daily Horoscope Feature in Python in 10 Minutes &lpar;with DivineAPI&rpar;](https://dev.to/karandesaideveloper/build-a-daily-horoscope-feature-in-python-in-10-minutes-with-divineapi-5g48)
+- [Claude Code: Hooks, Subagents, and Skills — Complete Guide](https://dev.to/owen_fox/claude-code-hooks-subagents-and-skills-complete-guide-hjm)
+- [Setting Up Your First Azure Storage Account](https://dev.to/emmanuel_banjo_df6d8074c7/setting-up-your-first-azure-storage-account-3j64)
 <!-- BLOG-POST-LIST:END -->
 
