@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Advanced Customization in Your Music Studio](https://dev.to/ken_deng_ai/automating-advanced-customization-in-your-music-studio-4pph)
-- [IP-Adapter + LoRA for product catalog rendering — putting shop items on AI characters](https://dev.to/sm1ck/ip-adapter-lora-for-product-catalog-rendering-putting-shop-items-on-ai-characters-5h36)
-- [I built an open-source cognitive memory layer for AI agents in Go — because amnesia shouldn&#39;t be a feature](https://dev.to/alash3al/i-built-an-open-source-cognitive-memory-layer-for-ai-agents-in-go-because-amnesia-shouldnt-be-a-82b)
-- [Compliance as Code: Why the EU AI Act Will Force Runtime Enforcement in 2026](https://dev.to/no1rstack/compliance-as-code-why-the-eu-ai-act-will-force-runtime-enforcement-in-2026-io6)
+- [I Built a Developer Trading Card Generator with Google AI Studio — Meet CodeCard Forge](https://dev.to/devil_21cf096c1059553286d/i-built-a-developer-trading-card-generator-with-google-ai-studio-meet-codecard-forge-43i2)
+- [BillForge — A Lightweight Invoice Generator with PDF Export &amp; Google Sheets Sync](https://dev.to/nilesh-padiyar/billforge-a-lightweight-invoice-generator-with-pdf-export-google-sheets-sync-86m)
+- [RulesJson — Convert Laravel Validation Rules to a JSON Request Body Instantly](https://dev.to/eg-mohamed/rulesjson-convert-laravel-validation-rules-to-a-json-request-body-instantly-2jg9)
+- [I Built a VS Code Extension That Solves One of the Most Frustrating Problems in AI-Assisted Development](https://dev.to/rajat_jog1294/i-built-a-vs-code-extension-that-solves-one-of-the-most-frustrating-problems-in-ai-assisted-1419)
 <!-- BLOG-POST-LIST:END -->
 
