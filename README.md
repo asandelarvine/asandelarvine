@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Quick-ish Rundown of LLM Basics](https://dev.to/someoddcodeguy/a-quick-ish-rundown-of-llm-basics-4n14)
-- [Claude Code Billing Alert, Workflow Enhancements &amp; Open-Source OCR Benchmarks](https://dev.to/soytuber/claude-code-billing-alert-workflow-enhancements-open-source-ocr-benchmarks-nl1)
-- [CVMetric — Free ATS Resume Builder - Built for Modern Hiring Systems](https://dev.to/vexosoft_27/cvmetric-free-ats-resume-builder-built-for-modern-hiring-systems-gho)
-- [I Failed My Azure AI-102 Exam the First Time -Here&#39;s What I Learned](https://dev.to/aromal-cm/i-failed-my-azure-ai-102-exam-the-first-time-heres-what-i-learned-3moi)
+- [How to Create 360 Panoramas with GPT Image 2 and View Them Interactively](https://dev.to/aralroca/how-to-create-360-panoramas-with-gpt-image-2-and-view-them-interactively-21hb)
+- [The Taste Problem: When Your Agent Starts Having Preferences](https://dev.to/the_bookmaster/the-taste-problem-when-your-agent-starts-having-preferences-3jga)
+- [Multi-Agent A2A with the Agent Development Kit&lpar;ADK&rpar;, AWS Lambda, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lambda-and-gemini-cli-25ok)
+- [Chapter 6: Embeddings, the Forward Pass, and the Loss Function](https://dev.to/garyljackson/chapter-6-embeddings-the-forward-pass-and-the-loss-function-48dc)
 <!-- BLOG-POST-LIST:END -->
 
