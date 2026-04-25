@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Is Becoming Infrastructure](https://dev.to/jonoherrington/ai-is-becoming-infrastructure-47pd)
-- [I watched AI Agents Take Over the Cloud Live from Google NEXT &#39;26, and Nothing Will Be the Same](https://dev.to/onirestart/i-watched-ai-agents-take-over-the-cloud-live-from-google-next-26-and-nothing-will-be-the-same-4l0b)
-- [Borrowed Strings: API Designs That Cut 94% of Allocations](https://dev.to/speed_engineer/borrowed-strings-api-designs-that-cut-94-of-allocations-1ccb)
-- [9 Tools Big Tech Uses Internally &lpar;Now Open Source&rpar;](https://dev.to/sonotommy/9-tools-big-tech-uses-internally-now-open-source-1j4g)
+- [AI Resume Builder: How to Ship Better CVs Faster](https://dev.to/juan_diegoisazaa_5362a/ai-resume-builder-how-to-ship-better-cvs-faster-568e)
+- [Why I Replaced lsof with a Rust-Based &quot;Sniper&quot; Button](https://dev.to/codemaverick143/why-i-replaced-lsof-with-a-rust-based-sniper-button-5874)
+- [Giải mã kiến trúc phân phối Media của Pinterest: Xây dựng Engine trích xuất hiệu suất cao với Async I/O và FFmpeg](https://dev.to/yqqwe/giai-ma-kien-truc-phan-phoi-media-cua-pinterest-xay-dung-engine-trich-xuat-hieu-suat-cao-voi-async-3jig)
+- [Desmontando el Stack de Medios de Pinterest: Construyendo un Motor de Extracción Asíncrono de Alto Rendimiento](https://dev.to/yqqwe/desmontando-el-stack-de-medios-de-pinterest-construyendo-un-motor-de-extraccion-asincrono-de-alto-5470)
 <!-- BLOG-POST-LIST:END -->
 
