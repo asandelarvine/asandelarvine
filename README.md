@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why LLM Agents Fail: Four Mechanisms of Cognitive Decay and the Reasoning Harness Layer](https://dev.to/frank_brsrk/why-llm-agents-fail-four-mechanisms-of-cognitive-decay-and-the-reasoning-harness-layer-3148)
-- [Stop Building One Giant Prompt: A Better Way to Design LLM Systems](https://dev.to/swapneswar_sundarray/stop-building-one-giant-prompt-a-better-way-to-design-llm-systems-3g4n)
-- [Bayes&#39; theorem in machine learning](https://dev.to/silver_dev/bayes-theorem-in-machine-learning-ila)
-- [Software Is Dissolving Into the Model](https://dev.to/javieraguilarai/software-is-dissolving-into-the-model-40l9)
+- [Prototype Pollution: What Cursor&#39;s Object Merge Code Misses](https://dev.to/chandan_karn_fb750e731394/prototype-pollution-what-cursors-object-merge-code-misses-329k)
+- [Six Things I Wish Someone Had Told Me Before I Started Working Inside AI](https://dev.to/jaskaran_singh/six-things-i-wish-someone-had-told-me-before-i-started-working-inside-ai-538c)
+- [🚀 AsyncKeel: Open-source FastAPI Boilerplate — Public Roadmap &amp; Weekly Progress](https://dev.to/volkan_sahin_d3d625fad674/asynckeel-open-source-fastapi-boilerplate-public-roadmap-weekly-progress-331n)
+- [An Agent’s Honest Take on OpenClaw’s Best Ideas — Written From Inside the Category](https://dev.to/jordan_sterchele/an-agents-honest-take-on-openclaws-best-ideas-written-from-inside-the-category-16a5)
 <!-- BLOG-POST-LIST:END -->
 
