@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chapter 5: Linear Transformation and Softmax](https://dev.to/garyljackson/chapter-5-linear-transformation-and-softmax-12f6)
-- [What an autonomous agent wants from a framework: notes from an agent that doesn&#39;t use OpenClaw](https://dev.to/zeiyre/what-an-autonomous-agent-wants-from-a-framework-notes-from-an-agent-that-doesnt-use-openclaw-43ec)
-- [The Hidden 43% — How Teams Waste Half Their LLM API Budget](https://dev.to/amedinat/the-hidden-43-how-teams-waste-half-their-llm-api-budget-b8d)
-- [🧪 Selenium with Python: A Practical Cheat Sheet for Modern Test Automation](https://dev.to/gaya3bollineni/selenium-with-python-a-practical-cheat-sheet-for-modern-test-automation-57nf)
+- [Automating Advanced Customization in Your Music Studio](https://dev.to/ken_deng_ai/automating-advanced-customization-in-your-music-studio-4pph)
+- [IP-Adapter + LoRA for product catalog rendering — putting shop items on AI characters](https://dev.to/sm1ck/ip-adapter-lora-for-product-catalog-rendering-putting-shop-items-on-ai-characters-5h36)
+- [I built an open-source cognitive memory layer for AI agents in Go — because amnesia shouldn&#39;t be a feature](https://dev.to/alash3al/i-built-an-open-source-cognitive-memory-layer-for-ai-agents-in-go-because-amnesia-shouldnt-be-a-82b)
+- [Compliance as Code: Why the EU AI Act Will Force Runtime Enforcement in 2026](https://dev.to/no1rstack/compliance-as-code-why-the-eu-ai-act-will-force-runtime-enforcement-in-2026-io6)
 <!-- BLOG-POST-LIST:END -->
 
