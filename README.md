@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bulletproofing Your WooCommerce Checkout: A Guide for Agencies on Payment Gateway Resilience](https://dev.to/eshopset/bulletproofing-your-woocommerce-checkout-a-guide-for-agencies-on-payment-gateway-resilience-145g)
-- [Build a Daily Horoscope Feature in Python in 10 Minutes &lpar;with DivineAPI&rpar;](https://dev.to/karandesaideveloper/build-a-daily-horoscope-feature-in-python-in-10-minutes-with-divineapi-5g48)
-- [Claude Code: Hooks, Subagents, and Skills — Complete Guide](https://dev.to/owen_fox/claude-code-hooks-subagents-and-skills-complete-guide-hjm)
-- [Setting Up Your First Azure Storage Account](https://dev.to/emmanuel_banjo_df6d8074c7/setting-up-your-first-azure-storage-account-3j64)
+- [How to Get Historical Stock Data for Free with Python &lpar;and Actually Use It&rpar;](https://dev.to/kevin_menesesgonzlez/how-to-get-historical-stock-data-for-free-with-python-and-actually-use-it-45p9)
+- [Beyond ERC-4337: Ethereum’s Transition into a Programmable Trust Layer](https://dev.to/codebyankita/beyond-erc-4337-ethereums-transition-into-a-programmable-trust-layer-1662)
+- [Offline React Native Apps: How to Cache Files That Must Open Without Network](https://dev.to/running_squirrel/offline-react-native-apps-how-to-cache-files-that-must-open-without-network-1ahn)
+- [Our Indie Horror Journey: Passion Over Perfection](https://dev.to/mattysa/our-indie-horror-journey-passion-over-perfection-199i)
 <!-- BLOG-POST-LIST:END -->
 
