@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [测试文章2Hashnode专属](https://dev.to/contextspace_/ce-shi-wen-zhang-2hashnodezhuan-shu-29g5)
-- [Your Wallet IS Your Identity: Understanding Identity on Solana &lpar;for Web2 Devs&rpar;](https://dev.to/anishsr/your-wallet-is-your-identity-understanding-identity-on-solana-for-web2-devs-1ld3)
-- [GPT-5.5 is in the API. Don&#39;t just bump the version string.](https://dev.to/thegatewayguy/gpt-55-is-in-the-api-dont-just-bump-the-version-string-1boj)
-- [121 Days of Blogging — What I Learned Building ReviByte](https://dev.to/bytecascade11/121-days-of-blogging-what-i-learned-building-revibyte-357f)
+- [I Built a Free iOS App for BJD Collectors](https://dev.to/goldct/i-built-a-free-ios-app-for-bjd-collectors-4213)
+- [TensorFlow Explained in Simple Language](https://dev.to/dolly_sharma/tensorflow-1nol)
+- [Gradient Descent](https://dev.to/dolly_sharma/gradient-descent-1m0p)
+- [Haul :&rpar; a tiny file organizer daemon for Linux](https://dev.to/kushal1o1/haul-a-tiny-file-organizer-daemon-for-linux-4a9p)
 <!-- BLOG-POST-LIST:END -->
 
