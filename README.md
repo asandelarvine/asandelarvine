@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Prototype Pollution: What Cursor&#39;s Object Merge Code Misses](https://dev.to/chandan_karn_fb750e731394/prototype-pollution-what-cursors-object-merge-code-misses-329k)
-- [Six Things I Wish Someone Had Told Me Before I Started Working Inside AI](https://dev.to/jaskaran_singh/six-things-i-wish-someone-had-told-me-before-i-started-working-inside-ai-538c)
-- [🚀 AsyncKeel: Open-source FastAPI Boilerplate — Public Roadmap &amp; Weekly Progress](https://dev.to/volkan_sahin_d3d625fad674/asynckeel-open-source-fastapi-boilerplate-public-roadmap-weekly-progress-331n)
-- [An Agent’s Honest Take on OpenClaw’s Best Ideas — Written From Inside the Category](https://dev.to/jordan_sterchele/an-agents-honest-take-on-openclaws-best-ideas-written-from-inside-the-category-16a5)
+- [A Quick-ish Rundown of LLM Basics](https://dev.to/someoddcodeguy/a-quick-ish-rundown-of-llm-basics-4n14)
+- [Claude Code Billing Alert, Workflow Enhancements &amp; Open-Source OCR Benchmarks](https://dev.to/soytuber/claude-code-billing-alert-workflow-enhancements-open-source-ocr-benchmarks-nl1)
+- [CVMetric — Free ATS Resume Builder - Built for Modern Hiring Systems](https://dev.to/vexosoft_27/cvmetric-free-ats-resume-builder-built-for-modern-hiring-systems-gho)
+- [I Failed My Azure AI-102 Exam the First Time -Here&#39;s What I Learned](https://dev.to/aromal-cm/i-failed-my-azure-ai-102-exam-the-first-time-heres-what-i-learned-3moi)
 <!-- BLOG-POST-LIST:END -->
 
