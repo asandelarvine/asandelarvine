@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The best thing about Next 2026? The people.](https://dev.to/xbill/the-best-thing-about-next-2026-the-people-3nje)
-- [Give Your AI Agent Real-Time Product Data with BuyWhere](https://dev.to/buywhere/give-your-ai-agent-real-time-product-data-with-buywhere-3895)
-- [Reddit Subreddit Tracker 深度测评：批量追踪 Reddit 热门内容](https://dev.to/muskert/reddit-subreddit-tracker-shen-du-ce-ping-pi-liang-zhui-zong-reddit-re-men-nei-rong-23k8)
-- [Privacy-first mind mapping app. Part 4: Zero Knowledge and Private Thought](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-4-zero-knowledge-and-private-thought-4jf5)
+- [Google Cloud NEXT &#39;26 Just Changed How I Think About Real-Time Clinical Decision Support](https://dev.to/parulmalhotraiitk/google-cloud-next-26-just-changed-how-i-think-about-real-time-clinical-decision-support-2h2l)
+- [How is your IAM? | Google Cloud edition](https://dev.to/idncod/how-is-your-iam-google-cloud-edition-1jbh)
+- [How I Built a Real-Time Multiplayer Chess Game with Video Calling Using Next.js, Socket.IO &amp; WebRTC](https://dev.to/saptarshi_dey/how-i-built-a-real-time-multiplayer-chess-game-with-video-calling-using-nextjs-socketio-webrtc-4n6g)
+- [Model Output Is Not Authority: Action Assurance for AI Agents](https://dev.to/mkz0010/model-output-is-not-authority-action-assurance-for-ai-agents-4ljd)
 <!-- BLOG-POST-LIST:END -->
 
