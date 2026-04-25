@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create 360 Panoramas with GPT Image 2 and View Them Interactively](https://dev.to/aralroca/how-to-create-360-panoramas-with-gpt-image-2-and-view-them-interactively-21hb)
-- [The Taste Problem: When Your Agent Starts Having Preferences](https://dev.to/the_bookmaster/the-taste-problem-when-your-agent-starts-having-preferences-3jga)
-- [Multi-Agent A2A with the Agent Development Kit&lpar;ADK&rpar;, AWS Lambda, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lambda-and-gemini-cli-25ok)
-- [Chapter 6: Embeddings, the Forward Pass, and the Loss Function](https://dev.to/garyljackson/chapter-6-embeddings-the-forward-pass-and-the-loss-function-48dc)
+- [Software Developers: Redundant or Resilient?](https://dev.to/codisfy/software-developers-redundant-or-resilient-35b3)
+- [Machine Ethics and Automated Vehicles](https://dev.to/paperium/machine-ethics-and-automated-vehicles-1oec)
+- [Why I Needed a Safe Way to Inspect QR Codes on iOS &lpar;and the Tool That Solved It&rpar;](https://dev.to/brianna_morgan_efe5e75511/why-i-needed-a-safe-way-to-inspect-qr-codes-on-ios-and-the-tool-that-solved-it-20f9)
+- [Confident and Wrong: We Tested 17 AI Models on Questions a Middle Schooler Could Answer](https://dev.to/samullinsjr/confident-and-wrong-we-tested-17-ai-models-on-questions-a-middle-schooler-could-answer-3in7)
 <!-- BLOG-POST-LIST:END -->
 
