@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Cloud NEXT &#39;26 Just Changed How I Think About Real-Time Clinical Decision Support](https://dev.to/parulmalhotraiitk/google-cloud-next-26-just-changed-how-i-think-about-real-time-clinical-decision-support-2h2l)
-- [How is your IAM? | Google Cloud edition](https://dev.to/idncod/how-is-your-iam-google-cloud-edition-1jbh)
-- [How I Built a Real-Time Multiplayer Chess Game with Video Calling Using Next.js, Socket.IO &amp; WebRTC](https://dev.to/saptarshi_dey/how-i-built-a-real-time-multiplayer-chess-game-with-video-calling-using-nextjs-socketio-webrtc-4n6g)
-- [Model Output Is Not Authority: Action Assurance for AI Agents](https://dev.to/mkz0010/model-output-is-not-authority-action-assurance-for-ai-agents-4ljd)
+- [Why LLM Agents Fail: Four Mechanisms of Cognitive Decay and the Reasoning Harness Layer](https://dev.to/frank_brsrk/why-llm-agents-fail-four-mechanisms-of-cognitive-decay-and-the-reasoning-harness-layer-3148)
+- [Stop Building One Giant Prompt: A Better Way to Design LLM Systems](https://dev.to/swapneswar_sundarray/stop-building-one-giant-prompt-a-better-way-to-design-llm-systems-3g4n)
+- [Bayes&#39; theorem in machine learning](https://dev.to/silver_dev/bayes-theorem-in-machine-learning-ila)
+- [Software Is Dissolving Into the Model](https://dev.to/javieraguilarai/software-is-dissolving-into-the-model-40l9)
 <!-- BLOG-POST-LIST:END -->
 
