@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free iOS App for BJD Collectors](https://dev.to/goldct/i-built-a-free-ios-app-for-bjd-collectors-4213)
-- [TensorFlow Explained in Simple Language](https://dev.to/dolly_sharma/tensorflow-1nol)
-- [Gradient Descent](https://dev.to/dolly_sharma/gradient-descent-1m0p)
-- [Haul :&rpar; a tiny file organizer daemon for Linux](https://dev.to/kushal1o1/haul-a-tiny-file-organizer-daemon-for-linux-4a9p)
+- [AI Is Becoming Infrastructure](https://dev.to/jonoherrington/ai-is-becoming-infrastructure-47pd)
+- [I watched AI Agents Take Over the Cloud Live from Google NEXT &#39;26, and Nothing Will Be the Same](https://dev.to/onirestart/i-watched-ai-agents-take-over-the-cloud-live-from-google-next-26-and-nothing-will-be-the-same-4l0b)
+- [Borrowed Strings: API Designs That Cut 94% of Allocations](https://dev.to/speed_engineer/borrowed-strings-api-designs-that-cut-94-of-allocations-1ccb)
+- [9 Tools Big Tech Uses Internally &lpar;Now Open Source&rpar;](https://dev.to/sonotommy/9-tools-big-tech-uses-internally-now-open-source-1j4g)
 <!-- BLOG-POST-LIST:END -->
 
