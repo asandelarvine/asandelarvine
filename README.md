@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Developer Trading Card Generator with Google AI Studio — Meet CodeCard Forge](https://dev.to/devil_21cf096c1059553286d/i-built-a-developer-trading-card-generator-with-google-ai-studio-meet-codecard-forge-43i2)
-- [BillForge — A Lightweight Invoice Generator with PDF Export &amp; Google Sheets Sync](https://dev.to/nilesh-padiyar/billforge-a-lightweight-invoice-generator-with-pdf-export-google-sheets-sync-86m)
-- [RulesJson — Convert Laravel Validation Rules to a JSON Request Body Instantly](https://dev.to/eg-mohamed/rulesjson-convert-laravel-validation-rules-to-a-json-request-body-instantly-2jg9)
-- [I Built a VS Code Extension That Solves One of the Most Frustrating Problems in AI-Assisted Development](https://dev.to/rajat_jog1294/i-built-a-vs-code-extension-that-solves-one-of-the-most-frustrating-problems-in-ai-assisted-1419)
+- [Continuous monitoring caught a credential leak in a published MCP package. Six republishes later, it is still there.](https://dev.to/michael_onyekwere/continuous-monitoring-caught-a-credential-leak-in-a-published-mcp-package-six-republishes-later-3app)
+- [Bypass Netflix&#39;s Household Verification](https://dev.to/hellodevto/bypass-netflixs-household-verification-13cf)
+- [Azure ML Pipelines + Azure DevOps: CI/CD for ML with Terraform 🔁](https://dev.to/suhas_mallesh/azure-ml-pipelines-azure-devops-cicd-for-ml-with-terraform-16oo)
+- [Join me in building a community-maintained fork of the Quill Editor 🙌](https://dev.to/jankapunkt/join-me-in-building-a-community-maintained-fork-of-the-quill-editor-29ib)
 <!-- BLOG-POST-LIST:END -->
 
