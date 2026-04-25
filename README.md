@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Resume Builder: How to Ship Better CVs Faster](https://dev.to/juan_diegoisazaa_5362a/ai-resume-builder-how-to-ship-better-cvs-faster-568e)
-- [Why I Replaced lsof with a Rust-Based &quot;Sniper&quot; Button](https://dev.to/codemaverick143/why-i-replaced-lsof-with-a-rust-based-sniper-button-5874)
-- [Giải mã kiến trúc phân phối Media của Pinterest: Xây dựng Engine trích xuất hiệu suất cao với Async I/O và FFmpeg](https://dev.to/yqqwe/giai-ma-kien-truc-phan-phoi-media-cua-pinterest-xay-dung-engine-trich-xuat-hieu-suat-cao-voi-async-3jig)
-- [Desmontando el Stack de Medios de Pinterest: Construyendo un Motor de Extracción Asíncrono de Alto Rendimiento](https://dev.to/yqqwe/desmontando-el-stack-de-medios-de-pinterest-construyendo-un-motor-de-extraccion-asincrono-de-alto-5470)
+- [Git Is Your Seat Belt When You Build With AI](https://dev.to/matthias_studiomeyer/git-is-your-seat-belt-when-you-build-with-ai-kj)
+- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-2dnk)
+- [Three Known Extensions of E=mc Simulations](https://dev.to/jan-klein/three-known-extensions-of-emc2-simulations-573k)
+- [My RAG Pipeline Was 84% Confident — And Completely Wrong.](https://dev.to/garvit_singh_006/my-rag-pipeline-was-84-confident-and-completely-wrong-bom)
 <!-- BLOG-POST-LIST:END -->
 
