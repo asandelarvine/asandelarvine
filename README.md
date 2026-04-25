@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get Historical Stock Data for Free with Python &lpar;and Actually Use It&rpar;](https://dev.to/kevin_menesesgonzlez/how-to-get-historical-stock-data-for-free-with-python-and-actually-use-it-45p9)
-- [Beyond ERC-4337: Ethereum’s Transition into a Programmable Trust Layer](https://dev.to/codebyankita/beyond-erc-4337-ethereums-transition-into-a-programmable-trust-layer-1662)
-- [Offline React Native Apps: How to Cache Files That Must Open Without Network](https://dev.to/running_squirrel/offline-react-native-apps-how-to-cache-files-that-must-open-without-network-1ahn)
-- [Our Indie Horror Journey: Passion Over Perfection](https://dev.to/mattysa/our-indie-horror-journey-passion-over-perfection-199i)
+- [测试文章2Hashnode专属](https://dev.to/contextspace_/ce-shi-wen-zhang-2hashnodezhuan-shu-29g5)
+- [Your Wallet IS Your Identity: Understanding Identity on Solana &lpar;for Web2 Devs&rpar;](https://dev.to/anishsr/your-wallet-is-your-identity-understanding-identity-on-solana-for-web2-devs-1ld3)
+- [GPT-5.5 is in the API. Don&#39;t just bump the version string.](https://dev.to/thegatewayguy/gpt-55-is-in-the-api-dont-just-bump-the-version-string-1boj)
+- [121 Days of Blogging — What I Learned Building ReviByte](https://dev.to/bytecascade11/121-days-of-blogging-what-i-learned-building-revibyte-357f)
 <!-- BLOG-POST-LIST:END -->
 
