@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;Bug Hunter&quot; Git !](https://dev.to/thebartakke_anup/the-bug-hunter-git--5dgl)
-- [Sentinel Openclaw](https://dev.to/skomfi/sentinel-openclaw-1d6f)
-- [Turkish SEO Translator API: Breaking Language Barriers for Global SEO Success](https://dev.to/berkdivaroren/turkish-seo-translator-api-breaking-language-barriers-for-global-seo-success-44o5)
-- [What 9,830 Claude conversations reveal about your own habits](https://dev.to/palo_alto_ai/what-9830-claude-conversations-reveal-about-your-own-habits-b0d)
+- [How are you managing git &amp; gh access with Agents?](https://dev.to/thisisryanswift/how-are-you-managing-git-gh-access-with-agents-1gel)
+- [Agent Script: Salesforce&#39;s Open Language for Deterministic Agent Orchestration](https://dev.to/conor_61d358cde152bb5800a/agent-script-salesforces-open-language-for-deterministic-agent-orchestration-2h1o)
+- [Why Every RAG Company Is Quietly Building a Graph Layer in 2026](https://dev.to/gabrielanhaia/why-every-rag-company-is-quietly-building-a-graph-layer-in-2026-70p)
+- [The Anthropic SDK Looks Safe. Two of Its Transitive Dependencies Are Not.](https://dev.to/piiiico/the-anthropic-sdk-looks-safe-two-of-its-transitive-dependencies-are-not-4l13)
 <!-- BLOG-POST-LIST:END -->
 
