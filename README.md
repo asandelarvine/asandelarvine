@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Developers: Redundant or Resilient?](https://dev.to/codisfy/software-developers-redundant-or-resilient-35b3)
-- [Machine Ethics and Automated Vehicles](https://dev.to/paperium/machine-ethics-and-automated-vehicles-1oec)
-- [Why I Needed a Safe Way to Inspect QR Codes on iOS &lpar;and the Tool That Solved It&rpar;](https://dev.to/brianna_morgan_efe5e75511/why-i-needed-a-safe-way-to-inspect-qr-codes-on-ios-and-the-tool-that-solved-it-20f9)
-- [Confident and Wrong: We Tested 17 AI Models on Questions a Middle Schooler Could Answer](https://dev.to/samullinsjr/confident-and-wrong-we-tested-17-ai-models-on-questions-a-middle-schooler-could-answer-3in7)
+- [[Rust Guide] 9.2. Result Enum and Recoverable Errors Pt. 1 - Match, Expect, and Unwrap Handling Errors](https://dev.to/someb1oody/rust-guide-result-enum-and-recoverable-errors-pt-1-match-expect-and-unwrap-handling-errors-jbe)
+- [GHSA-C4QG-J8JG-42Q5: GHSA-C4QG-J8JG-42Q5: Server-Side Request Forgery in OpenClaw QQBot Extension](https://dev.to/cverports/ghsa-c4qg-j8jg-42q5-ghsa-c4qg-j8jg-42q5-server-side-request-forgery-in-openclaw-qqbot-extension-28af)
+- [The Spot Instance That Killed Our Payments Service &lpar;And Why It Took Us 47 Minutes to Find It&rpar;](https://dev.to/peterinfranexis/the-spot-instance-that-killed-our-payments-service-and-why-it-took-us-47-minutes-to-find-it-2ehp)
+- [Part 4: Improving Retrieval Quality with Token-Aware Chunking and HyDE](https://dev.to/sharathkurup/part-4-improving-retrieval-quality-with-token-aware-chunking-and-hyde-4hkp)
 <!-- BLOG-POST-LIST:END -->
 
