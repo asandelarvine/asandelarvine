@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoupling with Chain of Responsibility Pattern in C#](https://dev.to/danielrusnok/decoupling-with-chain-of-responsibility-pattern-in-c-53jp)
-- [Tech Debt Didn&#39;t Start with AI](https://dev.to/jonoherrington/tech-debt-didnt-start-with-ai-4m7n)
-- [Building a Full-Stack ZK-Privacy App on Midnight: A Step-by-Step Guide](https://dev.to/midnight-aliit/building-a-full-stack-zk-privacy-app-on-midnight-a-step-by-step-guide-1nne)
-- [Keeping You in the Driver&#39;s Seat and AI as the Copilot](https://dev.to/liatmoss/keeping-you-in-the-drivers-seat-and-ai-as-the-copilot-1oc8)
+- [Backups Are Useless Until You Restore Them](https://dev.to/alzhi_f93e67fa45b972/backups-are-useless-until-you-restore-them-50do)
+- [Anthropic Gated Their Best Model to a 50-Company Consortium](https://dev.to/gabrielanhaia/anthropic-gated-their-best-model-to-a-50-company-consortium-2j6d)
+- [rabbitholes sends your highlights straight to Anthropic — no server in between](https://dev.to/palo_alto_ai/rabbitholes-sends-your-highlights-straight-to-anthropic-no-server-in-between-17l8)
+- [Independent Contractor vs Employee in 2026: The IRS 20-Factor Test Explained](https://dev.to/forms-legalcom/independent-contractor-vs-employee-in-2026-the-irs-20-factor-test-explained-4nhg)
 <!-- BLOG-POST-LIST:END -->
 
