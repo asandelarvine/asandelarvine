@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [scaling backend servers: what nobody explains until you&#39;re already on fire](https://dev.to/asheeshh/scaling-backend-servers-what-nobody-explains-until-youre-already-on-fire-4p86)
-- [Eigenvectors and Eigenvalues: The Quantum Computing Secret Sauce &lpar;No PhD Required&rpar;](https://dev.to/malcolmlow/eigenvectors-and-eigenvalues-the-quantum-computing-secret-sauce-no-phd-required-2dpa)
-- [I finally understand why DDD exists &lpar;and it took a painful codebase to teach me&rpar;](https://dev.to/asheeshh/i-finally-understand-why-ddd-exists-and-it-took-a-painful-codebase-to-teach-me-2ec0)
-- [Title: I built a reward analysis tool for AI alignment — here&#39;s why reward hacking is harder to detect than you think](https://dev.to/giovan_ruizvazquez_aa1a0/title-i-built-a-reward-analysis-tool-for-ai-alignment-heres-why-reward-hacking-is-harder-to-2pm1)
+- [I Let an AI Agent Review My PRs for a Week — Here&#39;s What It Caught](https://dev.to/nebulagg/i-let-an-ai-agent-review-my-prs-for-a-week-heres-what-it-caught-4geb)
+- [✋Await!! Aren&#39;t you hindering concurrency?](https://dev.to/krishnendudg/await-arent-you-hindering-concurrency-3db6)
+- [Guess the Number](https://dev.to/preetha_vaishnavi_2b82358/guess-the-number-a88)
+- [Keras Deserialization Safe Mode: Security Capabilities and Limitations](https://dev.to/madhan_alagarsamy/keras-deserialization-safe-mode-security-capabilities-and-limitations-4klf)
 <!-- BLOG-POST-LIST:END -->
 
