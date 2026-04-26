@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Backups Are Useless Until You Restore Them](https://dev.to/alzhi_f93e67fa45b972/backups-are-useless-until-you-restore-them-50do)
-- [Anthropic Gated Their Best Model to a 50-Company Consortium](https://dev.to/gabrielanhaia/anthropic-gated-their-best-model-to-a-50-company-consortium-2j6d)
-- [rabbitholes sends your highlights straight to Anthropic — no server in between](https://dev.to/palo_alto_ai/rabbitholes-sends-your-highlights-straight-to-anthropic-no-server-in-between-17l8)
-- [Independent Contractor vs Employee in 2026: The IRS 20-Factor Test Explained](https://dev.to/forms-legalcom/independent-contractor-vs-employee-in-2026-the-irs-20-factor-test-explained-4nhg)
+- [scaling backend servers: what nobody explains until you&#39;re already on fire](https://dev.to/asheeshh/scaling-backend-servers-what-nobody-explains-until-youre-already-on-fire-4p86)
+- [Eigenvectors and Eigenvalues: The Quantum Computing Secret Sauce &lpar;No PhD Required&rpar;](https://dev.to/malcolmlow/eigenvectors-and-eigenvalues-the-quantum-computing-secret-sauce-no-phd-required-2dpa)
+- [I finally understand why DDD exists &lpar;and it took a painful codebase to teach me&rpar;](https://dev.to/asheeshh/i-finally-understand-why-ddd-exists-and-it-took-a-painful-codebase-to-teach-me-2ec0)
+- [Title: I built a reward analysis tool for AI alignment — here&#39;s why reward hacking is harder to detect than you think](https://dev.to/giovan_ruizvazquez_aa1a0/title-i-built-a-reward-analysis-tool-for-ai-alignment-heres-why-reward-hacking-is-harder-to-2pm1)
 <!-- BLOG-POST-LIST:END -->
 
