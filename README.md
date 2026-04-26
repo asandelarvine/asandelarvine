@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Seconds of Audio Can Clone Your CEO&#39;s Voice. Here&#39;s What Actually Stops the Scam.](https://dev.to/caracomp/3-seconds-of-audio-can-clone-your-ceos-voice-heres-what-actually-stops-the-scam-270d)
-- [Email Marketing Shopify: Automations That Print Revenue](https://dev.to/juan_diegoisazaa_5362a/email-marketing-shopify-automations-that-print-revenue-46gn)
-- [DevSecOps in Practice: Tools That Actually Catch Vulnerabilities - Part 3 - SCA with pip-audit](https://dev.to/pkkht/devsecops-in-practice-tools-that-actually-catch-vulnerabilities-part-3-sca-with-pip-audit-5a7l)
-- [I&#39;m finally building my own SaaS. Here&#39;s why I picked review APIs.](https://dev.to/arturs_jurgevics/im-finally-building-my-own-saas-heres-why-i-picked-review-apis-369k)
+- [Why Docker is No Longer Optional: Moving from &quot;It Works on My Machine&quot; to Production](https://dev.to/vinodkumarjaipal/why-docker-is-no-longer-optional-moving-from-it-works-on-my-machine-to-production-3end)
+- [Giving README-Driven Development Superpowers with bbt](https://dev.to/lioneldraghi/giving-readme-driven-development-superpowers-with-bbt-2a1h)
+- [Testing Emails in 2026: Why I Built a Better Mailcatcher &lpar;And Why You Should Switch&rpar;](https://dev.to/erkenes/testing-emails-in-2026-why-i-built-a-better-mailcatcher-and-why-you-should-switch-5gan)
+- [My RX Line Was Stuck High, and TX_EN Was the Fix](https://dev.to/aq1018/my-rx-line-was-stuck-high-and-txen-was-the-fix-4hab)
 <!-- BLOG-POST-LIST:END -->
 
