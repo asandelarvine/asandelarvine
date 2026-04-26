@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [on the plane, again](https://dev.to/shrouwoods/on-the-plane-again-3j90)
-- [logic](https://dev.to/shrouwoods/logic-3360)
-- [My Wallet Experiences](https://dev.to/hopebestworld/my-wallet-experiences-48fn)
-- [I Saved 2 Hours a Week by Automating My Changelog — Here&#39;s Exactly How](https://dev.to/shiplogbot/i-saved-2-hours-a-week-by-automating-my-changelog-heres-exactly-how-5gjg)
+- [PIIGhost : une librairie Python d&#39;anonymisation de données confidentiels pour les agents LLM](https://dev.to/athroniaeth/piighost-une-librairie-python-danonymisation-de-donnees-confidentiels-pour-les-agents-llm-3c1i)
+- [Photosynthesis Simulation Rate 2026: Interactive CBSE Biology Lab](https://dev.to/a_khan_811c0d82db7625b12a/photosynthesis-simulation-rate-2026-interactive-cbse-biology-lab-4lao)
+- [Production-Grade Serverless Web App Architecture on AWS with CloudFront, S3, API Gateway, Lambda, and DynamoDB](https://dev.to/aws-builders/production-grade-serverless-web-app-architecture-on-aws-with-cloudfront-s3-api-gateway-lambda-1646)
+- [Technical Report: EU AI Act Code Footprint Analysis](https://dev.to/kuzivaai/technical-report-eu-ai-act-code-footprint-analysis-4l6i)
 <!-- BLOG-POST-LIST:END -->
 
