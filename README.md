@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Let an AI Agent Review My PRs for a Week — Here&#39;s What It Caught](https://dev.to/nebulagg/i-let-an-ai-agent-review-my-prs-for-a-week-heres-what-it-caught-4geb)
-- [✋Await!! Aren&#39;t you hindering concurrency?](https://dev.to/krishnendudg/await-arent-you-hindering-concurrency-3db6)
-- [Guess the Number](https://dev.to/preetha_vaishnavi_2b82358/guess-the-number-a88)
-- [Keras Deserialization Safe Mode: Security Capabilities and Limitations](https://dev.to/madhan_alagarsamy/keras-deserialization-safe-mode-security-capabilities-and-limitations-4klf)
+- [I Built malloc&lpar;&rpar; from Scratch in C — Here’s What Went Wrong](https://dev.to/prajwal_zore_lm10/i-built-malloc-from-scratch-in-c-heres-what-went-wrong-5f60)
+- [Is Your Developer Community Just a Glorified Forum? Let&#39;s Change That.](https://dev.to/apives_ecosystem/is-your-developer-community-just-a-glorified-forum-lets-change-that-fi8)
+- [Why OPA and Rego Don&#39;t Work for AI Governance](https://dev.to/aguardic/why-opa-and-rego-dont-work-for-ai-governance-27hn)
+- [Top Free AI Tools That Boost Developer Productivity in 2026](https://dev.to/orbit_websites_b004ed2787/top-free-ai-tools-that-boost-developer-productivity-in-2026-4j6n)
 <!-- BLOG-POST-LIST:END -->
 
