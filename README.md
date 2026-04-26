@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [UCP Tech Council Expands: What the Meeting Minutes Tell Us About Where the Protocol Is Heading](https://dev.to/benjifisher/ucp-tech-council-expands-what-the-meeting-minutes-tell-us-about-where-the-protocol-is-heading-5a92)
-- [structkit vs cookiecutter vs copier: Which Project Scaffolding Tool Is Right for You?](https://dev.to/structkit/structkit-vs-cookiecutter-vs-copier-which-project-scaffolding-tool-is-right-for-you-5gag)
-- [Validar DNI y RUC peruanos sin llamar a una API &lpar;módulo-11 en TypeScript&rpar;](https://dev.to/edson_campaamelndez_6c/validar-dni-y-ruc-peruanos-sin-llamar-a-una-api-modulo-11-en-typescript-44b)
-- [SQLite RISC-V Fix, Formal Verification &amp; pg_grpc for SQL-Native gRPC](https://dev.to/soytuber/sqlite-risc-v-fix-formal-verification-pggrpc-for-sql-native-grpc-2dbf)
+- [on the plane, again](https://dev.to/shrouwoods/on-the-plane-again-3j90)
+- [logic](https://dev.to/shrouwoods/logic-3360)
+- [My Wallet Experiences](https://dev.to/hopebestworld/my-wallet-experiences-48fn)
+- [I Saved 2 Hours a Week by Automating My Changelog — Here&#39;s Exactly How](https://dev.to/shiplogbot/i-saved-2-hours-a-week-by-automating-my-changelog-heres-exactly-how-5gjg)
 <!-- BLOG-POST-LIST:END -->
 
