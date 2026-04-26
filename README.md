@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic is paying $570k for engineers..why not just use Claude Code? 🤔](https://dev.to/horsecoder/anthropic-is-paying-570k-for-engineerswhy-not-just-use-claude-code-36ci)
-- [Creating AWS S3 Bucket using Terraform](https://dev.to/brian_mengo/creating-aws-s3-bucket-using-terraform-4f6k)
-- [Connecting Power BI to PostgreSQL Database](https://dev.to/mburu_champ/connecting-power-bi-to-postgresql-database-e9d)
-- [I built a landing page for my CLI tool! and used the CLI tool itself to manage the workspace](https://dev.to/dev_for55/i-built-a-landing-page-for-my-cli-tool-and-used-the-cli-tool-itself-to-manage-the-workspace-1949)
+- [Decoupling with Chain of Responsibility Pattern in C#](https://dev.to/danielrusnok/decoupling-with-chain-of-responsibility-pattern-in-c-53jp)
+- [Tech Debt Didn&#39;t Start with AI](https://dev.to/jonoherrington/tech-debt-didnt-start-with-ai-4m7n)
+- [Building a Full-Stack ZK-Privacy App on Midnight: A Step-by-Step Guide](https://dev.to/midnight-aliit/building-a-full-stack-zk-privacy-app-on-midnight-a-step-by-step-guide-1nne)
+- [Keeping You in the Driver&#39;s Seat and AI as the Copilot](https://dev.to/liatmoss/keeping-you-in-the-drivers-seat-and-ai-as-the-copilot-1oc8)
 <!-- BLOG-POST-LIST:END -->
 
