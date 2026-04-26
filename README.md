@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Supervise a multi-agent setup with Local LLMs](https://dev.to/ilbets/supervise-a-multi-agent-setup-with-local-llms-5agh)
-- [The Most Important Announcement at NEXT &#39;26 Was a Sidecar](https://dev.to/jubinsoni/the-most-important-announcement-at-next-26-was-a-sidecar-5dmk)
-- [Mobile Development Investments CFOs Will Approve and Ones They Will Not](https://dev.to/alichherawalla/mobile-development-investments-cfos-will-approve-and-ones-they-will-not-37hc)
-- [Mobile Apps for Frontline Workers: How US Manufacturing and Industrial Companies Equip Field Teams in 2026](https://dev.to/alichherawalla/mobile-apps-for-frontline-workers-how-us-manufacturing-and-industrial-companies-equip-field-teams-317c)
+- [3 Seconds of Audio Can Clone Your CEO&#39;s Voice. Here&#39;s What Actually Stops the Scam.](https://dev.to/caracomp/3-seconds-of-audio-can-clone-your-ceos-voice-heres-what-actually-stops-the-scam-270d)
+- [Email Marketing Shopify: Automations That Print Revenue](https://dev.to/juan_diegoisazaa_5362a/email-marketing-shopify-automations-that-print-revenue-46gn)
+- [DevSecOps in Practice: Tools That Actually Catch Vulnerabilities - Part 3 - SCA with pip-audit](https://dev.to/pkkht/devsecops-in-practice-tools-that-actually-catch-vulnerabilities-part-3-sca-with-pip-audit-5a7l)
+- [I&#39;m finally building my own SaaS. Here&#39;s why I picked review APIs.](https://dev.to/arturs_jurgevics/im-finally-building-my-own-saas-heres-why-i-picked-review-apis-369k)
 <!-- BLOG-POST-LIST:END -->
 
