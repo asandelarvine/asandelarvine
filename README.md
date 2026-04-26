@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hands-On with nylas ui: Start web configuration UI](https://dev.to/qasim157/hands-on-with-nylas-ui-start-web-configuration-ui-hom)
-- [AI Agents Need a Constitution: The Missing Control Layer Google Cloud NEXT ‘26 Didn’t Solve](https://dev.to/keerthana_696356/ai-agents-need-a-constitution-the-missing-control-layer-google-cloud-next-26-didnt-solve-3lf3)
-- [nylas calendar events list: Developer Reference with Examples](https://dev.to/qasim157/nylas-calendar-events-list-developer-reference-with-examples-3old)
-- [Working with nylas email search: Search emails by query and filters](https://dev.to/qasim157/working-with-nylas-email-search-search-emails-by-query-and-filters-438b)
+- [Supervise a multi-agent setup with Local LLMs](https://dev.to/ilbets/supervise-a-multi-agent-setup-with-local-llms-5agh)
+- [The Most Important Announcement at NEXT &#39;26 Was a Sidecar](https://dev.to/jubinsoni/the-most-important-announcement-at-next-26-was-a-sidecar-5dmk)
+- [Mobile Development Investments CFOs Will Approve and Ones They Will Not](https://dev.to/alichherawalla/mobile-development-investments-cfos-will-approve-and-ones-they-will-not-37hc)
+- [Mobile Apps for Frontline Workers: How US Manufacturing and Industrial Companies Equip Field Teams in 2026](https://dev.to/alichherawalla/mobile-apps-for-frontline-workers-how-us-manufacturing-and-industrial-companies-equip-field-teams-317c)
 <!-- BLOG-POST-LIST:END -->
 
