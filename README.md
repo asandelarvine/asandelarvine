@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Rust Guide] 9.2. Result Enum and Recoverable Errors Pt. 1 - Match, Expect, and Unwrap Handling Errors](https://dev.to/someb1oody/rust-guide-result-enum-and-recoverable-errors-pt-1-match-expect-and-unwrap-handling-errors-jbe)
-- [GHSA-C4QG-J8JG-42Q5: GHSA-C4QG-J8JG-42Q5: Server-Side Request Forgery in OpenClaw QQBot Extension](https://dev.to/cverports/ghsa-c4qg-j8jg-42q5-ghsa-c4qg-j8jg-42q5-server-side-request-forgery-in-openclaw-qqbot-extension-28af)
-- [The Spot Instance That Killed Our Payments Service &lpar;And Why It Took Us 47 Minutes to Find It&rpar;](https://dev.to/peterinfranexis/the-spot-instance-that-killed-our-payments-service-and-why-it-took-us-47-minutes-to-find-it-2ehp)
-- [Part 4: Improving Retrieval Quality with Token-Aware Chunking and HyDE](https://dev.to/sharathkurup/part-4-improving-retrieval-quality-with-token-aware-chunking-and-hyde-4hkp)
+- [Hands-On with nylas ui: Start web configuration UI](https://dev.to/qasim157/hands-on-with-nylas-ui-start-web-configuration-ui-hom)
+- [AI Agents Need a Constitution: The Missing Control Layer Google Cloud NEXT ‘26 Didn’t Solve](https://dev.to/keerthana_696356/ai-agents-need-a-constitution-the-missing-control-layer-google-cloud-next-26-didnt-solve-3lf3)
+- [nylas calendar events list: Developer Reference with Examples](https://dev.to/qasim157/nylas-calendar-events-list-developer-reference-with-examples-3old)
+- [Working with nylas email search: Search emails by query and filters](https://dev.to/qasim157/working-with-nylas-email-search-search-emails-by-query-and-filters-438b)
 <!-- BLOG-POST-LIST:END -->
 
