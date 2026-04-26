@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How are you managing git &amp; gh access with Agents?](https://dev.to/thisisryanswift/how-are-you-managing-git-gh-access-with-agents-1gel)
-- [Agent Script: Salesforce&#39;s Open Language for Deterministic Agent Orchestration](https://dev.to/conor_61d358cde152bb5800a/agent-script-salesforces-open-language-for-deterministic-agent-orchestration-2h1o)
-- [Why Every RAG Company Is Quietly Building a Graph Layer in 2026](https://dev.to/gabrielanhaia/why-every-rag-company-is-quietly-building-a-graph-layer-in-2026-70p)
-- [The Anthropic SDK Looks Safe. Two of Its Transitive Dependencies Are Not.](https://dev.to/piiiico/the-anthropic-sdk-looks-safe-two-of-its-transitive-dependencies-are-not-4l13)
+- [UCP Tech Council Expands: What the Meeting Minutes Tell Us About Where the Protocol Is Heading](https://dev.to/benjifisher/ucp-tech-council-expands-what-the-meeting-minutes-tell-us-about-where-the-protocol-is-heading-5a92)
+- [structkit vs cookiecutter vs copier: Which Project Scaffolding Tool Is Right for You?](https://dev.to/structkit/structkit-vs-cookiecutter-vs-copier-which-project-scaffolding-tool-is-right-for-you-5gag)
+- [Validar DNI y RUC peruanos sin llamar a una API &lpar;módulo-11 en TypeScript&rpar;](https://dev.to/edson_campaamelndez_6c/validar-dni-y-ruc-peruanos-sin-llamar-a-una-api-modulo-11-en-typescript-44b)
+- [SQLite RISC-V Fix, Formal Verification &amp; pg_grpc for SQL-Native gRPC](https://dev.to/soytuber/sqlite-risc-v-fix-formal-verification-pggrpc-for-sql-native-grpc-2dbf)
 <!-- BLOG-POST-LIST:END -->
 
