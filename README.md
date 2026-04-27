@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Arrête d’utiliser SignalStore pour tout : la hype passe, la dette reste](https://dev.to/romain_geffrault_10d88369/arrete-dutiliser-signalstore-pour-tout-la-hype-passe-la-dette-reste-4m3a)
-- [Shell Security Plugin](https://dev.to/kilocode/shell-security-plugin-4p16)
-- [MongoDB Overview and Preparation Guide](https://dev.to/v_laxmi_sahithi/mongodb-overview-and-preparation-guide-37fe)
-- [From Chatbots to Coworkers: What Google Cloud Next &#39;26 Means for Developers](https://dev.to/chinyereee/from-chatbots-to-coworkers-what-google-cloud-next-26-means-for-developers-2lnf)
+- [Llama-Server Router Mode - Dynamic Model Switching Without Restarts](https://dev.to/rosgluk/llama-server-router-mode-dynamic-model-switching-without-restarts-1h0j)
+- [🧩 The Puzzle is Complete: From 70s Vectors to Modern AI Agents Nothing New Under the Sun ☀️](https://dev.to/maximcoding/the-puzzle-is-complete-from-70s-vectors-to-modern-ai-agents-nothing-new-under-the-sun-2ll1)
+- [Why OpenClaw Feels More Human the Longer You Use It](https://dev.to/seekdb/why-openclaw-feels-more-human-the-longer-you-use-it-3ppl)
+- [CLI Left, Dashboard Right: How to Layer Interfaces in the Agent Era](https://dev.to/seekdb/cli-left-dashboard-right-how-to-layer-interfaces-in-the-agent-era-2blf)
 <!-- BLOG-POST-LIST:END -->
 
