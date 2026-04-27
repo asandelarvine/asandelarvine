@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Let Claude Pentest My Own Side Project for $0.43. It Found Three Things in 12 Minutes.](https://dev.to/kielltampubolon/i-let-claude-pentest-my-own-side-project-for-043-it-found-three-things-in-12-minutes-lab)
-- [I built LeetCode for Web3 developers — looking for 20 beta testers](https://dev.to/apeces/i-built-leetcode-for-web3-developers-looking-for-20-beta-testers-169e)
-- [Ilha for Svelte Developers](https://dev.to/rgolawski/ilha-for-svelte-developers-4016)
-- [We Built a POS System That Had to Work Without Internet — Here’s What We Learned](https://dev.to/keyar/we-built-a-pos-system-that-had-to-work-without-internet-heres-what-we-learned-mcg)
+- [Stripe Projects Partnership: Provision PlanetScale Postgres and MySQL Databases From the Stripe CLI](https://dev.to/planetscale/stripe-projects-partnership-provision-planetscale-postgres-and-mysql-databases-from-the-stripe-cli-2380)
+- [&quot;AI Coding Is Alchemy: A Late-Night Reflection from Fullmetal Alchemist&quot;](https://dev.to/_d3709cf9e80fc6babbff/ai-coding-is-alchemy-a-late-night-reflection-from-fullmetal-alchemist-2epd)
+- [Chaintip freshness cert: signed identity scores that age with the chain](https://dev.to/zekebuilds/chaintip-freshness-cert-signed-identity-scores-that-age-with-the-chain-1m2h)
+- [10 Simple DOM Questions](https://dev.to/athithya_sivasankarar/10-simple-dom-questions-4n5m)
 <!-- BLOG-POST-LIST:END -->
 
