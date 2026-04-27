@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Llama-Server Router Mode - Dynamic Model Switching Without Restarts](https://dev.to/rosgluk/llama-server-router-mode-dynamic-model-switching-without-restarts-1h0j)
-- [🧩 The Puzzle is Complete: From 70s Vectors to Modern AI Agents Nothing New Under the Sun ☀️](https://dev.to/maximcoding/the-puzzle-is-complete-from-70s-vectors-to-modern-ai-agents-nothing-new-under-the-sun-2ll1)
-- [Why OpenClaw Feels More Human the Longer You Use It](https://dev.to/seekdb/why-openclaw-feels-more-human-the-longer-you-use-it-3ppl)
-- [CLI Left, Dashboard Right: How to Layer Interfaces in the Agent Era](https://dev.to/seekdb/cli-left-dashboard-right-how-to-layer-interfaces-in-the-agent-era-2blf)
+- [The Consequences of Agentic AI](https://dev.to/morganwilliscloud/the-consequences-of-agentic-ai-31kc)
+- [Our Auditor Asked How We Prove Logs Aren](https://dev.to/robertatkinson3570/our-auditor-asked-how-we-prove-logs-aren-1l99)
+- [PostgreSQL Index Usage and Optimization](https://dev.to/philip_mcclarence_2ef9475/postgresql-index-usage-and-optimization-4jgf)
+- [Background Services in .NET — IHostedService and BackgroundService Explained](https://dev.to/libintombaby/background-services-in-net-ihostedservice-and-backgroundservice-explained-1mee)
 <!-- BLOG-POST-LIST:END -->
 
