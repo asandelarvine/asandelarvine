@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Three Ways to Convert JSON to TypeScript. Only One Is Deterministic.](https://dev.to/aralroca/three-ways-to-convert-json-to-typescript-only-one-is-deterministic-1h59)
-- [I built Dispatch AI. I just wanted to share it. If you find it cool, take a look and leave a comment.](https://dev.to/scorreaui/i-built-dispatch-ai-i-just-wanted-to-share-it-if-you-find-it-cool-take-a-look-and-leave-a-comment-2hib)
-- [What It Actually Feels Like to Build Something You&#39;re Proud Of](https://dev.to/_boweii/what-it-actually-feels-like-to-build-something-youre-proud-of-35mi)
-- [SQLite Verification, pg_savior, &amp; PostgreSQL Restore Strategies](https://dev.to/soytuber/sqlite-verification-pgsavior-postgresql-restore-strategies-31mk)
+- [Docker 101: How I Mastered Docker Build Processes In One Night](https://dev.to/misha_8ed8a8264b25bdc3a9c/docker-101-how-i-mastered-docker-build-processes-in-one-night-3619)
+- [From Static Data to Conversational AI: Building a RAG-Powered Customer Agent &lpar;Part 2&rpar;](https://dev.to/mehdi_annou_486529ca2277f/from-static-data-to-conversational-ai-building-a-rag-powered-customer-agent-part-2-2f6i)
+- [On Foundation Models in Minecraft](https://dev.to/fosteman/on-foundation-models-minecraft-and-the-quality-of-digital-craft-4ai7)
+- [How we self-pentested ciguard — Cycle 1: four findings, four advisories, two days](https://dev.to/jo_moore_9c12e09339/how-we-self-pentested-ciguard-cycle-1-four-findings-four-advisories-two-days-10cj)
 <!-- BLOG-POST-LIST:END -->
 
