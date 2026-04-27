@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Environmental Compliance in Construction: The Overlooked Risk That Breaks Projects](https://dev.to/zakir_khan_c3e89e3a64a6ce/environmental-compliance-in-construction-the-overlooked-risk-that-breaks-projects-1a3n)
-- [El GRU ruso secuestra routers TP-Link domésticos en una operación global: NSA y 16 países urgen reiniciar el tuyo](https://dev.to/lu1tr0n/el-gru-ruso-secuestra-routers-tp-link-domesticos-en-una-operacion-global-nsa-y-16-paises-urgen-38cc)
-- [Accessibility Testing: Best Practices](https://dev.to/vitalyskadorva/accessibility-testing-best-practices-3li9)
-- [100 Days of Solana — Days 1–4: Keys, Lamports, and My First Browser Wallet](https://dev.to/chus/100-days-of-solana-days-1-4-keys-lamports-and-my-first-browser-wallet-3n8)
+- [62.8% on Aider Polyglot from a MacBook Pro. Then the other model we tried scored 4%. Here&#39;s what actually happened, with a working cost loop attached.](https://dev.to/defilan/628-on-aider-polyglot-from-a-macbook-pro-then-the-other-model-we-tried-scored-4-heres-what-17ed)
+- [How I used Launch Templates to deploy AI workloads elastically across GPU providers and finally avoided vendor lock-in](https://dev.to/yukixing6star/how-i-used-launch-templates-to-deploy-ai-workloads-elastically-across-gpu-providers-and-finally-477e)
+- [Ownership starts before anyone asks](https://dev.to/apetryla/ownership-starts-before-anyone-asks-4bol)
+- [How to Add AI Features to Your SaaS App Without Breaking Everything](https://dev.to/aadesh-kumar/how-to-add-ai-features-to-your-saas-app-without-breaking-everything-4li4)
 <!-- BLOG-POST-LIST:END -->
 
