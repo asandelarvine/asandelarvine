@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [62.8% on Aider Polyglot from a MacBook Pro. Then the other model we tried scored 4%. Here&#39;s what actually happened, with a working cost loop attached.](https://dev.to/defilan/628-on-aider-polyglot-from-a-macbook-pro-then-the-other-model-we-tried-scored-4-heres-what-17ed)
-- [How I used Launch Templates to deploy AI workloads elastically across GPU providers and finally avoided vendor lock-in](https://dev.to/yukixing6star/how-i-used-launch-templates-to-deploy-ai-workloads-elastically-across-gpu-providers-and-finally-477e)
-- [Ownership starts before anyone asks](https://dev.to/apetryla/ownership-starts-before-anyone-asks-4bol)
-- [How to Add AI Features to Your SaaS App Without Breaking Everything](https://dev.to/aadesh-kumar/how-to-add-ai-features-to-your-saas-app-without-breaking-everything-4li4)
+- [Arrête d’utiliser SignalStore pour tout : la hype passe, la dette reste](https://dev.to/romain_geffrault_10d88369/arrete-dutiliser-signalstore-pour-tout-la-hype-passe-la-dette-reste-4m3a)
+- [Shell Security Plugin](https://dev.to/kilocode/shell-security-plugin-4p16)
+- [MongoDB Overview and Preparation Guide](https://dev.to/v_laxmi_sahithi/mongodb-overview-and-preparation-guide-37fe)
+- [From Chatbots to Coworkers: What Google Cloud Next &#39;26 Means for Developers](https://dev.to/chinyereee/from-chatbots-to-coworkers-what-google-cloud-next-26-means-for-developers-2lnf)
 <!-- BLOG-POST-LIST:END -->
 
