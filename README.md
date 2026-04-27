@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built Three Platforms for Dental Professionals — Here&#39;s What the Data Taught Me](https://dev.to/nickgrigora/i-built-three-platforms-for-dental-professionals-heres-what-the-data-taught-me-3nbl)
-- [🧠 AI is not replacing developers — it’s exposing the gap between them](https://dev.to/frxncisxo/ai-is-not-replacing-developers-its-exposing-the-gap-between-them-3k3n)
-- [Machine Learning Driven Crop Yield Prediction with NLP-Based Insight](https://dev.to/chittiprolu_dakshayani/machine-learning-driven-crop-yield-prediction-with-nlp-based-insight-5fmg)
-- [The Two Joys of Coding Before AI](https://dev.to/lazarv/the-two-joys-of-coding-before-ai-1pbp)
+- [Three Ways to Convert JSON to TypeScript. Only One Is Deterministic.](https://dev.to/aralroca/three-ways-to-convert-json-to-typescript-only-one-is-deterministic-1h59)
+- [I built Dispatch AI. I just wanted to share it. If you find it cool, take a look and leave a comment.](https://dev.to/scorreaui/i-built-dispatch-ai-i-just-wanted-to-share-it-if-you-find-it-cool-take-a-look-and-leave-a-comment-2hib)
+- [What It Actually Feels Like to Build Something You&#39;re Proud Of](https://dev.to/_boweii/what-it-actually-feels-like-to-build-something-youre-proud-of-35mi)
+- [SQLite Verification, pg_savior, &amp; PostgreSQL Restore Strategies](https://dev.to/soytuber/sqlite-verification-pgsavior-postgresql-restore-strategies-31mk)
 <!-- BLOG-POST-LIST:END -->
 
