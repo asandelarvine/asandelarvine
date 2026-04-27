@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker 101: How I Mastered Docker Build Processes In One Night](https://dev.to/misha_8ed8a8264b25bdc3a9c/docker-101-how-i-mastered-docker-build-processes-in-one-night-3619)
-- [From Static Data to Conversational AI: Building a RAG-Powered Customer Agent &lpar;Part 2&rpar;](https://dev.to/mehdi_annou_486529ca2277f/from-static-data-to-conversational-ai-building-a-rag-powered-customer-agent-part-2-2f6i)
-- [On Foundation Models in Minecraft](https://dev.to/fosteman/on-foundation-models-minecraft-and-the-quality-of-digital-craft-4ai7)
-- [How we self-pentested ciguard — Cycle 1: four findings, four advisories, two days](https://dev.to/jo_moore_9c12e09339/how-we-self-pentested-ciguard-cycle-1-four-findings-four-advisories-two-days-10cj)
+- [Building a real SSH workspace for iPhone and iPad](https://dev.to/yaser_a_0b83c94f4d5e388cd/building-a-real-ssh-workspace-for-iphone-and-ipad-52j9)
+- [5 Rotary Encoder Projects That Add Precision Input to Your Projects](https://dev.to/_0c004e5fde78250aee362/5-rotary-encoder-projects-that-add-precision-input-to-your-projects-4925)
+- [GitHub Actions linters compared - actionlint, ci-doctor, sherif, octoscan](https://dev.to/depmedicdevbyte/github-actions-linters-compared-actionlint-ci-doctor-sherif-octoscan-3cc3)
+- [The Most Underrated Announcement at Google Cloud Next &#39;26 Has Nothing to Do With Gemini](https://dev.to/orbit_websites_b004ed2787/the-most-underrated-announcement-at-google-cloud-next-26-has-nothing-to-do-with-gemini-34a6)
 <!-- BLOG-POST-LIST:END -->
 
