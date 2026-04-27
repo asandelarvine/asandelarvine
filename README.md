@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stripe Projects Partnership: Provision PlanetScale Postgres and MySQL Databases From the Stripe CLI](https://dev.to/planetscale/stripe-projects-partnership-provision-planetscale-postgres-and-mysql-databases-from-the-stripe-cli-2380)
-- [&quot;AI Coding Is Alchemy: A Late-Night Reflection from Fullmetal Alchemist&quot;](https://dev.to/_d3709cf9e80fc6babbff/ai-coding-is-alchemy-a-late-night-reflection-from-fullmetal-alchemist-2epd)
-- [Chaintip freshness cert: signed identity scores that age with the chain](https://dev.to/zekebuilds/chaintip-freshness-cert-signed-identity-scores-that-age-with-the-chain-1m2h)
-- [10 Simple DOM Questions](https://dev.to/athithya_sivasankarar/10-simple-dom-questions-4n5m)
+- [I Built Three Platforms for Dental Professionals — Here&#39;s What the Data Taught Me](https://dev.to/nickgrigora/i-built-three-platforms-for-dental-professionals-heres-what-the-data-taught-me-3nbl)
+- [🧠 AI is not replacing developers — it’s exposing the gap between them](https://dev.to/frxncisxo/ai-is-not-replacing-developers-its-exposing-the-gap-between-them-3k3n)
+- [Machine Learning Driven Crop Yield Prediction with NLP-Based Insight](https://dev.to/chittiprolu_dakshayani/machine-learning-driven-crop-yield-prediction-with-nlp-based-insight-5fmg)
+- [The Two Joys of Coding Before AI](https://dev.to/lazarv/the-two-joys-of-coding-before-ai-1pbp)
 <!-- BLOG-POST-LIST:END -->
 
