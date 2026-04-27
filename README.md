@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PIIGhost : une librairie Python d&#39;anonymisation de données confidentiels pour les agents LLM](https://dev.to/athroniaeth/piighost-une-librairie-python-danonymisation-de-donnees-confidentiels-pour-les-agents-llm-3c1i)
-- [Photosynthesis Simulation Rate 2026: Interactive CBSE Biology Lab](https://dev.to/a_khan_811c0d82db7625b12a/photosynthesis-simulation-rate-2026-interactive-cbse-biology-lab-4lao)
-- [Production-Grade Serverless Web App Architecture on AWS with CloudFront, S3, API Gateway, Lambda, and DynamoDB](https://dev.to/aws-builders/production-grade-serverless-web-app-architecture-on-aws-with-cloudfront-s3-api-gateway-lambda-1646)
-- [Technical Report: EU AI Act Code Footprint Analysis](https://dev.to/kuzivaai/technical-report-eu-ai-act-code-footprint-analysis-4l6i)
+- [Environmental Compliance in Construction: The Overlooked Risk That Breaks Projects](https://dev.to/zakir_khan_c3e89e3a64a6ce/environmental-compliance-in-construction-the-overlooked-risk-that-breaks-projects-1a3n)
+- [El GRU ruso secuestra routers TP-Link domésticos en una operación global: NSA y 16 países urgen reiniciar el tuyo](https://dev.to/lu1tr0n/el-gru-ruso-secuestra-routers-tp-link-domesticos-en-una-operacion-global-nsa-y-16-paises-urgen-38cc)
+- [Accessibility Testing: Best Practices](https://dev.to/vitalyskadorva/accessibility-testing-best-practices-3li9)
+- [100 Days of Solana — Days 1–4: Keys, Lamports, and My First Browser Wallet](https://dev.to/chus/100-days-of-solana-days-1-4-keys-lamports-and-my-first-browser-wallet-3n8)
 <!-- BLOG-POST-LIST:END -->
 
