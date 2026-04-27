@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Consequences of Agentic AI](https://dev.to/morganwilliscloud/the-consequences-of-agentic-ai-31kc)
-- [Our Auditor Asked How We Prove Logs Aren](https://dev.to/robertatkinson3570/our-auditor-asked-how-we-prove-logs-aren-1l99)
-- [PostgreSQL Index Usage and Optimization](https://dev.to/philip_mcclarence_2ef9475/postgresql-index-usage-and-optimization-4jgf)
-- [Background Services in .NET — IHostedService and BackgroundService Explained](https://dev.to/libintombaby/background-services-in-net-ihostedservice-and-backgroundservice-explained-1mee)
+- [I Let Claude Pentest My Own Side Project for $0.43. It Found Three Things in 12 Minutes.](https://dev.to/kielltampubolon/i-let-claude-pentest-my-own-side-project-for-043-it-found-three-things-in-12-minutes-lab)
+- [I built LeetCode for Web3 developers — looking for 20 beta testers](https://dev.to/apeces/i-built-leetcode-for-web3-developers-looking-for-20-beta-testers-169e)
+- [Ilha for Svelte Developers](https://dev.to/rgolawski/ilha-for-svelte-developers-4016)
+- [We Built a POS System That Had to Work Without Internet — Here’s What We Learned](https://dev.to/keyar/we-built-a-pos-system-that-had-to-work-without-internet-heres-what-we-learned-mcg)
 <!-- BLOG-POST-LIST:END -->
 
