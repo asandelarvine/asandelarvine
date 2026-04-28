@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🤖 SWE-agent — Deep Dive &amp; Build-Your-Own Guide](https://dev.to/truongpx396/swe-agent-deep-dive-build-your-own-guide-ade)
-- [Top 10 Code Review Mistakes That Let Performance Issues Slip](https://dev.to/jhavtech/top-10-code-review-mistakes-that-let-performance-issues-slip-88p)
-- [Building Real HMI Interfaces with a 4.3-inch ESP32-S3 Touch Display &lpar;WiFi + LVGL&rpar;](https://dev.to/alan12/building-real-hmi-interfaces-with-a-43-inch-esp32-s3-touch-display-wifi-lvgl-14o9)
-- [Gemini-3-Flash: My ai agent benchmark terminalbench Win &amp; 3 Fixes](https://dev.to/umair24171/gemini-3-flash-my-ai-agent-benchmark-terminalbench-win-3-fixes-44eb)
+- [I Built an AI Agent to Do My Pre-Refinement. It Turned Into a Mirror of How We Wrote Tickets.](https://dev.to/ouvarov/i-built-an-ai-agent-to-do-my-pre-refinement-it-turned-into-a-mirror-of-how-we-wrote-tickets-35m9)
+- [Tutorial: Build High-Throughput APIs with Go 1.24 and Gin 1.10](https://dev.to/johalputt/tutorial-build-high-throughput-apis-with-go-124-and-gin-110-1833)
+- [OPC UA from PHP? Yes, with Zero C Extensions — Introducing php-opcua/opcua-client](https://dev.to/gianfriaur/opc-ua-from-php-yes-with-zero-c-extensions-introducing-php-opcuaopcua-client-p6)
+- [Stop Defaulting to WebSockets: A Practical Guide to SSE, Polling, and Knowing When You Actually Need Them](https://dev.to/benriemer/stop-defaulting-to-websockets-a-practical-guide-to-sse-polling-and-knowing-when-you-actually-nln)
 <!-- BLOG-POST-LIST:END -->
 
