@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Debt in the Age of AI: From Backlog to Strategic Asset](https://dev.to/abudantsov/test-debt-in-the-age-of-ai-from-backlog-to-strategic-asset-3n1l)
-- [The Backyard Quarry, Part 7: Systems Beyond the Backyard](https://dev.to/kenwalger/the-backyard-quarry-part-7-systems-beyond-the-backyard-4en0)
-- [DDD in Go Without the Bureaucracy: Aggregates, Not Abstractions](https://dev.to/gabrielanhaia/ddd-in-go-without-the-bureaucracy-aggregates-not-abstractions-4p2k)
-- [I built Soul, a tiny compiled language that generates ~22KB binaries — here&#39;s what I learned](https://dev.to/robeltdp/i-built-soul-a-tiny-compiled-language-that-generates-22kb-binaries-heres-what-i-learned-4cd5)
+- [I wanted jq with memory, time ranges, and filters. So I built logdive](https://dev.to/arysmart/i-wanted-jq-with-memory-time-ranges-and-filters-so-i-built-logdive-2j13)
+- [Information Wants to be Free](https://dev.to/sargentjamesa/information-wants-to-be-free-12fl)
+- [From Code Generation to Message Injection: Richard Seroter&#39;s AI Evolution &lpar;and What It Means for Us&rpar;](https://dev.to/ggle_in/from-code-generation-to-message-injection-richard-seroters-ai-evolution-and-what-it-means-for-us-4722)
+- [The Legacy of Bamini: The Font That Defined Tamil Digital Typography](https://dev.to/vaishnav_v_a3cbb3795e324a/the-legacy-of-bamini-the-font-that-defined-tamil-digital-typography-3efk)
 <!-- BLOG-POST-LIST:END -->
 
