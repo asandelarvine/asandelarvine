@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean, Transform, and Load Data in Power BI: A Practical Guide to Data Preparation](https://dev.to/atinuke77/clean-transform-and-load-data-in-power-bi-a-practical-guide-to-data-preparation-34bj)
-- [Ruby on Rails Has Scalability Issues. Here&#39;s How We Solved Them](https://dev.to/devansh2002/ruby-on-rails-has-scalability-issues-heres-how-we-solved-them-3b50)
-- [Building Evenfield: An AI Homeschool Platform That Never Forgets](https://dev.to/jonomor_ecosystem/building-evenfield-an-ai-homeschool-platform-that-never-forgets-24cp)
-- [Shipping Better Dev Tools: What I Learned After Launching My React Generator CLI](https://dev.to/aditya_sengar_18547ba3ce7/shipping-better-dev-tools-what-i-learned-after-launching-my-react-generator-cli-55lh)
+- [🤖 SWE-agent — Deep Dive &amp; Build-Your-Own Guide](https://dev.to/truongpx396/swe-agent-deep-dive-build-your-own-guide-ade)
+- [Top 10 Code Review Mistakes That Let Performance Issues Slip](https://dev.to/jhavtech/top-10-code-review-mistakes-that-let-performance-issues-slip-88p)
+- [Building Real HMI Interfaces with a 4.3-inch ESP32-S3 Touch Display &lpar;WiFi + LVGL&rpar;](https://dev.to/alan12/building-real-hmi-interfaces-with-a-43-inch-esp32-s3-touch-display-wifi-lvgl-14o9)
+- [Gemini-3-Flash: My ai agent benchmark terminalbench Win &amp; 3 Fixes](https://dev.to/umair24171/gemini-3-flash-my-ai-agent-benchmark-terminalbench-win-3-fixes-44eb)
 <!-- BLOG-POST-LIST:END -->
 
