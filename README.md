@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I wanted jq with memory, time ranges, and filters. So I built logdive](https://dev.to/arysmart/i-wanted-jq-with-memory-time-ranges-and-filters-so-i-built-logdive-2j13)
-- [Information Wants to be Free](https://dev.to/sargentjamesa/information-wants-to-be-free-12fl)
-- [From Code Generation to Message Injection: Richard Seroter&#39;s AI Evolution &lpar;and What It Means for Us&rpar;](https://dev.to/ggle_in/from-code-generation-to-message-injection-richard-seroters-ai-evolution-and-what-it-means-for-us-4722)
-- [The Legacy of Bamini: The Font That Defined Tamil Digital Typography](https://dev.to/vaishnav_v_a3cbb3795e324a/the-legacy-of-bamini-the-font-that-defined-tamil-digital-typography-3efk)
+- [War Story: We Used Claude Code 2.0 to Generate 10k Tests and Cut Bug Rates by 45%](https://dev.to/johalputt/war-story-we-used-claude-code-20-to-generate-10k-tests-and-cut-bug-rates-by-45-370g)
+- [I Built a Free QR Code Generator from Scratch — 24 Types, No Sign-Up, No Expiry](https://dev.to/qrkoduonline/i-built-a-free-qr-code-generator-from-scratch-24-types-no-sign-up-no-expiry-2f11)
+- [War Story: We Ditched Slack and Saved 30% by Moving to Discord for Internal Developer Comms](https://dev.to/johalputt/war-story-we-ditched-slack-and-saved-30-by-moving-to-discord-for-internal-developer-comms-ai4)
+- [Agentic Web Email Infrastructure](https://dev.to/francofuji/agentic-web-email-infrastructure-12h9)
 <!-- BLOG-POST-LIST:END -->
 
