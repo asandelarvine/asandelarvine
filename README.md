@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Agent to Do My Pre-Refinement. It Turned Into a Mirror of How We Wrote Tickets.](https://dev.to/ouvarov/i-built-an-ai-agent-to-do-my-pre-refinement-it-turned-into-a-mirror-of-how-we-wrote-tickets-35m9)
-- [Tutorial: Build High-Throughput APIs with Go 1.24 and Gin 1.10](https://dev.to/johalputt/tutorial-build-high-throughput-apis-with-go-124-and-gin-110-1833)
-- [OPC UA from PHP? Yes, with Zero C Extensions — Introducing php-opcua/opcua-client](https://dev.to/gianfriaur/opc-ua-from-php-yes-with-zero-c-extensions-introducing-php-opcuaopcua-client-p6)
-- [Stop Defaulting to WebSockets: A Practical Guide to SSE, Polling, and Knowing When You Actually Need Them](https://dev.to/benriemer/stop-defaulting-to-websockets-a-practical-guide-to-sse-polling-and-knowing-when-you-actually-nln)
+- [LangChain 0.2.10 vs. LangSmith 0.12: LLM Chain Debugging Efficiency](https://dev.to/johalputt/langchain-0210-vs-langsmith-012-llm-chain-debugging-efficiency-j9o)
+- [Automating Polish UBO Checks: How to Query CRBR Without an Official API](https://dev.to/ucptools/automating-polish-ubo-checks-how-to-query-crbr-without-an-official-api-1l7o)
+- [I Built an App in 24 Hours Using AI - Here&#39;s What Happened](https://dev.to/mittal_technologies/i-built-an-app-in-24-hours-using-ai-heres-what-happened-i08)
+- [Why Did Docker Abandon TUF?: A Turbulent History of Container Signing](https://dev.to/kanywst/why-did-docker-abandon-tuf-a-turbulent-history-of-container-signing-29i4)
 <!-- BLOG-POST-LIST:END -->
 
