@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [War Story: We Used Claude Code 2.0 to Generate 10k Tests and Cut Bug Rates by 45%](https://dev.to/johalputt/war-story-we-used-claude-code-20-to-generate-10k-tests-and-cut-bug-rates-by-45-370g)
-- [I Built a Free QR Code Generator from Scratch — 24 Types, No Sign-Up, No Expiry](https://dev.to/qrkoduonline/i-built-a-free-qr-code-generator-from-scratch-24-types-no-sign-up-no-expiry-2f11)
-- [War Story: We Ditched Slack and Saved 30% by Moving to Discord for Internal Developer Comms](https://dev.to/johalputt/war-story-we-ditched-slack-and-saved-30-by-moving-to-discord-for-internal-developer-comms-ai4)
-- [Agentic Web Email Infrastructure](https://dev.to/francofuji/agentic-web-email-infrastructure-12h9)
+- [React vs. React Native: The difference, and which is best for you](https://dev.to/hugodev/react-vs-react-native-the-difference-and-which-is-best-for-you-4jm1)
+- [Why I Sign Every .exe With Sigstore - PC Workman v1.7.2 Release, Security-First Open Source](https://dev.to/huckler/why-i-sign-every-exe-with-sigstore-pc-workman-v172-release-security-first-open-source-4pfh)
+- [War Story: A Rust 1.94 Panic Caused Our API Gateway to Crash During Black Friday Traffic](https://dev.to/johalputt/war-story-a-rust-194-panic-caused-our-api-gateway-to-crash-during-black-friday-traffic-cnp)
+- [Your Engineers Aren&#39;t Slow. Your incident response is. Here&#39;s Where the First 20 Minutes Actually Go](https://dev.to/steadwing/your-engineers-arent-slow-your-incident-response-is-heres-where-the-first-20-minutes-actually-go-1911)
 <!-- BLOG-POST-LIST:END -->
 
