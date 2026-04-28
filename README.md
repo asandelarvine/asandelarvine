@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LangChain 0.2.10 vs. LangSmith 0.12: LLM Chain Debugging Efficiency](https://dev.to/johalputt/langchain-0210-vs-langsmith-012-llm-chain-debugging-efficiency-j9o)
-- [Automating Polish UBO Checks: How to Query CRBR Without an Official API](https://dev.to/ucptools/automating-polish-ubo-checks-how-to-query-crbr-without-an-official-api-1l7o)
-- [I Built an App in 24 Hours Using AI - Here&#39;s What Happened](https://dev.to/mittal_technologies/i-built-an-app-in-24-hours-using-ai-heres-what-happened-i08)
-- [Why Did Docker Abandon TUF?: A Turbulent History of Container Signing](https://dev.to/kanywst/why-did-docker-abandon-tuf-a-turbulent-history-of-container-signing-29i4)
+- [how to use skills from Claude Code A.K.A Claudinho.](https://dev.to/cunhadaniel/how-to-use-skills-from-claude-code-aka-claudinho-3mpn)
+- [I just launched my second Chrome extension in 8 weeks. Here&#39;s what building product two taught me.](https://dev.to/helix_labs_dev/i-just-launched-my-second-chrome-extension-in-8-weeks-heres-what-building-product-two-taught-me-cdj)
+- [It&#39;s not running out of token money :P](https://dev.to/canro91/its-not-running-out-of-token-money-p-2ec7)
+- [Most People Use AI Like Google. That&#39;s Why It Sucks.](https://dev.to/jonoherrington/most-people-use-ai-like-google-thats-why-it-sucks-15c2)
 <!-- BLOG-POST-LIST:END -->
 
