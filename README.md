@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [how to use skills from Claude Code A.K.A Claudinho.](https://dev.to/cunhadaniel/how-to-use-skills-from-claude-code-aka-claudinho-3mpn)
-- [I just launched my second Chrome extension in 8 weeks. Here&#39;s what building product two taught me.](https://dev.to/helix_labs_dev/i-just-launched-my-second-chrome-extension-in-8-weeks-heres-what-building-product-two-taught-me-cdj)
-- [It&#39;s not running out of token money :P](https://dev.to/canro91/its-not-running-out-of-token-money-p-2ec7)
-- [Most People Use AI Like Google. That&#39;s Why It Sucks.](https://dev.to/jonoherrington/most-people-use-ai-like-google-thats-why-it-sucks-15c2)
+- [Test Debt in the Age of AI: From Backlog to Strategic Asset](https://dev.to/abudantsov/test-debt-in-the-age-of-ai-from-backlog-to-strategic-asset-3n1l)
+- [The Backyard Quarry, Part 7: Systems Beyond the Backyard](https://dev.to/kenwalger/the-backyard-quarry-part-7-systems-beyond-the-backyard-4en0)
+- [DDD in Go Without the Bureaucracy: Aggregates, Not Abstractions](https://dev.to/gabrielanhaia/ddd-in-go-without-the-bureaucracy-aggregates-not-abstractions-4p2k)
+- [I built Soul, a tiny compiled language that generates ~22KB binaries — here&#39;s what I learned](https://dev.to/robeltdp/i-built-soul-a-tiny-compiled-language-that-generates-22kb-binaries-heres-what-i-learned-4cd5)
 <!-- BLOG-POST-LIST:END -->
 
