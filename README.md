@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React vs. React Native: The difference, and which is best for you](https://dev.to/hugodev/react-vs-react-native-the-difference-and-which-is-best-for-you-4jm1)
-- [Why I Sign Every .exe With Sigstore - PC Workman v1.7.2 Release, Security-First Open Source](https://dev.to/huckler/why-i-sign-every-exe-with-sigstore-pc-workman-v172-release-security-first-open-source-4pfh)
-- [War Story: A Rust 1.94 Panic Caused Our API Gateway to Crash During Black Friday Traffic](https://dev.to/johalputt/war-story-a-rust-194-panic-caused-our-api-gateway-to-crash-during-black-friday-traffic-cnp)
-- [Your Engineers Aren&#39;t Slow. Your incident response is. Here&#39;s Where the First 20 Minutes Actually Go](https://dev.to/steadwing/your-engineers-arent-slow-your-incident-response-is-heres-where-the-first-20-minutes-actually-go-1911)
+- [Real Project: Analyze a Dataset End to End](https://dev.to/yakhilesh/real-project-analyze-a-dataset-end-to-end-3ffn)
+- [OpenAI Agents SDK Tutorial: Build Multi-Agent AI Systems in Python &lpar;2025&rpar;](https://dev.to/akhileshpothuri/openai-agents-sdk-tutorial-build-multi-agent-ai-systems-in-python-2025-1pe5)
+- [Testing Godot Code Is Harder Than Testing a Webapp. Here&#39;s What Helps.](https://dev.to/ziva/testing-godot-code-is-harder-than-testing-a-webapp-heres-what-helps-5gb1)
+- [Understanding Windows Printing: From Legacy to Modern IPP](https://dev.to/johnmarion60/understanding-windows-printing-from-legacy-to-modern-ipp-1kcp)
 <!-- BLOG-POST-LIST:END -->
 
