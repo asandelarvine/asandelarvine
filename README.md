@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Style HTML without writing a single class — introducing classless.css](https://dev.to/njbsaab/style-html-without-writing-a-single-class-introducing-classlesscss-4fcd)
-- [Dart FFI Advanced — C Library Integration, Memory Management, and Flutter Plugin](https://dev.to/kanta13jp1/dart-ffi-advanced-c-library-integration-memory-management-and-flutter-plugin-24fa)
-- [Code Story: Building a Custom Kubernetes Scheduler with Go 1.24, Scheduler Framework, and KEDA 2.15](https://dev.to/johalputt/code-story-building-a-custom-kubernetes-scheduler-with-go-124-scheduler-framework-and-keda-215-2kmp)
-- [We Built a 3-Layer Audit Trail &lpar;AI + GPS + Blockchain&rpar; to Eliminate Greenwashing in Ocean Conservation](https://dev.to/chad_buliamu_a1687850848c/we-built-a-3-layer-audit-trail-ai-gps-blockchain-to-eliminate-greenwashing-in-ocean-58mc)
+- [Running AI agents in healthcare without sending PHI to OpenAI or Anthropic](https://dev.to/artem_a/running-ai-agents-in-healthcare-without-sending-phi-to-openai-or-anthropic-2807)
+- [I&#39;ve Shipped 7 Mac Apps as a Solo Developer. Here&#39;s What Actually Moves the Needle.](https://dev.to/hiyoyok/ive-shipped-7-mac-apps-as-a-solo-developer-heres-what-actually-moves-the-needle-4obb)
+- [LocalSend: lo instalé en todo mi stack y reemplazó AirDrop, pero hay un tradeoff que nadie menciona](https://dev.to/jtorchia/localsend-lo-instale-en-todo-mi-stack-y-reemplazo-airdrop-pero-hay-un-tradeoff-que-nadie-menciona-479e)
+- [I built a memory API that AI agents can pay for](https://dev.to/pat9000/i-built-a-memory-api-that-ai-agents-can-pay-for-3p0i)
 <!-- BLOG-POST-LIST:END -->
 
