@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Real Project: Analyze a Dataset End to End](https://dev.to/yakhilesh/real-project-analyze-a-dataset-end-to-end-3ffn)
-- [OpenAI Agents SDK Tutorial: Build Multi-Agent AI Systems in Python &lpar;2025&rpar;](https://dev.to/akhileshpothuri/openai-agents-sdk-tutorial-build-multi-agent-ai-systems-in-python-2025-1pe5)
-- [Testing Godot Code Is Harder Than Testing a Webapp. Here&#39;s What Helps.](https://dev.to/ziva/testing-godot-code-is-harder-than-testing-a-webapp-heres-what-helps-5gb1)
-- [Understanding Windows Printing: From Legacy to Modern IPP](https://dev.to/johnmarion60/understanding-windows-printing-from-legacy-to-modern-ipp-1kcp)
+- [Flutter GoRouter Complete Guide — Full Control Over Navigation 2.0](https://dev.to/kanta13jp1/flutter-gorouter-complete-guide-full-control-over-navigation-20-i15)
+- [Stop Saying “We’re Working on It” — Show Your Product Roadmap Instead](https://dev.to/slarda_8140e179ef5ab42369/stop-saying-were-working-on-it-show-your-product-roadmap-instead-59g2)
+- [Flutter Web Rendering Complete Guide — CanvasKit vs HTML Renderer](https://dev.to/kanta13jp1/flutter-web-rendering-complete-guide-canvaskit-vs-html-renderer-3jbe)
+- [How to Turn Filament v5&#39;s Rich Editor Into a Full Block Editor](https://dev.to/tallcms/how-to-turn-filament-v5s-rich-editor-into-a-full-block-editor-3g5g)
 <!-- BLOG-POST-LIST:END -->
 
