@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Real-Time DDoS Detection Engine from Scratch](https://dev.to/lucadavid075/how-i-built-a-real-time-ddos-detection-engine-from-scratch-3p6f)
-- [How I Built a Real Time DDoS Detection Engine from Scratch](https://dev.to/khavelemarline/how-i-built-a-real-time-ddos-detection-engine-from-scratch-1bei)
-- [DuckDB 1.5.2, PostgreSQL Linux 7.0 Regression, &amp; SQLite Formal Verification](https://dev.to/soytuber/duckdb-152-postgresql-linux-70-regression-sqlite-formal-verification-59mn)
-- [FlashQLA Kernels Accelerate AI; NVIDIA &amp; AMD Unveil New GPUs](https://dev.to/soytuber/flashqla-kernels-accelerate-ai-nvidia-amd-unveil-new-gpus-46o6)
+- [Building on Midnight with Windows — A Real Developer&#39;s WSL2 Setup Guide](https://dev.to/midnight-aliit/building-on-midnight-with-windows-a-real-developers-wsl2-setup-guide-om6)
+- [Move Over Python: PHP Is the Sleeping Giant of AI Agents](https://dev.to/zadro/move-over-python-php-is-the-sleeping-giant-of-ai-agents-577b)
+- [20,000 Taxi Rides in Cuba: What I Learned Building on Organic Maps](https://dev.to/leonardo_tq_13f83601e8513/20000-taxi-rides-in-cuba-what-i-learned-building-on-organic-maps-3k9b)
+- [Finally: Memory Safety for C Without Rewriting Everything](https://dev.to/attilatorda/finally-memory-safety-for-c-without-rewriting-everything-3ldm)
 <!-- BLOG-POST-LIST:END -->
 
