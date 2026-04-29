@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Kubeconfig for GKE That Doesn&#39;t Need gcloud](https://dev.to/saiyam1814/a-kubeconfig-for-gke-that-doesnt-need-gcloud-5b8m)
-- [The Ingress NGINX Migration Just Got Easier: 119 Annotations, 3 Targets, Impact Ratings](https://dev.to/saiyam1814/the-ingress-nginx-migration-just-got-easier-119-annotations-3-targets-impact-ratings-27mj)
-- [What Actually Happens When You Run kubectl run nginx](https://dev.to/saiyam1814/what-actually-happens-when-you-run-kubectl-run-nginx-34bh)
-- [What Actually Happens When kube-scheduler Picks a Node &lpar;13 Stages Inside Kubernetes&rpar;](https://dev.to/saiyam1814/what-actually-happens-when-kube-scheduler-picks-a-node-13-stages-inside-kubernetes-3g6o)
+- [The five-call cross-border KYB workflow — walking a UBO chain across jurisdictions in a single prompt](https://dev.to/openregistry/the-five-call-cross-border-kyb-workflow-walking-a-ubo-chain-across-jurisdictions-in-a-single-273l)
+- [A Seond Brain For Your Agents](https://dev.to/mischa/a-seond-brain-for-your-agents-450i)
+- [Testing a production Bash script: 38 tests without a framework](https://dev.to/ohugonnot/testing-a-production-bash-script-38-tests-without-a-framework-55a4)
+- [Building a Privacy-First URL Shortener on Blockchain](https://dev.to/wes_parsons_57932a30dc1f3/building-a-privacy-first-url-shortener-on-blockchain-19l6)
 <!-- BLOG-POST-LIST:END -->
 
