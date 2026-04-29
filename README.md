@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The five-call cross-border KYB workflow — walking a UBO chain across jurisdictions in a single prompt](https://dev.to/openregistry/the-five-call-cross-border-kyb-workflow-walking-a-ubo-chain-across-jurisdictions-in-a-single-273l)
-- [A Seond Brain For Your Agents](https://dev.to/mischa/a-seond-brain-for-your-agents-450i)
-- [Testing a production Bash script: 38 tests without a framework](https://dev.to/ohugonnot/testing-a-production-bash-script-38-tests-without-a-framework-55a4)
-- [Building a Privacy-First URL Shortener on Blockchain](https://dev.to/wes_parsons_57932a30dc1f3/building-a-privacy-first-url-shortener-on-blockchain-19l6)
+- [Style HTML without writing a single class — introducing classless.css](https://dev.to/njbsaab/style-html-without-writing-a-single-class-introducing-classlesscss-4fcd)
+- [Dart FFI Advanced — C Library Integration, Memory Management, and Flutter Plugin](https://dev.to/kanta13jp1/dart-ffi-advanced-c-library-integration-memory-management-and-flutter-plugin-24fa)
+- [Code Story: Building a Custom Kubernetes Scheduler with Go 1.24, Scheduler Framework, and KEDA 2.15](https://dev.to/johalputt/code-story-building-a-custom-kubernetes-scheduler-with-go-124-scheduler-framework-and-keda-215-2kmp)
+- [We Built a 3-Layer Audit Trail &lpar;AI + GPS + Blockchain&rpar; to Eliminate Greenwashing in Ocean Conservation](https://dev.to/chad_buliamu_a1687850848c/we-built-a-3-layer-audit-trail-ai-gps-blockchain-to-eliminate-greenwashing-in-ocean-58mc)
 <!-- BLOG-POST-LIST:END -->
 
