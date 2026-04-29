@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Morpheus Plugin A Practical Walkthrough](https://dev.to/emre_baykal_a4a7a479d48c5/building-a-morpheus-plugin-a-practical-walkthrough-3gbh)
-- [Lemonade v10.3: Run Local LLMs, Image Gen, and Speech on Your Own GPU for Free](https://dev.to/arshtechpro/lemonade-v103-run-local-llms-image-gen-and-speech-on-your-own-gpu-for-free-29ob)
-- [Meteor 3.4.1 is out: Rspack consolidation, revitalized examples, and important fixes](https://dev.to/meteor/meteor-341-is-out-rspack-consolidation-revitalized-examples-and-important-fixes-4lac)
-- [How I Built a Real-Time DDoS Detection Engine from Scratch](https://dev.to/damilola_ejalonibu_7f5cfd/how-i-built-a-real-time-ddos-detection-engine-from-scratch-54f4)
+- [How I Built a Real-Time DDoS Detection Engine from Scratch](https://dev.to/lucadavid075/how-i-built-a-real-time-ddos-detection-engine-from-scratch-3p6f)
+- [How I Built a Real Time DDoS Detection Engine from Scratch](https://dev.to/khavelemarline/how-i-built-a-real-time-ddos-detection-engine-from-scratch-1bei)
+- [DuckDB 1.5.2, PostgreSQL Linux 7.0 Regression, &amp; SQLite Formal Verification](https://dev.to/soytuber/duckdb-152-postgresql-linux-70-regression-sqlite-formal-verification-59mn)
+- [FlashQLA Kernels Accelerate AI; NVIDIA &amp; AMD Unveil New GPUs](https://dev.to/soytuber/flashqla-kernels-accelerate-ai-nvidia-amd-unveil-new-gpus-46o6)
 <!-- BLOG-POST-LIST:END -->
 
