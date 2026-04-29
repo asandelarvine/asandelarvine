@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Running AI agents in healthcare without sending PHI to OpenAI or Anthropic](https://dev.to/artem_a/running-ai-agents-in-healthcare-without-sending-phi-to-openai-or-anthropic-2807)
-- [I&#39;ve Shipped 7 Mac Apps as a Solo Developer. Here&#39;s What Actually Moves the Needle.](https://dev.to/hiyoyok/ive-shipped-7-mac-apps-as-a-solo-developer-heres-what-actually-moves-the-needle-4obb)
-- [LocalSend: lo instalé en todo mi stack y reemplazó AirDrop, pero hay un tradeoff que nadie menciona](https://dev.to/jtorchia/localsend-lo-instale-en-todo-mi-stack-y-reemplazo-airdrop-pero-hay-un-tradeoff-que-nadie-menciona-479e)
-- [I built a memory API that AI agents can pay for](https://dev.to/pat9000/i-built-a-memory-api-that-ai-agents-can-pay-for-3p0i)
+- [We Cut Our Redis Bill 75% With One Architectural Change](https://dev.to/h33ai/we-cut-our-redis-bill-75-with-one-architectural-change-28e8)
+- [Claude built me a high-level coding system in 4 European languages](https://dev.to/gtanyware/claude-built-me-a-high-level-coding-system-in-4-european-languages-461a)
+- [How to Compute Zero Trust Effectiveness: Four Metrics That Survive a Breach](https://dev.to/sven_schuchardt_0aa51663a/how-to-compute-zero-trust-effectiveness-four-metrics-that-survive-a-breach-1ghg)
+- [Vibe Code Your First Midnight dApp with AI Agent Skills](https://dev.to/midnight-aliit/vibe-code-your-first-midnight-dapp-with-ai-agent-skills-2ocn)
 <!-- BLOG-POST-LIST:END -->
 
