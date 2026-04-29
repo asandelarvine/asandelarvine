@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We Cut Our Redis Bill 75% With One Architectural Change](https://dev.to/h33ai/we-cut-our-redis-bill-75-with-one-architectural-change-28e8)
-- [Claude built me a high-level coding system in 4 European languages](https://dev.to/gtanyware/claude-built-me-a-high-level-coding-system-in-4-european-languages-461a)
-- [How to Compute Zero Trust Effectiveness: Four Metrics That Survive a Breach](https://dev.to/sven_schuchardt_0aa51663a/how-to-compute-zero-trust-effectiveness-four-metrics-that-survive-a-breach-1ghg)
-- [Vibe Code Your First Midnight dApp with AI Agent Skills](https://dev.to/midnight-aliit/vibe-code-your-first-midnight-dapp-with-ai-agent-skills-2ocn)
+- [Database Migrations &amp; Seeders: Stop Writing Manual SQL Scripts](https://dev.to/umadhar/database-migrations-seeders-stop-writing-manual-sql-scripts-1g8b)
+- [macOS Clipboard History — What Gets Logged, What Leaks, and How to Audit It](https://dev.to/alokt/macos-clipboard-history-what-gets-logged-what-leaks-and-how-to-audit-it-4knj)
+- [What is an MCP server? The developer&#39;s plain-English guide to Model Context Protocol](https://dev.to/ajbuilds/what-is-an-mcp-server-the-developers-plain-english-guide-to-model-context-protocol-2cc5)
+- [How to Give Your AI Agent Niche Research Superpowers with x402 Micropayments](https://dev.to/simul813/how-to-give-your-ai-agent-niche-research-superpowers-with-x402-micropayments-mnh)
 <!-- BLOG-POST-LIST:END -->
 
