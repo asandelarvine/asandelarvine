@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Consistency in DSA: A Science-Backed Guide to Mastery](https://dev.to/shifa_2/building-consistency-in-dsa-a-science-backed-guide-to-mastery-24fm)
-- [ASP.NET Middleware: Complete Guide from Basics to Advanced Patterns, Tips, and Performance](https://dev.to/vikrant_bagal_afae3e25ca7/aspnet-middleware-complete-guide-from-basics-to-advanced-patterns-tips-and-performance-4f7e)
-- [RAG - Vector DB](https://dev.to/ramya_perumal_e93721ef2fa/rag-vector-db-ah9)
-- [The Kubernetes Operator Pattern Saved Us More Than Backstage Ever Could](https://dev.to/dspv/the-kubernetes-operator-pattern-saved-us-more-than-backstage-ever-could-171k)
+- [How to Give AI Coding Agents Better Codebase Context](https://dev.to/corestory/how-to-give-ai-coding-agents-better-codebase-context-2ac3)
+- [Biggest Technical Challenges in B2B SaaS](https://dev.to/developerpartners/biggest-technical-challenges-in-b2b-saas-5bn3)
+- [Scrapy AutoThrottle: How to tune crawl speed without getting blocked](https://dev.to/extractdata/scrapy-autothrottle-how-to-tune-crawl-speed-without-getting-blocked-5bgd)
+- [MongoDB Vector Search in Laravel: Finding the Unqueryable](https://dev.to/mongodb/mongodb-vector-search-in-laravel-finding-the-unqueryable-1m3i)
 <!-- BLOG-POST-LIST:END -->
 
