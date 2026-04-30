@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building on Midnight with Windows — A Real Developer&#39;s WSL2 Setup Guide](https://dev.to/midnight-aliit/building-on-midnight-with-windows-a-real-developers-wsl2-setup-guide-om6)
-- [Move Over Python: PHP Is the Sleeping Giant of AI Agents](https://dev.to/zadro/move-over-python-php-is-the-sleeping-giant-of-ai-agents-577b)
-- [20,000 Taxi Rides in Cuba: What I Learned Building on Organic Maps](https://dev.to/leonardo_tq_13f83601e8513/20000-taxi-rides-in-cuba-what-i-learned-building-on-organic-maps-3k9b)
-- [Finally: Memory Safety for C Without Rewriting Everything](https://dev.to/attilatorda/finally-memory-safety-for-c-without-rewriting-everything-3ldm)
+- [I Looked at Developer Blogs and Platforms That Accept Guest Posts — Here’s Where I’d Pitch to Reach Software Developers](https://dev.to/rb_36f3afb77d0780/i-looked-at-developer-blogs-and-platforms-that-accept-guest-posts-heres-where-id-pitch-to-reach-1bkc)
+- [I built a Chrome Extension to validate sitemap.xml in one click — here&#39;s why and how](https://dev.to/rajiv_khanduja_418b843138/i-built-a-chrome-extension-to-validate-sitemapxml-in-one-click-heres-why-and-how-3pdp)
+- [The AI Hype vs. Architecture Reality: Why Big Tech is Locking Down Models in 2026](https://dev.to/muntazir_mahdi/the-ai-hype-vs-architecture-reality-why-big-tech-is-locking-down-models-in-2026-h7g)
+- [Google Cloud Next &#39;26 Made One Thing Clear: Agents Need Infrastructure, Not Hype](https://dev.to/manjunathpatil/google-cloud-next-26-made-one-thing-clear-agents-need-infrastructure-not-hype-3i7f)
 <!-- BLOG-POST-LIST:END -->
 
