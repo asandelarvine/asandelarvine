@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 From Zero to ROKS: Getting Started with OpenShift on IBM Cloud](https://dev.to/victoriasz/from-zero-to-roks-getting-started-with-openshift-on-ibm-cloud-nl9)
-- [Mapbox GL JS adds support for PMTiles vector and raster sources](https://dev.to/mapbox/mapbox-gl-js-adds-support-for-pmtiles-vector-and-raster-sources-141b)
-- [5 Best Free Web Scraping Tools in 2026](https://dev.to/shittu_olumide_/5-best-free-web-scraping-tools-in-2026-4097)
-- [Part 3: Wiring It Into AWS DevOps Agent — AgentSpace, register-service, and the IAM Trust Policy That Ate My Afternoon](https://dev.to/rajmurugan/part-3-wiring-it-into-aws-devops-agent-agentspace-register-service-and-the-iam-trust-policy-3e8m)
+- [Building Consistency in DSA: A Science-Backed Guide to Mastery](https://dev.to/shifa_2/building-consistency-in-dsa-a-science-backed-guide-to-mastery-24fm)
+- [ASP.NET Middleware: Complete Guide from Basics to Advanced Patterns, Tips, and Performance](https://dev.to/vikrant_bagal_afae3e25ca7/aspnet-middleware-complete-guide-from-basics-to-advanced-patterns-tips-and-performance-4f7e)
+- [RAG - Vector DB](https://dev.to/ramya_perumal_e93721ef2fa/rag-vector-db-ah9)
+- [The Kubernetes Operator Pattern Saved Us More Than Backstage Ever Could](https://dev.to/dspv/the-kubernetes-operator-pattern-saved-us-more-than-backstage-ever-could-171k)
 <!-- BLOG-POST-LIST:END -->
 
