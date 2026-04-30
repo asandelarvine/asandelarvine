@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cache Stampede Prevention](https://dev.to/godofgeeks/cache-stampede-prevention-2mj6)
-- [🤖 Multica Deep Dive — How to Build a Managed-Agents Platform 🌐](https://dev.to/truongpx396/multica-deep-dive-how-to-build-a-managed-agents-platform-54l2)
-- [Three Mastodon issues because of Cloudflare Bot protection](https://dev.to/nfrankel/three-mastodon-issues-because-of-cloudflare-bot-protection-1el3)
-- [Using AI as backend training wheels](https://dev.to/samareshdas/using-ai-as-backend-training-wheels-3ef2)
+- [Concurrency in Go: Goroutines and Channels Explained with Real Examples](https://dev.to/oketch/concurrency-in-go-goroutines-and-channels-explained-with-real-examples-19j0)
+- [KVQuant: Run 70B LLMs on 8GB RAM with Real-Time KV Cache Compression](https://dev.to/aman_sachan_126d19c4a2773/kvquant-run-70b-llms-on-8gb-ram-with-real-time-kv-cache-compression-24p0)
+- [Tutorial: How to Set Up Cross-Region K8s 1.32 with Submariner 0.19 and Cloudflare Tunnel](https://dev.to/johalputt/tutorial-how-to-set-up-cross-region-k8s-132-with-submariner-019-and-cloudflare-tunnel-408)
+- [Performance Comparison: Flyway 10.0 vs. Liquibase 4.28 vs. Prisma Migrate 6.0 for Database Migrations](https://dev.to/johalputt/performance-comparison-flyway-100-vs-liquibase-428-vs-prisma-migrate-60-for-database-1f1k)
 <!-- BLOG-POST-LIST:END -->
 
