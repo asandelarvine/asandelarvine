@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Performance Improvements Don&#39;t Last. Here&#39;s Why](https://dev.to/nosyos/performance-improvements-dont-last-heres-why-4oc)
-- [Your 40-Page Style Guide Isn&#39;t a Standard. It&#39;s a Wish List.](https://dev.to/jonoherrington/your-40-page-style-guide-isnt-a-standard-its-a-wish-list-4jeh)
-- [Comment j&#39;ai divisé par 4 la latence de mes agents Claude &lpar;sans refactoriser tout le code&rpar;](https://dev.to/chiefwebofficer/comment-jai-divise-par-4-la-latence-de-mes-agents-claude-sans-refactoriser-tout-le-code-4p0j)
-- [Prompt Injection Attacks on AI Agents: What Business Owners Need to Know](https://dev.to/pat9000/prompt-injection-attacks-on-ai-agents-what-business-owners-need-to-know-5c80)
+- [🚀 From Zero to ROKS: Getting Started with OpenShift on IBM Cloud](https://dev.to/victoriasz/from-zero-to-roks-getting-started-with-openshift-on-ibm-cloud-nl9)
+- [Mapbox GL JS adds support for PMTiles vector and raster sources](https://dev.to/mapbox/mapbox-gl-js-adds-support-for-pmtiles-vector-and-raster-sources-141b)
+- [5 Best Free Web Scraping Tools in 2026](https://dev.to/shittu_olumide_/5-best-free-web-scraping-tools-in-2026-4097)
+- [Part 3: Wiring It Into AWS DevOps Agent — AgentSpace, register-service, and the IAM Trust Policy That Ate My Afternoon](https://dev.to/rajmurugan/part-3-wiring-it-into-aws-devops-agent-agentspace-register-service-and-the-iam-trust-policy-3e8m)
 <!-- BLOG-POST-LIST:END -->
 
