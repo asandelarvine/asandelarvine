@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Real Risk of AI Is Not Job Loss](https://dev.to/jaideepparashar/the-real-risk-of-ai-is-not-job-loss-5f7l)
-- [Week 1: Hassles &amp; Tackling Problems](https://dev.to/notprs/week-1-hassles-tackling-problems-2dkg)
-- [🏗️ Building High-Quality AI Agents 🤖 — A Comprehensive, Actionable Field Guide 📘](https://dev.to/truongpx396/building-high-quality-ai-agents-a-comprehensive-actionable-field-guide-5m1)
-- [Agentic V&amp;V for Mission-Critical Medical Systems](https://dev.to/rashmishivakumar/agentic-vv-for-mission-critical-medical-systems-1kdk)
+- [Cache Stampede Prevention](https://dev.to/godofgeeks/cache-stampede-prevention-2mj6)
+- [🤖 Multica Deep Dive — How to Build a Managed-Agents Platform 🌐](https://dev.to/truongpx396/multica-deep-dive-how-to-build-a-managed-agents-platform-54l2)
+- [Three Mastodon issues because of Cloudflare Bot protection](https://dev.to/nfrankel/three-mastodon-issues-because-of-cloudflare-bot-protection-1el3)
+- [Using AI as backend training wheels](https://dev.to/samareshdas/using-ai-as-backend-training-wheels-3ef2)
 <!-- BLOG-POST-LIST:END -->
 
