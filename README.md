@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Looked at Developer Blogs and Platforms That Accept Guest Posts — Here’s Where I’d Pitch to Reach Software Developers](https://dev.to/rb_36f3afb77d0780/i-looked-at-developer-blogs-and-platforms-that-accept-guest-posts-heres-where-id-pitch-to-reach-1bkc)
-- [I built a Chrome Extension to validate sitemap.xml in one click — here&#39;s why and how](https://dev.to/rajiv_khanduja_418b843138/i-built-a-chrome-extension-to-validate-sitemapxml-in-one-click-heres-why-and-how-3pdp)
-- [The AI Hype vs. Architecture Reality: Why Big Tech is Locking Down Models in 2026](https://dev.to/muntazir_mahdi/the-ai-hype-vs-architecture-reality-why-big-tech-is-locking-down-models-in-2026-h7g)
-- [Google Cloud Next &#39;26 Made One Thing Clear: Agents Need Infrastructure, Not Hype](https://dev.to/manjunathpatil/google-cloud-next-26-made-one-thing-clear-agents-need-infrastructure-not-hype-3i7f)
+- [The Real Risk of AI Is Not Job Loss](https://dev.to/jaideepparashar/the-real-risk-of-ai-is-not-job-loss-5f7l)
+- [Week 1: Hassles &amp; Tackling Problems](https://dev.to/notprs/week-1-hassles-tackling-problems-2dkg)
+- [🏗️ Building High-Quality AI Agents 🤖 — A Comprehensive, Actionable Field Guide 📘](https://dev.to/truongpx396/building-high-quality-ai-agents-a-comprehensive-actionable-field-guide-5m1)
+- [Agentic V&amp;V for Mission-Critical Medical Systems](https://dev.to/rashmishivakumar/agentic-vv-for-mission-critical-medical-systems-1kdk)
 <!-- BLOG-POST-LIST:END -->
 
