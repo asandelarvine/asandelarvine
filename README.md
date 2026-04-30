@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Concurrency in Go: Goroutines and Channels Explained with Real Examples](https://dev.to/oketch/concurrency-in-go-goroutines-and-channels-explained-with-real-examples-19j0)
-- [KVQuant: Run 70B LLMs on 8GB RAM with Real-Time KV Cache Compression](https://dev.to/aman_sachan_126d19c4a2773/kvquant-run-70b-llms-on-8gb-ram-with-real-time-kv-cache-compression-24p0)
-- [Tutorial: How to Set Up Cross-Region K8s 1.32 with Submariner 0.19 and Cloudflare Tunnel](https://dev.to/johalputt/tutorial-how-to-set-up-cross-region-k8s-132-with-submariner-019-and-cloudflare-tunnel-408)
-- [Performance Comparison: Flyway 10.0 vs. Liquibase 4.28 vs. Prisma Migrate 6.0 for Database Migrations](https://dev.to/johalputt/performance-comparison-flyway-100-vs-liquibase-428-vs-prisma-migrate-60-for-database-1f1k)
+- [Performance Improvements Don&#39;t Last. Here&#39;s Why](https://dev.to/nosyos/performance-improvements-dont-last-heres-why-4oc)
+- [Your 40-Page Style Guide Isn&#39;t a Standard. It&#39;s a Wish List.](https://dev.to/jonoherrington/your-40-page-style-guide-isnt-a-standard-its-a-wish-list-4jeh)
+- [Comment j&#39;ai divisé par 4 la latence de mes agents Claude &lpar;sans refactoriser tout le code&rpar;](https://dev.to/chiefwebofficer/comment-jai-divise-par-4-la-latence-de-mes-agents-claude-sans-refactoriser-tout-le-code-4p0j)
+- [Prompt Injection Attacks on AI Agents: What Business Owners Need to Know](https://dev.to/pat9000/prompt-injection-attacks-on-ai-agents-what-business-owners-need-to-know-5c80)
 <!-- BLOG-POST-LIST:END -->
 
