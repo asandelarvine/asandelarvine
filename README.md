@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Network Part 2 - The Cost of a TCP Handshake](https://dev.to/lukyday007/prologue-what-is-large-scale-processing-1jd9)
-- [Custom Likelihoods in PyMC: One-Inflated Beta Regression for Loan Repayment](https://dev.to/berkan_sesen/custom-likelihoods-in-pymc-one-inflated-beta-regression-for-loan-repayment-2k5k)
-- [Announcing the NVIDIA Nemotron 3 Super Build Contest](https://dev.to/ajeetraina/announcing-the-nvidia-nemotron-3-super-build-contest-2d22)
-- [Best Pytest Courses in 2026: A Transparent Review From a Course Creator](https://dev.to/aistranin/best-pytest-courses-in-2026-a-transparent-review-from-a-course-creator-1063)
+- [NemoClaw practical guide for secure OpenClaw operations in 2026](https://dev.to/rosgluk/nemoclaw-practical-guide-for-secure-openclaw-operations-in-2026-1ck0)
+- [Rate Limiting and API Key Management for Video Data APIs](https://dev.to/ahmet_gedik778845/rate-limiting-and-api-key-management-for-video-data-apis-gj0)
+- [AI Will Not Save Cybersecurity](https://dev.to/rawveg/ai-will-not-save-cybersecurity-3e81)
+- [Mobile-First Engineering: Why I Launched a Subdomain for My Personal Portfolio](https://dev.to/vermashaurya/mobile-first-engineering-why-i-launched-a-subdomain-for-my-personal-portfolio-1c2e)
 <!-- BLOG-POST-LIST:END -->
 
