@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Layer of AI: Orchestration, Workflows, and System Design](https://dev.to/velspark_tech/the-hidden-layer-of-ai-orchestration-workflows-and-system-design-26k1)
-- [HCC Risk Adjustment Data Model: Building Accurate Risk Score Pipelines in SQL](https://dev.to/season_mudbhary_7856e4083/hcc-risk-adjustment-data-model-building-accurate-risk-score-pipelines-in-sql-57dj)
-- [LLM on EKS: Serving with vLLM](https://dev.to/aws-builders/llm-on-eks-serving-with-vllm-2khg)
-- [ccgate: Delegate Claude/Codex permission prompts to an LLM &lpar;~97% automated for me&rpar;](https://dev.to/tak848/ccgate-delegate-claude-code-codex-cli-permission-prompts-to-an-llm-274c)
+- [notkyc.life - no-KYC swap aggregator .stay anonymous. stay free.](https://dev.to/notkyc_life/notkyclife-no-kyc-swap-aggregatorstay-anonymous-stay-free-1b21)
+- [Best Practices To Ensure Fintech Compliance in Africa](https://dev.to/flutterwaveeng/best-practices-to-ensure-fintech-compliance-in-africa-48a3)
+- [My LLM assistant&#39;s new buzzword is starting responses with &quot;be completely candid&quot;. Very grating.](https://dev.to/ben/my-llm-assistants-new-buzzword-is-starting-responses-with-be-completely-candid-very-grating-11df)
+- [How vastlint&#39;s Validation Rules Were Extracted from the VAST PDF Specs and XSD Schemas](https://dev.to/aleksuix/how-vastlints-validation-rules-were-extracted-from-the-vast-pdf-specs-and-xsd-schemas-5b1)
 <!-- BLOG-POST-LIST:END -->
 
