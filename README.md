@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Many Log Lines Should You Send to Gemini? The Context Window Problem.](https://dev.to/hiyoyok/how-many-log-lines-should-you-send-to-gemini-the-context-window-problem-ngd)
-- [Building a Local AI Workstation: Orchestrating Claude MCP, Cursor, and GitHub for &quot;Vibe Coding&quot;](https://dev.to/utkuhanakar/building-a-local-ai-workstation-orchestrating-claude-mcp-cursor-and-github-for-vibe-coding-10i8)
-- [Secure File Uploads: Seven Checks and Why Each One Exists](https://dev.to/itxshakil/secure-file-uploads-seven-checks-and-why-each-one-exists-222n)
-- [14 years at one company broke a senior dev&#39;s career. Loyalty is a scam.](https://dev.to/adioof/14-years-at-one-company-broke-a-senior-devs-career-loyalty-is-a-scam-4l2d)
+- [The Hidden Layer of AI: Orchestration, Workflows, and System Design](https://dev.to/velspark_tech/the-hidden-layer-of-ai-orchestration-workflows-and-system-design-26k1)
+- [HCC Risk Adjustment Data Model: Building Accurate Risk Score Pipelines in SQL](https://dev.to/season_mudbhary_7856e4083/hcc-risk-adjustment-data-model-building-accurate-risk-score-pipelines-in-sql-57dj)
+- [LLM on EKS: Serving with vLLM](https://dev.to/aws-builders/llm-on-eks-serving-with-vllm-2khg)
+- [ccgate: Delegate Claude/Codex permission prompts to an LLM &lpar;~97% automated for me&rpar;](https://dev.to/tak848/ccgate-delegate-claude-code-codex-cli-permission-prompts-to-an-llm-274c)
 <!-- BLOG-POST-LIST:END -->
 
