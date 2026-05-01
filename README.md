@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React Native Performance Optimization After Migrating to the New Architecture](https://dev.to/jacobnoah9876/react-native-performance-optimization-after-migrating-to-the-new-architecture-l38)
-- [Building a self-hosted deep-research agent with Claude Code](https://dev.to/laoujin/building-a-self-hosted-deep-research-agent-with-claude-code-jha)
-- [Building a Real-Time AI Chat UI with SwiftUI: The Ultimate Guide to Streaming Tokens and @Observable](https://dev.to/programmingcentral/building-a-real-time-ai-chat-ui-with-swiftui-the-ultimate-guide-to-streaming-tokens-and-observable-244)
-- [Transactional Power Vs Analytical Precision: The Essential Guide to OLTP and OLAP](https://dev.to/lawrence_murithi/transactional-power-vs-analytical-precision-the-essential-guide-to-oltp-and-olap-2nfe)
+- [Why I&#39;m Learning ROS 2 as a Database Person](https://dev.to/mattstratton/why-im-learning-ros-2-as-a-database-person-3cce)
+- [Security news weekly round-up - 1st May 2026](https://dev.to/ziizium/security-news-weekly-round-up-1st-may-2026-559c)
+- [OverTheWire: Bandit Level 2](https://dev.to/amandaigwe/overthewire-bandit-level-2-1373)
+- [Agent Skills Are Just Header Files &lpar;And Virtual Memory, And Unix Pipes&rpar;](https://dev.to/botticelli/agent-skills-are-just-header-files-and-virtual-memory-and-unix-pipes-4hcp)
 <!-- BLOG-POST-LIST:END -->
 
