@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Integrated Claude Code into Our Development Workflow](https://dev.to/johalputt/how-we-integrated-claude-code-into-our-development-workflow-2046)
-- [How to Set Up a Self-Hosted Forum When You&#39;re Tired of Renting Your Community](https://dev.to/alanwest/how-to-set-up-a-self-hosted-forum-when-youre-tired-of-renting-your-community-ge0)
-- [TCS HACKATHON WINNER 2026 🏆](https://dev.to/ansh_gupta_a2eee099e43d42/tcs-hackathon-winner-2026-9ek)
-- [React Rn-Rendering Wrokflow](https://dev.to/ankitsinghmyself/react-rn-rendering-wrokflow-1e58)
+- [React Native Performance Optimization After Migrating to the New Architecture](https://dev.to/jacobnoah9876/react-native-performance-optimization-after-migrating-to-the-new-architecture-l38)
+- [Building a self-hosted deep-research agent with Claude Code](https://dev.to/laoujin/building-a-self-hosted-deep-research-agent-with-claude-code-jha)
+- [Building a Real-Time AI Chat UI with SwiftUI: The Ultimate Guide to Streaming Tokens and @Observable](https://dev.to/programmingcentral/building-a-real-time-ai-chat-ui-with-swiftui-the-ultimate-guide-to-streaming-tokens-and-observable-244)
+- [Transactional Power Vs Analytical Precision: The Essential Guide to OLTP and OLAP](https://dev.to/lawrence_murithi/transactional-power-vs-analytical-precision-the-essential-guide-to-oltp-and-olap-2nfe)
 <!-- BLOG-POST-LIST:END -->
 
