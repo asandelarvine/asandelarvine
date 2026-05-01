@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ECS vs EKS: The Decision I Regret &lpar;And What I’d Do Differently Now&rpar;](https://dev.to/harsh0369/ecs-vs-eks-the-decision-i-regret-and-what-id-do-differently-now-1046)
-- [# The Orchestrator in Multi-Agent Systems: The Brain # Nobody Talks About But Every System Depends On](https://dev.to/nikhil_ramank_152ca48266/-the-orchestrator-in-multi-agent-systems-the-brain-nobody-talks-about-but-every-system-depends-n49)
-- [Building modern file integrations with FTP, APIs and webhooks](https://dev.to/viggoblum/building-modern-file-integrations-with-ftp-apis-and-webhooks-5ap6)
-- [Understanding Text Similarity with Embeddings and Cosine Similarity](https://dev.to/venu171/understanding-text-similarity-with-embeddings-and-cosine-similarity-5aon)
+- [Network Part 2 - The Cost of a TCP Handshake](https://dev.to/lukyday007/prologue-what-is-large-scale-processing-1jd9)
+- [Custom Likelihoods in PyMC: One-Inflated Beta Regression for Loan Repayment](https://dev.to/berkan_sesen/custom-likelihoods-in-pymc-one-inflated-beta-regression-for-loan-repayment-2k5k)
+- [Announcing the NVIDIA Nemotron 3 Super Build Contest](https://dev.to/ajeetraina/announcing-the-nvidia-nemotron-3-super-build-contest-2d22)
+- [Best Pytest Courses in 2026: A Transparent Review From a Course Creator](https://dev.to/aistranin/best-pytest-courses-in-2026-a-transparent-review-from-a-course-creator-1063)
 <!-- BLOG-POST-LIST:END -->
 
