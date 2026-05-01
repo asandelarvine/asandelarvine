@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Splitting Correctness from Throughput: A Hybrid Approach to XLSX Streaming Writes](https://dev.to/scndry/splitting-correctness-from-throughput-a-hybrid-approach-to-xlsx-streaming-writes-21n0)
-- [Beginner Guide for ChatGPT Users Who Want Memory Across All Their AI Tools](https://dev.to/matthias_studiomeyer/beginner-guide-for-chatgpt-users-who-want-memory-across-all-their-ai-tools-5170)
-- [How to Calculate Business Days Between Two Dates in JavaScript](https://dev.to/sabita_kumari_7b0e5b47ad5/how-to-calculate-business-days-between-two-dates-in-javascript-16h6)
-- [You’re Not Writing Code Anymore — You’re Designing Agents](https://dev.to/mmmattos/youre-not-writing-code-anymore-youre-designing-agents-2m08)
+- [When Machines Debug Themselves: From Text Logs to Binary Intelligence](https://dev.to/devngmo/when-machines-debug-themselves-from-text-logs-to-binary-intelligence-51f4)
+- [[PT-BR] pluck vs. select](https://dev.to/guilherme44/pt-br-pluck-vs-select-271f)
+- [Organizing flash messages in Phoenix](https://dev.to/guilherme44/organizing-flash-messages-in-phoenix-571p)
+- [Installing Elixir with ASDF](https://dev.to/guilherme44/installing-elixir-with-asdf-2bi1)
 <!-- BLOG-POST-LIST:END -->
 
