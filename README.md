@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NemoClaw practical guide for secure OpenClaw operations in 2026](https://dev.to/rosgluk/nemoclaw-practical-guide-for-secure-openclaw-operations-in-2026-1ck0)
-- [Rate Limiting and API Key Management for Video Data APIs](https://dev.to/ahmet_gedik778845/rate-limiting-and-api-key-management-for-video-data-apis-gj0)
-- [AI Will Not Save Cybersecurity](https://dev.to/rawveg/ai-will-not-save-cybersecurity-3e81)
-- [Mobile-First Engineering: Why I Launched a Subdomain for My Personal Portfolio](https://dev.to/vermashaurya/mobile-first-engineering-why-i-launched-a-subdomain-for-my-personal-portfolio-1c2e)
+- [How Many Log Lines Should You Send to Gemini? The Context Window Problem.](https://dev.to/hiyoyok/how-many-log-lines-should-you-send-to-gemini-the-context-window-problem-ngd)
+- [Building a Local AI Workstation: Orchestrating Claude MCP, Cursor, and GitHub for &quot;Vibe Coding&quot;](https://dev.to/utkuhanakar/building-a-local-ai-workstation-orchestrating-claude-mcp-cursor-and-github-for-vibe-coding-10i8)
+- [Secure File Uploads: Seven Checks and Why Each One Exists](https://dev.to/itxshakil/secure-file-uploads-seven-checks-and-why-each-one-exists-222n)
+- [14 years at one company broke a senior dev&#39;s career. Loyalty is a scam.](https://dev.to/adioof/14-years-at-one-company-broke-a-senior-devs-career-loyalty-is-a-scam-4l2d)
 <!-- BLOG-POST-LIST:END -->
 
