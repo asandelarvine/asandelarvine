@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I&#39;m Learning ROS 2 as a Database Person](https://dev.to/mattstratton/why-im-learning-ros-2-as-a-database-person-3cce)
-- [Security news weekly round-up - 1st May 2026](https://dev.to/ziizium/security-news-weekly-round-up-1st-may-2026-559c)
-- [OverTheWire: Bandit Level 2](https://dev.to/amandaigwe/overthewire-bandit-level-2-1373)
-- [Agent Skills Are Just Header Files &lpar;And Virtual Memory, And Unix Pipes&rpar;](https://dev.to/botticelli/agent-skills-are-just-header-files-and-virtual-memory-and-unix-pipes-4hcp)
+- [An Agent Run Is Not Done When the Model Stops Talking](https://dev.to/aliasocracy/an-agent-run-is-not-done-when-the-model-stops-talking-4744)
+- [The AI Economy Is About to Get Real](https://dev.to/douch_hicham/the-ai-economy-is-about-to-get-real-2g2m)
+- [The Story of How I Built a VPN protocol: Part 1](https://dev.to/smileuwu/the-story-of-how-i-built-a-vpn-protocol-part-1-35d0)
+- [Inside Go 1.24&#39;s New HTTP/3 Support: How It Cuts Latency for High-Traffic APIs](https://dev.to/johalputt/inside-go-124s-new-http3-support-how-it-cuts-latency-for-high-traffic-apis-11j4)
 <!-- BLOG-POST-LIST:END -->
 
