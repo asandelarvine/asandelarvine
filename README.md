@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [notkyc.life - no-KYC swap aggregator .stay anonymous. stay free.](https://dev.to/notkyc_life/notkyclife-no-kyc-swap-aggregatorstay-anonymous-stay-free-1b21)
-- [Best Practices To Ensure Fintech Compliance in Africa](https://dev.to/flutterwaveeng/best-practices-to-ensure-fintech-compliance-in-africa-48a3)
-- [My LLM assistant&#39;s new buzzword is starting responses with &quot;be completely candid&quot;. Very grating.](https://dev.to/ben/my-llm-assistants-new-buzzword-is-starting-responses-with-be-completely-candid-very-grating-11df)
-- [How vastlint&#39;s Validation Rules Were Extracted from the VAST PDF Specs and XSD Schemas](https://dev.to/aleksuix/how-vastlints-validation-rules-were-extracted-from-the-vast-pdf-specs-and-xsd-schemas-5b1)
+- [How We Integrated Claude Code into Our Development Workflow](https://dev.to/johalputt/how-we-integrated-claude-code-into-our-development-workflow-2046)
+- [How to Set Up a Self-Hosted Forum When You&#39;re Tired of Renting Your Community](https://dev.to/alanwest/how-to-set-up-a-self-hosted-forum-when-youre-tired-of-renting-your-community-ge0)
+- [TCS HACKATHON WINNER 2026 🏆](https://dev.to/ansh_gupta_a2eee099e43d42/tcs-hackathon-winner-2026-9ek)
+- [React Rn-Rendering Wrokflow](https://dev.to/ankitsinghmyself/react-rn-rendering-wrokflow-1e58)
 <!-- BLOG-POST-LIST:END -->
 
