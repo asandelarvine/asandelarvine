@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Machines Debug Themselves: From Text Logs to Binary Intelligence](https://dev.to/devngmo/when-machines-debug-themselves-from-text-logs-to-binary-intelligence-51f4)
-- [[PT-BR] pluck vs. select](https://dev.to/guilherme44/pt-br-pluck-vs-select-271f)
-- [Organizing flash messages in Phoenix](https://dev.to/guilherme44/organizing-flash-messages-in-phoenix-571p)
-- [Installing Elixir with ASDF](https://dev.to/guilherme44/installing-elixir-with-asdf-2bi1)
+- [ECS vs EKS: The Decision I Regret &lpar;And What I’d Do Differently Now&rpar;](https://dev.to/harsh0369/ecs-vs-eks-the-decision-i-regret-and-what-id-do-differently-now-1046)
+- [# The Orchestrator in Multi-Agent Systems: The Brain # Nobody Talks About But Every System Depends On](https://dev.to/nikhil_ramank_152ca48266/-the-orchestrator-in-multi-agent-systems-the-brain-nobody-talks-about-but-every-system-depends-n49)
+- [Building modern file integrations with FTP, APIs and webhooks](https://dev.to/viggoblum/building-modern-file-integrations-with-ftp-apis-and-webhooks-5ap6)
+- [Understanding Text Similarity with Embeddings and Cosine Similarity](https://dev.to/venu171/understanding-text-similarity-with-embeddings-and-cosine-similarity-5aon)
 <!-- BLOG-POST-LIST:END -->
 
