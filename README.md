@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An Agent Run Is Not Done When the Model Stops Talking](https://dev.to/aliasocracy/an-agent-run-is-not-done-when-the-model-stops-talking-4744)
-- [The AI Economy Is About to Get Real](https://dev.to/douch_hicham/the-ai-economy-is-about-to-get-real-2g2m)
-- [The Story of How I Built a VPN protocol: Part 1](https://dev.to/smileuwu/the-story-of-how-i-built-a-vpn-protocol-part-1-35d0)
-- [Inside Go 1.24&#39;s New HTTP/3 Support: How It Cuts Latency for High-Traffic APIs](https://dev.to/johalputt/inside-go-124s-new-http3-support-how-it-cuts-latency-for-high-traffic-apis-11j4)
+- [Engineering LLMOps: Building Robust CI/CD Pipelines for LLM Applications on Google Cloud](https://dev.to/jubinsoni/engineering-llmops-building-robust-cicd-pipelines-for-llm-applications-on-google-cloud-22hc)
+- [A/B Testing with Feature Flags: Ship Experiments Without the Complexity](https://dev.to/domenico_giordano_e441224/ab-testing-with-feature-flags-ship-experiments-without-the-complexity-2jkd)
+- [They Don&#39;t Get the File Until They Pay: How I Built a Payment-Gated Delivery System](https://dev.to/searumm_6ad53fdfe29f11658/they-dont-get-the-file-until-they-pay-how-i-built-a-payment-gated-delivery-system-28fd)
+- [Scheduled Feature Releases: Ship at 3am Without Staying Awake](https://dev.to/domenico_giordano_e441224/scheduled-feature-releases-ship-at-3am-without-staying-awake-136p)
 <!-- BLOG-POST-LIST:END -->
 
