@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built ng-prism — An Angular-Native Storybook Alternative With Zero Story Files](https://dev.to/dyingangel666/why-i-built-ng-prism-an-angular-native-storybook-alternative-with-zero-story-files-1ip7)
-- [MCP Tool Poisoning: The AI Supply Chain Attack Nobody Is Talking About](https://dev.to/aevrisai/mcp-tool-poisoning-the-ai-supply-chain-attack-nobody-is-talking-about-44fc)
-- [AI Agents Don&#39;t Fail at Code. They Fail at Learning.](https://dev.to/nagarjuna_yelisetty/ai-agents-dont-fail-at-code-they-fail-at-learning-51om)
-- [Beyond the Agent: The Google Ecosystem as a Unified Computational Intelligence Paradigm](https://dev.to/peacebinflow-labs/beyond-the-agent-the-google-ecosystem-as-a-unified-computational-intelligence-paradigm-jmk)
+- [April 2026 Roundup: Best New Free Tools — No Signup Required](https://dev.to/nologintools/april-2026-roundup-best-new-free-tools-no-signup-required-fk5)
+- [From the Amazon Forest to the Cloud. How I Explained AWS to My Family Using a House Analogy.](https://dev.to/sreeni5018/from-the-amazon-forest-to-the-cloud-how-i-explained-aws-to-my-family-using-a-house-analogy-1h2g)
+- [The Math Behind Local LLMs: How to Calculate Exact VRAM Requirements Before You Crash Your GPU](https://dev.to/bytecalculators/the-math-behind-local-llms-how-to-calculate-exact-vram-requirements-before-you-crash-your-gpu-12n5)
+- [Under the Hood: How Argo Rollouts 1.8 Implements Canary Deployments with Kubernetes 1.33 and Prometheus 3.1](https://dev.to/johalputt/under-the-hood-how-argo-rollouts-18-implements-canary-deployments-with-kubernetes-133-and-3ldm)
 <!-- BLOG-POST-LIST:END -->
 
