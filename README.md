@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CWS Listing SEO: What Actually Moved the Needle After Publishing 18 Extensions](https://dev.to/_350df62777eb55e1/cws-listing-seo-what-actually-moved-the-needle-after-publishing-18-extensions-37i1)
-- [How React Works &lpar;Part 9&rpar;? The Complete Picture: From a Keystroke to a Pixel](https://dev.to/samabaasi/how-react-works-part-9-the-complete-picture-from-a-keystroke-to-a-pixel-3k3n)
-- [FinOps Hands-On: AWS Costs + CO e in Every PR with Infracost &amp; Terraform](https://dev.to/jessicaapbueno/finops-hands-on-aws-costs-co-e-in-every-pr-with-infracost-terraform-4hjj)
-- [The Agentic AI Dilemma: Scaling Autonomy Without Sacrificing Security](https://dev.to/zulqurnan/the-agentic-ai-dilemma-scaling-autonomy-without-sacrificing-security-1knc)
+- [How to plan a private Telegram AI assistant with OpenClaw](https://dev.to/rbezumoff/how-to-plan-a-private-telegram-ai-assistant-with-openclaw-6k6)
+- [The Machine Zone: Ignition](https://dev.to/niclydon/the-machine-zone-ignition-4p2k)
+- [TOON File Format Anatomy: Schema-Once, Data-Many for LLM Pipelines 🎯📄](https://dev.to/databro/toon-file-format-anatomy-schema-once-data-many-for-llm-pipelines-5ba3)
+- [Lakera Guard in 30 Lines — Production-Ready AI Safety for Next.js Route Handlers &lpar;2026&rpar;](https://dev.to/brandon-vibestart/lakera-guard-in-30-lines-production-ready-ai-safety-for-nextjs-route-handlers-2026-4j70)
 <!-- BLOG-POST-LIST:END -->
 
