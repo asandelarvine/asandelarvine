@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Was About to Quit Ollama — Then I Deleted One File and Never Looked Back](https://dev.to/jamesjf7/i-was-about-to-quit-ollama-then-i-deleted-one-file-and-never-looked-back-27a9)
-- [You’re Not Bad at Programming. You Just Escape When It Gets Hard.](https://dev.to/yogya_goyal/youre-not-bad-at-programming-you-just-quit-too-early-3d8e)
-- [War Story: We Survived a 2-Hour Outage with Redis 8.0 Cluster and Sentinel](https://dev.to/johalputt/war-story-we-survived-a-2-hour-outage-with-redis-80-cluster-and-sentinel-3ek1)
-- [TestSprite: Reseña de Desarrollador Localizada &lpar;es-ES&rpar; — Fechas, Caracteres Especiales y Zonas Horarias](https://dev.to/mio_storksoft/testsprite-resena-de-desarrollador-localizada-es-es-fechas-caracteres-especiales-y-zonas-44o5)
+- [Why I Built ng-prism — An Angular-Native Storybook Alternative With Zero Story Files](https://dev.to/dyingangel666/why-i-built-ng-prism-an-angular-native-storybook-alternative-with-zero-story-files-1ip7)
+- [MCP Tool Poisoning: The AI Supply Chain Attack Nobody Is Talking About](https://dev.to/aevrisai/mcp-tool-poisoning-the-ai-supply-chain-attack-nobody-is-talking-about-44fc)
+- [AI Agents Don&#39;t Fail at Code. They Fail at Learning.](https://dev.to/nagarjuna_yelisetty/ai-agents-dont-fail-at-code-they-fail-at-learning-51om)
+- [Beyond the Agent: The Google Ecosystem as a Unified Computational Intelligence Paradigm](https://dev.to/peacebinflow-labs/beyond-the-agent-the-google-ecosystem-as-a-unified-computational-intelligence-paradigm-jmk)
 <!-- BLOG-POST-LIST:END -->
 
