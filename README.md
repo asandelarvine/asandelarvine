@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Wrestling with Environment Variables: How to Convert JSON to .env Files Instantly](https://dev.to/goodnewsj62/stop-wrestling-with-environment-variables-how-to-convert-json-to-env-files-instantly-4nen)
-- [Architecting for Modern Finance: Deconstructing the Financial Services Ecosystem - Part 1](https://dev.to/marunkumar1983/architecting-for-modern-finance-deconstructing-the-financial-services-ecosystem-part-1-6nh)
-- [Day 13: Building Health AI for India - When &#39;Big Data&#39; Misses the Point](https://dev.to/godavaii/day-13-building-health-ai-for-india-when-big-data-misses-the-point-p3b)
-- [30 seconds to a real diagnosis with mureo v0.8.0 demo scenarios](https://dev.to/yoshinaga/30-seconds-to-a-real-diagnosis-with-mureo-v080-demo-scenarios-4cfg)
+- [Building Your First AYW Bot: A Step-by-Step Guide](https://dev.to/leo_laish_25120db350ea449/building-your-first-ayw-bot-a-step-by-step-guide-50mo)
+- [Building Your First AI Chatbot with Guardrails](https://dev.to/leo_laish_25120db350ea449/building-your-first-ai-chatbot-with-guardrails-6ph)
+- [AYW + OpenAI Integration: A Developer&#39;s Guide](https://dev.to/leo_laish_25120db350ea449/ayw-openai-integration-a-developers-guide-4i35)
+- [From Prompt to Production: AYW Workflow Case Study](https://dev.to/leo_laish_25120db350ea449/from-prompt-to-production-ayw-workflow-case-study-3pp5)
 <!-- BLOG-POST-LIST:END -->
 
