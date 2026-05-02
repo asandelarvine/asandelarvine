@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Shipped in April Building Invoiso&lpar;v4.0.5&rpar;](https://dev.to/anoop_p_22f715057ac8b3901/what-i-shipped-in-april-building-invoiso-4gob)
-- [From Vibe Coding to Clarity: Auditing My Own Backend Project](https://dev.to/obianuju_dev/from-vibe-coding-to-clarity-auditing-my-own-backend-project-4pfi)
-- [The Performance Battle benchmark SolidJS deep dive React Server Components: A Practical Guide](https://dev.to/johalputt/the-performance-battle-benchmark-solidjs-deep-dive-react-server-components-a-practical-guide-1hlf)
-- [Canonical under DDoS: what my Railway logs and uptime say about my real exposure](https://dev.to/jtorchia/canonical-under-ddos-what-my-railway-logs-and-uptime-say-about-my-real-exposure-jm3)
+- [I Was About to Quit Ollama — Then I Deleted One File and Never Looked Back](https://dev.to/jamesjf7/i-was-about-to-quit-ollama-then-i-deleted-one-file-and-never-looked-back-27a9)
+- [You’re Not Bad at Programming. You Just Escape When It Gets Hard.](https://dev.to/yogya_goyal/youre-not-bad-at-programming-you-just-quit-too-early-3d8e)
+- [War Story: We Survived a 2-Hour Outage with Redis 8.0 Cluster and Sentinel](https://dev.to/johalputt/war-story-we-survived-a-2-hour-outage-with-redis-80-cluster-and-sentinel-3ek1)
+- [TestSprite: Reseña de Desarrollador Localizada &lpar;es-ES&rpar; — Fechas, Caracteres Especiales y Zonas Horarias](https://dev.to/mio_storksoft/testsprite-resena-de-desarrollador-localizada-es-es-fechas-caracteres-especiales-y-zonas-44o5)
 <!-- BLOG-POST-LIST:END -->
 
