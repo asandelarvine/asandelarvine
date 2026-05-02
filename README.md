@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a free shift scheduler that checks Taiwan labor law compliance](https://dev.to/lumandpei_647a9d81c6ce869/i-built-a-free-shift-scheduler-that-checks-taiwan-labor-law-compliance-976)
-- [AGENTS.md, SKILL.md, DESIGN.md: How AI Instructions Split into Three Layers](https://dev.to/aws-builders/agentsmd-skillmd-designmd-how-ai-instructions-split-into-three-layers-d0g)
-- [Stop Using Firebase for Everything: Why I Switched to PostgreSQL &lpar;Supabase&rpar;](https://dev.to/stackbyujjwal/stop-using-firebase-for-everything-why-i-switched-to-postgresql-supabase-53ci)
-- [I rewrote mp3gain in Rust — &#39;compatible&#39; turned out to be three different things](https://dev.to/jphfa/i-rewrote-mp3gain-in-rust-compatible-turned-out-to-be-three-different-things-4fbc)
+- [GitHub: Put Your Work Where Anyone Can See It](https://dev.to/yakhilesh/github-put-your-work-where-anyone-can-see-it-2fkf)
+- [[05] When to Pull the Trigger on FIRE — Monte Carlo Says You&#39;re Already Free](https://dev.to/soytuber/05-when-to-pull-the-trigger-on-fire-monte-carlo-says-youre-already-free-1h26)
+- [[04] The 90/10 Portfolio — Dividend Core + Growth Satellite with a Live Simulator](https://dev.to/soytuber/04-the-9010-portfolio-dividend-core-growth-satellite-with-a-live-simulator-4eak)
+- [[03] Designing a Personal Commitment Line — Two Loans, One Defense System](https://dev.to/soytuber/03-designing-a-personal-commitment-line-two-loans-one-defense-system-4hh8)
 <!-- BLOG-POST-LIST:END -->
 
