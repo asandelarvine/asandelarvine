@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [April 2026 Roundup: Best New Free Tools — No Signup Required](https://dev.to/nologintools/april-2026-roundup-best-new-free-tools-no-signup-required-fk5)
-- [From the Amazon Forest to the Cloud. How I Explained AWS to My Family Using a House Analogy.](https://dev.to/sreeni5018/from-the-amazon-forest-to-the-cloud-how-i-explained-aws-to-my-family-using-a-house-analogy-1h2g)
-- [The Math Behind Local LLMs: How to Calculate Exact VRAM Requirements Before You Crash Your GPU](https://dev.to/bytecalculators/the-math-behind-local-llms-how-to-calculate-exact-vram-requirements-before-you-crash-your-gpu-12n5)
-- [Under the Hood: How Argo Rollouts 1.8 Implements Canary Deployments with Kubernetes 1.33 and Prometheus 3.1](https://dev.to/johalputt/under-the-hood-how-argo-rollouts-18-implements-canary-deployments-with-kubernetes-133-and-3ldm)
+- [I built a free shift scheduler that checks Taiwan labor law compliance](https://dev.to/lumandpei_647a9d81c6ce869/i-built-a-free-shift-scheduler-that-checks-taiwan-labor-law-compliance-976)
+- [AGENTS.md, SKILL.md, DESIGN.md: How AI Instructions Split into Three Layers](https://dev.to/aws-builders/agentsmd-skillmd-designmd-how-ai-instructions-split-into-three-layers-d0g)
+- [Stop Using Firebase for Everything: Why I Switched to PostgreSQL &lpar;Supabase&rpar;](https://dev.to/stackbyujjwal/stop-using-firebase-for-everything-why-i-switched-to-postgresql-supabase-53ci)
+- [I rewrote mp3gain in Rust — &#39;compatible&#39; turned out to be three different things](https://dev.to/jphfa/i-rewrote-mp3gain-in-rust-compatible-turned-out-to-be-three-different-things-4fbc)
 <!-- BLOG-POST-LIST:END -->
 
