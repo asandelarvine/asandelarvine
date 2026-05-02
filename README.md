@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⚖️ Software Crimes Won’t Put You in Jail. They’ll Just Kill Your Career.](https://dev.to/manojsatna31/software-crimes-wont-put-you-in-jail-theyll-just-kill-your-career-hj6)
-- [SOoooo I made an extension](https://dev.to/itsflashframe/sooooo-i-made-an-extension-2hkn)
-- [Git: Version Control For People Who&#39;ve Lost Code Before](https://dev.to/yakhilesh/git-version-control-for-people-whove-lost-code-before-4ien)
-- [npm installs packages blindly — I built a CLI to fix that](https://dev.to/nithindj192/npm-installs-packages-blindly-i-built-a-cli-to-fix-that-1dd)
+- [Stop Wrestling with Environment Variables: How to Convert JSON to .env Files Instantly](https://dev.to/goodnewsj62/stop-wrestling-with-environment-variables-how-to-convert-json-to-env-files-instantly-4nen)
+- [Architecting for Modern Finance: Deconstructing the Financial Services Ecosystem - Part 1](https://dev.to/marunkumar1983/architecting-for-modern-finance-deconstructing-the-financial-services-ecosystem-part-1-6nh)
+- [Day 13: Building Health AI for India - When &#39;Big Data&#39; Misses the Point](https://dev.to/godavaii/day-13-building-health-ai-for-india-when-big-data-misses-the-point-p3b)
+- [30 seconds to a real diagnosis with mureo v0.8.0 demo scenarios](https://dev.to/yoshinaga/30-seconds-to-a-real-diagnosis-with-mureo-v080-demo-scenarios-4cfg)
 <!-- BLOG-POST-LIST:END -->
 
