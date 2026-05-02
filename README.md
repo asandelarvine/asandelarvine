@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Anonymous Membership Proofs on Midnight: Building Privacy-Preserving Allowlists](https://dev.to/bosschaos/anonymous-membership-proofs-on-midnight-building-privacy-preserving-allowlists-mge)
-- [Building an AI-Powered Identity Manager](https://dev.to/me_y_fb1f776419302946b34e/building-an-ai-powered-identity-manager-2pcp)
-- [How React Works &lpar;Part 5&rpar;? The React Lifecycle From the Inside: When Things Actually Run](https://dev.to/samabaasi/how-react-works-part-5-the-react-lifecycle-from-the-inside-when-things-actually-run-oj4)
-- [TestSprite — Panduan Cepat &lpar;Indonesian Translation&rpar;](https://dev.to/placecel427source/testsprite-panduan-cepat-indonesian-translation-119b)
+- [CWS Listing SEO: What Actually Moved the Needle After Publishing 18 Extensions](https://dev.to/_350df62777eb55e1/cws-listing-seo-what-actually-moved-the-needle-after-publishing-18-extensions-37i1)
+- [How React Works &lpar;Part 9&rpar;? The Complete Picture: From a Keystroke to a Pixel](https://dev.to/samabaasi/how-react-works-part-9-the-complete-picture-from-a-keystroke-to-a-pixel-3k3n)
+- [FinOps Hands-On: AWS Costs + CO e in Every PR with Infracost &amp; Terraform](https://dev.to/jessicaapbueno/finops-hands-on-aws-costs-co-e-in-every-pr-with-infracost-terraform-4hjj)
+- [The Agentic AI Dilemma: Scaling Autonomy Without Sacrificing Security](https://dev.to/zulqurnan/the-agentic-ai-dilemma-scaling-autonomy-without-sacrificing-security-1knc)
 <!-- BLOG-POST-LIST:END -->
 
