@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Your First AYW Bot: A Step-by-Step Guide](https://dev.to/leo_laish_25120db350ea449/building-your-first-ayw-bot-a-step-by-step-guide-50mo)
-- [Building Your First AI Chatbot with Guardrails](https://dev.to/leo_laish_25120db350ea449/building-your-first-ai-chatbot-with-guardrails-6ph)
-- [AYW + OpenAI Integration: A Developer&#39;s Guide](https://dev.to/leo_laish_25120db350ea449/ayw-openai-integration-a-developers-guide-4i35)
-- [From Prompt to Production: AYW Workflow Case Study](https://dev.to/leo_laish_25120db350ea449/from-prompt-to-production-ayw-workflow-case-study-3pp5)
+- [What Happens When You Evaluate a B2B Sales Agent on Tasks It Was Never Designed For](https://dev.to/mella123/tenacious-bench-v01-what-happens-when-you-evaluate-a-b2b-sales-agent-on-tasks-it-was-never-2hc3)
+- [Becoming a Staff-Level Backend Engineer: My Path into Distributed Systems](https://dev.to/naghma_nourain/my-journey-to-becoming-a-truly-distributed-systems-backend-developer-4bee)
+- [Moving Beyond JSX: Why TSRX Caught My Eye](https://dev.to/krentrox/moving-beyond-jsx-why-tsrx-caught-my-eye-35a0)
+- [I Built a WhatsApp Booking Agent — The Hard Part Wasn’t AI](https://dev.to/gracesoftdev/i-built-a-whatsapp-booking-agent-the-hard-part-wasnt-ai-1d4n)
 <!-- BLOG-POST-LIST:END -->
 
