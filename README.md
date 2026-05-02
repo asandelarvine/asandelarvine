@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to plan a private Telegram AI assistant with OpenClaw](https://dev.to/rbezumoff/how-to-plan-a-private-telegram-ai-assistant-with-openclaw-6k6)
-- [The Machine Zone: Ignition](https://dev.to/niclydon/the-machine-zone-ignition-4p2k)
-- [TOON File Format Anatomy: Schema-Once, Data-Many for LLM Pipelines 🎯📄](https://dev.to/databro/toon-file-format-anatomy-schema-once-data-many-for-llm-pipelines-5ba3)
-- [Lakera Guard in 30 Lines — Production-Ready AI Safety for Next.js Route Handlers &lpar;2026&rpar;](https://dev.to/brandon-vibestart/lakera-guard-in-30-lines-production-ready-ai-safety-for-nextjs-route-handlers-2026-4j70)
+- [What I Shipped in April Building Invoiso&lpar;v4.0.5&rpar;](https://dev.to/anoop_p_22f715057ac8b3901/what-i-shipped-in-april-building-invoiso-4gob)
+- [From Vibe Coding to Clarity: Auditing My Own Backend Project](https://dev.to/obianuju_dev/from-vibe-coding-to-clarity-auditing-my-own-backend-project-4pfi)
+- [The Performance Battle benchmark SolidJS deep dive React Server Components: A Practical Guide](https://dev.to/johalputt/the-performance-battle-benchmark-solidjs-deep-dive-react-server-components-a-practical-guide-1hlf)
+- [Canonical under DDoS: what my Railway logs and uptime say about my real exposure](https://dev.to/jtorchia/canonical-under-ddos-what-my-railway-logs-and-uptime-say-about-my-real-exposure-jm3)
 <!-- BLOG-POST-LIST:END -->
 
