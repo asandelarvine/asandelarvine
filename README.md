@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens When You Evaluate a B2B Sales Agent on Tasks It Was Never Designed For](https://dev.to/mella123/tenacious-bench-v01-what-happens-when-you-evaluate-a-b2b-sales-agent-on-tasks-it-was-never-2hc3)
-- [Becoming a Staff-Level Backend Engineer: My Path into Distributed Systems](https://dev.to/naghma_nourain/my-journey-to-becoming-a-truly-distributed-systems-backend-developer-4bee)
-- [Moving Beyond JSX: Why TSRX Caught My Eye](https://dev.to/krentrox/moving-beyond-jsx-why-tsrx-caught-my-eye-35a0)
-- [I Built a WhatsApp Booking Agent — The Hard Part Wasn’t AI](https://dev.to/gracesoftdev/i-built-a-whatsapp-booking-agent-the-hard-part-wasnt-ai-1d4n)
+- [How to Find Hidden Subdomains: From Passive OSINT to Active Brute Force](https://dev.to/jer_catallo/how-to-find-hidden-subdomains-from-passive-osint-to-active-brute-force-hf2)
+- [Disabling NTLM by Default](https://dev.to/aspbrtech/disabling-ntlm-by-default-2jl3)
+- [TestSprite: Review Jujur dari Developer Indonesia — Bagaimana AI Testing Menangani Locale Kita?](https://dev.to/erza_scarlet_0/testsprite-review-jujur-dari-developer-indonesia-bagaimana-ai-testing-menangani-locale-kita-4o64)
+- [Black PC Fan Delays: An Insider Reveals the Strategic Paradox of Component Launches](https://dev.to/nilesh_kasar_2b00e7247dd5/black-pc-fan-delays-an-insider-reveals-the-strategic-paradox-of-component-launches-5bci)
 <!-- BLOG-POST-LIST:END -->
 
