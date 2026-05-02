@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub: Put Your Work Where Anyone Can See It](https://dev.to/yakhilesh/github-put-your-work-where-anyone-can-see-it-2fkf)
-- [[05] When to Pull the Trigger on FIRE — Monte Carlo Says You&#39;re Already Free](https://dev.to/soytuber/05-when-to-pull-the-trigger-on-fire-monte-carlo-says-youre-already-free-1h26)
-- [[04] The 90/10 Portfolio — Dividend Core + Growth Satellite with a Live Simulator](https://dev.to/soytuber/04-the-9010-portfolio-dividend-core-growth-satellite-with-a-live-simulator-4eak)
-- [[03] Designing a Personal Commitment Line — Two Loans, One Defense System](https://dev.to/soytuber/03-designing-a-personal-commitment-line-two-loans-one-defense-system-4hh8)
+- [Illustration: Network Policies](https://dev.to/aoi/illustration-network-policies-5fbp)
+- [Never stop learning](https://dev.to/karenpayneoregon/never-stop-learning-4nk1)
+- [Your AI Is Doing the Wrong Job. That&#39;s On You.](https://dev.to/edfife/your-ai-is-doing-the-wrong-job-thats-on-you-3182)
+- [AI Coding Autopilot vs Manual Control: What Aviation Taught Us About Skill Decay](https://dev.to/alanwest/ai-coding-autopilot-vs-manual-control-what-aviation-taught-us-about-skill-decay-2h1g)
 <!-- BLOG-POST-LIST:END -->
 
