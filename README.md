@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Find Hidden Subdomains: From Passive OSINT to Active Brute Force](https://dev.to/jer_catallo/how-to-find-hidden-subdomains-from-passive-osint-to-active-brute-force-hf2)
-- [Disabling NTLM by Default](https://dev.to/aspbrtech/disabling-ntlm-by-default-2jl3)
-- [TestSprite: Review Jujur dari Developer Indonesia — Bagaimana AI Testing Menangani Locale Kita?](https://dev.to/erza_scarlet_0/testsprite-review-jujur-dari-developer-indonesia-bagaimana-ai-testing-menangani-locale-kita-4o64)
-- [Black PC Fan Delays: An Insider Reveals the Strategic Paradox of Component Launches](https://dev.to/nilesh_kasar_2b00e7247dd5/black-pc-fan-delays-an-insider-reveals-the-strategic-paradox-of-component-launches-5bci)
+- [Anonymous Membership Proofs on Midnight: Building Privacy-Preserving Allowlists](https://dev.to/bosschaos/anonymous-membership-proofs-on-midnight-building-privacy-preserving-allowlists-mge)
+- [Building an AI-Powered Identity Manager](https://dev.to/me_y_fb1f776419302946b34e/building-an-ai-powered-identity-manager-2pcp)
+- [How React Works &lpar;Part 5&rpar;? The React Lifecycle From the Inside: When Things Actually Run](https://dev.to/samabaasi/how-react-works-part-5-the-react-lifecycle-from-the-inside-when-things-actually-run-oj4)
+- [TestSprite — Panduan Cepat &lpar;Indonesian Translation&rpar;](https://dev.to/placecel427source/testsprite-panduan-cepat-indonesian-translation-119b)
 <!-- BLOG-POST-LIST:END -->
 
