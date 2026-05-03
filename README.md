@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I&#39;m Moving from Go to C After Building a Load Balancer](https://dev.to/voidhyr/why-im-moving-from-go-to-c-after-building-a-load-balancer-55go)
-- [Building a Firefox New Tab Extension: From Idea to AMO Publishing](https://dev.to/weatherclockdash/building-a-firefox-new-tab-extension-from-idea-to-amo-publishing-4hc)
-- [Chips, Curricula, and Code Share the Steering Wheel](https://dev.to/anikalp1/chips-curricula-and-code-share-the-steering-wheel-4lbc)
-- [Day 2 — Cost Controls](https://dev.to/ismailg/day-2-cost-controls-1ggo)
+- [KiroHub: Generate a Kiro Skill in 60 Seconds Built With Bedrock Registry and AgentCore Harness](https://dev.to/aws-builders/kirohub-generate-a-kiro-skill-in-60-seconds-built-with-bedrock-registry-and-agentcore-harness-35bf)
+- [We forked Apache Stateful Functions for Flink 2.x — here&#39;s why](https://dev.to/okazimirov/we-forked-apache-stateful-functions-for-flink-2x-heres-why-18oj)
+- [From Rules to Palettes: Using Color as a Syntax for Cellular Automata](https://dev.to/jsamwrites/from-rules-to-palettes-using-color-as-a-syntax-for-cellular-automata-2e8n)
+- [The Dangerous Bugs Are the Ones That Don&#39;t Crash — Building Input Validation for My MCP Server](https://dev.to/david-tappert/the-dangerous-bugs-are-the-ones-that-dont-crash-building-input-validation-for-my-mcp-server-1521)
 <!-- BLOG-POST-LIST:END -->
 
