@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React won&#39;t die because AI won&#39;t let it](https://dev.to/adioof/react-wont-die-because-ai-wont-let-it-4ne1)
-- [The Hidden UX Problem in Voice AI: When Should the AI Stop Talking?](https://dev.to/luispham/the-hidden-ux-problem-in-voice-ai-when-should-the-ai-stop-talking-4a62)
-- [Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖](https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c)
-- [🐰 Meet rabbit &quot;LAG&quot;: The Asymmetric Defense Strategy That Makes Attackers Burn Their Own Resources](https://dev.to/lag_lagendary/meet-rabbit-lag-the-asymmetric-defense-strategy-that-makes-attackers-burn-their-own-resources-43ef)
+- [Detecting paying Cloudflare customers &lpar;for fun and profit&rpar;](https://dev.to/henley_wing_9424eb9a3177c/detecting-paying-cloudflare-customers-for-fun-and-profit-2dko)
+- [Reviewing AI-Generated Code: Check Boundaries Before Logic](https://dev.to/elpic/reviewing-ai-generated-code-check-boundaries-before-logic-1i7n)
+- [Connect your Windows and Linux Proxmox machines.](https://dev.to/shedoessec/connect-your-windows-and-linux-proxmox-machines-2m08)
+- [I Built a Tiny Decision Tool and Learned That Simple Still Matters](https://dev.to/myfunny/i-built-a-tiny-decision-tool-and-learned-that-simple-still-matters-2hk3)
 <!-- BLOG-POST-LIST:END -->
 
