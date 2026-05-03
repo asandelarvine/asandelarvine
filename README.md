@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [War Story: Debugging a Ktor 2.2 Coroutine Leak in Kotlin 2.0 Microservices](https://dev.to/johalputt/war-story-debugging-a-ktor-22-coroutine-leak-in-kotlin-20-microservices-5930)
-- [The Memory Illusion: Why Your LLM &quot;Remembers&quot; &lpar;And Why It Actually Doesn&#39;t&rpar;](https://dev.to/raghavenreddy/the-memory-illusion-why-your-llm-remembers-and-why-it-actually-doesnt-413e)
-- [How We Increased Google Indexing Speed by 43% Using Semantic Content Clusters](https://dev.to/yoyone/how-we-increased-google-indexing-speed-by-43-using-semantic-content-clusters-2pg8)
-- [Porting a Config Validator to Java for Minimal Environments](https://dev.to/mournfulcord/porting-a-config-validator-to-java-for-minimal-environments-o7o)
+- [The Fatal Flaw of AI Hallucination: When LLMs Confidently Tell Lies](https://dev.to/jearick/the-fatal-flaw-of-ai-hallucination-when-llms-confidently-tell-lies-243l)
+- [Building an Autonomous Sentinel: Shielding Mantle DeFi from Rounding Errors with Clojure](https://dev.to/rdin777/building-an-autonomous-sentinel-shielding-mantle-defi-from-rounding-errors-with-clojure-420f)
+- [Weekly Challenge: Question the bits](https://dev.to/simongreennet/weekly-challenge-question-the-bits-4lnd)
+- [Building an Autonomous Crypto Trading Bot](https://dev.to/alex_chen_45b61c234682eb6/building-an-autonomous-crypto-trading-bot-2lc4)
 <!-- BLOG-POST-LIST:END -->
 
