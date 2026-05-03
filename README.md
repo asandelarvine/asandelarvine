@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Illustration: Network Policies](https://dev.to/aoi/illustration-network-policies-5fbp)
-- [Never stop learning](https://dev.to/karenpayneoregon/never-stop-learning-4nk1)
-- [Your AI Is Doing the Wrong Job. That&#39;s On You.](https://dev.to/edfife/your-ai-is-doing-the-wrong-job-thats-on-you-3182)
-- [AI Coding Autopilot vs Manual Control: What Aviation Taught Us About Skill Decay](https://dev.to/alanwest/ai-coding-autopilot-vs-manual-control-what-aviation-taught-us-about-skill-decay-2h1g)
+- [War Story: Debugging a Ktor 2.2 Coroutine Leak in Kotlin 2.0 Microservices](https://dev.to/johalputt/war-story-debugging-a-ktor-22-coroutine-leak-in-kotlin-20-microservices-5930)
+- [The Memory Illusion: Why Your LLM &quot;Remembers&quot; &lpar;And Why It Actually Doesn&#39;t&rpar;](https://dev.to/raghavenreddy/the-memory-illusion-why-your-llm-remembers-and-why-it-actually-doesnt-413e)
+- [How We Increased Google Indexing Speed by 43% Using Semantic Content Clusters](https://dev.to/yoyone/how-we-increased-google-indexing-speed-by-43-using-semantic-content-clusters-2pg8)
+- [Porting a Config Validator to Java for Minimal Environments](https://dev.to/mournfulcord/porting-a-config-validator-to-java-for-minimal-environments-o7o)
 <!-- BLOG-POST-LIST:END -->
 
