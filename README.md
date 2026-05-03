@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Which global AI principles fail in weak-regulation countries like Nigeria and why ?](https://dev.to/spiff/which-global-ai-principles-fail-in-weak-regulation-countries-like-nigeria-and-why--49ee)
-- [AI Coding Has Its Own Language Now — Here&#39;s How to Decode It](https://dev.to/alanwest/ai-coding-has-its-own-language-now-heres-how-to-decode-it-5o5)
-- [Beyond SEO: Why We Need SGO to Prevent &quot;Semantic Poisoning&quot; in the AI Era](https://dev.to/myc911/title-beyond-seo-why-we-need-sgo-to-prevent-semantic-poisoning-in-the-ai-era-9mf)
-- [I Hired Two AI Developers. One Is a Rocket. The Other One Checks the Wiring.](https://dev.to/canceylan1988/i-hired-two-ai-developers-one-is-a-rocket-the-other-one-checks-the-wiring-40af)
+- [Why I&#39;m Moving from Go to C After Building a Load Balancer](https://dev.to/voidhyr/why-im-moving-from-go-to-c-after-building-a-load-balancer-55go)
+- [Building a Firefox New Tab Extension: From Idea to AMO Publishing](https://dev.to/weatherclockdash/building-a-firefox-new-tab-extension-from-idea-to-amo-publishing-4hc)
+- [Chips, Curricula, and Code Share the Steering Wheel](https://dev.to/anikalp1/chips-curricula-and-code-share-the-steering-wheel-4lbc)
+- [Day 2 — Cost Controls](https://dev.to/ismailg/day-2-cost-controls-1ggo)
 <!-- BLOG-POST-LIST:END -->
 
