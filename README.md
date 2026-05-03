@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Code with Confidence: Testing AI-Built Apps with QA Agents](https://dev.to/appdeploy/vibe-code-with-confidence-testing-ai-built-apps-with-qa-agents-2e14)
-- [De Keras a Bare-Metal C++: Construyendo un motor de inferencia dentro de un Arduino Uno &lpar;Parte 3&rpar;](https://dev.to/galp76/de-keras-a-bare-metal-c-construyendo-un-motor-de-inferencia-dentro-de-un-arduino-uno-parte-3-25cd)
-- [Vibe coding: where it helps and where it breaks](https://dev.to/pcornelissen/vibe-coding-where-it-helps-and-where-it-breaks-71k)
-- [GFG technical scripter winner 🏆](https://dev.to/ansh_gupta_a2eee099e43d42/gfg-technical-scripter-winner-2p12)
+- [The Biryani Mystery That Explains Docker](https://dev.to/hariharan_sj_2003/the-biryani-mystery-that-explains-docker-14d1)
+- [I Built a Spam-Comment Review Bot After Almost Moving a GitHub Issue Conversation to Telegram](https://dev.to/syi0808/i-built-a-spam-comment-review-bot-after-almost-moving-a-github-issue-conversation-to-telegram-ikf)
+- [Ladybird Browser Engine: SerenityOS&#39;s Independent Vision to Disrupt Web Monoculture](https://dev.to/nilesh_kasar_2b00e7247dd5/ladybird-browser-engine-serenityoss-independent-vision-to-disrupt-web-monoculture-35o4)
+- [Crypto Payment Webhooks: The Part Most Developers Get Wrong](https://dev.to/kevins1988/crypto-payment-webhooks-the-part-most-developers-get-wrong-2bj0)
 <!-- BLOG-POST-LIST:END -->
 
