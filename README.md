@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Cuánta energía, agua, dinero e infraestructura estamos dispuestos a gastar para sostenerla?](https://dev.to/miigangls/cuanta-energia-agua-dinero-e-infraestructura-estamos-dispuestos-a-gastar-para-sostenerla-57l3)
-- [Mythos Found a 27-Year-Old Bug in OpenBSD. Your Code Is Next.](https://dev.to/michelle-jones/mythos-found-a-27-year-old-bug-in-openbsd-your-code-is-next-2om2)
-- [Logic Apps Agent Loop + MCP: Two Bugs Worth Knowing About](https://dev.to/imdj/logic-apps-agent-loop-mcp-two-bugs-worth-knowing-about-3h6n)
-- [Feature Flags That Actually Ship: Lessons From the Trenches](https://dev.to/pravin-khandke/feature-flags-that-actually-ship-lessons-from-the-trenches-b7a)
+- [Turning Agent History into Procedural Memory](https://dev.to/blackgirlbytes/turning-agent-history-into-procedural-memory-37f8)
+- [Turning Agent History into Procedural Memory](https://dev.to/blackgirlbytes/turning-agent-history-into-procedural-memory-38mo)
+- [Skip Socket.io boilerplate — real-time chat in 3 lines 🚀](https://dev.to/aaromalpm/skip-socketio-boilerplate-real-time-chat-in-3-lines-55l1)
+- [Responsive Grid Layouts for Browser Extension New Tab Pages](https://dev.to/weatherclockdash/responsive-grid-layouts-for-browser-extension-new-tab-pages-2mbk)
 <!-- BLOG-POST-LIST:END -->
 
