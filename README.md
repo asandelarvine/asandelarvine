@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Biryani Mystery That Explains Docker](https://dev.to/hariharan_sj_2003/the-biryani-mystery-that-explains-docker-14d1)
-- [I Built a Spam-Comment Review Bot After Almost Moving a GitHub Issue Conversation to Telegram](https://dev.to/syi0808/i-built-a-spam-comment-review-bot-after-almost-moving-a-github-issue-conversation-to-telegram-ikf)
-- [Ladybird Browser Engine: SerenityOS&#39;s Independent Vision to Disrupt Web Monoculture](https://dev.to/nilesh_kasar_2b00e7247dd5/ladybird-browser-engine-serenityoss-independent-vision-to-disrupt-web-monoculture-35o4)
-- [Crypto Payment Webhooks: The Part Most Developers Get Wrong](https://dev.to/kevins1988/crypto-payment-webhooks-the-part-most-developers-get-wrong-2bj0)
+- [React won&#39;t die because AI won&#39;t let it](https://dev.to/adioof/react-wont-die-because-ai-wont-let-it-4ne1)
+- [The Hidden UX Problem in Voice AI: When Should the AI Stop Talking?](https://dev.to/luispham/the-hidden-ux-problem-in-voice-ai-when-should-the-ai-stop-talking-4a62)
+- [Migrating from Astro 5 to Astro 6: A Real-World Breakdown 📖](https://dev.to/harshil1712/migrating-from-astro-5-to-astro-6-a-real-world-breakdown-2d0c)
+- [🐰 Meet rabbit &quot;LAG&quot;: The Asymmetric Defense Strategy That Makes Attackers Burn Their Own Resources](https://dev.to/lag_lagendary/meet-rabbit-lag-the-asymmetric-defense-strategy-that-makes-attackers-burn-their-own-resources-43ef)
 <!-- BLOG-POST-LIST:END -->
 
