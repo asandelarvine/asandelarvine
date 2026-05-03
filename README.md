@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KiroHub: Generate a Kiro Skill in 60 Seconds Built With Bedrock Registry and AgentCore Harness](https://dev.to/aws-builders/kirohub-generate-a-kiro-skill-in-60-seconds-built-with-bedrock-registry-and-agentcore-harness-35bf)
-- [We forked Apache Stateful Functions for Flink 2.x — here&#39;s why](https://dev.to/okazimirov/we-forked-apache-stateful-functions-for-flink-2x-heres-why-18oj)
-- [From Rules to Palettes: Using Color as a Syntax for Cellular Automata](https://dev.to/jsamwrites/from-rules-to-palettes-using-color-as-a-syntax-for-cellular-automata-2e8n)
-- [The Dangerous Bugs Are the Ones That Don&#39;t Crash — Building Input Validation for My MCP Server](https://dev.to/david-tappert/the-dangerous-bugs-are-the-ones-that-dont-crash-building-input-validation-for-my-mcp-server-1521)
+- [OpenSearch isn&#39;t trying to be a better Elasticsearch anymore](https://dev.to/thegatewayguy/opensearch-isnt-trying-to-be-a-better-elasticsearch-anymore-40i4)
+- [I Tested TestSprite on a Real Project — Here&#39;s My Honest Dev Review &lpar;Including Locale Surprises&rpar;](https://dev.to/mipiarl/i-tested-testsprite-on-a-real-project-heres-my-honest-dev-review-including-locale-surprises-h9)
+- [I Let TestSprite&#39;s AI Agent Test My App — Here&#39;s What It Found &lpar;And What It Missed&rpar;](https://dev.to/vspissak68940/i-let-testsprites-ai-agent-test-my-app-heres-what-it-found-and-what-it-missed-1ke4)
+- [TestSprite Review: I Tested It for Locale Handling — Here&#39;s What Actually Happened](https://dev.to/cemdil3/testsprite-review-i-tested-it-for-locale-handling-heres-what-actually-happened-4ae9)
 <!-- BLOG-POST-LIST:END -->
 
