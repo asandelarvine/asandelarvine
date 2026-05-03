@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Detecting paying Cloudflare customers &lpar;for fun and profit&rpar;](https://dev.to/henley_wing_9424eb9a3177c/detecting-paying-cloudflare-customers-for-fun-and-profit-2dko)
-- [Reviewing AI-Generated Code: Check Boundaries Before Logic](https://dev.to/elpic/reviewing-ai-generated-code-check-boundaries-before-logic-1i7n)
-- [Connect your Windows and Linux Proxmox machines.](https://dev.to/shedoessec/connect-your-windows-and-linux-proxmox-machines-2m08)
-- [I Built a Tiny Decision Tool and Learned That Simple Still Matters](https://dev.to/myfunny/i-built-a-tiny-decision-tool-and-learned-that-simple-still-matters-2hk3)
+- [How I Built FixerLab: A Simple Tool to Organize Repair Workflows](https://dev.to/alex9978/how-i-built-fixerlab-a-simple-tool-to-organize-repair-workflows-3koe)
+- [Building one focused calculator in the open &lpar;Next.js, honesty, and IndexNow&rpar;](https://dev.to/souhayb_kamaldine_a79d37/building-one-focused-calculator-in-the-open-nextjs-honesty-and-indexnow-4gh2)
+- [OneDialect — Unified Assistive Communication System &lpar;UACS&rpar;](https://dev.to/anand_ps/onedialect-unified-assistive-communication-system-uacs-580f)
+- [BWAI&#39;2026 @ VTU, Belagavi](https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n)
 <!-- BLOG-POST-LIST:END -->
 
