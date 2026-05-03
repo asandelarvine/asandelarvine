@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Fatal Flaw of AI Hallucination: When LLMs Confidently Tell Lies](https://dev.to/jearick/the-fatal-flaw-of-ai-hallucination-when-llms-confidently-tell-lies-243l)
-- [Building an Autonomous Sentinel: Shielding Mantle DeFi from Rounding Errors with Clojure](https://dev.to/rdin777/building-an-autonomous-sentinel-shielding-mantle-defi-from-rounding-errors-with-clojure-420f)
-- [Weekly Challenge: Question the bits](https://dev.to/simongreennet/weekly-challenge-question-the-bits-4lnd)
-- [Building an Autonomous Crypto Trading Bot](https://dev.to/alex_chen_45b61c234682eb6/building-an-autonomous-crypto-trading-bot-2lc4)
+- [From on-prem to the cloud - Lessons Learned](https://dev.to/deathsaber/from-on-prem-to-the-cloud-lessons-learned-4pge)
+- [10 Powerful Tools 90% of Full-Stack Developers Ignore](https://dev.to/developerchandan/10-powerful-tools-90-of-full-stack-developers-ignore-dg1)
+- [ReactJs Performance ~ Web Workers for Heavy Computations ~](https://dev.to/kkr0423/reactjs-performance-web-workers-for-heavy-computations--3m07)
+- [I Built a Mood Ring for the Internet in 24 Hours](https://dev.to/acode123/i-built-a-mood-ring-for-the-internet-in-24-hours-3d5n)
 <!-- BLOG-POST-LIST:END -->
 
