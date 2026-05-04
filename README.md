@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding is Dead? No, it’s just getting started for 10-year-olds.](https://dev.to/marcel_dtscher_ba7a4f73f/coding-is-dead-no-its-just-getting-started-for-10-year-olds-lch)
-- [Building a P2P Payment Gateway in Laravel without Merchant Licenses](https://dev.to/samdevxuz/building-a-p2p-payment-gateway-in-laravel-without-merchant-licenses-36ph)
-- [API Documentation is a Failed Concept. Here&#39;s What&#39;s Next.](https://dev.to/sumit_raghuwanshi_d405ce8/api-documentation-is-a-failed-concept-heres-whats-next-1oaf)
-- [How to catch AI hallucinations before they reach production](https://dev.to/craftframework/how-to-catch-ai-hallucinations-before-they-reach-production-31gb)
+- [Stop Reaching for Python: Strands Agents TypeScript SDK Just Hit 1.0](https://dev.to/aws/stop-reaching-for-python-strands-agents-typescript-sdk-just-hit-10-4lk6)
+- [From Negative Margins to Clean Layouts: How I Stopped Fighting CSS](https://dev.to/obasililian59cell/from-negative-margins-to-clean-layouts-how-i-stopped-fighting-css-15hd)
+- [I wanted to describe a network, not assemble it: FlowBuilder in flodl](https://dev.to/fab2s/i-wanted-to-describe-a-network-not-assemble-it-flowbuilder-in-flodl-4a74)
+- [Why Arts Students Should Not Be Afraid of Coding](https://dev.to/fredrick_miracho_499b706d/why-arts-students-should-not-be-afraid-of-coding-21ce)
 <!-- BLOG-POST-LIST:END -->
 
