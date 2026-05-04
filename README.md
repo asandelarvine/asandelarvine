@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Reaching for Python: Strands Agents TypeScript SDK Just Hit 1.0](https://dev.to/aws/stop-reaching-for-python-strands-agents-typescript-sdk-just-hit-10-4lk6)
-- [From Negative Margins to Clean Layouts: How I Stopped Fighting CSS](https://dev.to/obasililian59cell/from-negative-margins-to-clean-layouts-how-i-stopped-fighting-css-15hd)
-- [I wanted to describe a network, not assemble it: FlowBuilder in flodl](https://dev.to/fab2s/i-wanted-to-describe-a-network-not-assemble-it-flowbuilder-in-flodl-4a74)
-- [Why Arts Students Should Not Be Afraid of Coding](https://dev.to/fredrick_miracho_499b706d/why-arts-students-should-not-be-afraid-of-coding-21ce)
+- [Developer ego and why regulating it will make you a better professional](https://dev.to/marilau-tech/developer-ego-and-why-regulating-it-will-make-you-a-better-professional-4dnn)
+- [Claude Code Skills: A Practical Guide for 2026](https://dev.to/muhammad_moeed/claude-code-skills-a-practical-guide-for-2026-3f6p)
+- [I’m shipping zerocopy, a Flutter package that eliminates the &quot;Copy Tax&quot; between Dart and C++. No serialization, no cloning, and zero GC pressure.](https://dev.to/muhammad_omar_0f70d9ecf59/im-shipping-zerocopy-a-flutter-package-that-eliminates-the-copy-tax-between-dart-and-c-no-2kc3)
+- [What are distributed systems?](https://dev.to/charliet1802/what-are-distributed-systems-4j42)
 <!-- BLOG-POST-LIST:END -->
 
