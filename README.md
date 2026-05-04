@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Turning Agent History into Procedural Memory](https://dev.to/blackgirlbytes/turning-agent-history-into-procedural-memory-37f8)
-- [Turning Agent History into Procedural Memory](https://dev.to/blackgirlbytes/turning-agent-history-into-procedural-memory-38mo)
-- [Skip Socket.io boilerplate — real-time chat in 3 lines 🚀](https://dev.to/aaromalpm/skip-socketio-boilerplate-real-time-chat-in-3-lines-55l1)
-- [Responsive Grid Layouts for Browser Extension New Tab Pages](https://dev.to/weatherclockdash/responsive-grid-layouts-for-browser-extension-new-tab-pages-2mbk)
+- [How to Use the OpenWeatherMap API in a Firefox Extension](https://dev.to/weatherclockdash/how-to-use-the-openweathermap-api-in-a-firefox-extension-16po)
+- [I burned a week comparing Inngest and AWS Step Functions so you don&#39;t have to](https://dev.to/xelpher/i-burned-a-week-comparing-inngest-and-aws-step-functions-so-you-dont-have-to-25cp)
+- [Firefox Extension Manifest V3 vs V2: What Actually Changed](https://dev.to/weatherclockdash/firefox-extension-manifest-v3-vs-v2-what-actually-changed-5654)
+- [Handling Offline Mode in Firefox Browser Extensions](https://dev.to/weatherclockdash/handling-offline-mode-in-firefox-browser-extensions-3i9o)
 <!-- BLOG-POST-LIST:END -->
 
