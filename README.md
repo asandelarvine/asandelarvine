@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Developer ego and why regulating it will make you a better professional](https://dev.to/marilau-tech/developer-ego-and-why-regulating-it-will-make-you-a-better-professional-4dnn)
-- [Claude Code Skills: A Practical Guide for 2026](https://dev.to/muhammad_moeed/claude-code-skills-a-practical-guide-for-2026-3f6p)
-- [I’m shipping zerocopy, a Flutter package that eliminates the &quot;Copy Tax&quot; between Dart and C++. No serialization, no cloning, and zero GC pressure.](https://dev.to/muhammad_omar_0f70d9ecf59/im-shipping-zerocopy-a-flutter-package-that-eliminates-the-copy-tax-between-dart-and-c-no-2kc3)
-- [What are distributed systems?](https://dev.to/charliet1802/what-are-distributed-systems-4j42)
+- [AWS Agent Registry: a private catalog to stop agent sprawl](https://dev.to/aws-builders/aws-agent-registry-a-private-catalog-to-stop-agent-sprawl-c91)
+- [AI-Assisted Product Engineering: Orchestrating Claude Code Across the Software Development Lifecycle](https://dev.to/pixari/ai-assisted-product-engineering-orchestrating-claude-code-across-the-software-development-lifecycle-1k59)
+- [My site went down for a few hours yesterday and my users knew before me](https://dev.to/bashsnippets/my-site-went-down-for-a-few-hours-yesterday-and-my-users-knew-before-me-1of6)
+- [PortFlow: Bridging Laravel with Serial Hardware, IoT Sensors &amp; Thermal Printers](https://dev.to/hamdyelbatal122/portflow-bridging-laravel-with-the-physical-world-serial-hardware-iot-sensors-thermal-printers-46f8)
 <!-- BLOG-POST-LIST:END -->
 
