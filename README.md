@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use the OpenWeatherMap API in a Firefox Extension](https://dev.to/weatherclockdash/how-to-use-the-openweathermap-api-in-a-firefox-extension-16po)
-- [I burned a week comparing Inngest and AWS Step Functions so you don&#39;t have to](https://dev.to/xelpher/i-burned-a-week-comparing-inngest-and-aws-step-functions-so-you-dont-have-to-25cp)
-- [Firefox Extension Manifest V3 vs V2: What Actually Changed](https://dev.to/weatherclockdash/firefox-extension-manifest-v3-vs-v2-what-actually-changed-5654)
-- [Handling Offline Mode in Firefox Browser Extensions](https://dev.to/weatherclockdash/handling-offline-mode-in-firefox-browser-extensions-3i9o)
+- [I Read the DID and VC Specs So You Don&#39;t Have To](https://dev.to/jashk120/i-read-the-did-and-vc-specs-so-you-dont-have-to-1ldb)
+- [Running Claude Code and Claude Desktop on Amazon Bedrock](https://dev.to/haowen_huang/running-claude-code-and-claude-desktop-on-amazon-bedrock-1ed2)
+- [People Problem or a Culture System Problem?](https://dev.to/apetryla/people-problem-or-a-culture-system-problem-4i3m)
+- [We shipped 3 features in one flow today: Shop + Crowdfunding + Live. Here&#39;s the integration design.](https://dev.to/ko_takahashi/we-shipped-3-features-in-one-flow-today-shop-crowdfunding-live-heres-the-integration-design-12o6)
 <!-- BLOG-POST-LIST:END -->
 
