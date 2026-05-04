@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Multi-Tenancy: Namespace Isolation, RBAC, and Network Policies Explained](https://dev.to/muskan_8abedcc7e12/kubernetes-multi-tenancy-namespace-isolation-rbac-and-network-policies-explained-3jjm)
-- [ZopNight v2.0: The Control Layer Your Cloud Bill Has Been Missing](https://dev.to/muskan_8abedcc7e12/zopnight-v20-the-control-layer-your-cloud-bill-has-been-missing-2aem)
-- [I Asked Claude to Build Me a Dividend Screener Using EODHD — Here&#39;s What It Found](https://dev.to/kevin_menesesgonzlez/i-asked-claude-to-build-me-a-dividend-screener-using-eodhd-heres-what-it-found-378d)
-- [Securing Your React Native App with FreeRasp: A Practical Implementation Guide](https://dev.to/fecoded/securing-your-react-native-app-with-freerasp-a-practical-implementation-guide-31na)
+- [Paste Any AI File Tree Get a Clean Project Instantly &lpar;Tree2Zip&rpar;](https://dev.to/pipdevs/paste-any-ai-file-tree-get-a-clean-project-instantly-tree2zip-39ea)
+- [🐳 I Built a Container Dashboard for Your AI Coding Agent — And It&#39;s Awesome](https://dev.to/k1lgor/i-built-a-container-dashboard-for-your-ai-coding-agent-and-its-awesome-2548)
+- [react-i18next Was Fine. Then I Found Paraglide.](https://dev.to/nathan-brodin/react-i18next-was-fine-then-i-found-paraglide-15oa)
+- [Building Seamless OTP Authentication in React Native: A Complete Guide to react-native-otp-auto-verify](https://dev.to/kailas_rathod/building-seamless-otp-authentication-in-react-native-a-complete-guide-to-4joa)
 <!-- BLOG-POST-LIST:END -->
 
