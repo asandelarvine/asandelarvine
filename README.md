@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using Regex for Invoices: Use AI to Extract Line-Items in Seconds](https://dev.to/peterboro/stop-using-regex-for-invoices-use-ai-to-extract-line-items-in-seconds-1k5a)
-- [The 27-Question Client Intake Form Every Small Agency Actually Needs](https://dev.to/lisasakura/the-27-question-client-intake-form-every-small-agency-actually-needs-ia4)
-- [What are your goals for the week? #177](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-177-2ka7)
-- [Hyped and Overhyped Programming Languages in 2026](https://dev.to/pvgomes/hyped-and-overhyped-programming-languages-in-2026-1ahc)
+- [PHP Magic Methods to TypeScript Proxy: 5 Idioms That Translate](https://dev.to/gabrielanhaia/php-magic-methods-to-typescript-proxy-5-idioms-that-translate-32j)
+- [Benchmark: JetBrains DataGrip 2026 vs. DBeaver 24.0: Query Execution Speed for PostgreSQL 17](https://dev.to/johalputt/benchmark-jetbrains-datagrip-2026-vs-dbeaver-240-query-execution-speed-for-postgresql-17-1hhk)
+- [Test Doubles in Go Without a Mocking Framework: 4 Patterns](https://dev.to/gabrielanhaia/test-doubles-in-go-without-a-mocking-framework-4-patterns-ipc)
+- [OpenAI Codex is free right now. That&#39;s the trap.](https://dev.to/adioof/openai-codex-is-free-right-now-thats-the-trap-2pp5)
 <!-- BLOG-POST-LIST:END -->
 
