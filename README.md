@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP Magic Methods to TypeScript Proxy: 5 Idioms That Translate](https://dev.to/gabrielanhaia/php-magic-methods-to-typescript-proxy-5-idioms-that-translate-32j)
-- [Benchmark: JetBrains DataGrip 2026 vs. DBeaver 24.0: Query Execution Speed for PostgreSQL 17](https://dev.to/johalputt/benchmark-jetbrains-datagrip-2026-vs-dbeaver-240-query-execution-speed-for-postgresql-17-1hhk)
-- [Test Doubles in Go Without a Mocking Framework: 4 Patterns](https://dev.to/gabrielanhaia/test-doubles-in-go-without-a-mocking-framework-4-patterns-ipc)
-- [OpenAI Codex is free right now. That&#39;s the trap.](https://dev.to/adioof/openai-codex-is-free-right-now-thats-the-trap-2pp5)
+- [Coding is Dead? No, it’s just getting started for 10-year-olds.](https://dev.to/marcel_dtscher_ba7a4f73f/coding-is-dead-no-its-just-getting-started-for-10-year-olds-lch)
+- [Building a P2P Payment Gateway in Laravel without Merchant Licenses](https://dev.to/samdevxuz/building-a-p2p-payment-gateway-in-laravel-without-merchant-licenses-36ph)
+- [API Documentation is a Failed Concept. Here&#39;s What&#39;s Next.](https://dev.to/sumit_raghuwanshi_d405ce8/api-documentation-is-a-failed-concept-heres-whats-next-1oaf)
+- [How to catch AI hallucinations before they reach production](https://dev.to/craftframework/how-to-catch-ai-hallucinations-before-they-reach-production-31gb)
 <!-- BLOG-POST-LIST:END -->
 
