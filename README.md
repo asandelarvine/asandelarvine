@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Read the DID and VC Specs So You Don&#39;t Have To](https://dev.to/jashk120/i-read-the-did-and-vc-specs-so-you-dont-have-to-1ldb)
-- [Running Claude Code and Claude Desktop on Amazon Bedrock](https://dev.to/haowen_huang/running-claude-code-and-claude-desktop-on-amazon-bedrock-1ed2)
-- [People Problem or a Culture System Problem?](https://dev.to/apetryla/people-problem-or-a-culture-system-problem-4i3m)
-- [We shipped 3 features in one flow today: Shop + Crowdfunding + Live. Here&#39;s the integration design.](https://dev.to/ko_takahashi/we-shipped-3-features-in-one-flow-today-shop-crowdfunding-live-heres-the-integration-design-12o6)
+- [Kubernetes Multi-Tenancy: Namespace Isolation, RBAC, and Network Policies Explained](https://dev.to/muskan_8abedcc7e12/kubernetes-multi-tenancy-namespace-isolation-rbac-and-network-policies-explained-3jjm)
+- [ZopNight v2.0: The Control Layer Your Cloud Bill Has Been Missing](https://dev.to/muskan_8abedcc7e12/zopnight-v20-the-control-layer-your-cloud-bill-has-been-missing-2aem)
+- [I Asked Claude to Build Me a Dividend Screener Using EODHD — Here&#39;s What It Found](https://dev.to/kevin_menesesgonzlez/i-asked-claude-to-build-me-a-dividend-screener-using-eodhd-heres-what-it-found-378d)
+- [Securing Your React Native App with FreeRasp: A Practical Implementation Guide](https://dev.to/fecoded/securing-your-react-native-app-with-freerasp-a-practical-implementation-guide-31na)
 <!-- BLOG-POST-LIST:END -->
 
