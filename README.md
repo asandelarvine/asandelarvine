@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Paste Any AI File Tree Get a Clean Project Instantly &lpar;Tree2Zip&rpar;](https://dev.to/pipdevs/paste-any-ai-file-tree-get-a-clean-project-instantly-tree2zip-39ea)
-- [🐳 I Built a Container Dashboard for Your AI Coding Agent — And It&#39;s Awesome](https://dev.to/k1lgor/i-built-a-container-dashboard-for-your-ai-coding-agent-and-its-awesome-2548)
-- [react-i18next Was Fine. Then I Found Paraglide.](https://dev.to/nathan-brodin/react-i18next-was-fine-then-i-found-paraglide-15oa)
-- [Building Seamless OTP Authentication in React Native: A Complete Guide to react-native-otp-auto-verify](https://dev.to/kailas_rathod/building-seamless-otp-authentication-in-react-native-a-complete-guide-to-4joa)
+- [Stop Using Regex for Invoices: Use AI to Extract Line-Items in Seconds](https://dev.to/peterboro/stop-using-regex-for-invoices-use-ai-to-extract-line-items-in-seconds-1k5a)
+- [The 27-Question Client Intake Form Every Small Agency Actually Needs](https://dev.to/lisasakura/the-27-question-client-intake-form-every-small-agency-actually-needs-ia4)
+- [What are your goals for the week? #177](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-177-2ka7)
+- [Hyped and Overhyped Programming Languages in 2026](https://dev.to/pvgomes/hyped-and-overhyped-programming-languages-in-2026-1ahc)
 <!-- BLOG-POST-LIST:END -->
 
