@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Open-Source AWS Resource Browser Because I Was Tired of Running CLI Commands](https://dev.to/davireisvieira/i-built-an-open-source-aws-resource-browser-because-i-was-tired-of-running-cli-commands-476k)
-- [How to No-Code vs Notion: Lessons Learned](https://dev.to/johalputt/how-to-no-code-vs-notion-lessons-learned-2f0o)
-- [Shopify Speed Optimization with Liquid Code &lpar;5 Patterns&rpar;](https://dev.to/mdkaspianfuad/shopify-speed-optimization-with-liquid-code-5-patterns-2b29)
-- [Terraform Outputs on GCP: Querying Useful Data from a VPC, Subnet, and VM](https://dev.to/abrahamparn/terraform-outputs-on-gcp-querying-useful-data-from-a-vpc-subnet-and-vm-3nek)
+- [A am Developer or Just a Prompt Engineer?](https://dev.to/roblox_dev1/i-am-developer-or-the-write-this-to-see-4p1a)
+- [Sample Secured Cloud Architecture](https://dev.to/samzyn/sample-secured-cloud-architecture-1bcc)
+- [IP Configuration in Linux: A Beginner-Friendly Guide](https://dev.to/manoj_kumarvemula_31e045/ip-configuration-in-linux-a-beginner-friendly-guide-31an)
+- [How We Built Voice Messages for AI Companions: Real Voice Audio, ElevenLabs, and Beyond](https://dev.to/roman_zh333/how-we-built-voice-messages-for-ai-companions-real-voice-audio-elevenlabs-and-beyond-3ch1)
 <!-- BLOG-POST-LIST:END -->
 
