@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Generated Code Looked Right, but the Data Was Wrong](https://dev.to/pplonski/ai-generated-code-looked-right-but-the-data-was-wrong-53d1)
-- [The Renewal Work Nobody Finishes: Why Agent PMF May Hide in SaaS Contract Recovery](https://dev.to/donna_velazquez_1c96ee462/the-renewal-work-nobody-finishes-why-agent-pmf-may-hide-in-saas-contract-recovery-5080)
-- [The Ultimate Guide to Raft Everything You Need](https://dev.to/johalputt/the-ultimate-guide-to-raft-everything-you-need-o04)
-- [The Backlog Nobody Wants: Why Change-Order Recovery Could Be an Agent-Native Service](https://dev.to/teriann_boisvert_5a7ad677/the-backlog-nobody-wants-why-change-order-recovery-could-be-an-agent-native-service-2lb)
+- [Building Scync: Why I made a Zero-Knowledge Secrets Manager for us, Developers.](https://dev.to/hariharen/building-scync-why-i-wrote-a-zero-knowledge-secrets-manager-for-us-developers-15kc)
+- [The idea that AI will replace junior engineers misses the point](https://dev.to/liatmoss/why-your-junior-engineers-are-not-going-anywhere-34fp)
+- [Go 1.22 using Vite 5: The Performance Battle scalability for Teams](https://dev.to/johalputt/go-122-using-vite-5-the-performance-battle-scalability-for-teams-3ppi)
+- [Just Launched Free Signature Generator - Codex+Vercel &lpar;in 1.5 hours&rpar;](https://dev.to/furkanmersinli/just-launched-free-signature-generator-codexvercel-in-15-hours-4obh)
 <!-- BLOG-POST-LIST:END -->
 
