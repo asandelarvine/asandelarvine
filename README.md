@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Scync: Why I made a Zero-Knowledge Secrets Manager for us, Developers.](https://dev.to/hariharen/building-scync-why-i-wrote-a-zero-knowledge-secrets-manager-for-us-developers-15kc)
-- [The idea that AI will replace junior engineers misses the point](https://dev.to/liatmoss/why-your-junior-engineers-are-not-going-anywhere-34fp)
-- [Go 1.22 using Vite 5: The Performance Battle scalability for Teams](https://dev.to/johalputt/go-122-using-vite-5-the-performance-battle-scalability-for-teams-3ppi)
-- [Just Launched Free Signature Generator - Codex+Vercel &lpar;in 1.5 hours&rpar;](https://dev.to/furkanmersinli/just-launched-free-signature-generator-codexvercel-in-15-hours-4obh)
+- [I Built an Open-Source AWS Resource Browser Because I Was Tired of Running CLI Commands](https://dev.to/davireisvieira/i-built-an-open-source-aws-resource-browser-because-i-was-tired-of-running-cli-commands-476k)
+- [How to No-Code vs Notion: Lessons Learned](https://dev.to/johalputt/how-to-no-code-vs-notion-lessons-learned-2f0o)
+- [Shopify Speed Optimization with Liquid Code &lpar;5 Patterns&rpar;](https://dev.to/mdkaspianfuad/shopify-speed-optimization-with-liquid-code-5-patterns-2b29)
+- [Terraform Outputs on GCP: Querying Useful Data from a VPC, Subnet, and VM](https://dev.to/abrahamparn/terraform-outputs-on-gcp-querying-useful-data-from-a-vpc-subnet-and-vm-3nek)
 <!-- BLOG-POST-LIST:END -->
 
