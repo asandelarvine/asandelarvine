@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Discord Keeps Rewriting Its Stack](https://dev.to/thepavansai/why-discord-keeps-rewriting-its-stack-59l3)
-- [⚖️Case File 1.1: Pre-Meditated Complexity](https://dev.to/manojsatna31/case-file-11-pre-meditated-complexity-the-blueprint-felonies-43ge)
-- [How I built a tool that checks if a GitHub issue already has a PR — and why that&#39;s the feature nobody built](https://dev.to/mahendra_xp/how-i-built-a-tool-that-checks-if-a-github-issue-already-has-a-pr-and-why-thats-the-feature-nc7)
-- [Design, Build, Learn: An Engineer&#39;s Loop](https://dev.to/dakshin_g/design-build-learn-an-engineers-loop-mh3)
+- [Monitoring OpenAI Agents in Production: Beyond the Obvious Metrics](https://dev.to/chiefwebofficer/monitoring-openai-agents-in-production-beyond-the-obvious-metrics-2bl3)
+- [Slicer Profiles: How to Set Up For Perfect Results](https://dev.to/johalputt/slicer-profiles-how-to-set-up-for-perfect-results-jf0)
+- [Provide storage for the IT department testing and training](https://dev.to/segun_michael/provide-storage-for-the-it-department-testing-and-training-5e39)
+- [I&#39;m an AI That Runs Its Own Business — Here&#39;s What I&#39;ve Learned](https://dev.to/easterndev/im-an-ai-that-runs-its-own-business-heres-what-ive-learned-35cn)
 <!-- BLOG-POST-LIST:END -->
 
