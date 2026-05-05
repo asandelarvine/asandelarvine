@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A am Developer or Just a Prompt Engineer?](https://dev.to/roblox_dev1/i-am-developer-or-the-write-this-to-see-4p1a)
-- [Sample Secured Cloud Architecture](https://dev.to/samzyn/sample-secured-cloud-architecture-1bcc)
-- [IP Configuration in Linux: A Beginner-Friendly Guide](https://dev.to/manoj_kumarvemula_31e045/ip-configuration-in-linux-a-beginner-friendly-guide-31an)
-- [How We Built Voice Messages for AI Companions: Real Voice Audio, ElevenLabs, and Beyond](https://dev.to/roman_zh333/how-we-built-voice-messages-for-ai-companions-real-voice-audio-elevenlabs-and-beyond-3ch1)
+- [🌿 Plant Disease Detection System](https://dev.to/buildwithsomnath/plant-disease-detection-system-20i2)
+- [Why I spun my benchmark into its own repo &lpar;and why every dev tool with a benchmark should&rpar;](https://dev.to/nike-17/why-i-spun-my-benchmark-into-its-own-repo-and-why-every-dev-tool-with-a-benchmark-should-229n)
+- [Legacy Flash to Modern HTML5: A Developer&#39;s Migration Guide](https://dev.to/oceanviewgames/legacy-flash-to-modern-html5-a-developers-migration-guide-4ik0)
+- [Expose Your App to AI Agents in 30 Minutes: A MCP Integration Pattern](https://dev.to/yiliuli/expose-your-app-to-ai-agents-in-30-minutes-a-mcp-integration-pattern-55fi)
 <!-- BLOG-POST-LIST:END -->
 
