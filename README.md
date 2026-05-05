@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌿 Plant Disease Detection System](https://dev.to/buildwithsomnath/plant-disease-detection-system-20i2)
-- [Why I spun my benchmark into its own repo &lpar;and why every dev tool with a benchmark should&rpar;](https://dev.to/nike-17/why-i-spun-my-benchmark-into-its-own-repo-and-why-every-dev-tool-with-a-benchmark-should-229n)
-- [Legacy Flash to Modern HTML5: A Developer&#39;s Migration Guide](https://dev.to/oceanviewgames/legacy-flash-to-modern-html5-a-developers-migration-guide-4ik0)
-- [Expose Your App to AI Agents in 30 Minutes: A MCP Integration Pattern](https://dev.to/yiliuli/expose-your-app-to-ai-agents-in-30-minutes-a-mcp-integration-pattern-55fi)
+- [Exit Code 2: How Claude Hooks Turn Agentic Rules Into Runtime Barriers](https://dev.to/anthony_etherealogic/exit-code-2-how-claude-hooks-turn-agentic-rules-into-runtime-barriers-40n6)
+- [Claude Code Integration, Token Burn Analysis &amp; Qwen2-VL Fine-tuning Insights](https://dev.to/soytuber/claude-code-integration-token-burn-analysis-qwen2-vl-fine-tuning-insights-19bf)
+- [50% Compliance, Not 0%: How a Logging Spike Almost Triggered the Wrong Architecture Rewrite](https://dev.to/francise_liang_e4544eadb9/50-compliance-not-0-how-a-logging-spike-almost-triggered-the-wrong-architecture-rewrite-1lna)
+- [Distancia en una Esfera](https://dev.to/denelesan/distancia-en-una-esfera-34)
 <!-- BLOG-POST-LIST:END -->
 
