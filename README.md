@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Agent Registry: a private catalog to stop agent sprawl](https://dev.to/aws-builders/aws-agent-registry-a-private-catalog-to-stop-agent-sprawl-c91)
-- [AI-Assisted Product Engineering: Orchestrating Claude Code Across the Software Development Lifecycle](https://dev.to/pixari/ai-assisted-product-engineering-orchestrating-claude-code-across-the-software-development-lifecycle-1k59)
-- [My site went down for a few hours yesterday and my users knew before me](https://dev.to/bashsnippets/my-site-went-down-for-a-few-hours-yesterday-and-my-users-knew-before-me-1of6)
-- [PortFlow: Bridging Laravel with Serial Hardware, IoT Sensors &amp; Thermal Printers](https://dev.to/hamdyelbatal122/portflow-bridging-laravel-with-the-physical-world-serial-hardware-iot-sensors-thermal-printers-46f8)
+- [Why Discord Keeps Rewriting Its Stack](https://dev.to/thepavansai/why-discord-keeps-rewriting-its-stack-59l3)
+- [⚖️Case File 1.1: Pre-Meditated Complexity](https://dev.to/manojsatna31/case-file-11-pre-meditated-complexity-the-blueprint-felonies-43ge)
+- [How I built a tool that checks if a GitHub issue already has a PR — and why that&#39;s the feature nobody built](https://dev.to/mahendra_xp/how-i-built-a-tool-that-checks-if-a-github-issue-already-has-a-pr-and-why-thats-the-feature-nc7)
+- [Design, Build, Learn: An Engineer&#39;s Loop](https://dev.to/dakshin_g/design-build-learn-an-engineers-loop-mh3)
 <!-- BLOG-POST-LIST:END -->
 
