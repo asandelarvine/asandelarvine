@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JPA: The Good, The Bad, and The Ugly](https://dev.to/stephenflavin/jpa-the-good-the-bad-and-the-ugly-5e9m)
-- [Your Agent Just Handled That SEV2. Now What?](https://dev.to/niketasharma/your-agent-just-handled-that-sev2-now-what-17kc)
-- [How to Actually Set Up the Gluetun VPN Killswitch](https://dev.to/gab_builds/how-to-actually-set-up-the-gluetun-vpn-killswitch-49j6)
-- [🚨 The &quot;Lazy&quot; Developer&#39;s Guide to Actually Learning Tech &lpar;And Escaping Tutorial Hell&rpar;](https://dev.to/stackbyujjwal/the-lazy-developers-guide-to-actually-learning-tech-and-escaping-tutorial-hell-hb3)
+- [Setting up Archipelago used to take an hour. Now it&#39;s three clicks.](https://dev.to/mathisbls/setting-up-archipelago-used-to-take-an-hour-now-its-three-clicks-395)
+- [Stop Writing Code. Start Managing Agents. &lpar;A VSCode vs. Antigravity Story&rpar;](https://dev.to/sreeraj_sreenivasan_2b932/stop-writing-code-start-managing-agents-a-vscode-vs-antigravity-story-5350)
+- [Mac-Only? Just Fork It](https://dev.to/thisisryanswift/mac-only-just-fork-it-57ka)
+- [I built Alpha-XMD: a free, open-source WhatsApp bot with 200+ commands, Shazam, and AI chat](https://dev.to/alexio1109/i-built-alpha-xmd-a-free-open-source-whatsapp-bot-with-200-commands-shazam-and-ai-chat-5dal)
 <!-- BLOG-POST-LIST:END -->
 
