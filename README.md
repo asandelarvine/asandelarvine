@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WebLLM Works in Dev But Fails on Vercel: The CSP Directive You&#39;re Missing](https://dev.to/refactory/webllm-works-in-dev-but-fails-on-vercel-the-csp-directive-youre-missing-27dd)
-- [I built a cold email AI agent for freelance devs in 8 hours — here&#39;s what I learned](https://dev.to/xavier_lai_dff17829e111f3/i-built-a-cold-email-ai-agent-for-freelance-devs-in-8-hours-heres-what-i-learned-g8j)
-- [We Were Reimaging Laptops the Hard Way for 3 Years. I Fixed It in an Afternoon.](https://dev.to/rogercastro/we-were-reimaging-laptops-the-hard-way-for-3-years-i-fixed-it-in-an-afternoon-2fn9)
-- [I Built a Flask Dashboard That Aggregates 60+ Indie Hacker Assets](https://dev.to/snake_sun/i-built-a-flask-dashboard-that-aggregates-60-indie-hacker-assets-3g2o)
+- [Introducing React Dojo - Learn React by Actually Practicing It](https://dev.to/dayanperez/introducing-react-dojo-learn-react-by-actually-practicing-it-4jp5)
+- [Predetermined change-control plans for AI/ML SaMD — how to make them audit-proof](https://dev.to/jwithfield_qa/predetermined-change-control-plans-for-aiml-samd-how-to-make-them-audit-proof-hmm)
+- [Gazing at a Crystal Ball](https://dev.to/ilyakaznacheev/gazing-at-a-crystal-ball-na8)
+- [Anthropic strikes compute deal with SpaceX — what it means for the future of AI](https://dev.to/mcrolly/anthropic-strikes-compute-deal-with-spacex-what-it-means-for-the-future-of-ai-1moj)
 <!-- BLOG-POST-LIST:END -->
 
