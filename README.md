@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing React Dojo - Learn React by Actually Practicing It](https://dev.to/dayanperez/introducing-react-dojo-learn-react-by-actually-practicing-it-4jp5)
-- [Predetermined change-control plans for AI/ML SaMD — how to make them audit-proof](https://dev.to/jwithfield_qa/predetermined-change-control-plans-for-aiml-samd-how-to-make-them-audit-proof-hmm)
-- [Gazing at a Crystal Ball](https://dev.to/ilyakaznacheev/gazing-at-a-crystal-ball-na8)
-- [Anthropic strikes compute deal with SpaceX — what it means for the future of AI](https://dev.to/mcrolly/anthropic-strikes-compute-deal-with-spacex-what-it-means-for-the-future-of-ai-1moj)
+- [JPA: The Good, The Bad, and The Ugly](https://dev.to/stephenflavin/jpa-the-good-the-bad-and-the-ugly-5e9m)
+- [Your Agent Just Handled That SEV2. Now What?](https://dev.to/niketasharma/your-agent-just-handled-that-sev2-now-what-17kc)
+- [How to Actually Set Up the Gluetun VPN Killswitch](https://dev.to/gab_builds/how-to-actually-set-up-the-gluetun-vpn-killswitch-49j6)
+- [🚨 The &quot;Lazy&quot; Developer&#39;s Guide to Actually Learning Tech &lpar;And Escaping Tutorial Hell&rpar;](https://dev.to/stackbyujjwal/the-lazy-developers-guide-to-actually-learning-tech-and-escaping-tutorial-hell-hb3)
 <!-- BLOG-POST-LIST:END -->
 
