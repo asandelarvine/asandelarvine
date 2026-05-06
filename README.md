@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Let AI Run My Code Reviews for 30 Days - The Results Shocked Me](https://dev.to/hopkins_jesse_cdb68cfa22c/i-let-ai-run-my-code-reviews-for-30-days-the-results-shocked-me-2575)
-- [Desconstruyendo el Stack de Medios de TikTok: Cómo construir un motor de extracción de alto rendimiento y sin marcas de agua](https://dev.to/yqqwe/desconstruyendo-el-stack-de-medios-de-tiktok-como-construir-un-motor-de-extraccion-de-alto-5hmn)
-- [Analyse du Stack Média de TikTok : Construire un moteur d&#39;extraction haute performance sans watermark](https://dev.to/yqqwe/analyse-du-stack-media-de-tiktok-construire-un-moteur-dextraction-haute-performance-sans-325a)
-- [Beyond the Textbook: Three Months Modelling Drug Interactions for GoDavaii&#39;s AI](https://dev.to/godavaii/beyond-the-textbook-three-months-modelling-drug-interactions-for-godavaiis-ai-lk1)
+- [Stop Using Spark for Your Small Data - Why Azure Functions is the Right Tool for the Job](https://dev.to/luca1iu/stop-using-spark-for-your-small-data-why-azure-functions-is-the-right-tool-for-the-job-4j66)
+- [Data Analyst: Does Your Work Actually Matter?](https://dev.to/luca1iu/data-analyst-does-your-work-actually-matter-3in2)
+- [Shadcn Form Builder Is Live: Build React Forms Using AI Prompts](https://dev.to/shadcnspace/shadcn-form-builder-is-live-build-react-forms-using-ai-prompts-4ge8)
+- [Advanced Navigation in Flutter Web: A Deep Dive with Go Router](https://dev.to/hraj_07/advanced-navigation-in-flutter-web-a-deep-dive-with-go-router-1eg0)
 <!-- BLOG-POST-LIST:END -->
 
