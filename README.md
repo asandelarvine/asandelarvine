@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Which No-Code Database Review](https://dev.to/johalputt/the-ultimate-which-no-code-database-review-1bfg)
-- [Best Snyk Alternatives in 2026: Which AppSec Tool Should You Choose?](https://dev.to/alexcybersmith/best-snyk-alternatives-in-2026-which-appsec-tool-should-you-choose-4899)
-- [JS async and await](https://dev.to/nanthini_ammu_ac02ad32802/js-async-and-await-283n)
-- [Ten Reddit Threads Showing What AI-Agent Builders Are Actually Wrestling With This Week](https://dev.to/jesse_whitney_5128e82263a/ten-reddit-threads-showing-what-ai-agent-builders-are-actually-wrestling-with-this-week-5fmm)
+- [Most 1:1s Are Career Drift Meetings](https://dev.to/jonoherrington/most-11s-are-career-drift-meetings-oai)
+- [Run read it. Gavin has outdone himself this time!!!](https://dev.to/elenchen/run-read-it-gavin-has-outdone-himself-this-time-4jca)
+- [Introducing SecureLint: Real-Time API Key &amp; Secret Detection for Developers](https://dev.to/vaptlabz/introducing-securelint-real-time-api-key-secret-detection-for-developers-2kli)
+- [The EU AI Act classified a TypeScript data serialisation library as High Risk. Here is what happened.](https://dev.to/intentguard_ole/the-eu-ai-act-classified-a-typescript-data-serialisation-library-as-high-risk-here-is-what-kke)
 <!-- BLOG-POST-LIST:END -->
 
