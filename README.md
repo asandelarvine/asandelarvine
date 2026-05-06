@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using Spark for Your Small Data - Why Azure Functions is the Right Tool for the Job](https://dev.to/luca1iu/stop-using-spark-for-your-small-data-why-azure-functions-is-the-right-tool-for-the-job-4j66)
-- [Data Analyst: Does Your Work Actually Matter?](https://dev.to/luca1iu/data-analyst-does-your-work-actually-matter-3in2)
-- [Shadcn Form Builder Is Live: Build React Forms Using AI Prompts](https://dev.to/shadcnspace/shadcn-form-builder-is-live-build-react-forms-using-ai-prompts-4ge8)
-- [Advanced Navigation in Flutter Web: A Deep Dive with Go Router](https://dev.to/hraj_07/advanced-navigation-in-flutter-web-a-deep-dive-with-go-router-1eg0)
+- [The Ultimate Which No-Code Database Review](https://dev.to/johalputt/the-ultimate-which-no-code-database-review-1bfg)
+- [Best Snyk Alternatives in 2026: Which AppSec Tool Should You Choose?](https://dev.to/alexcybersmith/best-snyk-alternatives-in-2026-which-appsec-tool-should-you-choose-4899)
+- [JS async and await](https://dev.to/nanthini_ammu_ac02ad32802/js-async-and-await-283n)
+- [Ten Reddit Threads Showing What AI-Agent Builders Are Actually Wrestling With This Week](https://dev.to/jesse_whitney_5128e82263a/ten-reddit-threads-showing-what-ai-agent-builders-are-actually-wrestling-with-this-week-5fmm)
 <!-- BLOG-POST-LIST:END -->
 
