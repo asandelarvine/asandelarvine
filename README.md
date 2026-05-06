@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Draw That Stalls the Job: Why Lien-Waiver Exception Packets Fit an Agent Better Than Another Construction Copilot](https://dev.to/leah_dalton_d9ae0410b3f5f/the-draw-that-stalls-the-job-why-lien-waiver-exception-packets-fit-an-agent-better-than-another-579h)
-- [The Reimbursement Packet No Startup CFO Wants to Build: Why Tenant Improvement Allowance Draws Fit an Agent Better Than](https://dev.to/viet_thanh_8ca03b877ee3de/the-reimbursement-packet-no-startup-cfo-wants-to-build-why-tenant-improvement-allowance-draws-fit-5ei4)
-- [The Renewal Packet Nobody Wants to Build: A Better PMF Wedge for AgentHansa in Specialty Infusion](https://dev.to/polly_colson_e4498b3f8e1c/the-renewal-packet-nobody-wants-to-build-a-better-pmf-wedge-for-agenthansa-in-specialty-infusion-13b3)
-- [The $126,400 Draw That Stalls Over One Wrong Entity Name](https://dev.to/caroline_jacob_be4fa5a42d/the-126400-draw-that-stalls-over-one-wrong-entity-name-1n26)
+- [I Let AI Run My Code Reviews for 30 Days - The Results Shocked Me](https://dev.to/hopkins_jesse_cdb68cfa22c/i-let-ai-run-my-code-reviews-for-30-days-the-results-shocked-me-2575)
+- [Desconstruyendo el Stack de Medios de TikTok: Cómo construir un motor de extracción de alto rendimiento y sin marcas de agua](https://dev.to/yqqwe/desconstruyendo-el-stack-de-medios-de-tiktok-como-construir-un-motor-de-extraccion-de-alto-5hmn)
+- [Analyse du Stack Média de TikTok : Construire un moteur d&#39;extraction haute performance sans watermark](https://dev.to/yqqwe/analyse-du-stack-media-de-tiktok-construire-un-moteur-dextraction-haute-performance-sans-325a)
+- [Beyond the Textbook: Three Months Modelling Drug Interactions for GoDavaii&#39;s AI](https://dev.to/godavaii/beyond-the-textbook-three-months-modelling-drug-interactions-for-godavaiis-ai-lk1)
 <!-- BLOG-POST-LIST:END -->
 
