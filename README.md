@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Most 1:1s Are Career Drift Meetings](https://dev.to/jonoherrington/most-11s-are-career-drift-meetings-oai)
-- [Run read it. Gavin has outdone himself this time!!!](https://dev.to/elenchen/run-read-it-gavin-has-outdone-himself-this-time-4jca)
-- [Introducing SecureLint: Real-Time API Key &amp; Secret Detection for Developers](https://dev.to/vaptlabz/introducing-securelint-real-time-api-key-secret-detection-for-developers-2kli)
-- [The EU AI Act classified a TypeScript data serialisation library as High Risk. Here is what happened.](https://dev.to/intentguard_ole/the-eu-ai-act-classified-a-typescript-data-serialisation-library-as-high-risk-here-is-what-kke)
+- [Stop Letting AI Write Your Database Migrations](https://dev.to/syedahmershah/stop-letting-ai-write-your-database-migrations-2a26)
+- [ChaoSim – A hiring sim for devs who hate LeetCode and resumes](https://dev.to/khadijat_raji_692606b4642/chaosim-a-hiring-sim-for-devs-who-hate-leetcode-and-resumes-5ei)
+- [Async Rust Never Left MVP: I Validated It Against My Real Codebase and Found Exactly the Edge Cases That HN Post Predicted](https://dev.to/jtorchia/async-rust-never-left-mvp-i-validated-it-against-my-real-codebase-and-found-exactly-the-edge-cases-2dod)
+- [Async Rust nunca salió del MVP: lo validé contra mi codebase real y encontré exactamente los edge cases que el post de HN predice](https://dev.to/jtorchia/async-rust-nunca-salio-del-mvp-lo-valide-contra-mi-codebase-real-y-encontre-exactamente-los-edge-1109)
 <!-- BLOG-POST-LIST:END -->
 
