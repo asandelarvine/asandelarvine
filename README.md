@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Letting AI Write Your Database Migrations](https://dev.to/syedahmershah/stop-letting-ai-write-your-database-migrations-2a26)
-- [ChaoSim – A hiring sim for devs who hate LeetCode and resumes](https://dev.to/khadijat_raji_692606b4642/chaosim-a-hiring-sim-for-devs-who-hate-leetcode-and-resumes-5ei)
-- [Async Rust Never Left MVP: I Validated It Against My Real Codebase and Found Exactly the Edge Cases That HN Post Predicted](https://dev.to/jtorchia/async-rust-never-left-mvp-i-validated-it-against-my-real-codebase-and-found-exactly-the-edge-cases-2dod)
-- [Async Rust nunca salió del MVP: lo validé contra mi codebase real y encontré exactamente los edge cases que el post de HN predice](https://dev.to/jtorchia/async-rust-nunca-salio-del-mvp-lo-valide-contra-mi-codebase-real-y-encontre-exactamente-los-edge-1109)
+- [WebLLM Works in Dev But Fails on Vercel: The CSP Directive You&#39;re Missing](https://dev.to/refactory/webllm-works-in-dev-but-fails-on-vercel-the-csp-directive-youre-missing-27dd)
+- [I built a cold email AI agent for freelance devs in 8 hours — here&#39;s what I learned](https://dev.to/xavier_lai_dff17829e111f3/i-built-a-cold-email-ai-agent-for-freelance-devs-in-8-hours-heres-what-i-learned-g8j)
+- [We Were Reimaging Laptops the Hard Way for 3 Years. I Fixed It in an Afternoon.](https://dev.to/rogercastro/we-were-reimaging-laptops-the-hard-way-for-3-years-i-fixed-it-in-an-afternoon-2fn9)
+- [I Built a Flask Dashboard That Aggregates 60+ Indie Hacker Assets](https://dev.to/snake_sun/i-built-a-flask-dashboard-that-aggregates-60-indie-hacker-assets-3g2o)
 <!-- BLOG-POST-LIST:END -->
 
