@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The State of MCP Monetization in 2026: Where Builders Actually Get Paid](https://dev.to/kirothebot/the-state-of-mcp-monetization-in-2026-where-builders-actually-get-paid-34k9)
-- [Great](https://dev.to/muntazim_husain_5037c7336/-33op)
-- [Hexagonal Architecture &lpar;Ports and Adapters&rpar;](https://dev.to/godofgeeks/hexagonal-architecture-ports-and-adapters-3ljb)
-- [JWT for Beginners, Plus Where to Store It Safely](https://dev.to/edriso/jwt-for-beginners-plus-where-to-store-it-safely-2ef6)
+- [Maybe I Should Just Be a 404 Page](https://dev.to/ggle_in/maybe-i-should-just-be-a-404-page-2ehi)
+- [LLM Routing: How to cut AI Infrastructure costs by 70% Without losing quality](https://dev.to/neilton_rocha_dev/llm-routing-how-to-cut-ai-infrastructure-costs-by-70-without-losing-quality-3d0m)
+- [Beyond Monitoring: Building AI-Powered Predictive Observability for Retail Data Pipelines published](https://dev.to/amaranarun/beyond-monitoring-building-ai-powered-predictive-observability-for-retail-data-pipelines-published-g43)
+- [Optimize benchmark in Next.js 15 vs Astro 4: What You Need to Know](https://dev.to/johalputt/optimize-benchmark-in-nextjs-15-vs-astro-4-what-you-need-to-know-4o1k)
 <!-- BLOG-POST-LIST:END -->
 
