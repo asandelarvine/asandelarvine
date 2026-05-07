@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Blockchain Can&#39;t Tell What&#39;s an AI](https://dev.to/0xdevc/your-blockchain-cant-tell-whats-an-ai-11o4)
-- [Hardening Your npm CI in 5 Concrete Layers](https://dev.to/shipwithaiio/hardening-your-npm-ci-in-5-concrete-layers-309f)
-- [Elasticsearch &amp; Inverted Indices — The Death of SQL ILIKE &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/elasticsearch-inverted-indices-the-death-of-sql-ilike-2026-49ia)
-- [Pay.sh pays for an API call. Hashlock settles a trade. Know the difference.](https://dev.to/barissozen/paysh-pays-for-an-api-call-hashlock-settles-a-trade-know-the-difference-g5m)
+- [Managed Iceberg Data Lakes: A Guide](https://dev.to/jonisar/managed-iceberg-data-lakes-a-guide-3hk7)
+- [5 CLI Tools I Use to Keep Terminal Workflows Less Annoying](https://dev.to/architeg/5-cli-tools-i-use-to-keep-terminal-workflows-less-annoying-3c3n)
+- [I Built a Free Spanish Math Calculator That Shows Every Step](https://dev.to/faseeh_urrehman_ec82cc2f/i-built-a-free-spanish-math-calculator-that-shows-every-step-2j6b)
+- [How I Train My Linux Brain Daily](https://dev.to/pawan_natekar_8b1ab344624/how-i-train-my-linux-brain-daily-18a8)
 <!-- BLOG-POST-LIST:END -->
 
