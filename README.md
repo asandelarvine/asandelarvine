@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Process That Brought Camera vs Substack: What You Need to Know](https://dev.to/johalputt/process-that-brought-camera-vs-substack-what-you-need-to-know-3p24)
-- [The 30-Minute Kickoff Meeting That Prevents 90% of Agency Client Problems](https://dev.to/lisasakura/the-30-minute-kickoff-meeting-that-prevents-90-of-agency-client-problems-362e)
-- [A Day in the Life of a Local First Developer](https://dev.to/iceburgcrm/a-day-in-the-life-of-a-local-first-developer-41oc)
-- [PHP Enum Methods to TypeScript: Why Discriminated Unions + namespace Beats class enums](https://dev.to/gabrielanhaia/php-enum-methods-to-typescript-why-discriminated-unions-namespace-beats-class-enums-1dp0)
+- [The 800ms Barrier: Architecting Interruptible Voice Agents &lpar;Lessons from Sarvam AI x Swiggy&rpar;](https://dev.to/kowshik_jallipalli_a7e0a5/the-800ms-barrier-architecting-interruptible-voice-agents-lessons-from-sarvam-ai-x-swiggy-4kfn)
+- [NFS vs Parallel File Systems in HPC: How to Choose the Right Storage Architecture](https://dev.to/zubairakbar/nfs-vs-parallel-file-systems-in-hpc-how-to-choose-the-right-storage-architecture-4dfn)
+- [I built an Open-Source Flight/Travel Booking Template using React &amp; Firebase](https://dev.to/amiiirafshaaar/i-built-an-open-source-flighttravel-booking-template-using-react-firebase-2lce)
+- [Useful Linux Commands Every System Administrator Should Know](https://dev.to/setu102/useful-linux-commands-every-system-administrator-should-know-3141)
 <!-- BLOG-POST-LIST:END -->
 
