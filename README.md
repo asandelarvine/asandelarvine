@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Code Review Keeps Flagging the Wrong Things &lpar;and How to Fix It&rpar;](https://dev.to/martinlepage26bit/why-ai-code-review-keeps-flagging-the-wrong-things-and-how-to-fix-it-4j2e)
-- [Writing Custom SAST Rules for Vulnerabilities Your Scanner Doesn&#39;t Cover](https://dev.to/pgmpofu/writing-custom-sast-rules-for-vulnerabilities-your-scanner-doesnt-cover-5hhi)
-- [I Replaced My $500 GPU with a $75 Raspberry Pi: How Gemma 4 Makes Computer Vision 10x Cheaper](https://dev.to/tahosin/i-replaced-my-500-gpu-with-a-75-raspberry-pi-how-gemma-4-makes-computer-vision-10x-cheaper-1gbo)
-- [Embed These Websites In Your Blog Today](https://dev.to/aws/embed-these-websites-in-your-blog-today-286p)
+- [Process That Brought Camera vs Substack: What You Need to Know](https://dev.to/johalputt/process-that-brought-camera-vs-substack-what-you-need-to-know-3p24)
+- [The 30-Minute Kickoff Meeting That Prevents 90% of Agency Client Problems](https://dev.to/lisasakura/the-30-minute-kickoff-meeting-that-prevents-90-of-agency-client-problems-362e)
+- [A Day in the Life of a Local First Developer](https://dev.to/iceburgcrm/a-day-in-the-life-of-a-local-first-developer-41oc)
+- [PHP Enum Methods to TypeScript: Why Discriminated Unions + namespace Beats class enums](https://dev.to/gabrielanhaia/php-enum-methods-to-typescript-why-discriminated-unions-namespace-beats-class-enums-1dp0)
 <!-- BLOG-POST-LIST:END -->
 
