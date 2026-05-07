@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 800ms Barrier: Architecting Interruptible Voice Agents &lpar;Lessons from Sarvam AI x Swiggy&rpar;](https://dev.to/kowshik_jallipalli_a7e0a5/the-800ms-barrier-architecting-interruptible-voice-agents-lessons-from-sarvam-ai-x-swiggy-4kfn)
-- [NFS vs Parallel File Systems in HPC: How to Choose the Right Storage Architecture](https://dev.to/zubairakbar/nfs-vs-parallel-file-systems-in-hpc-how-to-choose-the-right-storage-architecture-4dfn)
-- [I built an Open-Source Flight/Travel Booking Template using React &amp; Firebase](https://dev.to/amiiirafshaaar/i-built-an-open-source-flighttravel-booking-template-using-react-firebase-2lce)
-- [Useful Linux Commands Every System Administrator Should Know](https://dev.to/setu102/useful-linux-commands-every-system-administrator-should-know-3141)
+- [Why would an agent install your package?](https://dev.to/vystartasv/why-would-an-agent-install-your-package-32dj)
+- [NVIDIA B300 Blackwell Ultra: A Technical Deep Dive](https://dev.to/digitalocean/nvidia-b300-blackwell-ultra-a-technical-deep-dive-5c6i)
+- [Thursday Thought: Chat is the New Source Code](https://dev.to/carryologist/thursday-thought-chat-is-the-new-source-code-4eie)
+- [Your AI Strategy Has a Blind Spot: An SEO and AEO Audit of vibescoder.dev](https://dev.to/carryologist/your-ai-strategy-has-a-blind-spot-an-seo-and-aeo-audit-of-vibescoderdev-379g)
 <!-- BLOG-POST-LIST:END -->
 
