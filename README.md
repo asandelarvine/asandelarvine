@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up Archipelago used to take an hour. Now it&#39;s three clicks.](https://dev.to/mathisbls/setting-up-archipelago-used-to-take-an-hour-now-its-three-clicks-395)
-- [Stop Writing Code. Start Managing Agents. &lpar;A VSCode vs. Antigravity Story&rpar;](https://dev.to/sreeraj_sreenivasan_2b932/stop-writing-code-start-managing-agents-a-vscode-vs-antigravity-story-5350)
-- [Mac-Only? Just Fork It](https://dev.to/thisisryanswift/mac-only-just-fork-it-57ka)
-- [I built Alpha-XMD: a free, open-source WhatsApp bot with 200+ commands, Shazam, and AI chat](https://dev.to/alexio1109/i-built-alpha-xmd-a-free-open-source-whatsapp-bot-with-200-commands-shazam-and-ai-chat-5dal)
+- [⚖️ Case File 1.2: The Irreversibility Trap](https://dev.to/manojsatna31/case-file-12-the-irreversibility-trap-blueprint-felonies-continued-49g7)
+- [Cloudflare and Stripe just let agents buy domains and ship code. Here is the API.](https://dev.to/thegdsks/cloudflare-and-stripe-just-let-agents-buy-domains-and-ship-code-here-is-the-api-59pb)
+- [From Passwords to Keypairs: Understanding Solana Identity as a Web2 Developer](https://dev.to/janespot/from-passwords-to-keypairs-understanding-solana-identity-as-a-web2-developer-3cl0)
+- [Building a FHIR-Compliant ADT Database: Encounters, Polymorphism, and Facades](https://dev.to/yusdirman/building-a-fhir-compliant-adt-database-encounters-polymorphism-and-facades-7n5)
 <!-- BLOG-POST-LIST:END -->
 
