@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⚖️ Case File 1.2: The Irreversibility Trap](https://dev.to/manojsatna31/case-file-12-the-irreversibility-trap-blueprint-felonies-continued-49g7)
-- [Cloudflare and Stripe just let agents buy domains and ship code. Here is the API.](https://dev.to/thegdsks/cloudflare-and-stripe-just-let-agents-buy-domains-and-ship-code-here-is-the-api-59pb)
-- [From Passwords to Keypairs: Understanding Solana Identity as a Web2 Developer](https://dev.to/janespot/from-passwords-to-keypairs-understanding-solana-identity-as-a-web2-developer-3cl0)
-- [Building a FHIR-Compliant ADT Database: Encounters, Polymorphism, and Facades](https://dev.to/yusdirman/building-a-fhir-compliant-adt-database-encounters-polymorphism-and-facades-7n5)
+- [Your Python Tool Needs Persistence - It Doesn&#39;t Need a Database Server](https://dev.to/devasservice/your-python-tool-needs-persistence-it-doesnt-need-a-database-server-47co)
+- [L&#39;IA m&#39;aide à mieux écrire parce que je lui interdis d&#39;écrire à ma place.](https://dev.to/agaches/lia-maide-a-mieux-ecrire-parce-que-je-lui-interdis-decrire-a-ma-place-255c)
+- [An agent can now buy a domain. The trust gap stopped being a slide.](https://dev.to/piiiico/an-agent-can-now-buy-a-domain-the-trust-gap-stopped-being-a-slide-532e)
+- [How I Monetized My Dev Tools and APIs in 2026 &lpar;And What Actually Worked&rpar;](https://dev.to/hopkins_jesse_cdb68cfa22c/how-i-monetized-my-dev-tools-and-apis-in-2026-and-what-actually-worked-j92)
 <!-- BLOG-POST-LIST:END -->
 
