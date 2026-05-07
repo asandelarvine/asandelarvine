@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Maybe I Should Just Be a 404 Page](https://dev.to/ggle_in/maybe-i-should-just-be-a-404-page-2ehi)
-- [LLM Routing: How to cut AI Infrastructure costs by 70% Without losing quality](https://dev.to/neilton_rocha_dev/llm-routing-how-to-cut-ai-infrastructure-costs-by-70-without-losing-quality-3d0m)
-- [Beyond Monitoring: Building AI-Powered Predictive Observability for Retail Data Pipelines published](https://dev.to/amaranarun/beyond-monitoring-building-ai-powered-predictive-observability-for-retail-data-pipelines-published-g43)
-- [Optimize benchmark in Next.js 15 vs Astro 4: What You Need to Know](https://dev.to/johalputt/optimize-benchmark-in-nextjs-15-vs-astro-4-what-you-need-to-know-4o1k)
+- [Your Blockchain Can&#39;t Tell What&#39;s an AI](https://dev.to/0xdevc/your-blockchain-cant-tell-whats-an-ai-11o4)
+- [Hardening Your npm CI in 5 Concrete Layers](https://dev.to/shipwithaiio/hardening-your-npm-ci-in-5-concrete-layers-309f)
+- [Elasticsearch &amp; Inverted Indices — The Death of SQL ILIKE &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/elasticsearch-inverted-indices-the-death-of-sql-ilike-2026-49ia)
+- [Pay.sh pays for an API call. Hashlock settles a trade. Know the difference.](https://dev.to/barissozen/paysh-pays-for-an-api-call-hashlock-settles-a-trade-know-the-difference-g5m)
 <!-- BLOG-POST-LIST:END -->
 
