@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Client Status Update System That Saves Agencies 3 Hours Every Week](https://dev.to/lisasakura/the-client-status-update-system-that-saves-agencies-3-hours-every-week-10id)
-- [How a Morse Code Message Hacked Grok: Lessons in AI Security for Developers](https://dev.to/alessandro_pignati/how-a-morse-code-message-hacked-grok-lessons-in-ai-security-for-developers-27n6)
-- [WebTransport en 2026: el reemplazo de WebSocket sobre HTTP/3](https://dev.to/lu1tr0n/webtransport-en-2026-el-reemplazo-de-websocket-sobre-http3-3fi2)
-- [AI Agents Have Two Souls. You Only Control One](https://dev.to/auth0/ai-agents-have-two-souls-you-only-control-one-3bm4)
+- [AI Trends 2026: A Mid-Year Reading From the Engine Room](https://dev.to/studiomeyer_io/ai-trends-2026-a-mid-year-reading-from-the-engine-room-4ma4)
+- [The Subsidy Era Is Over: A Reality Check on AI-Powered Dev Tool Pricing](https://dev.to/shrsv/the-subsidy-era-is-over-a-reality-check-on-ai-powered-dev-tool-pricing-51dn)
+- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-237h)
+- [How I built a Discord &#39;ship-tracker&#39; bot in a weekend &lpar;and the 3-process architecture that keeps it alive 24/7&rpar;](https://dev.to/chalom_ellezam_5989bce65e/how-i-built-a-discord-ship-tracker-bot-in-a-weekend-and-the-3-process-architecture-that-keeps-it-a71)
 <!-- BLOG-POST-LIST:END -->
 
