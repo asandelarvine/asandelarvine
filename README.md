@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [57. Decision Trees: The AI That Plays 20 Questions](https://dev.to/yakhilesh/57-decision-trees-the-ai-that-plays-20-questions-oi3)
-- [RAG Series &lpar;10&rpar;: Hybrid Search — Retrieving More, Missing Less](https://dev.to/wonderlab/rag-series-10-hybrid-search-retrieving-more-missing-less-dc7)
-- [Cuộc Chiến React State Management: Redux Có Đang Bị Zustand &#39;Hạ Bệ&#39;?](https://dev.to/itprepvn/cuoc-chien-react-state-management-redux-co-dang-bi-zustand-ha-be-dfd)
-- [Are you unable to start anything because of overthinking?](https://dev.to/rifat240510/are-you-unable-to-start-anything-because-of-overthinking-3mbp)
+- [The Parable of the Three Physician Brothers](https://dev.to/arezvov/the-parable-of-the-three-physician-brothers-4j8m)
+- [The Perfect CLAUDE.md: A Practical Specification for Agentic Coding Projects](https://dev.to/jasrandhawa/the-perfect-claudemd-a-practical-specification-for-agentic-coding-projects-5chd)
+- [Java Generics, Type Erasure, and a conceptual idea: reified generics as a first-class citizen?](https://dev.to/luidmidev/java-generics-type-erasure-and-a-conceptual-idea-reified-generics-as-a-first-class-citizen-1dm6)
+- [Hooks en Kiro: cómo automatizar tareas repetitivas con triggers inteligentes](https://dev.to/antitopy/hooks-en-kiro-como-automatizar-tareas-repetitivas-con-triggers-inteligentes-4cbm)
 <!-- BLOG-POST-LIST:END -->
 
