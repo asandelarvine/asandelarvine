@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your PDFs Never Leave Your Pocket: Building a 100% Offline RAG App with Gemma 4 + LiteRT-LM](https://dev.to/umarpazir11/your-pdfs-never-leave-your-pocket-building-a-100-offline-rag-app-with-gemma-4-litert-lm-340)
-- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-14oj)
-- [Anthropic prompt caching cut our RCA cost by 90%](https://dev.to/stella_lin_82914c71e25769/anthropic-prompt-caching-cut-our-rca-cost-by-90-5gmb)
-- [How to Secure an Ubuntu Linux Server for Production](https://dev.to/sovrab/how-to-secure-an-ubuntu-linux-server-for-production-1j3p)
+- [How to Build a $15K Web Design Agency Landing Page With Next.js and Formgrid](https://dev.to/allenarduino/how-to-build-a-15k-web-design-agency-landing-page-with-nextjs-and-formgrid-5291)
+- [The Hidden 43% — How Teams Are Wasting Almost Half Their LLM API Budget](https://dev.to/amedinat/the-hidden-43-how-teams-are-wasting-almost-half-their-llm-api-budget-32b5)
+- [Building a Multi-Agent Fleet with No Central Server](https://dev.to/asterview/building-a-multi-agent-fleet-with-no-central-server-12fp)
+- [Por Qué Fallan los Agentes de IA: 3 Modos de Fallo Que Cuestan Tokens y Tiempo](https://dev.to/aws-espanol/por-que-fallan-los-agentes-de-ia-3-modos-de-fallo-que-cuestan-tokens-y-tiempo-20b)
 <!-- BLOG-POST-LIST:END -->
 
