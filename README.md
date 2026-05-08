@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Internals: How LangChain 0.3 and Pinecone 2.0 Manage RAG Memory for 10k Documents](https://dev.to/johalputt/internals-how-langchain-03-and-pinecone-20-manage-rag-memory-for-10k-documents-2d18)
-- [Why comparing average scores is the wrong way to evaluate LLM prompts &lpar;and what to do instead&rpar;](https://dev.to/aayush_kumarsingh_6ee1ffe/why-comparing-average-scores-is-the-wrong-way-to-evaluate-llm-prompts-and-what-to-do-instead-1li)
-- [Building Coach Ivy: Embedding a Unity Avatar Inside a Flutter App](https://dev.to/likwifi/building-coach-ivy-embedding-a-unity-avatar-inside-a-flutter-app-4mpm)
-- [Dockerized Symfony 6.4 project boilerplate](https://dev.to/nicolasbonnici/dockerized-symfony-64-project-boilerplate-5059)
+- [Firebase for Startups: When to Switch to Enterprise Solutions](https://dev.to/horizondev/firebase-for-startups-when-to-switch-to-enterprise-solutions-30kn)
+- [My Engineering Portfolio is Live](https://dev.to/serial-commit-dev/my-engineering-portfolio-is-live-5d51)
+- [Clean Architecture in Flutter 2026 - Practical Implementation Guide](https://dev.to/techwithsam/clean-architecture-in-flutter-2026-practical-implementation-guide-1dfb)
+- [How I Built an Autonomous SRE &lpar;and made it into the OpenAI Cookbook!&rpar;](https://dev.to/aws-builders/how-i-built-an-autonomous-sre-and-made-it-into-the-openai-cookbook-1pn2)
 <!-- BLOG-POST-LIST:END -->
 
