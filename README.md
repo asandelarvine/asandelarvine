@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Parable of the Three Physician Brothers](https://dev.to/arezvov/the-parable-of-the-three-physician-brothers-4j8m)
-- [The Perfect CLAUDE.md: A Practical Specification for Agentic Coding Projects](https://dev.to/jasrandhawa/the-perfect-claudemd-a-practical-specification-for-agentic-coding-projects-5chd)
-- [Java Generics, Type Erasure, and a conceptual idea: reified generics as a first-class citizen?](https://dev.to/luidmidev/java-generics-type-erasure-and-a-conceptual-idea-reified-generics-as-a-first-class-citizen-1dm6)
-- [Hooks en Kiro: cómo automatizar tareas repetitivas con triggers inteligentes](https://dev.to/antitopy/hooks-en-kiro-como-automatizar-tareas-repetitivas-con-triggers-inteligentes-4cbm)
+- [Your AI coding agent gets worse as your codebase grows. Here&#39;s why.](https://dev.to/r-via/your-ai-coding-agent-gets-worse-as-your-codebase-grows-heres-why-53c0)
+- [🚀 My Journey: From Engineering Passion to Web Development and a Flexible Lifestyle](https://dev.to/miu_dev/my-journey-from-engineering-passion-to-web-development-and-a-flexible-lifestyle-2f74)
+- [A 100% local, offline AI desktop assistant built in Python. v1.2.0 brings SQLite memory migration, a custom Plugin Manager, and UI fixes for PyQt6. No cloud, no subscriptions.](https://dev.to/jaime_7997/a-100-local-offline-ai-desktop-assistant-built-in-python-v120-brings-sqlite-memory-migration-39n3)
+- [Claude as a CI Co-pilot: Debugging Apple Signing Hell So You Don&#39;t Have To](https://dev.to/toddsullivan/claude-as-a-ci-co-pilot-debugging-apple-signing-hell-so-you-dont-have-to-3ooi)
 <!-- BLOG-POST-LIST:END -->
 
