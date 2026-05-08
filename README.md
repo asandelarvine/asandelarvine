@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Proof-of-Commitment Internals: How the Scoring Algorithm Works](https://dev.to/piiiico/proof-of-commitment-internals-how-the-scoring-algorithm-works-27jm)
-- [AGENTS.md moved AI performance up a model tier. Package trust needs the same.](https://dev.to/piiiico/agentsmd-moved-ai-performance-up-a-model-tier-package-trust-needs-the-same-29lb)
-- [I built a Rust replacement for ccusage — 1,742x faster, near-zero overhead](https://dev.to/korjwl1/i-built-a-rust-replacement-for-ccusage-1742x-faster-near-zero-overhead-3c06)
-- [How to Schedule Python Scripts with Cron: A Beginner&#39;s Complete Guide](https://dev.to/german_yamil_e021eef8710d/how-to-schedule-python-scripts-with-cron-a-beginners-complete-guide-137p)
+- [The Client Status Update System That Saves Agencies 3 Hours Every Week](https://dev.to/lisasakura/the-client-status-update-system-that-saves-agencies-3-hours-every-week-10id)
+- [How a Morse Code Message Hacked Grok: Lessons in AI Security for Developers](https://dev.to/alessandro_pignati/how-a-morse-code-message-hacked-grok-lessons-in-ai-security-for-developers-27n6)
+- [WebTransport en 2026: el reemplazo de WebSocket sobre HTTP/3](https://dev.to/lu1tr0n/webtransport-en-2026-el-reemplazo-de-websocket-sobre-http3-3fi2)
+- [AI Agents Have Two Souls. You Only Control One](https://dev.to/auth0/ai-agents-have-two-souls-you-only-control-one-3bm4)
 <!-- BLOG-POST-LIST:END -->
 
