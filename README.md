@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Firebase for Startups: When to Switch to Enterprise Solutions](https://dev.to/horizondev/firebase-for-startups-when-to-switch-to-enterprise-solutions-30kn)
-- [My Engineering Portfolio is Live](https://dev.to/serial-commit-dev/my-engineering-portfolio-is-live-5d51)
-- [Clean Architecture in Flutter 2026 - Practical Implementation Guide](https://dev.to/techwithsam/clean-architecture-in-flutter-2026-practical-implementation-guide-1dfb)
-- [How I Built an Autonomous SRE &lpar;and made it into the OpenAI Cookbook!&rpar;](https://dev.to/aws-builders/how-i-built-an-autonomous-sre-and-made-it-into-the-openai-cookbook-1pn2)
+- [Proof-of-Commitment Internals: How the Scoring Algorithm Works](https://dev.to/piiiico/proof-of-commitment-internals-how-the-scoring-algorithm-works-27jm)
+- [AGENTS.md moved AI performance up a model tier. Package trust needs the same.](https://dev.to/piiiico/agentsmd-moved-ai-performance-up-a-model-tier-package-trust-needs-the-same-29lb)
+- [I built a Rust replacement for ccusage — 1,742x faster, near-zero overhead](https://dev.to/korjwl1/i-built-a-rust-replacement-for-ccusage-1742x-faster-near-zero-overhead-3c06)
+- [How to Schedule Python Scripts with Cron: A Beginner&#39;s Complete Guide](https://dev.to/german_yamil_e021eef8710d/how-to-schedule-python-scripts-with-cron-a-beginners-complete-guide-137p)
 <!-- BLOG-POST-LIST:END -->
 
