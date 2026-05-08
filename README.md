@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why would an agent install your package?](https://dev.to/vystartasv/why-would-an-agent-install-your-package-32dj)
-- [NVIDIA B300 Blackwell Ultra: A Technical Deep Dive](https://dev.to/digitalocean/nvidia-b300-blackwell-ultra-a-technical-deep-dive-5c6i)
-- [Thursday Thought: Chat is the New Source Code](https://dev.to/carryologist/thursday-thought-chat-is-the-new-source-code-4eie)
-- [Your AI Strategy Has a Blind Spot: An SEO and AEO Audit of vibescoder.dev](https://dev.to/carryologist/your-ai-strategy-has-a-blind-spot-an-seo-and-aeo-audit-of-vibescoderdev-379g)
+- [57. Decision Trees: The AI That Plays 20 Questions](https://dev.to/yakhilesh/57-decision-trees-the-ai-that-plays-20-questions-oi3)
+- [RAG Series &lpar;10&rpar;: Hybrid Search — Retrieving More, Missing Less](https://dev.to/wonderlab/rag-series-10-hybrid-search-retrieving-more-missing-less-dc7)
+- [Cuộc Chiến React State Management: Redux Có Đang Bị Zustand &#39;Hạ Bệ&#39;?](https://dev.to/itprepvn/cuoc-chien-react-state-management-redux-co-dang-bi-zustand-ha-be-dfd)
+- [Are you unable to start anything because of overthinking?](https://dev.to/rifat240510/are-you-unable-to-start-anything-because-of-overthinking-3mbp)
 <!-- BLOG-POST-LIST:END -->
 
