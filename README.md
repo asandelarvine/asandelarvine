@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Autonomous Job Search AI: Engineering Ethics Into Multi-Agent Systems](https://dev.to/elenarevicheva/autonomous-job-search-ai-engineering-ethics-into-multi-agent-systems-2f1p)
-- [Deploy a Real MCP Server in Two Minutes — Naftiko Shipyard on Cloudflare Containers](https://dev.to/kinlane/deploy-a-real-mcp-server-in-two-minutes-naftiko-shipyard-on-cloudflare-containers-32mo)
-- [Error Handling in Go: Stop Panicking, Start Wrapping](https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d)
-- [ProfitPulse ERP: An AI-Powered Business Intelligence App Built with Gemma 4 &amp; Flutter](https://dev.to/yiawakil_37_7772a17ade5a4/profitpulse-erp-an-ai-powered-business-intelligence-app-built-with-gemma-4-flutter-22n5)
+- [Your PDFs Never Leave Your Pocket: Building a 100% Offline RAG App with Gemma 4 + LiteRT-LM](https://dev.to/umarpazir11/your-pdfs-never-leave-your-pocket-building-a-100-offline-rag-app-with-gemma-4-litert-lm-340)
+- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-14oj)
+- [Anthropic prompt caching cut our RCA cost by 90%](https://dev.to/stella_lin_82914c71e25769/anthropic-prompt-caching-cut-our-rca-cost-by-90-5gmb)
+- [How to Secure an Ubuntu Linux Server for Production](https://dev.to/sovrab/how-to-secure-an-ubuntu-linux-server-for-production-1j3p)
 <!-- BLOG-POST-LIST:END -->
 
