@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI coding agent gets worse as your codebase grows. Here&#39;s why.](https://dev.to/r-via/your-ai-coding-agent-gets-worse-as-your-codebase-grows-heres-why-53c0)
-- [🚀 My Journey: From Engineering Passion to Web Development and a Flexible Lifestyle](https://dev.to/miu_dev/my-journey-from-engineering-passion-to-web-development-and-a-flexible-lifestyle-2f74)
-- [A 100% local, offline AI desktop assistant built in Python. v1.2.0 brings SQLite memory migration, a custom Plugin Manager, and UI fixes for PyQt6. No cloud, no subscriptions.](https://dev.to/jaime_7997/a-100-local-offline-ai-desktop-assistant-built-in-python-v120-brings-sqlite-memory-migration-39n3)
-- [Claude as a CI Co-pilot: Debugging Apple Signing Hell So You Don&#39;t Have To](https://dev.to/toddsullivan/claude-as-a-ci-co-pilot-debugging-apple-signing-hell-so-you-dont-have-to-3ooi)
+- [Internals: How LangChain 0.3 and Pinecone 2.0 Manage RAG Memory for 10k Documents](https://dev.to/johalputt/internals-how-langchain-03-and-pinecone-20-manage-rag-memory-for-10k-documents-2d18)
+- [Why comparing average scores is the wrong way to evaluate LLM prompts &lpar;and what to do instead&rpar;](https://dev.to/aayush_kumarsingh_6ee1ffe/why-comparing-average-scores-is-the-wrong-way-to-evaluate-llm-prompts-and-what-to-do-instead-1li)
+- [Building Coach Ivy: Embedding a Unity Avatar Inside a Flutter App](https://dev.to/likwifi/building-coach-ivy-embedding-a-unity-avatar-inside-a-flutter-app-4mpm)
+- [Dockerized Symfony 6.4 project boilerplate](https://dev.to/nicolasbonnici/dockerized-symfony-64-project-boilerplate-5059)
 <!-- BLOG-POST-LIST:END -->
 
