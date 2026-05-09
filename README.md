@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an MCP Server in Node.js &amp; TypeScript: A Practical HazelJS Tutorial](https://dev.to/arslan_mecom/build-an-mcp-server-in-nodejs-typescript-a-practical-hazeljs-tutorial-3n75)
-- [Building a Food Blog Platform with Django — Daily Dev Log](https://dev.to/cyberb0x/building-a-food-blog-platform-with-django-daily-dev-log-3n3)
-- [Automated SQL Migration Review with Real CLI Output &lpar;MySQL, PostgreSQL, TiDB&rpar;](https://dev.to/fanduzi/automated-sql-migration-review-with-real-cli-output-mysql-postgresql-tidb-17b5)
-- [I let my OpenAPI spec do the work: one contract for Go, Flutter, and the LLM](https://dev.to/tkode_dev/i-let-my-openapi-spec-do-the-work-one-contract-for-go-flutter-and-the-llm-c20)
+- [I audited 25 of my open-source repos. Stars lied.](https://dev.to/studiomeyer_io/i-audited-25-of-my-open-source-repos-stars-lied-2ak4)
+- [I Was Tired of Slow Online File Compressors, So I Built My Own](https://dev.to/nevyn_vaz_26/i-built-a-fast-browser-based-image-compressor-because-most-online-tools-felt-terrible-572d)
+- [Reference Architectures Are Lying to You](https://dev.to/itzdaninja/reference-architectures-are-lying-to-you-579n)
+- [RSC Is Not the Input Boundary](https://dev.to/lazarv/rsc-is-not-the-input-boundary-2aao)
 <!-- BLOG-POST-LIST:END -->
 
