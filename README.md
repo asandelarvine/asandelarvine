@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🛰 Mission Drishti 📡: How GalaxEye Built the World’s 🌏 First OptoSAR Imaging Satellite 🛰](https://dev.to/hemant_007/mission-drishti-how-galaxeye-built-the-worlds-first-optosar-imaging-satellite-4069)
-- [How I Built a Terraform Plan JSON Parser in Python](https://dev.to/sudarshan_thakur_1e141b99/how-i-built-a-terraform-plan-json-parser-in-python-gm)
-- [WebAssembly Is Making No-Login Browser Tools Better — Here&#39;s How](https://dev.to/nologintools/webassembly-is-making-no-login-browser-tools-better-heres-how-9mj)
-- [AI Soft Skills Every Developer Needs](https://dev.to/devk3/ai-soft-skills-every-developer-needs-3icl)
+- [Filling a maintainer&#39;s &quot;Help needed&quot;: shipping a Next.js 16 Redis cache handler](https://dev.to/_a9b502091e5f4cba28f13/filling-a-maintainers-help-needed-shipping-a-nextjs-16-redis-cache-handler-1dbe)
+- [We Do Not Teach Thinking to AI](https://dev.to/dechive/we-do-not-teach-thinking-to-ai-5d06)
+- [Claude Design vs. Open Design: A Realidade no Desenvolvimento Web](https://dev.to/kabrau/claude-design-vs-open-design-a-realidade-no-desenvolvimento-web-1bb9)
+- [How HPC Clusters Accelerate AI/ML Training](https://dev.to/zubairakbar/how-hpc-clusters-accelerate-aiml-training-15a2)
 <!-- BLOG-POST-LIST:END -->
 
