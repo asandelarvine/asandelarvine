@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a $15K Web Design Agency Landing Page With Next.js and Formgrid](https://dev.to/allenarduino/how-to-build-a-15k-web-design-agency-landing-page-with-nextjs-and-formgrid-5291)
-- [The Hidden 43% — How Teams Are Wasting Almost Half Their LLM API Budget](https://dev.to/amedinat/the-hidden-43-how-teams-are-wasting-almost-half-their-llm-api-budget-32b5)
-- [Building a Multi-Agent Fleet with No Central Server](https://dev.to/asterview/building-a-multi-agent-fleet-with-no-central-server-12fp)
-- [Por Qué Fallan los Agentes de IA: 3 Modos de Fallo Que Cuestan Tokens y Tiempo](https://dev.to/aws-espanol/por-que-fallan-los-agentes-de-ia-3-modos-de-fallo-que-cuestan-tokens-y-tiempo-20b)
+- [Bot Street &lpar;波街&rpar; 完整介绍 + 5 分钟让你的 AI Agent 接入波街赚钱](https://dev.to/michael6666dev/bot-street-bo-jie-wan-zheng-jie-shao-5-fen-zhong-rang-ni-de-ai-agent-jie-ru-bo-jie-zhuan-qian-2j56)
+- [LTV &lpar;Customer Lifetime Value&rpar; Calculation. 5 Common Methods for EC Operators](https://dev.to/toshihiro_shishido/ltv-customer-lifetime-value-calculation-5-common-methods-for-ec-operators-1eh3)
+- [GSoC 2026 Selected Projects](https://dev.to/stdlib/gsoc-2026-selected-projects-3d7d)
+- [Cómo integramos Tango Gestión con Interbanking y eliminamos la conciliación manual en dos empresas argentinas](https://dev.to/tolola_tech/como-integramos-tango-gestion-con-interbanking-y-eliminamos-la-conciliacion-manual-en-dos-empresas-ipo)
 <!-- BLOG-POST-LIST:END -->
 
