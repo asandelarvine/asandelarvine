@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My CI Runner Was Killed by My Own Script: The Dark Side of Cleanup](https://dev.to/merbayerp/my-ci-runner-was-killed-by-my-own-script-the-dark-side-of-cleanup-6o0)
-- [Why Solana Transactions Feel More Like Database Commits Than API Calls](https://dev.to/anika_jha_33ae1d9afc69178/why-solana-transactions-feel-more-like-database-commits-than-api-calls-4ign)
-- [Descomplicando o REST](https://dev.to/yuripeixinho/descomplicando-o-rest-5fb4)
-- [The Senior Multiplier](https://dev.to/jsolano/the-senior-multiplier-49h2)
+- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-28i3)
+- [Free Google Places API Alternative: 37 Business Categories, No API Key](https://dev.to/marketoracle/free-google-places-api-alternative-37-business-categories-no-api-key-2m9e)
+- [Apache NiFi a quick guide](https://dev.to/manojjagtap/apache-nifi-a-quick-guide-24p)
+- [Fast, Efficient, and Confidently Delivered — But Wrong](https://dev.to/dreiclabs/fast-efficient-and-confidently-delivered-but-wrong-1n58)
 <!-- BLOG-POST-LIST:END -->
 
