@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Nitro Enclave Gotcha That Cost Me 90 Minutes: vsock and a Port That Lied](https://dev.to/muhammad_ablugg_13b22884f/the-nitro-enclave-gotcha-that-cost-me-90-minutes-vsock-and-a-port-that-lied-106h)
-- [The End of an Internet Era: Ask.com Officially Shuts Down After Nearly 30 Years](https://dev.to/yasirawan4831/the-end-of-an-internet-era-askcom-officially-shuts-down-after-nearly-30-years-3b7c)
-- [Contributing to Magento 2 Open Source: Product Export from Admin Grid](https://dev.to/sanjeevkr/contributing-to-magento-2-open-source-product-export-from-admin-grid-29ip)
-- [How a $0.02/Call Model Scored 78.2% on SWE-bench Verified — Beating Every Model on the Leaderboard](https://dev.to/kyoma_1234/how-a-002call-model-scored-782-on-swe-bench-verified-beating-every-model-on-the-leaderboard-4bm3)
+- [Paint by hours, or how I solved for time tracking](https://dev.to/grantshepert/paint-by-hours-or-how-i-solved-for-time-tracking-2h67)
+- [How Much Does It Cost to Build a SaaS in 2026? AI Changed Everything](https://dev.to/nikhilgarg510/how-much-does-it-cost-to-build-a-saas-in-2026-ai-changed-everything-1lhj)
+- [Welcoming My DEV.to Content Generator Agent](https://dev.to/hosni_zaaraoui/wlcoming-my-devto-content-generator-agent-1iod)
+- [How I Made AI Behave Differently Based on Conversation Context &lpar;Multi-Role Prompt Engineering&rpar;](https://dev.to/jesperdeng/how-i-made-ai-behave-differently-based-on-conversation-context-multi-role-prompt-engineering-26o6)
 <!-- BLOG-POST-LIST:END -->
 
