@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We are Building Observal](https://dev.to/kandasubbu_rajaecepro0/we-are-building-observal-16k3)
-- [Running AI models locally with Ollama: where it fits](https://dev.to/pcornelissen/running-ai-models-locally-with-ollama-where-it-fits-1oli)
-- [Beyond the Cloud: Building a High-Performance, Privacy-First Document Parsing Engine with Gemini Nano and Kotlin](https://dev.to/programmingcentral/beyond-the-cloud-building-a-high-performance-privacy-first-document-parsing-engine-with-gemini-1kpd)
-- [Small-to-Big RAG: Your AI Needs a Better Context 🧠](https://dev.to/rushanksavant/small-to-big-rag-your-ai-needs-a-better-context-4cp1)
+- [🧠 Gemma 4 Changed How I Think About Local AI — Here&#39;s What You Need to Know](https://dev.to/mradul_mishra_6b44c82a08b/gemma-4-changed-how-i-think-about-local-ai-heres-what-you-need-to-know-dd6)
+- [Postgres Tells You Your Query Was Slow. Not Which Index Was Wasted.](https://dev.to/alimafana/postgres-tells-you-your-query-was-slow-not-which-index-was-wasted-171g)
+- [I Built These Tools Because the Frustration Was Real](https://dev.to/smkulkarni/i-built-these-tools-because-the-frustration-was-real-gkh)
+- [Building an Authentication Starter: Lessons from Integrating Next.js, PostgreSQL, Prisma, and NextAuth](https://dev.to/berkaysson/building-an-authentication-starter-lessons-from-integrating-nextjs-postgresql-prisma-and-2hfg)
 <!-- BLOG-POST-LIST:END -->
 
