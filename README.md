@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Gemma 4 Changed How I Think About Local AI — Here&#39;s What You Need to Know](https://dev.to/mradul_mishra_6b44c82a08b/gemma-4-changed-how-i-think-about-local-ai-heres-what-you-need-to-know-dd6)
-- [Postgres Tells You Your Query Was Slow. Not Which Index Was Wasted.](https://dev.to/alimafana/postgres-tells-you-your-query-was-slow-not-which-index-was-wasted-171g)
-- [I Built These Tools Because the Frustration Was Real](https://dev.to/smkulkarni/i-built-these-tools-because-the-frustration-was-real-gkh)
-- [Building an Authentication Starter: Lessons from Integrating Next.js, PostgreSQL, Prisma, and NextAuth](https://dev.to/berkaysson/building-an-authentication-starter-lessons-from-integrating-nextjs-postgresql-prisma-and-2hfg)
+- [Celebrate your differences](https://dev.to/andreas_mller_2fd27cf578/celebrate-your-differences-4lkf)
+- [O Fim da IA &quot;Grátis&quot;: Proteja seus Projetos das Big Techs](https://dev.to/kabrau/o-fim-da-ia-gratis-proteja-seus-projetos-das-big-techs-34el)
+- [Context Engineering: Why Your AI Strategy Needs Infrastructure, Not Better Prompts](https://dev.to/tomtokita/context-engineering-why-your-ai-strategy-needs-infrastructure-not-better-prompts-378j)
+- [How I built a secure, E2E encrypted file-sharing app at 16 &lpar;Next.js + Supabase&rpar;](https://dev.to/ugax/how-i-built-a-secure-e2e-encrypted-file-sharing-app-at-16-nextjs-supabase-4klp)
 <!-- BLOG-POST-LIST:END -->
 
