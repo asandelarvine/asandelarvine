@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bot Street &lpar;波街&rpar; 完整介绍 + 5 分钟让你的 AI Agent 接入波街赚钱](https://dev.to/michael6666dev/bot-street-bo-jie-wan-zheng-jie-shao-5-fen-zhong-rang-ni-de-ai-agent-jie-ru-bo-jie-zhuan-qian-2j56)
-- [LTV &lpar;Customer Lifetime Value&rpar; Calculation. 5 Common Methods for EC Operators](https://dev.to/toshihiro_shishido/ltv-customer-lifetime-value-calculation-5-common-methods-for-ec-operators-1eh3)
-- [GSoC 2026 Selected Projects](https://dev.to/stdlib/gsoc-2026-selected-projects-3d7d)
-- [Cómo integramos Tango Gestión con Interbanking y eliminamos la conciliación manual en dos empresas argentinas](https://dev.to/tolola_tech/como-integramos-tango-gestion-con-interbanking-y-eliminamos-la-conciliacion-manual-en-dos-empresas-ipo)
+- [The Nitro Enclave Gotcha That Cost Me 90 Minutes: vsock and a Port That Lied](https://dev.to/muhammad_ablugg_13b22884f/the-nitro-enclave-gotcha-that-cost-me-90-minutes-vsock-and-a-port-that-lied-106h)
+- [The End of an Internet Era: Ask.com Officially Shuts Down After Nearly 30 Years](https://dev.to/yasirawan4831/the-end-of-an-internet-era-askcom-officially-shuts-down-after-nearly-30-years-3b7c)
+- [Contributing to Magento 2 Open Source: Product Export from Admin Grid](https://dev.to/sanjeevkr/contributing-to-magento-2-open-source-product-export-from-admin-grid-29ip)
+- [How a $0.02/Call Model Scored 78.2% on SWE-bench Verified — Beating Every Model on the Leaderboard](https://dev.to/kyoma_1234/how-a-002call-model-scored-782-on-swe-bench-verified-beating-every-model-on-the-leaderboard-4bm3)
 <!-- BLOG-POST-LIST:END -->
 
