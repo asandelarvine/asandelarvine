@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Paint by hours, or how I solved for time tracking](https://dev.to/grantshepert/paint-by-hours-or-how-i-solved-for-time-tracking-2h67)
-- [How Much Does It Cost to Build a SaaS in 2026? AI Changed Everything](https://dev.to/nikhilgarg510/how-much-does-it-cost-to-build-a-saas-in-2026-ai-changed-everything-1lhj)
-- [Welcoming My DEV.to Content Generator Agent](https://dev.to/hosni_zaaraoui/wlcoming-my-devto-content-generator-agent-1iod)
-- [How I Made AI Behave Differently Based on Conversation Context &lpar;Multi-Role Prompt Engineering&rpar;](https://dev.to/jesperdeng/how-i-made-ai-behave-differently-based-on-conversation-context-multi-role-prompt-engineering-26o6)
+- [We are Building Observal](https://dev.to/kandasubbu_rajaecepro0/we-are-building-observal-16k3)
+- [Running AI models locally with Ollama: where it fits](https://dev.to/pcornelissen/running-ai-models-locally-with-ollama-where-it-fits-1oli)
+- [Beyond the Cloud: Building a High-Performance, Privacy-First Document Parsing Engine with Gemini Nano and Kotlin](https://dev.to/programmingcentral/beyond-the-cloud-building-a-high-performance-privacy-first-document-parsing-engine-with-gemini-1kpd)
+- [Small-to-Big RAG: Your AI Needs a Better Context 🧠](https://dev.to/rushanksavant/small-to-big-rag-your-ai-needs-a-better-context-4cp1)
 <!-- BLOG-POST-LIST:END -->
 
