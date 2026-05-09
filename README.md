@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Celebrate your differences](https://dev.to/andreas_mller_2fd27cf578/celebrate-your-differences-4lkf)
-- [O Fim da IA &quot;Grátis&quot;: Proteja seus Projetos das Big Techs](https://dev.to/kabrau/o-fim-da-ia-gratis-proteja-seus-projetos-das-big-techs-34el)
-- [Context Engineering: Why Your AI Strategy Needs Infrastructure, Not Better Prompts](https://dev.to/tomtokita/context-engineering-why-your-ai-strategy-needs-infrastructure-not-better-prompts-378j)
-- [How I built a secure, E2E encrypted file-sharing app at 16 &lpar;Next.js + Supabase&rpar;](https://dev.to/ugax/how-i-built-a-secure-e2e-encrypted-file-sharing-app-at-16-nextjs-supabase-4klp)
+- [My CI Runner Was Killed by My Own Script: The Dark Side of Cleanup](https://dev.to/merbayerp/my-ci-runner-was-killed-by-my-own-script-the-dark-side-of-cleanup-6o0)
+- [Why Solana Transactions Feel More Like Database Commits Than API Calls](https://dev.to/anika_jha_33ae1d9afc69178/why-solana-transactions-feel-more-like-database-commits-than-api-calls-4ign)
+- [Descomplicando o REST](https://dev.to/yuripeixinho/descomplicando-o-rest-5fb4)
+- [The Senior Multiplier](https://dev.to/jsolano/the-senior-multiplier-49h2)
 <!-- BLOG-POST-LIST:END -->
 
