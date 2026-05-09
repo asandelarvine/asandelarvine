@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Amazon Interviewers Actually Score: A Rubric-Based Breakdown of 12 STAR Answers](https://dev.to/manyoffer_356962830743501/what-amazon-interviewers-actually-score-a-rubric-based-breakdown-of-12-star-answers-1gjo)
-- [OSSGuard – CLI to adopt OpenSSF security best practices in any project](https://dev.to/kirankotari/ossguard-cli-to-adopt-openssf-security-best-practices-in-any-project-1l40)
-- [14.8 Billion Fuzz Layer Zero Kernel](https://dev.to/rabeh_sys/148-billion-fuzz-layer-zero-kernel-32jk)
-- [No Degree. No Team. No API Bill. I Shipped Gemma 4 Into My Travel App at 58 — And So Can You. Gemma 4 Challenge: Write About Gemma 4 Submission](https://dev.to/nightowl/no-degree-no-team-no-api-bill-i-shipped-gemma-4-into-my-travel-app-at-58-and-so-can-you-gemma-3oi7)
+- [Developer journal day2. Building CarVault 🚗](https://dev.to/laudisdominguezsvg/developer-journal-day2-building-carvault-a-developer-journal-3me4)
+- [React Hook Form vs. TanStack Form vs. Formisch: React Form Libraries Compared](https://dev.to/oluwawunmiadesewa/react-hook-form-vs-tanstack-form-vs-formisch-react-form-libraries-compared-22ig)
+- [Build your own AI-powered Voice To-Do Assistant using a Waveshare 1.75&quot; display + Cursor + DuckyClaw — from setup to full feature implementation](https://dev.to/tuyadeveloper/build-your-own-ai-powered-voice-to-do-assistant-using-a-waveshare-175-display-cursor--keh)
+- [Python argparse: Build CLI Tools in 10 Minutes](https://dev.to/german_yamil_e021eef8710d/python-argparse-build-cli-tools-in-10-minutes-4faj)
 <!-- BLOG-POST-LIST:END -->
 
