@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I audited 25 of my open-source repos. Stars lied.](https://dev.to/studiomeyer_io/i-audited-25-of-my-open-source-repos-stars-lied-2ak4)
-- [I Was Tired of Slow Online File Compressors, So I Built My Own](https://dev.to/nevyn_vaz_26/i-built-a-fast-browser-based-image-compressor-because-most-online-tools-felt-terrible-572d)
-- [Reference Architectures Are Lying to You](https://dev.to/itzdaninja/reference-architectures-are-lying-to-you-579n)
-- [RSC Is Not the Input Boundary](https://dev.to/lazarv/rsc-is-not-the-input-boundary-2aao)
+- [🛰 Mission Drishti 📡: How GalaxEye Built the World’s 🌏 First OptoSAR Imaging Satellite 🛰](https://dev.to/hemant_007/mission-drishti-how-galaxeye-built-the-worlds-first-optosar-imaging-satellite-4069)
+- [How I Built a Terraform Plan JSON Parser in Python](https://dev.to/sudarshan_thakur_1e141b99/how-i-built-a-terraform-plan-json-parser-in-python-gm)
+- [WebAssembly Is Making No-Login Browser Tools Better — Here&#39;s How](https://dev.to/nologintools/webassembly-is-making-no-login-browser-tools-better-heres-how-9mj)
+- [AI Soft Skills Every Developer Needs](https://dev.to/devk3/ai-soft-skills-every-developer-needs-3icl)
 <!-- BLOG-POST-LIST:END -->
 
