@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ACT 0.7: sessions, three production bridges, and auth-via-args](https://dev.to/gamepad64/act-07-sessions-three-production-bridges-and-auth-via-args-278l)
-- [I Built an Offline Personal Finance Tracker Using Only HTML, CSS &amp; JavaScript](https://dev.to/msaud/i-built-an-offline-personal-finance-tracker-using-only-html-css-javascript-28b2)
-- [The Browser Is Not a Security Boundary](https://dev.to/trustboundarylab/the-browser-is-not-a-security-boundary-1flj)
-- [Why I Built an ML-Powered Secrets Detector Instead of Just Using Regex](https://dev.to/pgmpofu/why-i-built-an-ml-powered-secrets-detector-instead-of-just-using-regex-4koa)
+- [Volatility Risk Premium in 30 Lines of Python &lpar;And the 5 Mistakes That Wreck It&rpar;](https://dev.to/tomasz_dobrowolski_35d32c/volatility-risk-premium-in-30-lines-of-python-and-the-5-mistakes-that-wreck-it-4h6a)
+- [I built a self-hosted REST API client for my projects, here&#39;s why](https://dev.to/u_did_it/i-built-a-self-hosted-rest-api-client-for-my-projects-heres-why-1n22)
+- [9ed — A Zed-like Editor You Can Access From Anywhere](https://dev.to/muhammad_triwibowo_f924f/i-wanted-zed-in-the-browser-so-i-built-my-own-31gd)
+- [TIL canvas.captureStream&lpar;&rpar; is video-only — here&#39;s how I mixed voiceover + music into a MediaRecorder export&quot; published: true](https://dev.to/robert_corn_2c1ef7ffc084b/til-canvascapturestream-is-video-only-heres-how-i-mixed-voiceover-music-into-a-1c2d)
 <!-- BLOG-POST-LIST:END -->
 
