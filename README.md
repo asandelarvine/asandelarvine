@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tokenmaxxing: Codex + Claude Code Operator Stack 2026](https://dev.to/max_quimby/tokenmaxxing-codex-claude-code-operator-stack-2026-318)
-- [String Polyfills and Common Interview Methods in JavaScript](https://dev.to/pratham69/string-polyfills-and-common-interview-methods-in-javascript-4ha6)
-- [My MCP Server Got Rate-Limited After Auth. Here&#39;s the 5-Line Fix.](https://dev.to/zekebuilds/my-mcp-server-got-rate-limited-after-auth-heres-the-5-line-fix-2gl)
-- [Monitoring: From Black Box to Glass Box](https://dev.to/halton_chen/monitoring-from-black-box-to-glass-box-29h2)
+- [Why not Lannguage Specific SLMs as coding agents](https://dev.to/mainak55512/why-not-lannguage-specific-slms-as-coding-agents-n79)
+- [A small Vite plugin for moving heavy JSX attributes into comments](https://dev.to/vo9312/a-small-vite-plugin-for-moving-heavy-jsx-attributes-into-comments-21dn)
+- [The Accidental C2 - Exploring Dev Tunnels for Remote Access](https://dev.to/mark0_617b45cda9782a/the-accidental-c2-exploring-dev-tunnels-for-remote-access-bbp)
+- [The Backend Concepts Nobody Explains Properly](https://dev.to/mehta0007/the-backend-concepts-nobody-explains-properly-2lid)
 <!-- BLOG-POST-LIST:END -->
 
