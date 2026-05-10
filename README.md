@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Feature Based Clean Architecture. Part 1: How a NestJS Application Evolves Into an Unmaintainable State](https://dev.to/pendulum/feature-based-clean-architecture-part-1-how-a-nestjs-application-evolves-into-an-unmaintainable-8bd)
-- [Client-Side Price Manipulation: Pay Whatever You Want at Checkout](https://dev.to/oopssec-store/client-side-price-manipulation-pay-whatever-you-want-at-checkout-2g6a)
-- [How I Built a Perceptual Color Quantization Engine for LEGO Mosaics](https://dev.to/bmbrick/how-i-built-a-perceptual-color-quantization-engine-for-lego-mosaics-4lkm)
-- [Your AWS bill is lying to you — it shows services, not features](https://dev.to/arpitstack/your-aws-bill-is-lying-to-you-it-shows-services-not-features-5817)
+- [The Cypress i18n Mistake: Testing Words Instead of Meaning - i18next is your partner](https://dev.to/sebastianclavijo/the-cypress-i18n-mistake-testing-words-instead-of-meaning-i18next-is-your-partner-k8n)
+- [When does Iceberg beat Parquet+projection on AWS Glue, and when doesn&#39;t ?](https://dev.to/bilardi/when-does-iceberg-beat-parquetprojection-on-aws-glue-and-when-doesnt--2g2)
+- [Vectors, Dimensions, and Feature Spaces — The Geometry Behind Machine Learning](https://dev.to/samuel_akopyan_e902195a96/vectors-dimensions-and-feature-spaces-the-geometry-behind-machine-learning-6oa)
+- [Proposal on Play Store security measures &lpar;alternative to Google&#39;s mandatory &quot;developer verification&quot;&rpar;](https://dev.to/indigotime/proposal-on-play-store-security-measures-alternative-to-googles-mandatory-developer-1b24)
 <!-- BLOG-POST-LIST:END -->
 
