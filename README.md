@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple DEV Blog Post Writer with LangGraph Multi Agents with Memory, AWS Bedrock Nova: Generator &amp; Evaluator Pattern](https://dev.to/aws-builders/simple-dev-blog-post-writer-with-langgraph-multi-agents-with-memory-aws-bedrock-nova-generator--5b1)
-- [PHP vs Node.js &lpar;2026&rpar;: I Benchmarked Both — Here&#39;s What Surprised Me](https://dev.to/syedahmershah/php-vs-nodejs-2026-i-benchmarked-both-heres-what-surprised-me-2caj)
-- [Why Node.js Is Perfect for Building Fast Web Applications](https://dev.to/pratham69/why-nodejs-is-perfect-for-building-fast-web-applications-59o1)
-- [Local LLMs in 2026: What Actually Works on Consumer Hardware](https://dev.to/studiomeyer_io/local-llms-in-2026-what-actually-works-on-consumer-hardware-50me)
+- [I Built a Self-Updating SEO Brain Inspired by Andrej Karpathy&#39;s LLM Wiki](https://dev.to/techwithhari/i-built-a-self-updating-seo-brain-inspired-by-andrej-karpathys-llm-wiki-39p1)
+- [I Tried 3 Layers of AI Code Review So Your Diff Doesn&#39;t Have To](https://dev.to/kenimo49/i-tried-3-layers-of-ai-code-review-so-your-diff-doesnt-have-to-16ec)
+- [payx3: Multi-Chain Crypto Payment SDK You&#39;ve Been Waiting For](https://dev.to/susheel_kumar_2041f5433d2/payx3-multi-chain-crypto-payment-sdk-youve-been-waiting-for-5f2k)
+- [Beyond Vibe Coding into Agentic Engineering](https://dev.to/aws-builders/beyond-vibe-coding-into-agentic-engineering-5fef)
 <!-- BLOG-POST-LIST:END -->
 
