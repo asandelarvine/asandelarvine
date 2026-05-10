@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Volatility Risk Premium in 30 Lines of Python &lpar;And the 5 Mistakes That Wreck It&rpar;](https://dev.to/tomasz_dobrowolski_35d32c/volatility-risk-premium-in-30-lines-of-python-and-the-5-mistakes-that-wreck-it-4h6a)
-- [I built a self-hosted REST API client for my projects, here&#39;s why](https://dev.to/u_did_it/i-built-a-self-hosted-rest-api-client-for-my-projects-heres-why-1n22)
-- [9ed — A Zed-like Editor You Can Access From Anywhere](https://dev.to/muhammad_triwibowo_f924f/i-wanted-zed-in-the-browser-so-i-built-my-own-31gd)
-- [TIL canvas.captureStream&lpar;&rpar; is video-only — here&#39;s how I mixed voiceover + music into a MediaRecorder export&quot; published: true](https://dev.to/robert_corn_2c1ef7ffc084b/til-canvascapturestream-is-video-only-heres-how-i-mixed-voiceover-music-into-a-1c2d)
+- [Feature Based Clean Architecture. Part 1: How a NestJS Application Evolves Into an Unmaintainable State](https://dev.to/pendulum/feature-based-clean-architecture-part-1-how-a-nestjs-application-evolves-into-an-unmaintainable-8bd)
+- [Client-Side Price Manipulation: Pay Whatever You Want at Checkout](https://dev.to/oopssec-store/client-side-price-manipulation-pay-whatever-you-want-at-checkout-2g6a)
+- [How I Built a Perceptual Color Quantization Engine for LEGO Mosaics](https://dev.to/bmbrick/how-i-built-a-perceptual-color-quantization-engine-for-lego-mosaics-4lkm)
+- [Your AWS bill is lying to you — it shows services, not features](https://dev.to/arpitstack/your-aws-bill-is-lying-to-you-it-shows-services-not-features-5817)
 <!-- BLOG-POST-LIST:END -->
 
