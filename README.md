@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Python&#39;s GIL actually works &lpar;and when it bites you&rpar;](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2)
-- [Building MCP servers with Spring AI: a practical boundary for agents](https://dev.to/pcornelissen/building-mcp-servers-with-spring-ai-a-practical-boundary-for-agents-1d23)
-- [Beyond SQL: How to Build a High-Performance On-Device Vector Search Engine for Android](https://dev.to/programmingcentral/beyond-sql-how-to-build-a-high-performance-on-device-vector-search-engine-for-android-1e0o)
-- [Inner Warden: A Lightweight Open Source eBPF EDR for Linux that Actually Blocks Attacks](https://dev.to/maicon_ribeiroesteves_32/inner-warden-a-lightweight-open-source-ebpf-edr-for-linux-that-actually-blocks-attacks-22fp)
+- [Simple DEV Blog Post Writer with LangGraph Multi Agents with Memory, AWS Bedrock Nova: Generator &amp; Evaluator Pattern](https://dev.to/aws-builders/simple-dev-blog-post-writer-with-langgraph-multi-agents-with-memory-aws-bedrock-nova-generator--5b1)
+- [PHP vs Node.js &lpar;2026&rpar;: I Benchmarked Both — Here&#39;s What Surprised Me](https://dev.to/syedahmershah/php-vs-nodejs-2026-i-benchmarked-both-heres-what-surprised-me-2caj)
+- [Why Node.js Is Perfect for Building Fast Web Applications](https://dev.to/pratham69/why-nodejs-is-perfect-for-building-fast-web-applications-59o1)
+- [Local LLMs in 2026: What Actually Works on Consumer Hardware](https://dev.to/studiomeyer_io/local-llms-in-2026-what-actually-works-on-consumer-hardware-50me)
 <!-- BLOG-POST-LIST:END -->
 
