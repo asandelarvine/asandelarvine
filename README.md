@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Claude for Excel: The Real Office AI Agent Stack for 2026](https://dev.to/herbert26/beyond-claude-for-excel-the-real-office-ai-agent-stack-for-2026-1lij)
-- [I Built a Chrome Extension That Catches Japanese Ad Law Violations in Real Time](https://dev.to/_350df62777eb55e1/i-built-a-chrome-extension-that-catches-japanese-ad-law-violations-in-real-time-3ele)
-- [The Distributed Systems Patterns Hiding Inside Your Agentic AI Stack](https://dev.to/omnitechnicus/the-distributed-systems-patterns-hiding-inside-your-agentic-ai-stack-40l1)
-- [The Barbell Founder: Why I Chose to be a Part-timer to Protect My Startup](https://dev.to/kheai/the-barbell-founder-why-i-chose-to-be-a-part-timer-to-protect-my-startup-31pb)
+- [ACT 0.7: sessions, three production bridges, and auth-via-args](https://dev.to/gamepad64/act-07-sessions-three-production-bridges-and-auth-via-args-278l)
+- [I Built an Offline Personal Finance Tracker Using Only HTML, CSS &amp; JavaScript](https://dev.to/msaud/i-built-an-offline-personal-finance-tracker-using-only-html-css-javascript-28b2)
+- [The Browser Is Not a Security Boundary](https://dev.to/trustboundarylab/the-browser-is-not-a-security-boundary-1flj)
+- [Why I Built an ML-Powered Secrets Detector Instead of Just Using Regex](https://dev.to/pgmpofu/why-i-built-an-ml-powered-secrets-detector-instead-of-just-using-regex-4koa)
 <!-- BLOG-POST-LIST:END -->
 
