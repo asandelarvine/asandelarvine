@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built Persistent Memory for AI Coding Assistants — Here&#39;s How It Works](https://dev.to/nikhil102/i-built-persistent-memory-for-ai-coding-assistants-heres-how-it-works-2i0b)
-- [How secrets work in multi-service OSC stacks &lpar;and one mistake we helped a customer avoid&rpar;](https://dev.to/oscdev/how-secrets-work-in-multi-service-osc-stacks-and-one-mistake-we-helped-a-customer-avoid-3jm9)
-- [SQLite Concurrency Corruption, DuckDB Delta Writes, and DuckLake Data Inlining](https://dev.to/soytuber/sqlite-concurrency-corruption-duckdb-delta-writes-and-ducklake-data-inlining-ao3)
-- [DeepSeek-V4-Flash Benchmarks, FlashRT CUDA Runtime, &amp; V100 LLM Performance](https://dev.to/soytuber/deepseek-v4-flash-benchmarks-flashrt-cuda-runtime-v100-llm-performance-58i2)
+- [Mermaid.js - Sketching diagrams using code](https://dev.to/mirzaleka/mermaidjs-sketching-diagrams-using-code-556b)
+- [Codex Forgetful Plugin](https://dev.to/scott_raisbeck_24ea5fbc1e/codex-forgetful-plugin-2mgb)
+- [On-Device Pose Estimation on iOS: What Actually Works in Production &lpar;Not Just Research Papers&rpar;](https://dev.to/benjamin_pires_59127eddff/on-device-pose-estimation-on-ios-what-actually-works-in-production-not-just-research-papers-48ma)
+- [Running a Midnight Node: Setup, Sync &amp; Monitoring: An In-depth Tutorial](https://dev.to/arihant_agarwal_359eb9f57/running-a-midnight-node-setup-sync-monitoring-an-in-depth-tutorial-3ena)
 <!-- BLOG-POST-LIST:END -->
 
