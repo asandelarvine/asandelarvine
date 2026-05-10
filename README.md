@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cypress i18n Mistake: Testing Words Instead of Meaning - i18next is your partner](https://dev.to/sebastianclavijo/the-cypress-i18n-mistake-testing-words-instead-of-meaning-i18next-is-your-partner-k8n)
-- [When does Iceberg beat Parquet+projection on AWS Glue, and when doesn&#39;t ?](https://dev.to/bilardi/when-does-iceberg-beat-parquetprojection-on-aws-glue-and-when-doesnt--2g2)
-- [Vectors, Dimensions, and Feature Spaces — The Geometry Behind Machine Learning](https://dev.to/samuel_akopyan_e902195a96/vectors-dimensions-and-feature-spaces-the-geometry-behind-machine-learning-6oa)
-- [Proposal on Play Store security measures &lpar;alternative to Google&#39;s mandatory &quot;developer verification&quot;&rpar;](https://dev.to/indigotime/proposal-on-play-store-security-measures-alternative-to-googles-mandatory-developer-1b24)
+- [I Built Persistent Memory for AI Coding Assistants — Here&#39;s How It Works](https://dev.to/nikhil102/i-built-persistent-memory-for-ai-coding-assistants-heres-how-it-works-2i0b)
+- [How secrets work in multi-service OSC stacks &lpar;and one mistake we helped a customer avoid&rpar;](https://dev.to/oscdev/how-secrets-work-in-multi-service-osc-stacks-and-one-mistake-we-helped-a-customer-avoid-3jm9)
+- [SQLite Concurrency Corruption, DuckDB Delta Writes, and DuckLake Data Inlining](https://dev.to/soytuber/sqlite-concurrency-corruption-duckdb-delta-writes-and-ducklake-data-inlining-ao3)
+- [DeepSeek-V4-Flash Benchmarks, FlashRT CUDA Runtime, &amp; V100 LLM Performance](https://dev.to/soytuber/deepseek-v4-flash-benchmarks-flashrt-cuda-runtime-v100-llm-performance-58i2)
 <!-- BLOG-POST-LIST:END -->
 
