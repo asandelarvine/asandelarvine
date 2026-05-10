@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Self-Updating SEO Brain Inspired by Andrej Karpathy&#39;s LLM Wiki](https://dev.to/techwithhari/i-built-a-self-updating-seo-brain-inspired-by-andrej-karpathys-llm-wiki-39p1)
-- [I Tried 3 Layers of AI Code Review So Your Diff Doesn&#39;t Have To](https://dev.to/kenimo49/i-tried-3-layers-of-ai-code-review-so-your-diff-doesnt-have-to-16ec)
-- [payx3: Multi-Chain Crypto Payment SDK You&#39;ve Been Waiting For](https://dev.to/susheel_kumar_2041f5433d2/payx3-multi-chain-crypto-payment-sdk-youve-been-waiting-for-5f2k)
-- [Beyond Vibe Coding into Agentic Engineering](https://dev.to/aws-builders/beyond-vibe-coding-into-agentic-engineering-5fef)
+- [Beyond Claude for Excel: The Real Office AI Agent Stack for 2026](https://dev.to/herbert26/beyond-claude-for-excel-the-real-office-ai-agent-stack-for-2026-1lij)
+- [I Built a Chrome Extension That Catches Japanese Ad Law Violations in Real Time](https://dev.to/_350df62777eb55e1/i-built-a-chrome-extension-that-catches-japanese-ad-law-violations-in-real-time-3ele)
+- [The Distributed Systems Patterns Hiding Inside Your Agentic AI Stack](https://dev.to/omnitechnicus/the-distributed-systems-patterns-hiding-inside-your-agentic-ai-stack-40l1)
+- [The Barbell Founder: Why I Chose to be a Part-timer to Protect My Startup](https://dev.to/kheai/the-barbell-founder-why-i-chose-to-be-a-part-timer-to-protect-my-startup-31pb)
 <!-- BLOG-POST-LIST:END -->
 
