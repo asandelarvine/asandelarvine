@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [KV Caching in LLMs](https://dev.to/manideep_patibandla/kv-caching-in-llms-51on)
-- [Your &quot;Cache Invalidation is Hard&quot; Answer Misses the Real Horror](https://dev.to/rishabh_pahwa_1a2b93e60b0/your-cache-invalidation-is-hard-answer-misses-the-real-horror-5em7)
-- [Zero-Downtime PostgreSQL Major Version Upgrades in Containers: The Problem Nobody Talks About](https://dev.to/abhsss96/zero-downtime-postgresql-major-version-upgrades-in-containers-the-problem-nobody-talks-about-5ef1)
-- [I Tested Gemma 4 and GPT-4o-mini on Indian Language Tasks — The Results Surprised Me](https://dev.to/devsaquib/i-tested-gemma-4-and-gpt-4o-mini-on-indian-language-tasks-the-results-surprised-me-19g8)
+- [How Python&#39;s GIL actually works &lpar;and when it bites you&rpar;](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2)
+- [Building MCP servers with Spring AI: a practical boundary for agents](https://dev.to/pcornelissen/building-mcp-servers-with-spring-ai-a-practical-boundary-for-agents-1d23)
+- [Beyond SQL: How to Build a High-Performance On-Device Vector Search Engine for Android](https://dev.to/programmingcentral/beyond-sql-how-to-build-a-high-performance-on-device-vector-search-engine-for-android-1e0o)
+- [Inner Warden: A Lightweight Open Source eBPF EDR for Linux that Actually Blocks Attacks](https://dev.to/maicon_ribeiroesteves_32/inner-warden-a-lightweight-open-source-ebpf-edr-for-linux-that-actually-blocks-attacks-22fp)
 <!-- BLOG-POST-LIST:END -->
 
