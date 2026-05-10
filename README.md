@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why not Lannguage Specific SLMs as coding agents](https://dev.to/mainak55512/why-not-lannguage-specific-slms-as-coding-agents-n79)
-- [A small Vite plugin for moving heavy JSX attributes into comments](https://dev.to/vo9312/a-small-vite-plugin-for-moving-heavy-jsx-attributes-into-comments-21dn)
-- [The Accidental C2 - Exploring Dev Tunnels for Remote Access](https://dev.to/mark0_617b45cda9782a/the-accidental-c2-exploring-dev-tunnels-for-remote-access-bbp)
-- [The Backend Concepts Nobody Explains Properly](https://dev.to/mehta0007/the-backend-concepts-nobody-explains-properly-2lid)
+- [KV Caching in LLMs](https://dev.to/manideep_patibandla/kv-caching-in-llms-51on)
+- [Your &quot;Cache Invalidation is Hard&quot; Answer Misses the Real Horror](https://dev.to/rishabh_pahwa_1a2b93e60b0/your-cache-invalidation-is-hard-answer-misses-the-real-horror-5em7)
+- [Zero-Downtime PostgreSQL Major Version Upgrades in Containers: The Problem Nobody Talks About](https://dev.to/abhsss96/zero-downtime-postgresql-major-version-upgrades-in-containers-the-problem-nobody-talks-about-5ef1)
+- [I Tested Gemma 4 and GPT-4o-mini on Indian Language Tasks — The Results Surprised Me](https://dev.to/devsaquib/i-tested-gemma-4-and-gpt-4o-mini-on-indian-language-tasks-the-results-surprised-me-19g8)
 <!-- BLOG-POST-LIST:END -->
 
