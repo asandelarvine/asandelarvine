@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mermaid.js - Sketching diagrams using code](https://dev.to/mirzaleka/mermaidjs-sketching-diagrams-using-code-556b)
-- [Codex Forgetful Plugin](https://dev.to/scott_raisbeck_24ea5fbc1e/codex-forgetful-plugin-2mgb)
-- [On-Device Pose Estimation on iOS: What Actually Works in Production &lpar;Not Just Research Papers&rpar;](https://dev.to/benjamin_pires_59127eddff/on-device-pose-estimation-on-ios-what-actually-works-in-production-not-just-research-papers-48ma)
-- [Running a Midnight Node: Setup, Sync &amp; Monitoring: An In-depth Tutorial](https://dev.to/arihant_agarwal_359eb9f57/running-a-midnight-node-setup-sync-monitoring-an-in-depth-tutorial-3ena)
+- [How Knowledge-Based AI Works — From Rules to Inference](https://dev.to/zeromathai/how-knowledge-based-ai-works-from-rules-to-inference-3o1o)
+- [How Intelligent Agents Work — From Perception to Decision and Action](https://dev.to/zeromathai/how-intelligent-agents-work-from-perception-to-decision-and-action-im1)
+- [Your MCP server eats 55,000 tokens before your agent says a word -- I measured the real cost](https://dev.to/kenimo49/your-mcp-server-eats-55000-tokens-before-your-agent-says-a-word-i-measured-the-real-cost-19l8)
+- [Your AI agents are stepping on each other](https://dev.to/kawacode-ai/your-ai-agents-are-stepping-on-each-other-i08)
 <!-- BLOG-POST-LIST:END -->
 
