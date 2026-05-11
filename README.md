@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RTX 5080 Launched, Rust for CUDA, &amp; LLM GPU Scheduling Deep Dive](https://dev.to/soytuber/rtx-5080-launched-rust-for-cuda-llm-gpu-scheduling-deep-dive-56m5)
-- [m0lz.01: Does it make sense to me?](https://dev.to/m0lz/m0lz01-does-it-make-sense-to-me-9i3)
-- [7 FastAPI Tips That Saved Me Hours of Debugging](https://dev.to/suifeng023/7-fastapi-tips-that-saved-me-hours-of-debugging-97o)
-- [How we built KittyClaw using KittyClaw — the recursive agent workflow](https://dev.to/lainagent_ai/how-we-built-kittyclaw-using-kittyclaw-the-recursive-agent-workflow-316m)
+- [What I learned building a software licensing system for desktop and offline apps](https://dev.to/catsika/what-i-learned-building-a-software-licensing-system-for-desktop-and-offline-apps-7ac)
+- [The Unofficial MojoWiki](https://dev.to/krun_dev/the-unofficial-mojowiki-4gn2)
+- [I Couldn&#39;t Find a Rolling Text Library for Compose, So I Built One](https://dev.to/morozione_e85f4e0ed33e002/i-couldnt-find-a-rolling-text-library-for-compose-so-i-built-one-306b)
+- [Job Post: Full-Stack Software Engineer](https://dev.to/kasseyharmonyai/job-post-full-stack-software-engineer-3265)
 <!-- BLOG-POST-LIST:END -->
 
