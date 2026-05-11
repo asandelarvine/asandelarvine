@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Go to JavaScript: A Gopher&#39;s Honest First Impressions](https://dev.to/danikeya/from-go-to-javascript-a-gophers-honest-first-impressions-4jka)
-- [Spent the last few months building a walking tracker app for Android](https://dev.to/sunior/spent-the-last-few-months-building-a-walking-tracker-app-for-android-3okf)
-- [How I Debugged an &quot;Undeletable&quot; AWS Elastic IP and Traced It Back to Redshift Serverless](https://dev.to/prajwal_devops/how-i-debugged-an-undeletable-aws-elastic-ip-and-traced-it-back-to-redshift-serverless-429d)
-- [How I built a Stripe Webhook in Node.js &lpar;Full Guide&rpar;](https://dev.to/apollo_ag/how-i-built-a-stripe-webhook-in-nodejs-full-guide-efk)
+- [I built a startup waitlist landing page in Next.js 15 — here are all the decisions I made](https://dev.to/juan_maya_6479056cdf0c8d6/i-built-a-startup-waitlist-landing-page-in-nextjs-15-here-are-all-the-decisions-i-made-2597)
+- [How I Built a Miniature Heroku with Chaos Engineering — And Fought Azure to Deploy It](https://dev.to/hezekiah_umoh/how-i-built-a-miniature-heroku-with-chaos-engineering-and-fought-azure-to-deploy-it-3aa4)
+- [OpenModels: Explore LLM Models and Inference Providers](https://dev.to/madeburo/openmodels-explore-llm-models-and-inference-providers-1156)
+- [🐢 and 🐇 in My Claude Code Status Line: Now Watching the Week](https://dev.to/suruseas/and-in-my-claude-code-status-line-now-watching-the-week-1m1e)
 <!-- BLOG-POST-LIST:END -->
 
