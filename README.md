@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG Series &lpar;13&rpar;: Query Optimization — Asking Better Questions](https://dev.to/wonderlab/rag-series-13-query-optimization-asking-better-questions-1ie0)
-- [60 FPS with 600 Snakes: How I Got the Browser Client to Survive a Room Full of Snakes](https://dev.to/linmingren/60-fps-with-600-snakes-how-i-got-the-browser-client-to-survive-a-room-full-of-snakes-4hb1)
-- [Beyond the Lift-and-Shift: Real-Time MySQL Migration to AWS RDS with GoldenGate 19c](https://dev.to/neamanahmed/beyond-the-lift-and-shift-real-time-mysql-migration-to-aws-rds-with-goldengate-19c-3kom)
-- [Shai-Hulud Malware in PyTorch Lightning: What Actually Happened and How to Check Your Environment](https://dev.to/ericwoooo_kr/shai-hulud-malware-in-pytorch-lightning-what-actually-happened-and-how-to-check-your-environment-425c)
+- [From Go to JavaScript: A Gopher&#39;s Honest First Impressions](https://dev.to/danikeya/from-go-to-javascript-a-gophers-honest-first-impressions-4jka)
+- [Spent the last few months building a walking tracker app for Android](https://dev.to/sunior/spent-the-last-few-months-building-a-walking-tracker-app-for-android-3okf)
+- [How I Debugged an &quot;Undeletable&quot; AWS Elastic IP and Traced It Back to Redshift Serverless](https://dev.to/prajwal_devops/how-i-debugged-an-undeletable-aws-elastic-ip-and-traced-it-back-to-redshift-serverless-429d)
+- [How I built a Stripe Webhook in Node.js &lpar;Full Guide&rpar;](https://dev.to/apollo_ag/how-i-built-a-stripe-webhook-in-nodejs-full-guide-efk)
 <!-- BLOG-POST-LIST:END -->
 
