@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Knowledge-Based AI Works — From Rules to Inference](https://dev.to/zeromathai/how-knowledge-based-ai-works-from-rules-to-inference-3o1o)
-- [How Intelligent Agents Work — From Perception to Decision and Action](https://dev.to/zeromathai/how-intelligent-agents-work-from-perception-to-decision-and-action-im1)
-- [Your MCP server eats 55,000 tokens before your agent says a word -- I measured the real cost](https://dev.to/kenimo49/your-mcp-server-eats-55000-tokens-before-your-agent-says-a-word-i-measured-the-real-cost-19l8)
-- [Your AI agents are stepping on each other](https://dev.to/kawacode-ai/your-ai-agents-are-stepping-on-each-other-i08)
+- [Building an MCP server — lessons from thunderbit-mcp](https://dev.to/ethan_thunderbit/building-an-mcp-server-lessons-from-thunderbit-mcp-opf)
+- [Four Pillars, One Platform: How Cybrium Unifies Code, Cloud, AI, and GRC](https://dev.to/grumpysage/four-pillars-one-platform-how-cybrium-unifies-code-cloud-ai-and-grc-jff)
+- [67. DBSCAN: Clustering That Handles Messy Data](https://dev.to/yakhilesh/67-dbscan-clustering-that-handles-messy-data-5he7)
+- [OpenCode Integration Practice: Architectural Evolution from Standalone Process to Shared Runtime](https://dev.to/newbe36524/opencode-integration-practice-architectural-evolution-from-standalone-process-to-shared-runtime-3mj0)
 <!-- BLOG-POST-LIST:END -->
 
