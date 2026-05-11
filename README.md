@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a startup waitlist landing page in Next.js 15 — here are all the decisions I made](https://dev.to/juan_maya_6479056cdf0c8d6/i-built-a-startup-waitlist-landing-page-in-nextjs-15-here-are-all-the-decisions-i-made-2597)
-- [How I Built a Miniature Heroku with Chaos Engineering — And Fought Azure to Deploy It](https://dev.to/hezekiah_umoh/how-i-built-a-miniature-heroku-with-chaos-engineering-and-fought-azure-to-deploy-it-3aa4)
-- [OpenModels: Explore LLM Models and Inference Providers](https://dev.to/madeburo/openmodels-explore-llm-models-and-inference-providers-1156)
-- [🐢 and 🐇 in My Claude Code Status Line: Now Watching the Week](https://dev.to/suruseas/and-in-my-claude-code-status-line-now-watching-the-week-1m1e)
+- [The Reply Was Never Random](https://dev.to/quillofacoder/the-reply-was-never-random-1lbm)
+- [Day 4: Leveling Up with Lists and Randomness in Python 🐍](https://dev.to/sheema_26/day-4-leveling-up-with-lists-and-randomness-in-python-9eh)
+- [Matching frontier LLMs at 22 lower latency: a 184M-parameter intent classifier for healthcare text](https://dev.to/raihan-js/matching-frontier-llms-at-22x-lower-latency-a-184m-parameter-intent-classifier-for-healthcare-text-5ec2)
+- [Secure Your Go Apps Before Production Does It For You](https://dev.to/shrsv/secure-your-go-apps-before-production-does-it-for-you-23lo)
 <!-- BLOG-POST-LIST:END -->
 
