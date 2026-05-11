@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Reply Was Never Random](https://dev.to/quillofacoder/the-reply-was-never-random-1lbm)
-- [Day 4: Leveling Up with Lists and Randomness in Python 🐍](https://dev.to/sheema_26/day-4-leveling-up-with-lists-and-randomness-in-python-9eh)
-- [Matching frontier LLMs at 22 lower latency: a 184M-parameter intent classifier for healthcare text](https://dev.to/raihan-js/matching-frontier-llms-at-22x-lower-latency-a-184m-parameter-intent-classifier-for-healthcare-text-5ec2)
-- [Secure Your Go Apps Before Production Does It For You](https://dev.to/shrsv/secure-your-go-apps-before-production-does-it-for-you-23lo)
+- [I Built a Chrome Extension That Writes LinkedIn DMs Using Claude AI](https://dev.to/sujal_meena_cf186b9b452cd/i-built-a-chrome-extension-that-writes-linkedin-dms-using-claude-ai-42b3)
+- [MCP, A2A, and Pilot Protocol Are Not Competing. Your Agent Stack Probably Needs All Three.](https://dev.to/artem_a/mcp-a2a-and-pilot-protocol-are-not-competing-your-agent-stack-probably-needs-all-three-323e)
+- [BTT Pad 7 vs Creality Sonic Pad 2026: Which Klipper Touchscreen?](https://dev.to/noperai42eng/btt-pad-7-vs-creality-sonic-pad-2026-which-klipper-touchscreen-5fpb)
+- [Linux Essentials](https://dev.to/akaiissen/linux-essentials-2898)
 <!-- BLOG-POST-LIST:END -->
 
