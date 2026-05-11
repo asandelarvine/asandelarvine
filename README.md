@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an MCP server — lessons from thunderbit-mcp](https://dev.to/ethan_thunderbit/building-an-mcp-server-lessons-from-thunderbit-mcp-opf)
-- [Four Pillars, One Platform: How Cybrium Unifies Code, Cloud, AI, and GRC](https://dev.to/grumpysage/four-pillars-one-platform-how-cybrium-unifies-code-cloud-ai-and-grc-jff)
-- [67. DBSCAN: Clustering That Handles Messy Data](https://dev.to/yakhilesh/67-dbscan-clustering-that-handles-messy-data-5he7)
-- [OpenCode Integration Practice: Architectural Evolution from Standalone Process to Shared Runtime](https://dev.to/newbe36524/opencode-integration-practice-architectural-evolution-from-standalone-process-to-shared-runtime-3mj0)
+- [RAG Series &lpar;13&rpar;: Query Optimization — Asking Better Questions](https://dev.to/wonderlab/rag-series-13-query-optimization-asking-better-questions-1ie0)
+- [60 FPS with 600 Snakes: How I Got the Browser Client to Survive a Room Full of Snakes](https://dev.to/linmingren/60-fps-with-600-snakes-how-i-got-the-browser-client-to-survive-a-room-full-of-snakes-4hb1)
+- [Beyond the Lift-and-Shift: Real-Time MySQL Migration to AWS RDS with GoldenGate 19c](https://dev.to/neamanahmed/beyond-the-lift-and-shift-real-time-mysql-migration-to-aws-rds-with-goldengate-19c-3kom)
+- [Shai-Hulud Malware in PyTorch Lightning: What Actually Happened and How to Check Your Environment](https://dev.to/ericwoooo_kr/shai-hulud-malware-in-pytorch-lightning-what-actually-happened-and-how-to-check-your-environment-425c)
 <!-- BLOG-POST-LIST:END -->
 
