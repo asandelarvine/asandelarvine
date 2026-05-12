@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic caught its AI agent blackmailing to survive — here&#39;s how it&#39;s fixing it](https://dev.to/thegatewayguy/anthropic-caught-its-ai-agent-blackmailing-to-survive-heres-how-its-fixing-it-21h9)
-- [Why I built ts-match: TypeScript branching in the era of coding agents](https://dev.to/diegogbrisa/why-i-built-ts-match-typescript-branching-in-the-era-of-coding-agents-14p1)
-- [CrewAI vs LangGraph: Which LLM Agent Framework Should You Use in 2026?](https://dev.to/suifeng023/crewai-vs-langgraph-which-llm-agent-framework-should-you-use-in-2026-3h4n)
-- [The Hidden Cost of &quot;It Works&quot;: Why Quick Fixes Kill Long-Term Speed](https://dev.to/gavincettolo/the-hidden-cost-of-it-works-why-quick-fixes-kill-long-term-speed-1gi5)
+- [Java at the Edge: Managing Memory in Serverless and Modern APIs](https://dev.to/jillthornhill/java-at-the-edge-managing-memory-in-serverless-and-modern-apis-4g9k)
+- [The Definitive Guide to Web3 Wallet Segmentation and Analytics](https://dev.to/yos/the-definitive-guide-to-web3-wallet-segmentation-and-analytics-lob)
+- [15+ Web3 Metrics That Drive Real Growth](https://dev.to/yos/15-web3-metrics-that-drive-real-growth-4fpe)
+- [How to Validate a SaaS Idea Before You Write Any Code](https://dev.to/dinukanilupul/how-to-validate-a-saas-idea-before-you-write-any-code-92)
 <!-- BLOG-POST-LIST:END -->
 
