@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Sharing Prompts — Start Shipping Claude Plugins](https://dev.to/montells/stop-sharing-prompts-start-shipping-claude-plugins-od2)
-- [Introduction to Dinghy: a Swiss-army knife for everyday engineering](https://dev.to/mrduguo/introduction-to-dinghy-a-swiss-army-knife-for-everyday-engineering-20l2)
-- [What Nigeria&#39;s Stock Market Taught Me About System Reliability](https://dev.to/okeke_chukwudubem_5f3bf49/what-nigerias-stock-market-taught-me-about-system-reliability-19n4)
-- [Mini Shai-Hulud: un gusano de cadena de suministro que explotó TanStack y el ecosistema npm.](https://dev.to/bush1dom4koto/mini-shai-hulud-un-gusano-de-cadena-de-suministro-que-exploto-tanstack-y-el-ecosistema-npm-4df7)
+- [Stop feeding raw HTML to your LLMs &lpar;Solving the Agentic Token Tax&rpar;](https://dev.to/dominic-pi-sunyer/stop-feeding-raw-html-to-your-llms-solving-the-agentic-token-tax-29c9)
+- [California Unemployment Guide: Navigating the EDD](https://dev.to/moderncyph3r/california-unemployment-guide-navigating-the-edd-3idd)
+- [Building Pre-Execution Gates: Three Architectural Patterns](https://dev.to/ttw/building-pre-execution-gates-three-architectural-patterns-3bo)
+- [Zero Downtime Laravel Deployments Made Easy with phantomshift/laravel-deployer](https://dev.to/ghulamhussainbantwastack/zero-downtime-laravel-deployments-made-easy-with-phantomshiftlaravel-deployer-1fg1)
 <!-- BLOG-POST-LIST:END -->
 
