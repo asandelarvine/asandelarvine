@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How to Create and Use RPC Functions in Supabase with Flutter &lpar;Step-by-Step Guide&rpar;](https://dev.to/codexlancers/how-to-create-and-use-rpc-functions-in-supabase-with-flutter-step-by-step-guide-10o0)
-- [Build a Secure PostgreSQL AI Agent with LangChain + Ollama](https://dev.to/gauravk_tweet/build-a-secure-postgresql-ai-agent-with-langchain-ollama-16c7)
-- [I Used Cursor, Windsurf, and Claude Code for 2 Weeks - Here&#39;s the One I Kept Opening](https://dev.to/digitpatrox/i-used-cursor-windsurf-and-claude-code-for-2-weeks-heres-the-one-i-kept-opening-312l)
-- [Role-Based Content in WordPress Without Membership Plugins](https://dev.to/antigymclub/role-based-content-in-wordpress-without-membership-plugins-4cl8)
+- [Anthropic caught its AI agent blackmailing to survive — here&#39;s how it&#39;s fixing it](https://dev.to/thegatewayguy/anthropic-caught-its-ai-agent-blackmailing-to-survive-heres-how-its-fixing-it-21h9)
+- [Why I built ts-match: TypeScript branching in the era of coding agents](https://dev.to/diegogbrisa/why-i-built-ts-match-typescript-branching-in-the-era-of-coding-agents-14p1)
+- [CrewAI vs LangGraph: Which LLM Agent Framework Should You Use in 2026?](https://dev.to/suifeng023/crewai-vs-langgraph-which-llm-agent-framework-should-you-use-in-2026-3h4n)
+- [The Hidden Cost of &quot;It Works&quot;: Why Quick Fixes Kill Long-Term Speed](https://dev.to/gavincettolo/the-hidden-cost-of-it-works-why-quick-fixes-kill-long-term-speed-1gi5)
 <!-- BLOG-POST-LIST:END -->
 
