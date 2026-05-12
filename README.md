@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What a Free Security Snapshot Can Tell You — and What It Cannot](https://dev.to/stanleya/what-a-free-security-snapshot-can-tell-you-and-what-it-cannot-341p)
-- [I built an MCP server without the @modelcontextprotocol/sdk — here&#39;s what I learned](https://dev.to/cammaccreator/i-built-an-mcp-server-without-the-modelcontextprotocolsdk-heres-what-i-learned-4eo0)
-- [AI Workloads Break Traditional FinOps Models](https://dev.to/ntctech/ai-workloads-break-traditional-finops-models-mnb)
-- [AGENTS.md as a Cross-Tool Plugin Brief: A Case Study from kobiton/automate](https://dev.to/jeremy_longshore/agentsmd-as-a-cross-tool-plugin-brief-a-case-study-from-kobitonautomate-36h)
+- [Someone could be using your domain right now and you would not know](https://dev.to/dnsassistant/someone-could-be-using-your-domain-right-now-and-you-would-not-know-47ji)
+- [Stop Wrestling with Merge Conflicts: Automate the Whole Workflow](https://dev.to/pponali/stop-wrestling-with-merge-conflicts-automate-the-whole-workflow-348m)
+- [📘 Filesystem vs Storage Area &lpar;Disk or Partition&rpar;](https://dev.to/itsmecharan7/filesystem-vs-storage-area-disk-or-partition-3g0m)
+- [Why I Prefer Chicago-Style TDD](https://dev.to/tacoda/why-i-prefer-chicago-style-tdd-31j0)
 <!-- BLOG-POST-LIST:END -->
 
