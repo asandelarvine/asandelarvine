@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Someone could be using your domain right now and you would not know](https://dev.to/dnsassistant/someone-could-be-using-your-domain-right-now-and-you-would-not-know-47ji)
-- [Stop Wrestling with Merge Conflicts: Automate the Whole Workflow](https://dev.to/pponali/stop-wrestling-with-merge-conflicts-automate-the-whole-workflow-348m)
-- [📘 Filesystem vs Storage Area &lpar;Disk or Partition&rpar;](https://dev.to/itsmecharan7/filesystem-vs-storage-area-disk-or-partition-3g0m)
-- [Why I Prefer Chicago-Style TDD](https://dev.to/tacoda/why-i-prefer-chicago-style-tdd-31j0)
+- [70. Hyperparameter Tuning: Finding the Best Settings.](https://dev.to/yakhilesh/70-hyperparameter-tuning-finding-the-best-settings-3ije)
+- [How to Choose a Messaging Protocol for Agent-to-Agent Communication](https://dev.to/artem_a/how-to-choose-a-messaging-protocol-for-agent-to-agent-communication-2obb)
+- [Gograph: Stop letting AI agents hallucinate your Go code &lpar;How to ditch grep for AST&rpar;](https://dev.to/ozgurcd/gograph-stop-letting-ai-agents-hallucinate-your-go-code-how-to-ditch-grep-for-ast-1gac)
+- [Why every data quality tool tells you what broke — but leaves you alone to figure out why](https://dev.to/shivakoreddi/why-every-data-quality-tool-tells-you-what-broke-but-leaves-you-alone-to-figure-out-why-2fk)
 <!-- BLOG-POST-LIST:END -->
 
