@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [why the &#39;hand coding&#39; backlash is really about agency, not nostalgia](https://dev.to/pvgomes/why-the-hand-coding-backlash-is-really-about-agency-not-nostalgia-19bb)
-- [Runtime Governance Isn’t About Control](https://dev.to/hollowhouse/runtime-governance-isnt-about-control-4faa)
-- [How Tree Support Generation Actually Works &lpar;And Why Yours Are Wasting Filament&rpar;](https://dev.to/lanternproton/how-tree-support-generation-actually-works-and-why-yours-are-wasting-filament-2bg9)
-- [Why Pre-Execution Gates Are Your First Line of Defense in AI Systems](https://dev.to/ttw/why-pre-execution-gates-are-your-first-line-of-defense-in-ai-systems-21a)
+- [🚀 How to Create and Use RPC Functions in Supabase with Flutter &lpar;Step-by-Step Guide&rpar;](https://dev.to/codexlancers/how-to-create-and-use-rpc-functions-in-supabase-with-flutter-step-by-step-guide-10o0)
+- [Build a Secure PostgreSQL AI Agent with LangChain + Ollama](https://dev.to/gauravk_tweet/build-a-secure-postgresql-ai-agent-with-langchain-ollama-16c7)
+- [I Used Cursor, Windsurf, and Claude Code for 2 Weeks - Here&#39;s the One I Kept Opening](https://dev.to/digitpatrox/i-used-cursor-windsurf-and-claude-code-for-2-weeks-heres-the-one-i-kept-opening-312l)
+- [Role-Based Content in WordPress Without Membership Plugins](https://dev.to/antigymclub/role-based-content-in-wordpress-without-membership-plugins-4cl8)
 <!-- BLOG-POST-LIST:END -->
 
