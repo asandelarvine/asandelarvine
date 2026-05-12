@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What I learned building a software licensing system for desktop and offline apps](https://dev.to/catsika/what-i-learned-building-a-software-licensing-system-for-desktop-and-offline-apps-7ac)
-- [The Unofficial MojoWiki](https://dev.to/krun_dev/the-unofficial-mojowiki-4gn2)
-- [I Couldn&#39;t Find a Rolling Text Library for Compose, So I Built One](https://dev.to/morozione_e85f4e0ed33e002/i-couldnt-find-a-rolling-text-library-for-compose-so-i-built-one-306b)
-- [Job Post: Full-Stack Software Engineer](https://dev.to/kasseyharmonyai/job-post-full-stack-software-engineer-3265)
+- [why the &#39;hand coding&#39; backlash is really about agency, not nostalgia](https://dev.to/pvgomes/why-the-hand-coding-backlash-is-really-about-agency-not-nostalgia-19bb)
+- [Runtime Governance Isn’t About Control](https://dev.to/hollowhouse/runtime-governance-isnt-about-control-4faa)
+- [How Tree Support Generation Actually Works &lpar;And Why Yours Are Wasting Filament&rpar;](https://dev.to/lanternproton/how-tree-support-generation-actually-works-and-why-yours-are-wasting-filament-2bg9)
+- [Why Pre-Execution Gates Are Your First Line of Defense in AI Systems](https://dev.to/ttw/why-pre-execution-gates-are-your-first-line-of-defense-in-ai-systems-21a)
 <!-- BLOG-POST-LIST:END -->
 
