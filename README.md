@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [70. Hyperparameter Tuning: Finding the Best Settings.](https://dev.to/yakhilesh/70-hyperparameter-tuning-finding-the-best-settings-3ije)
-- [How to Choose a Messaging Protocol for Agent-to-Agent Communication](https://dev.to/artem_a/how-to-choose-a-messaging-protocol-for-agent-to-agent-communication-2obb)
-- [Gograph: Stop letting AI agents hallucinate your Go code &lpar;How to ditch grep for AST&rpar;](https://dev.to/ozgurcd/gograph-stop-letting-ai-agents-hallucinate-your-go-code-how-to-ditch-grep-for-ast-1gac)
-- [Why every data quality tool tells you what broke — but leaves you alone to figure out why](https://dev.to/shivakoreddi/why-every-data-quality-tool-tells-you-what-broke-but-leaves-you-alone-to-figure-out-why-2fk)
+- [Stop Sharing Prompts — Start Shipping Claude Plugins](https://dev.to/montells/stop-sharing-prompts-start-shipping-claude-plugins-od2)
+- [Introduction to Dinghy: a Swiss-army knife for everyday engineering](https://dev.to/mrduguo/introduction-to-dinghy-a-swiss-army-knife-for-everyday-engineering-20l2)
+- [What Nigeria&#39;s Stock Market Taught Me About System Reliability](https://dev.to/okeke_chukwudubem_5f3bf49/what-nigerias-stock-market-taught-me-about-system-reliability-19n4)
+- [Mini Shai-Hulud: un gusano de cadena de suministro que explotó TanStack y el ecosistema npm.](https://dev.to/bush1dom4koto/mini-shai-hulud-un-gusano-de-cadena-de-suministro-que-exploto-tanstack-y-el-ecosistema-npm-4df7)
 <!-- BLOG-POST-LIST:END -->
 
