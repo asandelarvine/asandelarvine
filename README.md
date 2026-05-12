@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java at the Edge: Managing Memory in Serverless and Modern APIs](https://dev.to/jillthornhill/java-at-the-edge-managing-memory-in-serverless-and-modern-apis-4g9k)
-- [The Definitive Guide to Web3 Wallet Segmentation and Analytics](https://dev.to/yos/the-definitive-guide-to-web3-wallet-segmentation-and-analytics-lob)
-- [15+ Web3 Metrics That Drive Real Growth](https://dev.to/yos/15-web3-metrics-that-drive-real-growth-4fpe)
-- [How to Validate a SaaS Idea Before You Write Any Code](https://dev.to/dinukanilupul/how-to-validate-a-saas-idea-before-you-write-any-code-92)
+- [What a Free Security Snapshot Can Tell You — and What It Cannot](https://dev.to/stanleya/what-a-free-security-snapshot-can-tell-you-and-what-it-cannot-341p)
+- [I built an MCP server without the @modelcontextprotocol/sdk — here&#39;s what I learned](https://dev.to/cammaccreator/i-built-an-mcp-server-without-the-modelcontextprotocolsdk-heres-what-i-learned-4eo0)
+- [AI Workloads Break Traditional FinOps Models](https://dev.to/ntctech/ai-workloads-break-traditional-finops-models-mnb)
+- [AGENTS.md as a Cross-Tool Plugin Brief: A Case Study from kobiton/automate](https://dev.to/jeremy_longshore/agentsmd-as-a-cross-tool-plugin-brief-a-case-study-from-kobitonautomate-36h)
 <!-- BLOG-POST-LIST:END -->
 
