@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Before You Fine-Tune Gemma 4, Let a Bigger Gemma Teach Your Smaller One](https://dev.to/prerak_patel_/before-you-fine-tune-gemma-4-let-a-bigger-gemma-teach-your-smaller-one-5a0d)
-- [Kafka ile Event Driven Architecture &lpar;EDA&rpar;: Event ve Channel Tasarımını Doğru Yapmak](https://dev.to/tayfun_yalcinkaya_9c29444/kafka-ile-event-driven-architecture-eda-event-ve-channel-tasarimini-dogru-yapmak-1i23)
-- [C# Networking Deep Dive With io_uring part 3 - Touching the bytes](https://dev.to/mda2av/c-networking-deep-dive-with-iouring-part-3-touching-the-bytes-m9e)
-- [Warp Just Went Open Source: What Indie Hackers Actually Need to Know](https://dev.to/devtoolpicks/warp-just-went-open-source-what-indie-hackers-actually-need-to-know-229l)
+- [Data Analytics with Python as a Beginner](https://dev.to/ericmwaimiri/data-analytics-with-python-as-a-beginner-1hp2)
+- [Leafer Editor — A Free, Open-Source Vector Design Tool for the Browser](https://dev.to/fayismahmood/leafer-editor-a-free-open-source-vector-design-tool-for-the-browser-176l)
+- [Some one tells nice](https://dev.to/ritu2026/some-one-tells-nice-4m8p)
+- [Multi-Service Architecture for Shopify Ecosystems](https://dev.to/masadashraf/multi-service-architecture-for-shopify-ecosystems-1o92)
 <!-- BLOG-POST-LIST:END -->
 
