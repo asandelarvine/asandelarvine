@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Analytics with Python as a Beginner](https://dev.to/ericmwaimiri/data-analytics-with-python-as-a-beginner-1hp2)
-- [Leafer Editor — A Free, Open-Source Vector Design Tool for the Browser](https://dev.to/fayismahmood/leafer-editor-a-free-open-source-vector-design-tool-for-the-browser-176l)
-- [Some one tells nice](https://dev.to/ritu2026/some-one-tells-nice-4m8p)
-- [Multi-Service Architecture for Shopify Ecosystems](https://dev.to/masadashraf/multi-service-architecture-for-shopify-ecosystems-1o92)
+- [Understanding Reinforcement Learning with Neural Networks Part 4: Positive and Negative Rewards](https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-4-positive-and-negative-rewards-23h0)
+- [Building a Cross-Country Payroll API: The Weird Problems I Didn’t Expect](https://dev.to/obolus_dario/building-a-cross-country-payroll-api-the-weird-problems-i-didnt-expect-13e1)
+- [I Built fintech-fraud-sim: A TypeScript CLI for Synthetic Fraud Testing Data](https://dev.to/oluwatosinolamilekan/i-built-fintech-fraud-sim-a-typescript-cli-for-synthetic-fraud-testing-data-34kj)
+- [We moved daily standups into Slack](https://dev.to/kelly_lewandowski_845215e/we-moved-daily-standups-into-slack-14c6)
 <!-- BLOG-POST-LIST:END -->
 
