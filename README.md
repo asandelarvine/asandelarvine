@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New Laptop, New Job, and Two Weeks of Not Touching My Invoice App](https://dev.to/sidharth_sangelia/new-laptop-new-job-and-two-weeks-of-not-touching-my-invoice-app-26l2)
-- [How We Stopped Burning GPU Credits on Duplicate Model Calls](https://dev.to/smartguy666/how-we-stopped-burning-gpu-credits-on-duplicate-model-calls-4149)
-- [Debezium Won&#39;t Start? The Whitespace Bug That Stumped Our Client](https://dev.to/marta-hossted/debezium-wont-start-the-whitespace-bug-that-stumped-our-client-2k73)
-- [SMB Enumeration: una delle fasi più importanti nel penetration testing](https://dev.to/canio_09c0260b90e6c93c69c/smb-enumeration-una-delle-fasi-piu-importanti-nel-penetration-testing-23ne)
+- [Before You Fine-Tune Gemma 4, Let a Bigger Gemma Teach Your Smaller One](https://dev.to/prerak_patel_/before-you-fine-tune-gemma-4-let-a-bigger-gemma-teach-your-smaller-one-5a0d)
+- [Kafka ile Event Driven Architecture &lpar;EDA&rpar;: Event ve Channel Tasarımını Doğru Yapmak](https://dev.to/tayfun_yalcinkaya_9c29444/kafka-ile-event-driven-architecture-eda-event-ve-channel-tasarimini-dogru-yapmak-1i23)
+- [C# Networking Deep Dive With io_uring part 3 - Touching the bytes](https://dev.to/mda2av/c-networking-deep-dive-with-iouring-part-3-touching-the-bytes-m9e)
+- [Warp Just Went Open Source: What Indie Hackers Actually Need to Know](https://dev.to/devtoolpicks/warp-just-went-open-source-what-indie-hackers-actually-need-to-know-229l)
 <!-- BLOG-POST-LIST:END -->
 
