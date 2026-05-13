@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop feeding raw HTML to your LLMs &lpar;Solving the Agentic Token Tax&rpar;](https://dev.to/dominic-pi-sunyer/stop-feeding-raw-html-to-your-llms-solving-the-agentic-token-tax-29c9)
-- [California Unemployment Guide: Navigating the EDD](https://dev.to/moderncyph3r/california-unemployment-guide-navigating-the-edd-3idd)
-- [Building Pre-Execution Gates: Three Architectural Patterns](https://dev.to/ttw/building-pre-execution-gates-three-architectural-patterns-3bo)
-- [Zero Downtime Laravel Deployments Made Easy with phantomshift/laravel-deployer](https://dev.to/ghulamhussainbantwastack/zero-downtime-laravel-deployments-made-easy-with-phantomshiftlaravel-deployer-1fg1)
+- [Formspree vs Formgrid in 2026: Which One Actually Helps You Win Customers?](https://dev.to/allenarduino/formspree-vs-formgrid-in-2026-which-one-actually-helps-you-win-customers-5dfc)
+- [Stop feeding raw HTML to your LLMs &lpar;Solving the Agentic Token Tax&rpar;](https://dev.to/dominic-pi-sunyer/stop-feeding-raw-html-to-your-llms-solving-the-agentic-token-tax-547f)
+- [Your Next Cloud Region Choice Might Be Limited by a Power Grid You&#39;ve Never Heard Of](https://dev.to/lumina_surge_9f23e1b76747/your-next-cloud-region-choice-might-be-limited-by-a-power-grid-youve-never-heard-of-14km)
+- [One Viewer for Every File: A Better Story for React Apps](https://dev.to/naveen_kumar_19/one-viewer-for-every-file-a-better-story-for-react-apps-2cb1)
 <!-- BLOG-POST-LIST:END -->
 
