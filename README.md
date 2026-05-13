@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [WP-CLI: Advanced Techniques for Real-World WordPress Development — Part 2](https://dev.to/kushang_tailor/wp-cli-advanced-techniques-for-real-world-wordpress-development-part-2-2n7n)
-- [10 Git Mistakes Beginners Make &lpar;And How to Avoid Them&rpar;](https://dev.to/0shuvo0/10-git-mistakes-beginners-make-and-how-to-avoid-them-1e44)
-- [We fed meeting minutes to AI without structure — and lost 70% of the data we needed for decisions](https://dev.to/kozo-ki/we-fed-meeting-minutes-to-ai-without-structure-and-lost-70-of-the-data-we-needed-for-decisions-4k49)
-- [What Is DevOps — and Why Does It Matter?](https://dev.to/suresh_adhikari_107bb75d5/what-is-devops-and-why-does-it-matter-1pgb)
+- [I Built an open directory of coding agents,prompts,rules &amp; skills](https://dev.to/beel-collab/i-built-an-open-directory-of-coding-agentspromptsrules-skills-28g3)
+- [How to use Claude code](https://dev.to/roelvs/how-to-use-claude-code-23al)
+- [Gemma 4 and Pressable MCP: safe AI hosting in Linux terminal](https://dev.to/digital-abetka/gemma-4-and-pressable-mcp-safe-ai-hosting-in-linux-terminal-5aj9)
+- [Claude Code Helped Me Build a Searchable Version of My Own Thinking](https://dev.to/numbpill3d/claude-code-helped-me-build-a-searchable-version-of-my-own-thinking-34f2)
 <!-- BLOG-POST-LIST:END -->
 
