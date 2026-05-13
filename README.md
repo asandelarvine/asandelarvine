@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Reinforcement Learning with Neural Networks Part 4: Positive and Negative Rewards](https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-4-positive-and-negative-rewards-23h0)
-- [Building a Cross-Country Payroll API: The Weird Problems I Didn’t Expect](https://dev.to/obolus_dario/building-a-cross-country-payroll-api-the-weird-problems-i-didnt-expect-13e1)
-- [I Built fintech-fraud-sim: A TypeScript CLI for Synthetic Fraud Testing Data](https://dev.to/oluwatosinolamilekan/i-built-fintech-fraud-sim-a-typescript-cli-for-synthetic-fraud-testing-data-34kj)
-- [We moved daily standups into Slack](https://dev.to/kelly_lewandowski_845215e/we-moved-daily-standups-into-slack-14c6)
+- [I kept noticing my overtime paycheck felt wrong, so I built a small calculator](https://dev.to/leviali12/i-kept-noticing-my-overtime-paycheck-felt-wrong-so-i-built-a-small-calculator-3oik)
+- [How to Build a Privacy-First Search Engine in 2026](https://dev.to/james12345000/how-to-build-a-privacy-first-search-engine-in-2026-3735)
+- [Claude Code Stops Pausing Every Turn: /goal, /loop, /batch, /background](https://dev.to/jessyt/claude-code-stops-pausing-every-turn-goal-loop-batch-background-3lkm)
+- [How I built an AI reporter for Playwright that explains test failures](https://dev.to/sechavarriar/how-i-built-an-ai-reporter-for-playwright-that-explains-test-failures-5ep)
 <!-- BLOG-POST-LIST:END -->
 
