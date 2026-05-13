@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is Vibe Coding like an addiction? &lpar;My pov&rpar;](https://dev.to/siradj/why-is-vibe-coding-like-an-addiction-my-pov-4n01)
-- [The $0 to $50/Month Tech Stack to Launch Your First SaaS](https://dev.to/web_dev-usman/the-0-to-50month-tech-stack-to-launch-your-first-saas-12c9)
-- [ECA vs Rules vs Custom Code: The 2-Minute Decision Guide](https://dev.to/neharika_mohan/eca-vs-rules-vs-custom-code-the-2-minute-decision-guide-26jg)
-- [Understanding SQL query structure](https://dev.to/weenaithdev/understanding-sql-query-structure-4hei)
+- [New Laptop, New Job, and Two Weeks of Not Touching My Invoice App](https://dev.to/sidharth_sangelia/new-laptop-new-job-and-two-weeks-of-not-touching-my-invoice-app-26l2)
+- [How We Stopped Burning GPU Credits on Duplicate Model Calls](https://dev.to/smartguy666/how-we-stopped-burning-gpu-credits-on-duplicate-model-calls-4149)
+- [Debezium Won&#39;t Start? The Whitespace Bug That Stumped Our Client](https://dev.to/marta-hossted/debezium-wont-start-the-whitespace-bug-that-stumped-our-client-2k73)
+- [SMB Enumeration: una delle fasi più importanti nel penetration testing](https://dev.to/canio_09c0260b90e6c93c69c/smb-enumeration-una-delle-fasi-piu-importanti-nel-penetration-testing-23ne)
 <!-- BLOG-POST-LIST:END -->
 
