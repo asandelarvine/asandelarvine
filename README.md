@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an open directory of coding agents,prompts,rules &amp; skills](https://dev.to/beel-collab/i-built-an-open-directory-of-coding-agentspromptsrules-skills-28g3)
-- [How to use Claude code](https://dev.to/roelvs/how-to-use-claude-code-23al)
-- [Gemma 4 and Pressable MCP: safe AI hosting in Linux terminal](https://dev.to/digital-abetka/gemma-4-and-pressable-mcp-safe-ai-hosting-in-linux-terminal-5aj9)
-- [Claude Code Helped Me Build a Searchable Version of My Own Thinking](https://dev.to/numbpill3d/claude-code-helped-me-build-a-searchable-version-of-my-own-thinking-34f2)
+- [Why is Vibe Coding like an addiction? &lpar;My pov&rpar;](https://dev.to/siradj/why-is-vibe-coding-like-an-addiction-my-pov-4n01)
+- [The $0 to $50/Month Tech Stack to Launch Your First SaaS](https://dev.to/web_dev-usman/the-0-to-50month-tech-stack-to-launch-your-first-saas-12c9)
+- [ECA vs Rules vs Custom Code: The 2-Minute Decision Guide](https://dev.to/neharika_mohan/eca-vs-rules-vs-custom-code-the-2-minute-decision-guide-26jg)
+- [Understanding SQL query structure](https://dev.to/weenaithdev/understanding-sql-query-structure-4hei)
 <!-- BLOG-POST-LIST:END -->
 
