@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd)
-- [The Modern Way to Clone Postgres in 2026](https://dev.to/reeshee/the-modern-way-to-clone-postgres-in-2026-kmi)
-- [How to Inline CSS for HTML Email, The Complete Guide](https://dev.to/min8t/how-to-inline-css-for-html-email-the-complete-guide-24pe)
-- [Facades no Laravel entregam velocidade, mas cobram o preço em acoplamento](https://dev.to/merielimanzano/facades-sao-o-cafe-do-laravel-resolvem-rapido-mas-viciam-e-escondem-o-problema-1o8c)
+- [Building a DPI-Resistant VPN with VLESS REALITY &amp; Nginx &lpar;Open Source&rpar;](https://dev.to/obeliskpn/building-a-dpi-resistant-vpn-with-vless-reality-nginx-open-source-2c8d)
+- [Building Connect Freelance — A Trust-Focused Freelance Platform](https://dev.to/therohanpatil15/building-connect-freelance-a-trust-focused-freelance-platform-7mo)
+- [Stop reimplementing file uploads for your Python ASGI app. Meet tussi.](https://dev.to/bartscherer/stop-reimplementing-file-uploads-for-your-python-asgi-app-meet-tussi-85n)
+- [If You Can Survive a Toddler, You Can Ship LLMs in Production](https://dev.to/sattensil888/if-you-can-survive-a-toddler-you-can-ship-llms-in-production-2389)
 <!-- BLOG-POST-LIST:END -->
 
