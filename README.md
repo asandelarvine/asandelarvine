@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Optimization Search Works — From Hill Climbing to Genetic Algorithms](https://dev.to/zeromathai/how-optimization-search-works-from-hill-climbing-to-genetic-algorithms-5876)
-- [How Neural Networks Work — From Perceptrons to Backpropagation](https://dev.to/zeromathai/how-neural-networks-work-from-perceptrons-to-backpropagation-1d6d)
-- [Building a Menubar App with Tauri v2 — What Nobody Tells You](https://dev.to/hiyoyok/building-a-menubar-app-with-tauri-v2-what-nobody-tells-you-9a2)
-- [Do Open Frontier Models Have A Chance Against Closed Models?](https://dev.to/jagostoni/do-open-frontier-models-have-a-chance-against-closed-models-312p)
+- [Two Gates Are Closing on AI Web Scraping](https://dev.to/simon_paxton/two-gates-are-closing-on-ai-web-scraping-3l95)
+- [From Piper to Polly: How I Built a Production-Ready Text-to-Speech API &lpar;and Everything That Broke Along the Way&rpar;](https://dev.to/elizabeththomas7/from-piper-to-polly-how-i-built-a-production-ready-text-to-speech-api-and-everything-that-broke-nl9)
+- [Your bundle is 4000x bigger than Quake. The 9-step audit that fixes it.](https://dev.to/thegdsks/your-bundle-is-4000x-bigger-than-quake-the-9-step-audit-that-fixes-it-5cpb)
+- [Building AI Agents That Don&#39;t Break in Production: Lessons From Real Deployments](https://dev.to/lycore/building-ai-agents-that-dont-break-in-production-lessons-from-real-deployments-1481)
 <!-- BLOG-POST-LIST:END -->
 
