@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I kept noticing my overtime paycheck felt wrong, so I built a small calculator](https://dev.to/leviali12/i-kept-noticing-my-overtime-paycheck-felt-wrong-so-i-built-a-small-calculator-3oik)
-- [How to Build a Privacy-First Search Engine in 2026](https://dev.to/james12345000/how-to-build-a-privacy-first-search-engine-in-2026-3735)
-- [Claude Code Stops Pausing Every Turn: /goal, /loop, /batch, /background](https://dev.to/jessyt/claude-code-stops-pausing-every-turn-goal-loop-batch-background-3lkm)
-- [How I built an AI reporter for Playwright that explains test failures](https://dev.to/sechavarriar/how-i-built-an-ai-reporter-for-playwright-that-explains-test-failures-5ep)
+- [How Optimization Search Works — From Hill Climbing to Genetic Algorithms](https://dev.to/zeromathai/how-optimization-search-works-from-hill-climbing-to-genetic-algorithms-5876)
+- [How Neural Networks Work — From Perceptrons to Backpropagation](https://dev.to/zeromathai/how-neural-networks-work-from-perceptrons-to-backpropagation-1d6d)
+- [Building a Menubar App with Tauri v2 — What Nobody Tells You](https://dev.to/hiyoyok/building-a-menubar-app-with-tauri-v2-what-nobody-tells-you-9a2)
+- [Do Open Frontier Models Have A Chance Against Closed Models?](https://dev.to/jagostoni/do-open-frontier-models-have-a-chance-against-closed-models-312p)
 <!-- BLOG-POST-LIST:END -->
 
