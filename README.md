@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ArcadeLab vs itch.io vs Glitch vs GitHub Pages — which to use?](https://dev.to/arcadelab/arcadelab-vs-itchio-vs-glitch-vs-github-pages-which-to-use-2eg2)
-- [Using Cypress Component Testing with Angular and Vite](https://dev.to/brandontroberts/using-cypress-component-testing-with-angular-and-vite-2f31)
-- [Where can I publish an interactive visualization online?](https://dev.to/arcadelab/where-can-i-publish-an-interactive-visualization-online-4pep)
-- [How do I share an interactive thing I made with Claude or AI?](https://dev.to/arcadelab/how-do-i-share-an-interactive-thing-i-made-with-claude-or-ai-5c5p)
+- [Security in SQLite: Protecting Data in a Database That Trusts the File System](https://dev.to/lovestaco/security-in-sqlite-protecting-data-in-a-database-that-trusts-the-file-system-57ek)
+- [I built a permission-first CLAUDE.md + agent stack for Claude Code &lpar;free, MIT&rpar;](https://dev.to/sabahattink/i-built-a-permission-first-claudemd-agent-stack-for-claude-code-free-mit-4ep6)
+- [Adding native-feeling haptics to Angular web apps with ng-haptics](https://dev.to/xaconi_94/adding-native-feeling-haptics-to-angular-web-apps-with-ng-haptics-3j3l)
+- [Audit Your File System with Surveilr: A Practical Guide](https://dev.to/mukhtar_onif/audit-your-file-system-with-surveilr-a-practical-guide-140k)
 <!-- BLOG-POST-LIST:END -->
 
