@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Downtime Deployments for a React + Node App](https://dev.to/sohanaakbar7/zero-downtime-deployments-for-a-react-node-app-o9b)
-- [What is AI Visibility and why I built GEO Checker AI](https://dev.to/geochecker/what-is-ai-visibility-and-why-i-built-geo-checker-ai-3j03)
-- [Your Skill Has a Ceiling You Don&#39;t Know About](https://dev.to/rotiferdev/your-skill-has-a-ceiling-you-dont-know-about-2o8j)
-- [What Ad Networks Does CamScanner Use? I Decompiled the APK to Find Out](https://dev.to/orange_black_1c98182920bb/i-reverse-engineered-camscanner-heres-whats-inside-3nec)
+- [Deploying a Rust MCP Server to Amazon Lambda with Gemini CLI](https://dev.to/gde/deploying-a-rust-mcp-server-to-amazon-lambda-with-gemini-cli-41hd)
+- [The Modern Way to Clone Postgres in 2026](https://dev.to/reeshee/the-modern-way-to-clone-postgres-in-2026-kmi)
+- [How to Inline CSS for HTML Email, The Complete Guide](https://dev.to/min8t/how-to-inline-css-for-html-email-the-complete-guide-24pe)
+- [Facades no Laravel entregam velocidade, mas cobram o preço em acoplamento](https://dev.to/merielimanzano/facades-sao-o-cafe-do-laravel-resolvem-rapido-mas-viciam-e-escondem-o-problema-1o8c)
 <!-- BLOG-POST-LIST:END -->
 
