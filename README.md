@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Security in SQLite: Protecting Data in a Database That Trusts the File System](https://dev.to/lovestaco/security-in-sqlite-protecting-data-in-a-database-that-trusts-the-file-system-57ek)
-- [I built a permission-first CLAUDE.md + agent stack for Claude Code &lpar;free, MIT&rpar;](https://dev.to/sabahattink/i-built-a-permission-first-claudemd-agent-stack-for-claude-code-free-mit-4ep6)
-- [Adding native-feeling haptics to Angular web apps with ng-haptics](https://dev.to/xaconi_94/adding-native-feeling-haptics-to-angular-web-apps-with-ng-haptics-3j3l)
-- [Audit Your File System with Surveilr: A Practical Guide](https://dev.to/mukhtar_onif/audit-your-file-system-with-surveilr-a-practical-guide-140k)
+- [How I Built a Privacy-First Facial Similarity Network using React &amp; Firebase](https://dev.to/shtatskyi/how-i-built-a-privacy-first-facial-similarity-network-using-react-firebase-19gd)
+- [Automate Instagram Carousel Posts with n8n + RenderPix](https://dev.to/ozgurs/automate-instagram-carousel-posts-with-n8n-renderpix-3e2)
+- [Scalable Shopify Integration Patterns Every Developer Should Know](https://dev.to/masadashraf/scalable-shopify-integration-patterns-every-developer-should-know-2l94)
+- [What is Agent Memory and why does it matter?](https://dev.to/anilmurty/what-is-agent-memory-and-why-does-it-matter-3469)
 <!-- BLOG-POST-LIST:END -->
 
