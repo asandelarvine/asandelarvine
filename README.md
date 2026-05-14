@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Fitness Wearable Companion App with React Native &lpar;HealthKit + Health Connect&rpar;](https://dev.to/famitha_ma_b9c13ab1d324e/build-a-fitness-wearable-companion-app-with-react-native-healthkit-health-connect-57en)
-- [Context is what you are missing in your AI Agents](https://dev.to/pavanbelagatti/context-is-what-you-are-missing-in-ai-agents-3clj)
-- [The Firmware Engineer’s Nightmare: When &#39;If-Else&#39; is no longer enough](https://dev.to/durva_shah/the-firmware-engineers-nightmare-when-if-else-is-no-longer-enough-357e)
-- [A Beginner’s Guide to Apache Kafka: The Engine of Real-Time Data](https://dev.to/lawrence_murithi/a-beginners-guide-to-apache-kafka-the-engine-of-real-time-data-2k7j)
+- [Converting JSON to CSV: How to Flatten Nested Data for Spreadsheets](https://dev.to/snappy_tools/converting-json-to-csv-how-to-flatten-nested-data-for-spreadsheets-4lb0)
+- [Lambda Cold Starts Are Not Solved — They Moved to INIT Phase](https://dev.to/dineshgowtham/lambda-cold-starts-are-not-solved-they-moved-to-init-phase-4go9)
+- [Why Agency Owners Complain About Onboarding But Never Fix It](https://dev.to/lisasakura/why-agency-owners-complain-about-onboarding-but-never-fix-it-3m5m)
+- [Top 7 Quantum Computing Breakthroughs That Changed 2024](https://dev.to/ghoasha_46c1feabcdcaa18f0/top-7-quantum-computing-breakthroughs-that-changed-2024-54hc)
 <!-- BLOG-POST-LIST:END -->
 
