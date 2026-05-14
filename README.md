@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a DPI-Resistant VPN with VLESS REALITY &amp; Nginx &lpar;Open Source&rpar;](https://dev.to/obeliskpn/building-a-dpi-resistant-vpn-with-vless-reality-nginx-open-source-2c8d)
-- [Building Connect Freelance — A Trust-Focused Freelance Platform](https://dev.to/therohanpatil15/building-connect-freelance-a-trust-focused-freelance-platform-7mo)
-- [Stop reimplementing file uploads for your Python ASGI app. Meet tussi.](https://dev.to/bartscherer/stop-reimplementing-file-uploads-for-your-python-asgi-app-meet-tussi-85n)
-- [If You Can Survive a Toddler, You Can Ship LLMs in Production](https://dev.to/sattensil888/if-you-can-survive-a-toddler-you-can-ship-llms-in-production-2389)
+- [ArcadeLab vs itch.io vs Glitch vs GitHub Pages — which to use?](https://dev.to/arcadelab/arcadelab-vs-itchio-vs-glitch-vs-github-pages-which-to-use-2eg2)
+- [Using Cypress Component Testing with Angular and Vite](https://dev.to/brandontroberts/using-cypress-component-testing-with-angular-and-vite-2f31)
+- [Where can I publish an interactive visualization online?](https://dev.to/arcadelab/where-can-i-publish-an-interactive-visualization-online-4pep)
+- [How do I share an interactive thing I made with Claude or AI?](https://dev.to/arcadelab/how-do-i-share-an-interactive-thing-i-made-with-claude-or-ai-5c5p)
 <!-- BLOG-POST-LIST:END -->
 
