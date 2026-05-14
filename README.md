@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Converting JSON to CSV: How to Flatten Nested Data for Spreadsheets](https://dev.to/snappy_tools/converting-json-to-csv-how-to-flatten-nested-data-for-spreadsheets-4lb0)
-- [Lambda Cold Starts Are Not Solved — They Moved to INIT Phase](https://dev.to/dineshgowtham/lambda-cold-starts-are-not-solved-they-moved-to-init-phase-4go9)
-- [Why Agency Owners Complain About Onboarding But Never Fix It](https://dev.to/lisasakura/why-agency-owners-complain-about-onboarding-but-never-fix-it-3m5m)
-- [Top 7 Quantum Computing Breakthroughs That Changed 2024](https://dev.to/ghoasha_46c1feabcdcaa18f0/top-7-quantum-computing-breakthroughs-that-changed-2024-54hc)
+- [Zero-Downtime Deployments for a React + Node App](https://dev.to/sohanaakbar7/zero-downtime-deployments-for-a-react-node-app-o9b)
+- [What is AI Visibility and why I built GEO Checker AI](https://dev.to/geochecker/what-is-ai-visibility-and-why-i-built-geo-checker-ai-3j03)
+- [Your Skill Has a Ceiling You Don&#39;t Know About](https://dev.to/rotiferdev/your-skill-has-a-ceiling-you-dont-know-about-2o8j)
+- [What Ad Networks Does CamScanner Use? I Decompiled the APK to Find Out](https://dev.to/orange_black_1c98182920bb/i-reverse-engineered-camscanner-heres-whats-inside-3nec)
 <!-- BLOG-POST-LIST:END -->
 
