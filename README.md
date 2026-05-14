@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Gates Are Closing on AI Web Scraping](https://dev.to/simon_paxton/two-gates-are-closing-on-ai-web-scraping-3l95)
-- [From Piper to Polly: How I Built a Production-Ready Text-to-Speech API &lpar;and Everything That Broke Along the Way&rpar;](https://dev.to/elizabeththomas7/from-piper-to-polly-how-i-built-a-production-ready-text-to-speech-api-and-everything-that-broke-nl9)
-- [Your bundle is 4000x bigger than Quake. The 9-step audit that fixes it.](https://dev.to/thegdsks/your-bundle-is-4000x-bigger-than-quake-the-9-step-audit-that-fixes-it-5cpb)
-- [Building AI Agents That Don&#39;t Break in Production: Lessons From Real Deployments](https://dev.to/lycore/building-ai-agents-that-dont-break-in-production-lessons-from-real-deployments-1481)
+- [Build a Fitness Wearable Companion App with React Native &lpar;HealthKit + Health Connect&rpar;](https://dev.to/famitha_ma_b9c13ab1d324e/build-a-fitness-wearable-companion-app-with-react-native-healthkit-health-connect-57en)
+- [Context is what you are missing in your AI Agents](https://dev.to/pavanbelagatti/context-is-what-you-are-missing-in-ai-agents-3clj)
+- [The Firmware Engineer’s Nightmare: When &#39;If-Else&#39; is no longer enough](https://dev.to/durva_shah/the-firmware-engineers-nightmare-when-if-else-is-no-longer-enough-357e)
+- [A Beginner’s Guide to Apache Kafka: The Engine of Real-Time Data](https://dev.to/lawrence_murithi/a-beginners-guide-to-apache-kafka-the-engine-of-real-time-data-2k7j)
 <!-- BLOG-POST-LIST:END -->
 
