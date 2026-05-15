@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable Web Solutions &amp; Business Automation: My Journey as a Software Engineer](https://dev.to/mhmdragb01/building-scalable-web-solutions-business-automation-my-journey-as-a-software-engineer-35l3)
-- [Weekly Dev Log 2026-W05](https://dev.to/umitomo-lab/weekly-dev-log-2026-w05-3f1g)
-- [I built GhostType: inline AI text completion for every app on macOS](https://dev.to/mk668a/i-built-ghosttype-copilot-style-ghost-text-completion-for-every-app-on-macos-1o16)
-- [I Installed Kiro CLI on EC2: Here&#39;s Why My First Attempt Failed](https://dev.to/aws-builders/i-installed-kiro-cli-on-ec2-heres-why-my-first-attempt-failed-38hb)
+- [Finally, Everything.. is going well ?](https://dev.to/notprs/finally-everything-is-going-well--1la3)
+- [Stop Using ChatGPT Like a Search Box: Build Better Prompts, Projects, and Custom GPTs](https://dev.to/mike_anderson_d01f52129fb/stop-using-chatgpt-like-a-search-box-build-better-prompts-projects-and-custom-gpts-5e9)
+- [FULL SSRF + EXFILTRACION EN CRAWLEE](https://dev.to/arturo0x90/full-ssrf-exfiltracion-en-crawlee-1n0f)
+- [HTML Minification: What Gets Removed and Why It&#39;s Safe](https://dev.to/snappy_tools/html-minification-what-gets-removed-and-why-its-safe-40b9)
 <!-- BLOG-POST-LIST:END -->
 
