@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ovie for Absolute Beginners: Your First Programming Language Could Be This One](https://dev.to/southwarridev/ovie-for-absolute-beginners-your-first-programming-language-could-be-this-one-4h6j)
-- [What Is Token 2022 and Why Solana Built It](https://dev.to/100daysofsolana/what-is-token-2022-and-why-solana-built-it-53io)
-- [React Performance: 8 Fixes That Actually Matter &lpar;2026&rpar;](https://dev.to/armorbreak/react-performance-8-fixes-that-actually-matter-2026-151f)
-- [Intentional Model Selection — How to Actually Choose the Right Gemma 4 Variant for Your Workload](https://dev.to/abhishekmauryageek/intentional-model-selection-how-to-actually-choose-the-right-gemma-4-variant-for-your-workload-4lj7)
+- [I built a Stable Diffusion playground in 200 lines and zero API keys. Here&#39;s how.](https://dev.to/dev48v/i-built-a-stable-diffusion-playground-in-200-lines-and-zero-api-keys-heres-how-40c0)
+- [Why I Replaced Multipass with OrbStack — And Built a Better Kubernetes Lab on My Mac](https://dev.to/nkmakau/why-i-replaced-multipass-with-orbstack-and-built-a-better-kubernetes-lab-on-my-mac-50p)
+- [Design Patterns: The Universal Language Every Developer Should Speak](https://dev.to/guayoyo_tech/design-patterns-the-universal-language-every-developer-should-speak-247l)
+- [Patrones de Diseño: El Lenguaje Universal que Todo Developer Debería Hablar](https://dev.to/guayoyo_tech/patrones-de-diseno-el-lenguaje-universal-que-todo-developer-deberia-hablar-1e10)
 <!-- BLOG-POST-LIST:END -->
 
