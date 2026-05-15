@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Stable Diffusion playground in 200 lines and zero API keys. Here&#39;s how.](https://dev.to/dev48v/i-built-a-stable-diffusion-playground-in-200-lines-and-zero-api-keys-heres-how-40c0)
-- [Why I Replaced Multipass with OrbStack — And Built a Better Kubernetes Lab on My Mac](https://dev.to/nkmakau/why-i-replaced-multipass-with-orbstack-and-built-a-better-kubernetes-lab-on-my-mac-50p)
-- [Design Patterns: The Universal Language Every Developer Should Speak](https://dev.to/guayoyo_tech/design-patterns-the-universal-language-every-developer-should-speak-247l)
-- [Patrones de Diseño: El Lenguaje Universal que Todo Developer Debería Hablar](https://dev.to/guayoyo_tech/patrones-de-diseno-el-lenguaje-universal-que-todo-developer-deberia-hablar-1e10)
+- [Git and Unity: A Comprehensive Guide to Version Control for Game Devs](https://dev.to/virtualmaker/git-and-unity-a-comprehensive-guide-to-version-control-for-game-devs-2n2a)
+- [JavaScript String Methods: The Ultimate Cheat Sheet](https://dev.to/armorbreak/javascript-string-methods-the-ultimate-cheat-sheet-8g8)
+- [Managing Environment Variables in Node.js: The Complete Guide](https://dev.to/armorbreak/managing-environment-variables-in-nodejs-the-complete-guide-1c6o)
+- [How I Built a 4-Layer Email Validator API with FastAPI and Published it on RapidAPI](https://dev.to/pabscueto/how-i-built-a-4-layer-email-validator-api-with-fastapi-and-published-it-on-rapidapi-3g28)
 <!-- BLOG-POST-LIST:END -->
 
