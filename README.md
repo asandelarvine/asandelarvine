@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Finally, Everything.. is going well ?](https://dev.to/notprs/finally-everything-is-going-well--1la3)
-- [Stop Using ChatGPT Like a Search Box: Build Better Prompts, Projects, and Custom GPTs](https://dev.to/mike_anderson_d01f52129fb/stop-using-chatgpt-like-a-search-box-build-better-prompts-projects-and-custom-gpts-5e9)
-- [FULL SSRF + EXFILTRACION EN CRAWLEE](https://dev.to/arturo0x90/full-ssrf-exfiltracion-en-crawlee-1n0f)
-- [HTML Minification: What Gets Removed and Why It&#39;s Safe](https://dev.to/snappy_tools/html-minification-what-gets-removed-and-why-its-safe-40b9)
+- [The Most Powerful Item Wasn&#39;t a Weapon. It Was a Key.](https://dev.to/sam_novak_574b07811e18495/the-most-powerful-item-wasnt-a-weapon-it-was-a-key-19h)
+- [Exodus Point Data Engineering Interview Questions: Full DE Prep Guide](https://dev.to/gowthampotureddi/exodus-point-data-engineering-interview-questions-full-de-prep-guide-10h3)
+- [Introduction to Python for Data Analysis: A Beginner’s Guide](https://dev.to/joseph_mwangi_3ae1f57a132/introduction-to-python-for-data-analysis-a-beginners-guide-2abp)
+- [The ecommerce metric nobody tracks but every seller pays for](https://dev.to/nventory/the-ecommerce-metric-nobody-tracks-but-every-seller-pays-for-4bm5)
 <!-- BLOG-POST-LIST:END -->
 
