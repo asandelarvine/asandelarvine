@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Remy and Meta Hatch: The Technical Architecture Behind 24/7 Personal AI Agents](https://dev.to/ismail_haddou/google-remy-and-meta-hatch-the-technical-architecture-behind-247-personal-ai-agents-gnl)
-- [A dating algorithm that physically cannot read photos &lpar;and why I wrote it that way&rpar;](https://dev.to/ggyanie/a-dating-algorithm-that-physically-cannot-read-photos-and-why-i-wrote-it-that-way-5gb)
-- [CPU Humbled Me — A Kubernetes Throttling Story Hidden Between Prometheus Scrapes](https://dev.to/blackzu/cpu-humbled-me-a-kubernetes-throttling-story-hidden-between-prometheus-scrapes-4ah8)
-- [4 Berlin Tech Meetups Worth Your Tuesday Night in 2026](https://dev.to/raxxostudios/4-berlin-tech-meetups-worth-your-tuesday-night-in-2026-d94)
+- [I Reverse-Engineered NYC Local Law 97. Here&#39;s What 40% of Buildings Are Getting Wrong.](https://dev.to/tinashe_/i-reverse-engineered-nyc-local-law-97-heres-what-40-of-buildings-are-getting-wrong-2n31)
+- [I Audited 70 Companies&#39; llms.txt Files. Most Don&#39;t Have One.](https://dev.to/intally/i-audited-70-companies-llmstxt-files-most-dont-have-one-22g2)
+- [🧠 Beyond Chatbots: Understanding Hermes Agent and the Rise of Autonomous AI Systems](https://dev.to/muhammad_yasin_f39f26989f/beyond-chatbots-understanding-hermes-agent-and-the-rise-of-autonomous-ai-systems-3p12)
+- [XGBoost: When Gradient Boosting Meets Regularization](https://dev.to/jacobjerryarackal/xgboost-when-gradient-boosting-meets-regularization-36kk)
 <!-- BLOG-POST-LIST:END -->
 
