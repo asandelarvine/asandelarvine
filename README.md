@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Native glibc &lpar;Debian&rpar; Binaries on Android 15 Without PRoot](https://dev.to/opassoca/running-native-glibc-debian-binaries-on-android-15-without-proot-1hmo)
-- [Hexagons, Hypertables, and 240 Dead Tags: Migrating a Maritime Data Platform to TimescaleDB](https://dev.to/vessel_api/hexagons-hypertables-and-240-dead-tags-migrating-a-maritime-data-platform-to-timescaledb-m72)
-- [Bug Bounty Mode in Spectrion](https://dev.to/denisbabkevich/bug-bounty-mode-in-spectrion-1i3k)
-- [Useful &amp; Commonly Used HTTP Status Codes for Your Next API Project](https://dev.to/frankstack/useful-commonly-used-http-status-codes-for-your-next-api-project-364p)
+- [Building Scalable Web Solutions &amp; Business Automation: My Journey as a Software Engineer](https://dev.to/mhmdragb01/building-scalable-web-solutions-business-automation-my-journey-as-a-software-engineer-35l3)
+- [Weekly Dev Log 2026-W05](https://dev.to/umitomo-lab/weekly-dev-log-2026-w05-3f1g)
+- [I built GhostType: inline AI text completion for every app on macOS](https://dev.to/mk668a/i-built-ghosttype-copilot-style-ghost-text-completion-for-every-app-on-macos-1o16)
+- [I Installed Kiro CLI on EC2: Here&#39;s Why My First Attempt Failed](https://dev.to/aws-builders/i-installed-kiro-cli-on-ec2-heres-why-my-first-attempt-failed-38hb)
 <!-- BLOG-POST-LIST:END -->
 
