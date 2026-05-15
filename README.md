@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Reverse-Engineered NYC Local Law 97. Here&#39;s What 40% of Buildings Are Getting Wrong.](https://dev.to/tinashe_/i-reverse-engineered-nyc-local-law-97-heres-what-40-of-buildings-are-getting-wrong-2n31)
-- [I Audited 70 Companies&#39; llms.txt Files. Most Don&#39;t Have One.](https://dev.to/intally/i-audited-70-companies-llmstxt-files-most-dont-have-one-22g2)
-- [🧠 Beyond Chatbots: Understanding Hermes Agent and the Rise of Autonomous AI Systems](https://dev.to/muhammad_yasin_f39f26989f/beyond-chatbots-understanding-hermes-agent-and-the-rise-of-autonomous-ai-systems-3p12)
-- [XGBoost: When Gradient Boosting Meets Regularization](https://dev.to/jacobjerryarackal/xgboost-when-gradient-boosting-meets-regularization-36kk)
+- [Ovie for Absolute Beginners: Your First Programming Language Could Be This One](https://dev.to/southwarridev/ovie-for-absolute-beginners-your-first-programming-language-could-be-this-one-4h6j)
+- [What Is Token 2022 and Why Solana Built It](https://dev.to/100daysofsolana/what-is-token-2022-and-why-solana-built-it-53io)
+- [React Performance: 8 Fixes That Actually Matter &lpar;2026&rpar;](https://dev.to/armorbreak/react-performance-8-fixes-that-actually-matter-2026-151f)
+- [Intentional Model Selection — How to Actually Choose the Right Gemma 4 Variant for Your Workload](https://dev.to/abhishekmauryageek/intentional-model-selection-how-to-actually-choose-the-right-gemma-4-variant-for-your-workload-4lj7)
 <!-- BLOG-POST-LIST:END -->
 
