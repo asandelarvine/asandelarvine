@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Most Powerful Item Wasn&#39;t a Weapon. It Was a Key.](https://dev.to/sam_novak_574b07811e18495/the-most-powerful-item-wasnt-a-weapon-it-was-a-key-19h)
-- [Exodus Point Data Engineering Interview Questions: Full DE Prep Guide](https://dev.to/gowthampotureddi/exodus-point-data-engineering-interview-questions-full-de-prep-guide-10h3)
-- [Introduction to Python for Data Analysis: A Beginner’s Guide](https://dev.to/joseph_mwangi_3ae1f57a132/introduction-to-python-for-data-analysis-a-beginners-guide-2abp)
-- [The ecommerce metric nobody tracks but every seller pays for](https://dev.to/nventory/the-ecommerce-metric-nobody-tracks-but-every-seller-pays-for-4bm5)
+- [Google Remy and Meta Hatch: The Technical Architecture Behind 24/7 Personal AI Agents](https://dev.to/ismail_haddou/google-remy-and-meta-hatch-the-technical-architecture-behind-247-personal-ai-agents-gnl)
+- [A dating algorithm that physically cannot read photos &lpar;and why I wrote it that way&rpar;](https://dev.to/ggyanie/a-dating-algorithm-that-physically-cannot-read-photos-and-why-i-wrote-it-that-way-5gb)
+- [CPU Humbled Me — A Kubernetes Throttling Story Hidden Between Prometheus Scrapes](https://dev.to/blackzu/cpu-humbled-me-a-kubernetes-throttling-story-hidden-between-prometheus-scrapes-4ah8)
+- [4 Berlin Tech Meetups Worth Your Tuesday Night in 2026](https://dev.to/raxxostudios/4-berlin-tech-meetups-worth-your-tuesday-night-in-2026-d94)
 <!-- BLOG-POST-LIST:END -->
 
