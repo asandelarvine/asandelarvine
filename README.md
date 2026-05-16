@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We upgraded our AI agent from string matching to actual understanding](https://dev.to/m_u_c0a73360a21e8f141e94a/we-upgraded-our-ai-agent-from-string-matching-to-actual-understanding-4634)
-- [I Published My First npm Package: Here&#39;s Everything I Wish I Knew](https://dev.to/armorbreak/i-published-my-first-npm-package-heres-everything-i-wish-i-knew-1kmi)
-- [Part 1: Mastering Dependency Injection in Go: A Quick Start Guide](https://dev.to/matzefriedrich/part-1-mastering-dependency-injection-in-go-a-quick-start-guide-2igh)
-- [Hermes Agent — The System That Doesn’t Stop When the Task Ends](https://dev.to/akyavagal/hermes-agent-the-system-that-doesnt-stop-when-the-task-ends-hi6)
+- [From Zero to Mastery: A Complete Pixel Art Guide for Modern Game Developers](https://dev.to/autosprites/from-zero-to-mastery-a-complete-pixel-art-guide-for-modern-game-developers-205i)
+- [Do You Have Trouble with Online Collaboration?](https://dev.to/leoharrison/do-you-have-trouble-with-online-collaboration-3ldp)
+- [When Your Content Bot Hits an LLM Quota, Ship the Fallback](https://dev.to/robust_true_try/when-your-content-bot-hits-an-llm-quota-ship-the-fallback-1f7c)
+- [I Ran Hermes Agent on the Same Task for 7 Days. The Skill File on Day 7 Looked Nothing Like Day 1.](https://dev.to/sreejit_/i-ran-hermes-agent-on-the-same-task-for-7-days-the-skill-file-on-day-7-looked-nothing-like-day-1-2oa8)
 <!-- BLOG-POST-LIST:END -->
 
