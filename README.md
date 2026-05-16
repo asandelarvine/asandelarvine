@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to Mastery: A Complete Pixel Art Guide for Modern Game Developers](https://dev.to/autosprites/from-zero-to-mastery-a-complete-pixel-art-guide-for-modern-game-developers-205i)
-- [Do You Have Trouble with Online Collaboration?](https://dev.to/leoharrison/do-you-have-trouble-with-online-collaboration-3ldp)
-- [When Your Content Bot Hits an LLM Quota, Ship the Fallback](https://dev.to/robust_true_try/when-your-content-bot-hits-an-llm-quota-ship-the-fallback-1f7c)
-- [I Ran Hermes Agent on the Same Task for 7 Days. The Skill File on Day 7 Looked Nothing Like Day 1.](https://dev.to/sreejit_/i-ran-hermes-agent-on-the-same-task-for-7-days-the-skill-file-on-day-7-looked-nothing-like-day-1-2oa8)
+- [Imagine Wild. I&#39;ll Compile. — I Built a Self-Hosted Portfolio System with Built-In UI/UX Audit](https://dev.to/knigh_dragon_x/imagine-wild-ill-compile-i-built-a-self-hosted-portfolio-system-with-built-in-uiux-audit-4h55)
+- [Why AI Coding Tools Over-engineer Your MVP — And the One Fix](https://dev.to/kkk_dev_1b0a00f5047cb4de6/why-ai-coding-tools-over-engineer-your-mvp-and-the-one-fix-p11)
+- [CSS Container Queries: how to forget about Media Queries in 2026](https://dev.to/nickbenksim/css-container-queries-how-to-forget-about-media-queries-in-2026-24hi)
+- [I Built an IoT Forensic Investigation Simulator Powered by Gemma 4 — Paste Any Incident, Get a Full Case with Evidence, Decisions, and a Forensic Report](https://dev.to/tagzauthor/i-built-an-iot-forensic-investigation-simulator-powered-by-gemma-4-paste-any-incident-get-a-full-239n)
 <!-- BLOG-POST-LIST:END -->
 
