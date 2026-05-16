@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenTelemetry on Spring Boot 3: when logs say OK and traces show the problem](https://dev.to/jtorchia/opentelemetry-on-spring-boot-3-when-logs-say-ok-and-traces-show-the-problem-193o)
-- [OpenTelemetry en Spring Boot 3: cuando el log dice OK y el trace muestra el problema](https://dev.to/jtorchia/opentelemetry-en-spring-boot-3-cuando-el-log-dice-ok-y-el-trace-muestra-el-problema-4639)
-- [The Hidden Reason AI Botches Your Specs &lpar;and the Layered Fix That Works&rpar;](https://dev.to/renatodts/the-hidden-reason-ai-botches-your-specs-and-the-layered-fix-that-works-17kd)
-- [Merge Sort vs Bubble Sort — Why 800 Comparisons Beats 147 Every Time](https://dev.to/amargul/merge-sort-vs-bubble-sort-why-800-comparisons-beats-147-every-time-1de0)
+- [Understanding Reinforcement Learning with Neural Networks Part 6: Completing the Reinforcement Learning Process](https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-6-completing-the-reinforcement-5g8b)
+- [SMM Turbo: Hybrid AI Instagram Editor via Gemma 4](https://dev.to/digital-abetka/smm-turbo-hybrid-ai-instagram-editor-via-gemma-4-5d7o)
+- [Capacitor Live Updates: A Complete Guide to OTA Updates](https://dev.to/capawesome/capacitor-live-updates-a-complete-guide-to-ota-updates-5fco)
+- [ASP .NET Core Bootstrap toast](https://dev.to/karenpayneoregon/asp-net-core-bootstrap-toast-570)
 <!-- BLOG-POST-LIST:END -->
 
