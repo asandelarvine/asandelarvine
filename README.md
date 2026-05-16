@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Human Touch: Why Human-Curated Radio Beats Spotify&#39;s AI Algorithms](https://dev.to/naskovic/the-human-touch-why-human-curated-radio-beats-spotifys-ai-algorithms-3mcm)
-- [My Experience Working at Dr. Homi Bhabha State University, Mumbai](https://dev.to/astradev_2274306c7b7a637e/my-experience-working-at-dr-homi-bhabha-state-university-mumbai-4o1m)
-- [PostgreSQL Upgraded to Latest Minor Versions on SQLize.online 🐘🚀](https://dev.to/rozhnev/postgresql-upgraded-to-latest-minor-versions-on-sqlizeonline-9np)
-- [Gpushx](https://dev.to/vinnugollakoti/gpushx-3n38)
+- [Browser delegation is not a replacement for clean APIs](https://dev.to/eliofbm/browser-delegation-is-not-a-replacement-for-clean-apis-347n)
+- [DOMINI Suite: how I built two OSINT tools to analyze domains and IPs from scratch](https://dev.to/evolve-space/domini-suite-how-i-built-two-osint-tools-to-analyze-domains-and-ips-from-scratch-4bm7)
+- [Track brand mentions across China&#39;s top 5 social platforms in one API call — $0.045 per mention](https://dev.to/sami_8858131362756585e4f4/i-built-5-single-platform-scrapers-the-one-that-sells-fastest-is-the-aggregator-that-wraps-them-2pli)
+- [Day 5 — Bash Scripting for Automation](https://dev.to/17j/day-5-bash-scripting-for-automation-fih)
 <!-- BLOG-POST-LIST:END -->
 
