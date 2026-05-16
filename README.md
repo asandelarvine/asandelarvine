@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Browser delegation is not a replacement for clean APIs](https://dev.to/eliofbm/browser-delegation-is-not-a-replacement-for-clean-apis-347n)
-- [DOMINI Suite: how I built two OSINT tools to analyze domains and IPs from scratch](https://dev.to/evolve-space/domini-suite-how-i-built-two-osint-tools-to-analyze-domains-and-ips-from-scratch-4bm7)
-- [Track brand mentions across China&#39;s top 5 social platforms in one API call — $0.045 per mention](https://dev.to/sami_8858131362756585e4f4/i-built-5-single-platform-scrapers-the-one-that-sells-fastest-is-the-aggregator-that-wraps-them-2pli)
-- [Day 5 — Bash Scripting for Automation](https://dev.to/17j/day-5-bash-scripting-for-automation-fih)
+- [What Years of WordPress Development Taught Me About Modern Frontend Systems](https://dev.to/kunal_pareek/what-years-of-wordpress-development-taught-me-about-modern-frontend-systems-4koh)
+- [OWASP Mobile Top 10 for React Native Fintech Apps: A Practical Implementation Checklist](https://dev.to/fasthedeveloper/owasp-mobile-top-10-for-react-native-fintech-apps-a-practical-implementation-checklist-3hle)
+- [Local LLMs vs Cloud APIs: Building Offline-First AI Workflows](https://dev.to/binky_6ad02e76335bf0ce709/local-llms-vs-cloud-apis-building-offline-first-ai-workflows-2a0e)
+- [200K Token Context Windows: Practical Workflows That Actually Work](https://dev.to/binky_6ad02e76335bf0ce709/200k-token-context-windows-practical-workflows-that-actually-work-2e0f)
 <!-- BLOG-POST-LIST:END -->
 
