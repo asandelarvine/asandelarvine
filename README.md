@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Reinforcement Learning with Neural Networks Part 6: Completing the Reinforcement Learning Process](https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-6-completing-the-reinforcement-5g8b)
-- [SMM Turbo: Hybrid AI Instagram Editor via Gemma 4](https://dev.to/digital-abetka/smm-turbo-hybrid-ai-instagram-editor-via-gemma-4-5d7o)
-- [Capacitor Live Updates: A Complete Guide to OTA Updates](https://dev.to/capawesome/capacitor-live-updates-a-complete-guide-to-ota-updates-5fco)
-- [ASP .NET Core Bootstrap toast](https://dev.to/karenpayneoregon/asp-net-core-bootstrap-toast-570)
+- [How to Deploy an Ubuntu Linux VM in Azure](https://dev.to/degreatkhali/how-to-deploy-an-ubuntu-linux-vm-in-azure-347o)
+- [LLM Persistent Memory &amp; Python Tooling Elevate AI Agent Workflows](https://dev.to/soytuber/llm-persistent-memory-python-tooling-elevate-ai-agent-workflows-1je4)
+- [Building My Portfolio site with AI: Speed, Superpowers, and Surprising Trade-offs](https://dev.to/phillip-mogale/building-my-portfolio-site-with-ai-speed-superpowers-and-surprising-trade-offs-2ie0)
+- [The Solana Account Model Explained: Everything is an Account](https://dev.to/lymah/the-solana-account-model-explained-everything-is-an-account-3g48)
 <!-- BLOG-POST-LIST:END -->
 
