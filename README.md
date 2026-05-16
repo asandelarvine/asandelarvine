@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Imagine Wild. I&#39;ll Compile. — I Built a Self-Hosted Portfolio System with Built-In UI/UX Audit](https://dev.to/knigh_dragon_x/imagine-wild-ill-compile-i-built-a-self-hosted-portfolio-system-with-built-in-uiux-audit-4h55)
-- [Why AI Coding Tools Over-engineer Your MVP — And the One Fix](https://dev.to/kkk_dev_1b0a00f5047cb4de6/why-ai-coding-tools-over-engineer-your-mvp-and-the-one-fix-p11)
-- [CSS Container Queries: how to forget about Media Queries in 2026](https://dev.to/nickbenksim/css-container-queries-how-to-forget-about-media-queries-in-2026-24hi)
-- [I Built an IoT Forensic Investigation Simulator Powered by Gemma 4 — Paste Any Incident, Get a Full Case with Evidence, Decisions, and a Forensic Report](https://dev.to/tagzauthor/i-built-an-iot-forensic-investigation-simulator-powered-by-gemma-4-paste-any-incident-get-a-full-239n)
+- [The Human Touch: Why Human-Curated Radio Beats Spotify&#39;s AI Algorithms](https://dev.to/naskovic/the-human-touch-why-human-curated-radio-beats-spotifys-ai-algorithms-3mcm)
+- [My Experience Working at Dr. Homi Bhabha State University, Mumbai](https://dev.to/astradev_2274306c7b7a637e/my-experience-working-at-dr-homi-bhabha-state-university-mumbai-4o1m)
+- [PostgreSQL Upgraded to Latest Minor Versions on SQLize.online 🐘🚀](https://dev.to/rozhnev/postgresql-upgraded-to-latest-minor-versions-on-sqlizeonline-9np)
+- [Gpushx](https://dev.to/vinnugollakoti/gpushx-3n38)
 <!-- BLOG-POST-LIST:END -->
 
