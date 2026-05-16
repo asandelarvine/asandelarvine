@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy an Ubuntu Linux VM in Azure](https://dev.to/degreatkhali/how-to-deploy-an-ubuntu-linux-vm-in-azure-347o)
-- [LLM Persistent Memory &amp; Python Tooling Elevate AI Agent Workflows](https://dev.to/soytuber/llm-persistent-memory-python-tooling-elevate-ai-agent-workflows-1je4)
-- [Building My Portfolio site with AI: Speed, Superpowers, and Surprising Trade-offs](https://dev.to/phillip-mogale/building-my-portfolio-site-with-ai-speed-superpowers-and-surprising-trade-offs-2ie0)
-- [The Solana Account Model Explained: Everything is an Account](https://dev.to/lymah/the-solana-account-model-explained-everything-is-an-account-3g48)
+- [What I Found When I Actually Explored Solana Explorer](https://dev.to/sammie_/what-i-found-when-i-actually-explored-solana-explorer-10nh)
+- [Claude Code is the engine, Cursor is the cockpit](https://dev.to/sattensil888/claude-code-is-the-engine-cursor-is-the-cockpit-7kh)
+- [OCR Intelligente per Documenti Aziendali: Architettura e Lezioni dal Campo](https://dev.to/alessandrobinda114/ocr-intelligente-per-documenti-aziendali-architettura-e-lezioni-dal-campo-1k39)
+- [How I Built a Universal MCP ↔ A2A Bridge: Architecture, Protocol Mapping, and What I Learned](https://dev.to/vahapogut/how-i-built-a-universal-mcp-a2a-bridge-architecture-protocol-mapping-and-what-i-learned-df3)
 <!-- BLOG-POST-LIST:END -->
 
