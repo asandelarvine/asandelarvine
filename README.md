@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git and Unity: A Comprehensive Guide to Version Control for Game Devs](https://dev.to/virtualmaker/git-and-unity-a-comprehensive-guide-to-version-control-for-game-devs-2n2a)
-- [JavaScript String Methods: The Ultimate Cheat Sheet](https://dev.to/armorbreak/javascript-string-methods-the-ultimate-cheat-sheet-8g8)
-- [Managing Environment Variables in Node.js: The Complete Guide](https://dev.to/armorbreak/managing-environment-variables-in-nodejs-the-complete-guide-1c6o)
-- [How I Built a 4-Layer Email Validator API with FastAPI and Published it on RapidAPI](https://dev.to/pabscueto/how-i-built-a-4-layer-email-validator-api-with-fastapi-and-published-it-on-rapidapi-3g28)
+- [We upgraded our AI agent from string matching to actual understanding](https://dev.to/m_u_c0a73360a21e8f141e94a/we-upgraded-our-ai-agent-from-string-matching-to-actual-understanding-4634)
+- [I Published My First npm Package: Here&#39;s Everything I Wish I Knew](https://dev.to/armorbreak/i-published-my-first-npm-package-heres-everything-i-wish-i-knew-1kmi)
+- [Part 1: Mastering Dependency Injection in Go: A Quick Start Guide](https://dev.to/matzefriedrich/part-1-mastering-dependency-injection-in-go-a-quick-start-guide-2igh)
+- [Hermes Agent — The System That Doesn’t Stop When the Task Ends](https://dev.to/akyavagal/hermes-agent-the-system-that-doesnt-stop-when-the-task-ends-hi6)
 <!-- BLOG-POST-LIST:END -->
 
