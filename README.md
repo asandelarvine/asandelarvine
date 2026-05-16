@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Boolean Expression Evaluation Explained](https://dev.to/abhishekganji27/python-boolean-expression-evaluation-explained-59oo)
-- [Practice Real-World Testing Scenarios for QA: Solution to Challenge 1 - Login with Different Users](https://dev.to/abigail_armijo/practice-real-world-testing-scenarios-for-qa-solution-to-challenge-1-login-with-different-users-27di)
-- [Inline context for every article, without leaving the page](https://dev.to/palo_alto_ai/inline-context-for-every-article-without-leaving-the-page-1fkn)
-- [I Tested 6 Local Models on Real Agent Tasks. The Best Scored 50%.](https://dev.to/vystartasv/i-tested-6-local-models-on-real-agent-tasks-the-best-scored-50-384o)
+- [I built an LLM-powered compliance scanner that points at the actual line of code](https://dev.to/nikolaospetridhs/i-built-an-llm-powered-compliance-scanner-that-points-at-the-actual-line-of-code-5d7p)
+- [Diário de dev #0: o mês em que eu deletei mais do que adicionei](https://dev.to/trainedloop/diario-de-dev-0-o-mes-em-que-eu-deletei-mais-do-que-adicionei-2lg3)
+- [Contracts Are More Important Than Frameworks](https://dev.to/stinklewinks/contracts-are-more-important-than-frameworks-65g)
+- [Remapping keyboard keys | keyd](https://dev.to/arunkrish11/remapping-keyboard-keys-keyd-3h3g)
 <!-- BLOG-POST-LIST:END -->
 
