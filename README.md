@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Years of WordPress Development Taught Me About Modern Frontend Systems](https://dev.to/kunal_pareek/what-years-of-wordpress-development-taught-me-about-modern-frontend-systems-4koh)
-- [OWASP Mobile Top 10 for React Native Fintech Apps: A Practical Implementation Checklist](https://dev.to/fasthedeveloper/owasp-mobile-top-10-for-react-native-fintech-apps-a-practical-implementation-checklist-3hle)
-- [Local LLMs vs Cloud APIs: Building Offline-First AI Workflows](https://dev.to/binky_6ad02e76335bf0ce709/local-llms-vs-cloud-apis-building-offline-first-ai-workflows-2a0e)
-- [200K Token Context Windows: Practical Workflows That Actually Work](https://dev.to/binky_6ad02e76335bf0ce709/200k-token-context-windows-practical-workflows-that-actually-work-2e0f)
+- [Python Boolean Expression Evaluation Explained](https://dev.to/abhishekganji27/python-boolean-expression-evaluation-explained-59oo)
+- [Practice Real-World Testing Scenarios for QA: Solution to Challenge 1 - Login with Different Users](https://dev.to/abigail_armijo/practice-real-world-testing-scenarios-for-qa-solution-to-challenge-1-login-with-different-users-27di)
+- [Inline context for every article, without leaving the page](https://dev.to/palo_alto_ai/inline-context-for-every-article-without-leaving-the-page-1fkn)
+- [I Tested 6 Local Models on Real Agent Tasks. The Best Scored 50%.](https://dev.to/vystartasv/i-tested-6-local-models-on-real-agent-tasks-the-best-scored-50-384o)
 <!-- BLOG-POST-LIST:END -->
 
