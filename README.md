@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an LLM-powered compliance scanner that points at the actual line of code](https://dev.to/nikolaospetridhs/i-built-an-llm-powered-compliance-scanner-that-points-at-the-actual-line-of-code-5d7p)
-- [Diário de dev #0: o mês em que eu deletei mais do que adicionei](https://dev.to/trainedloop/diario-de-dev-0-o-mes-em-que-eu-deletei-mais-do-que-adicionei-2lg3)
-- [Contracts Are More Important Than Frameworks](https://dev.to/stinklewinks/contracts-are-more-important-than-frameworks-65g)
-- [Remapping keyboard keys | keyd](https://dev.to/arunkrish11/remapping-keyboard-keys-keyd-3h3g)
+- [I just open-sourced 13 MIT libraries for web visual effects](https://dev.to/thomasdolso/i-just-open-sourced-13-mit-libraries-for-web-visual-effects-2g86)
+- [Mapping the Shadows: RecomendeMe Intelligence and the Revolution in Combating Human Trafficking in Brazil](https://dev.to/sampseiol1/mapping-the-shadows-recomendeme-intelligence-and-the-revolution-in-combating-human-trafficking-in-7mk)
+- [How to render code videos with React](https://dev.to/ddoemonn/how-to-render-code-videos-with-react-44nh)
+- [How I reverse-engineered Playtomic&#39;s mobile payment API to build a padel court booking bot](https://dev.to/hadriel33/how-i-reverse-engineered-playtomics-mobile-payment-api-to-build-a-padel-court-booking-bot-5ehb)
 <!-- BLOG-POST-LIST:END -->
 
