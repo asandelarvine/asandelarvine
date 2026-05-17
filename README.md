@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Backtesting an ICT strategy at 184 speed: timezone-cache + bisect lookup](https://dev.to/marcotwzrd/backtesting-an-ict-strategy-at-184x-speed-timezone-cache-bisect-lookup-2pap)
-- [Why Your $200 AI Workflow Actually Costs $20k in DevOps 😭](https://dev.to/digitpatrox/why-your-200-ai-workflow-actually-costs-20k-in-devops-764)
-- [Building a Dating App with No Backend: How I used Rust, Tauri 2.0, and P2P Mesh Networking to Fight the Loneliness Pandemic](https://dev.to/ben_sivan_94f68a633875c91/building-a-dating-app-with-no-backend-how-i-used-rust-tauri-20-and-p2p-mesh-networking-to-fight-562f)
-- [Meet Elias Thorne, top 50 oncology author: a case study in AI agents at scale](https://dev.to/danielrmay/meet-elias-thorne-top-50-oncology-author-a-case-study-in-ai-agents-at-scale-5cho)
+- [🎮 The SQL Arcade : No Boring Textbooks Allowed](https://dev.to/anveshasri/the-sql-arcade-no-boring-textbooks-allowed-1mh1)
+- [When Chaos Wins: Adding Noise Improved My Snake AI&#39;s Stability](https://dev.to/stat_phantom/when-chaos-wins-adding-noise-improved-my-snake-ais-stability-1b5l)
+- [31 Pages, 30 Days. I Split the Pre/Post Data. The Win Predated the Work.](https://dev.to/aimiten/31-pages-30-days-i-split-the-prepost-data-the-win-predated-the-work-pa2)
+- [Claude Code VSCode Notifications Are Broken — Here&#39;s My Windows Workaround](https://dev.to/catsnipe/claude-code-vscode-notifications-are-broken-heres-my-windows-workaround-4b23)
 <!-- BLOG-POST-LIST:END -->
 
