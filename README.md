@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MediaPipe on iOS: what the docs leave out](https://dev.to/diyoraharshit52/mediapipe-on-ios-what-the-docs-leave-out-22bl)
-- [The Missing Organizing Principle of Microsoft Fabric: Medallion Architecture Explained :gem:](https://dev.to/dattasable/the-missing-organizing-principle-of-microsoft-fabric-medallion-architecture-explained-gem-4loi)
-- [Running My Tiny Docker-like Runtime on macOS with Lima](https://dev.to/amirsefati/running-my-tiny-docker-like-runtime-on-macos-with-lima-5bd)
-- [Explorando el éxito musical en Spotify con Python](https://dev.to/mariaangelesciobanu/explorando-el-exito-musical-en-spotify-con-python-21mk)
+- [The Boring AI Is the Right AI](https://dev.to/andreahlert/the-boring-ai-is-the-right-ai-55o9)
+- [Reincarnating a Decade-Old jQuery Project](https://dev.to/tegos/reincarnating-a-decade-old-jquery-project-26ob)
+- [From 38% to 58% Activation Rate in One Week — The Single UX Change That Did It](https://dev.to/mdashraf/from-38-to-58-activation-rate-in-one-week-the-single-ux-change-that-did-it-53d6)
+- [Aggregate Benchmarks Lie. Here&#39;s What 700 AI Functions Look Like by Security Domain.](https://dev.to/ofri-peretz/aggregate-benchmarks-lie-heres-what-700-ai-functions-look-like-by-security-domain-1hgj)
 <!-- BLOG-POST-LIST:END -->
 
