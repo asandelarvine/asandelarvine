@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mnemonic - local-first voice notes with Gemma 4 E4B](https://dev.to/eduardmaghakyan/mnemonic-local-first-voice-notes-with-gemma-4-e4b-3ihe)
-- [I Built a Desktop App That Ends My “Open 7 Terminals and Pray” Routine](https://dev.to/trojanmocx/-i-built-a-desktop-app-that-ends-my-open-7-terminals-and-pray-routine-1kb8)
-- [Local dashboard for monitoring AI agent sessions — no cloud, no account](https://dev.to/sahaabhishek/local-dashboard-for-monitoring-ai-agent-sessions-no-cloud-no-account-5276)
-- [Building K-xpertAI: A Developer Assistant Powered by KX-NeuroCore &amp; Gemma 4](https://dev.to/alkhassim_lawalumar/building-k-xpertai-a-developer-assistant-powered-by-kx-neurocore-gemma-4-2hj8)
+- [Backtesting an ICT strategy at 184 speed: timezone-cache + bisect lookup](https://dev.to/marcotwzrd/backtesting-an-ict-strategy-at-184x-speed-timezone-cache-bisect-lookup-2pap)
+- [Why Your $200 AI Workflow Actually Costs $20k in DevOps 😭](https://dev.to/digitpatrox/why-your-200-ai-workflow-actually-costs-20k-in-devops-764)
+- [Building a Dating App with No Backend: How I used Rust, Tauri 2.0, and P2P Mesh Networking to Fight the Loneliness Pandemic](https://dev.to/ben_sivan_94f68a633875c91/building-a-dating-app-with-no-backend-how-i-used-rust-tauri-20-and-p2p-mesh-networking-to-fight-562f)
+- [Meet Elias Thorne, top 50 oncology author: a case study in AI agents at scale](https://dev.to/danielrmay/meet-elias-thorne-top-50-oncology-author-a-case-study-in-ai-agents-at-scale-5cho)
 <!-- BLOG-POST-LIST:END -->
 
