@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert PNG to WebP &lpar;And Why Your Website Needs It&rpar;](https://dev.to/ahmerarain/how-to-convert-png-to-webp-and-why-your-website-needs-it-3an7)
-- [# Building EduForge AI — Turning Lessons Into Interactive Games with AI 🚀](https://dev.to/kr_okul_66a8efd58576c3/-building-eduforge-ai-turning-lessons-into-interactive-games-with-ai-2c19)
-- [How to make a Django application using GitHub Copilot](https://dev.to/santiagohebo/how-to-make-a-django-application-using-github-copilot-bee)
-- [We’re Expected to Figure Out Life in Our 20s](https://dev.to/asi_security/were-expected-to-figure-out-life-in-our-20s-32pp)
+- [Can AI Agents Replace Enterprise Workflow Orchestration? A Real-World Test — OpenClaw. n8n. Claude Dispatch. A side-by-side comparison..](https://dev.to/pranay_ravi_b88172eac205c/can-ai-agents-replace-enterprise-workflow-orchestration-a-real-world-test-openclaw-n8n-claude-1hho)
+- [What I learned building an AI agent loop in Go](https://dev.to/lucasnevespereira/what-i-learned-building-an-ai-agent-loop-in-go-5be0)
+- [ngx-transforms: 90 standalone Angular pipes that actually compose](https://dev.to/mofirojean/ngx-transforms-90-standalone-angular-pipes-that-actually-compose-30fk)
+- [Architecting for Scale in MENA: A First-Principles Approach to Multi-Tenant SaaS](https://dev.to/iyed_hosni_c94ede48ed8c4e/architecting-for-scale-in-mena-a-first-principles-approach-to-multi-tenant-saas-dl9)
 <!-- BLOG-POST-LIST:END -->
 
