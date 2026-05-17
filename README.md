@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hermes Agent as a Farmer&#39;s AI Advisor — Built on Android, Tested in Assam](https://dev.to/divinesouljoy/hermes-agent-as-a-farmers-ai-advisor-built-on-android-tested-in-assam-57dn)
-- [IaC Drift Management: Unexpected Infrastructure Discrepancies and](https://dev.to/merbayerp/iac-drift-management-unexpected-infrastructure-discrepancies-and-1f2o)
-- [Offline-First iOS Architecture with Core Data and Sync](https://dev.to/beefedai/offline-first-ios-architecture-with-core-data-and-sync-5kc)
-- [This Week In React #281 : Next.js, TanStack, Security, Redact | Redraw, Expo, Tabs, Screens | TC39, Rolldown, Node](https://dev.to/sebastienlorber/this-week-in-react-281-nextjs-tanstack-security-redact-redraw-expo-tabs-screens-tc39-1m01)
+- [MediaPipe on iOS: what the docs leave out](https://dev.to/diyoraharshit52/mediapipe-on-ios-what-the-docs-leave-out-22bl)
+- [The Missing Organizing Principle of Microsoft Fabric: Medallion Architecture Explained :gem:](https://dev.to/dattasable/the-missing-organizing-principle-of-microsoft-fabric-medallion-architecture-explained-gem-4loi)
+- [Running My Tiny Docker-like Runtime on macOS with Lima](https://dev.to/amirsefati/running-my-tiny-docker-like-runtime-on-macos-with-lima-5bd)
+- [Explorando el éxito musical en Spotify con Python](https://dev.to/mariaangelesciobanu/explorando-el-exito-musical-en-spotify-con-python-21mk)
 <!-- BLOG-POST-LIST:END -->
 
