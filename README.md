@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Where React for IaC came from](https://dev.to/mrduguo/where-react-for-iac-came-from-10e0)
-- [Breaking Down Browser DevTools Until It Finally Made Click](https://dev.to/kathirvel-s/breaking-down-browser-devtools-until-it-finally-made-click-3ce9)
-- [Training Your Mouse Behavior Clone: Make AI Browser Agents Move Like You](https://dev.to/bing_yu/training-your-mouse-behavior-clone-make-ai-browser-agents-move-like-you-5293)
-- [How I Built a Vedic Panchang Engine in TypeScript — Swiss Ephemeris, Meeus Fallback, Zero External APIs](https://dev.to/krazykrackpot/how-i-built-a-vedic-panchang-engine-in-typescript-swiss-ephemeris-meeus-fallback-zero-external-3n5j)
+- [Real-Time Monitoring for AI Agents: Beyond Log Streaming](https://dev.to/albert_zhang_f468830cf0e6/real-time-monitoring-for-ai-agents-beyond-log-streaming-a54)
+- [Building a Zero-Framework, Local-First PWA to Combat Web Bloat](https://dev.to/stephen_sebastian_c85ea2b/building-a-zero-framework-local-first-pwa-to-combat-web-bloat-1cc)
+- [Solana Account Model: A Field-by-Field Breakdown With Real Examples](https://dev.to/sammie_/solana-account-model-a-field-by-field-breakdown-with-real-examples-13n1)
+- [Unequal by Design](https://dev.to/rawveg/unequal-by-design-3f0m)
 <!-- BLOG-POST-LIST:END -->
 
