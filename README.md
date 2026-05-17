@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Biomedical GraphRAG Inference System: Comparing LLM-Only, Basic RAG, and GraphRAG Pipelines](https://dev.to/kavyanjali_lingam/building-a-biomedical-graphrag-inference-system-with-tigergraph-and-llm-benchmarking-410n)
-- [Azertio: API and Database Testing Without the Glue Code](https://dev.to/luiinge/azertio-api-and-database-testing-without-the-glue-code-1ibl)
-- [How to Test a REST API Automatically Without Writing Code](https://dev.to/samiron_barai_951bfa56753/how-to-test-a-rest-api-automatically-without-writing-code-1mam)
-- [How We Built CyberGraph RAG: A 3.5M Token Cybersecurity GraphRAG System with TigerGraph](https://dev.to/bhuvi_d/how-we-built-cybergraph-rag-a-35m-token-cybersecurity-graphrag-system-with-tigergraph-5eon)
+- [Seguridad LMS después del incidente del LMS Canvas](https://dev.to/krestomatio/seguridad-lms-despues-del-incidente-del-lms-canvas-jkk)
+- [5 Reasons Your RAG System Will Fail in Production &lpar;And the Patterns I Use to Fix Each One&rpar;](https://dev.to/muazashraf/5-reasons-your-rag-system-will-fail-in-production-and-the-patterns-i-use-to-fix-each-one-34ac)
+- [Bean Lifecycle in Spring Boot](https://dev.to/biswasprasana001/bean-lifecycle-in-spring-boot-gbg)
+- [GitHub Copilot Prompts vs Skills vs Instructions: What&#39;s the Difference and When to Use Each](https://dev.to/lukehackett/github-copilot-prompts-vs-skills-vs-instructions-whats-the-difference-and-when-to-use-each-2f8l)
 <!-- BLOG-POST-LIST:END -->
 
