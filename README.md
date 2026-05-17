@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Monitoring for AI Agents: Beyond Log Streaming](https://dev.to/albert_zhang_f468830cf0e6/real-time-monitoring-for-ai-agents-beyond-log-streaming-a54)
-- [Building a Zero-Framework, Local-First PWA to Combat Web Bloat](https://dev.to/stephen_sebastian_c85ea2b/building-a-zero-framework-local-first-pwa-to-combat-web-bloat-1cc)
-- [Solana Account Model: A Field-by-Field Breakdown With Real Examples](https://dev.to/sammie_/solana-account-model-a-field-by-field-breakdown-with-real-examples-13n1)
-- [Unequal by Design](https://dev.to/rawveg/unequal-by-design-3f0m)
+- [Hermes Agent as a Farmer&#39;s AI Advisor — Built on Android, Tested in Assam](https://dev.to/divinesouljoy/hermes-agent-as-a-farmers-ai-advisor-built-on-android-tested-in-assam-57dn)
+- [IaC Drift Management: Unexpected Infrastructure Discrepancies and](https://dev.to/merbayerp/iac-drift-management-unexpected-infrastructure-discrepancies-and-1f2o)
+- [Offline-First iOS Architecture with Core Data and Sync](https://dev.to/beefedai/offline-first-ios-architecture-with-core-data-and-sync-5kc)
+- [This Week In React #281 : Next.js, TanStack, Security, Redact | Redraw, Expo, Tabs, Screens | TC39, Rolldown, Node](https://dev.to/sebastienlorber/this-week-in-react-281-nextjs-tanstack-security-redact-redraw-expo-tabs-screens-tc39-1m01)
 <!-- BLOG-POST-LIST:END -->
 
