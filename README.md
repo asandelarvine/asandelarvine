@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Seguridad LMS después del incidente del LMS Canvas](https://dev.to/krestomatio/seguridad-lms-despues-del-incidente-del-lms-canvas-jkk)
-- [5 Reasons Your RAG System Will Fail in Production &lpar;And the Patterns I Use to Fix Each One&rpar;](https://dev.to/muazashraf/5-reasons-your-rag-system-will-fail-in-production-and-the-patterns-i-use-to-fix-each-one-34ac)
-- [Bean Lifecycle in Spring Boot](https://dev.to/biswasprasana001/bean-lifecycle-in-spring-boot-gbg)
-- [GitHub Copilot Prompts vs Skills vs Instructions: What&#39;s the Difference and When to Use Each](https://dev.to/lukehackett/github-copilot-prompts-vs-skills-vs-instructions-whats-the-difference-and-when-to-use-each-2f8l)
+- [How to Convert PNG to WebP &lpar;And Why Your Website Needs It&rpar;](https://dev.to/ahmerarain/how-to-convert-png-to-webp-and-why-your-website-needs-it-3an7)
+- [# Building EduForge AI — Turning Lessons Into Interactive Games with AI 🚀](https://dev.to/kr_okul_66a8efd58576c3/-building-eduforge-ai-turning-lessons-into-interactive-games-with-ai-2c19)
+- [How to make a Django application using GitHub Copilot](https://dev.to/santiagohebo/how-to-make-a-django-application-using-github-copilot-bee)
+- [We’re Expected to Figure Out Life in Our 20s](https://dev.to/asi_security/were-expected-to-figure-out-life-in-our-20s-32pp)
 <!-- BLOG-POST-LIST:END -->
 
