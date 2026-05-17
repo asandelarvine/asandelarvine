@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎮 The SQL Arcade : No Boring Textbooks Allowed](https://dev.to/anveshasri/the-sql-arcade-no-boring-textbooks-allowed-1mh1)
-- [When Chaos Wins: Adding Noise Improved My Snake AI&#39;s Stability](https://dev.to/stat_phantom/when-chaos-wins-adding-noise-improved-my-snake-ais-stability-1b5l)
-- [31 Pages, 30 Days. I Split the Pre/Post Data. The Win Predated the Work.](https://dev.to/aimiten/31-pages-30-days-i-split-the-prepost-data-the-win-predated-the-work-pa2)
-- [Claude Code VSCode Notifications Are Broken — Here&#39;s My Windows Workaround](https://dev.to/catsnipe/claude-code-vscode-notifications-are-broken-heres-my-windows-workaround-4b23)
+- [Where React for IaC came from](https://dev.to/mrduguo/where-react-for-iac-came-from-10e0)
+- [Breaking Down Browser DevTools Until It Finally Made Click](https://dev.to/kathirvel-s/breaking-down-browser-devtools-until-it-finally-made-click-3ce9)
+- [Training Your Mouse Behavior Clone: Make AI Browser Agents Move Like You](https://dev.to/bing_yu/training-your-mouse-behavior-clone-make-ai-browser-agents-move-like-you-5293)
+- [How I Built a Vedic Panchang Engine in TypeScript — Swiss Ephemeris, Meeus Fallback, Zero External APIs](https://dev.to/krazykrackpot/how-i-built-a-vedic-panchang-engine-in-typescript-swiss-ephemeris-meeus-fallback-zero-external-3n5j)
 <!-- BLOG-POST-LIST:END -->
 
