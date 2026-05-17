@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Boring AI Is the Right AI](https://dev.to/andreahlert/the-boring-ai-is-the-right-ai-55o9)
-- [Reincarnating a Decade-Old jQuery Project](https://dev.to/tegos/reincarnating-a-decade-old-jquery-project-26ob)
-- [From 38% to 58% Activation Rate in One Week — The Single UX Change That Did It](https://dev.to/mdashraf/from-38-to-58-activation-rate-in-one-week-the-single-ux-change-that-did-it-53d6)
-- [Aggregate Benchmarks Lie. Here&#39;s What 700 AI Functions Look Like by Security Domain.](https://dev.to/ofri-peretz/aggregate-benchmarks-lie-heres-what-700-ai-functions-look-like-by-security-domain-1hgj)
+- [Building a Biomedical GraphRAG Inference System: Comparing LLM-Only, Basic RAG, and GraphRAG Pipelines](https://dev.to/kavyanjali_lingam/building-a-biomedical-graphrag-inference-system-with-tigergraph-and-llm-benchmarking-410n)
+- [Azertio: API and Database Testing Without the Glue Code](https://dev.to/luiinge/azertio-api-and-database-testing-without-the-glue-code-1ibl)
+- [How to Test a REST API Automatically Without Writing Code](https://dev.to/samiron_barai_951bfa56753/how-to-test-a-rest-api-automatically-without-writing-code-1mam)
+- [How We Built CyberGraph RAG: A 3.5M Token Cybersecurity GraphRAG System with TigerGraph](https://dev.to/bhuvi_d/how-we-built-cybergraph-rag-a-35m-token-cybersecurity-graphrag-system-with-tigergraph-5eon)
 <!-- BLOG-POST-LIST:END -->
 
