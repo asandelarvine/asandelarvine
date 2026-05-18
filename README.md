@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[.NET] Streamline Your DTOs with DKNet.EfCore.DtoGenerator](https://dev.to/baoduy2412/net-streamline-your-dtos-with-dknetefcoredtogenerator-3kbo)
-- [How I run multiple AI coding agents without destroying my repo](https://dev.to/__6f4df0d6bb599/how-i-run-multiple-ai-coding-agents-without-destroying-my-repo-5a26)
-- [Threat modeling LLM apps with the CIA triad and OWASP Top 10](https://dev.to/toxsec/threat-modeling-llm-apps-with-the-cia-triad-and-owasp-top-10-2nen)
-- [I Used to Love Python&#39;s Magic. Now I Default to Go.](https://dev.to/alexander_mia_9/i-used-to-love-pythons-magic-now-i-default-to-go-4pi0)
+- [El mito del &quot;Programador Obsoleto&quot; y las promesas de internet](https://dev.to/fulco_dev/el-mito-del-programador-obsoleto-y-las-promesas-de-internet-3eo0)
+- [How We Built Our Own Incident Management System](https://dev.to/samson_tanimawo/how-we-built-our-own-incident-management-system-1i9d)
+- [Open Source MTA Showdown: KumoMTA vs Postfix vs...](https://dev.to/dhiraj_chatpar_e54b46b388/open-source-mta-showdown-kumomta-vs-postfix-vs-35nl)
+- [I red-teamed Oracle APEX 26.1&#39;s new AI Agent feature in the 72 hours after it went GA. Claude refused 7 of my 10 attacks on its own.](https://dev.to/rkondoju/i-red-teamed-oracle-apex-261s-new-ai-agent-feature-in-the-72-hours-after-it-went-ga-claude-455m)
 <!-- BLOG-POST-LIST:END -->
 
