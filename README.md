@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Can AI Agents Replace Enterprise Workflow Orchestration? A Real-World Test — OpenClaw. n8n. Claude Dispatch. A side-by-side comparison..](https://dev.to/pranay_ravi_b88172eac205c/can-ai-agents-replace-enterprise-workflow-orchestration-a-real-world-test-openclaw-n8n-claude-1hho)
-- [What I learned building an AI agent loop in Go](https://dev.to/lucasnevespereira/what-i-learned-building-an-ai-agent-loop-in-go-5be0)
-- [ngx-transforms: 90 standalone Angular pipes that actually compose](https://dev.to/mofirojean/ngx-transforms-90-standalone-angular-pipes-that-actually-compose-30fk)
-- [Architecting for Scale in MENA: A First-Principles Approach to Multi-Tenant SaaS](https://dev.to/iyed_hosni_c94ede48ed8c4e/architecting-for-scale-in-mena-a-first-principles-approach-to-multi-tenant-saas-dl9)
+- [Psychological Capital](https://dev.to/1grace/psychological-capital-5c4h)
+- [How to organize high impact workshops and events](https://dev.to/1grace/how-to-organize-high-impact-workshops-events-4dpk)
+- [I Built a Web3 Threat Intelligence Oracle Powered by Gemma 4](https://dev.to/james-kabingu/i-built-a-web3-threat-intelligence-oracle-powered-by-gemma-4-283p)
+- [Your ICP Is a Trap](https://dev.to/michal_szalinski_91bf893d/your-icp-is-a-trap-3i3o)
 <!-- BLOG-POST-LIST:END -->
 
