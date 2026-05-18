@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your &#39;Added to Cart&#39; Toast Notification Never Reaches Screen Reader Users &lpar;And the Two-Line Fix&rpar;](https://dev.to/agentkit/why-your-added-to-cart-toast-notification-never-reaches-screen-reader-users-and-the-two-line-fix-58en)
-- [The One Rule I Follow to Code with AI &lpar;Without Losing My Skills&rpar;](https://dev.to/canro91/the-one-rule-i-follow-to-code-with-ai-without-losing-my-skills-44eg)
-- [Playwright v1.60 Turns Test Failures Into Evidence](https://dev.to/aiwithanton/playwright-v160-turns-test-failures-into-evidence-1ban)
-- [Rasterization Using Bresenham Algorithm and Scanline Algorithm](https://dev.to/frydayfreebie/rasterization-using-bresenham-algorithm-and-scanline-algorithm-4l8d)
+- [BigQuery, Snowflake, Redshift, Databricks, Fabric: where each one silently inflates your bill](https://dev.to/engineersguide/bigquery-snowflake-redshift-databricks-fabric-where-each-one-silently-inflates-your-bill-1o86)
+- [More OpenID Federation with pac4j and Connect2id](https://dev.to/jleleu/more-openid-federation-with-pac4j-and-connect2id-4np8)
+- [MyNotifyAssist — A Smart Reminder &amp; Productivity Platform 🚀](https://dev.to/nikki_sawner_915d8b863abe/mynotifyassist-a-smart-reminder-productivity-platform-2b8e)
+- [RAG Evaluation with RAGAS: Measuring Faithfulness, Context Precision, and Recall in Production](https://dev.to/anna_danilec/rag-evaluation-with-ragas-measuring-faithfulness-context-precision-and-recall-in-production-31hj)
 <!-- BLOG-POST-LIST:END -->
 
