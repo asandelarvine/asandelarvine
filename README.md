@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Claude Pro Worth $20/Month? A Developer&#39;s Honest Take](https://dev.to/mozes721/is-claude-pro-worth-20month-a-developers-honest-take-2688)
-- [Agentic Analytics: Architecture, Context, and Why the Semantic Layer Does the Heavy Lifting](https://dev.to/jakkie_koekemoer/agentic-analytics-architecture-context-and-why-the-semantic-layer-does-the-heavy-lifting-2508)
-- [Why MTP doesn&#39;t speed up your llama.cpp inference &lpar;and how to actually fix it&rpar;](https://dev.to/alanwest/why-mtp-doesnt-speed-up-your-llamacpp-inference-and-how-to-actually-fix-it-2m2m)
-- [Longest Substring Without Repeating Characters — LeetCode #3 &lpar;Medium&rpar;](https://dev.to/logixydev/longest-substring-without-repeating-characters-leetcode-3-medium-3l61)
+- [kovax-react 0.6: Pagination, breakpoint hooks, and one source of truth for responsive layout](https://dev.to/mrkamura/kovax-react-06-pagination-breakpoint-hooks-and-one-source-of-truth-for-responsive-layout-3in)
+- [I Built a Free, Modern Alternative to Paid Universal Sign-In for Expo](https://dev.to/sagnik2001/i-built-a-free-modern-alternative-to-paid-universal-sign-in-for-expo-51j2)
+- [The Log Management Cost Trap: Part II — Storage](https://dev.to/bronto_io/the-log-management-cost-trap-part-ii-storage-45la)
+- [Can some one guide me about how to think like a programmer? , How to solve the problem ?](https://dev.to/manoz-code/can-some-one-guide-me-about-how-to-think-like-a-programmer-how-to-solve-the-problem--1de1)
 <!-- BLOG-POST-LIST:END -->
 
