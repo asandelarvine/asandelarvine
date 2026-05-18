@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BigQuery, Snowflake, Redshift, Databricks, Fabric: where each one silently inflates your bill](https://dev.to/engineersguide/bigquery-snowflake-redshift-databricks-fabric-where-each-one-silently-inflates-your-bill-1o86)
-- [More OpenID Federation with pac4j and Connect2id](https://dev.to/jleleu/more-openid-federation-with-pac4j-and-connect2id-4np8)
-- [MyNotifyAssist — A Smart Reminder &amp; Productivity Platform 🚀](https://dev.to/nikki_sawner_915d8b863abe/mynotifyassist-a-smart-reminder-productivity-platform-2b8e)
-- [RAG Evaluation with RAGAS: Measuring Faithfulness, Context Precision, and Recall in Production](https://dev.to/anna_danilec/rag-evaluation-with-ragas-measuring-faithfulness-context-precision-and-recall-in-production-31hj)
+- [[.NET] Streamline Your DTOs with DKNet.EfCore.DtoGenerator](https://dev.to/baoduy2412/net-streamline-your-dtos-with-dknetefcoredtogenerator-3kbo)
+- [How I run multiple AI coding agents without destroying my repo](https://dev.to/__6f4df0d6bb599/how-i-run-multiple-ai-coding-agents-without-destroying-my-repo-5a26)
+- [Threat modeling LLM apps with the CIA triad and OWASP Top 10](https://dev.to/toxsec/threat-modeling-llm-apps-with-the-cia-triad-and-owasp-top-10-2nen)
+- [I Used to Love Python&#39;s Magic. Now I Default to Go.](https://dev.to/alexander_mia_9/i-used-to-love-pythons-magic-now-i-default-to-go-4pi0)
 <!-- BLOG-POST-LIST:END -->
 
