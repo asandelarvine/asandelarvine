@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [kovax-react 0.6: Pagination, breakpoint hooks, and one source of truth for responsive layout](https://dev.to/mrkamura/kovax-react-06-pagination-breakpoint-hooks-and-one-source-of-truth-for-responsive-layout-3in)
-- [I Built a Free, Modern Alternative to Paid Universal Sign-In for Expo](https://dev.to/sagnik2001/i-built-a-free-modern-alternative-to-paid-universal-sign-in-for-expo-51j2)
-- [The Log Management Cost Trap: Part II — Storage](https://dev.to/bronto_io/the-log-management-cost-trap-part-ii-storage-45la)
-- [Can some one guide me about how to think like a programmer? , How to solve the problem ?](https://dev.to/manoz-code/can-some-one-guide-me-about-how-to-think-like-a-programmer-how-to-solve-the-problem--1de1)
+- [SOA-Lab1 — Observabilidad mínima: CloudWatch Logs + Alarmas + SNS](https://dev.to/llunarg/soa-lab1-observabilidad-minima-cloudwatch-logs-alarmas-sns-2l81)
+- [Honesty is the best Policy. The Secret Wars on the use of AI on DEV](https://dev.to/devengers/honesty-is-the-best-policy-the-secret-wars-on-the-use-of-ai-on-dev-5606)
+- [Weekly Numbers 2026-05-W4: Forge First Batch Sent, 2 iOS Apps In Review](https://dev.to/mintototo1/weekly-numbers-2026-05-w4-forge-first-batch-sent-2-ios-apps-in-review-1e5c)
+- [Even Without Typing a Command — Understanding What show vlan Actually Shows](https://dev.to/taqq/even-without-typing-a-command-understanding-what-show-vlan-actually-shows-f82)
 <!-- BLOG-POST-LIST:END -->
 
