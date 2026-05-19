@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Incognito Mode Won&#39;t Save You — What Actually Protects Browser Privacy](https://dev.to/nologintools/incognito-mode-wont-save-you-what-actually-protects-browser-privacy-7ho)
-- [Localization pricing in 2026: why per-word is dying and what&#39;s replacing it](https://dev.to/pie575/localization-pricing-in-2026-why-per-word-is-dying-and-whats-replacing-it-4m70)
-- [Selectolax: a faster BeautifulSoup alternative for Python scraping at scale](https://dev.to/orimarti/selectolax-a-faster-beautifulsoup-alternative-for-python-scraping-at-scale-320k)
-- [I Spent 30 Days Switching From Cursor to Windsurf. Here&#39;s What Actually Changed.](https://dev.to/jim_l_efc70c3a738e9f4baa7/i-spent-30-days-switching-from-cursor-to-windsurf-heres-what-actually-changed-3dle)
+- [Braintrust vs LangSmith: Is $249/mo Worth It? The May 2026 Math](https://dev.to/bean_bean/braintrust-vs-langsmith-is-249mo-worth-it-the-may-2026-math-2i2a)
+- [ASO Skills: ASO in Your AI Workflow](https://dev.to/expo/aso-skills-aso-in-your-ai-workflow-3288)
+- [Which Gemma 4 Model Should You Actually Use? I Tested All of Them, So You Don&#39;t Have To](https://dev.to/temiloluwavalentine/which-gemma-4-model-should-you-actually-use-i-tested-all-of-them-so-you-dont-have-to-eec)
+- [The AI Bill Is Coming. Here Is the FinOps Playbook to Tame It.](https://dev.to/eagleeyethinker/the-ai-bill-is-coming-here-is-the-finops-playbook-to-tame-it-3m3d)
 <!-- BLOG-POST-LIST:END -->
 
