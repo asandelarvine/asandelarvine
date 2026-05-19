@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a developer portfolio template in Next.js 15 — typography-first design decisions](https://dev.to/juan_maya_6479056cdf0c8d6/how-i-built-a-developer-portfolio-template-in-nextjs-15-typography-first-design-decisions-2kb0)
-- [HABIT VERSE - Lifestyle &amp; Game · Full Stack · AI-Powered · 3D WebGL](https://dev.to/ashishtech-03/habit-verse-1nhk)
-- [Logging Your AI Events &lpar;from Ollama&rpar; in Bronto](https://dev.to/bronto_io/logging-your-ai-events-from-ollama-in-bronto-477j)
-- [How to Extract Structured Data from A Website](https://dev.to/tinyfishie/how-to-extract-structured-data-from-a-website-20ng)
+- [CLAUDE.md for Android and Jetpack Compose: 13 Rules That Make AI Write Modern, Production-Ready Android Code](https://dev.to/olivia_craft/claudemd-for-android-and-jetpack-compose-13-rules-that-make-ai-write-modern-production-ready-2oka)
+- [Day 17 of 60: I Deployed My First Production AI API and It&#39;s Live 24/7 &lpar;This Changes Everything&rpar;](https://dev.to/mbugua_cessy/day-17-of-60-i-deployed-my-first-production-ai-api-and-its-live-247-this-changes-everything-569o)
+- [🌱One Commit at a Time -- My Open Source Journey](https://dev.to/neithergalax/one-commit-at-a-time-my-open-source-journey-2hdo)
+- [# Day 5 of learning AI Engineering: built a small RAG app over a PDF](https://dev.to/suraj_bera/-day-5-of-learning-ai-engineering-built-a-small-rag-app-over-a-pdf-j7p)
 <!-- BLOG-POST-LIST:END -->
 
