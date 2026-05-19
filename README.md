@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Gave an AI Agent a Telegram Bot and It Started Editing Videos](https://dev.to/johnsonbuilds/i-gave-an-ai-agent-a-telegram-bot-and-it-started-editing-videos-55gm)
-- [Implementando uma pilha a partir de uma fila](https://dev.to/jeffque/implementando-uma-pilha-a-partir-de-uma-fila-4k4b)
-- [Building an AI-Powered Supply Chain Platform with FastAPI, React Native, and Data Science](https://dev.to/chiedu/building-an-ai-powered-supply-chain-platform-with-fastapi-react-native-and-data-science-2hp4)
-- [The portfolio math. When 30 small apps beat 1 big one.](https://dev.to/thegdsks/the-portfolio-math-when-30-small-apps-beat-1-big-one-41ai)
+- [How do I use DevOps-style i18n](https://dev.to/marrouchi/how-do-i-use-devops-style-i18n-5edm)
+- [When GBase 8a Execution Plans Go Wrong: Mastering Statistics Management](https://dev.to/michaelfv/when-gbase-8a-execution-plans-go-wrong-mastering-statistics-management-46db)
+- [STM32F103C8T6 vs STM32F103CBT6: Which Cortex-M3 MCU Fits Your Embedded Design?](https://dev.to/aicchip/stm32f103c8t6-vs-stm32f103cbt6-which-cortex-m3-mcu-fits-your-embedded-design-4icd)
+- [Muere Peter Neumann a los 93: fundador del RISKS Digest y pionero de seguridad](https://dev.to/lu1tr0n/muere-peter-neumann-a-los-93-fundador-del-risks-digest-y-pionero-de-seguridad-4a4k)
 <!-- BLOG-POST-LIST:END -->
 
