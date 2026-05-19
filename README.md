@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SOA-Lab1 — Observabilidad mínima: CloudWatch Logs + Alarmas + SNS](https://dev.to/llunarg/soa-lab1-observabilidad-minima-cloudwatch-logs-alarmas-sns-2l81)
-- [Honesty is the best Policy. The Secret Wars on the use of AI on DEV](https://dev.to/devengers/honesty-is-the-best-policy-the-secret-wars-on-the-use-of-ai-on-dev-5606)
-- [Weekly Numbers 2026-05-W4: Forge First Batch Sent, 2 iOS Apps In Review](https://dev.to/mintototo1/weekly-numbers-2026-05-w4-forge-first-batch-sent-2-ios-apps-in-review-1e5c)
-- [Even Without Typing a Command — Understanding What show vlan Actually Shows](https://dev.to/taqq/even-without-typing-a-command-understanding-what-show-vlan-actually-shows-f82)
+- [I Gave an AI Agent a Telegram Bot and It Started Editing Videos](https://dev.to/johnsonbuilds/i-gave-an-ai-agent-a-telegram-bot-and-it-started-editing-videos-55gm)
+- [Implementando uma pilha a partir de uma fila](https://dev.to/jeffque/implementando-uma-pilha-a-partir-de-uma-fila-4k4b)
+- [Building an AI-Powered Supply Chain Platform with FastAPI, React Native, and Data Science](https://dev.to/chiedu/building-an-ai-powered-supply-chain-platform-with-fastapi-react-native-and-data-science-2hp4)
+- [The portfolio math. When 30 small apps beat 1 big one.](https://dev.to/thegdsks/the-portfolio-math-when-30-small-apps-beat-1-big-one-41ai)
 <!-- BLOG-POST-LIST:END -->
 
