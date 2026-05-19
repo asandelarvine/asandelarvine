@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Real-Time Trading Bot with Node.js](https://dev.to/cvchelles/how-to-build-a-real-time-trading-bot-with-nodejs-20fg)
-- [TinyLoad v5 — encrypted strings, opmap obfuscation, and IAT wiping](https://dev.to/iamsopotatoecoder/tinyload-v5-encrypted-strings-opmap-obfuscation-and-iat-wiping-26fd)
-- [How I Built A Game to Help My Kids Learn](https://dev.to/swindon/how-i-built-a-game-to-help-my-kids-learn-382g)
-- [Most Traffic Spikes Are Predictable. So Why Are We Still Panic-Scaling?](https://dev.to/muskan_8abedcc7e12/most-traffic-spikes-are-predictable-so-why-are-we-still-panic-scaling-3hpo)
+- [How I built a developer portfolio template in Next.js 15 — typography-first design decisions](https://dev.to/juan_maya_6479056cdf0c8d6/how-i-built-a-developer-portfolio-template-in-nextjs-15-typography-first-design-decisions-2kb0)
+- [HABIT VERSE - Lifestyle &amp; Game · Full Stack · AI-Powered · 3D WebGL](https://dev.to/ashishtech-03/habit-verse-1nhk)
+- [Logging Your AI Events &lpar;from Ollama&rpar; in Bronto](https://dev.to/bronto_io/logging-your-ai-events-from-ollama-in-bronto-477j)
+- [How to Extract Structured Data from A Website](https://dev.to/tinyfishie/how-to-extract-structured-data-from-a-website-20ng)
 <!-- BLOG-POST-LIST:END -->
 
