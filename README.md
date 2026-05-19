@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CLAUDE.md for Android and Jetpack Compose: 13 Rules That Make AI Write Modern, Production-Ready Android Code](https://dev.to/olivia_craft/claudemd-for-android-and-jetpack-compose-13-rules-that-make-ai-write-modern-production-ready-2oka)
-- [Day 17 of 60: I Deployed My First Production AI API and It&#39;s Live 24/7 &lpar;This Changes Everything&rpar;](https://dev.to/mbugua_cessy/day-17-of-60-i-deployed-my-first-production-ai-api-and-its-live-247-this-changes-everything-569o)
-- [🌱One Commit at a Time -- My Open Source Journey](https://dev.to/neithergalax/one-commit-at-a-time-my-open-source-journey-2hdo)
-- [# Day 5 of learning AI Engineering: built a small RAG app over a PDF](https://dev.to/suraj_bera/-day-5-of-learning-ai-engineering-built-a-small-rag-app-over-a-pdf-j7p)
+- [Incognito Mode Won&#39;t Save You — What Actually Protects Browser Privacy](https://dev.to/nologintools/incognito-mode-wont-save-you-what-actually-protects-browser-privacy-7ho)
+- [Localization pricing in 2026: why per-word is dying and what&#39;s replacing it](https://dev.to/pie575/localization-pricing-in-2026-why-per-word-is-dying-and-whats-replacing-it-4m70)
+- [Selectolax: a faster BeautifulSoup alternative for Python scraping at scale](https://dev.to/orimarti/selectolax-a-faster-beautifulsoup-alternative-for-python-scraping-at-scale-320k)
+- [I Spent 30 Days Switching From Cursor to Windsurf. Here&#39;s What Actually Changed.](https://dev.to/jim_l_efc70c3a738e9f4baa7/i-spent-30-days-switching-from-cursor-to-windsurf-heres-what-actually-changed-3dle)
 <!-- BLOG-POST-LIST:END -->
 
