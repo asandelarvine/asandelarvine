@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How do I use DevOps-style i18n](https://dev.to/marrouchi/how-do-i-use-devops-style-i18n-5edm)
-- [When GBase 8a Execution Plans Go Wrong: Mastering Statistics Management](https://dev.to/michaelfv/when-gbase-8a-execution-plans-go-wrong-mastering-statistics-management-46db)
-- [STM32F103C8T6 vs STM32F103CBT6: Which Cortex-M3 MCU Fits Your Embedded Design?](https://dev.to/aicchip/stm32f103c8t6-vs-stm32f103cbt6-which-cortex-m3-mcu-fits-your-embedded-design-4icd)
-- [Muere Peter Neumann a los 93: fundador del RISKS Digest y pionero de seguridad](https://dev.to/lu1tr0n/muere-peter-neumann-a-los-93-fundador-del-risks-digest-y-pionero-de-seguridad-4a4k)
+- [How to Build a Real-Time Trading Bot with Node.js](https://dev.to/cvchelles/how-to-build-a-real-time-trading-bot-with-nodejs-20fg)
+- [TinyLoad v5 — encrypted strings, opmap obfuscation, and IAT wiping](https://dev.to/iamsopotatoecoder/tinyload-v5-encrypted-strings-opmap-obfuscation-and-iat-wiping-26fd)
+- [How I Built A Game to Help My Kids Learn](https://dev.to/swindon/how-i-built-a-game-to-help-my-kids-learn-382g)
+- [Most Traffic Spikes Are Predictable. So Why Are We Still Panic-Scaling?](https://dev.to/muskan_8abedcc7e12/most-traffic-spikes-are-predictable-so-why-are-we-still-panic-scaling-3hpo)
 <!-- BLOG-POST-LIST:END -->
 
