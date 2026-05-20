@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Feature Store: Consistency and Latency Are Both Non-Negotiable](https://dev.to/kenwalger/the-feature-store-consistency-and-latency-are-both-non-negotiable-1c69)
-- [What did gemma see? - Thinking in comments...](https://dev.to/chris-rhiza-fr/what-did-gemma-see-thinking-in-comments-3lhm)
-- [I Built a Desktop Chat App for Running Local LLMs Offline](https://dev.to/theoslater/i-built-a-desktop-chat-app-for-running-local-llms-offline-6im)
-- [Alert Fatigue Is a Design Choice: Building Views That Actually Help](https://dev.to/jon_rose/alert-fatigue-is-a-design-choice-building-views-that-actually-help-3677)
+- [Top 5 AWS NAT Gateway Mistakes Teams Make &amp; How to Fix Them](https://dev.to/jay_m/top-5-aws-nat-gateway-mistakes-teams-make-how-to-fix-them-1af7)
+- [This “cyberphysical engine” replaces the traditional virtual machine with wavefront propagation](https://dev.to/nikolaysuslov/this-cyberphysical-engine-replaces-the-traditional-virtual-machine-with-wavefront-propagation-2deg)
+- [Running while sick: Learning Progress Pt.14](https://dev.to/muhamedmaxhuni/learning-progress-pt14-48a)
+- [Why I Abandoned Platform Stores and Built My Own Payment Gateway](https://dev.to/exit-own/why-i-abandoned-platform-stores-and-built-my-own-payment-gateway-1oj0)
 <!-- BLOG-POST-LIST:END -->
 
