@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 AWS NAT Gateway Mistakes Teams Make &amp; How to Fix Them](https://dev.to/jay_m/top-5-aws-nat-gateway-mistakes-teams-make-how-to-fix-them-1af7)
-- [This “cyberphysical engine” replaces the traditional virtual machine with wavefront propagation](https://dev.to/nikolaysuslov/this-cyberphysical-engine-replaces-the-traditional-virtual-machine-with-wavefront-propagation-2deg)
-- [Running while sick: Learning Progress Pt.14](https://dev.to/muhamedmaxhuni/learning-progress-pt14-48a)
-- [Why I Abandoned Platform Stores and Built My Own Payment Gateway](https://dev.to/exit-own/why-i-abandoned-platform-stores-and-built-my-own-payment-gateway-1oj0)
+- [Are you really doing CI/CD?](https://dev.to/natyoung/are-you-really-doing-cicd-425d)
+- [Turn Any API Into a SQL Database](https://dev.to/mukhtar_onif/turn-any-api-into-a-sql-database-5dg0)
+- [Gemma 4 wrote three summaries in one response. The middle one was a self-disclaimer.](https://dev.to/thehwang/gemma-4-wrote-three-summaries-in-one-response-the-middle-one-was-a-self-disclaimer-3pj9)
+- [Trunk-Based Development with Release Streams: A Real-World Case Study](https://dev.to/ranas7786/trunk-based-development-with-release-streams-a-real-world-case-study-135g)
 <!-- BLOG-POST-LIST:END -->
 
