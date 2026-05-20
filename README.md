@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GDPR Audit Automation: 5 Compliance Checks You Are Probably Missing](https://dev.to/toolkitonline/gdpr-audit-automation-5-compliance-checks-you-are-probably-missing-5hb7)
-- [I decided to build a Kubernetes alternative. Yes, I know I&#39;m crazy](https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5)
-- [I think the real AI agent war is who owns your inbox, browser, and calendar](https://dev.to/lars_winstand/i-think-the-real-ai-agent-war-is-who-owns-your-inbox-browser-and-calendar-jgg)
-- [How to Measure a Ship&#39;s CO Emissions From Land](https://dev.to/vessel_api/how-to-measure-a-ships-co2-emissions-from-land-2c2)
+- [The Feature Store: Consistency and Latency Are Both Non-Negotiable](https://dev.to/kenwalger/the-feature-store-consistency-and-latency-are-both-non-negotiable-1c69)
+- [What did gemma see? - Thinking in comments...](https://dev.to/chris-rhiza-fr/what-did-gemma-see-thinking-in-comments-3lhm)
+- [I Built a Desktop Chat App for Running Local LLMs Offline](https://dev.to/theoslater/i-built-a-desktop-chat-app-for-running-local-llms-offline-6im)
+- [Alert Fatigue Is a Design Choice: Building Views That Actually Help](https://dev.to/jon_rose/alert-fatigue-is-a-design-choice-building-views-that-actually-help-3677)
 <!-- BLOG-POST-LIST:END -->
 
