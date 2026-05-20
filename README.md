@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Are you really doing CI/CD?](https://dev.to/natyoung/are-you-really-doing-cicd-425d)
-- [Turn Any API Into a SQL Database](https://dev.to/mukhtar_onif/turn-any-api-into-a-sql-database-5dg0)
-- [Gemma 4 wrote three summaries in one response. The middle one was a self-disclaimer.](https://dev.to/thehwang/gemma-4-wrote-three-summaries-in-one-response-the-middle-one-was-a-self-disclaimer-3pj9)
-- [Trunk-Based Development with Release Streams: A Real-World Case Study](https://dev.to/ranas7786/trunk-based-development-with-release-streams-a-real-world-case-study-135g)
+- [92. BERT: The Model That Reads in Both Directions](https://dev.to/yakhilesh/92-bert-the-model-that-reads-in-both-directions-2cga)
+- [QAOA vs. 75,000 Nodes: Building a Hybrid Architecture to Solve NP-Hard Problems When Quantum Simulators Hit a Wall](https://dev.to/emperoq/qaoa-vs-75000-nodes-building-a-hybrid-architecture-to-solve-np-hard-problems-when-quantum-613)
+- [One Tool That Cuts Token Costs 40-80% for Claude Code, Codex, opencode, and openclaw](https://dev.to/zelys_dfkhelper/one-tool-that-cuts-token-costs-40-80-for-claude-code-codex-opencode-and-openclaw-hh2)
+- [Static site search for Astro in 2026: why I picked Pagefind over Algolia and Lunr](https://dev.to/morinaga/static-site-search-for-astro-in-2026-why-i-picked-pagefind-over-algolia-and-lunr-pg1)
 <!-- BLOG-POST-LIST:END -->
 
