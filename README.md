@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BGP Route Flap Management: Effective Prevention in 3 Steps](https://dev.to/merbayerp/bgp-route-flap-management-effective-prevention-in-3-steps-2c84)
-- [How I built a free carbon credit risk model using NASA satellite data, dbt, and Streamlit](https://dev.to/likithasree_yarabarla/how-i-built-a-free-carbon-credit-risk-model-using-nasa-satellite-data-dbt-and-streamlit-4ap6)
-- [🔐 Kubernetes RBAC Roles Tutorial — Secure Your Cluster Access the Right Way](https://dev.to/ptp2308/kubernetes-rbac-roles-tutorial-secure-your-cluster-access-the-right-way-5fh)
-- [Caching in ASP.NET Core](https://dev.to/donia_shaban_757cda160187/caching-in-aspnet-core-29e)
+- [Gemini Nano On-Device Function Calling for Android](https://dev.to/software_mvp-factory/gemini-nano-on-device-function-calling-for-android-18o3)
+- [I Deleted 40% of Our Kubernetes Config. Here&#39;s What Stayed.](https://dev.to/zny10289/i-deleted-40-of-our-kubernetes-config-heres-what-stayed-3ceo)
+- [Building a Safe Internal AI Assistant with Amazon Kendra and Amazon Bedrock](https://dev.to/mike_anderson_d01f52129fb/building-a-safe-internal-ai-assistant-with-amazon-kendra-and-amazon-bedrock-51lb)
+- [I Migrated Our API From REST to GraphQL. Here&#39;s What Nobody Warned Me About.](https://dev.to/zny10289/i-migrated-our-api-from-rest-to-graphql-heres-what-nobody-warned-me-about-1g47)
 <!-- BLOG-POST-LIST:END -->
 
