@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini Nano On-Device Function Calling for Android](https://dev.to/software_mvp-factory/gemini-nano-on-device-function-calling-for-android-18o3)
-- [I Deleted 40% of Our Kubernetes Config. Here&#39;s What Stayed.](https://dev.to/zny10289/i-deleted-40-of-our-kubernetes-config-heres-what-stayed-3ceo)
-- [Building a Safe Internal AI Assistant with Amazon Kendra and Amazon Bedrock](https://dev.to/mike_anderson_d01f52129fb/building-a-safe-internal-ai-assistant-with-amazon-kendra-and-amazon-bedrock-51lb)
-- [I Migrated Our API From REST to GraphQL. Here&#39;s What Nobody Warned Me About.](https://dev.to/zny10289/i-migrated-our-api-from-rest-to-graphql-heres-what-nobody-warned-me-about-1g47)
+- [GDPR Audit Automation: 5 Compliance Checks You Are Probably Missing](https://dev.to/toolkitonline/gdpr-audit-automation-5-compliance-checks-you-are-probably-missing-5hb7)
+- [I decided to build a Kubernetes alternative. Yes, I know I&#39;m crazy](https://dev.to/denerfernandes/i-decided-to-build-a-kubernetes-alternative-yes-i-know-im-crazy-21b5)
+- [I think the real AI agent war is who owns your inbox, browser, and calendar](https://dev.to/lars_winstand/i-think-the-real-ai-agent-war-is-who-owns-your-inbox-browser-and-calendar-jgg)
+- [How to Measure a Ship&#39;s CO Emissions From Land](https://dev.to/vessel_api/how-to-measure-a-ships-co2-emissions-from-land-2c2)
 <!-- BLOG-POST-LIST:END -->
 
