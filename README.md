@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Braintrust vs LangSmith: Is $249/mo Worth It? The May 2026 Math](https://dev.to/bean_bean/braintrust-vs-langsmith-is-249mo-worth-it-the-may-2026-math-2i2a)
-- [ASO Skills: ASO in Your AI Workflow](https://dev.to/expo/aso-skills-aso-in-your-ai-workflow-3288)
-- [Which Gemma 4 Model Should You Actually Use? I Tested All of Them, So You Don&#39;t Have To](https://dev.to/temiloluwavalentine/which-gemma-4-model-should-you-actually-use-i-tested-all-of-them-so-you-dont-have-to-eec)
-- [The AI Bill Is Coming. Here Is the FinOps Playbook to Tame It.](https://dev.to/eagleeyethinker/the-ai-bill-is-coming-here-is-the-finops-playbook-to-tame-it-3m3d)
+- [BGP Route Flap Management: Effective Prevention in 3 Steps](https://dev.to/merbayerp/bgp-route-flap-management-effective-prevention-in-3-steps-2c84)
+- [How I built a free carbon credit risk model using NASA satellite data, dbt, and Streamlit](https://dev.to/likithasree_yarabarla/how-i-built-a-free-carbon-credit-risk-model-using-nasa-satellite-data-dbt-and-streamlit-4ap6)
+- [🔐 Kubernetes RBAC Roles Tutorial — Secure Your Cluster Access the Right Way](https://dev.to/ptp2308/kubernetes-rbac-roles-tutorial-secure-your-cluster-access-the-right-way-5fh)
+- [Caching in ASP.NET Core](https://dev.to/donia_shaban_757cda160187/caching-in-aspnet-core-29e)
 <!-- BLOG-POST-LIST:END -->
 
