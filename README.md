@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Are we using LLMs for Personal Knowledge Management all wrong? 🤔](https://dev.to/vhagar/are-we-using-llms-for-personal-knowledge-management-all-wrong-2fjm)
-- [PaySnap - AI Powered Wage Theft Detector](https://dev.to/aadarsh_praveen/paysnap-ai-powered-wage-theft-detector-e0o)
-- [I’m a beginner html css editor,I hope to make friends and mentors here.](https://dev.to/paa_kwesiandersonaidoo_/im-a-beginner-html-css-editori-hope-to-make-friends-and-mentors-here-23d3)
-- [AI 2026AI](https://dev.to/zny10289/ai-2026ai-47pd)
+- [Stop Getting &#39;It Depends&#39; Answers About RAG Architecture](https://dev.to/swapnanilsaha/stop-getting-it-depends-answers-about-rag-architecture-1em7)
+- [Wrapping Hermes Agent with agent-stack: six tiny libs for the boring parts](https://dev.to/mukundakatta/wrapping-hermes-agent-with-agent-stack-six-tiny-libs-for-the-boring-parts-c3a)
+- [Templating got me to 33,620 pages. Indexing them was the hard part.](https://dev.to/gaspricecheck/templating-got-me-to-33620-pages-indexing-them-was-the-hard-part-kem)
+- [EML Attachments Not Opening? Here’s How to Fix the Issue Easily in 2026](https://dev.to/chandel_amit_3c52638e3ccf/eml-attachments-not-opening-heres-how-to-fix-the-issue-easily-in-2026-ahn)
 <!-- BLOG-POST-LIST:END -->
 
