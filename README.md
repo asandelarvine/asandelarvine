@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Shipped a Bug to Production That Cost Us 3 Hours of Downtime](https://dev.to/exactsolutionofficial/i-shipped-a-bug-to-production-that-cost-us-3-hours-of-downtime-34d)
-- [程序人生：在代码与时间之间](https://dev.to/devgogo/cheng-xu-ren-sheng-zai-dai-ma-yu-shi-jian-zhi-jian-44jg)
-- [The Wrong Way to Think About XRPL Event Infrastructure](https://dev.to/jonomor_ecosystem/the-wrong-way-to-think-about-xrpl-event-infrastructure-2hb9)
-- [What I Learned About MND, Voice Banking, and Why Assistive Tech Is Personal](https://dev.to/rkeggy/what-i-learned-about-mnd-voice-banking-and-why-assistive-tech-is-personal-424l)
+- [Authentication Looks Easy - Until You Build It for Real Users](https://dev.to/sumit_shresht/authentication-looks-easy-until-you-build-it-for-real-users-5dop)
+- [I Built a Free Stock Market Game You Can Play Right Now — No Login, No Download](https://dev.to/foxinfotech/i-built-a-free-stock-market-game-you-can-play-right-now-no-login-no-download-443f)
+- [GitHub Agentic Workflows: Building Self-Healing CI for .NET](https://dev.to/bgener/github-agentic-workflows-building-self-healing-ci-for-net-5f7f)
+- [Building a No-Code AI Agent for WooCommerce Order Analytics with Flowise &amp; HPOS](https://dev.to/chandan_pattanayak_87fa6c/building-a-no-code-ai-agent-for-woocommerce-order-analytics-with-flowise-hpos-3g81)
 <!-- BLOG-POST-LIST:END -->
 
