@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenSparrow v2.3 – visual admin panel, zero dependencies, now with ERD and M2M support](https://dev.to/wrobeltomasz/opensparrow-v23-visual-admin-panel-zero-dependencies-now-with-erd-and-m2m-support-4p6e)
-- [Security Is Important. Automate It](https://dev.to/nicolas_vbgh/security-is-important-automate-it-5ekg)
-- [Apache Kafka for Beginners: Building Real-Time Streaming Systems with Python](https://dev.to/samwel_sam/apache-kafka-for-beginners-building-real-time-streaming-systems-with-python-1f3k)
-- [Dating the Crawler](https://dev.to/nicohartmann/dating-the-crawler-4o7a)
+- [I Built a Private AI Assistant That Queries My Git History and Project Management Data — Using Only Local LLMs](https://dev.to/pouria_zand/i-built-a-private-ai-assistant-that-queries-my-git-history-and-project-management-data-using-only-39mn)
+- [Multica: An Open-Source Platform for Managing AI Coding Agents Like Teammates](https://dev.to/arshtechpro/multica-an-open-source-platform-for-managing-ai-coding-agents-like-teammates-2469)
+- [The Death of the Junior Developer](https://dev.to/bojan_josifoski_76e9fd65d/the-death-of-the-junior-developer-1bkb)
+- [System prompts are not a security boundary for AI agents](https://dev.to/enforra/system-prompts-are-not-a-security-boundary-for-ai-agents-2n8)
 <!-- BLOG-POST-LIST:END -->
 
