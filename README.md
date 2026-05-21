@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why P95 Latency Is the Only Metric That Matters at 3 AM](https://dev.to/tandemmedia/why-p95-latency-is-the-only-metric-that-matters-at-3-am-2b2c)
-- [Recycling made easy: a Polish recycling assistant powered by Gemma 4](https://dev.to/klaudiagrz/recycling-made-easy-a-polish-recycling-assistant-powered-by-gemma-4-j0a)
-- [The Complete Guide to Running a Midnight Node: Setup, Sync &amp; Monitoring](https://dev.to/devroy/the-complete-guide-to-running-a-midnight-node-setup-sync-monitoring-2kin)
-- [De CSRF a RCE: una visita web cuesta una shell en OpenYak](https://dev.to/arturo0x90/de-csrf-a-rce-una-visita-web-cuesta-una-shell-en-openyak-410)
+- [OpenSparrow v2.3 – visual admin panel, zero dependencies, now with ERD and M2M support](https://dev.to/wrobeltomasz/opensparrow-v23-visual-admin-panel-zero-dependencies-now-with-erd-and-m2m-support-4p6e)
+- [Security Is Important. Automate It](https://dev.to/nicolas_vbgh/security-is-important-automate-it-5ekg)
+- [Apache Kafka for Beginners: Building Real-Time Streaming Systems with Python](https://dev.to/samwel_sam/apache-kafka-for-beginners-building-real-time-streaming-systems-with-python-1f3k)
+- [Dating the Crawler](https://dev.to/nicohartmann/dating-the-crawler-4o7a)
 <!-- BLOG-POST-LIST:END -->
 
