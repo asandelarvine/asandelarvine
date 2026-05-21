@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [92. BERT: The Model That Reads in Both Directions](https://dev.to/yakhilesh/92-bert-the-model-that-reads-in-both-directions-2cga)
-- [QAOA vs. 75,000 Nodes: Building a Hybrid Architecture to Solve NP-Hard Problems When Quantum Simulators Hit a Wall](https://dev.to/emperoq/qaoa-vs-75000-nodes-building-a-hybrid-architecture-to-solve-np-hard-problems-when-quantum-613)
-- [One Tool That Cuts Token Costs 40-80% for Claude Code, Codex, opencode, and openclaw](https://dev.to/zelys_dfkhelper/one-tool-that-cuts-token-costs-40-80-for-claude-code-codex-opencode-and-openclaw-hh2)
-- [Static site search for Astro in 2026: why I picked Pagefind over Algolia and Lunr](https://dev.to/morinaga/static-site-search-for-astro-in-2026-why-i-picked-pagefind-over-algolia-and-lunr-pg1)
+- [Are we using LLMs for Personal Knowledge Management all wrong? 🤔](https://dev.to/vhagar/are-we-using-llms-for-personal-knowledge-management-all-wrong-2fjm)
+- [PaySnap - AI Powered Wage Theft Detector](https://dev.to/aadarsh_praveen/paysnap-ai-powered-wage-theft-detector-e0o)
+- [I’m a beginner html css editor,I hope to make friends and mentors here.](https://dev.to/paa_kwesiandersonaidoo_/im-a-beginner-html-css-editori-hope-to-make-friends-and-mentors-here-23d3)
+- [AI 2026AI](https://dev.to/zny10289/ai-2026ai-47pd)
 <!-- BLOG-POST-LIST:END -->
 
