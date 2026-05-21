@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding AI Code Fast: A 60-Second Habit for Institutional Memory](https://dev.to/shrsv/understanding-ai-code-fast-a-60-second-habit-for-institutional-memory-214)
-- [Building a Real-Time Camera Classifier](https://dev.to/jasmanpy/building-a-real-time-camera-classifier-21km)
-- [Chasing Tokens: The Developer Grind Nobody Warned You About](https://dev.to/bojan_josifoski_76e9fd65d/chasing-tokens-the-developer-grind-nobody-warned-you-about-32o5)
-- [A 10th Grader’s Journey: Why Cyber Security Starts with Your Very First Loop](https://dev.to/hkn_2011/a-10th-graders-journey-why-cyber-security-starts-with-your-very-first-loop-j0o)
+- [I Shipped a Bug to Production That Cost Us 3 Hours of Downtime](https://dev.to/exactsolutionofficial/i-shipped-a-bug-to-production-that-cost-us-3-hours-of-downtime-34d)
+- [程序人生：在代码与时间之间](https://dev.to/devgogo/cheng-xu-ren-sheng-zai-dai-ma-yu-shi-jian-zhi-jian-44jg)
+- [The Wrong Way to Think About XRPL Event Infrastructure](https://dev.to/jonomor_ecosystem/the-wrong-way-to-think-about-xrpl-event-infrastructure-2hb9)
+- [What I Learned About MND, Voice Banking, and Why Assistive Tech Is Personal](https://dev.to/rkeggy/what-i-learned-about-mnd-voice-banking-and-why-assistive-tech-is-personal-424l)
 <!-- BLOG-POST-LIST:END -->
 
