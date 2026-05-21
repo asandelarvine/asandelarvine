@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Authentication Looks Easy - Until You Build It for Real Users](https://dev.to/sumit_shresht/authentication-looks-easy-until-you-build-it-for-real-users-5dop)
-- [I Built a Free Stock Market Game You Can Play Right Now — No Login, No Download](https://dev.to/foxinfotech/i-built-a-free-stock-market-game-you-can-play-right-now-no-login-no-download-443f)
-- [GitHub Agentic Workflows: Building Self-Healing CI for .NET](https://dev.to/bgener/github-agentic-workflows-building-self-healing-ci-for-net-5f7f)
-- [Building a No-Code AI Agent for WooCommerce Order Analytics with Flowise &amp; HPOS](https://dev.to/chandan_pattanayak_87fa6c/building-a-no-code-ai-agent-for-woocommerce-order-analytics-with-flowise-hpos-3g81)
+- [Why P95 Latency Is the Only Metric That Matters at 3 AM](https://dev.to/tandemmedia/why-p95-latency-is-the-only-metric-that-matters-at-3-am-2b2c)
+- [Recycling made easy: a Polish recycling assistant powered by Gemma 4](https://dev.to/klaudiagrz/recycling-made-easy-a-polish-recycling-assistant-powered-by-gemma-4-j0a)
+- [The Complete Guide to Running a Midnight Node: Setup, Sync &amp; Monitoring](https://dev.to/devroy/the-complete-guide-to-running-a-midnight-node-setup-sync-monitoring-2kin)
+- [De CSRF a RCE: una visita web cuesta una shell en OpenYak](https://dev.to/arturo0x90/de-csrf-a-rce-una-visita-web-cuesta-una-shell-en-openyak-410)
 <!-- BLOG-POST-LIST:END -->
 
