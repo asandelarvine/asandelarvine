@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Getting &#39;It Depends&#39; Answers About RAG Architecture](https://dev.to/swapnanilsaha/stop-getting-it-depends-answers-about-rag-architecture-1em7)
-- [Wrapping Hermes Agent with agent-stack: six tiny libs for the boring parts](https://dev.to/mukundakatta/wrapping-hermes-agent-with-agent-stack-six-tiny-libs-for-the-boring-parts-c3a)
-- [Templating got me to 33,620 pages. Indexing them was the hard part.](https://dev.to/gaspricecheck/templating-got-me-to-33620-pages-indexing-them-was-the-hard-part-kem)
-- [EML Attachments Not Opening? Here’s How to Fix the Issue Easily in 2026](https://dev.to/chandel_amit_3c52638e3ccf/eml-attachments-not-opening-heres-how-to-fix-the-issue-easily-in-2026-ahn)
+- [Understanding AI Code Fast: A 60-Second Habit for Institutional Memory](https://dev.to/shrsv/understanding-ai-code-fast-a-60-second-habit-for-institutional-memory-214)
+- [Building a Real-Time Camera Classifier](https://dev.to/jasmanpy/building-a-real-time-camera-classifier-21km)
+- [Chasing Tokens: The Developer Grind Nobody Warned You About](https://dev.to/bojan_josifoski_76e9fd65d/chasing-tokens-the-developer-grind-nobody-warned-you-about-32o5)
+- [A 10th Grader’s Journey: Why Cyber Security Starts with Your Very First Loop](https://dev.to/hkn_2011/a-10th-graders-journey-why-cyber-security-starts-with-your-very-first-loop-j0o)
 <!-- BLOG-POST-LIST:END -->
 
