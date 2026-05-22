@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Real-Time Apps in Node.js with Rivalis: WebSockets, Rooms, Actors, and a Binary Wire](https://dev.to/kalevski/building-real-time-apps-in-nodejs-with-rivalis-websockets-rooms-actors-and-a-binary-wire-ii9)
-- [This Week In React #282 : Security, Fate, TanStack, Redux, Jotai | Hermes-node, Expo, Rozenite, Harness | TC39, Bun, pnpm, npm, Yarn, Node](https://dev.to/sebastienlorber/this-week-in-react-282-security-fate-tanstack-redux-jotai-hermes-node-expo-rozenite-1n2i)
-- [AI Copilot vs AI Agent Architecture - What&#39;s Actually Different &lpar;And Why It Matters&rpar;](https://dev.to/pallavi_sharma_10c1a6f1da/ai-copilot-vs-ai-agent-architecture-whats-actually-different-and-why-it-matters-cem)
-- [Smart Contract Security: NEAR&#39;s Futures Surge and AI Token Risks](https://dev.to/soken_team/smart-contract-security-nears-futures-surge-and-ai-token-risks-778)
+- [Apache Iceberg Metadata Tables: Querying the Internals](https://dev.to/alexmercedcoder/apache-iceberg-metadata-tables-querying-the-internals-jgb)
+- [Hermes, The Self-Improving Agent You Can Actually Run Yourself](https://dev.to/emmanuelthecoder/hermes-the-self-improving-agent-you-can-actually-run-yourself-555l)
+- [Unity vs Unreal: 5 Things I Had to Relearn the Hard Way](https://dev.to/gamedevnotes/unity-vs-unreal-5-things-i-had-to-relearn-the-hard-way-1kej)
+- [Building Agentic Commerce Infrastructure: Overcoming SQLite Concurrency for Autonomous Procurement Agents](https://dev.to/anhmtk/building-agentic-commerce-infrastructure-overcoming-sqlite-concurrency-for-autonomous-procurement-22i1)
 <!-- BLOG-POST-LIST:END -->
 
