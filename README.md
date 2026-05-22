@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Ran Gemma 4 on an 8GB Laptop — Here’s What the Experience Was Actually Like](https://dev.to/vendagency/i-ran-gemma-4-on-an-8gb-laptop-heres-what-the-experience-was-actually-like-4jnp)
-- [Lean 4 101 for Python Programmers: A Gentle Introduction to Theorem Proving](https://dev.to/shrsv/lean-4-101-for-python-programmers-a-gentle-introduction-to-theorem-proving-1f3e)
-- [From Assistants to Agents: My Take on Google I/O 2026](https://dev.to/codedbyasim/from-assistants-to-agents-my-take-on-google-io-2026-52na)
-- [Learning Progress Pt.16](https://dev.to/muhamedmaxhuni/learning-progress-pt16-og)
+- [When Stress Disguises Itself as Rational Planning &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/when-stress-disguises-itself-as-rational-planning-bite-size-article-4m98)
+- [A Domain-Driven Notification Microservice — Patterns From Production](https://dev.to/hammadxcm/a-domain-driven-notification-microservice-patterns-from-production-a05)
+- [I Built KubeCrash: Learn Kubernetes by Diagnosing Real Incidents](https://dev.to/sajjadm624/i-built-kubecrash-learn-kubernetes-by-diagnosing-real-incidents-2e4c)
+- [The Real-World Test: How Gemini’s New Interface Won Over My Wife and Mother-in-Law &lpar;Who Are Totally Non-Tech&rpar;](https://dev.to/fvds/the-real-world-test-how-geminis-new-interface-won-over-my-wife-and-mother-in-law-who-are-totally-42b4)
 <!-- BLOG-POST-LIST:END -->
 
