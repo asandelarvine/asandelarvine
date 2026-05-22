@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right Treasure Map to Avoid Data Decay in Veltrix](https://dev.to/dev-architecture-blog/choosing-the-right-treasure-map-to-avoid-data-decay-in-veltrix-3jm8)
-- [Migrating to Apache Iceberg: Strategies for Every Source System](https://dev.to/alexmercedcoder/migrating-to-apache-iceberg-strategies-for-every-source-system-424j)
-- [Stop Reviewing Every Line of AI Code - Build the Trust Stack Instead](https://dev.to/sag1v/stop-reviewing-every-line-of-ai-code-build-the-trust-stack-instead-1pie)
-- [Implementation of AI in mobile applications: Comparative analysis of On-Device and On-Server approaches on Native Android and Flutter](https://dev.to/ratratatyu/implementation-of-ai-in-mobile-applications-comparative-analysis-of-on-device-and-on-server-1g5a)
+- [I Ran Gemma 4 on an 8GB Laptop — Here’s What the Experience Was Actually Like](https://dev.to/vendagency/i-ran-gemma-4-on-an-8gb-laptop-heres-what-the-experience-was-actually-like-4jnp)
+- [Lean 4 101 for Python Programmers: A Gentle Introduction to Theorem Proving](https://dev.to/shrsv/lean-4-101-for-python-programmers-a-gentle-introduction-to-theorem-proving-1f3e)
+- [From Assistants to Agents: My Take on Google I/O 2026](https://dev.to/codedbyasim/from-assistants-to-agents-my-take-on-google-io-2026-52na)
+- [Learning Progress Pt.16](https://dev.to/muhamedmaxhuni/learning-progress-pt16-og)
 <!-- BLOG-POST-LIST:END -->
 
