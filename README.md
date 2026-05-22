@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Stress Disguises Itself as Rational Planning &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/when-stress-disguises-itself-as-rational-planning-bite-size-article-4m98)
-- [A Domain-Driven Notification Microservice — Patterns From Production](https://dev.to/hammadxcm/a-domain-driven-notification-microservice-patterns-from-production-a05)
-- [I Built KubeCrash: Learn Kubernetes by Diagnosing Real Incidents](https://dev.to/sajjadm624/i-built-kubecrash-learn-kubernetes-by-diagnosing-real-incidents-2e4c)
-- [The Real-World Test: How Gemini’s New Interface Won Over My Wife and Mother-in-Law &lpar;Who Are Totally Non-Tech&rpar;](https://dev.to/fvds/the-real-world-test-how-geminis-new-interface-won-over-my-wife-and-mother-in-law-who-are-totally-42b4)
+- [9 in 10 Docker Compose files skip the basic security flags](https://dev.to/tmatens/9-in-10-docker-compose-files-skip-the-basic-security-flags-2dpf)
+- [How to Forward Android SMS to Telegram Automatically](https://dev.to/smssender24/how-to-forward-android-sms-to-telegram-automatically-2j75)
+- [From AI Code Generation to AI System Investigation](https://dev.to/miller-28/from-ai-code-generation-to-ai-system-investigation-4b6e)
+- [I gave Gemini 3.5 Flash a CVE-fix PR to review. It found another bug in the same file.](https://dev.to/vicente_junior_dev/i-gave-gemini-35-flash-a-cve-fix-pr-to-review-it-found-another-bug-in-the-same-file-1g24)
 <!-- BLOG-POST-LIST:END -->
 
