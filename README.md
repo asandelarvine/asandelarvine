@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Private AI Assistant That Queries My Git History and Project Management Data — Using Only Local LLMs](https://dev.to/pouria_zand/i-built-a-private-ai-assistant-that-queries-my-git-history-and-project-management-data-using-only-39mn)
-- [Multica: An Open-Source Platform for Managing AI Coding Agents Like Teammates](https://dev.to/arshtechpro/multica-an-open-source-platform-for-managing-ai-coding-agents-like-teammates-2469)
-- [The Death of the Junior Developer](https://dev.to/bojan_josifoski_76e9fd65d/the-death-of-the-junior-developer-1bkb)
-- [System prompts are not a security boundary for AI agents](https://dev.to/enforra/system-prompts-are-not-a-security-boundary-for-ai-agents-2n8)
+- [I automated PDF generation for 1,600 security guides — WeasyPrint lessons](https://dev.to/ayinedjimi-consultants/i-automated-pdf-generation-for-1600-security-guides-weasyprint-lessons-3kh4)
+- [Anker&#39;s 0-to-1: What a $3000 Startup Teaches Us About Replicable Success](https://dev.to/lanternproton/ankers-0-to-1-what-a-3000-startup-teaches-us-about-replicable-success-4bo9)
+- [I built a search engine over 1,600+ cybersecurity articles — here&#39;s what I actually learned](https://dev.to/ayinedjimi-consultants/i-built-a-search-engine-over-1600-cybersecurity-articles-heres-what-i-actually-learned-1eke)
+- [I used LLMs to rewrite meta descriptions for 1,600 articles — honest results](https://dev.to/ayinedjimi-consultants/i-used-llms-to-rewrite-meta-descriptions-for-1600-articles-honest-results-2389)
 <!-- BLOG-POST-LIST:END -->
 
