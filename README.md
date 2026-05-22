@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Configuration Overkill: The Hidden Costs of Premature Optimisation in Our Veltrix Treasure Hunt Engine](https://dev.to/dev-architecture-blog/configuration-overkill-the-hidden-costs-of-premature-optimisation-in-our-veltrix-treasure-hunt-1ela)
-- [Model Context Protocol &lpar;MCP&rpar;: The Complete Developer Guide to Building Production-Grade AI Agents in 2026](https://dev.to/monuminu/model-context-protocol-mcp-the-complete-developer-guide-to-building-production-grade-ai-agents-ah3)
-- [Multi-Stream LLMs: How Parallel Computation Will Unblock Your AI Agents](https://dev.to/monuminu/multi-stream-llms-how-parallel-computation-will-unblock-your-ai-agents-3gjb)
-- [Where Logic, Mathematics, and Philosophy Reside in Structure A11](https://dev.to/__272d48f2ed/where-logic-mathematics-and-philosophy-reside-in-structure-a11-fh1)
+- [Try to Hack My AI-Agent Workflow: GitHub Issues as a Control Surface](https://dev.to/flancer64/try-to-hack-my-ai-agent-workflow-github-issues-as-a-control-surface-4jcf)
+- [# I built a type-safe SQL library for Bun — no ORM, no codegen, just SQL &lpar;using Claude Code&rpar;](https://dev.to/phonemyatt/-i-built-a-type-safe-sql-library-for-bun-no-orm-no-codegen-just-sql-1k43)
+- [DynamoDB Contributor Insights Pricing: What You&#39;re Actually Paying For](https://dev.to/aman_singh_414811a9e4168b/dynamodb-contributor-insights-pricing-what-youre-actually-paying-for-17no)
+- [Oracle Linux 7 to 8 Upgrade Using Leapp: Architecture, Inhibitors, and Enterprise Troubleshooting](https://dev.to/bonthu_durgaprasad_60725/oracle-linux-7-to-8-upgrade-using-leapp-architecture-inhibitors-and-enterprise-troubleshooting-12e5)
 <!-- BLOG-POST-LIST:END -->
 
