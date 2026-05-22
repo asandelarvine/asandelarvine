@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I automated PDF generation for 1,600 security guides — WeasyPrint lessons](https://dev.to/ayinedjimi-consultants/i-automated-pdf-generation-for-1600-security-guides-weasyprint-lessons-3kh4)
-- [Anker&#39;s 0-to-1: What a $3000 Startup Teaches Us About Replicable Success](https://dev.to/lanternproton/ankers-0-to-1-what-a-3000-startup-teaches-us-about-replicable-success-4bo9)
-- [I built a search engine over 1,600+ cybersecurity articles — here&#39;s what I actually learned](https://dev.to/ayinedjimi-consultants/i-built-a-search-engine-over-1600-cybersecurity-articles-heres-what-i-actually-learned-1eke)
-- [I used LLMs to rewrite meta descriptions for 1,600 articles — honest results](https://dev.to/ayinedjimi-consultants/i-used-llms-to-rewrite-meta-descriptions-for-1600-articles-honest-results-2389)
+- [Configuration Overkill: The Hidden Costs of Premature Optimisation in Our Veltrix Treasure Hunt Engine](https://dev.to/dev-architecture-blog/configuration-overkill-the-hidden-costs-of-premature-optimisation-in-our-veltrix-treasure-hunt-1ela)
+- [Model Context Protocol &lpar;MCP&rpar;: The Complete Developer Guide to Building Production-Grade AI Agents in 2026](https://dev.to/monuminu/model-context-protocol-mcp-the-complete-developer-guide-to-building-production-grade-ai-agents-ah3)
+- [Multi-Stream LLMs: How Parallel Computation Will Unblock Your AI Agents](https://dev.to/monuminu/multi-stream-llms-how-parallel-computation-will-unblock-your-ai-agents-3gjb)
+- [Where Logic, Mathematics, and Philosophy Reside in Structure A11](https://dev.to/__272d48f2ed/where-logic-mathematics-and-philosophy-reside-in-structure-a11-fh1)
 <!-- BLOG-POST-LIST:END -->
 
