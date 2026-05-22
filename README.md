@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Try to Hack My AI-Agent Workflow: GitHub Issues as a Control Surface](https://dev.to/flancer64/try-to-hack-my-ai-agent-workflow-github-issues-as-a-control-surface-4jcf)
-- [# I built a type-safe SQL library for Bun — no ORM, no codegen, just SQL &lpar;using Claude Code&rpar;](https://dev.to/phonemyatt/-i-built-a-type-safe-sql-library-for-bun-no-orm-no-codegen-just-sql-1k43)
-- [DynamoDB Contributor Insights Pricing: What You&#39;re Actually Paying For](https://dev.to/aman_singh_414811a9e4168b/dynamodb-contributor-insights-pricing-what-youre-actually-paying-for-17no)
-- [Oracle Linux 7 to 8 Upgrade Using Leapp: Architecture, Inhibitors, and Enterprise Troubleshooting](https://dev.to/bonthu_durgaprasad_60725/oracle-linux-7-to-8-upgrade-using-leapp-architecture-inhibitors-and-enterprise-troubleshooting-12e5)
+- [Building Real-Time Apps in Node.js with Rivalis: WebSockets, Rooms, Actors, and a Binary Wire](https://dev.to/kalevski/building-real-time-apps-in-nodejs-with-rivalis-websockets-rooms-actors-and-a-binary-wire-ii9)
+- [This Week In React #282 : Security, Fate, TanStack, Redux, Jotai | Hermes-node, Expo, Rozenite, Harness | TC39, Bun, pnpm, npm, Yarn, Node](https://dev.to/sebastienlorber/this-week-in-react-282-security-fate-tanstack-redux-jotai-hermes-node-expo-rozenite-1n2i)
+- [AI Copilot vs AI Agent Architecture - What&#39;s Actually Different &lpar;And Why It Matters&rpar;](https://dev.to/pallavi_sharma_10c1a6f1da/ai-copilot-vs-ai-agent-architecture-whats-actually-different-and-why-it-matters-cem)
+- [Smart Contract Security: NEAR&#39;s Futures Surge and AI Token Risks](https://dev.to/soken_team/smart-contract-security-nears-futures-surge-and-ai-token-risks-778)
 <!-- BLOG-POST-LIST:END -->
 
