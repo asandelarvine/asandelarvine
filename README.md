@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When AI Reads Blueprints: The Hidden Attack Surface of Multimodal Engineering Intelligence](https://dev.to/toxy4ny/when-ai-reads-blueprints-the-hidden-attack-surface-of-multimodal-engineering-intelligence-2d7e)
-- [Simplicity scales — complexity kills side projects](https://dev.to/samareshdas/simplicity-scales-complexity-kills-side-projects-1g76)
-- [AI does exactly what you ask — that&#39;s the problem](https://dev.to/ohugonnot/ai-does-exactly-what-you-ask-thats-the-problem-bje)
-- [How a model upgrade silently broke our extraction prompt &lpar;and how we caught it&rpar;](https://dev.to/shaun_vd_7562913ba77e1e0b/how-a-model-upgrade-silently-broke-our-extraction-prompt-and-how-we-caught-it-40ol)
+- [Gemma 4&#39;s Hidden Superpower: Why Built-in Thinking Tokens Change Everything for Evaluation Tasks](https://dev.to/thyalpha001/gemma-4s-hidden-superpower-why-built-in-thinking-tokens-change-everything-for-evaluation-tasks-389c)
+- [⚡ WordPress Performance: The Real Truth They Don&#39;t Tell You](https://dev.to/kushang_tailor/wordpress-performance-the-real-truth-they-dont-tell-you-50c3)
+- [A Mobile App Usually Needs an Admin System First](https://dev.to/pytagotech/a-mobile-app-usually-needs-an-admin-system-first-3pl9)
+- [Customer Portals Should Remove Repeated Admin Work](https://dev.to/pytagotech/customer-portals-should-remove-repeated-admin-work-4n13)
 <!-- BLOG-POST-LIST:END -->
 
