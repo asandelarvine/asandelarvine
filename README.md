@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemma 4&#39;s Hidden Superpower: Why Built-in Thinking Tokens Change Everything for Evaluation Tasks](https://dev.to/thyalpha001/gemma-4s-hidden-superpower-why-built-in-thinking-tokens-change-everything-for-evaluation-tasks-389c)
-- [⚡ WordPress Performance: The Real Truth They Don&#39;t Tell You](https://dev.to/kushang_tailor/wordpress-performance-the-real-truth-they-dont-tell-you-50c3)
-- [A Mobile App Usually Needs an Admin System First](https://dev.to/pytagotech/a-mobile-app-usually-needs-an-admin-system-first-3pl9)
-- [Customer Portals Should Remove Repeated Admin Work](https://dev.to/pytagotech/customer-portals-should-remove-repeated-admin-work-4n13)
+- [Cooking an AI Campaign in 5 Minutes with Google Cloud AI APIs](https://dev.to/delia_rue/cooking-an-ai-campaign-in-5-minutes-with-google-cloud-ai-apis-383i)
+- [Your PM Retrospectives Are Lying to You](https://dev.to/tongshan42/your-pm-retrospectives-are-lying-to-you-26h7)
+- [How I Built a Free, Self-Hosted Pipeline That Auto-Generates Faceless YouTube Shorts](https://dev.to/nils44344/how-i-built-a-free-self-hosted-pipeline-that-auto-generates-faceless-youtube-shorts-3je4)
+- [TypeScript 54 to 58: The Features That Actually Matter in 2026](https://dev.to/zny10289/typescript-54-to-58-the-features-that-actually-matter-in-2026-5b98)
 <!-- BLOG-POST-LIST:END -->
 
