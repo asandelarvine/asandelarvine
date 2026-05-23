@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [9 in 10 Docker Compose files skip the basic security flags](https://dev.to/tmatens/9-in-10-docker-compose-files-skip-the-basic-security-flags-2dpf)
-- [How to Forward Android SMS to Telegram Automatically](https://dev.to/smssender24/how-to-forward-android-sms-to-telegram-automatically-2j75)
-- [From AI Code Generation to AI System Investigation](https://dev.to/miller-28/from-ai-code-generation-to-ai-system-investigation-4b6e)
-- [I gave Gemini 3.5 Flash a CVE-fix PR to review. It found another bug in the same file.](https://dev.to/vicente_junior_dev/i-gave-gemini-35-flash-a-cve-fix-pr-to-review-it-found-another-bug-in-the-same-file-1g24)
+- [Event Triggers บน Garudust](https://dev.to/garudust/event-triggers-bn-garudust-4ji3)
+- [Event Loop: como o JavaScript executa código assíncrono](https://dev.to/rohyer/event-loop-como-o-javascript-executa-codigo-assincrono-59jd)
+- [5 Best AI Chatbot Plugins for WordPress in 2026 &lpar;Compared&rpar;](https://dev.to/wengjiyao/5-best-ai-chatbot-plugins-for-wordpress-in-2026-compared-1ch0)
+- [17 天 / 247 views / 0 sales — 我把 $9 PDF 砍掉，25 分鐘 spike 出新方向](https://dev.to/foxck016077/17-tian-247-views-0-sales-wo-ba-9-pdf-kan-diao-25-fen-zhong-spike-chu-xin-fang-xiang-d7h)
 <!-- BLOG-POST-LIST:END -->
 
