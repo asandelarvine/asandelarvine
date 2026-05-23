@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Accounting Made Simple: AI-Powered Financial Insights of Japanese companies with Gemma 4](https://dev.to/messiah/accounting-made-simple-ai-powered-financial-insights-of-japanese-companies-with-gemma-4-5akj)
-- [The append-only AST trick that makes Flutter AI chat actually smooth](https://dev.to/jay_limbani_5de2aceb239f0/the-append-only-ast-trick-that-makes-flutter-ai-chat-actually-smooth-1c00)
-- [From Legacy to Live — Reviving XMLPayments with GitHub Copilot](https://dev.to/printo_tom/-from-legacy-to-live-reviving-xmlpayments-with-github-copilot-427c)
-- [AI Agents in Practice — Read from the beginning](https://dev.to/gursharansingh/ai-agents-in-practice-read-from-the-beginning-1l5l)
+- [When AI Reads Blueprints: The Hidden Attack Surface of Multimodal Engineering Intelligence](https://dev.to/toxy4ny/when-ai-reads-blueprints-the-hidden-attack-surface-of-multimodal-engineering-intelligence-2d7e)
+- [Simplicity scales — complexity kills side projects](https://dev.to/samareshdas/simplicity-scales-complexity-kills-side-projects-1g76)
+- [AI does exactly what you ask — that&#39;s the problem](https://dev.to/ohugonnot/ai-does-exactly-what-you-ask-thats-the-problem-bje)
+- [How a model upgrade silently broke our extraction prompt &lpar;and how we caught it&rpar;](https://dev.to/shaun_vd_7562913ba77e1e0b/how-a-model-upgrade-silently-broke-our-extraction-prompt-and-how-we-caught-it-40ol)
 <!-- BLOG-POST-LIST:END -->
 
