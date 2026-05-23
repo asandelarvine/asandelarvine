@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Microsecond Lie: Why your Go timers are lying about the GPU](https://dev.to/eitamos_ring_0508146ca448/the-microsecond-lie-why-your-go-timers-are-lying-about-the-gpu-2gp5)
-- [Google used 6,000 open-source contributors then locked the door. Classic.](https://dev.to/adioof/google-used-6000-open-source-contributors-then-locked-the-door-classic-if7)
-- [Terceira semana tentando voltar ao mercado de trabalho](https://dev.to/erudito/terceira-semana-tentando-voltar-ao-mercado-de-trabalho-1nmf)
-- [How I turned a Python function into a web app in one decorator](https://dev.to/kajetk/how-i-turned-a-python-function-into-a-web-app-in-one-decorator-2oab)
+- [JWT Auth in Express with TS](https://dev.to/nhero/jwt-auth-in-express-with-ts-5egk)
+- [Drawing the Blueprint: Flowchart, Functional Diagram, and Sequence Diagram](https://dev.to/eugene-zimin/drawing-the-blueprint-flowchart-functional-diagram-and-sequence-diagram-537c)
+- [Google I/O 2026 Wasn’t About AI Models — It Was About Agent Execution Layers](https://dev.to/sakiha6720/google-io-2026-wasnt-about-ai-models-it-was-about-agent-execution-layers-5cep)
+- [Monorepos in 2026: Turborepo vs Nx vs Bazel — What Actually Works](https://dev.to/zny10289/monorepos-in-2026-turborepo-vs-nx-vs-bazel-what-actually-works-1j85)
 <!-- BLOG-POST-LIST:END -->
 
