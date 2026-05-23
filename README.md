@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cooking an AI Campaign in 5 Minutes with Google Cloud AI APIs](https://dev.to/delia_rue/cooking-an-ai-campaign-in-5-minutes-with-google-cloud-ai-apis-383i)
-- [Your PM Retrospectives Are Lying to You](https://dev.to/tongshan42/your-pm-retrospectives-are-lying-to-you-26h7)
-- [How I Built a Free, Self-Hosted Pipeline That Auto-Generates Faceless YouTube Shorts](https://dev.to/nils44344/how-i-built-a-free-self-hosted-pipeline-that-auto-generates-faceless-youtube-shorts-3je4)
-- [TypeScript 54 to 58: The Features That Actually Matter in 2026](https://dev.to/zny10289/typescript-54-to-58-the-features-that-actually-matter-in-2026-5b98)
+- [Building Automated Text-to-Video Pipelines with AI](https://dev.to/hongyuan_zhan_f9023c08130/building-automated-text-to-video-pipelines-with-ai-1okf)
+- [Can Gemini Become an Offline AI Tutor? Lessons from Building Educational AI](https://dev.to/allan_kipruto_7f71bb911c6/can-gemini-become-an-offline-ai-tutor-lessons-from-building-educational-ai-46nb)
+- [Why AI Agents Need a Project Layer - Part 1](https://dev.to/ekhtiram_mammadkarimov_24/why-ai-agents-need-a-project-layer-part-1-59ho)
+- [🧠 Hermes Agent Assistant — A Modular AI Agent System with Planner, Executor &amp; Memory](https://dev.to/tanush_326k/hermes-agent-assistant-a-modular-ai-agent-system-with-planner-executor-memory-a49)
 <!-- BLOG-POST-LIST:END -->
 
