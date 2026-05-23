@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Automated Text-to-Video Pipelines with AI](https://dev.to/hongyuan_zhan_f9023c08130/building-automated-text-to-video-pipelines-with-ai-1okf)
-- [Can Gemini Become an Offline AI Tutor? Lessons from Building Educational AI](https://dev.to/allan_kipruto_7f71bb911c6/can-gemini-become-an-offline-ai-tutor-lessons-from-building-educational-ai-46nb)
-- [Why AI Agents Need a Project Layer - Part 1](https://dev.to/ekhtiram_mammadkarimov_24/why-ai-agents-need-a-project-layer-part-1-59ho)
-- [🧠 Hermes Agent Assistant — A Modular AI Agent System with Planner, Executor &amp; Memory](https://dev.to/tanush_326k/hermes-agent-assistant-a-modular-ai-agent-system-with-planner-executor-memory-a49)
+- [Long-Context Models Killed RAG. Except for the 6 Cases Where They Made It Worse.](https://dev.to/gabrielanhaia/long-context-models-killed-rag-except-for-the-6-cases-where-they-made-it-worse-1ico)
+- [I Built a Neural Network Engine in C# That Runs in Your Browser - No ONNX Runtime, No JavaScript Bridge, No Native Binaries](https://dev.to/lostbeard/i-built-a-neural-network-engine-in-c-that-runs-in-your-browser-no-onnx-runtime-no-javascript-4aj3)
+- [An In-Depth Overview of the Apache Iceberg 1.11.0 Release](https://dev.to/alexmercedcoder/an-in-depth-overview-of-the-apache-iceberg-1110-release-4l1n)
+- [Your Agent Just Called the Same Tool 47 Times. Here&#39;s the 20-Line Detector.](https://dev.to/gabrielanhaia/your-agent-just-called-the-same-tool-47-times-heres-the-20-line-detector-59f1)
 <!-- BLOG-POST-LIST:END -->
 
