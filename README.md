@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Event Triggers บน Garudust](https://dev.to/garudust/event-triggers-bn-garudust-4ji3)
-- [Event Loop: como o JavaScript executa código assíncrono](https://dev.to/rohyer/event-loop-como-o-javascript-executa-codigo-assincrono-59jd)
-- [5 Best AI Chatbot Plugins for WordPress in 2026 &lpar;Compared&rpar;](https://dev.to/wengjiyao/5-best-ai-chatbot-plugins-for-wordpress-in-2026-compared-1ch0)
-- [17 天 / 247 views / 0 sales — 我把 $9 PDF 砍掉，25 分鐘 spike 出新方向](https://dev.to/foxck016077/17-tian-247-views-0-sales-wo-ba-9-pdf-kan-diao-25-fen-zhong-spike-chu-xin-fang-xiang-d7h)
+- [Accounting Made Simple: AI-Powered Financial Insights of Japanese companies with Gemma 4](https://dev.to/messiah/accounting-made-simple-ai-powered-financial-insights-of-japanese-companies-with-gemma-4-5akj)
+- [The append-only AST trick that makes Flutter AI chat actually smooth](https://dev.to/jay_limbani_5de2aceb239f0/the-append-only-ast-trick-that-makes-flutter-ai-chat-actually-smooth-1c00)
+- [From Legacy to Live — Reviving XMLPayments with GitHub Copilot](https://dev.to/printo_tom/-from-legacy-to-live-reviving-xmlpayments-with-github-copilot-427c)
+- [AI Agents in Practice — Read from the beginning](https://dev.to/gursharansingh/ai-agents-in-practice-read-from-the-beginning-1l5l)
 <!-- BLOG-POST-LIST:END -->
 
