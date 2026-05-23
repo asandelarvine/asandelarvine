@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Long-Context Models Killed RAG. Except for the 6 Cases Where They Made It Worse.](https://dev.to/gabrielanhaia/long-context-models-killed-rag-except-for-the-6-cases-where-they-made-it-worse-1ico)
-- [I Built a Neural Network Engine in C# That Runs in Your Browser - No ONNX Runtime, No JavaScript Bridge, No Native Binaries](https://dev.to/lostbeard/i-built-a-neural-network-engine-in-c-that-runs-in-your-browser-no-onnx-runtime-no-javascript-4aj3)
-- [An In-Depth Overview of the Apache Iceberg 1.11.0 Release](https://dev.to/alexmercedcoder/an-in-depth-overview-of-the-apache-iceberg-1110-release-4l1n)
-- [Your Agent Just Called the Same Tool 47 Times. Here&#39;s the 20-Line Detector.](https://dev.to/gabrielanhaia/your-agent-just-called-the-same-tool-47-times-heres-the-20-line-detector-59f1)
+- [The Microsecond Lie: Why your Go timers are lying about the GPU](https://dev.to/eitamos_ring_0508146ca448/the-microsecond-lie-why-your-go-timers-are-lying-about-the-gpu-2gp5)
+- [Google used 6,000 open-source contributors then locked the door. Classic.](https://dev.to/adioof/google-used-6000-open-source-contributors-then-locked-the-door-classic-if7)
+- [Terceira semana tentando voltar ao mercado de trabalho](https://dev.to/erudito/terceira-semana-tentando-voltar-ao-mercado-de-trabalho-1nmf)
+- [How I turned a Python function into a web app in one decorator](https://dev.to/kajetk/how-i-turned-a-python-function-into-a-web-app-in-one-decorator-2oab)
 <!-- BLOG-POST-LIST:END -->
 
