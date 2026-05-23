@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JWT Auth in Express with TS](https://dev.to/nhero/jwt-auth-in-express-with-ts-5egk)
-- [Drawing the Blueprint: Flowchart, Functional Diagram, and Sequence Diagram](https://dev.to/eugene-zimin/drawing-the-blueprint-flowchart-functional-diagram-and-sequence-diagram-537c)
-- [Google I/O 2026 Wasn’t About AI Models — It Was About Agent Execution Layers](https://dev.to/sakiha6720/google-io-2026-wasnt-about-ai-models-it-was-about-agent-execution-layers-5cep)
-- [Monorepos in 2026: Turborepo vs Nx vs Bazel — What Actually Works](https://dev.to/zny10289/monorepos-in-2026-turborepo-vs-nx-vs-bazel-what-actually-works-1j85)
+- [🚀 React Hooks &amp; Rendering — A Clear Mental Model &lpar;For My Future Self Too&rpar;](https://dev.to/aroob/react-hooks-rendering-a-clear-mental-model-for-my-future-self-too-4edn)
+- [Publishing a reusable React UI package as an npm module](https://dev.to/aroob/publishing-a-reusable-react-ui-package-as-an-npm-module-1o0g)
+- [Brave CMS – A CMS Built for Simplicity, Flexibility, and Scalability](https://dev.to/zamfir80/brave-cms-a-modern-laravel-cms-built-for-simplicity-flexibility-and-scalability-1fh5)
+- [WebAssembly in 2026: The Quiet Revolution That Finally Delivered](https://dev.to/zny10289/webassembly-in-2026-the-quiet-revolution-that-finally-delivered-8ff)
 <!-- BLOG-POST-LIST:END -->
 
