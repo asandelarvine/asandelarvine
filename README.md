@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Indexed 2,000 Claude Code Skills &lpar;And What the Install Data Says About AI Coding in 2026&rpar;](https://dev.to/shenhuang/how-i-indexed-2000-claude-code-skills-and-what-the-install-data-says-about-ai-coding-in-2026-3k80)
-- [Architecting Instant Micro-Loans: Data Pipelines and KYC Automation](https://dev.to/loaneligstatus/architecting-instant-micro-loans-data-pipelines-and-kyc-automation-27oj)
-- [Virtual SOC Analyst](https://dev.to/byron_lainez/virtual-soc-analyst-4a5p)
-- [How I built a fully offline AI assistant on Android with Gemma 4 E2B](https://dev.to/manoj_shetty/how-i-built-a-fully-offline-ai-assistant-on-android-with-gemma-4-e2b-5a19)
+- [apt-mark hold doesn&#39;t pin versions — how it nearly removed OpenSSH across our fleet](https://dev.to/vainamoinen/apt-mark-hold-doesnt-pin-versions-how-it-nearly-removed-openssh-across-our-fleet-4685)
+- [Getting Started with AWS — A Beginner Friendly Introduction](https://dev.to/chandan_devops/getting-started-with-aws-a-beginner-friendly-introduction-hg1)
+- [I Built a Free Metal Weight Calculator — Here&#39;s the Math Behind It](https://dev.to/param_mehta_0f2ed8b74e91f/i-built-a-free-metal-weight-calculator-heres-the-math-behind-it-529j)
+- [From Half Baked Repos to GitHub Glory: How I Am Finishing My Ambitious Ten App Masterpiece](https://dev.to/aniruddhaadak/from-half-baked-repos-to-github-glory-how-i-am-finishing-my-ambitious-ten-app-masterpiece-ca2)
 <!-- BLOG-POST-LIST:END -->
 
