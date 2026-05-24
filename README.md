@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Audit AI-Generated PRs Before You Merge Them &lpar;Swarm Orchestrator 10.3.0&rpar;](https://dev.to/moonrunnerkc/audit-ai-generated-prs-before-you-merge-them-swarm-orchestrator-1030-3a6e)
-- [AI Can Generate Interfaces on the Fly. But Users Still Need Orientation.](https://dev.to/randror/ai-can-generate-interfaces-on-the-fly-but-users-still-need-orientation-364i)
-- [How We Learned That Most Resume Rejections Happen Before Humans See Your CV](https://dev.to/dcart7/how-we-learned-that-most-resume-rejections-happen-before-humans-see-your-cv-43ll)
-- [How I Prepared for CKA: Resources, Labs, and Strategy That Worked for Me](https://dev.to/shahzadahmad91/how-i-prepared-for-cka-resources-labs-and-strategy-that-worked-for-me-2837)
+- [Google I/O 2026 made me ask an uncomfortable question: are we still coding, or are we managing builders?](https://dev.to/_boweii/google-io-2026-made-me-ask-an-uncomfortable-question-are-we-still-coding-or-are-we-managing-1m14)
+- [SSR with JavaScript: Escaping Node.js Clunkiness with AxonASP](https://dev.to/lucas_guimaraes/ssr-with-javascript-escaping-nodejs-clunkiness-with-axonasp-2ojc)
+- [My CKA Exam-Day Experience: What Went Right, What Went Wrong, and Lessons Learned](https://dev.to/shahzadahmad91/my-cka-exam-day-experience-what-went-right-what-went-wrong-and-lessons-learned-5gd3)
+- [Gemma 4 Soft Tokens: The Rise and Fall of 16x16 Words ⚡👀](https://dev.to/eteimz/gemma-4-soft-tokens-the-rise-and-fall-of-16x16-words-5a7c)
 <!-- BLOG-POST-LIST:END -->
 
