@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-tenant PostgreSQL: row-level security vs schema-per-tenant &amp; when to use which](https://dev.to/itsjayanth/multi-tenant-postgresql-row-level-security-vs-schema-per-tenant-when-to-use-which-3joe)
-- [The Great Scaling Stall: How We Discovered the Hidden Bottleneck in Our Treasure Hunt Engine](https://dev.to/built-from-africa/the-great-scaling-stall-how-we-discovered-the-hidden-bottleneck-in-our-treasure-hunt-engine-4el1)
-- [The OWASP Top 10 &lpar;2025&rpar;: 10 Ways Developers Are Handing Attackers the Keys](https://dev.to/walosha/the-owasp-top-10-2025-10-ways-developers-are-handing-attackers-the-keys-4f9j)
-- [1 RN Thing a Day – Day 14: Predicate &amp; Effect Patterns in React Native](https://dev.to/ola_1313/1-rn-thing-a-day-day-14-predicate-effect-patterns-in-react-native-3joo)
+- [How to Debug React Server Components in Production](https://dev.to/krunalkanojiya/how-to-debug-react-server-components-in-production-2i0e)
+- [MIRAI MIND](https://dev.to/bala_chandarkumar_10ce55/mirai-mind-27jd)
+- [Semantic Tags in HTML](https://dev.to/raja_b_0c9d242e2c26cf063b/semantic-tags-in-html-m4n)
+- [Shadow CTO — A GitHub Repo Memory Container Powered by Hermes Agent](https://dev.to/pulkitgovrani/shadow-cto-a-github-repo-memory-container-powered-by-hermes-agent-8n6)
 <!-- BLOG-POST-LIST:END -->
 
