@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero and Confused, This Is How I Started Learning to Code](https://dev.to/luminszn/from-zero-and-confused-this-is-how-i-started-learning-to-code-317c)
-- [I Built a Local AI Gateway That Talks to Claude, ChatGPT, DeepSeek and Gemini — Without a Single API Key](https://dev.to/malikasana/i-built-a-local-ai-gateway-that-talks-to-claude-chatgpt-deepseek-and-gemini-without-a-single-62h)
-- [Bootstrapping with AI: Why Gemma 4 is the Micro-SaaS Founder’s Best Friend](https://dev.to/sandman_sh/bootstrapping-with-ai-why-gemma-4-is-the-micro-saas-founders-best-friend-40og)
-- [How Does an AI Agent Actually Buy Something? Google Just Published the Spec.](https://dev.to/lewisawe/how-does-an-ai-agent-actually-buy-something-google-just-published-the-spec-4pb0)
+- [Audit AI-Generated PRs Before You Merge Them &lpar;Swarm Orchestrator 10.3.0&rpar;](https://dev.to/moonrunnerkc/audit-ai-generated-prs-before-you-merge-them-swarm-orchestrator-1030-3a6e)
+- [AI Can Generate Interfaces on the Fly. But Users Still Need Orientation.](https://dev.to/randror/ai-can-generate-interfaces-on-the-fly-but-users-still-need-orientation-364i)
+- [How We Learned That Most Resume Rejections Happen Before Humans See Your CV](https://dev.to/dcart7/how-we-learned-that-most-resume-rejections-happen-before-humans-see-your-cv-43ll)
+- [How I Prepared for CKA: Resources, Labs, and Strategy That Worked for Me](https://dev.to/shahzadahmad91/how-i-prepared-for-cka-resources-labs-and-strategy-that-worked-for-me-2837)
 <!-- BLOG-POST-LIST:END -->
 
