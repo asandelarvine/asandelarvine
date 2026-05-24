@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [apt-mark hold doesn&#39;t pin versions — how it nearly removed OpenSSH across our fleet](https://dev.to/vainamoinen/apt-mark-hold-doesnt-pin-versions-how-it-nearly-removed-openssh-across-our-fleet-4685)
-- [Getting Started with AWS — A Beginner Friendly Introduction](https://dev.to/chandan_devops/getting-started-with-aws-a-beginner-friendly-introduction-hg1)
-- [I Built a Free Metal Weight Calculator — Here&#39;s the Math Behind It](https://dev.to/param_mehta_0f2ed8b74e91f/i-built-a-free-metal-weight-calculator-heres-the-math-behind-it-529j)
-- [From Half Baked Repos to GitHub Glory: How I Am Finishing My Ambitious Ten App Masterpiece](https://dev.to/aniruddhaadak/from-half-baked-repos-to-github-glory-how-i-am-finishing-my-ambitious-ten-app-masterpiece-ca2)
+- [Multi-tenant PostgreSQL: row-level security vs schema-per-tenant &amp; when to use which](https://dev.to/itsjayanth/multi-tenant-postgresql-row-level-security-vs-schema-per-tenant-when-to-use-which-3joe)
+- [The Great Scaling Stall: How We Discovered the Hidden Bottleneck in Our Treasure Hunt Engine](https://dev.to/built-from-africa/the-great-scaling-stall-how-we-discovered-the-hidden-bottleneck-in-our-treasure-hunt-engine-4el1)
+- [The OWASP Top 10 &lpar;2025&rpar;: 10 Ways Developers Are Handing Attackers the Keys](https://dev.to/walosha/the-owasp-top-10-2025-10-ways-developers-are-handing-attackers-the-keys-4f9j)
+- [1 RN Thing a Day – Day 14: Predicate &amp; Effect Patterns in React Native](https://dev.to/ola_1313/1-rn-thing-a-day-day-14-predicate-effect-patterns-in-react-native-3joo)
 <!-- BLOG-POST-LIST:END -->
 
