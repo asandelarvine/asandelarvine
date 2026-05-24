@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Built Transformly — A Free Modern Toolkit for Developers](https://dev.to/chetram_sokhal_4bf40fe0be/built-transformly-a-free-modern-toolkit-for-developers-21p2)
-- [Health Connect + Gemma = HealthOps](https://dev.to/iamceejay/health-connect-gemma-healthops-51ad)
-- [I Revived A 4-Year-Old Abandoned React Quiz App](https://dev.to/temisan0x/i-revived-a-4-year-old-abandoned-react-quiz-app-49ia)
-- [matheric lib](https://dev.to/orpheric73/matheric-lib-5081)
+- [How to Build a Clinical Trial Search App in 5 Minutes - Clinical Trials API Tutorial](https://dev.to/ikrahul/how-to-build-a-clinical-trial-search-app-in-5-minutes-clinical-trials-api-tutorial-39de)
+- [Gemma For Dummies: I Knew Nothing. Now I&#39;m Running AI on My Laptop.](https://dev.to/aditthya/gemma-for-dummies-i-knew-nothing-now-im-running-ai-on-my-laptop-pi2)
+- [Why Every Student Developer Should Know About Microsoft Imagine Cup 🚀](https://dev.to/gidado_mukhtarbalangoggo/why-every-student-developer-should-know-about-microsoft-imagine-cup-afj)
+- [터미널 AI 에이전트 구축 &lpar;v9&rpar;](https://dev.to/matias_yoon_738a24cb1190f/teomineol-ai-eijeonteu-gucug-v9-1jme)
 <!-- BLOG-POST-LIST:END -->
 
