@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [$770,000 a Day: When the World&#39;s Busiest Strait Goes Silent](https://dev.to/vessel_api/770000-a-day-when-the-worlds-busiest-strait-goes-silent-4mi3)
-- [Advanced Web Scraping with Power Query: Automating Data Extraction for SEO and Analytics](https://dev.to/dnyaneshwar_ware/advanced-web-scraping-with-power-query-automating-data-extraction-for-seo-and-analytics-3p55)
-- [I stopped uploading my files to random websites and built my own tools instead](https://dev.to/puretools/i-stopped-uploading-my-files-to-random-websites-and-built-my-own-tools-instead-1h5l)
-- [Context window == RAM?](https://dev.to/mekickdemonscreator/context-window-ram-2g14)
+- [How I Indexed 2,000 Claude Code Skills &lpar;And What the Install Data Says About AI Coding in 2026&rpar;](https://dev.to/shenhuang/how-i-indexed-2000-claude-code-skills-and-what-the-install-data-says-about-ai-coding-in-2026-3k80)
+- [Architecting Instant Micro-Loans: Data Pipelines and KYC Automation](https://dev.to/loaneligstatus/architecting-instant-micro-loans-data-pipelines-and-kyc-automation-27oj)
+- [Virtual SOC Analyst](https://dev.to/byron_lainez/virtual-soc-analyst-4a5p)
+- [How I built a fully offline AI assistant on Android with Gemma 4 E2B](https://dev.to/manoj_shetty/how-i-built-a-fully-offline-ai-assistant-on-android-with-gemma-4-e2b-5a19)
 <!-- BLOG-POST-LIST:END -->
 
