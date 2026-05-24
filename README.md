@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Debug React Server Components in Production](https://dev.to/krunalkanojiya/how-to-debug-react-server-components-in-production-2i0e)
-- [MIRAI MIND](https://dev.to/bala_chandarkumar_10ce55/mirai-mind-27jd)
-- [Semantic Tags in HTML](https://dev.to/raja_b_0c9d242e2c26cf063b/semantic-tags-in-html-m4n)
-- [Shadow CTO — A GitHub Repo Memory Container Powered by Hermes Agent](https://dev.to/pulkitgovrani/shadow-cto-a-github-repo-memory-container-powered-by-hermes-agent-8n6)
+- [Built Transformly — A Free Modern Toolkit for Developers](https://dev.to/chetram_sokhal_4bf40fe0be/built-transformly-a-free-modern-toolkit-for-developers-21p2)
+- [Health Connect + Gemma = HealthOps](https://dev.to/iamceejay/health-connect-gemma-healthops-51ad)
+- [I Revived A 4-Year-Old Abandoned React Quiz App](https://dev.to/temisan0x/i-revived-a-4-year-old-abandoned-react-quiz-app-49ia)
+- [matheric lib](https://dev.to/orpheric73/matheric-lib-5081)
 <!-- BLOG-POST-LIST:END -->
 
