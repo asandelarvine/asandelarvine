@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 React Hooks &amp; Rendering — A Clear Mental Model &lpar;For My Future Self Too&rpar;](https://dev.to/aroob/react-hooks-rendering-a-clear-mental-model-for-my-future-self-too-4edn)
-- [Publishing a reusable React UI package as an npm module](https://dev.to/aroob/publishing-a-reusable-react-ui-package-as-an-npm-module-1o0g)
-- [Brave CMS – A CMS Built for Simplicity, Flexibility, and Scalability](https://dev.to/zamfir80/brave-cms-a-modern-laravel-cms-built-for-simplicity-flexibility-and-scalability-1fh5)
-- [WebAssembly in 2026: The Quiet Revolution That Finally Delivered](https://dev.to/zny10289/webassembly-in-2026-the-quiet-revolution-that-finally-delivered-8ff)
+- [$770,000 a Day: When the World&#39;s Busiest Strait Goes Silent](https://dev.to/vessel_api/770000-a-day-when-the-worlds-busiest-strait-goes-silent-4mi3)
+- [Advanced Web Scraping with Power Query: Automating Data Extraction for SEO and Analytics](https://dev.to/dnyaneshwar_ware/advanced-web-scraping-with-power-query-automating-data-extraction-for-seo-and-analytics-3p55)
+- [I stopped uploading my files to random websites and built my own tools instead](https://dev.to/puretools/i-stopped-uploading-my-files-to-random-websites-and-built-my-own-tools-instead-1h5l)
+- [Context window == RAM?](https://dev.to/mekickdemonscreator/context-window-ram-2g14)
 <!-- BLOG-POST-LIST:END -->
 
