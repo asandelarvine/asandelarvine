@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Second Brain with Gemma 4](https://dev.to/qamar_dev_01/i-built-an-ai-second-brain-with-gemma-4-5370)
-- [The Most Exciting Google I/O 2026 Announcement for Me: HTML-in-Canvas](https://dev.to/goldenthrust/the-most-exciting-google-io-2026-announcement-for-me-html-in-canvas-2jea)
-- [CrisisLens: Compressing Disaster Scenes into 200-Byte Emergency Payloads with Gemma 4](https://dev.to/msteja/crisislens-compressing-disaster-scenes-into-200-byte-emergency-payloads-with-gemma-4-130d)
-- [I&#39;m 15 and I built a todo app with Telegram Stars payments — only legal way for me to monetize before turning 18](https://dev.to/swairit/im-15-and-i-built-a-todo-app-with-telegram-stars-payments-only-legal-way-for-me-to-monetize-1nmd)
+- [From Zero and Confused, This Is How I Started Learning to Code](https://dev.to/luminszn/from-zero-and-confused-this-is-how-i-started-learning-to-code-317c)
+- [I Built a Local AI Gateway That Talks to Claude, ChatGPT, DeepSeek and Gemini — Without a Single API Key](https://dev.to/malikasana/i-built-a-local-ai-gateway-that-talks-to-claude-chatgpt-deepseek-and-gemini-without-a-single-62h)
+- [Bootstrapping with AI: Why Gemma 4 is the Micro-SaaS Founder’s Best Friend](https://dev.to/sandman_sh/bootstrapping-with-ai-why-gemma-4-is-the-micro-saas-founders-best-friend-40og)
+- [How Does an AI Agent Actually Buy Something? Google Just Published the Spec.](https://dev.to/lewisawe/how-does-an-ai-agent-actually-buy-something-google-just-published-the-spec-4pb0)
 <!-- BLOG-POST-LIST:END -->
 
