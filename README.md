@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built ShellReq - A Native API Client for VS Code &amp; Terminal](https://dev.to/mahesh2112/i-built-shellreq-a-native-api-client-for-vs-code-terminal-3hde)
-- [If Microsoft and Uber can&#39;t afford AI coding, what chance do the rest of us have?](https://dev.to/jon_at_backboardio/if-microsoft-and-uber-cant-afford-ai-coding-what-chance-do-the-rest-of-us-have-4odn)
-- [MADCAP: Building a Multi-Agent Debate CLI That Argues With Itself So You Don&#39;t Have To](https://dev.to/adriano-repetti/madcap-building-a-multi-agent-debate-cli-that-argues-with-itself-so-you-dont-have-to-4ob2)
-- [Why most AI fails at IDOR &lpar;and how AMAS fixes it with causal reasoning&rpar;](https://dev.to/miou/why-most-ai-fails-at-idor-and-how-amas-fixes-it-with-causal-reasoning-517k)
+- [The N+1 Query That Killed Our Database, And How I Fixed It](https://dev.to/ezeanamichael/the-n1-query-that-killed-our-database-and-how-i-fixed-it-2al5)
+- [Docstrings vs Markdown Docs: What Should Developers Actually Write?](https://dev.to/wonderer-tech/docstrings-vs-markdown-docs-what-should-developers-actually-write-3hb7)
+- [Training Data Provenance: The Manifest Diff That Explains the Hash](https://dev.to/aicryptosystems/training-data-provenance-the-manifest-diff-that-explains-the-hash-11bj)
+- [Add SVGIcons MCP to Claude Code and Find SVG Icons from Your Terminal](https://dev.to/svgicons/add-svgicons-mcp-to-claude-code-and-find-svg-icons-from-your-terminal-2875)
 <!-- BLOG-POST-LIST:END -->
 
