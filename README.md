@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google I/O 2026 made me ask an uncomfortable question: are we still coding, or are we managing builders?](https://dev.to/_boweii/google-io-2026-made-me-ask-an-uncomfortable-question-are-we-still-coding-or-are-we-managing-1m14)
-- [SSR with JavaScript: Escaping Node.js Clunkiness with AxonASP](https://dev.to/lucas_guimaraes/ssr-with-javascript-escaping-nodejs-clunkiness-with-axonasp-2ojc)
-- [My CKA Exam-Day Experience: What Went Right, What Went Wrong, and Lessons Learned](https://dev.to/shahzadahmad91/my-cka-exam-day-experience-what-went-right-what-went-wrong-and-lessons-learned-5gd3)
-- [Gemma 4 Soft Tokens: The Rise and Fall of 16x16 Words ⚡👀](https://dev.to/eteimz/gemma-4-soft-tokens-the-rise-and-fall-of-16x16-words-5a7c)
+- [Deep Atlantic Storage: Rewriting in Rust](https://dev.to/yoursunny/deep-atlantic-storage-rewriting-in-rust-49hp)
+- [How I Built a Bulk Image Optimizer with $0 Server Costs Using Vanilla JS and Canvas API](https://dev.to/arsuya/how-i-built-a-bulk-image-optimizer-with-0-server-costs-using-vanilla-js-and-canvas-api-41dk)
+- [Humans and Machines read differently, I think I have a fix?](https://dev.to/8arrony/humans-and-machines-read-differently-i-think-i-have-a-fix-31ep)
+- [Claude Code Deleted 92 Images Without Asking. This Happens More Than You Think.](https://dev.to/boucle2026/claude-code-deleted-92-images-without-asking-this-happens-more-than-you-think-4alj)
 <!-- BLOG-POST-LIST:END -->
 
