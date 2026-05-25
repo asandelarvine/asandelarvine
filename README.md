@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The N+1 Query That Killed Our Database, And How I Fixed It](https://dev.to/ezeanamichael/the-n1-query-that-killed-our-database-and-how-i-fixed-it-2al5)
-- [Docstrings vs Markdown Docs: What Should Developers Actually Write?](https://dev.to/wonderer-tech/docstrings-vs-markdown-docs-what-should-developers-actually-write-3hb7)
-- [Training Data Provenance: The Manifest Diff That Explains the Hash](https://dev.to/aicryptosystems/training-data-provenance-the-manifest-diff-that-explains-the-hash-11bj)
-- [Add SVGIcons MCP to Claude Code and Find SVG Icons from Your Terminal](https://dev.to/svgicons/add-svgicons-mcp-to-claude-code-and-find-svg-icons-from-your-terminal-2875)
+- [LangGraph 워크플로우 템플릿 &lpar;v38&rpar;](https://dev.to/matias_yoon_738a24cb1190f/langgraph-weokeupeulrou-tempeulris-v38-1081)
+- [Sustainable AI Starts with Efficient AI](https://dev.to/pruna-ai/sustainable-ai-starts-with-efficient-ai-1i61)
+- [Find Remove duplicated files in Google Drive](https://dev.to/phuongtran/find-remove-duplicated-files-in-google-drive-4kk1)
+- [How to Detect GPU Waste in a Kubernetes Cluster](https://dev.to/sam_hosseini_4b7dd131c8ee/how-to-detect-gpu-waste-in-a-kubernetes-cluster-594f)
 <!-- BLOG-POST-LIST:END -->
 
