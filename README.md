@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Atlantic Storage: Rewriting in Rust](https://dev.to/yoursunny/deep-atlantic-storage-rewriting-in-rust-49hp)
-- [How I Built a Bulk Image Optimizer with $0 Server Costs Using Vanilla JS and Canvas API](https://dev.to/arsuya/how-i-built-a-bulk-image-optimizer-with-0-server-costs-using-vanilla-js-and-canvas-api-41dk)
-- [Humans and Machines read differently, I think I have a fix?](https://dev.to/8arrony/humans-and-machines-read-differently-i-think-i-have-a-fix-31ep)
-- [Claude Code Deleted 92 Images Without Asking. This Happens More Than You Think.](https://dev.to/boucle2026/claude-code-deleted-92-images-without-asking-this-happens-more-than-you-think-4alj)
+- [Building an Autonomous SRE Agent: From Raw Telemetry to Safe, AI-Driven Remediation](https://dev.to/faizanhussainrabbani/building-an-autonomous-sre-agent-from-raw-telemetry-to-safe-ai-driven-remediation-2olo)
+- [The EU AI Act in 2026: Reading the Law After the Omnibus](https://dev.to/studiomeyer_io/the-eu-ai-act-in-2026-reading-the-law-after-the-omnibus-11b9)
+- [I had zero coding knowledge. Here is &quot;RetroTube&quot;, a 2010 YouTube sandbox prototype I built using AI!](https://dev.to/gg_ff_2980612d7ba5d93c46d/i-had-zero-coding-knowledge-here-is-retrotube-a-2010-youtube-sandbox-prototype-i-built-using-ai-44ma)
+- [How to Validate Environment Variables in TypeScript &lpar;and Why You Should&rpar;](https://dev.to/amitwaks/how-to-validate-environment-variables-in-typescript-and-why-you-should-1gd5)
 <!-- BLOG-POST-LIST:END -->
 
