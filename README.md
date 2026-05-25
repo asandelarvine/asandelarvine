@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Autonomous SRE Agent: From Raw Telemetry to Safe, AI-Driven Remediation](https://dev.to/faizanhussainrabbani/building-an-autonomous-sre-agent-from-raw-telemetry-to-safe-ai-driven-remediation-2olo)
-- [The EU AI Act in 2026: Reading the Law After the Omnibus](https://dev.to/studiomeyer_io/the-eu-ai-act-in-2026-reading-the-law-after-the-omnibus-11b9)
-- [I had zero coding knowledge. Here is &quot;RetroTube&quot;, a 2010 YouTube sandbox prototype I built using AI!](https://dev.to/gg_ff_2980612d7ba5d93c46d/i-had-zero-coding-knowledge-here-is-retrotube-a-2010-youtube-sandbox-prototype-i-built-using-ai-44ma)
-- [How to Validate Environment Variables in TypeScript &lpar;and Why You Should&rpar;](https://dev.to/amitwaks/how-to-validate-environment-variables-in-typescript-and-why-you-should-1gd5)
+- [Why I Started Building React Projects Instead of Just Watching Tutorials ?](https://dev.to/abhavya28/why-i-started-building-react-projects-instead-of-just-watching-tutorials--52eh)
+- [Every Tool Eventually Becomes Tuesday](https://dev.to/evanlausier/every-tool-eventually-becomes-tuesday-47ak)
+- [Nobody Warns You That Real Software Engineering Feels Chaotic](https://dev.to/aaron_brown/nobody-warns-you-that-real-software-engineering-feels-chaotic-12ln)
+- [Tích hợp VNPay, Stripe trong Odoo 19](https://dev.to/dan_tran_2120/tich-hop-vnpay-stripe-trong-odoo-19-9de)
 <!-- BLOG-POST-LIST:END -->
 
