@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an effective Storyblok Tool Plugin with SvelteKit](https://dev.to/robertobutti/building-an-effective-storyblok-tool-plugin-with-sveltekit-1nf1)
-- [How to Get Your Renault / Dacia Radio Code for Free](https://dev.to/christian0/how-to-get-your-renault-dacia-radio-code-for-free-31)
-- [RAG 시스템 실전 구축 &lpar;v39&rpar;](https://dev.to/matias_yoon_738a24cb1190f/rag-siseutem-siljeon-gucug-v39-4bmo)
-- [Retraction — scrml’s Living Compiler](https://dev.to/bryan_maclee/retraction-scrmls-living-compiler-4bdg)
+- [SCS-Lab1 — CloudTrail: Trail + S3 + KMS + Log Validation](https://dev.to/llunarg/scs-lab1-cloudtrail-trail-s3-kms-log-validation-2fj2)
+- [How the Events Table That Looked Right Killed Our Queue](https://dev.to/dev-architecture-blog/how-the-events-table-that-looked-right-killed-our-queue-4gnl)
+- [Three Failures My AI Memory System Tested — And the Flaw It Revealed in Itself](https://dev.to/zep1997/three-failures-my-ai-memory-system-caught-and-the-flaw-it-revealed-in-itself-186c)
+- [dotnet Framework life cycle tool](https://dev.to/karenpayneoregon/dotnet-framework-life-cycle-tool-103d)
 <!-- BLOG-POST-LIST:END -->
 
