@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Started Building React Projects Instead of Just Watching Tutorials ?](https://dev.to/abhavya28/why-i-started-building-react-projects-instead-of-just-watching-tutorials--52eh)
-- [Every Tool Eventually Becomes Tuesday](https://dev.to/evanlausier/every-tool-eventually-becomes-tuesday-47ak)
-- [Nobody Warns You That Real Software Engineering Feels Chaotic](https://dev.to/aaron_brown/nobody-warns-you-that-real-software-engineering-feels-chaotic-12ln)
-- [Tích hợp VNPay, Stripe trong Odoo 19](https://dev.to/dan_tran_2120/tich-hop-vnpay-stripe-trong-odoo-19-9de)
+- [I Built ShellReq - A Native API Client for VS Code &amp; Terminal](https://dev.to/mahesh2112/i-built-shellreq-a-native-api-client-for-vs-code-terminal-3hde)
+- [If Microsoft and Uber can&#39;t afford AI coding, what chance do the rest of us have?](https://dev.to/jon_at_backboardio/if-microsoft-and-uber-cant-afford-ai-coding-what-chance-do-the-rest-of-us-have-4odn)
+- [MADCAP: Building a Multi-Agent Debate CLI That Argues With Itself So You Don&#39;t Have To](https://dev.to/adriano-repetti/madcap-building-a-multi-agent-debate-cli-that-argues-with-itself-so-you-dont-have-to-4ob2)
+- [Why most AI fails at IDOR &lpar;and how AMAS fixes it with causal reasoning&rpar;](https://dev.to/miou/why-most-ai-fails-at-idor-and-how-amas-fixes-it-with-causal-reasoning-517k)
 <!-- BLOG-POST-LIST:END -->
 
