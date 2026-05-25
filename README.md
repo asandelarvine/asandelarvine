@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LangGraph 워크플로우 템플릿 &lpar;v38&rpar;](https://dev.to/matias_yoon_738a24cb1190f/langgraph-weokeupeulrou-tempeulris-v38-1081)
-- [Sustainable AI Starts with Efficient AI](https://dev.to/pruna-ai/sustainable-ai-starts-with-efficient-ai-1i61)
-- [Find Remove duplicated files in Google Drive](https://dev.to/phuongtran/find-remove-duplicated-files-in-google-drive-4kk1)
-- [How to Detect GPU Waste in a Kubernetes Cluster](https://dev.to/sam_hosseini_4b7dd131c8ee/how-to-detect-gpu-waste-in-a-kubernetes-cluster-594f)
+- [Building an effective Storyblok Tool Plugin with SvelteKit](https://dev.to/robertobutti/building-an-effective-storyblok-tool-plugin-with-sveltekit-1nf1)
+- [How to Get Your Renault / Dacia Radio Code for Free](https://dev.to/christian0/how-to-get-your-renault-dacia-radio-code-for-free-31)
+- [RAG 시스템 실전 구축 &lpar;v39&rpar;](https://dev.to/matias_yoon_738a24cb1190f/rag-siseutem-siljeon-gucug-v39-4bmo)
+- [Retraction — scrml’s Living Compiler](https://dev.to/bryan_maclee/retraction-scrmls-living-compiler-4bdg)
 <!-- BLOG-POST-LIST:END -->
 
