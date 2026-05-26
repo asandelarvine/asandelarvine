@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Was Tired of Broken Deployments, So I Built This CLI Tool](https://dev.to/mayur_pawar_9b0a092ca0f41/i-was-tired-of-broken-deployments-so-i-built-this-cli-tool-2dc3)
-- [Vibe Coding vs. System Architecture: Why &quot;It Works&quot; is Not the Same as &quot;It Scales&quot;](https://dev.to/alikarbasicom/vibe-coding-vs-system-architecture-why-it-works-is-not-the-same-as-it-scales-3ibe)
-- [How iOS developers actually get paid: a practical guide to Apple&#39;s fiscal calendar](https://dev.to/nikita_ivanov_647a3865dde/how-ios-developers-actually-get-paid-a-practical-guide-to-apples-fiscal-calendar-2adf)
-- [How to Grayscale Images of Out-of-Stock Products in WooCommerce Using CSS](https://dev.to/alikarbasicom/how-to-grayscale-images-of-out-of-stock-products-in-woocommerce-using-css-1a03)
+- [10 Best Open-Source AI Agents for 2026](https://dev.to/sonotommy/10-best-open-source-ai-agents-for-2026-2l6p)
+- [Contract Analysis Will Replace Legal Gatekeeping](https://dev.to/jonomor_ecosystem/contract-analysis-will-replace-legal-gatekeeping-1p8)
+- [AWS Cloud Shell with Antigravity CLI](https://dev.to/gde/aws-cloud-shell-with-antigravity-cli-e3a)
+- [Building Reliable Event Delivery for XRPL Applications](https://dev.to/jonomor_ecosystem/building-reliable-event-delivery-for-xrpl-applications-3o6o)
 <!-- BLOG-POST-LIST:END -->
 
