@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Best Open-Source AI Agents for 2026](https://dev.to/sonotommy/10-best-open-source-ai-agents-for-2026-2l6p)
-- [Contract Analysis Will Replace Legal Gatekeeping](https://dev.to/jonomor_ecosystem/contract-analysis-will-replace-legal-gatekeeping-1p8)
-- [AWS Cloud Shell with Antigravity CLI](https://dev.to/gde/aws-cloud-shell-with-antigravity-cli-e3a)
-- [Building Reliable Event Delivery for XRPL Applications](https://dev.to/jonomor_ecosystem/building-reliable-event-delivery-for-xrpl-applications-3o6o)
+- [Building an indexable verification page for a freshly-launched small business](https://dev.to/joseph_anady_214bacedf939/building-an-indexable-verification-page-for-a-freshly-launched-small-business-2a9m)
+- [FinancialService schema for a real merchant services brokerage: a case study](https://dev.to/joseph_anady_214bacedf939/financialservice-schema-for-a-real-merchant-services-brokerage-a-case-study-3ho6)
+- [How Free Online Tools Survive Without Collecting Your Email](https://dev.to/nologintools/how-free-online-tools-survive-without-collecting-your-email-1483)
+- [The Day the Treasure Hunt Engine Buried Itself Alive](https://dev.to/dev-architecture-blog/the-day-the-treasure-hunt-engine-buried-itself-alive-2kp)
 <!-- BLOG-POST-LIST:END -->
 
