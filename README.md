@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Access Control Doesn&#39;t Scale Linearly -- Part 3](https://dev.to/anusha_mukka/access-control-doesnt-scale-linearly-part-3-33h6)
-- [33x faster than Rust: Why I stopped waiting for my compiler and built my own.](https://dev.to/jai_lalawat_84c750c65b525/33x-faster-than-rust-why-i-stopped-waiting-for-my-compiler-and-built-my-own-3l40)
-- [I Built My First Production AWS Project as a Career Changer](https://dev.to/murphym757/i-built-my-first-production-aws-project-as-a-career-changer-e4l)
-- [Why Detecting PII Matters More Than Ever](https://dev.to/cautionlabs/why-detecting-pii-matters-more-than-ever-2kha)
+- [Why Your Requests + BeautifulSoup Stack Will Fail in Production](https://dev.to/sian-agency/why-your-requests-beautifulsoup-stack-will-fail-in-production-34kl)
+- [Why Java + Spring Boot is Still the King of Enterprise Backend &lpar;2026&rpar;](https://dev.to/hgvanpariya/why-java-spring-boot-is-still-the-king-of-enterprise-backend-2026-4h8h)
+- [Spring Native + Cloud Run : cold-start 18, RAM 3, facture à 0 FCFA](https://dev.to/bangaromaric/spring-native-cloud-run-cold-start-18-ram-3-facture-a-0-fcfa-fc7)
+- [DS - while loop](https://dev.to/arabdiv9/ds-while-loop-4iop)
 <!-- BLOG-POST-LIST:END -->
 
