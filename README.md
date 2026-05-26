@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SCS-Lab1 — CloudTrail: Trail + S3 + KMS + Log Validation](https://dev.to/llunarg/scs-lab1-cloudtrail-trail-s3-kms-log-validation-2fj2)
-- [How the Events Table That Looked Right Killed Our Queue](https://dev.to/dev-architecture-blog/how-the-events-table-that-looked-right-killed-our-queue-4gnl)
-- [Three Failures My AI Memory System Tested — And the Flaw It Revealed in Itself](https://dev.to/zep1997/three-failures-my-ai-memory-system-caught-and-the-flaw-it-revealed-in-itself-186c)
-- [dotnet Framework life cycle tool](https://dev.to/karenpayneoregon/dotnet-framework-life-cycle-tool-103d)
+- [Access Control Doesn&#39;t Scale Linearly -- Part 3](https://dev.to/anusha_mukka/access-control-doesnt-scale-linearly-part-3-33h6)
+- [33x faster than Rust: Why I stopped waiting for my compiler and built my own.](https://dev.to/jai_lalawat_84c750c65b525/33x-faster-than-rust-why-i-stopped-waiting-for-my-compiler-and-built-my-own-3l40)
+- [I Built My First Production AWS Project as a Career Changer](https://dev.to/murphym757/i-built-my-first-production-aws-project-as-a-career-changer-e4l)
+- [Why Detecting PII Matters More Than Ever](https://dev.to/cautionlabs/why-detecting-pii-matters-more-than-ever-2kha)
 <!-- BLOG-POST-LIST:END -->
 
