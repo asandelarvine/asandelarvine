@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an indexable verification page for a freshly-launched small business](https://dev.to/joseph_anady_214bacedf939/building-an-indexable-verification-page-for-a-freshly-launched-small-business-2a9m)
-- [FinancialService schema for a real merchant services brokerage: a case study](https://dev.to/joseph_anady_214bacedf939/financialservice-schema-for-a-real-merchant-services-brokerage-a-case-study-3ho6)
-- [How Free Online Tools Survive Without Collecting Your Email](https://dev.to/nologintools/how-free-online-tools-survive-without-collecting-your-email-1483)
-- [The Day the Treasure Hunt Engine Buried Itself Alive](https://dev.to/dev-architecture-blog/the-day-the-treasure-hunt-engine-buried-itself-alive-2kp)
+- [Pokemon Battle Simulator Napkin Challenge!](https://dev.to/gde/pokemon-battle-simulator-napkin-challenge-38db)
+- [Looking for a Founding Engineer](https://dev.to/guru_vyas_860886f635ffe55/looking-for-a-founding-engineer-4d9g)
+- [Copy Job CDC with SQL estate is now GA in Microsoft Fabric](https://dev.to/shai_karmani_2521c2f8e837/copy-job-cdc-with-sql-estate-is-now-ga-in-microsoft-fabric-ggb)
+- [what terminal for CLI in Windows 10 do users like most](https://dev.to/atila_bayat/what-terminal-for-cli-in-windows-10-do-users-like-most-7gi)
 <!-- BLOG-POST-LIST:END -->
 
