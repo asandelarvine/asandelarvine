@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Requests + BeautifulSoup Stack Will Fail in Production](https://dev.to/sian-agency/why-your-requests-beautifulsoup-stack-will-fail-in-production-34kl)
-- [Why Java + Spring Boot is Still the King of Enterprise Backend &lpar;2026&rpar;](https://dev.to/hgvanpariya/why-java-spring-boot-is-still-the-king-of-enterprise-backend-2026-4h8h)
-- [Spring Native + Cloud Run : cold-start 18, RAM 3, facture à 0 FCFA](https://dev.to/bangaromaric/spring-native-cloud-run-cold-start-18-ram-3-facture-a-0-fcfa-fc7)
-- [DS - while loop](https://dev.to/arabdiv9/ds-while-loop-4iop)
+- [I Was Tired of Broken Deployments, So I Built This CLI Tool](https://dev.to/mayur_pawar_9b0a092ca0f41/i-was-tired-of-broken-deployments-so-i-built-this-cli-tool-2dc3)
+- [Vibe Coding vs. System Architecture: Why &quot;It Works&quot; is Not the Same as &quot;It Scales&quot;](https://dev.to/alikarbasicom/vibe-coding-vs-system-architecture-why-it-works-is-not-the-same-as-it-scales-3ibe)
+- [How iOS developers actually get paid: a practical guide to Apple&#39;s fiscal calendar](https://dev.to/nikita_ivanov_647a3865dde/how-ios-developers-actually-get-paid-a-practical-guide-to-apples-fiscal-calendar-2adf)
+- [How to Grayscale Images of Out-of-Stock Products in WooCommerce Using CSS](https://dev.to/alikarbasicom/how-to-grayscale-images-of-out-of-stock-products-in-woocommerce-using-css-1a03)
 <!-- BLOG-POST-LIST:END -->
 
