@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dual Encoder vs Cross-Encoder: Why Your RAG Pipeline Needs Both](https://dev.to/krunalkanojiya/dual-encoder-vs-cross-encoder-why-your-rag-pipeline-needs-both-4bd)
-- [Stop Using useEffect for Data Fetching: Understanding TanStack Query](https://dev.to/victor_mwangi_d224324203c/stop-using-useeffect-for-data-fetching-understanding-tanstack-query-10gf)
-- [When you bring your data home, who is going to keep an eye on it?](https://dev.to/justyn_larry_e12a0d9779f4/when-you-bring-your-data-home-who-is-going-to-keep-an-eye-on-it-gap)
-- [How to Translate Your Existing Lovable app with i18.dev &lpar;In Under 1 Minute&rpar;](https://dev.to/sacsand_sandaruvan_b1edba/how-to-translate-your-existing-lovable-app-with-i18dev-in-under-1-minute-1749)
+- [INP in production: what we wish we had measured earlier](https://dev.to/apogeewatcher/inp-in-production-what-we-wish-we-had-measured-earlier-7jk)
+- [How Traveling Shaped My Mind and Helped Me Respect Other Cultures](https://dev.to/ghrabla/how-traveling-shaped-my-mind-and-helped-me-respect-other-cultures-2c5k)
+- [Why &#39;Who Last Touched This File&#39; Is the Wrong Question](https://dev.to/karlheinz_reichel_7ee08d/why-who-last-touched-this-file-is-the-wrong-question-54ii)
+- [Time When More Layers Meant Worse Model ... Birth Of Residual](https://dev.to/avirals554/time-when-more-layers-meant-worse-model-birth-of-residual-26f6)
 <!-- BLOG-POST-LIST:END -->
 
