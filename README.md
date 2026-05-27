@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The auth_rls_initplan linter has a blind spot: SECURITY DEFINER bodies](https://dev.to/arvavit/the-authrlsinitplan-linter-has-a-blind-spot-security-definer-bodies-3hn5)
-- [Upgrading OtakuShelf to JHipster 9.1.0](https://dev.to/avdev4j/44-upgrading-otakushelf-to-jhipster-910-242)
-- [Polishing the catalog &lpar;and reading the agent&#39;s receipts&rpar;](https://dev.to/avdev4j/polishing-the-catalog-and-reading-the-agents-receipts-2c0g)
-- [Adding the anime side without holding my breath](https://dev.to/avdev4j/24-adding-the-anime-side-without-holding-my-breath-1617)
+- [I Accidentally Built an AI Employee Out of Scripts and Bad Sleep Habits](https://dev.to/numbpill3d/i-accidentally-built-an-ai-employee-out-of-scripts-and-bad-sleep-habits-179)
+- [Stop Chasing Shiny Tools: A Minimalist AI Stack That Actually Makes You Money](https://dev.to/numbpill3d/stop-chasing-shiny-tools-a-minimalist-ai-stack-that-actually-makes-you-money-25h1)
+- [Day 7 of trying to get 20 paying customers in 40 days. Currently at 0.](https://dev.to/gthorr/day-7-of-trying-to-get-20-paying-customers-in-40-days-currently-at-0-406d)
+- [How We Blew Up Our Event Pipeline at 3 AM Because the Treasure Hunt Engine Had No Clear Operator Bounds](https://dev.to/dev-architecture-blog/how-we-blew-up-our-event-pipeline-at-3-am-because-the-treasure-hunt-engine-had-no-clear-operator-20c7)
 <!-- BLOG-POST-LIST:END -->
 
