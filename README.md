@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [INP in production: what we wish we had measured earlier](https://dev.to/apogeewatcher/inp-in-production-what-we-wish-we-had-measured-earlier-7jk)
-- [How Traveling Shaped My Mind and Helped Me Respect Other Cultures](https://dev.to/ghrabla/how-traveling-shaped-my-mind-and-helped-me-respect-other-cultures-2c5k)
-- [Why &#39;Who Last Touched This File&#39; Is the Wrong Question](https://dev.to/karlheinz_reichel_7ee08d/why-who-last-touched-this-file-is-the-wrong-question-54ii)
-- [Time When More Layers Meant Worse Model ... Birth Of Residual](https://dev.to/avirals554/time-when-more-layers-meant-worse-model-birth-of-residual-26f6)
+- [The auth_rls_initplan linter has a blind spot: SECURITY DEFINER bodies](https://dev.to/arvavit/the-authrlsinitplan-linter-has-a-blind-spot-security-definer-bodies-3hn5)
+- [Upgrading OtakuShelf to JHipster 9.1.0](https://dev.to/avdev4j/44-upgrading-otakushelf-to-jhipster-910-242)
+- [Polishing the catalog &lpar;and reading the agent&#39;s receipts&rpar;](https://dev.to/avdev4j/polishing-the-catalog-and-reading-the-agents-receipts-2c0g)
+- [Adding the anime side without holding my breath](https://dev.to/avdev4j/24-adding-the-anime-side-without-holding-my-breath-1617)
 <!-- BLOG-POST-LIST:END -->
 
