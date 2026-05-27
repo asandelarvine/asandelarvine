@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI SRE and AI DevOps: different problems, one reliability stack](https://dev.to/exemplar/ai-sre-and-ai-devops-different-problems-one-reliability-stack-5b4h)
-- [When Server Growth Hits a Wall the Treasure Hunt Engine Documentation Fails You](https://dev.to/built-from-africa/when-server-growth-hits-a-wall-the-treasure-hunt-engine-documentation-fails-you-2goc)
-- [Considering RAG for your Agent? Build this instead.](https://dev.to/remybuilds/considering-rag-for-your-agent-build-this-instead-4ihf)
-- [I Built a Self-Healing Extension Stabilizer for Ungoogled Chromium &lpar;and You Can Use It Too&rpar;](https://dev.to/kingyou/i-built-a-self-healing-extension-stabilizer-for-ungoogled-chromium-and-you-can-use-it-too-161a)
+- [Liquid Alerts: WOW Alerts Meet Liquid Border](https://dev.to/pawel_nosko/liquid-alerts-wow-alerts-meet-liquid-border-22mc)
+- [Rest is not what you think](https://dev.to/raphink/rest-is-not-what-you-think-1mbc)
+- [How Polymarket Scaled Their Data Stack with Postgres + ClickHouse](https://dev.to/nevosaynevo/how-polymarket-scaled-their-data-stack-with-postgres-clickhouse-4982)
+- [Adaptive execution for Java agents: reason-aware retries and budget-aware routing](https://dev.to/asekka/adaptive-execution-for-java-agents-reason-aware-retries-and-budget-aware-routing-1elm)
 <!-- BLOG-POST-LIST:END -->
 
