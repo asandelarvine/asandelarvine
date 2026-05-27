@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop relying on Cursor AI. You are destroying your engineering brain](https://dev.to/manju_devi_93d3af8012a762/stop-relying-on-cursor-ai-you-are-destroying-your-engineering-brain-5c0f)
-- [Building an Automated Invoice Processing Pipeline with Node.js](https://dev.to/toolkitonline/building-an-automated-invoice-processing-pipeline-with-nodejs-di5)
-- [Built and launched WebDoctor AI 🌐🧠](https://dev.to/cybertarra/built-and-launched-webdoctor-ai-cf0)
-- [AI Citation Registry: Decentralized Coordination in Government AI Attribution](https://dev.to/aigistry/ai-citation-registry-decentralized-coordination-in-government-ai-attribution-2lp4)
+- [Dual Encoder vs Cross-Encoder: Why Your RAG Pipeline Needs Both](https://dev.to/krunalkanojiya/dual-encoder-vs-cross-encoder-why-your-rag-pipeline-needs-both-4bd)
+- [Stop Using useEffect for Data Fetching: Understanding TanStack Query](https://dev.to/victor_mwangi_d224324203c/stop-using-useeffect-for-data-fetching-understanding-tanstack-query-10gf)
+- [When you bring your data home, who is going to keep an eye on it?](https://dev.to/justyn_larry_e12a0d9779f4/when-you-bring-your-data-home-who-is-going-to-keep-an-eye-on-it-gap)
+- [How to Translate Your Existing Lovable app with i18.dev &lpar;In Under 1 Minute&rpar;](https://dev.to/sacsand_sandaruvan_b1edba/how-to-translate-your-existing-lovable-app-with-i18dev-in-under-1-minute-1749)
 <!-- BLOG-POST-LIST:END -->
 
