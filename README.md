@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pokemon Battle Simulator Napkin Challenge!](https://dev.to/gde/pokemon-battle-simulator-napkin-challenge-38db)
-- [Looking for a Founding Engineer](https://dev.to/guru_vyas_860886f635ffe55/looking-for-a-founding-engineer-4d9g)
-- [Copy Job CDC with SQL estate is now GA in Microsoft Fabric](https://dev.to/shai_karmani_2521c2f8e837/copy-job-cdc-with-sql-estate-is-now-ga-in-microsoft-fabric-ggb)
-- [what terminal for CLI in Windows 10 do users like most](https://dev.to/atila_bayat/what-terminal-for-cli-in-windows-10-do-users-like-most-7gi)
+- [AI SRE and AI DevOps: different problems, one reliability stack](https://dev.to/exemplar/ai-sre-and-ai-devops-different-problems-one-reliability-stack-5b4h)
+- [When Server Growth Hits a Wall the Treasure Hunt Engine Documentation Fails You](https://dev.to/built-from-africa/when-server-growth-hits-a-wall-the-treasure-hunt-engine-documentation-fails-you-2goc)
+- [Considering RAG for your Agent? Build this instead.](https://dev.to/remybuilds/considering-rag-for-your-agent-build-this-instead-4ihf)
+- [I Built a Self-Healing Extension Stabilizer for Ungoogled Chromium &lpar;and You Can Use It Too&rpar;](https://dev.to/kingyou/i-built-a-self-healing-extension-stabilizer-for-ungoogled-chromium-and-you-can-use-it-too-161a)
 <!-- BLOG-POST-LIST:END -->
 
