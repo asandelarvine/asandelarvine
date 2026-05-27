@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Liquid Alerts: WOW Alerts Meet Liquid Border](https://dev.to/pawel_nosko/liquid-alerts-wow-alerts-meet-liquid-border-22mc)
-- [Rest is not what you think](https://dev.to/raphink/rest-is-not-what-you-think-1mbc)
-- [How Polymarket Scaled Their Data Stack with Postgres + ClickHouse](https://dev.to/nevosaynevo/how-polymarket-scaled-their-data-stack-with-postgres-clickhouse-4982)
-- [Adaptive execution for Java agents: reason-aware retries and budget-aware routing](https://dev.to/asekka/adaptive-execution-for-java-agents-reason-aware-retries-and-budget-aware-routing-1elm)
+- [Stop relying on Cursor AI. You are destroying your engineering brain](https://dev.to/manju_devi_93d3af8012a762/stop-relying-on-cursor-ai-you-are-destroying-your-engineering-brain-5c0f)
+- [Building an Automated Invoice Processing Pipeline with Node.js](https://dev.to/toolkitonline/building-an-automated-invoice-processing-pipeline-with-nodejs-di5)
+- [Built and launched WebDoctor AI 🌐🧠](https://dev.to/cybertarra/built-and-launched-webdoctor-ai-cf0)
+- [AI Citation Registry: Decentralized Coordination in Government AI Attribution](https://dev.to/aigistry/ai-citation-registry-decentralized-coordination-in-government-ai-attribution-2lp4)
 <!-- BLOG-POST-LIST:END -->
 
