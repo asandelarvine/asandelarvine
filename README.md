@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Workflows: From Solo to Team &lpar;2026&rpar;](https://dev.to/armorbreak/git-workflows-from-solo-to-team-2026-5fo9)
-- [Why Your OpenAI Wrapper Is Costing Too Much &lpar;And How LangGraph Fixes It&rpar;](https://dev.to/shahzaib_dev/why-your-openai-wrapper-is-costing-too-much-and-how-langgraph-fixes-it-3kk0)
-- [Veltrix and the Day the Trace Loops Broke](https://dev.to/on-chain-commerce/veltrix-and-the-day-the-trace-loops-broke-4cb0)
-- [Building an SEO crawler in TypeScript: what I learned](https://dev.to/codepurse/building-an-seo-crawler-in-typescript-what-i-learned-1doo)
+- [Nobody on the internet knows if you are a human](https://dev.to/danieltanfh95/nobody-on-the-internet-knows-if-you-are-a-human-19i2)
+- [The fastest way to optimize images for your web projects &lpar;Zero Server Roundtrips&rpar;](https://dev.to/akshit_shekhawat/the-fastest-way-to-optimize-images-for-your-web-projects-zero-server-roundtrips-5ck)
+- [Why Block Handed Goose to the Linux Foundation: Agentic AI Goes Open](https://dev.to/pickuma/why-block-handed-goose-to-the-linux-foundation-agentic-ai-goes-open-h2n)
+- [We Got Burned by Veltrix Configuration Layer and Lived to Tell the Story](https://dev.to/dev-architecture-blog/we-got-burned-by-veltrix-configuration-layer-and-lived-to-tell-the-story-33ma)
 <!-- BLOG-POST-LIST:END -->
 
