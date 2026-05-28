@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Nobody on the internet knows if you are a human](https://dev.to/danieltanfh95/nobody-on-the-internet-knows-if-you-are-a-human-19i2)
-- [The fastest way to optimize images for your web projects &lpar;Zero Server Roundtrips&rpar;](https://dev.to/akshit_shekhawat/the-fastest-way-to-optimize-images-for-your-web-projects-zero-server-roundtrips-5ck)
-- [Why Block Handed Goose to the Linux Foundation: Agentic AI Goes Open](https://dev.to/pickuma/why-block-handed-goose-to-the-linux-foundation-agentic-ai-goes-open-h2n)
-- [We Got Burned by Veltrix Configuration Layer and Lived to Tell the Story](https://dev.to/dev-architecture-blog/we-got-burned-by-veltrix-configuration-layer-and-lived-to-tell-the-story-33ma)
+- [Your best pull request could be a -500 &lpar;and that&#39;s seniority&rpar;](https://dev.to/campadev/your-best-pull-request-could-be-a-500-and-thats-seniority-4og1)
+- [I Built a Terminal Typing App Because I Was Tired of Leaving My Terminal](https://dev.to/devdebpriyo/i-built-a-terminal-typing-app-because-i-was-tired-of-leaving-my-terminal-47eb)
+- [Sending SMS from AWS Lambda](https://dev.to/gunnargrosch/sending-sms-from-aws-lambda-1fk1)
+- [Markdown to PDF: 8 methods compared &lpar;and why most of them disappoint&rpar;](https://dev.to/warf23/markdown-to-pdf-8-methods-compared-and-why-most-of-them-disappoint-574j)
 <!-- BLOG-POST-LIST:END -->
 
