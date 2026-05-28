@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I gave my AI agent a 2MB PDF. Here&#39;s what happened to my token count.](https://dev.to/mkturner74/i-gave-my-ai-agent-a-2mb-pdf-heres-what-happened-to-my-token-count-4dd1)
-- [You Don&#39;t Have to Learn Hermes From Scratch — I Brought My Existing Skills In](https://dev.to/yuens1002/you-dont-have-to-learn-hermes-from-scratch-i-brought-my-existing-skills-in-18f0)
-- [GHES Key Rotation, Bug Bounty Program Refocus, AI Agent Permission Fatigue](https://dev.to/soytuber/ghes-key-rotation-bug-bounty-program-refocus-ai-agent-permission-fatigue-d8i)
-- [RAG SOTA, Agent Harnessing, and Langfuse Observability for AI Frameworks](https://dev.to/soytuber/rag-sota-agent-harnessing-and-langfuse-observability-for-ai-frameworks-1ko5)
+- [Best AI for Code: Top 4 Tools Tested and Ranked](https://dev.to/ilyas_elaissi/best-ai-for-code-top-4-tools-tested-and-ranked-3cha)
+- [Why Your Data Lineage Is Still a Spreadsheet &lpar;and How to Fix It in 5 Minutes&rpar;](https://dev.to/amoussa-eduhub/why-your-data-lineage-is-still-a-spreadsheet-and-how-to-fix-it-in-5-minutes-1a2f)
+- [API Versioning: URI vs Header – Which Is More Practical?](https://dev.to/merbayerp/api-versioning-uri-vs-header-which-is-more-practical-3nai)
+- [Do &quot;Ok&quot; ao &quot;Termonuclear&quot;: Elevando a Barra do Code Review com IA](https://dev.to/fazedordecodigo/do-ok-ao-termonuclear-elevando-a-barra-do-code-review-com-ia-17i0)
 <!-- BLOG-POST-LIST:END -->
 
