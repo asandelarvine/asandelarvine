@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I reverse-engineered the StudentVue SOAP API to build the only study planner that syncs with it](https://dev.to/anirudh_ulabala_ea94f489e/how-i-reverse-engineered-the-studentvue-soap-api-to-build-the-only-study-planner-that-syncs-with-it-180o)
-- [I built an MCP server that gives AI persistent memory of your SQL database](https://dev.to/surajkgoyal/i-built-an-mcp-server-that-gives-ai-persistent-memory-of-your-sql-database-3d2a)
-- [No-Code Strategy Builder: Turning a Trading Idea Into Testable Rules](https://dev.to/reyazk08/no-code-strategy-builder-turning-a-trading-idea-into-testable-rules-31ji)
-- [v0 by Vercel Review: AI-Generated React Components That Actually Ship](https://dev.to/pickuma/v0-by-vercel-review-ai-generated-react-components-that-actually-ship-25d1)
+- [Git Workflows: From Solo to Team &lpar;2026&rpar;](https://dev.to/armorbreak/git-workflows-from-solo-to-team-2026-5fo9)
+- [Why Your OpenAI Wrapper Is Costing Too Much &lpar;And How LangGraph Fixes It&rpar;](https://dev.to/shahzaib_dev/why-your-openai-wrapper-is-costing-too-much-and-how-langgraph-fixes-it-3kk0)
+- [Veltrix and the Day the Trace Loops Broke](https://dev.to/on-chain-commerce/veltrix-and-the-day-the-trace-loops-broke-4cb0)
+- [Building an SEO crawler in TypeScript: what I learned](https://dev.to/codepurse/building-an-seo-crawler-in-typescript-what-i-learned-1doo)
 <!-- BLOG-POST-LIST:END -->
 
