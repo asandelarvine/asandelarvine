@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your best pull request could be a -500 &lpar;and that&#39;s seniority&rpar;](https://dev.to/campadev/your-best-pull-request-could-be-a-500-and-thats-seniority-4og1)
-- [I Built a Terminal Typing App Because I Was Tired of Leaving My Terminal](https://dev.to/devdebpriyo/i-built-a-terminal-typing-app-because-i-was-tired-of-leaving-my-terminal-47eb)
-- [Sending SMS from AWS Lambda](https://dev.to/gunnargrosch/sending-sms-from-aws-lambda-1fk1)
-- [Markdown to PDF: 8 methods compared &lpar;and why most of them disappoint&rpar;](https://dev.to/warf23/markdown-to-pdf-8-methods-compared-and-why-most-of-them-disappoint-574j)
+- [AI writes your code. Does anyone on your team actually understand it? I&#39;ve been in incident calls where brilliant engineers went silent. I&#39;m calling it Cognitive Debt — and it&#39;s accumulating silently on every team right now. 🔹](https://dev.to/kranthi_kumar_gajji/ai-writes-your-code-does-anyone-on-your-team-actually-understand-it-ive-been-in-incident-calls-30i4)
+- [Configure network routing](https://dev.to/okunola_babatunde_dff5cbd/configure-network-routing-3h9h)
+- [Inside the New ESP32 Pocket Computer Underground](https://dev.to/numbpill3d/inside-the-new-esp32-pocket-computer-underground-533a)
+- [The Attack Vectors Nobody Tells You About: Hardening LLM Apps Against Prompt Injection](https://dev.to/numbpill3d/the-attack-vectors-nobody-tells-you-about-hardening-llm-apps-against-prompt-injection-34ok)
 <!-- BLOG-POST-LIST:END -->
 
