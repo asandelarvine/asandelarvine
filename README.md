@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI writes your code. Does anyone on your team actually understand it? I&#39;ve been in incident calls where brilliant engineers went silent. I&#39;m calling it Cognitive Debt — and it&#39;s accumulating silently on every team right now. 🔹](https://dev.to/kranthi_kumar_gajji/ai-writes-your-code-does-anyone-on-your-team-actually-understand-it-ive-been-in-incident-calls-30i4)
-- [Configure network routing](https://dev.to/okunola_babatunde_dff5cbd/configure-network-routing-3h9h)
-- [Inside the New ESP32 Pocket Computer Underground](https://dev.to/numbpill3d/inside-the-new-esp32-pocket-computer-underground-533a)
-- [The Attack Vectors Nobody Tells You About: Hardening LLM Apps Against Prompt Injection](https://dev.to/numbpill3d/the-attack-vectors-nobody-tells-you-about-hardening-llm-apps-against-prompt-injection-34ok)
+- [I gave my AI agent a 2MB PDF. Here&#39;s what happened to my token count.](https://dev.to/mkturner74/i-gave-my-ai-agent-a-2mb-pdf-heres-what-happened-to-my-token-count-4dd1)
+- [You Don&#39;t Have to Learn Hermes From Scratch — I Brought My Existing Skills In](https://dev.to/yuens1002/you-dont-have-to-learn-hermes-from-scratch-i-brought-my-existing-skills-in-18f0)
+- [GHES Key Rotation, Bug Bounty Program Refocus, AI Agent Permission Fatigue](https://dev.to/soytuber/ghes-key-rotation-bug-bounty-program-refocus-ai-agent-permission-fatigue-d8i)
+- [RAG SOTA, Agent Harnessing, and Langfuse Observability for AI Frameworks](https://dev.to/soytuber/rag-sota-agent-harnessing-and-langfuse-observability-for-ai-frameworks-1ko5)
 <!-- BLOG-POST-LIST:END -->
 
