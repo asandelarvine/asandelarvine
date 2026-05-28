@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Accidentally Built an AI Employee Out of Scripts and Bad Sleep Habits](https://dev.to/numbpill3d/i-accidentally-built-an-ai-employee-out-of-scripts-and-bad-sleep-habits-179)
-- [Stop Chasing Shiny Tools: A Minimalist AI Stack That Actually Makes You Money](https://dev.to/numbpill3d/stop-chasing-shiny-tools-a-minimalist-ai-stack-that-actually-makes-you-money-25h1)
-- [Day 7 of trying to get 20 paying customers in 40 days. Currently at 0.](https://dev.to/gthorr/day-7-of-trying-to-get-20-paying-customers-in-40-days-currently-at-0-406d)
-- [How We Blew Up Our Event Pipeline at 3 AM Because the Treasure Hunt Engine Had No Clear Operator Bounds](https://dev.to/dev-architecture-blog/how-we-blew-up-our-event-pipeline-at-3-am-because-the-treasure-hunt-engine-had-no-clear-operator-20c7)
+- [How I reverse-engineered the StudentVue SOAP API to build the only study planner that syncs with it](https://dev.to/anirudh_ulabala_ea94f489e/how-i-reverse-engineered-the-studentvue-soap-api-to-build-the-only-study-planner-that-syncs-with-it-180o)
+- [I built an MCP server that gives AI persistent memory of your SQL database](https://dev.to/surajkgoyal/i-built-an-mcp-server-that-gives-ai-persistent-memory-of-your-sql-database-3d2a)
+- [No-Code Strategy Builder: Turning a Trading Idea Into Testable Rules](https://dev.to/reyazk08/no-code-strategy-builder-turning-a-trading-idea-into-testable-rules-31ji)
+- [v0 by Vercel Review: AI-Generated React Components That Actually Ship](https://dev.to/pickuma/v0-by-vercel-review-ai-generated-react-components-that-actually-ship-25d1)
 <!-- BLOG-POST-LIST:END -->
 
