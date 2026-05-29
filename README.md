@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an open-source dependency intelligence platform in TypeScript — here&#39;s how it works](https://dev.to/zaydmulani09/i-built-an-open-source-dependency-intelligence-platform-in-typescript-heres-how-it-works-1ofi)
-- [How Model Distillation Actually Works &lpar;and What the &#39;China Distilled Our Model&#39; Headlines Really Mean&rpar;](https://dev.to/p0rt/how-model-distillation-actually-works-and-what-the-china-distilled-our-model-headlines-really-3o0o)
-- [One Week Into Rebuilding My Tech Stack](https://dev.to/yamato0234/one-week-into-rebuilding-my-tech-stack-32k4)
-- [Introducing Electrolite: A Lightweight Open-Source Battery Charge Manager for ASUS Laptops](https://dev.to/alikarbasicom/introducing-electrolite-a-lightweight-open-source-battery-charge-manager-for-asus-laptops-5dd1)
+- [Using the Claude Code Status Line as a Data Source](https://dev.to/hesreallyhim/using-the-claude-code-status-line-as-a-data-source-14nh)
+- [Build a PDF to Image Converter in Next.js](https://dev.to/jigz_dev/build-a-pdf-to-image-converter-in-nextjs-1ga2)
+- [Why Most Startups Should Start with a Monolith &lpar;Not Microservices&rpar;](https://dev.to/codewithishwar/why-most-startups-should-start-with-a-monolith-not-microservices-4haf)
+- [Deprecating a React component using TypeScript Overload](https://dev.to/mbarzeev/deprecating-a-react-component-using-typescript-overload-2ka)
 <!-- BLOG-POST-LIST:END -->
 
