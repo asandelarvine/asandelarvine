@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Overloading Your REST APIs: A Practical Guide to gRPC](https://dev.to/cemakan/stop-overloading-your-rest-apis-a-practical-guide-to-grpc-2kbg)
-- [Why I built cloudfit](https://dev.to/chaitanyakasaraneni/why-i-built-cloudfit-435h)
-- [Markdown Should be Supported Everywhere Natively](https://dev.to/aws/markdown-should-be-supported-everywhere-natively-8nd)
-- [Medium API in 2026: Scraping vs Official API vs Zenndra &lpar;Honest Comparison&rpar;](https://dev.to/zenndraapi/medium-api-in-2026-scraping-vs-official-api-vs-zenndra-honest-comparison-1pe8)
+- [Genera la tua prima fattura elettronica XML per lo SDI in TypeScript — in 10 minuti](https://dev.to/giuseppeserio/genera-la-tua-prima-fattura-elettronica-xml-per-lo-sdi-in-typescript-in-10-minuti-1f40)
+- [Stop Running psql Commands by Hand — Build a REST API for PostgreSQL User Management](https://dev.to/pranay_raavi/stop-running-psql-commands-by-hand-build-a-rest-api-for-postgresql-user-management-1bba)
+- [Finishing the e-commerce app I abandoned in 2023](https://dev.to/hashaam011/finishing-the-e-commerce-app-i-abandoned-in-2023-5dha)
+- [Learning Progress Pt.22](https://dev.to/muhamedmaxhuni/learning-progress-pt22-5f7f)
 <!-- BLOG-POST-LIST:END -->
 
