@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best AI for Code: Top 4 Tools Tested and Ranked](https://dev.to/ilyas_elaissi/best-ai-for-code-top-4-tools-tested-and-ranked-3cha)
-- [Why Your Data Lineage Is Still a Spreadsheet &lpar;and How to Fix It in 5 Minutes&rpar;](https://dev.to/amoussa-eduhub/why-your-data-lineage-is-still-a-spreadsheet-and-how-to-fix-it-in-5-minutes-1a2f)
-- [API Versioning: URI vs Header – Which Is More Practical?](https://dev.to/merbayerp/api-versioning-uri-vs-header-which-is-more-practical-3nai)
-- [Do &quot;Ok&quot; ao &quot;Termonuclear&quot;: Elevando a Barra do Code Review com IA](https://dev.to/fazedordecodigo/do-ok-ao-termonuclear-elevando-a-barra-do-code-review-com-ia-17i0)
+- [Tensors Explained Part 2: Why Tensors Are Useful](https://dev.to/rijultp/tensors-explained-part-2-why-tensors-are-useful-31g1)
+- [I built a 9-agent AI dev team in a Claude Code plugin — here&#39;s what happened](https://dev.to/_205065226f2262c378143/i-built-a-9-agent-ai-dev-team-in-a-claude-code-plugin-heres-what-happened-281p)
+- [Frontend Engineering in 2026: Mastering Performance and DX](https://dev.to/aindrila_bhattacharjee_0f/frontend-engineering-in-2026-mastering-performance-and-dx-3ogm)
+- [The Day Our Treasure Hunt Engine Blew Up at 3 AM &lpar;And How We Rebuilt It Right&rpar;](https://dev.to/dev-architecture-blog/the-day-our-treasure-hunt-engine-blew-up-at-3-am-and-how-we-rebuilt-it-right-2jm8)
 <!-- BLOG-POST-LIST:END -->
 
