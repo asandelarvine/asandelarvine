@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tensors Explained Part 2: Why Tensors Are Useful](https://dev.to/rijultp/tensors-explained-part-2-why-tensors-are-useful-31g1)
-- [I built a 9-agent AI dev team in a Claude Code plugin — here&#39;s what happened](https://dev.to/_205065226f2262c378143/i-built-a-9-agent-ai-dev-team-in-a-claude-code-plugin-heres-what-happened-281p)
-- [Frontend Engineering in 2026: Mastering Performance and DX](https://dev.to/aindrila_bhattacharjee_0f/frontend-engineering-in-2026-mastering-performance-and-dx-3ogm)
-- [The Day Our Treasure Hunt Engine Blew Up at 3 AM &lpar;And How We Rebuilt It Right&rpar;](https://dev.to/dev-architecture-blog/the-day-our-treasure-hunt-engine-blew-up-at-3-am-and-how-we-rebuilt-it-right-2jm8)
+- [Treasure Hunt Engine Was a Nightmare to Operate Until We Fixed These Three Critical Flaws](https://dev.to/dev-architecture-blog/treasure-hunt-engine-was-a-nightmare-to-operate-until-we-fixed-these-three-critical-flaws-7h8)
+- [5 Claude AI Pro Features Developers Are Obsessed With in 2026](https://dev.to/respect17/5-claude-pro-features-developers-are-obsessed-with-in-2026-45ba)
+- [79% of companies are already deploying Physical AI. Is yours one of them? Here&#39;s what you missed this week.](https://dev.to/xberry-tech/79-of-companies-are-already-deploying-physical-ai-is-yours-one-of-them-heres-what-you-missed-4fn)
+- [You Can&#39;t Prompt Your Way Out of a Hard Constraint](https://dev.to/connectengine/you-cant-prompt-your-way-out-of-a-hard-constraint-2ab0)
 <!-- BLOG-POST-LIST:END -->
 
