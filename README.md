@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Genera la tua prima fattura elettronica XML per lo SDI in TypeScript — in 10 minuti](https://dev.to/giuseppeserio/genera-la-tua-prima-fattura-elettronica-xml-per-lo-sdi-in-typescript-in-10-minuti-1f40)
-- [Stop Running psql Commands by Hand — Build a REST API for PostgreSQL User Management](https://dev.to/pranay_raavi/stop-running-psql-commands-by-hand-build-a-rest-api-for-postgresql-user-management-1bba)
-- [Finishing the e-commerce app I abandoned in 2023](https://dev.to/hashaam011/finishing-the-e-commerce-app-i-abandoned-in-2023-5dha)
-- [Learning Progress Pt.22](https://dev.to/muhamedmaxhuni/learning-progress-pt22-5f7f)
+- [I Told a Robot to &quot;Clean the Kitchen&quot;, and It Actually Did](https://dev.to/sudee_sim/i-told-a-robot-to-clean-the-kitchen-and-it-actually-did-1d76)
+- [3 Files Every AI-Assisted Project Needs Before You Write a Line of Code](https://dev.to/blncraft/3-files-every-ai-assisted-project-needs-before-you-write-a-line-of-code-4k4d)
+- [5 .cursorrules Antipatterns Killing Your AI Productivity](https://dev.to/blncraft/5-cursorrules-antipatterns-killing-your-ai-productivity-gpl)
+- [5 CLAUDE.md Patterns That Make AI Actually Follow Your Rules](https://dev.to/blncraft/5-claudemd-patterns-that-make-ai-actually-follow-your-rules-3kj1)
 <!-- BLOG-POST-LIST:END -->
 
