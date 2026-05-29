@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using the Claude Code Status Line as a Data Source](https://dev.to/hesreallyhim/using-the-claude-code-status-line-as-a-data-source-14nh)
-- [Build a PDF to Image Converter in Next.js](https://dev.to/jigz_dev/build-a-pdf-to-image-converter-in-nextjs-1ga2)
-- [Why Most Startups Should Start with a Monolith &lpar;Not Microservices&rpar;](https://dev.to/codewithishwar/why-most-startups-should-start-with-a-monolith-not-microservices-4haf)
-- [Deprecating a React component using TypeScript Overload](https://dev.to/mbarzeev/deprecating-a-react-component-using-typescript-overload-2ka)
+- [Stop Overloading Your REST APIs: A Practical Guide to gRPC](https://dev.to/cemakan/stop-overloading-your-rest-apis-a-practical-guide-to-grpc-2kbg)
+- [Why I built cloudfit](https://dev.to/chaitanyakasaraneni/why-i-built-cloudfit-435h)
+- [Markdown Should be Supported Everywhere Natively](https://dev.to/aws/markdown-should-be-supported-everywhere-natively-8nd)
+- [Medium API in 2026: Scraping vs Official API vs Zenndra &lpar;Honest Comparison&rpar;](https://dev.to/zenndraapi/medium-api-in-2026-scraping-vs-official-api-vs-zenndra-honest-comparison-1pe8)
 <!-- BLOG-POST-LIST:END -->
 
