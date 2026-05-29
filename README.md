@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Treasure Hunt Engine Was a Nightmare to Operate Until We Fixed These Three Critical Flaws](https://dev.to/dev-architecture-blog/treasure-hunt-engine-was-a-nightmare-to-operate-until-we-fixed-these-three-critical-flaws-7h8)
-- [5 Claude AI Pro Features Developers Are Obsessed With in 2026](https://dev.to/respect17/5-claude-pro-features-developers-are-obsessed-with-in-2026-45ba)
-- [79% of companies are already deploying Physical AI. Is yours one of them? Here&#39;s what you missed this week.](https://dev.to/xberry-tech/79-of-companies-are-already-deploying-physical-ai-is-yours-one-of-them-heres-what-you-missed-4fn)
-- [You Can&#39;t Prompt Your Way Out of a Hard Constraint](https://dev.to/connectengine/you-cant-prompt-your-way-out-of-a-hard-constraint-2ab0)
+- [I built an open-source dependency intelligence platform in TypeScript — here&#39;s how it works](https://dev.to/zaydmulani09/i-built-an-open-source-dependency-intelligence-platform-in-typescript-heres-how-it-works-1ofi)
+- [How Model Distillation Actually Works &lpar;and What the &#39;China Distilled Our Model&#39; Headlines Really Mean&rpar;](https://dev.to/p0rt/how-model-distillation-actually-works-and-what-the-china-distilled-our-model-headlines-really-3o0o)
+- [One Week Into Rebuilding My Tech Stack](https://dev.to/yamato0234/one-week-into-rebuilding-my-tech-stack-32k4)
+- [Introducing Electrolite: A Lightweight Open-Source Battery Charge Manager for ASUS Laptops](https://dev.to/alikarbasicom/introducing-electrolite-a-lightweight-open-source-battery-charge-manager-for-asus-laptops-5dd1)
 <!-- BLOG-POST-LIST:END -->
 
