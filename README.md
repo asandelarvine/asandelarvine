@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The .txt File as the Soul of a Personal AI — FileRAG Memory Architecture](https://dev.to/dharanidh75/the-txt-file-as-the-soul-of-a-personal-ai-filerag-memory-architecture-k71)
-- [로봇 두 대가 말 없이 협업? 피규어 AI 암묵적 협업 기술의 비밀](https://dev.to/ai_openfree_b23025ef075cf/robos-du-daega-mal-eobsi-hyeobeob-pigyueo-ai-ammugjeog-hyeobeob-gisulyi-bimil-45eg)
-- [Building ReefWatch, a Coral-Powered Production Triage Agent](https://dev.to/siiddhantt/building-reefwatch-a-coral-powered-production-triage-agent-23hf)
-- [OpenAI’s Frontier Governance Framework: Risk Tiers, Trusted Access, and What Developers Need to Know](https://dev.to/akaranjkar08/openais-frontier-governance-framework-risk-tiers-trusted-access-and-what-developers-need-to-know-n8c)
+- [Extract Plain Text from Medium Posts for RAG and Search Indexes](https://dev.to/zenndraapi/extract-plain-text-from-medium-posts-for-rag-and-search-indexes-14mm)
+- [Claude Code en GitHub Actions: CI/CD, permisos y seguridad para agentes de código](https://dev.to/khavel/claude-code-en-github-actions-cicd-permisos-y-seguridad-para-agentes-de-codigo-5eh9)
+- [FinOps in Architecture Design](https://dev.to/godofgeeks/finops-in-architecture-design-2nk)
+- [Gue Bikin AI yang Cari Duit Otomatis dari Open Source — Ini Cerita Jujurnya](https://dev.to/zeroknowledge0x/gue-bikin-ai-yang-cari-duit-otomatis-dari-open-source-ini-cerita-jujurnya-pm9)
 <!-- BLOG-POST-LIST:END -->
 
