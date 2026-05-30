@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Management Strategies for Battery-Powered Edge AI Devices](https://dev.to/beefedai/power-management-strategies-for-battery-powered-edge-ai-devices-3gef)
-- [I Finally Found a Wallet That Lets My AI Agent Pay Its Own Bills](https://dev.to/barunkumarshaw/i-finally-found-a-wallet-that-lets-my-ai-agent-pay-its-own-bills-4mfd)
-- [What a Frontend Developer Roadmap Actually Contains?](https://dev.to/frontend_carter/what-a-frontend-developer-roadmap-actually-contains-43ek)
-- [BoxAgnts Introduction &lpar;6&rpar; — Agent Multi-Turn Conversation and Tool/Skill Invocation](https://dev.to/guyoung/boxagnts-introduction-6-agent-multi-turn-conversation-and-toolskill-invocation-4pan)
+- [How I Built and Monetized a Currency Exchange Rate API with FastAPI, Deployed it on Render, and Published it on RapidAPI.](https://dev.to/dhritich20baruah/how-i-built-and-monetized-a-currency-exchange-rate-api-with-fastapi-deployed-it-on-render-and-27ne)
+- [The 7 Best Reddit Scrapers in 2026 &lpar;Free &amp; Paid, Tested&rpar;](https://dev.to/benthepythondev/the-7-best-reddit-scrapers-in-2026-free-paid-tested-32nb)
+- [An AI runs my company. A solo dev vibe-coded $15K in a week — we made $[X]. A cold autopsy.](https://dev.to/ahnhyeongkyu/an-ai-runs-my-company-a-solo-dev-vibe-coded-15k-in-a-week-we-made-x-a-cold-autopsy-4fc2)
+- [I am new here](https://dev.to/chrislim0067/i-am-new-here-2abp)
 <!-- BLOG-POST-LIST:END -->
 
