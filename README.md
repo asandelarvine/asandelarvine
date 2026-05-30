@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Oneconfig: A CLI That Detects Your Stack and Provisions Your Dev Environment](https://dev.to/tha_akr_1b7a6fe8aac1f20b9/oneconfig-a-cli-that-detects-your-stack-and-provisions-your-dev-environment-4djc)
-- [The Real Cost of Building AI Agents: A Brutally Honest Breakdown of Time, Money, and Sanity After 100+ Hours](https://dev.to/zeroknowledge0x/the-real-cost-of-building-ai-agents-a-brutally-honest-breakdown-of-time-money-and-sanity-after-4h84)
-- [Don’t Build a Full SaaS Product First](https://dev.to/asim786521/dont-build-a-full-saas-product-first-43ac)
-- [AWS SigV4 and SigV4A Deep Dive](https://dev.to/kanywst/aws-sigv4-and-sigv4a-deep-dive-12li)
+- [Power Management Strategies for Battery-Powered Edge AI Devices](https://dev.to/beefedai/power-management-strategies-for-battery-powered-edge-ai-devices-3gef)
+- [I Finally Found a Wallet That Lets My AI Agent Pay Its Own Bills](https://dev.to/barunkumarshaw/i-finally-found-a-wallet-that-lets-my-ai-agent-pay-its-own-bills-4mfd)
+- [What a Frontend Developer Roadmap Actually Contains?](https://dev.to/frontend_carter/what-a-frontend-developer-roadmap-actually-contains-43ek)
+- [BoxAgnts Introduction &lpar;6&rpar; — Agent Multi-Turn Conversation and Tool/Skill Invocation](https://dev.to/guyoung/boxagnts-introduction-6-agent-multi-turn-conversation-and-toolskill-invocation-4pan)
 <!-- BLOG-POST-LIST:END -->
 
