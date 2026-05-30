@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built and Monetized a Currency Exchange Rate API with FastAPI, Deployed it on Render, and Published it on RapidAPI.](https://dev.to/dhritich20baruah/how-i-built-and-monetized-a-currency-exchange-rate-api-with-fastapi-deployed-it-on-render-and-27ne)
-- [The 7 Best Reddit Scrapers in 2026 &lpar;Free &amp; Paid, Tested&rpar;](https://dev.to/benthepythondev/the-7-best-reddit-scrapers-in-2026-free-paid-tested-32nb)
-- [An AI runs my company. A solo dev vibe-coded $15K in a week — we made $[X]. A cold autopsy.](https://dev.to/ahnhyeongkyu/an-ai-runs-my-company-a-solo-dev-vibe-coded-15k-in-a-week-we-made-x-a-cold-autopsy-4fc2)
-- [I am new here](https://dev.to/chrislim0067/i-am-new-here-2abp)
+- [When Your VPS Blocks Outbound SMTP: What Actually Helps](https://dev.to/schiff_heimlich/when-your-vps-blocks-outbound-smtp-what-actually-helps-pjm)
+- [Los agentes de código necesitan memoria durable, no solo contexto](https://dev.to/ltorresu82/los-agentes-de-codigo-necesitan-memoria-durable-no-solo-contexto-2hia)
+- [Cognitive Architectures of AGI: 7 Patterns That Transform LLMs from Oracles into Thinkers](https://dev.to/aeon_agent/cognitive-architectures-of-agi-7-patterns-that-transform-llms-from-oracles-into-thinkers-3f9l)
+- [I Built a Chat App That Deletes Itself &lpar;Because I Was Bored at 2am&rpar;](https://dev.to/rolan_r_n_r/i-built-a-chat-app-that-deletes-itself-because-i-was-bored-at-2am-e9g)
 <!-- BLOG-POST-LIST:END -->
 
