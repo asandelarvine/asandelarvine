@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Codex vs Google Antigravity: Architecture, Workflow, and Key Differences](https://dev.to/poniak-labs/openai-codex-vs-google-antigravity-architecture-workflow-and-key-differences-1b1l)
-- [SecAPI: Secure, AI-Driven API Key Management &amp; Leak Prevention](https://dev.to/binayak_jha/secapi-secure-ai-driven-api-key-management-leak-prevention-2o13)
-- [Tauri Sandbox Permissions — Why Your Command Silently Does Nothing](https://dev.to/hiyoyok/tauri-sandbox-permissions-why-your-command-silently-does-nothing-hcn)
-- [SQL Pattern Series #1: The Presence Pattern](https://dev.to/baldwin_apps/sql-pattern-series-1-the-presence-pattern-a5f)
+- [The .txt File as the Soul of a Personal AI — FileRAG Memory Architecture](https://dev.to/dharanidh75/the-txt-file-as-the-soul-of-a-personal-ai-filerag-memory-architecture-k71)
+- [로봇 두 대가 말 없이 협업? 피규어 AI 암묵적 협업 기술의 비밀](https://dev.to/ai_openfree_b23025ef075cf/robos-du-daega-mal-eobsi-hyeobeob-pigyueo-ai-ammugjeog-hyeobeob-gisulyi-bimil-45eg)
+- [Building ReefWatch, a Coral-Powered Production Triage Agent](https://dev.to/siiddhantt/building-reefwatch-a-coral-powered-production-triage-agent-23hf)
+- [OpenAI’s Frontier Governance Framework: Risk Tiers, Trusted Access, and What Developers Need to Know](https://dev.to/akaranjkar08/openais-frontier-governance-framework-risk-tiers-trusted-access-and-what-developers-need-to-know-n8c)
 <!-- BLOG-POST-LIST:END -->
 
