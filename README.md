@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Told a Robot to &quot;Clean the Kitchen&quot;, and It Actually Did](https://dev.to/sudee_sim/i-told-a-robot-to-clean-the-kitchen-and-it-actually-did-1d76)
-- [3 Files Every AI-Assisted Project Needs Before You Write a Line of Code](https://dev.to/blncraft/3-files-every-ai-assisted-project-needs-before-you-write-a-line-of-code-4k4d)
-- [5 .cursorrules Antipatterns Killing Your AI Productivity](https://dev.to/blncraft/5-cursorrules-antipatterns-killing-your-ai-productivity-gpl)
-- [5 CLAUDE.md Patterns That Make AI Actually Follow Your Rules](https://dev.to/blncraft/5-claudemd-patterns-that-make-ai-actually-follow-your-rules-3kj1)
+- [OpenAI Codex vs Google Antigravity: Architecture, Workflow, and Key Differences](https://dev.to/poniak-labs/openai-codex-vs-google-antigravity-architecture-workflow-and-key-differences-1b1l)
+- [SecAPI: Secure, AI-Driven API Key Management &amp; Leak Prevention](https://dev.to/binayak_jha/secapi-secure-ai-driven-api-key-management-leak-prevention-2o13)
+- [Tauri Sandbox Permissions — Why Your Command Silently Does Nothing](https://dev.to/hiyoyok/tauri-sandbox-permissions-why-your-command-silently-does-nothing-hcn)
+- [SQL Pattern Series #1: The Presence Pattern](https://dev.to/baldwin_apps/sql-pattern-series-1-the-presence-pattern-a5f)
 <!-- BLOG-POST-LIST:END -->
 
