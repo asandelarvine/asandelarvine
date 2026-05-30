@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bots read fast pages too: what we reprioritised after an AI-crawler audit](https://dev.to/apogeewatcher/bots-read-fast-pages-too-what-we-reprioritised-after-an-ai-crawler-audit-2jnf)
-- [Tu navegador te conoce mejor de lo que crees: privacidad en 2026](https://dev.to/johantovar/tu-navegador-te-conoce-mejor-de-lo-que-crees-privacidad-en-2026-468m)
-- [Home-Bottom Row Modifier Clusters](https://dev.to/argenkiwi/home-bottom-row-modifier-clusters-590n)
-- [We Trusted Auto-Ack. The Queue Agreed. Our Costs Didn&#39;t.](https://dev.to/sansbuilds/we-trusted-auto-ack-the-queue-agreed-our-costs-didnt-3617)
+- [Session Management, Rate Limiting &amp; Caching using Redis](https://dev.to/shieldstring/session-management-rate-limiting-caching-using-redis-4poi)
+- [Why Accuracy Is Not Enough: Evaluation Metrics Every AI Engineer Should Understand](https://dev.to/mneetika/why-accuracy-is-not-enough-evaluation-metrics-every-ai-engineer-should-understand-cah)
+- [How I Built One](https://dev.to/arishsingh99/ai-platform-that-turns-your-resume-into-proof-that-you-can-actually-code-k9i)
+- [AGTP: A Transport Protocol Built for Agents](https://dev.to/chrishood/agtp-a-transport-protocol-built-for-agents-2j7p)
 <!-- BLOG-POST-LIST:END -->
 
