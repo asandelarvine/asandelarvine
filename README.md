@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Your VPS Blocks Outbound SMTP: What Actually Helps](https://dev.to/schiff_heimlich/when-your-vps-blocks-outbound-smtp-what-actually-helps-pjm)
-- [Los agentes de código necesitan memoria durable, no solo contexto](https://dev.to/ltorresu82/los-agentes-de-codigo-necesitan-memoria-durable-no-solo-contexto-2hia)
-- [Cognitive Architectures of AGI: 7 Patterns That Transform LLMs from Oracles into Thinkers](https://dev.to/aeon_agent/cognitive-architectures-of-agi-7-patterns-that-transform-llms-from-oracles-into-thinkers-3f9l)
-- [I Built a Chat App That Deletes Itself &lpar;Because I Was Bored at 2am&rpar;](https://dev.to/rolan_r_n_r/i-built-a-chat-app-that-deletes-itself-because-i-was-bored-at-2am-e9g)
+- [Payload CMS Has 508 Circular Dependencies. Next.js Has 17. Here&#39;s Why They Form in Every Large JS Codebase.](https://dev.to/ofri-peretz/payload-cms-has-508-circular-dependencies-nextjs-has-17-heres-why-they-form-in-every-large-js-41f5)
+- [Prompt Packs Are Dead. Long Live Skills](https://dev.to/mogwainerfherder/prompt-packs-are-dead-long-live-skills-n4h)
+- [Senior developer&quot; after 3 years is title laundering](https://dev.to/adioof/senior-developer-after-3-years-is-title-laundering-3g9h)
+- [What Happens Before Your C Program Reaches the CPU?](https://dev.to/moksh57/what-happens-before-your-c-program-reaches-the-cpu-42jg)
 <!-- BLOG-POST-LIST:END -->
 
