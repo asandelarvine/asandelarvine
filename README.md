@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Extract Plain Text from Medium Posts for RAG and Search Indexes](https://dev.to/zenndraapi/extract-plain-text-from-medium-posts-for-rag-and-search-indexes-14mm)
-- [Claude Code en GitHub Actions: CI/CD, permisos y seguridad para agentes de código](https://dev.to/khavel/claude-code-en-github-actions-cicd-permisos-y-seguridad-para-agentes-de-codigo-5eh9)
-- [FinOps in Architecture Design](https://dev.to/godofgeeks/finops-in-architecture-design-2nk)
-- [Gue Bikin AI yang Cari Duit Otomatis dari Open Source — Ini Cerita Jujurnya](https://dev.to/zeroknowledge0x/gue-bikin-ai-yang-cari-duit-otomatis-dari-open-source-ini-cerita-jujurnya-pm9)
+- [Oneconfig: A CLI That Detects Your Stack and Provisions Your Dev Environment](https://dev.to/tha_akr_1b7a6fe8aac1f20b9/oneconfig-a-cli-that-detects-your-stack-and-provisions-your-dev-environment-4djc)
+- [The Real Cost of Building AI Agents: A Brutally Honest Breakdown of Time, Money, and Sanity After 100+ Hours](https://dev.to/zeroknowledge0x/the-real-cost-of-building-ai-agents-a-brutally-honest-breakdown-of-time-money-and-sanity-after-4h84)
+- [Don’t Build a Full SaaS Product First](https://dev.to/asim786521/dont-build-a-full-saas-product-first-43ac)
+- [AWS SigV4 and SigV4A Deep Dive](https://dev.to/kanywst/aws-sigv4-and-sigv4a-deep-dive-12li)
 <!-- BLOG-POST-LIST:END -->
 
