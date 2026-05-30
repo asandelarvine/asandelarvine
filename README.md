@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Payload CMS Has 508 Circular Dependencies. Next.js Has 17. Here&#39;s Why They Form in Every Large JS Codebase.](https://dev.to/ofri-peretz/payload-cms-has-508-circular-dependencies-nextjs-has-17-heres-why-they-form-in-every-large-js-41f5)
-- [Prompt Packs Are Dead. Long Live Skills](https://dev.to/mogwainerfherder/prompt-packs-are-dead-long-live-skills-n4h)
-- [Senior developer&quot; after 3 years is title laundering](https://dev.to/adioof/senior-developer-after-3-years-is-title-laundering-3g9h)
-- [What Happens Before Your C Program Reaches the CPU?](https://dev.to/moksh57/what-happens-before-your-c-program-reaches-the-cpu-42jg)
+- [Bots read fast pages too: what we reprioritised after an AI-crawler audit](https://dev.to/apogeewatcher/bots-read-fast-pages-too-what-we-reprioritised-after-an-ai-crawler-audit-2jnf)
+- [Tu navegador te conoce mejor de lo que crees: privacidad en 2026](https://dev.to/johantovar/tu-navegador-te-conoce-mejor-de-lo-que-crees-privacidad-en-2026-468m)
+- [Home-Bottom Row Modifier Clusters](https://dev.to/argenkiwi/home-bottom-row-modifier-clusters-590n)
+- [We Trusted Auto-Ack. The Queue Agreed. Our Costs Didn&#39;t.](https://dev.to/sansbuilds/we-trusted-auto-ack-the-queue-agreed-our-costs-didnt-3617)
 <!-- BLOG-POST-LIST:END -->
 
