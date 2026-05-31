@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Session Management, Rate Limiting &amp; Caching using Redis](https://dev.to/shieldstring/session-management-rate-limiting-caching-using-redis-4poi)
-- [Why Accuracy Is Not Enough: Evaluation Metrics Every AI Engineer Should Understand](https://dev.to/mneetika/why-accuracy-is-not-enough-evaluation-metrics-every-ai-engineer-should-understand-cah)
-- [How I Built One](https://dev.to/arishsingh99/ai-platform-that-turns-your-resume-into-proof-that-you-can-actually-code-k9i)
-- [AGTP: A Transport Protocol Built for Agents](https://dev.to/chrishood/agtp-a-transport-protocol-built-for-agents-2j7p)
+- [Bulk-check DNS, SSL and email auth for a whole list of domains &lpar;no scraping&rpar;](https://dev.to/weiseer/bulk-check-dns-ssl-and-email-auth-for-a-whole-list-of-domains-no-scraping-37pd)
+- [MCP Tool Budget for AI SaaS: Stop Agents From Burning Tokens, Tools, and Trust](https://dev.to/jackm-singularity/mcp-tool-budget-for-ai-saas-stop-agents-from-burning-tokens-tools-and-trust-1n99)
+- [Untrusted Code, Trusted Cluster Scaling Secure AI Agent Workspaces with GKE Agent Sandbox](https://dev.to/gde/untrusted-code-trusted-cluster-scaling-secure-ai-agent-workspaces-with-gke-agent-sandbox-1mk1)
+- [Learning, Experimenting - Concurrency in Go](https://dev.to/manishlapasi/learning-experimenting-concurrency-in-go-2fho)
 <!-- BLOG-POST-LIST:END -->
 
