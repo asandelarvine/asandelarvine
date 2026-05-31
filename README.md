@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Where Tensor-Parallel Inference Hits the NVLink Wall](https://dev.to/member_2e5ba30f/where-tensor-parallel-inference-hits-the-nvlink-wall-1l8p)
-- [I open-sourced a World Cup 2026 prediction model — and tested it honestly](https://dev.to/jerry_chen_dbaa6838e17336/i-open-sourced-a-world-cup-2026-prediction-model-and-tested-it-honestly-44d1)
-- [Database WAL Bloat Management: The Core Anatomy for Performance](https://dev.to/merbayerp/database-wal-bloat-management-the-core-anatomy-for-performance-2cio)
-- [WordPress Emails Were Failing Silently on DigitalOcean. Here&#39;s What Broke.](https://dev.to/itsmikekipruto/wordpress-emails-were-failing-silently-on-digitalocean-heres-what-broke-hal)
+- [How to Parse Invoices in Python Using an API &lpar;2026 Guide&rpar;](https://dev.to/othmane_merny_3d032356669/how-to-parse-invoices-in-python-using-an-api-2026-guide-25cp)
+- [Shifting from Mobile to Web: How I Built a 3-Pane Desktop AI Interface with Expo Web &amp; FastAPI](https://dev.to/jxlee007/shifting-from-mobile-to-web-how-i-built-a-3-pane-desktop-ai-interface-with-expo-web-fastapi-3lad)
+- [LeetCode Solution: 17. Letter Combinations of a Phone Number](https://dev.to/hommies_fcbf2afe8ddb0c2a7/leetcode-solution-17-letter-combinations-of-a-phone-number-20aj)
+- [It&#39;s time to get familiar with what FinOps for AI is](https://dev.to/osquarski/its-time-to-get-familiar-with-what-finops-for-ai-is-49lk)
 <!-- BLOG-POST-LIST:END -->
 
