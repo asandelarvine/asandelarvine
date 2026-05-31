@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [prism-mem: Automatic Knowledge Extraction for AI Coding Agents](https://dev.to/rahul_talatala/prism-mem-automatic-knowledge-extraction-for-ai-coding-agents-2bgo)
-- [First Post: A Little Biography](https://dev.to/jay_bdf02574780a91d8de9b7/first-post-a-little-biography-57j5)
-- [GridyPig Quiz Clash: Turning Prompts into Playable Multiplayer Games with Hermes Agent](https://dev.to/cjustinobi/gridypig-quiz-clash-turning-prompts-into-playable-multiplayer-games-with-hermes-agent-3ngc)
-- [Bootstrapping Kubernetes Before the Registry Exists - Pre-Tagging Images for containerd](https://dev.to/krjakbrjak/bootstrapping-kubernetes-before-the-registry-exists-pre-tagging-images-for-containerd-14ao)
+- [How I used Inkscape to make Assets for GitHub and DEV.to](https://dev.to/thetylern/how-i-used-inkscape-to-make-assets-for-github-and-devto-bck)
+- [I Published an AI Memory Result. Then Real Retrieval Broke Everything.](https://dev.to/zep1997/i-published-an-ai-memory-result-then-real-retrieval-broke-everything-12g7)
+- [I sketched 29 agentic AI design patterns in a Da Vinci–style notebook &lpar;open source&rpar;](https://dev.to/gtesei/i-sketched-29-agentic-ai-design-patterns-in-a-da-vinci-style-notebook-open-source-14o7)
+- [Building Your First LangGraph Pipeline: A Decision-Maker&#39;s Guide](https://dev.to/labyrinthanalytics/building-your-first-langgraph-pipeline-a-decision-makers-guide-4e25)
 <!-- BLOG-POST-LIST:END -->
 
