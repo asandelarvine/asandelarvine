@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Discipline of Not Fooling Ourselves: Episode 7 — The Cost of Certainty](https://dev.to/abdulosman/the-discipline-of-not-fooling-ourselves-episode-7-the-cost-of-certainty-3ebl)
-- [BoxAgnts Introduction &lpar;7&rpar; — OpenAI API and Anthropic API](https://dev.to/guyoung/boxagnts-introduction-7-openai-api-and-anthropic-api-11o7)
-- [Why Context Window Is Not Enough for AI Character Memory](https://dev.to/david_chejo/why-context-window-is-not-enough-for-ai-character-memory-54ch)
-- [&quot;NestJS authentication in 5 minutes&quot;](https://dev.to/gajendrasingh_33/nestjs-authentication-in-5-minutes-1d4m)
+- [Cómo solucionar `OSError: [Errno 13] Permission denied` al usar `pip install`](https://dev.to/erickeduardoramos03/como-solucionar-oserror-errno-13-permission-denied-al-usar-pip-install-1hmm)
+- [From Smart Contract Hell to JavaScript Solace: Building ArdhiChain for a 36-Hour Hackathon](https://dev.to/bwanachairman/from-smart-contract-hell-to-javascript-solace-building-ardhichain-for-a-36-hour-hackathon-1cnk)
+- [I built a browser number strategy game where arithmetic becomes board control](https://dev.to/love_mars_697691a3a1c44ba/i-built-a-browser-number-strategy-game-where-arithmetic-becomes-board-control-2gbg)
+- [The Open-Source Agent War of 2026: Hermes Agent vs AutoGPT vs OpenAI Agents vs CrewAI](https://dev.to/toyaab/the-open-source-agent-war-of-2026-hermes-agent-vs-autogpt-vs-openai-agents-vs-crewai-2kj6)
 <!-- BLOG-POST-LIST:END -->
 
