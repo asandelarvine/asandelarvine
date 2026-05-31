@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo solucionar `OSError: [Errno 13] Permission denied` al usar `pip install`](https://dev.to/erickeduardoramos03/como-solucionar-oserror-errno-13-permission-denied-al-usar-pip-install-1hmm)
-- [From Smart Contract Hell to JavaScript Solace: Building ArdhiChain for a 36-Hour Hackathon](https://dev.to/bwanachairman/from-smart-contract-hell-to-javascript-solace-building-ardhichain-for-a-36-hour-hackathon-1cnk)
-- [I built a browser number strategy game where arithmetic becomes board control](https://dev.to/love_mars_697691a3a1c44ba/i-built-a-browser-number-strategy-game-where-arithmetic-becomes-board-control-2gbg)
-- [The Open-Source Agent War of 2026: Hermes Agent vs AutoGPT vs OpenAI Agents vs CrewAI](https://dev.to/toyaab/the-open-source-agent-war-of-2026-hermes-agent-vs-autogpt-vs-openai-agents-vs-crewai-2kj6)
+- [AI for Knowledge Management: Real Workflows That Hold Up](https://dev.to/rosgluk/ai-for-knowledge-management-real-workflows-that-hold-up-3ag)
+- [4 Ways to Get Started with AITuber, Sorted by Level](https://dev.to/shinshin86/4-ways-to-get-started-with-aituber-sorted-by-level-48k7)
+- [How I Fixed a CORS Error Without Knowing Backend - and What I Learned From It](https://dev.to/iamgitman/how-i-fixed-a-cors-error-without-knowing-backend-and-what-i-learned-from-it-j33)
+- [Using jQuery to hide a DIV when the user clicks outside of it.](https://dev.to/ratanpandey1994/using-jquery-to-hide-a-div-when-the-user-clicks-outside-of-it-3b32)
 <!-- BLOG-POST-LIST:END -->
 
