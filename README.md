@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bulk-check DNS, SSL and email auth for a whole list of domains &lpar;no scraping&rpar;](https://dev.to/weiseer/bulk-check-dns-ssl-and-email-auth-for-a-whole-list-of-domains-no-scraping-37pd)
-- [MCP Tool Budget for AI SaaS: Stop Agents From Burning Tokens, Tools, and Trust](https://dev.to/jackm-singularity/mcp-tool-budget-for-ai-saas-stop-agents-from-burning-tokens-tools-and-trust-1n99)
-- [Untrusted Code, Trusted Cluster Scaling Secure AI Agent Workspaces with GKE Agent Sandbox](https://dev.to/gde/untrusted-code-trusted-cluster-scaling-secure-ai-agent-workspaces-with-gke-agent-sandbox-1mk1)
-- [Learning, Experimenting - Concurrency in Go](https://dev.to/manishlapasi/learning-experimenting-concurrency-in-go-2fho)
+- [The Discipline of Not Fooling Ourselves: Episode 7 — The Cost of Certainty](https://dev.to/abdulosman/the-discipline-of-not-fooling-ourselves-episode-7-the-cost-of-certainty-3ebl)
+- [BoxAgnts Introduction &lpar;7&rpar; — OpenAI API and Anthropic API](https://dev.to/guyoung/boxagnts-introduction-7-openai-api-and-anthropic-api-11o7)
+- [Why Context Window Is Not Enough for AI Character Memory](https://dev.to/david_chejo/why-context-window-is-not-enough-for-ai-character-memory-54ch)
+- [&quot;NestJS authentication in 5 minutes&quot;](https://dev.to/gajendrasingh_33/nestjs-authentication-in-5-minutes-1d4m)
 <!-- BLOG-POST-LIST:END -->
 
