@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Parse Invoices in Python Using an API &lpar;2026 Guide&rpar;](https://dev.to/othmane_merny_3d032356669/how-to-parse-invoices-in-python-using-an-api-2026-guide-25cp)
-- [Shifting from Mobile to Web: How I Built a 3-Pane Desktop AI Interface with Expo Web &amp; FastAPI](https://dev.to/jxlee007/shifting-from-mobile-to-web-how-i-built-a-3-pane-desktop-ai-interface-with-expo-web-fastapi-3lad)
-- [LeetCode Solution: 17. Letter Combinations of a Phone Number](https://dev.to/hommies_fcbf2afe8ddb0c2a7/leetcode-solution-17-letter-combinations-of-a-phone-number-20aj)
-- [It&#39;s time to get familiar with what FinOps for AI is](https://dev.to/osquarski/its-time-to-get-familiar-with-what-finops-for-ai-is-49lk)
+- [prism-mem: Automatic Knowledge Extraction for AI Coding Agents](https://dev.to/rahul_talatala/prism-mem-automatic-knowledge-extraction-for-ai-coding-agents-2bgo)
+- [First Post: A Little Biography](https://dev.to/jay_bdf02574780a91d8de9b7/first-post-a-little-biography-57j5)
+- [GridyPig Quiz Clash: Turning Prompts into Playable Multiplayer Games with Hermes Agent](https://dev.to/cjustinobi/gridypig-quiz-clash-turning-prompts-into-playable-multiplayer-games-with-hermes-agent-3ngc)
+- [Bootstrapping Kubernetes Before the Registry Exists - Pre-Tagging Images for containerd](https://dev.to/krjakbrjak/bootstrapping-kubernetes-before-the-registry-exists-pre-tagging-images-for-containerd-14ao)
 <!-- BLOG-POST-LIST:END -->
 
