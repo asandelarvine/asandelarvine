@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI for Knowledge Management: Real Workflows That Hold Up](https://dev.to/rosgluk/ai-for-knowledge-management-real-workflows-that-hold-up-3ag)
-- [4 Ways to Get Started with AITuber, Sorted by Level](https://dev.to/shinshin86/4-ways-to-get-started-with-aituber-sorted-by-level-48k7)
-- [How I Fixed a CORS Error Without Knowing Backend - and What I Learned From It](https://dev.to/iamgitman/how-i-fixed-a-cors-error-without-knowing-backend-and-what-i-learned-from-it-j33)
-- [Using jQuery to hide a DIV when the user clicks outside of it.](https://dev.to/ratanpandey1994/using-jquery-to-hide-a-div-when-the-user-clicks-outside-of-it-3b32)
+- [Where Tensor-Parallel Inference Hits the NVLink Wall](https://dev.to/member_2e5ba30f/where-tensor-parallel-inference-hits-the-nvlink-wall-1l8p)
+- [I open-sourced a World Cup 2026 prediction model — and tested it honestly](https://dev.to/jerry_chen_dbaa6838e17336/i-open-sourced-a-world-cup-2026-prediction-model-and-tested-it-honestly-44d1)
+- [Database WAL Bloat Management: The Core Anatomy for Performance](https://dev.to/merbayerp/database-wal-bloat-management-the-core-anatomy-for-performance-2cio)
+- [WordPress Emails Were Failing Silently on DigitalOcean. Here&#39;s What Broke.](https://dev.to/itsmikekipruto/wordpress-emails-were-failing-silently-on-digitalocean-heres-what-broke-hal)
 <!-- BLOG-POST-LIST:END -->
 
