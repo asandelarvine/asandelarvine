@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Synthadoc: Staleness Detection, Full Audit Trails, and Four Export Formats - No Extra LLM Calls](https://dev.to/paul_chen_90371fe7426cb44/synthadoc-staleness-detection-full-audit-trails-and-four-export-formats-no-extra-llm-calls-2ild)
-- [The Token Bill Is Coming. Nobody&#39;s Ready for It.](https://dev.to/keithjmackay/the-token-bill-is-coming-nobodys-ready-for-it-2hbb)
-- [.NET Memory Management Explained: Understanding the Garbage Collector, Heap Allocations, and Performance Optimization](https://dev.to/aldacosta/net-memory-management-explained-understanding-the-garbage-collector-heap-allocations-and-5akf)
-- [Chingu AI: Building an AI Chat App with Spring Boot &amp; GitHub Copilot](https://dev.to/beyza312/chingu-ai-building-an-ai-chat-app-with-spring-boot-github-copilot-4mja)
+- [Your AI Team Is Building Debt Your CFO Can&#39;t See. Here&#39;s the Ledger.](https://dev.to/keithjmackay/your-ai-team-is-building-debt-your-cfo-cant-see-heres-the-ledger-65c)
+- [Cluely Alternative for Mac: A Responsible Live Interview Copilot Guide](https://dev.to/extrabrain/cluely-alternative-for-mac-a-responsible-live-interview-copilot-guide-5bem)
+- [Treat AI coding sessions as project infrastructure](https://dev.to/uzoma_uche_3ec83974b4a8a5/treat-ai-coding-sessions-as-project-infrastructure-4o51)
+- [Your Deleted Google API Key Is Still Working — Here&#39;s Why That&#39;s a Security Crisis](https://dev.to/walosha/your-deleted-google-api-key-is-still-working-heres-why-thats-a-security-crisis-4mg7)
 <!-- BLOG-POST-LIST:END -->
 
