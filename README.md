@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure GitHub or any MCP Server with Okta via AgentCore Gateway](https://dev.to/misaac/secure-github-or-any-mcp-server-with-okta-via-agentcore-gateway-4ci6)
-- [Why `map&lpar;&rpar;` Exists Everywhere](https://dev.to/amrishkhan05/why-map-exists-everywhere-1d1)
-- [Hermes Agent vs. The Rest — An Honest Comparison of Open Agentic Frameworks in 2026](https://dev.to/_prshant01/hermes-agent-vs-the-rest-an-honest-comparison-of-open-agentic-frameworks-in-2026-he2)
-- [Day 21 - CI/CD Fundamentals](https://dev.to/17j/day-21-cicd-fundamentals-4aeg)
+- [Designing Healthcare Interoperability with HL7 FHIR: Lessons from Venezuela](https://dev.to/ramon_melendezjuarez/designing-healthcare-interoperability-with-hl7-fhir-lessons-from-venezuela-b10)
+- [Mistral Large vs LLaMA 4 vs Phi-4: Best Open-Source LLM for Code Generation in 2026](https://dev.to/ayinedjimi-consultants/mistral-large-vs-llama-4-vs-phi-4-best-open-source-llm-for-code-generation-in-2026-1n9i)
+- [I Roasted My Friend&#39;s X &lpar;Twitter&rpar; with This Open-Source Tool and Got Blocked...](https://dev.to/gokuscraper/i-roasted-my-friends-x-twitter-with-this-open-source-tool-and-got-blocked-4pnp)
+- [I Used Claude Code for 30 Days on My Rails App. Here’s What I Learned](https://dev.to/codescaptain/i-used-claude-code-for-30-days-on-my-rails-app-heres-what-i-learned-42m9)
 <!-- BLOG-POST-LIST:END -->
 
