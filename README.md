@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of Googling FFmpeg flags, so I built a universal CLI converter in Rust](https://dev.to/arshalaromal/i-got-tired-of-googling-ffmpeg-flags-so-i-built-a-universal-cli-converter-in-rust-45l9)
-- [Design and Implementation of a Slurm-Based HPC Cluster](https://dev.to/ishara_ekanayaka/design-and-implementation-of-a-slurm-based-hpc-cluster-4e2g)
-- [Share my GitHub Project-A personal service navigation](https://dev.to/_73f07dc26f41c240632d1/share-my-github-project-a-personal-service-navigation-1nim)
-- [I replaced GSAP DrawSVG with 4.4 KB &lpar;and it uses native CSS where it can&rpar;](https://dev.to/dhruvil_chauhan_eccb4a1eb/i-replaced-gsap-drawsvg-with-44-kb-and-it-uses-native-css-where-it-can-3mdg)
+- [Synthadoc: Staleness Detection, Full Audit Trails, and Four Export Formats - No Extra LLM Calls](https://dev.to/paul_chen_90371fe7426cb44/synthadoc-staleness-detection-full-audit-trails-and-four-export-formats-no-extra-llm-calls-2ild)
+- [The Token Bill Is Coming. Nobody&#39;s Ready for It.](https://dev.to/keithjmackay/the-token-bill-is-coming-nobodys-ready-for-it-2hbb)
+- [.NET Memory Management Explained: Understanding the Garbage Collector, Heap Allocations, and Performance Optimization](https://dev.to/aldacosta/net-memory-management-explained-understanding-the-garbage-collector-heap-allocations-and-5akf)
+- [Chingu AI: Building an AI Chat App with Spring Boot &amp; GitHub Copilot](https://dev.to/beyza312/chingu-ai-building-an-ai-chat-app-with-spring-boot-github-copilot-4mja)
 <!-- BLOG-POST-LIST:END -->
 
