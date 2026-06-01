@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Schema.org NewsArticle: A Complete Implementation Guide for Google News in 2026](https://dev.to/mahmut_gndzalp_c736ac4b/schemaorg-newsarticle-a-complete-implementation-guide-for-google-news-in-2026-5e7g)
-- [How to Build a Frontend Developer Portfolio That Stands Out](https://dev.to/safdarali25/how-to-build-a-frontend-developer-portfolio-that-stands-out-4d3k)
-- [Building an Application Log Analytics Platform with Amazon S3 Tables: Cost Optimization by Migrating from CloudWatch Logs](https://dev.to/manaty226/building-an-application-log-analytics-platform-with-amazon-s3-tables-cost-optimization-by-5chl)
-- [5 Levels of Telegram Spam Your Anti-Spam Bot Isn&#39;t Catching](https://dev.to/alexey_leshchenko_fc0ec66/5-levels-of-telegram-spam-your-anti-spam-bot-isnt-catching-3311)
+- [Secure GitHub or any MCP Server with Okta via AgentCore Gateway](https://dev.to/misaac/secure-github-or-any-mcp-server-with-okta-via-agentcore-gateway-4ci6)
+- [Why `map&lpar;&rpar;` Exists Everywhere](https://dev.to/amrishkhan05/why-map-exists-everywhere-1d1)
+- [Hermes Agent vs. The Rest — An Honest Comparison of Open Agentic Frameworks in 2026](https://dev.to/_prshant01/hermes-agent-vs-the-rest-an-honest-comparison-of-open-agentic-frameworks-in-2026-he2)
+- [Day 21 - CI/CD Fundamentals](https://dev.to/17j/day-21-cicd-fundamentals-4aeg)
 <!-- BLOG-POST-LIST:END -->
 
