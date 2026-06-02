@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Lessons from Gaming](https://dev.to/ingosteinke/learning-lessons-from-gaming-1jgm)
-- [Python&#39;s Toolchain Anxiety Problem &lpar;And How to Think About It&rpar;](https://dev.to/peytongreen_dev/pythons-toolchain-anxiety-problem-and-how-to-think-about-it-131k)
-- [How does VuReact optimize Vue 3&#39;s top-level arrow functions for React?](https://dev.to/smirk9581/how-does-vureact-optimize-vue-3s-top-level-arrow-functions-for-react-4e14)
-- [You Are Stuck Because Building Something Alone Is Uncomfortable](https://dev.to/guilherme_galanti/you-are-stuck-because-building-something-alone-is-uncomfortable-5geh)
+- [Exploring Polymarket Market Data with Python &lpar;Polymarket V2 Deep Dive&rpar;](https://dev.to/mateosoul/exploring-polymarket-market-data-with-python-polymarket-v2-deep-dive-4493)
+- [The Fastest Set Is Often Not a Set: 4050 Duplicate-Detection Benchmarks](https://dev.to/dubeykartikay/the-fastest-set-is-often-not-a-set-4050-duplicate-detection-benchmarks-31im)
+- [How to scrape Recruitee jobs data &lpar;with salary&rpar; in Python — no API key](https://dev.to/freshactors/how-to-scrape-recruitee-jobs-data-with-salary-in-python-no-api-key-1o1l)
+- [SPF, DKIM, and DMARC Explained: The Complete Email Authentication Guide](https://dev.to/dnsassistant/spf-dkim-and-dmarc-explained-the-complete-email-authentication-guide-l5f)
 <!-- BLOG-POST-LIST:END -->
 
