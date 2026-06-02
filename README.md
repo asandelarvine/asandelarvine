@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring Polymarket Market Data with Python &lpar;Polymarket V2 Deep Dive&rpar;](https://dev.to/mateosoul/exploring-polymarket-market-data-with-python-polymarket-v2-deep-dive-4493)
-- [The Fastest Set Is Often Not a Set: 4050 Duplicate-Detection Benchmarks](https://dev.to/dubeykartikay/the-fastest-set-is-often-not-a-set-4050-duplicate-detection-benchmarks-31im)
-- [How to scrape Recruitee jobs data &lpar;with salary&rpar; in Python — no API key](https://dev.to/freshactors/how-to-scrape-recruitee-jobs-data-with-salary-in-python-no-api-key-1o1l)
-- [SPF, DKIM, and DMARC Explained: The Complete Email Authentication Guide](https://dev.to/dnsassistant/spf-dkim-and-dmarc-explained-the-complete-email-authentication-guide-l5f)
+- [A Curated List of Articles About Modern Software Testing](https://dev.to/randomsquirrel802/a-curated-list-of-articles-about-modern-software-testing-3ndj)
+- [&quot;Todo mundo sabe mais que eu?&quot; Como encarei a síndrome do impostor na faculdade de Computação](https://dev.to/cavalcantiraissa/todo-mundo-sabe-mais-que-eu-como-encarei-a-sindrome-do-impostor-na-faculdade-de-computacao-3fok)
+- [Escudo](https://dev.to/sugarhashira/escudo-232b)
+- [Stop Juggling 5 Tools , Python&#39;s uv Does It All &lpar;And It&#39;s Blazing Fast&rpar;](https://dev.to/shayan_holakouee/stop-juggling-5-tools-pythons-uv-does-it-all-and-its-blazing-fast-3cbm)
 <!-- BLOG-POST-LIST:END -->
 
