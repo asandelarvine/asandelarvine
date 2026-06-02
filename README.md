@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Starting With Your SaaS Idea](https://dev.to/neve7er/stop-starting-with-your-saas-idea-39bk)
-- [Why Your Expense Workflow Is Still Leaking Data](https://dev.to/digitxbooks-official/why-your-expense-workflow-is-still-leaking-data-2n7n)
-- [Why Documentation Is a Leadership Act — Not a Chore](https://dev.to/micky_c_4274c0e7c56db4dd8/why-documentation-is-a-leadership-act-not-a-chore-16j7)
-- [Dependency Injection in Go Without a Framework](https://dev.to/ohugonnot/dependency-injection-in-go-without-a-framework-3lkd)
+- [Learning Lessons from Gaming](https://dev.to/ingosteinke/learning-lessons-from-gaming-1jgm)
+- [Python&#39;s Toolchain Anxiety Problem &lpar;And How to Think About It&rpar;](https://dev.to/peytongreen_dev/pythons-toolchain-anxiety-problem-and-how-to-think-about-it-131k)
+- [How does VuReact optimize Vue 3&#39;s top-level arrow functions for React?](https://dev.to/smirk9581/how-does-vureact-optimize-vue-3s-top-level-arrow-functions-for-react-4e14)
+- [You Are Stuck Because Building Something Alone Is Uncomfortable](https://dev.to/guilherme_galanti/you-are-stuck-because-building-something-alone-is-uncomfortable-5geh)
 <!-- BLOG-POST-LIST:END -->
 
