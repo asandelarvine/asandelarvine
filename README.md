@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Curated List of Articles About Modern Software Testing](https://dev.to/randomsquirrel802/a-curated-list-of-articles-about-modern-software-testing-3ndj)
-- [&quot;Todo mundo sabe mais que eu?&quot; Como encarei a síndrome do impostor na faculdade de Computação](https://dev.to/cavalcantiraissa/todo-mundo-sabe-mais-que-eu-como-encarei-a-sindrome-do-impostor-na-faculdade-de-computacao-3fok)
-- [Escudo](https://dev.to/sugarhashira/escudo-232b)
-- [Stop Juggling 5 Tools , Python&#39;s uv Does It All &lpar;And It&#39;s Blazing Fast&rpar;](https://dev.to/shayan_holakouee/stop-juggling-5-tools-pythons-uv-does-it-all-and-its-blazing-fast-3cbm)
+- [Run Claude Code For Free &lpar;for Fun and Profit&rpar;](https://dev.to/t7y/run-claude-code-for-free-for-fun-and-profit-42al)
+- [Segment Trees: The “Divide‑and‑Conquer” Trick That Actually Makes Sense](https://dev.to/timevolt/segment-trees-the-divide-and-conquer-trick-that-actually-makes-sense-n1n)
+- [First Post](https://dev.to/incendero_ai/first-post-1gk9)
+- [The AI-Powered Classifieds Stack That Posts in Seconds](https://dev.to/slawekluzny/the-ai-powered-classifieds-stack-that-posts-in-seconds-4dd8)
 <!-- BLOG-POST-LIST:END -->
 
