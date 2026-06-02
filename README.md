@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Team Is Building Debt Your CFO Can&#39;t See. Here&#39;s the Ledger.](https://dev.to/keithjmackay/your-ai-team-is-building-debt-your-cfo-cant-see-heres-the-ledger-65c)
-- [Cluely Alternative for Mac: A Responsible Live Interview Copilot Guide](https://dev.to/extrabrain/cluely-alternative-for-mac-a-responsible-live-interview-copilot-guide-5bem)
-- [Treat AI coding sessions as project infrastructure](https://dev.to/uzoma_uche_3ec83974b4a8a5/treat-ai-coding-sessions-as-project-infrastructure-4o51)
-- [Your Deleted Google API Key Is Still Working — Here&#39;s Why That&#39;s a Security Crisis](https://dev.to/walosha/your-deleted-google-api-key-is-still-working-heres-why-thats-a-security-crisis-4mg7)
+- [Post-Mortem: How Firebase RTDB Array Coercion Bricked My React Frontend](https://dev.to/gde-guideco/post-mortem-how-firebase-rtdb-array-coercion-bricked-my-react-frontend-43g9)
+- [Launching My First NPM Package: How I Built a Headless-Browser-Free JSX PDF Engine](https://dev.to/angojay/launching-my-first-npm-package-how-i-built-a-headless-browser-free-jsx-pdf-engine-3403)
+- [Tauri v2 State Management: Patterns From 7 Shipped Apps](https://dev.to/hiyoyok/tauri-v2-state-management-patterns-from-7-shipped-apps-46e0)
+- [The Evolution of &#39;More Like This](https://dev.to/sanikolaev/the-evolution-of-more-like-this-5225)
 <!-- BLOG-POST-LIST:END -->
 
