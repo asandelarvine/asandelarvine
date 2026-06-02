@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Post-Mortem: How Firebase RTDB Array Coercion Bricked My React Frontend](https://dev.to/gde-guideco/post-mortem-how-firebase-rtdb-array-coercion-bricked-my-react-frontend-43g9)
-- [Launching My First NPM Package: How I Built a Headless-Browser-Free JSX PDF Engine](https://dev.to/angojay/launching-my-first-npm-package-how-i-built-a-headless-browser-free-jsx-pdf-engine-3403)
-- [Tauri v2 State Management: Patterns From 7 Shipped Apps](https://dev.to/hiyoyok/tauri-v2-state-management-patterns-from-7-shipped-apps-46e0)
-- [The Evolution of &#39;More Like This](https://dev.to/sanikolaev/the-evolution-of-more-like-this-5225)
+- [Stop Starting With Your SaaS Idea](https://dev.to/neve7er/stop-starting-with-your-saas-idea-39bk)
+- [Why Your Expense Workflow Is Still Leaking Data](https://dev.to/digitxbooks-official/why-your-expense-workflow-is-still-leaking-data-2n7n)
+- [Why Documentation Is a Leadership Act — Not a Chore](https://dev.to/micky_c_4274c0e7c56db4dd8/why-documentation-is-a-leadership-act-not-a-chore-16j7)
+- [Dependency Injection in Go Without a Framework](https://dev.to/ohugonnot/dependency-injection-in-go-without-a-framework-3lkd)
 <!-- BLOG-POST-LIST:END -->
 
