@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Run Claude Code For Free &lpar;for Fun and Profit&rpar;](https://dev.to/t7y/run-claude-code-for-free-for-fun-and-profit-42al)
-- [Segment Trees: The “Divide‑and‑Conquer” Trick That Actually Makes Sense](https://dev.to/timevolt/segment-trees-the-divide-and-conquer-trick-that-actually-makes-sense-n1n)
-- [First Post](https://dev.to/incendero_ai/first-post-1gk9)
-- [The AI-Powered Classifieds Stack That Posts in Seconds](https://dev.to/slawekluzny/the-ai-powered-classifieds-stack-that-posts-in-seconds-4dd8)
+- [Your AI agent shouldn&#39;t need to understand crypto to pay for APIs](https://dev.to/tufti/your-ai-agent-shouldnt-need-to-understand-crypto-to-pay-for-apis-53in)
+- [zk.egold.dev — ZK Exploit Disclosure Protocol on Ethereum](https://dev.to/ar1as1/zkegolddev-zk-exploit-disclosure-protocol-on-ethereum-o7d)
+- [How I Used Python Fuzzy Matching to Detect Duplicate Content for SEO](https://dev.to/mattjoshi/how-i-used-python-fuzzy-matching-to-detect-duplicate-content-for-seo-20ah)
+- [An open-source CSS animation library with a live preview grid, creator suite, and community submissions](https://dev.to/bilalmlkdev/an-open-source-css-animation-library-with-a-live-preview-grid-creator-suite-and-community-2hpm)
 <!-- BLOG-POST-LIST:END -->
 
