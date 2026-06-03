@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/xbill/-hmc)
-- [Building a Robust Real-Time Chat System with WebRTC DataChannels and a Sovereign State Channel](https://dev.to/therizwansaleem/building-a-robust-real-time-chat-system-with-webrtc-datachannels-and-a-sovereign-state-channel-4jd1)
-- [Cursor Developer Habits Report 2026: Why AI Coding Needs Governance Infrastructure](https://dev.to/mnemehq/cursor-developer-habits-report-2026-why-ai-coding-needs-governance-infrastructure-340m)
-- [Microsoft&#39;s Agentic Transformation Playbook Shows Why AI Agent Governance Is Now Infrastructure](https://dev.to/mnemehq/microsofts-agentic-transformation-playbook-shows-why-ai-agent-governance-is-now-infrastructure-4l6i)
+- [What the ChatGPT for Sheets data-exfiltration bug teaches about AI security](https://dev.to/contrite42/what-the-chatgpt-for-sheets-data-exfiltration-bug-teaches-about-ai-security-4j51)
+- [Before And After](https://dev.to/lingxin_wang_3b88f34b4014/before-and-after-341f)
+- [Puppetlabs Modules Roundup – May 2026](https://dev.to/puppet/puppetlabs-modules-roundup-may-2026-2gp2)
+- [Mutagen 0.4.0 Released: Service Extraction, Bug Crunches, and Fixed Persona Drift](https://dev.to/jaychkdsk/mutagen-040-released-service-extraction-bug-crunches-and-fixed-persona-drift-3o19)
 <!-- BLOG-POST-LIST:END -->
 
