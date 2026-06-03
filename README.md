@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Microservice-to-Engineer Ratio &lpar;MTR&rpar;: Why Too Many Microservices Slow Down Engineering Teams](https://dev.to/naveens16/the-microservice-to-engineer-ratio-mtr-why-too-many-microservices-slow-down-engineering-teams-5d21)
-- [PostgreSQL Connection Pooling Explained: How It Works and Why It Matters](https://dev.to/sharafathalivk/postgresql-connection-pooling-explained-how-it-works-and-why-it-matters-31g6)
-- [What it takes to run a Polymarket Up/Down arbitrage bot in production](https://dev.to/bluewhale-quant-lab/what-it-takes-to-run-a-polymarket-updown-arbitrage-bot-in-production-59co)
-- [How to make your first Machine Learning project &lpar;as an absolute beginner&rpar;](https://dev.to/shriya_upadhyay_1304/how-to-make-your-first-machine-learning-project-as-an-absolute-beginner-3ie5)
+- [[Boost]](https://dev.to/xbill/-hmc)
+- [Building a Robust Real-Time Chat System with WebRTC DataChannels and a Sovereign State Channel](https://dev.to/therizwansaleem/building-a-robust-real-time-chat-system-with-webrtc-datachannels-and-a-sovereign-state-channel-4jd1)
+- [Cursor Developer Habits Report 2026: Why AI Coding Needs Governance Infrastructure](https://dev.to/mnemehq/cursor-developer-habits-report-2026-why-ai-coding-needs-governance-infrastructure-340m)
+- [Microsoft&#39;s Agentic Transformation Playbook Shows Why AI Agent Governance Is Now Infrastructure](https://dev.to/mnemehq/microsofts-agentic-transformation-playbook-shows-why-ai-agent-governance-is-now-infrastructure-4l6i)
 <!-- BLOG-POST-LIST:END -->
 
