@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What the ChatGPT for Sheets data-exfiltration bug teaches about AI security](https://dev.to/contrite42/what-the-chatgpt-for-sheets-data-exfiltration-bug-teaches-about-ai-security-4j51)
-- [Before And After](https://dev.to/lingxin_wang_3b88f34b4014/before-and-after-341f)
-- [Puppetlabs Modules Roundup – May 2026](https://dev.to/puppet/puppetlabs-modules-roundup-may-2026-2gp2)
-- [Mutagen 0.4.0 Released: Service Extraction, Bug Crunches, and Fixed Persona Drift](https://dev.to/jaychkdsk/mutagen-040-released-service-extraction-bug-crunches-and-fixed-persona-drift-3o19)
+- [Why AI Agents Keep Breaking Your Code &lpar;And What to Do About It&rpar;](https://dev.to/artem_kholomyanskiy_9d803/why-ai-agents-keep-breaking-your-code-and-what-to-do-about-it-5bp0)
+- [The Safety Workaround That Worked, Until It Didn&#39;t](https://dev.to/sudee_sim/the-safety-workaround-that-worked-until-it-didnt-4hlb)
+- [I used to guard buildings. Now I guard codebases.](https://dev.to/onfafanutifafa/i-used-to-guard-buildings-now-i-guard-codebases-22p3)
+- [Opendria – Historical AI characters simulating brain, emotional &amp; cognitive states](https://dev.to/opendria/opendria-historical-ai-characters-simulating-brain-emotional-cognitive-states-30mc)
 <!-- BLOG-POST-LIST:END -->
 
