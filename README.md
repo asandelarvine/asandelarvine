@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI agent shouldn&#39;t need to understand crypto to pay for APIs](https://dev.to/tufti/your-ai-agent-shouldnt-need-to-understand-crypto-to-pay-for-apis-53in)
-- [zk.egold.dev — ZK Exploit Disclosure Protocol on Ethereum](https://dev.to/ar1as1/zkegolddev-zk-exploit-disclosure-protocol-on-ethereum-o7d)
-- [How I Used Python Fuzzy Matching to Detect Duplicate Content for SEO](https://dev.to/mattjoshi/how-i-used-python-fuzzy-matching-to-detect-duplicate-content-for-seo-20ah)
-- [An open-source CSS animation library with a live preview grid, creator suite, and community submissions](https://dev.to/bilalmlkdev/an-open-source-css-animation-library-with-a-live-preview-grid-creator-suite-and-community-2hpm)
+- [CAP Theorem Explained](https://dev.to/abdullah_bajwa_2072d8a81b/cap-theorem-explained-1h00)
+- [Vibe Coding Is Fun. Here&#39;s the Security Bill Nobody Mentions.](https://dev.to/virendra2902/vibe-coding-is-fun-heres-the-security-bill-nobody-mentions-4ki0)
+- [I Was Asked to Add a Simple Classifier to a Website. Then I Saw the 250 MB Download.](https://dev.to/xzdes/i-was-asked-to-add-a-simple-classifier-to-a-website-then-i-saw-the-250-mb-download-1id)
+- [I Built the Zimnovate Agency Site With Astro and Google PageSpeed Gave It a Perfect Score Here&#39;s Why You Should Learn Astro](https://dev.to/vincent_mugondora_599ed60/i-built-the-zimnovate-agency-site-with-astro-and-google-pagespeed-gave-it-a-perfect-score-heres-4img)
 <!-- BLOG-POST-LIST:END -->
 
