@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CAP Theorem Explained](https://dev.to/abdullah_bajwa_2072d8a81b/cap-theorem-explained-1h00)
-- [Vibe Coding Is Fun. Here&#39;s the Security Bill Nobody Mentions.](https://dev.to/virendra2902/vibe-coding-is-fun-heres-the-security-bill-nobody-mentions-4ki0)
-- [I Was Asked to Add a Simple Classifier to a Website. Then I Saw the 250 MB Download.](https://dev.to/xzdes/i-was-asked-to-add-a-simple-classifier-to-a-website-then-i-saw-the-250-mb-download-1id)
-- [I Built the Zimnovate Agency Site With Astro and Google PageSpeed Gave It a Perfect Score Here&#39;s Why You Should Learn Astro](https://dev.to/vincent_mugondora_599ed60/i-built-the-zimnovate-agency-site-with-astro-and-google-pagespeed-gave-it-a-perfect-score-heres-4img)
+- [The Microservice-to-Engineer Ratio &lpar;MTR&rpar;: Why Too Many Microservices Slow Down Engineering Teams](https://dev.to/naveens16/the-microservice-to-engineer-ratio-mtr-why-too-many-microservices-slow-down-engineering-teams-5d21)
+- [PostgreSQL Connection Pooling Explained: How It Works and Why It Matters](https://dev.to/sharafathalivk/postgresql-connection-pooling-explained-how-it-works-and-why-it-matters-31g6)
+- [What it takes to run a Polymarket Up/Down arbitrage bot in production](https://dev.to/bluewhale-quant-lab/what-it-takes-to-run-a-polymarket-updown-arbitrage-bot-in-production-59co)
+- [How to make your first Machine Learning project &lpar;as an absolute beginner&rpar;](https://dev.to/shriya_upadhyay_1304/how-to-make-your-first-machine-learning-project-as-an-absolute-beginner-3ie5)
 <!-- BLOG-POST-LIST:END -->
 
