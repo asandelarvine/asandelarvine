@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Conditional Statements](https://dev.to/raja_b_0c9d242e2c26cf063b/conditional-statements-4adb)
-- [RTL Shims: System.SysUtils and Classes | RTL: shims System.SysUtils e Classes](https://dev.to/crabpascal/rtl-shims-systemsysutils-and-classes-rtl-shims-systemsysutils-e-classes-39pl)
-- [Swift Enums](https://dev.to/gamya_m/swift-enums-3741)
-- [How I rotate Sanity draft mode secrets at the edge without redeploying Next.js](https://dev.to/nayankyada/how-i-rotate-sanity-draft-mode-secrets-at-the-edge-without-redeploying-nextjs-81b)
+- [Use gst for an Overview of Every Git State](https://dev.to/lef237/use-gst-for-an-overview-of-every-git-state-35km)
+- [Why React Components Will Change How You Think About UI](https://dev.to/kahenda/why-react-components-will-change-how-you-think-about-ui-1i3b)
+- [React Components: The Building Blocks You Need to Know](https://dev.to/kahenda/react-components-the-building-blocks-you-need-to-know-215k)
+- [Dual-Mode Build: Interpret vs Native C | Dual-mode: interpretar vs C nativo](https://dev.to/crabpascal/dual-mode-build-interpret-vs-native-c-dual-mode-interpretar-vs-c-nativo-3n06)
 <!-- BLOG-POST-LIST:END -->
 
