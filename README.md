@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Cost Attribution with OTel, Next.js for AI Agents, LLM Security Testing](https://dev.to/soytuber/llm-cost-attribution-with-otel-nextjs-for-ai-agents-llm-security-testing-38ng)
-- [SQLite Optimizer Deep Dive, Change-Set Internals &amp; Azure PostgreSQL Architecture](https://dev.to/soytuber/sqlite-optimizer-deep-dive-change-set-internals-azure-postgresql-architecture-1hgk)
-- [NousResearch Agent, Open-Source Notebook LM, &amp; Local Multimodal OCR for Consumer GPUs](https://dev.to/soytuber/nousresearch-agent-open-source-notebook-lm-local-multimodal-ocr-for-consumer-gpus-3pjm)
-- [Should AI Help Write the Tests, or Change What You Test?](https://dev.to/randomsquirrel802/should-ai-help-write-the-tests-or-change-what-you-test-5ff7)
+- [I built a Databricks medallion lakehouse to roast my own YouTube history &lpar;Bronze Silver Gold Existential Dread&rpar;](https://dev.to/shaanalpha/i-built-a-databricks-medallion-lakehouse-to-roast-my-own-youtube-history-bronze-silver-gold--2m9m)
+- [I Built a Python Pipeline That Drafts Affiliate Articles Locally with Claude — Here&#39;s the Code, the 41-Second Run, and the Bug T](https://dev.to/_7fb6011b57d383122b5a/i-built-a-python-pipeline-that-drafts-affiliate-articles-locally-with-claude-heres-the-code-the-50ib)
+- [AI API gateway vendor evaluation checklist for SaaS teams](https://dev.to/jacksoul_c3a27b9c8184/ai-api-gateway-vendor-evaluation-checklist-for-saas-teams-4b3i)
+- [Estou criando minha própria linguagem de programação em Python](https://dev.to/callebe_josuecantu/estou-criando-minha-propria-linguagem-de-programacao-em-python-57e2)
 <!-- BLOG-POST-LIST:END -->
 
