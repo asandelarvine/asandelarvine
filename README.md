@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Started Building Vix.cpp](https://dev.to/gkirira/why-i-started-building-vixcpp-1fem)
-- [Agent-Safe Angular Components: Copy-Paste MCP + Skills Setup for Verified AI Development](https://dev.to/turingsoracle/agent-safe-angular-components-copy-paste-mcp-skills-setup-for-verified-ai-development-32ai)
-- [Zigbee Smart Lights Keep Disconnecting? Here&#39;s Your Complete Troubleshooting Guide](https://dev.to/lamp_nex_8cbfdfb5b5aa6b50/zigbee-smart-lights-keep-disconnecting-heres-your-complete-troubleshooting-guide-f0i)
-- [CrabPascal Parser: From Tokens to AST | Parser: de tokens à AST](https://dev.to/crabpascal/crabpascal-parser-from-tokens-to-ast-parser-de-tokens-a-ast-270d)
+- [Conditional Statements](https://dev.to/raja_b_0c9d242e2c26cf063b/conditional-statements-4adb)
+- [RTL Shims: System.SysUtils and Classes | RTL: shims System.SysUtils e Classes](https://dev.to/crabpascal/rtl-shims-systemsysutils-and-classes-rtl-shims-systemsysutils-e-classes-39pl)
+- [Swift Enums](https://dev.to/gamya_m/swift-enums-3741)
+- [How I rotate Sanity draft mode secrets at the edge without redeploying Next.js](https://dev.to/nayankyada/how-i-rotate-sanity-draft-mode-secrets-at-the-edge-without-redeploying-nextjs-81b)
 <!-- BLOG-POST-LIST:END -->
 
