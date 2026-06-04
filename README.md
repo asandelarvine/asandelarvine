@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlock Your Knowledge: QMD Brings Local AI Search to Your Notes and Docs](https://dev.to/githubopensource/unlock-your-knowledge-qmd-brings-local-ai-search-to-your-notes-and-docs-5a55)
-- [DIRTY is yours to fix.](https://dev.to/earthbound_misfit/dirty-is-yours-to-fix-hhc)
-- [From Delphi Developer to CrabPascal | Do desenvolvedor Delphi ao CrabPascal](https://dev.to/crabpascal/from-delphi-developer-to-crabpascal-do-desenvolvedor-delphi-ao-crabpascal-jeg)
-- [From Pure Curiosity to Web Dev to GenAI: My 3-Year Coding Journey](https://dev.to/withkunal/from-pure-curiosity-to-web-dev-to-genai-my-3-year-coding-journey-j4n)
+- [Why Dremio&#39;s Value Is Unique to Apache Iceberg Lakehouses and Agentic Analytics](https://dev.to/alexmercedcoder/why-dremios-value-is-unique-to-apache-iceberg-lakehouses-and-agentic-analytics-3oln)
+- [Org rules and project rules need different homes](https://dev.to/tacoda/org-rules-and-project-rules-need-different-homes-4n0h)
+- [Building a Real Cybersecurity Lab on Your Laptop](https://dev.to/arashad_dodhiya_0e4bdba5a/building-a-real-cybersecurity-lab-on-your-laptop-5hcg)
+- [Observability untuk Developer: Kenapa Log Saja Tidak Cukup di 2026](https://dev.to/ai_code_5c8f03cd630c072b1/observability-untuk-developer-kenapa-log-saja-tidak-cukup-di-2026-3jg0)
 <!-- BLOG-POST-LIST:END -->
 
