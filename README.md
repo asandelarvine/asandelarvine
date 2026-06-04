@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Dremio&#39;s Value Is Unique to Apache Iceberg Lakehouses and Agentic Analytics](https://dev.to/alexmercedcoder/why-dremios-value-is-unique-to-apache-iceberg-lakehouses-and-agentic-analytics-3oln)
-- [Org rules and project rules need different homes](https://dev.to/tacoda/org-rules-and-project-rules-need-different-homes-4n0h)
-- [Building a Real Cybersecurity Lab on Your Laptop](https://dev.to/arashad_dodhiya_0e4bdba5a/building-a-real-cybersecurity-lab-on-your-laptop-5hcg)
-- [Observability untuk Developer: Kenapa Log Saja Tidak Cukup di 2026](https://dev.to/ai_code_5c8f03cd630c072b1/observability-untuk-developer-kenapa-log-saja-tidak-cukup-di-2026-3jg0)
+- [LLM Cost Attribution with OTel, Next.js for AI Agents, LLM Security Testing](https://dev.to/soytuber/llm-cost-attribution-with-otel-nextjs-for-ai-agents-llm-security-testing-38ng)
+- [SQLite Optimizer Deep Dive, Change-Set Internals &amp; Azure PostgreSQL Architecture](https://dev.to/soytuber/sqlite-optimizer-deep-dive-change-set-internals-azure-postgresql-architecture-1hgk)
+- [NousResearch Agent, Open-Source Notebook LM, &amp; Local Multimodal OCR for Consumer GPUs](https://dev.to/soytuber/nousresearch-agent-open-source-notebook-lm-local-multimodal-ocr-for-consumer-gpus-3pjm)
+- [Should AI Help Write the Tests, or Change What You Test?](https://dev.to/randomsquirrel802/should-ai-help-write-the-tests-or-change-what-you-test-5ff7)
 <!-- BLOG-POST-LIST:END -->
 
