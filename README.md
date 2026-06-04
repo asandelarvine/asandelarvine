@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Agents Keep Breaking Your Code &lpar;And What to Do About It&rpar;](https://dev.to/artem_kholomyanskiy_9d803/why-ai-agents-keep-breaking-your-code-and-what-to-do-about-it-5bp0)
-- [The Safety Workaround That Worked, Until It Didn&#39;t](https://dev.to/sudee_sim/the-safety-workaround-that-worked-until-it-didnt-4hlb)
-- [I used to guard buildings. Now I guard codebases.](https://dev.to/onfafanutifafa/i-used-to-guard-buildings-now-i-guard-codebases-22p3)
-- [Opendria – Historical AI characters simulating brain, emotional &amp; cognitive states](https://dev.to/opendria/opendria-historical-ai-characters-simulating-brain-emotional-cognitive-states-30mc)
+- [Why I Started Building Vix.cpp](https://dev.to/gkirira/why-i-started-building-vixcpp-1fem)
+- [Agent-Safe Angular Components: Copy-Paste MCP + Skills Setup for Verified AI Development](https://dev.to/turingsoracle/agent-safe-angular-components-copy-paste-mcp-skills-setup-for-verified-ai-development-32ai)
+- [Zigbee Smart Lights Keep Disconnecting? Here&#39;s Your Complete Troubleshooting Guide](https://dev.to/lamp_nex_8cbfdfb5b5aa6b50/zigbee-smart-lights-keep-disconnecting-heres-your-complete-troubleshooting-guide-f0i)
+- [CrabPascal Parser: From Tokens to AST | Parser: de tokens à AST](https://dev.to/crabpascal/crabpascal-parser-from-tokens-to-ast-parser-de-tokens-a-ast-270d)
 <!-- BLOG-POST-LIST:END -->
 
