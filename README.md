@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bulletproof Your Java APIs: Automating Tests with REST-Assured](https://dev.to/ikers/bulletproof-your-java-apis-automating-tests-with-rest-assured-4adb)
-- [Mastering API Testing with Postman: A Real-World Automation Guide](https://dev.to/ikers/mastering-api-testing-with-postman-a-real-world-automation-guide-24dk)
-- [How I Built a Multi-Product AI API Business on Railway — FastAPI + Stripe + x402 + MCP in One Stack](https://dev.to/thebrierfox/how-i-built-a-multi-product-ai-api-business-on-railway-fastapi-stripe-x402-mcp-in-one-stack-271e)
-- [Mid-Year Reviews: Beyond Performance Metrics](https://dev.to/davidohnstad/mid-year-reviews-beyond-performance-metrics-5dpn)
+- [Great Stack to Doesn&#39;t Work #6 — CI/CD: &quot;Pipeline Green, Production Red&quot;](https://dev.to/turacthethinker/great-stack-to-doesnt-work-6-cicd-pipeline-green-production-red-5a5m)
+- [Keep the Credit Ledger Off-Chain. Checkpoint It On-Chain.](https://dev.to/newtorob/keep-the-credit-ledger-off-chain-checkpoint-it-on-chain-4acf)
+- [Why a Short Task List Can Still Feel Heavy &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/why-a-short-task-list-can-still-feel-heavy-bite-size-article-43bc)
+- [How to Back Up Your Server Files and Database &lpar;Before You Learn the Hard Way&rpar;](https://dev.to/christophchi/how-to-back-up-your-server-files-and-database-before-you-learn-the-hard-way-2962)
 <!-- BLOG-POST-LIST:END -->
 
