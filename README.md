@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [headroom, OpenRouter, MAI-Code-1-Flash — the week the agent runtime bill arrived](https://dev.to/moonsu1627/headroom-openrouter-mai-code-1-flash-the-week-the-agent-runtime-bill-arrived-2bfc)
-- [Stop Guessing Frame Drops: Passive Zero Overhead Performance Telemetry for Flutter](https://dev.to/muhammad_omar_0f70d9ecf59/stop-guessing-frame-drops-passive-zero-overhead-performance-telemetry-for-flutter-hi7)
-- [Hi, I&#39;m new here... I would like you to take a look at the prototype I developed to learn the basics of web development :&rpar;](https://dev.to/hgs/hi-im-new-here-i-would-like-you-to-take-a-look-at-the-prototype-i-developed-to-learn-the-34f1)
-- [Channel &amp; Frekuensi Wi-Fi 2.4 GHz](https://dev.to/fixploit03/channel-frekuensi-wi-fi-24-ghz-1lfj)
+- [Why TPUs Aren&#39;t Popular &lpar;Even Though They&#39;re Cheaper Per Token&rpar;](https://dev.to/toyama0919/why-tpus-arent-popular-even-though-theyre-cheaper-per-token-188g)
+- [When HTML parsing fails: using LLMs to extract messy web data](https://dev.to/__c1b9e06dc90a7e0a676b/when-html-parsing-fails-using-llms-to-extract-messy-web-data-20ab)
+- [Pow&lpar;x, n&rpar;](https://dev.to/jaspreet_singh_86ae1740ac/powx-n-2i55)
+- [Built an AI-Powered Spring Boot Log Analyzer Using RAG + Ollama](https://dev.to/swapnil_shitole_2fc46b932/built-an-ai-powered-spring-boot-log-analyzer-using-rag-ollama-21d7)
 <!-- BLOG-POST-LIST:END -->
 
