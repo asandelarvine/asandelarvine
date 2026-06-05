@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Databricks medallion lakehouse to roast my own YouTube history &lpar;Bronze Silver Gold Existential Dread&rpar;](https://dev.to/shaanalpha/i-built-a-databricks-medallion-lakehouse-to-roast-my-own-youtube-history-bronze-silver-gold--2m9m)
-- [I Built a Python Pipeline That Drafts Affiliate Articles Locally with Claude — Here&#39;s the Code, the 41-Second Run, and the Bug T](https://dev.to/_7fb6011b57d383122b5a/i-built-a-python-pipeline-that-drafts-affiliate-articles-locally-with-claude-heres-the-code-the-50ib)
-- [AI API gateway vendor evaluation checklist for SaaS teams](https://dev.to/jacksoul_c3a27b9c8184/ai-api-gateway-vendor-evaluation-checklist-for-saas-teams-4b3i)
-- [Estou criando minha própria linguagem de programação em Python](https://dev.to/callebe_josuecantu/estou-criando-minha-propria-linguagem-de-programacao-em-python-57e2)
+- [headroom, OpenRouter, MAI-Code-1-Flash — the week the agent runtime bill arrived](https://dev.to/moonsu1627/headroom-openrouter-mai-code-1-flash-the-week-the-agent-runtime-bill-arrived-2bfc)
+- [Stop Guessing Frame Drops: Passive Zero Overhead Performance Telemetry for Flutter](https://dev.to/muhammad_omar_0f70d9ecf59/stop-guessing-frame-drops-passive-zero-overhead-performance-telemetry-for-flutter-hi7)
+- [Hi, I&#39;m new here... I would like you to take a look at the prototype I developed to learn the basics of web development :&rpar;](https://dev.to/hgs/hi-im-new-here-i-would-like-you-to-take-a-look-at-the-prototype-i-developed-to-learn-the-34f1)
+- [Channel &amp; Frekuensi Wi-Fi 2.4 GHz](https://dev.to/fixploit03/channel-frekuensi-wi-fi-24-ghz-1lfj)
 <!-- BLOG-POST-LIST:END -->
 
