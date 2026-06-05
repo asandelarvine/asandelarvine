@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Great Stack to Doesn&#39;t Work #6 — CI/CD: &quot;Pipeline Green, Production Red&quot;](https://dev.to/turacthethinker/great-stack-to-doesnt-work-6-cicd-pipeline-green-production-red-5a5m)
-- [Keep the Credit Ledger Off-Chain. Checkpoint It On-Chain.](https://dev.to/newtorob/keep-the-credit-ledger-off-chain-checkpoint-it-on-chain-4acf)
-- [Why a Short Task List Can Still Feel Heavy &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/why-a-short-task-list-can-still-feel-heavy-bite-size-article-43bc)
-- [How to Back Up Your Server Files and Database &lpar;Before You Learn the Hard Way&rpar;](https://dev.to/christophchi/how-to-back-up-your-server-files-and-database-before-you-learn-the-hard-way-2962)
+- [Testing Email Workflows Without Email Server — With Playwright &amp; Mokapi](https://dev.to/marcel_lehmann_31109127df/testing-email-workflows-without-email-server-with-playwright-mokapi-b25)
+- [Why I Bypassed the Cloud Treadmill to Build a 100% Independent Self-Hosted Stack](https://dev.to/ownthestack/why-i-bypassed-the-cloud-treadmill-to-build-a-100-independent-self-hosted-stack-3d1b)
+- [What Am I Actually Depending On? A Practical Approach to Data Sovereignty](https://dev.to/ownthestack/what-am-i-actually-depending-on-a-practical-approach-to-data-sovereignty-dd8)
+- [My Next.js 16 button was visible and completely dead in production. Here&#39;s why.](https://dev.to/aurinaileandot/my-nextjs-16-button-was-visible-and-completely-dead-in-production-heres-whyx-4k1b)
 <!-- BLOG-POST-LIST:END -->
 
