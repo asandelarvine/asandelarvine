@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ZenQL, KISS And DRY.](https://dev.to/zenql/zenql-kiss-and-dry-59lh)
-- [Install PHP 8.5 with ASDF on Arch Linux](https://dev.to/jeanmfdias/install-php-85-with-asdf-on-arch-linux-25g8)
-- [The Inventory Master](https://dev.to/structured_chaos/the-inventory-master-4kic)
-- [The repo that became its own good-first-issue](https://dev.to/drkrillo/the-repo-that-became-its-own-good-first-issue-32d4)
+- [Bulletproof Your Java APIs: Automating Tests with REST-Assured](https://dev.to/ikers/bulletproof-your-java-apis-automating-tests-with-rest-assured-4adb)
+- [Mastering API Testing with Postman: A Real-World Automation Guide](https://dev.to/ikers/mastering-api-testing-with-postman-a-real-world-automation-guide-24dk)
+- [How I Built a Multi-Product AI API Business on Railway — FastAPI + Stripe + x402 + MCP in One Stack](https://dev.to/thebrierfox/how-i-built-a-multi-product-ai-api-business-on-railway-fastapi-stripe-x402-mcp-in-one-stack-271e)
+- [Mid-Year Reviews: Beyond Performance Metrics](https://dev.to/davidohnstad/mid-year-reviews-beyond-performance-metrics-5dpn)
 <!-- BLOG-POST-LIST:END -->
 
