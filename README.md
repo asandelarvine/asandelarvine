@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why TPUs Aren&#39;t Popular &lpar;Even Though They&#39;re Cheaper Per Token&rpar;](https://dev.to/toyama0919/why-tpus-arent-popular-even-though-theyre-cheaper-per-token-188g)
-- [When HTML parsing fails: using LLMs to extract messy web data](https://dev.to/__c1b9e06dc90a7e0a676b/when-html-parsing-fails-using-llms-to-extract-messy-web-data-20ab)
-- [Pow&lpar;x, n&rpar;](https://dev.to/jaspreet_singh_86ae1740ac/powx-n-2i55)
-- [Built an AI-Powered Spring Boot Log Analyzer Using RAG + Ollama](https://dev.to/swapnil_shitole_2fc46b932/built-an-ai-powered-spring-boot-log-analyzer-using-rag-ollama-21d7)
+- [Rate limiting in web apps: what to protect before picking a library](https://dev.to/jtorchia/rate-limiting-in-web-apps-what-to-protect-before-picking-a-library-4fki)
+- [Rate limiting en aplicaciones web: qué proteger antes de elegir una librería](https://dev.to/jtorchia/rate-limiting-en-aplicaciones-web-que-proteger-antes-de-elegir-una-libreria-202n)
+- [My LLM API Bill Hit $847/Month. Here is the Open-Source Proxy That Cut It to $89.](https://dev.to/kaithorne/my-llm-api-bill-hit-847month-here-is-the-open-source-proxy-that-cut-it-to-89-kn7)
+- [built a 24K-line transactional SQL engine from scratch in Rust—no RocksDB/SQLite wrappers. From sharded memtables to a cost-based optimizer and SSI, here is how I designed it: https://github.com/SBALAVIGNESH123/OmniKV](https://dev.to/sbalavignesh123/built-a-24k-line-transactional-sql-engine-from-scratch-in-rust-no-rocksdbsqlite-wrappers-from-25a9)
 <!-- BLOG-POST-LIST:END -->
 
