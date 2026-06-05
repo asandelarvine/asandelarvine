@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rate limiting in web apps: what to protect before picking a library](https://dev.to/jtorchia/rate-limiting-in-web-apps-what-to-protect-before-picking-a-library-4fki)
-- [Rate limiting en aplicaciones web: qué proteger antes de elegir una librería](https://dev.to/jtorchia/rate-limiting-en-aplicaciones-web-que-proteger-antes-de-elegir-una-libreria-202n)
-- [My LLM API Bill Hit $847/Month. Here is the Open-Source Proxy That Cut It to $89.](https://dev.to/kaithorne/my-llm-api-bill-hit-847month-here-is-the-open-source-proxy-that-cut-it-to-89-kn7)
-- [built a 24K-line transactional SQL engine from scratch in Rust—no RocksDB/SQLite wrappers. From sharded memtables to a cost-based optimizer and SSI, here is how I designed it: https://github.com/SBALAVIGNESH123/OmniKV](https://dev.to/sbalavignesh123/built-a-24k-line-transactional-sql-engine-from-scratch-in-rust-no-rocksdbsqlite-wrappers-from-25a9)
+- [ZenQL, KISS And DRY.](https://dev.to/zenql/zenql-kiss-and-dry-59lh)
+- [Install PHP 8.5 with ASDF on Arch Linux](https://dev.to/jeanmfdias/install-php-85-with-asdf-on-arch-linux-25g8)
+- [The Inventory Master](https://dev.to/structured_chaos/the-inventory-master-4kic)
+- [The repo that became its own good-first-issue](https://dev.to/drkrillo/the-repo-that-became-its-own-good-first-issue-32d4)
 <!-- BLOG-POST-LIST:END -->
 
