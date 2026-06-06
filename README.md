@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Automate LinkedIn Posts with n8n and the LinkedIn API](https://dev.to/-abdullah-sheikh/how-to-automate-linkedin-posts-with-n8n-and-the-linkedin-api-5eoc)
-- [Why Dynamic Programming Feels Impossible &lpar;And the 5 Patterns That Fix It&rpar;](https://dev.to/expora/why-dynamic-programming-feels-impossible-and-the-5-patterns-that-fix-it-8op)
-- [AirTrunk&#39;s $30B India AI buildout: what it means for us](https://dev.to/induwara_ashinsana_9e4d5b/airtrunks-30b-india-ai-buildout-what-it-means-for-us-4af3)
-- [I Audited 11 Calculator Websites for Trackers — Then Built One With Zero](https://dev.to/calciq_a131b58533cd272e42/i-audited-11-calculator-websites-for-trackers-then-built-one-with-zero-2845)
+- [We Built a Kubernetes Desktop App That Actually Replaces Your Entire Workflow — Podscape v4.0](https://dev.to/imajeetyadav/we-built-a-kubernetes-desktop-app-that-actually-replaces-your-entire-workflow-podscape-v40-1od0)
+- [Rethinking Design Systems: When Code Becomes the Source of Truth](https://dev.to/joshjhall/rethinking-design-systems-when-code-becomes-the-source-of-truth-3g28)
+- [Excel For Data Analytics](https://dev.to/rodney_nyamu_b29ae4156085/excel-for-data-analytics-24fb)
+- [OSI Model in the Real World: From Your Browser to the Server](https://dev.to/roboticela/osi-model-in-the-real-world-from-your-browser-to-the-server-d1p)
 <!-- BLOG-POST-LIST:END -->
 
