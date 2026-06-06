@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a LangGraph RAG Agent from Scratch — with a Live UI That Shows Every Step](https://dev.to/ameya_joshi_68fa01c3a1a16/building-a-langgraph-rag-agent-from-scratch-with-a-live-ui-that-shows-every-step-4nle)
-- [SEO Didn&#39;t Die. Distribution Did.](https://dev.to/tomy_romy_a945c9f7e4e4b36/seo-didnt-die-distribution-did-4370)
-- [Why mobx-react-form Is the Best Form Library You&#39;re Not Using](https://dev.to/foxhound87/why-mobx-react-form-is-the-best-form-library-youre-not-using-16kd)
-- [How to Orchestrate Autonomous Sub-Agents Without Blowing Your LLM Context Window](https://dev.to/programmingcentral/how-to-orchestrate-autonomous-sub-agents-without-blowing-your-llm-context-window-jpo)
+- [How to Uninstall Hermes Desktop from macOS](https://dev.to/0xkoji/how-to-uninstall-hermes-desktop-from-macos-366j)
+- [We built a coding harness that beats frontier models using open ones. It&#39;s in open beta.](https://dev.to/jon_at_backboardio/we-built-a-coding-harness-that-beats-frontier-models-using-open-ones-its-in-open-beta-15g3)
+- [5 micro-SaaS ideas devs are asking for on Reddit](https://dev.to/notomarsol/5-micro-saas-ideas-devs-are-asking-for-on-reddit-5ce2)
+- [DuckDB 1.5.3 &amp; Quack Protocol Release; PostgreSQL File Descriptor Tuning](https://dev.to/soytuber/duckdb-153-quack-protocol-release-postgresql-file-descriptor-tuning-2jhj)
 <!-- BLOG-POST-LIST:END -->
 
