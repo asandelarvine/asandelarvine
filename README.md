@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Generated Replies at Scale: Lessons from 100K+ Automated Responses](https://dev.to/helperx/ai-generated-replies-at-scale-lessons-from-100k-automated-responses-321f)
-- [Automating Daily Dev Chores with Claude Code and GitHub Actions: 3 Workflows I Use](https://dev.to/_7fb6011b57d383122b5a/automating-daily-dev-chores-with-claude-code-and-github-actions-3-workflows-that-saved-me-6-hours-54gh)
-- [Fine-tuned 7B LLM as a broke student. And Can&#39;t even use it 😭.](https://dev.to/akshat-ray/fine-tuned-7b-llm-as-a-broke-student-and-cant-even-use-it--de7)
-- [Why is Writing ERP Software So Difficult?](https://dev.to/merbayerp/why-is-writing-erp-software-so-difficult-1ape)
+- [BoxAgnts Runtime &lpar;6&rpar; — Rust + WASM, Local-First](https://dev.to/guyoung/boxagnts-runtime-6-rust-wasm-local-first-3dec)
+- [AI Can Generate Kubernetes YAML — But Is the CKA Still Worth It in 2026?](https://dev.to/shahzadahmad91/ai-can-generate-kubernetes-yaml-but-is-the-cka-still-worth-it-in-2026-3j0l)
+- [GitHub Copilot Just Changed How It Charges You, Here&#39;s What It Means](https://dev.to/dev_encyclopedia/github-copilot-just-changed-how-it-charges-you-heres-what-it-means-hic)
+- [I got tired of waiting for deploys, so I built a local Lambda runner](https://dev.to/math-krish/i-got-tired-of-waiting-for-deploys-so-i-built-a-local-lambda-runner-4ghk)
 <!-- BLOG-POST-LIST:END -->
 
