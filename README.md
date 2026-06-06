@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BoxAgnts Runtime &lpar;6&rpar; — Rust + WASM, Local-First](https://dev.to/guyoung/boxagnts-runtime-6-rust-wasm-local-first-3dec)
-- [AI Can Generate Kubernetes YAML — But Is the CKA Still Worth It in 2026?](https://dev.to/shahzadahmad91/ai-can-generate-kubernetes-yaml-but-is-the-cka-still-worth-it-in-2026-3j0l)
-- [GitHub Copilot Just Changed How It Charges You, Here&#39;s What It Means](https://dev.to/dev_encyclopedia/github-copilot-just-changed-how-it-charges-you-heres-what-it-means-hic)
-- [I got tired of waiting for deploys, so I built a local Lambda runner](https://dev.to/math-krish/i-got-tired-of-waiting-for-deploys-so-i-built-a-local-lambda-runner-4ghk)
+- [Read the base-branch column.](https://dev.to/earthbound_misfit/read-the-base-branch-column-597m)
+- [AI Companies Are Paying Millions for Your Old Reddit Posts. Here&#39;s Why That Should Concern You.](https://dev.to/nimay_04/ai-companies-are-paying-millions-for-your-old-reddit-posts-heres-why-that-should-concern-you-4h5l)
+- [Why Most AI Content Pipelines Fail at Scale &lpar;And How to Fix It&rpar;](https://dev.to/claudia-ve/why-most-ai-content-pipelines-fail-at-scale-and-how-to-fix-it-l3c)
+- [Terraform in Real Life — Building Your First Cloud Infrastructure Step by Step](https://dev.to/navyabhat/terraform-in-real-life-building-your-first-cloud-infrastructure-step-by-step-5bjp)
 <!-- BLOG-POST-LIST:END -->
 
