@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We Built a Kubernetes Desktop App That Actually Replaces Your Entire Workflow — Podscape v4.0](https://dev.to/imajeetyadav/we-built-a-kubernetes-desktop-app-that-actually-replaces-your-entire-workflow-podscape-v40-1od0)
-- [Rethinking Design Systems: When Code Becomes the Source of Truth](https://dev.to/joshjhall/rethinking-design-systems-when-code-becomes-the-source-of-truth-3g28)
-- [Excel For Data Analytics](https://dev.to/rodney_nyamu_b29ae4156085/excel-for-data-analytics-24fb)
-- [OSI Model in the Real World: From Your Browser to the Server](https://dev.to/roboticela/osi-model-in-the-real-world-from-your-browser-to-the-server-d1p)
+- [Build a CRM Backend on Notion&#39;s API in 2026: $5/Month Stack with Node.js](https://dev.to/trackstack/build-a-crm-backend-on-notions-api-in-2026-5month-stack-with-nodejs-4d37)
+- [How to Write an Architecture Decision Record Engineers Actually Read](https://dev.to/crescevo/how-to-write-an-architecture-decision-record-engineers-actually-read-5552)
+- [Scarab Diagnostic Suite Field Test #012: Next.js Source Map Provenance Boundary](https://dev.to/scarab-systems/-scarab-diagnostic-suite-field-test-012-nextjs-source-map-provenance-boundary-44mk)
+- [A practical pipeline for turning messy business documents into spreadsheets](https://dev.to/alex_zheng_49d3089c0d3fdf/a-practical-pipeline-for-turning-messy-business-documents-into-spreadsheets-4bj7)
 <!-- BLOG-POST-LIST:END -->
 
