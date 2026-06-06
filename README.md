@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a CRM Backend on Notion&#39;s API in 2026: $5/Month Stack with Node.js](https://dev.to/trackstack/build-a-crm-backend-on-notions-api-in-2026-5month-stack-with-nodejs-4d37)
-- [How to Write an Architecture Decision Record Engineers Actually Read](https://dev.to/crescevo/how-to-write-an-architecture-decision-record-engineers-actually-read-5552)
-- [Scarab Diagnostic Suite Field Test #012: Next.js Source Map Provenance Boundary](https://dev.to/scarab-systems/-scarab-diagnostic-suite-field-test-012-nextjs-source-map-provenance-boundary-44mk)
-- [A practical pipeline for turning messy business documents into spreadsheets](https://dev.to/alex_zheng_49d3089c0d3fdf/a-practical-pipeline-for-turning-messy-business-documents-into-spreadsheets-4bj7)
+- [106. LangGraph: Stateful Agent Workflows](https://dev.to/yakhilesh/106-langgraph-stateful-agent-workflows-2oh3)
+- [Compass v1.1.0 · we shipped a memory plugin that catches its own consumption drift](https://dev.to/chunxiaoxx/compass-v110-we-shipped-a-memory-plugin-that-catches-its-own-consumption-drift-47en)
+- [Your file-sharing server shouldn&#39;t be able to read your files. Here&#39;s how I made sure mine can&#39;t.](https://dev.to/onokashino/your-file-sharing-server-shouldnt-be-able-to-read-your-files-heres-how-i-made-sure-mine-cant-58m)
+- [peektea brews on WSL 👀🍵 &lpar;and installs in one line&rpar;](https://dev.to/lovestaco/peektea-brews-on-wsl-and-installs-in-one-line-34ef)
 <!-- BLOG-POST-LIST:END -->
 
