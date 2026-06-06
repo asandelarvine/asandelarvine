@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Read the base-branch column.](https://dev.to/earthbound_misfit/read-the-base-branch-column-597m)
-- [AI Companies Are Paying Millions for Your Old Reddit Posts. Here&#39;s Why That Should Concern You.](https://dev.to/nimay_04/ai-companies-are-paying-millions-for-your-old-reddit-posts-heres-why-that-should-concern-you-4h5l)
-- [Why Most AI Content Pipelines Fail at Scale &lpar;And How to Fix It&rpar;](https://dev.to/claudia-ve/why-most-ai-content-pipelines-fail-at-scale-and-how-to-fix-it-l3c)
-- [Terraform in Real Life — Building Your First Cloud Infrastructure Step by Step](https://dev.to/navyabhat/terraform-in-real-life-building-your-first-cloud-infrastructure-step-by-step-5bjp)
+- [How to Automate LinkedIn Posts with n8n and the LinkedIn API](https://dev.to/-abdullah-sheikh/how-to-automate-linkedin-posts-with-n8n-and-the-linkedin-api-5eoc)
+- [Why Dynamic Programming Feels Impossible &lpar;And the 5 Patterns That Fix It&rpar;](https://dev.to/expora/why-dynamic-programming-feels-impossible-and-the-5-patterns-that-fix-it-8op)
+- [AirTrunk&#39;s $30B India AI buildout: what it means for us](https://dev.to/induwara_ashinsana_9e4d5b/airtrunks-30b-india-ai-buildout-what-it-means-for-us-4af3)
+- [I Audited 11 Calculator Websites for Trackers — Then Built One With Zero](https://dev.to/calciq_a131b58533cd272e42/i-audited-11-calculator-websites-for-trackers-then-built-one-with-zero-2845)
 <!-- BLOG-POST-LIST:END -->
 
