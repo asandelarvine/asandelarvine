@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Email Workflows Without Email Server — With Playwright &amp; Mokapi](https://dev.to/marcel_lehmann_31109127df/testing-email-workflows-without-email-server-with-playwright-mokapi-b25)
-- [Why I Bypassed the Cloud Treadmill to Build a 100% Independent Self-Hosted Stack](https://dev.to/ownthestack/why-i-bypassed-the-cloud-treadmill-to-build-a-100-independent-self-hosted-stack-3d1b)
-- [What Am I Actually Depending On? A Practical Approach to Data Sovereignty](https://dev.to/ownthestack/what-am-i-actually-depending-on-a-practical-approach-to-data-sovereignty-dd8)
-- [My Next.js 16 button was visible and completely dead in production. Here&#39;s why.](https://dev.to/aurinaileandot/my-nextjs-16-button-was-visible-and-completely-dead-in-production-heres-whyx-4k1b)
+- [The Illusion of Scale, Part 5: The System That Outlives the Team](https://dev.to/anusha_mukka/the-illusion-of-scale-part-4-the-system-that-outlives-the-team-part-5-38lh)
+- [I Built a Python Probe That Scrapes Zenn&#39;s Hidden Stats API and Commits PV Numbers to SQLite Every Hour &lpar;and Crashes on Purpose&rpar;](https://dev.to/_7fb6011b57d383122b5a/i-built-a-python-probe-that-scrapes-zenns-hidden-stats-api-and-commits-pv-numbers-to-sqlite-every-434p)
+- [PostgreSQL 2201E Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-2201e-error-causes-and-solutions-complete-guide-5fco)
+- [codex on AWS makes agents a cloud workload](https://dev.to/pvgomes/codex-on-aws-makes-agents-a-cloud-workload-53n4)
 <!-- BLOG-POST-LIST:END -->
 
