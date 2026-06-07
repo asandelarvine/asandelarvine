@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a ReAct Chat Agent with the Laravel AI SDK](https://dev.to/tomshaw/building-a-react-chat-agent-with-the-laravel-ai-sdk-4ip6)
-- [Windows and Linux Sensitive Directory Path Summary](https://dev.to/excalibra/windows-and-linux-sensitive-directory-path-summary-3b1o)
-- [Architecture Breakdown: Building an Enterprise-Grade Legal RAG System &lpar;From Ingestion to RAGAS Evaluation&rpar;](https://dev.to/ayanpal98/architecture-breakdown-building-an-enterprise-grade-legal-rag-system-from-ingestion-to-ragas-4m0c)
-- [Atlassian Admin v1 APIs Go Dark on June 30 — Your User-Provisioning Script Probably Hits Eleven of Them](https://dev.to/flarecanary/atlassian-admin-v1-apis-go-dark-on-june-30-your-user-provisioning-script-probably-hits-eleven-of-l0n)
+- [I built an audit log for EF Core that can actually undo a change](https://dev.to/gamrahub/i-built-an-audit-log-for-ef-core-that-can-actually-undo-a-change-4e50)
+- [9 silent-row-loss fixes in 7 days across 7 OSS databases](https://dev.to/sravan27/9-silent-row-loss-fixes-in-7-days-across-7-oss-databases-2nd-draft-56da)
+- [Migrating to TypeScript Without a Bundler: The Radar College Story](https://dev.to/ohugonnot/migrating-to-typescript-without-a-bundler-the-radar-college-story-21mc)
+- [From brief to launch — how I built a high-converting landing page for Leaderforma &lpar;as both AMOA&lpar;project manager&rpar; and developer&rpar;](https://dev.to/alexmerveille/from-brief-to-launch-how-i-built-a-high-converting-landing-page-for-leaderforma-as-both-agn)
 <!-- BLOG-POST-LIST:END -->
 
