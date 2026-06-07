@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built TabScribe: A Free Chrome Extension to Copy All Browser Tabs as Markdown &lpar;Under 100KB, 12 Languages&rpar;](https://dev.to/liuxinyea/i-built-tabscribe-a-free-chrome-extension-to-copy-all-browser-tabs-as-markdown-under-100kb-12-1bok)
-- [AI Made Developers 19% Slower. They Thought It Made Them 24% Faster.](https://dev.to/zyvop/ai-made-developers-19-slower-they-thought-it-made-them-24-faster-3io3)
-- [AIchain Reasoning: One Parameter for Every Provider](https://dev.to/yait/aichain-reasoning-one-parameter-for-every-provider-22fi)
-- [Termote - Remote Agentic Development Enviroment](https://dev.to/alisharjeel/termote-remote-agentic-development-enviroment-2g33)
+- [I wanted a cleaner way to practice drums, so I built one](https://dev.to/wantongwang/i-wanted-a-cleaner-way-to-practice-drums-so-i-built-one-4g8f)
+- [Get any Instagram profile data in 10 lines of Python](https://dev.to/pouria_anushiravani_42b89/get-any-instagram-profile-data-in-10-lines-of-python-462g)
+- [5 AI Coding Prompts That Changed How I Ship Software](https://dev.to/z_z_c01afd7cf4c3764a2c73d/5-ai-coding-prompts-that-changed-how-i-ship-software-4b22)
+- [AI Is Cool. Emotion Is What Makes People Buy](https://dev.to/thesnowguru/ai-is-cool-emotion-is-what-makes-people-buy-1ld2)
 <!-- BLOG-POST-LIST:END -->
 
