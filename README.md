@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an audit log for EF Core that can actually undo a change](https://dev.to/gamrahub/i-built-an-audit-log-for-ef-core-that-can-actually-undo-a-change-4e50)
-- [9 silent-row-loss fixes in 7 days across 7 OSS databases](https://dev.to/sravan27/9-silent-row-loss-fixes-in-7-days-across-7-oss-databases-2nd-draft-56da)
-- [Migrating to TypeScript Without a Bundler: The Radar College Story](https://dev.to/ohugonnot/migrating-to-typescript-without-a-bundler-the-radar-college-story-21mc)
-- [From brief to launch — how I built a high-converting landing page for Leaderforma &lpar;as both AMOA&lpar;project manager&rpar; and developer&rpar;](https://dev.to/alexmerveille/from-brief-to-launch-how-i-built-a-high-converting-landing-page-for-leaderforma-as-both-agn)
+- [I Built TabScribe: A Free Chrome Extension to Copy All Browser Tabs as Markdown &lpar;Under 100KB, 12 Languages&rpar;](https://dev.to/liuxinyea/i-built-tabscribe-a-free-chrome-extension-to-copy-all-browser-tabs-as-markdown-under-100kb-12-1bok)
+- [AI Made Developers 19% Slower. They Thought It Made Them 24% Faster.](https://dev.to/zyvop/ai-made-developers-19-slower-they-thought-it-made-them-24-faster-3io3)
+- [AIchain Reasoning: One Parameter for Every Provider](https://dev.to/yait/aichain-reasoning-one-parameter-for-every-provider-22fi)
+- [Termote - Remote Agentic Development Enviroment](https://dev.to/alisharjeel/termote-remote-agentic-development-enviroment-2g33)
 <!-- BLOG-POST-LIST:END -->
 
