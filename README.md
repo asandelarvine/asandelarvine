@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From ThreadPoolExecutor to httpx AsyncClient: True Async Refactoring](https://dev.to/justjinoit/from-threadpoolexecutor-to-httpx-asyncclient-true-async-refactoring-3k1a)
-- [Solstice Cipher: The Turing Test of Light and Shadow](https://dev.to/rexreus/solstice-cipher-the-turing-test-of-light-and-shadow-5245)
-- [I built 9 free SEO tools so I&#39;d stop paying $100/mo to audit my own sites](https://dev.to/kalenux/i-built-9-free-seo-tools-so-id-stop-paying-100mo-to-audit-my-own-sites-4mn2)
-- [🎮Copilot Made Me a Game Developer — How I Built Pixel Siege from an Old Python Prototype 👾🚀](https://dev.to/nupoorshetye/copilot-made-me-a-game-developer-how-i-built-pixel-siege-from-an-old-python-prototype-5hc2)
+- [Library Oriented Architecture: The Most Interesting Architecture Pattern You&#39;ve Probably Never Heard About](https://dev.to/jairojr-software-engineer/library-oriented-architecture-the-most-interesting-architecture-pattern-youve-probably-never-4e7i)
+- [How to give GitHub Copilot cross-repo context today](https://dev.to/danielwe/how-to-give-github-copilot-cross-repo-context-today-1o1e)
+- [I Cloned Linear&#39;s Sidebar in 50 Lines of HTML — One File, Zero npm](https://dev.to/dev48v/i-cloned-linears-sidebar-in-50-lines-of-html-one-file-zero-npm-40ej)
+- [Devo: Cómo un Químico Autodidacta Construyó desde Madrid el Motor de Datos que Defiende a la Fuerza Aérea de EE.UU.](https://dev.to/datalaria/devo-como-un-quimico-autodidacta-construyo-desde-madrid-el-motor-de-datos-que-defiende-a-la-fuerza-2lof)
 <!-- BLOG-POST-LIST:END -->
 
