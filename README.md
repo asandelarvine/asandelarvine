@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I wanted a cleaner way to practice drums, so I built one](https://dev.to/wantongwang/i-wanted-a-cleaner-way-to-practice-drums-so-i-built-one-4g8f)
-- [Get any Instagram profile data in 10 lines of Python](https://dev.to/pouria_anushiravani_42b89/get-any-instagram-profile-data-in-10-lines-of-python-462g)
-- [5 AI Coding Prompts That Changed How I Ship Software](https://dev.to/z_z_c01afd7cf4c3764a2c73d/5-ai-coding-prompts-that-changed-how-i-ship-software-4b22)
-- [AI Is Cool. Emotion Is What Makes People Buy](https://dev.to/thesnowguru/ai-is-cool-emotion-is-what-makes-people-buy-1ld2)
+- [I&#39;ve Been Building an LMS for a Year. Finish-Up-A-Thon Made Me Actually Finish It.](https://dev.to/promiselxg/ive-been-building-an-lms-for-a-year-finish-up-a-thon-made-me-actually-finish-it-192c)
+- [Road To KiwiEngine #12: Why I Want To Build Hardware Again](https://dev.to/stinklewinks/road-to-kiwiengine-12-why-i-want-to-build-hardware-again-1me0)
+- [Beyond PSCAD: How AI Can Help Monitor Harmonics](https://dev.to/salma_aga/beyond-pscad-how-ai-can-help-monitor-harmonics-3p0f)
+- [CollectAI — GitHub Finish-Up-A-Thon Submission](https://dev.to/ngux_miraclegod_d215973a9/collectai-github-finish-up-a-thon-submission-5e6g)
 <!-- BLOG-POST-LIST:END -->
 
