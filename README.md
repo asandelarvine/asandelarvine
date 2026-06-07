@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve Been Building an LMS for a Year. Finish-Up-A-Thon Made Me Actually Finish It.](https://dev.to/promiselxg/ive-been-building-an-lms-for-a-year-finish-up-a-thon-made-me-actually-finish-it-192c)
-- [Road To KiwiEngine #12: Why I Want To Build Hardware Again](https://dev.to/stinklewinks/road-to-kiwiengine-12-why-i-want-to-build-hardware-again-1me0)
-- [Beyond PSCAD: How AI Can Help Monitor Harmonics](https://dev.to/salma_aga/beyond-pscad-how-ai-can-help-monitor-harmonics-3p0f)
-- [CollectAI — GitHub Finish-Up-A-Thon Submission](https://dev.to/ngux_miraclegod_d215973a9/collectai-github-finish-up-a-thon-submission-5e6g)
+- [Compass v1.1.0 · we shipped a memory plugin that catches its own consumption drift](https://dev.to/chunxiaoxx/compass-v110-we-shipped-a-memory-plugin-that-catches-its-own-consumption-drift-10l8)
+- [How to build your first MCP server in 10 minutes](https://dev.to/grahamduescn/how-to-build-your-first-mcp-server-in-10-minutes-2bk2)
+- [QUIC &amp; HTTP/3: Warum TCP verliert und was sich wirklich ändert](https://dev.to/uhltak/quic-http3-warum-tcp-verliert-und-was-sich-wirklich-andert-242f)
+- [From Hand-Woven Logic to Giga-RAM: A Tutorial on Magnetic Core Memory](https://dev.to/prabashanadev/from-hand-woven-logic-to-giga-ram-a-tutorial-on-magnetic-core-memory-2gph)
 <!-- BLOG-POST-LIST:END -->
 
