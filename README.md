@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Compass v1.1.0 · we shipped a memory plugin that catches its own consumption drift](https://dev.to/chunxiaoxx/compass-v110-we-shipped-a-memory-plugin-that-catches-its-own-consumption-drift-10l8)
-- [How to build your first MCP server in 10 minutes](https://dev.to/grahamduescn/how-to-build-your-first-mcp-server-in-10-minutes-2bk2)
-- [QUIC &amp; HTTP/3: Warum TCP verliert und was sich wirklich ändert](https://dev.to/uhltak/quic-http3-warum-tcp-verliert-und-was-sich-wirklich-andert-242f)
-- [From Hand-Woven Logic to Giga-RAM: A Tutorial on Magnetic Core Memory](https://dev.to/prabashanadev/from-hand-woven-logic-to-giga-ram-a-tutorial-on-magnetic-core-memory-2gph)
+- [From ThreadPoolExecutor to httpx AsyncClient: True Async Refactoring](https://dev.to/justjinoit/from-threadpoolexecutor-to-httpx-asyncclient-true-async-refactoring-3k1a)
+- [Solstice Cipher: The Turing Test of Light and Shadow](https://dev.to/rexreus/solstice-cipher-the-turing-test-of-light-and-shadow-5245)
+- [I built 9 free SEO tools so I&#39;d stop paying $100/mo to audit my own sites](https://dev.to/kalenux/i-built-9-free-seo-tools-so-id-stop-paying-100mo-to-audit-my-own-sites-4mn2)
+- [🎮Copilot Made Me a Game Developer — How I Built Pixel Siege from an Old Python Prototype 👾🚀](https://dev.to/nupoorshetye/copilot-made-me-a-game-developer-how-i-built-pixel-siege-from-an-old-python-prototype-5hc2)
 <!-- BLOG-POST-LIST:END -->
 
