@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Uninstall Hermes Desktop from macOS](https://dev.to/0xkoji/how-to-uninstall-hermes-desktop-from-macos-366j)
-- [We built a coding harness that beats frontier models using open ones. It&#39;s in open beta.](https://dev.to/jon_at_backboardio/we-built-a-coding-harness-that-beats-frontier-models-using-open-ones-its-in-open-beta-15g3)
-- [5 micro-SaaS ideas devs are asking for on Reddit](https://dev.to/notomarsol/5-micro-saas-ideas-devs-are-asking-for-on-reddit-5ce2)
-- [DuckDB 1.5.3 &amp; Quack Protocol Release; PostgreSQL File Descriptor Tuning](https://dev.to/soytuber/duckdb-153-quack-protocol-release-postgresql-file-descriptor-tuning-2jhj)
+- [OpenAI Built a Lockdown Mode Because Tool-Based Data Exfiltration Is Real — Here&#39;s What Catches It Earlier](https://dev.to/coridev/openai-built-a-lockdown-mode-because-tool-based-data-exfiltration-is-real-heres-what-catches-it-342e)
+- [AI Shrinkflation: Your AI Model Was Quietly Dialed Back](https://dev.to/keithjmackay/ai-shrinkflation-your-ai-model-was-quietly-dialed-back-3p2a)
+- [Syncing AI agents across Claude, Gemini, and Cursor](https://dev.to/mustafa_bahaa/syncing-ai-agents-across-claude-gemini-and-cursor-3d0j)
+- [I Died, Just Not Physically...](https://dev.to/itsweshy/i-died-just-not-physically-29h1)
 <!-- BLOG-POST-LIST:END -->
 
