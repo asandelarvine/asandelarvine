@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Data Outlives the App](https://dev.to/rawveg/your-data-outlives-the-app-2jfm)
-- [Creating An Azure Virtual Network&lpar;VNET&rpar; And Multiple Subnets: A Step-By-Step Beginner&#39;s Guide](https://dev.to/olakunle_makanjuola_92754/creating-an-azure-virtual-networkvnet-and-multiple-subnets-a-step-by-step-beginners-guide-31n6)
-- [Your Re-render Problem Is Probably a Structure Problem](https://dev.to/jancera/your-re-render-problem-is-probably-a-structure-problem-2i5h)
-- [Beyond the Hype: How Top Engineering Teams are Actually Using AI...](https://dev.to/talaamm/beyond-the-hype-how-top-engineering-teams-are-actually-using-ai-37)
+- [Safe Operating Throughput &lpar;SOT&rpar; as a First-Class SRE Metric: Derivation and Operationalization](https://dev.to/npayyappilly/safe-operating-throughput-sot-as-a-first-class-sre-metric-derivation-and-operationalization-5akn)
+- [Stop Hardcoding Roles: A Practical Guide to Roles, Permissions, and Scalable Authorization](https://dev.to/d_lynol/stop-hardcoding-roles-a-practical-guide-to-roles-permissions-and-scalable-authorization-1cf)
+- [LLM Cost Attribution Per Request: How to Track OpenAI and Anthropic Spend by Team and Feature](https://dev.to/void_stitch/llm-cost-attribution-per-request-how-to-track-openai-and-anthropic-spend-by-team-and-feature-1i8b)
+- [LLM integration with OpenRouter](https://dev.to/zsevic/llm-integration-with-openrouter-2jgh)
 <!-- BLOG-POST-LIST:END -->
 
