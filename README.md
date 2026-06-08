@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Safe Operating Throughput &lpar;SOT&rpar; as a First-Class SRE Metric: Derivation and Operationalization](https://dev.to/npayyappilly/safe-operating-throughput-sot-as-a-first-class-sre-metric-derivation-and-operationalization-5akn)
-- [Stop Hardcoding Roles: A Practical Guide to Roles, Permissions, and Scalable Authorization](https://dev.to/d_lynol/stop-hardcoding-roles-a-practical-guide-to-roles-permissions-and-scalable-authorization-1cf)
-- [LLM Cost Attribution Per Request: How to Track OpenAI and Anthropic Spend by Team and Feature](https://dev.to/void_stitch/llm-cost-attribution-per-request-how-to-track-openai-and-anthropic-spend-by-team-and-feature-1i8b)
-- [LLM integration with OpenRouter](https://dev.to/zsevic/llm-integration-with-openrouter-2jgh)
+- [The Best Competitive Intelligence API for Autonomous AI Agents &lpar;2026&rpar;](https://dev.to/trustboost/the-best-competitive-intelligence-api-for-autonomous-ai-agents-2026-23md)
+- [I rebuilt Alan Turing&#39;s Bombe as a game where code-breaking turns dark to light](https://dev.to/chintanonweb/i-rebuilt-alan-turings-bombe-as-a-game-where-code-breaking-turns-dark-to-light-11co)
+- [A Day in the Life of a Vulnerability Assessor in Japan](https://dev.to/rudycandy/a-day-in-the-life-of-a-vulnerability-assessor-in-japan-n0n)
+- [Building a high-throughput BGP/BMP collector in Java with virtual threads](https://dev.to/lpworks/building-a-high-throughput-bgpbmp-collector-in-java-with-virtual-threads-4797)
 <!-- BLOG-POST-LIST:END -->
 
