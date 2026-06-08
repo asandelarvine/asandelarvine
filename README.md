@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Competitive Intelligence API for Autonomous AI Agents &lpar;2026&rpar;](https://dev.to/trustboost/the-best-competitive-intelligence-api-for-autonomous-ai-agents-2026-23md)
-- [I rebuilt Alan Turing&#39;s Bombe as a game where code-breaking turns dark to light](https://dev.to/chintanonweb/i-rebuilt-alan-turings-bombe-as-a-game-where-code-breaking-turns-dark-to-light-11co)
-- [A Day in the Life of a Vulnerability Assessor in Japan](https://dev.to/rudycandy/a-day-in-the-life-of-a-vulnerability-assessor-in-japan-n0n)
-- [Building a high-throughput BGP/BMP collector in Java with virtual threads](https://dev.to/lpworks/building-a-high-throughput-bgpbmp-collector-in-java-with-virtual-threads-4797)
+- [Benchmarking AI Agents, Gemma 4 On-Device Workflows &amp; AI System Security](https://dev.to/soytuber/benchmarking-ai-agents-gemma-4-on-device-workflows-ai-system-security-25po)
+- [How I stopped hardcoding business rules in PHP - and built a rule engine to fix it](https://dev.to/olivierls/how-i-stopped-hardcoding-business-rules-in-php-and-built-a-rule-engine-to-fix-it-1997)
+- [DuckLake Spec, pg_background 2.0, and pgsql_tweaks 1.0.3 Enhance Database Ecosystem](https://dev.to/soytuber/ducklake-spec-pgbackground-20-and-pgsqltweaks-103-enhance-database-ecosystem-22eg)
+- [Diário de dev #3: o bug que só aparece quando alguém usa](https://dev.to/trainedloop/diario-de-dev-3-o-bug-que-so-aparece-quando-alguem-usa-117p)
 <!-- BLOG-POST-LIST:END -->
 
