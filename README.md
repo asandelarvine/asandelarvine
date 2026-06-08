@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Benchmarking AI Agents, Gemma 4 On-Device Workflows &amp; AI System Security](https://dev.to/soytuber/benchmarking-ai-agents-gemma-4-on-device-workflows-ai-system-security-25po)
-- [How I stopped hardcoding business rules in PHP - and built a rule engine to fix it](https://dev.to/olivierls/how-i-stopped-hardcoding-business-rules-in-php-and-built-a-rule-engine-to-fix-it-1997)
-- [DuckLake Spec, pg_background 2.0, and pgsql_tweaks 1.0.3 Enhance Database Ecosystem](https://dev.to/soytuber/ducklake-spec-pgbackground-20-and-pgsqltweaks-103-enhance-database-ecosystem-22eg)
-- [Diário de dev #3: o bug que só aparece quando alguém usa](https://dev.to/trainedloop/diario-de-dev-3-o-bug-que-so-aparece-quando-alguem-usa-117p)
+- [We Replayed the Nomad Hack. Our Tool Fired at Block 15259101 Zero Minutes In.](https://dev.to/moorebrett0/we-replayed-the-nomad-hack-our-tool-fired-at-block-15259101-zero-minutes-in-57o0)
+- [Reporting: Custom Reporters &amp; Result Visibility &lpar;Playwright + TypeScript, Ch.25&rpar;](https://dev.to/aktibaba/reporting-custom-reporters-result-visibility-playwright-typescript-ch25-2c4f)
+- [Framework Maturation &amp; Docs &lpar;Playwright + TypeScript, Ch.24&rpar;](https://dev.to/aktibaba/framework-maturation-docs-playwright-typescript-ch24-oj)
+- [I built a tool that reads your git history and tells you a story](https://dev.to/amir_zilber_1012c9a3594a0/i-built-a-tool-that-reads-your-git-history-and-tells-you-a-story-5h5)
 <!-- BLOG-POST-LIST:END -->
 
