@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LLVM #6 — Compiling to Object Code.](https://dev.to/lahari_tenneti_4a8a082e9c/llvm-6-compiling-to-object-code-1a47)
-- [I deleted my app&#39;s admin panel. The AI agent runs the backend now.](https://dev.to/favcrm/i-deleted-my-apps-admin-panel-the-ai-agent-runs-the-backend-now-551b)
-- [Make Your WooCommerce Store Visible to AI Assistants &lpar;ChatGPT, Claude, Gemini&rpar;](https://dev.to/athenalion/make-your-woocommerce-store-visible-to-ai-assistants-chatgpt-claude-gemini-5h3c)
-- [What is llms.txt? Why Every WooCommerce Store Needs It](https://dev.to/athenalion/what-is-llmstxt-why-every-woocommerce-store-needs-it-987)
+- [Your Data Outlives the App](https://dev.to/rawveg/your-data-outlives-the-app-2jfm)
+- [Creating An Azure Virtual Network&lpar;VNET&rpar; And Multiple Subnets: A Step-By-Step Beginner&#39;s Guide](https://dev.to/olakunle_makanjuola_92754/creating-an-azure-virtual-networkvnet-and-multiple-subnets-a-step-by-step-beginners-guide-31n6)
+- [Your Re-render Problem Is Probably a Structure Problem](https://dev.to/jancera/your-re-render-problem-is-probably-a-structure-problem-2i5h)
+- [Beyond the Hype: How Top Engineering Teams are Actually Using AI...](https://dev.to/talaamm/beyond-the-hype-how-top-engineering-teams-are-actually-using-ai-37)
 <!-- BLOG-POST-LIST:END -->
 
