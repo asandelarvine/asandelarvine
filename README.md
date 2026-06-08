@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL 2200D Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-2200d-error-causes-and-solutions-complete-guide-3h46)
-- [Why Your AI Agent Works in Dev and Breaks in Prod](https://dev.to/michal_szalinski_91bf893d/why-your-ai-agent-works-in-dev-and-breaks-in-prod-g60)
-- [The Bug Usually Starts Before the Error](https://dev.to/scarab-systems/the-bug-usually-starts-before-the-error-4k59)
-- [permission prompts are not an agent security strategy](https://dev.to/pvgomes/permission-prompts-are-not-an-agent-security-strategy-4pm9)
+- [LLVM #6 — Compiling to Object Code.](https://dev.to/lahari_tenneti_4a8a082e9c/llvm-6-compiling-to-object-code-1a47)
+- [I deleted my app&#39;s admin panel. The AI agent runs the backend now.](https://dev.to/favcrm/i-deleted-my-apps-admin-panel-the-ai-agent-runs-the-backend-now-551b)
+- [Make Your WooCommerce Store Visible to AI Assistants &lpar;ChatGPT, Claude, Gemini&rpar;](https://dev.to/athenalion/make-your-woocommerce-store-visible-to-ai-assistants-chatgpt-claude-gemini-5h3c)
+- [What is llms.txt? Why Every WooCommerce Store Needs It](https://dev.to/athenalion/what-is-llmstxt-why-every-woocommerce-store-needs-it-987)
 <!-- BLOG-POST-LIST:END -->
 
