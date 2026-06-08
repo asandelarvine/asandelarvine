@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Library Oriented Architecture: The Most Interesting Architecture Pattern You&#39;ve Probably Never Heard About](https://dev.to/jairojr-software-engineer/library-oriented-architecture-the-most-interesting-architecture-pattern-youve-probably-never-4e7i)
-- [How to give GitHub Copilot cross-repo context today](https://dev.to/danielwe/how-to-give-github-copilot-cross-repo-context-today-1o1e)
-- [I Cloned Linear&#39;s Sidebar in 50 Lines of HTML — One File, Zero npm](https://dev.to/dev48v/i-cloned-linears-sidebar-in-50-lines-of-html-one-file-zero-npm-40ej)
-- [Devo: Cómo un Químico Autodidacta Construyó desde Madrid el Motor de Datos que Defiende a la Fuerza Aérea de EE.UU.](https://dev.to/datalaria/devo-como-un-quimico-autodidacta-construyo-desde-madrid-el-motor-de-datos-que-defiende-a-la-fuerza-2lof)
+- [PostgreSQL 2200D Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-2200d-error-causes-and-solutions-complete-guide-3h46)
+- [Why Your AI Agent Works in Dev and Breaks in Prod](https://dev.to/michal_szalinski_91bf893d/why-your-ai-agent-works-in-dev-and-breaks-in-prod-g60)
+- [The Bug Usually Starts Before the Error](https://dev.to/scarab-systems/the-bug-usually-starts-before-the-error-4k59)
+- [permission prompts are not an agent security strategy](https://dev.to/pvgomes/permission-prompts-are-not-an-agent-security-strategy-4pm9)
 <!-- BLOG-POST-LIST:END -->
 
