@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We Replayed the Nomad Hack. Our Tool Fired at Block 15259101 Zero Minutes In.](https://dev.to/moorebrett0/we-replayed-the-nomad-hack-our-tool-fired-at-block-15259101-zero-minutes-in-57o0)
-- [Reporting: Custom Reporters &amp; Result Visibility &lpar;Playwright + TypeScript, Ch.25&rpar;](https://dev.to/aktibaba/reporting-custom-reporters-result-visibility-playwright-typescript-ch25-2c4f)
-- [Framework Maturation &amp; Docs &lpar;Playwright + TypeScript, Ch.24&rpar;](https://dev.to/aktibaba/framework-maturation-docs-playwright-typescript-ch24-oj)
-- [I built a tool that reads your git history and tells you a story](https://dev.to/amir_zilber_1012c9a3594a0/i-built-a-tool-that-reads-your-git-history-and-tells-you-a-story-5h5)
+- [Comparing Model Performance: Without MTP vs. With MTP vs. With MTP + QAT](https://dev.to/0xkoji/comparing-model-performance-without-mtp-vs-with-mtp-vs-with-mtp-qat-22ki)
+- [Five Minutes of Being Remembered](https://dev.to/paifamily/five-minutes-of-being-remembered-29pc)
+- [⚙️ Terraform create AWS EC2 instance with Python environment](https://dev.to/ptp2308/terraform-create-aws-ec2-instance-with-python-environment-4c1a)
+- [Why SQLite FTS5&#39;s default tokenizer drops your Japanese substrings &lpar;and the one-line fix&rpar;](https://dev.to/omochi_dev/why-sqlite-fts5s-default-tokenizer-drops-your-japanese-substrings-and-the-one-line-fix-1k2d)
 <!-- BLOG-POST-LIST:END -->
 
