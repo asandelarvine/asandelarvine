@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Visualizing the Slope: Introducing the m-vis Real-Time Leak Delta Chart](https://dev.to/sicklefire/visualizing-the-slope-introducing-the-m-vis-real-time-leak-delta-chart-1g3d)
-- [The 2026 AI Coding Conversation Has Moved Past Cursor vs Claude Code](https://dev.to/ninghonggang/the-2026-ai-coding-conversation-has-moved-past-cursor-vs-claude-code-47ig)
-- [My first Chrome extension puts an anime girl on every tab, here&#39;s what I learned building it](https://dev.to/halle2525/my-first-chrome-extension-puts-an-anime-girl-on-every-tab-heres-what-i-learned-building-it-2pai)
-- [My First Step into DEV Community](https://dev.to/syedzahidvoice/hello-dev-community-4801)
+- [OpenSparrow v2.7 – Enhanced RAG, rebuilt admin UI, and Automations &lpar;beta&rpar;](https://dev.to/wrobeltomasz/opensparrow-v27-enhanced-rag-rebuilt-admin-ui-and-automations-beta-438d)
+- [How To Reduce Digital Distractions While Working](https://dev.to/_606814433ed422522fed/how-to-reduce-digital-distractions-while-working-35a)
+- [AI Prompt Security: Is the Same Protection Necessary for Every](https://dev.to/merbayerp/ai-prompt-security-is-the-same-protection-necessary-for-every-40dn)
+- [Class 9-10 CBSE Cracker](https://dev.to/rikmakershub/class-9-10-cbse-cracker-2ip9)
 <!-- BLOG-POST-LIST:END -->
 
