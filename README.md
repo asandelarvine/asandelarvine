@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoupling Microservices with Event-Driven SQS Pipelines for High-Volume Fulfillment](https://dev.to/hridyasimon_dev/decoupling-microservices-with-event-driven-sqs-pipelines-for-high-volume-fulfillment-18mp)
-- [Angular 22: O Fim do Boilerplate e a Consolidação da Era Reativa](https://dev.to/ghabryel/angular-22-o-fim-do-boilerplate-e-a-consolidacao-da-era-reativa-5262)
-- [Developer Documentation Platforms in 2026: GitBook, Mintlify, ReadMe, Docusaurus, and Docsbook Compared](https://dev.to/curi0us_dev/developer-documentation-platforms-in-2026-gitbook-mintlify-readme-docusaurus-and-docsbook-47i1)
-- [Claude Fable 5: What It Is and What It Means for Developers](https://dev.to/tonyspiro/claude-fable-5-what-it-is-and-what-it-means-for-developers-jnf)
+- [6 Signs Your In-House AI Agents Need an MCP Runtime](https://dev.to/arcade/when-ai-agents-need-mcp-runtime-431p)
+- [I got tired of paying $500/month just to give my users an email editor](https://dev.to/yret1/i-got-tired-of-paying-500month-just-to-give-my-users-an-email-editor-2po5)
+- [Apache Iceberg v4: The Current State, the Proposals, and Why They Matter](https://dev.to/alexmercedcoder/apache-iceberg-v4-the-current-state-the-proposals-and-why-they-matter-3e07)
+- [Is There a CMS Built with shadcn/ui? Yes — UnfoldCMS](https://dev.to/hamed_pakdaman_c724e294d9/is-there-a-cms-built-with-shadcnui-yes-unfoldcms-2b31)
 <!-- BLOG-POST-LIST:END -->
 
