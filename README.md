@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Signs Your In-House AI Agents Need an MCP Runtime](https://dev.to/arcade/when-ai-agents-need-mcp-runtime-431p)
-- [I got tired of paying $500/month just to give my users an email editor](https://dev.to/yret1/i-got-tired-of-paying-500month-just-to-give-my-users-an-email-editor-2po5)
-- [Apache Iceberg v4: The Current State, the Proposals, and Why They Matter](https://dev.to/alexmercedcoder/apache-iceberg-v4-the-current-state-the-proposals-and-why-they-matter-3e07)
-- [Is There a CMS Built with shadcn/ui? Yes — UnfoldCMS](https://dev.to/hamed_pakdaman_c724e294d9/is-there-a-cms-built-with-shadcnui-yes-unfoldcms-2b31)
+- [FCC and CE Certification for Electronics from China](https://dev.to/china-sourcing-agents/fcc-and-ce-certification-for-electronics-from-china-4kfg)
+- [China Electronics Industry 2026: What Importers Need to Know](https://dev.to/china-sourcing-agents/china-electronics-industry-2026-what-importers-need-to-know-11j6)
+- [China Electronics Manufacturing Companies: A Buyer&#39;s Guide](https://dev.to/china-sourcing-agents/china-electronics-manufacturing-companies-a-buyers-guide-gjm)
+- [China Electronics Market Cities: Where to Source What](https://dev.to/china-sourcing-agents/china-electronics-market-cities-where-to-source-what-1k8a)
 <!-- BLOG-POST-LIST:END -->
 
