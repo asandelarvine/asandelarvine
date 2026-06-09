@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP cURL Timeout Error: CONNECTTIMEOUT vs TIMEOUT &lpar;With Working Examples&rpar;](https://dev.to/phpspiderblog/php-curl-timeout-error-connecttimeout-vs-timeout-with-working-examples-33ad)
-- [Nuxt Ignis reforged](https://dev.to/aloisseckar/nuxt-ignis-reforged-5f9m)
-- [# 7 Mistakes That Make Software Projects Fail &lpar;And How to Avoid Them&rpar;](https://dev.to/ankiit_janggid_36fb55410d/-7-mistakes-that-make-software-projects-fail-and-how-to-avoid-them-12jl)
-- [Kubernetes vs Docker, PaaS, and Traditional Deployment Tools for AI Apps: What Developers Need in 2026](https://dev.to/hadil/kubernetes-vs-docker-paas-and-traditional-deployment-tools-for-ai-apps-what-developers-need-in-3iga)
+- [Visualizing the Slope: Introducing the m-vis Real-Time Leak Delta Chart](https://dev.to/sicklefire/visualizing-the-slope-introducing-the-m-vis-real-time-leak-delta-chart-1g3d)
+- [The 2026 AI Coding Conversation Has Moved Past Cursor vs Claude Code](https://dev.to/ninghonggang/the-2026-ai-coding-conversation-has-moved-past-cursor-vs-claude-code-47ig)
+- [My first Chrome extension puts an anime girl on every tab, here&#39;s what I learned building it](https://dev.to/halle2525/my-first-chrome-extension-puts-an-anime-girl-on-every-tab-heres-what-i-learned-building-it-2pai)
+- [My First Step into DEV Community](https://dev.to/syedzahidvoice/hello-dev-community-4801)
 <!-- BLOG-POST-LIST:END -->
 
