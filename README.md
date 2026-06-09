@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Model Performance: Without MTP vs. With MTP vs. With MTP + QAT](https://dev.to/0xkoji/comparing-model-performance-without-mtp-vs-with-mtp-vs-with-mtp-qat-22ki)
-- [Five Minutes of Being Remembered](https://dev.to/paifamily/five-minutes-of-being-remembered-29pc)
-- [⚙️ Terraform create AWS EC2 instance with Python environment](https://dev.to/ptp2308/terraform-create-aws-ec2-instance-with-python-environment-4c1a)
-- [Why SQLite FTS5&#39;s default tokenizer drops your Japanese substrings &lpar;and the one-line fix&rpar;](https://dev.to/omochi_dev/why-sqlite-fts5s-default-tokenizer-drops-your-japanese-substrings-and-the-one-line-fix-1k2d)
+- [PHP cURL Timeout Error: CONNECTTIMEOUT vs TIMEOUT &lpar;With Working Examples&rpar;](https://dev.to/phpspiderblog/php-curl-timeout-error-connecttimeout-vs-timeout-with-working-examples-33ad)
+- [Nuxt Ignis reforged](https://dev.to/aloisseckar/nuxt-ignis-reforged-5f9m)
+- [# 7 Mistakes That Make Software Projects Fail &lpar;And How to Avoid Them&rpar;](https://dev.to/ankiit_janggid_36fb55410d/-7-mistakes-that-make-software-projects-fail-and-how-to-avoid-them-12jl)
+- [Kubernetes vs Docker, PaaS, and Traditional Deployment Tools for AI Apps: What Developers Need in 2026](https://dev.to/hadil/kubernetes-vs-docker-paas-and-traditional-deployment-tools-for-ai-apps-what-developers-need-in-3iga)
 <!-- BLOG-POST-LIST:END -->
 
