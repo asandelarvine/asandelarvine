@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenSparrow v2.7 – Enhanced RAG, rebuilt admin UI, and Automations &lpar;beta&rpar;](https://dev.to/wrobeltomasz/opensparrow-v27-enhanced-rag-rebuilt-admin-ui-and-automations-beta-438d)
-- [How To Reduce Digital Distractions While Working](https://dev.to/_606814433ed422522fed/how-to-reduce-digital-distractions-while-working-35a)
-- [AI Prompt Security: Is the Same Protection Necessary for Every](https://dev.to/merbayerp/ai-prompt-security-is-the-same-protection-necessary-for-every-40dn)
-- [Class 9-10 CBSE Cracker](https://dev.to/rikmakershub/class-9-10-cbse-cracker-2ip9)
+- [Decoupling Microservices with Event-Driven SQS Pipelines for High-Volume Fulfillment](https://dev.to/hridyasimon_dev/decoupling-microservices-with-event-driven-sqs-pipelines-for-high-volume-fulfillment-18mp)
+- [Angular 22: O Fim do Boilerplate e a Consolidação da Era Reativa](https://dev.to/ghabryel/angular-22-o-fim-do-boilerplate-e-a-consolidacao-da-era-reativa-5262)
+- [Developer Documentation Platforms in 2026: GitBook, Mintlify, ReadMe, Docusaurus, and Docsbook Compared](https://dev.to/curi0us_dev/developer-documentation-platforms-in-2026-gitbook-mintlify-readme-docusaurus-and-docsbook-47i1)
+- [Claude Fable 5: What It Is and What It Means for Developers](https://dev.to/tonyspiro/claude-fable-5-what-it-is-and-what-it-means-for-developers-jnf)
 <!-- BLOG-POST-LIST:END -->
 
