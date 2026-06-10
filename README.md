@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing TokenCap — Context Engineering for Modern Codebases](https://dev.to/vansharora21/introducing-tokencap-context-engineering-for-modern-codebases-3a4m)
-- [2026. Week 23: a UI task that stopped being small](https://dev.to/s_a_shkuratov/2026-week-23-a-ui-task-that-stopped-being-small-2n22)
-- [How I Built a Treasure-Run Game Where Australia Saves the Sun](https://dev.to/ujja/how-i-built-a-treasure-run-game-where-australia-saves-the-sun-kck)
-- [#powerbi](https://dev.to/phylis/powerbi-3p3n)
+- [GitLab Commands and How to Push Code on GitLab](https://dev.to/adhi_sankar_45ccfb9350749/gitlab-commands-and-how-to-push-code-to-gitlab-4843)
+- [AI Code Review Got Much Better When I Gave It Design Contracts, Not Just Code &lpar;Fable5 review&rpar;](https://dev.to/synthaicode_commander/ai-code-review-got-much-better-when-i-gave-it-design-contracts-not-just-code-fable5-review-49dc)
+- [2,622 Valid Certificates Exposed: A Google-GitGuardian Study Maps Private Key Leaks to Real-World Risk](https://dev.to/gitguardian/2622-valid-certificates-exposed-a-google-gitguardian-study-maps-private-key-leaks-to-real-world-4jpf)
+- [CI Failures Are Fast to Detect but Slow to Understand — That&#39;s the Real Problem](https://dev.to/code-board/ci-failures-are-fast-to-detect-but-slow-to-understand-thats-the-real-problem-2a43)
 <!-- BLOG-POST-LIST:END -->
 
