@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [teamOS Bare Metal x86 Kernel](https://dev.to/saoodahmed198stack/teamos-bare-metal-x86-kernel-317j)
-- [What I shipped in one Claude Code session: a real-time mempool rug-detector pipeline](https://dev.to/mik3fly__/what-i-shipped-in-one-claude-code-session-a-real-time-mempool-rug-detector-pipeline-2014)
-- [Most AI Control Planes Have a Single-Region Failure Domain](https://dev.to/ntctech/most-ai-control-planes-have-a-single-region-failure-domain-361j)
-- [The Saff Squeeze](https://dev.to/janvanryswyck/the-saff-squeeze-2o2b)
+- [I&#39;m so tired to code. Not even Vibe Coding... D:](https://dev.to/francistrdev/im-so-tired-to-code-not-even-vibe-coding-d-1l2p)
+- [From Keypoints to Measurements: Why Landmarks Alone Are Useless](https://dev.to/rahul_sangamker_653e0c1ba/from-keypoints-to-measurements-why-landmarks-alone-are-useless-4oec)
+- [I Put a Neural Network Inside My Portfolio — No TensorFlow, No Server, 145 KB](https://dev.to/rahul_sangamker_653e0c1ba/i-put-a-neural-network-inside-my-portfolio-no-tensorflow-no-server-145-kb-32k7)
+- [Testing Camouflage Against the Real Adversary: an AI](https://dev.to/rahul_sangamker_653e0c1ba/testing-camouflage-against-the-real-adversary-an-ai-34f1)
 <!-- BLOG-POST-LIST:END -->
 
