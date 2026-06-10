@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your MCP Server Passes Every Test — and Claude Still Rejects the Tool](https://dev.to/martinhavel/your-mcp-server-passes-every-test-and-claude-still-rejects-the-tool-2oaa)
-- [Sprited ‒ First Post](https://dev.to/sprited/sprited-first-post-1hk9)
-- [Senior devs are 19% slower with AI tools but think they&#39;re 20% faster](https://dev.to/adioof/senior-devs-are-19-slower-with-ai-tools-but-think-theyre-20-faster-2dag)
-- [Building a Production-Grade Uptime Monitoring Setup — What I Learned Running 100+ Checks](https://dev.to/uptime_saas_bf10d490eb6f1/building-a-production-grade-uptime-monitoring-setup-what-i-learned-running-100-checks-32l4)
+- [teamOS Bare Metal x86 Kernel](https://dev.to/saoodahmed198stack/teamos-bare-metal-x86-kernel-317j)
+- [What I shipped in one Claude Code session: a real-time mempool rug-detector pipeline](https://dev.to/mik3fly__/what-i-shipped-in-one-claude-code-session-a-real-time-mempool-rug-detector-pipeline-2014)
+- [Most AI Control Planes Have a Single-Region Failure Domain](https://dev.to/ntctech/most-ai-control-planes-have-a-single-region-failure-domain-361j)
+- [The Saff Squeeze](https://dev.to/janvanryswyck/the-saff-squeeze-2o2b)
 <!-- BLOG-POST-LIST:END -->
 
