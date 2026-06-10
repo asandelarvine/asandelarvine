@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FCC and CE Certification for Electronics from China](https://dev.to/china-sourcing-agents/fcc-and-ce-certification-for-electronics-from-china-4kfg)
-- [China Electronics Industry 2026: What Importers Need to Know](https://dev.to/china-sourcing-agents/china-electronics-industry-2026-what-importers-need-to-know-11j6)
-- [China Electronics Manufacturing Companies: A Buyer&#39;s Guide](https://dev.to/china-sourcing-agents/china-electronics-manufacturing-companies-a-buyers-guide-gjm)
-- [China Electronics Market Cities: Where to Source What](https://dev.to/china-sourcing-agents/china-electronics-market-cities-where-to-source-what-1k8a)
+- [I Moved My n8n Instance from Render to Azure](https://dev.to/khanh_nguyen_04b1205f5a91/i-moved-my-n8n-instance-from-render-to-azure-1laa)
+- [How to Scrape Google Search Results Without Building Your Own Scraper](https://dev.to/cecilia_hill_d7b1b8d510e7/how-to-scrape-google-search-results-without-building-your-own-scraper-1jho)
+- [You&#39;re a Real Frontend Developer Only If...](https://dev.to/dip_032d2fe1959e1990ddbb1/youre-a-real-frontend-developer-only-if-3f1m)
+- [組織向け GitHub セキュリティ・ハードニング完全ガイド](https://dev.to/mike_anderson_d01f52129fb/zu-zhi-xiang-ke-github-sekiyuriteihadoninguwan-quan-gaido-nfg)
 <!-- BLOG-POST-LIST:END -->
 
