@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Moved My n8n Instance from Render to Azure](https://dev.to/khanh_nguyen_04b1205f5a91/i-moved-my-n8n-instance-from-render-to-azure-1laa)
-- [How to Scrape Google Search Results Without Building Your Own Scraper](https://dev.to/cecilia_hill_d7b1b8d510e7/how-to-scrape-google-search-results-without-building-your-own-scraper-1jho)
-- [You&#39;re a Real Frontend Developer Only If...](https://dev.to/dip_032d2fe1959e1990ddbb1/youre-a-real-frontend-developer-only-if-3f1m)
-- [組織向け GitHub セキュリティ・ハードニング完全ガイド](https://dev.to/mike_anderson_d01f52129fb/zu-zhi-xiang-ke-github-sekiyuriteihadoninguwan-quan-gaido-nfg)
+- [Introducing TokenCap — Context Engineering for Modern Codebases](https://dev.to/vansharora21/introducing-tokencap-context-engineering-for-modern-codebases-3a4m)
+- [2026. Week 23: a UI task that stopped being small](https://dev.to/s_a_shkuratov/2026-week-23-a-ui-task-that-stopped-being-small-2n22)
+- [How I Built a Treasure-Run Game Where Australia Saves the Sun](https://dev.to/ujja/how-i-built-a-treasure-run-game-where-australia-saves-the-sun-kck)
+- [#powerbi](https://dev.to/phylis/powerbi-3p3n)
 <!-- BLOG-POST-LIST:END -->
 
