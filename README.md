@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Context Mode 的 5 个隐藏用法 🔥 — 让 Claude Code 上下文消耗减少 98% 的 MCP Server](https://dev.to/_cbd692d476c5faf3b61bcf/context-mode-de-5-ge-yin-cang-yong-fa-rang-claude-code-shang-xia-wen-xiao-hao-jian-shao-98-de-mcp-server-2662)
-- [Context Mode&#39;s 5 Hidden Uses 🔥 — MCP Server That Cuts Claude Code Context by 98%](https://dev.to/_cbd692d476c5faf3b61bcf/context-modes-5-hidden-uses-mcp-server-that-cuts-claude-code-context-by-98-32ih)
-- [What If DSA Was Taught Visually Instead of Just Theory?](https://dev.to/sreya-satheesh/what-if-dsa-was-taught-visually-instead-of-just-theory-4fgf)
-- [Takeway from AWS Generative AI Lens](https://dev.to/amitkayal/takeway-from-aws-generative-ai-lens-14dj)
+- [Hindu Festival Tithi Rules](https://dev.to/krazykrackpot/hindu-festival-tithi-rules-ikh)
+- [Rate Limits &amp; Anti-Bots in Agentic Scraping](https://dev.to/alterlab/rate-limits-anti-bots-in-agentic-scraping-4oi2)
+- [My complete self-hosting stack: Docker Compose + hardening scripts I use on Hetzner &lpar;sharing everything&rpar;](https://dev.to/nevik_schmidt_3635afa2b85/my-complete-self-hosting-stack-docker-compose-hardening-scripts-i-use-on-hetzner-sharing-4l8h)
+- [10 n8n workflow templates I actually use daily — sharing the JSON files](https://dev.to/nevik_schmidt_3635afa2b85/10-n8n-workflow-templates-i-actually-use-daily-sharing-the-json-files-p72)
 <!-- BLOG-POST-LIST:END -->
 
