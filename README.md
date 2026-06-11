@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Comprehensive Code Review Matters More Than You Think](https://dev.to/constanza_diaz_dev/why-comprehensive-code-review-matters-more-than-you-think-55ho)
-- [AI Test Agents Are Useful, but Only If You Keep Them on a Leash](https://dev.to/orbitpickle307/ai-test-agents-are-useful-but-only-if-you-keep-them-on-a-leash-33pg)
-- [The First RFID Patent Was a Toll Device](https://dev.to/fluidwire/the-first-rfid-patent-was-a-toll-device-5h4h)
-- [Vue 3.6 Vapor Mode: Opt Out of the Virtual DOM](https://dev.to/grimicorn/vue-36-vapor-mode-opt-out-of-the-virtual-dom-50en)
+- [I trained a neural network to break my own encrypted search. It learned nothing.](https://dev.to/zahraarmantech/i-trained-a-neural-network-to-break-my-own-encrypted-search-it-learned-nothing-55f3)
+- [CSS &#39;overscroll-behavior&#39; rubber banding: the right color behind the page when you pull it](https://dev.to/a-dev/css-overscroll-behavior-rubber-banding-the-right-color-behind-the-page-when-you-pull-it-47mj)
+- [SkillOpt: Revolutionizing AI Agent Skills in 2026](https://dev.to/meghroop_tech/skillopt-revolutionizing-ai-agent-skills-in-2026-28j0)
+- [Optimistic UI Patterns with Next.js Server Actions and Supabase Realtime](https://dev.to/mahdi_benrhouma_fe1c6005/optimistic-ui-patterns-with-nextjs-server-actions-and-supabase-realtime-7e0)
 <!-- BLOG-POST-LIST:END -->
 
