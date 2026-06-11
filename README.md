@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Give Your AI Agent a Web-Fetch Tool: a 60-Line MCP Server &lpar;Free, Self-Hosted&rpar;](https://dev.to/0012303/give-your-ai-agent-a-web-fetch-tool-a-60-line-mcp-server-free-self-hosted-23g4)
-- [We Built a VS Code Extension That Installs 90+ MCP Servers in One Click](https://dev.to/veduis/we-built-a-vs-code-extension-that-installs-90-mcp-servers-in-one-click-5430)
-- [Adding user authentication to a Next.js app with Whop OAuth](https://dev.to/east/adding-user-authentication-to-a-nextjs-app-with-whop-oauth-b3b)
-- [Is Coding Over? 5 Career Pivots for Rails Devs in the AI Era](https://dev.to/zilton7/is-coding-over-5-career-pivots-for-rails-devs-in-the-ai-era-289b)
+- [Why Comprehensive Code Review Matters More Than You Think](https://dev.to/constanza_diaz_dev/why-comprehensive-code-review-matters-more-than-you-think-55ho)
+- [AI Test Agents Are Useful, but Only If You Keep Them on a Leash](https://dev.to/orbitpickle307/ai-test-agents-are-useful-but-only-if-you-keep-them-on-a-leash-33pg)
+- [The First RFID Patent Was a Toll Device](https://dev.to/fluidwire/the-first-rfid-patent-was-a-toll-device-5h4h)
+- [Vue 3.6 Vapor Mode: Opt Out of the Virtual DOM](https://dev.to/grimicorn/vue-36-vapor-mode-opt-out-of-the-virtual-dom-50en)
 <!-- BLOG-POST-LIST:END -->
 
