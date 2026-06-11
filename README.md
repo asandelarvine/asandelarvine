@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hindu Festival Tithi Rules](https://dev.to/krazykrackpot/hindu-festival-tithi-rules-ikh)
-- [Rate Limits &amp; Anti-Bots in Agentic Scraping](https://dev.to/alterlab/rate-limits-anti-bots-in-agentic-scraping-4oi2)
-- [My complete self-hosting stack: Docker Compose + hardening scripts I use on Hetzner &lpar;sharing everything&rpar;](https://dev.to/nevik_schmidt_3635afa2b85/my-complete-self-hosting-stack-docker-compose-hardening-scripts-i-use-on-hetzner-sharing-4l8h)
-- [10 n8n workflow templates I actually use daily — sharing the JSON files](https://dev.to/nevik_schmidt_3635afa2b85/10-n8n-workflow-templates-i-actually-use-daily-sharing-the-json-files-p72)
+- [Solana Transactions Aren&#39;t API Calls .. So what are they?](https://dev.to/jriffs/solana-transactions-arent-api-calls-so-what-are-they-4elf)
+- [Workflow Engine NEO trials are self-serve now, and your coding agent can grab one too](https://dev.to/optimajet/workflow-engine-neo-trials-are-self-serve-now-and-your-coding-agent-can-grab-one-too-38am)
+- [Trying Out AWS FinOps Agent with Slack Integration](https://dev.to/aws-builders/trying-out-aws-finops-agent-with-slack-integration-h07)
+- [My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.](https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8)
 <!-- BLOG-POST-LIST:END -->
 
