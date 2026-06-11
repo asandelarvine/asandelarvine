@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agent Memory Is Not Chat History](https://dev.to/glendel/ai-agent-memory-is-not-chat-history-4jjb)
-- [What is Data Encryption? A Complete 2026 Guide for Developers &amp; Security Teams](https://dev.to/andrewll/what-is-data-encryption-a-complete-2026-guide-for-developers-security-teams-578p)
-- [I Had 6 Side Projects Open in One Browser Window. Here&#39;s What That Was Costing Me.](https://dev.to/stackfolo/i-had-6-side-projects-open-in-one-browser-window-heres-what-that-was-costing-me-5a8d)
-- [エージェントAPI代、月数万円になってない？マルチモデルルーティングでコストを10分の1にする実践ガイド](https://dev.to/luna_chan/ezientoapidai-yue-shu-mo-yuan-ninatutenaimarutimoderuruteingudekosutowo10fen-no1nisurushi-jian-gaido-2g0n)
+- [Context Mode 的 5 个隐藏用法 🔥 — 让 Claude Code 上下文消耗减少 98% 的 MCP Server](https://dev.to/_cbd692d476c5faf3b61bcf/context-mode-de-5-ge-yin-cang-yong-fa-rang-claude-code-shang-xia-wen-xiao-hao-jian-shao-98-de-mcp-server-2662)
+- [Context Mode&#39;s 5 Hidden Uses 🔥 — MCP Server That Cuts Claude Code Context by 98%](https://dev.to/_cbd692d476c5faf3b61bcf/context-modes-5-hidden-uses-mcp-server-that-cuts-claude-code-context-by-98-32ih)
+- [What If DSA Was Taught Visually Instead of Just Theory?](https://dev.to/sreya-satheesh/what-if-dsa-was-taught-visually-instead-of-just-theory-4fgf)
+- [Takeway from AWS Generative AI Lens](https://dev.to/amitkayal/takeway-from-aws-generative-ai-lens-14dj)
 <!-- BLOG-POST-LIST:END -->
 
