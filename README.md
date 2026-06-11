@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Solana Transactions Aren&#39;t API Calls .. So what are they?](https://dev.to/jriffs/solana-transactions-arent-api-calls-so-what-are-they-4elf)
-- [Workflow Engine NEO trials are self-serve now, and your coding agent can grab one too](https://dev.to/optimajet/workflow-engine-neo-trials-are-self-serve-now-and-your-coding-agent-can-grab-one-too-38am)
-- [Trying Out AWS FinOps Agent with Slack Integration](https://dev.to/aws-builders/trying-out-aws-finops-agent-with-slack-integration-h07)
-- [My daughter asked if developers used to write code by hand, but it was the follow-up question that surprised me.](https://dev.to/googleai/my-daughter-asked-if-developers-used-to-write-code-by-hand-but-it-was-the-follow-up-question-that-1bh8)
+- [Give Your AI Agent a Web-Fetch Tool: a 60-Line MCP Server &lpar;Free, Self-Hosted&rpar;](https://dev.to/0012303/give-your-ai-agent-a-web-fetch-tool-a-60-line-mcp-server-free-self-hosted-23g4)
+- [We Built a VS Code Extension That Installs 90+ MCP Servers in One Click](https://dev.to/veduis/we-built-a-vs-code-extension-that-installs-90-mcp-servers-in-one-click-5430)
+- [Adding user authentication to a Next.js app with Whop OAuth](https://dev.to/east/adding-user-authentication-to-a-nextjs-app-with-whop-oauth-b3b)
+- [Is Coding Over? 5 Career Pivots for Rails Devs in the AI Era](https://dev.to/zilton7/is-coding-over-5-career-pivots-for-rails-devs-in-the-ai-era-289b)
 <!-- BLOG-POST-LIST:END -->
 
