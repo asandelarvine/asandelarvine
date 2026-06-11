@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m so tired to code. Not even Vibe Coding... D:](https://dev.to/francistrdev/im-so-tired-to-code-not-even-vibe-coding-d-1l2p)
-- [From Keypoints to Measurements: Why Landmarks Alone Are Useless](https://dev.to/rahul_sangamker_653e0c1ba/from-keypoints-to-measurements-why-landmarks-alone-are-useless-4oec)
-- [I Put a Neural Network Inside My Portfolio — No TensorFlow, No Server, 145 KB](https://dev.to/rahul_sangamker_653e0c1ba/i-put-a-neural-network-inside-my-portfolio-no-tensorflow-no-server-145-kb-32k7)
-- [Testing Camouflage Against the Real Adversary: an AI](https://dev.to/rahul_sangamker_653e0c1ba/testing-camouflage-against-the-real-adversary-an-ai-34f1)
+- [AI Agent Memory Is Not Chat History](https://dev.to/glendel/ai-agent-memory-is-not-chat-history-4jjb)
+- [What is Data Encryption? A Complete 2026 Guide for Developers &amp; Security Teams](https://dev.to/andrewll/what-is-data-encryption-a-complete-2026-guide-for-developers-security-teams-578p)
+- [I Had 6 Side Projects Open in One Browser Window. Here&#39;s What That Was Costing Me.](https://dev.to/stackfolo/i-had-6-side-projects-open-in-one-browser-window-heres-what-that-was-costing-me-5a8d)
+- [エージェントAPI代、月数万円になってない？マルチモデルルーティングでコストを10分の1にする実践ガイド](https://dev.to/luna_chan/ezientoapidai-yue-shu-mo-yuan-ninatutenaimarutimoderuruteingudekosutowo10fen-no1nisurushi-jian-gaido-2g0n)
 <!-- BLOG-POST-LIST:END -->
 
