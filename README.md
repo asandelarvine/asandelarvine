@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I trained a neural network to break my own encrypted search. It learned nothing.](https://dev.to/zahraarmantech/i-trained-a-neural-network-to-break-my-own-encrypted-search-it-learned-nothing-55f3)
-- [CSS &#39;overscroll-behavior&#39; rubber banding: the right color behind the page when you pull it](https://dev.to/a-dev/css-overscroll-behavior-rubber-banding-the-right-color-behind-the-page-when-you-pull-it-47mj)
-- [SkillOpt: Revolutionizing AI Agent Skills in 2026](https://dev.to/meghroop_tech/skillopt-revolutionizing-ai-agent-skills-in-2026-28j0)
-- [Optimistic UI Patterns with Next.js Server Actions and Supabase Realtime](https://dev.to/mahdi_benrhouma_fe1c6005/optimistic-ui-patterns-with-nextjs-server-actions-and-supabase-realtime-7e0)
+- [Refactoring Go API Unit Tests: Breaking Down the Testing Monolith](https://dev.to/xaiphyr/refactoring-go-api-unit-tests-breaking-down-the-testing-monolith-1p4p)
+- [We Built Two Products Around the Same Boring Insight: Valuable Work Leaks](https://dev.to/speed_engineer/we-built-two-products-around-the-same-boring-insight-valuable-work-leaks-5e8f)
+- [Theology of Coding: Biblical Metaphors and Theological Concepts in Programming](https://dev.to/jens_michaelsen/theology-of-coding-biblical-metaphors-and-theological-concepts-in-programming-5fil)
+- [Why an encrypted config backup breaks when you move servers — and how I fixed it in laravel-config-backup](https://dev.to/nasrulhazim/why-an-encrypted-config-backup-breaks-when-you-move-servers-and-how-i-fixed-it-in-22ia)
 <!-- BLOG-POST-LIST:END -->
 
