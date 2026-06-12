@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How One Person Companies Make Money](https://dev.to/dufrence/how-one-person-companies-make-money-4jdi)
-- [puppet-checkmk dusted off 🧹🦊](https://dev.to/voxpupuli/puppet-checkmk-dusted-off-1jc)
-- [puppet-checkmk entstaubt 🧹🦊](https://dev.to/voxpupuli/puppet-checkmk-entstaubt-5a61)
-- [Swift Break, Continue and Infinite Loops — Taking Control of Your Loops 🎮](https://dev.to/gamya_m/swift-break-continue-and-infinite-loops-taking-control-of-your-loops-2aj2)
+- [Stop Hand-Editing Fragile APT Lines: Practical deb822 `.sources` Files for Debian and Ubuntu](https://dev.to/lyraalishaikh/stop-hand-editing-fragile-apt-lines-practical-deb822-sources-files-for-debian-and-ubuntu-420l)
+- [How to Build a LinkedIn Outreach Pipeline &lpar;Without Getting Your Account Banned&rpar;](https://dev.to/dumebii/how-to-build-a-linkedin-outreach-pipeline-without-getting-your-account-banned-2j7p)
+- [IOS Midsommer Madness](https://dev.to/gde/ios-midsommer-madness-5h4)
+- [How to use build-your-own-x: Master programming by recreating your favorite technologies from scratch.](https://dev.to/kelvin_kariuki_20f4bec616/how-to-use-build-your-own-x-master-programming-by-recreating-your-favorite-technologies-from-5hkf)
 <!-- BLOG-POST-LIST:END -->
 
