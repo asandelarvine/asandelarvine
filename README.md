@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring Go API Unit Tests: Breaking Down the Testing Monolith](https://dev.to/xaiphyr/refactoring-go-api-unit-tests-breaking-down-the-testing-monolith-1p4p)
-- [We Built Two Products Around the Same Boring Insight: Valuable Work Leaks](https://dev.to/speed_engineer/we-built-two-products-around-the-same-boring-insight-valuable-work-leaks-5e8f)
-- [Theology of Coding: Biblical Metaphors and Theological Concepts in Programming](https://dev.to/jens_michaelsen/theology-of-coding-biblical-metaphors-and-theological-concepts-in-programming-5fil)
-- [Why an encrypted config backup breaks when you move servers — and how I fixed it in laravel-config-backup](https://dev.to/nasrulhazim/why-an-encrypted-config-backup-breaks-when-you-move-servers-and-how-i-fixed-it-in-22ia)
+- [How One Person Companies Make Money](https://dev.to/dufrence/how-one-person-companies-make-money-4jdi)
+- [puppet-checkmk dusted off 🧹🦊](https://dev.to/voxpupuli/puppet-checkmk-dusted-off-1jc)
+- [puppet-checkmk entstaubt 🧹🦊](https://dev.to/voxpupuli/puppet-checkmk-entstaubt-5a61)
+- [Swift Break, Continue and Infinite Loops — Taking Control of Your Loops 🎮](https://dev.to/gamya_m/swift-break-continue-and-infinite-loops-taking-control-of-your-loops-2aj2)
 <!-- BLOG-POST-LIST:END -->
 
