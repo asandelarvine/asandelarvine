@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is the AI Bubble Actually Bursting? What a Developer Who Shipped Real AI Products Thinks [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/is-the-ai-bubble-actually-bursting-what-a-developer-who-shipped-real-ai-products-thinks-2026-3i4g)
-- [Web3: O Guia Completo da Internet Descentralizada e o Futuro Digital [PT-BR]](https://dev.to/andr_diasmoreiraprol_b/web3-o-guia-completo-da-internet-descentralizada-e-o-futuro-digital-pt-br-58b4)
-- [How to Read an AI Product&#39;s Changelog Before You Commit to It](https://dev.to/faiso0ole/how-to-read-an-ai-products-changelog-before-you-commit-to-it-4p1g)
-- [Audit Trails Make Systems Easier to Trust](https://dev.to/webmasterid/audit-trails-make-systems-easier-to-trust-32f7)
+- [Practical QA Skills in 2026: What Actually Breaks Modern Test Automation](https://dev.to/mellowthunder735/practical-qa-skills-in-2026-what-actually-breaks-modern-test-automation-49nh)
+- [Complete Guide: Setting Up XWiki 17 on Premises](https://dev.to/vilan011/complete-guide-setting-up-xwiki-17-on-premises-4coo)
+- [I got tired of asking coding agents “are you sure?”, so I built a local evidence checker](https://dev.to/ftaboadac/i-got-tired-of-asking-coding-agents-are-you-sure-so-i-built-a-local-evidence-checker-11c)
+- [Agentjacking: AI Coding Agents Tricked Into Running Malicious Code via Sentry Injection](https://dev.to/etairos/agentjacking-ai-coding-agents-tricked-into-running-malicious-code-via-sentry-injection-f7c)
 <!-- BLOG-POST-LIST:END -->
 
