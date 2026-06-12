@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Competitive Programming Series — Session 2: Recursion and Backtracking](https://dev.to/rs9000/competitive-programming-series-session-2-recursion-and-backtracking-pmn)
-- [AI Agent Security, Malware Evasion, &amp; LLM Data Leakage Risks](https://dev.to/soytuber/ai-agent-security-malware-evasion-llm-data-leakage-risks-4opa)
-- [Local AI Coding Agents, Secure Production Deployment, and Angular-Specific AI Skills](https://dev.to/soytuber/local-ai-coding-agents-secure-production-deployment-and-angular-specific-ai-skills-181p)
-- [DuckDB Data Inlining, SQLite Fossildelta OOB, Postgres 19 Temporal Data](https://dev.to/soytuber/duckdb-data-inlining-sqlite-fossildelta-oob-postgres-19-temporal-data-123m)
+- [&quot;Can we just add login?&quot; — a 4-way system for client change requests that don&#39;t eat your margin](https://dev.to/projectnomad/can-we-just-add-login-a-4-way-system-for-client-change-requests-that-dont-eat-your-margin-2n6b)
+- [AI Evals, Part 2: Error Analysis The Unglamorous Superpower Behind Good Evals](https://dev.to/mrviduus/ai-evals-part-2-error-analysis-the-unglamorous-superpower-behind-good-evals-4k2h)
+- [Fable 5 dropped and I&#39;m suddenly a lot more paranoid about my VS Code extensions](https://dev.to/ishaan_agrawal/fable-5-dropped-and-im-suddenly-a-lot-more-paranoid-about-my-vs-code-extensions-iin)
+- [How to Keep Your Website Fast When Using Custom Fonts](https://dev.to/mubeen_naeem7896/how-to-keep-your-website-fast-when-using-custom-fonts-2j0i)
 <!-- BLOG-POST-LIST:END -->
 
