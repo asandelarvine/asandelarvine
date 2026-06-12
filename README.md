@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Hand-Editing Fragile APT Lines: Practical deb822 `.sources` Files for Debian and Ubuntu](https://dev.to/lyraalishaikh/stop-hand-editing-fragile-apt-lines-practical-deb822-sources-files-for-debian-and-ubuntu-420l)
-- [How to Build a LinkedIn Outreach Pipeline &lpar;Without Getting Your Account Banned&rpar;](https://dev.to/dumebii/how-to-build-a-linkedin-outreach-pipeline-without-getting-your-account-banned-2j7p)
-- [IOS Midsommer Madness](https://dev.to/gde/ios-midsommer-madness-5h4)
-- [How to use build-your-own-x: Master programming by recreating your favorite technologies from scratch.](https://dev.to/kelvin_kariuki_20f4bec616/how-to-use-build-your-own-x-master-programming-by-recreating-your-favorite-technologies-from-5hkf)
+- [Is the AI Bubble Actually Bursting? What a Developer Who Shipped Real AI Products Thinks [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/is-the-ai-bubble-actually-bursting-what-a-developer-who-shipped-real-ai-products-thinks-2026-3i4g)
+- [Web3: O Guia Completo da Internet Descentralizada e o Futuro Digital [PT-BR]](https://dev.to/andr_diasmoreiraprol_b/web3-o-guia-completo-da-internet-descentralizada-e-o-futuro-digital-pt-br-58b4)
+- [How to Read an AI Product&#39;s Changelog Before You Commit to It](https://dev.to/faiso0ole/how-to-read-an-ai-products-changelog-before-you-commit-to-it-4p1g)
+- [Audit Trails Make Systems Easier to Trust](https://dev.to/webmasterid/audit-trails-make-systems-easier-to-trust-32f7)
 <!-- BLOG-POST-LIST:END -->
 
