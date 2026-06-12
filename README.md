@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Practical QA Skills in 2026: What Actually Breaks Modern Test Automation](https://dev.to/mellowthunder735/practical-qa-skills-in-2026-what-actually-breaks-modern-test-automation-49nh)
-- [Complete Guide: Setting Up XWiki 17 on Premises](https://dev.to/vilan011/complete-guide-setting-up-xwiki-17-on-premises-4coo)
-- [I got tired of asking coding agents “are you sure?”, so I built a local evidence checker](https://dev.to/ftaboadac/i-got-tired-of-asking-coding-agents-are-you-sure-so-i-built-a-local-evidence-checker-11c)
-- [Agentjacking: AI Coding Agents Tricked Into Running Malicious Code via Sentry Injection](https://dev.to/etairos/agentjacking-ai-coding-agents-tricked-into-running-malicious-code-via-sentry-injection-f7c)
+- [Competitive Programming Series — Session 2: Recursion and Backtracking](https://dev.to/rs9000/competitive-programming-series-session-2-recursion-and-backtracking-pmn)
+- [AI Agent Security, Malware Evasion, &amp; LLM Data Leakage Risks](https://dev.to/soytuber/ai-agent-security-malware-evasion-llm-data-leakage-risks-4opa)
+- [Local AI Coding Agents, Secure Production Deployment, and Angular-Specific AI Skills](https://dev.to/soytuber/local-ai-coding-agents-secure-production-deployment-and-angular-specific-ai-skills-181p)
+- [DuckDB Data Inlining, SQLite Fossildelta OOB, Postgres 19 Temporal Data](https://dev.to/soytuber/duckdb-data-inlining-sqlite-fossildelta-oob-postgres-19-temporal-data-123m)
 <!-- BLOG-POST-LIST:END -->
 
