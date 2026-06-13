@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Affordable SEO Toolkit in Python Using SERPSpur API](https://dev.to/kevincarroll85/building-an-affordable-seo-toolkit-in-python-using-serpspur-api-p99)
-- [How to secure Azure storage with Managed identities for a web app](https://dev.to/emmanuel_banjo_df6d8074c7/how-to-secure-azure-storage-with-managed-identities-for-a-web-app-2i08)
-- [How to Configure Azure Virtual Networks and Subnets for Virtual Machine Deployment](https://dev.to/forsyth_famous_/how-to-configure-azure-virtual-networks-and-subnets-for-virtual-machine-deployment-1g89)
-- [Healthcare-specific AI is the practical model story builders should watch](https://dev.to/jenueldev/healthcare-specific-ai-is-the-practical-model-story-builders-should-watch-18gb)
+- [C++ Basics: How to Determine a Triangle Type Using IF-ELSE Statements](https://dev.to/alexandruv156/c-basics-how-to-determine-a-triangle-type-using-if-else-statements-ccf)
+- [Cómo solucionar `Code exited &lpar;1&rpar;` en Docker en Raspberry Pi](https://dev.to/erickeduardoramos03/como-solucionar-code-exited-1-en-docker-en-raspberry-pi-4h6a)
+- [JavaScript Functions Explained](https://dev.to/dev_saravanan_journey/javascript-functions-explained-1706)
+- [The Vertical AI Tool Is Starting to Beat the Generalist](https://dev.to/ninghonggang/the-vertical-ai-tool-is-starting-to-beat-the-generalist-4l0g)
 <!-- BLOG-POST-LIST:END -->
 
