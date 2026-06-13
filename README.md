@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Most agentic workflows are just while loops with vibes](https://dev.to/adioof/most-agentic-workflows-are-just-while-loops-with-vibes-155b)
-- [Python __init__ Method Explained: A Beginner&#39;s Guide to OOP](https://dev.to/shameel/python-init-method-explained-a-beginners-guide-to-oop-5bc6)
-- [dev.to 10-day 10 — Product Value Often Shows Up as Reduced Friction](https://dev.to/webmasterid/devto-10-day-10-product-value-often-shows-up-as-reduced-friction-3db)
-- [OpenAI enhances Codex with secure self-hosted sandboxes via Ona acquisition](https://dev.to/davekurian/openai-enhances-codex-with-secure-self-hosted-sandboxes-via-ona-acquisition-52j)
+- [Stop Over-Engineering React State: When to Choose Zustand Over Redux Toolkit](https://dev.to/digitalinnovations/stop-over-engineering-react-state-when-to-choose-zustand-over-redux-toolkit-3o85)
+- [Typescript: Refinamento de Tipos &lpar;Type Guards / Narrowing&rpar;](https://dev.to/yuripeixinho/refinamento-de-tipos-type-guards-narrowing-43bn)
+- [Agent frameworks create workflows. Production needs run receipts.](https://dev.to/armorer_labs/agent-frameworks-create-workflows-production-needs-run-receipts-5eb6)
+- [Declarative. Imperative. Intentional.](https://dev.to/stinklewinks/declarative-imperative-intentional-4j60)
 <!-- BLOG-POST-LIST:END -->
 
