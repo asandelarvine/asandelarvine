@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [x64 Windows Assembly Fundamentals Part 2: Learning the Language](https://dev.to/mirrai/x64-windows-assembly-fundamentals-part-2-learning-the-language-c9c)
-- [Astrophysics &amp; AI with Python: The Ultimate Guide to Julian Dates and Sidereal Time](https://dev.to/programmingcentral/astrophysics-ai-with-python-the-ultimate-guide-to-julian-dates-and-sidereal-time-4c21)
-- [Best Monitoring Tools for Startups in 2026: From Side Project to Series A](https://dev.to/devhelm/best-monitoring-tools-for-startups-in-2026-from-side-project-to-series-a-1647)
-- [How to type third-party API responses in TypeScript &lpar;without lying to your compiler&rpar;](https://dev.to/hugonaili/how-to-type-third-party-api-responses-in-typescript-without-lying-to-your-compiler-4cdn)
+- [Struct Embedding in Go: Composition That Bites When You Reach for Inheritance](https://dev.to/gabrielanhaia/struct-embedding-in-go-composition-that-bites-when-you-reach-for-inheritance-29le)
+- [Typescritp: Sobrecarga de Construtor](https://dev.to/yuripeixinho/sobrecarga-de-construtor-hkh)
+- [defer in Loops: The Resource Leak Go Still Lets You Write](https://dev.to/gabrielanhaia/defer-in-loops-the-resource-leak-go-still-lets-you-write-j9l)
+- [Query Objects in PHP: Rich Filtering Without Leaking SQL Into the Domain](https://dev.to/gabrielanhaia/query-objects-in-php-rich-filtering-without-leaking-sql-into-the-domain-43gc)
 <!-- BLOG-POST-LIST:END -->
 
