@@ -79,9 +79,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [C++ Basics: How to Determine a Triangle Type Using IF-ELSE Statements](https://dev.to/alexandruv156/c-basics-how-to-determine-a-triangle-type-using-if-else-statements-ccf)
-- [Cómo solucionar `Code exited &lpar;1&rpar;` en Docker en Raspberry Pi](https://dev.to/erickeduardoramos03/como-solucionar-code-exited-1-en-docker-en-raspberry-pi-4h6a)
-- [JavaScript Functions Explained](https://dev.to/dev_saravanan_journey/javascript-functions-explained-1706)
-- [The Vertical AI Tool Is Starting to Beat the Generalist](https://dev.to/ninghonggang/the-vertical-ai-tool-is-starting-to-beat-the-generalist-4l0g)
+- [PostgreSQL 2200F Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-2200f-error-causes-and-solutions-complete-guide-3fhe)
+- [Flowork Agent: A Self-Hosted AI Agent OS With Memory, Security, and Offline Capability](https://dev.to/alya_mahalini_f05d9953cfa/flowork-agent-a-self-hosted-ai-agent-os-with-memory-security-and-offline-capability-1mk3)
+- [Demo: https://codei-sync-t72r.onrender.com/
+
+I built a real-time collaborative coding platform and would love some honest feedback.
+
+The goal was to remove the friction that often comes with pair programming and collaborative coding sessions. Instead of in](https://dev.to/hamza_abbasi_041a62769f6b/demo-httpscodei-sync-t72ronrendercom-i-built-a-real-time-collaborative-coding-platform-3n50)
+- [I built a free, open-source AI calorie tracker because the others got greedy](https://dev.to/apoorvdarshan/i-built-a-free-open-source-ai-calorie-tracker-because-the-others-got-greedy-npg)
 <!-- BLOG-POST-LIST:END -->
 
