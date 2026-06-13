@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Can we just add login?&quot; — a 4-way system for client change requests that don&#39;t eat your margin](https://dev.to/projectnomad/can-we-just-add-login-a-4-way-system-for-client-change-requests-that-dont-eat-your-margin-2n6b)
-- [AI Evals, Part 2: Error Analysis The Unglamorous Superpower Behind Good Evals](https://dev.to/mrviduus/ai-evals-part-2-error-analysis-the-unglamorous-superpower-behind-good-evals-4k2h)
-- [Fable 5 dropped and I&#39;m suddenly a lot more paranoid about my VS Code extensions](https://dev.to/ishaan_agrawal/fable-5-dropped-and-im-suddenly-a-lot-more-paranoid-about-my-vs-code-extensions-iin)
-- [How to Keep Your Website Fast When Using Custom Fonts](https://dev.to/mubeen_naeem7896/how-to-keep-your-website-fast-when-using-custom-fonts-2j0i)
+- [GEMINI.md 注入攻擊實測](https://dev.to/jh5_pulse/geminimd-zhu-ru-gong-ji-shi-ce-2a8l)
+- [Im new here!](https://dev.to/tokiopy/im-new-here-13p1)
+- [本地 LLM 抵擋 MITRE ATT&amp;CK 攻擊的能力差異](https://dev.to/jh5_pulse/ben-di-llm-di-dang-mitre-attck-gong-ji-de-neng-li-chai-yi-3jld)
+- [PII 偵測實測 : Regex vs BERT-NER vs Ensemble](https://dev.to/jh5_pulse/pii-zhen-ce-shi-ce-regex-vs-bert-ner-vs-ensemble-65o)
 <!-- BLOG-POST-LIST:END -->
 
