@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GEMINI.md 注入攻擊實測](https://dev.to/jh5_pulse/geminimd-zhu-ru-gong-ji-shi-ce-2a8l)
-- [Im new here!](https://dev.to/tokiopy/im-new-here-13p1)
-- [本地 LLM 抵擋 MITRE ATT&amp;CK 攻擊的能力差異](https://dev.to/jh5_pulse/ben-di-llm-di-dang-mitre-attck-gong-ji-de-neng-li-chai-yi-3jld)
-- [PII 偵測實測 : Regex vs BERT-NER vs Ensemble](https://dev.to/jh5_pulse/pii-zhen-ce-shi-ce-regex-vs-bert-ner-vs-ensemble-65o)
+- [Building an Affordable SEO Toolkit in Python Using SERPSpur API](https://dev.to/kevincarroll85/building-an-affordable-seo-toolkit-in-python-using-serpspur-api-p99)
+- [How to secure Azure storage with Managed identities for a web app](https://dev.to/emmanuel_banjo_df6d8074c7/how-to-secure-azure-storage-with-managed-identities-for-a-web-app-2i08)
+- [How to Configure Azure Virtual Networks and Subnets for Virtual Machine Deployment](https://dev.to/forsyth_famous_/how-to-configure-azure-virtual-networks-and-subnets-for-virtual-machine-deployment-1g89)
+- [Healthcare-specific AI is the practical model story builders should watch](https://dev.to/jenueldev/healthcare-specific-ai-is-the-practical-model-story-builders-should-watch-18gb)
 <!-- BLOG-POST-LIST:END -->
 
