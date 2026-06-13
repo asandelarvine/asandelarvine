@@ -79,13 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL 2200F Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-2200f-error-causes-and-solutions-complete-guide-3fhe)
-- [Flowork Agent: A Self-Hosted AI Agent OS With Memory, Security, and Offline Capability](https://dev.to/alya_mahalini_f05d9953cfa/flowork-agent-a-self-hosted-ai-agent-os-with-memory-security-and-offline-capability-1mk3)
-- [Demo: https://codei-sync-t72r.onrender.com/
-
-I built a real-time collaborative coding platform and would love some honest feedback.
-
-The goal was to remove the friction that often comes with pair programming and collaborative coding sessions. Instead of in](https://dev.to/hamza_abbasi_041a62769f6b/demo-httpscodei-sync-t72ronrendercom-i-built-a-real-time-collaborative-coding-platform-3n50)
-- [I built a free, open-source AI calorie tracker because the others got greedy](https://dev.to/apoorvdarshan/i-built-a-free-open-source-ai-calorie-tracker-because-the-others-got-greedy-npg)
+- [Most agentic workflows are just while loops with vibes](https://dev.to/adioof/most-agentic-workflows-are-just-while-loops-with-vibes-155b)
+- [Python __init__ Method Explained: A Beginner&#39;s Guide to OOP](https://dev.to/shameel/python-init-method-explained-a-beginners-guide-to-oop-5bc6)
+- [dev.to 10-day 10 — Product Value Often Shows Up as Reduced Friction](https://dev.to/webmasterid/devto-10-day-10-product-value-often-shows-up-as-reduced-friction-3db)
+- [OpenAI enhances Codex with secure self-hosted sandboxes via Ona acquisition](https://dev.to/davekurian/openai-enhances-codex-with-secure-self-hosted-sandboxes-via-ona-acquisition-52j)
 <!-- BLOG-POST-LIST:END -->
 
