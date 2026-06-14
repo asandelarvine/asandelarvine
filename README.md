@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Chinese LLMs at Scale: A Cloud Architect&#39;s Notes](https://dev.to/truelane/running-chinese-llms-at-scale-a-cloud-architects-notes-2g57)
-- [Edge Computing in the Browser: How I Replaced a Backend Server with Web Workers &amp; WASM](https://dev.to/karthick_ajan/edge-computing-in-the-browser-how-i-replaced-a-backend-server-with-web-workers-wasm-bg2)
-- [Event-Driven Architecture: Uncle Explains Like You&#39;re Five 👦👨‍🦳](https://dev.to/surajrkhonde/event-driven-architecture-uncle-explains-like-youre-five-4aaj)
-- [AI Agents Are the Best Thing to Happen to Network Administration Since SDN](https://dev.to/mariatanbobo/ai-agents-are-the-best-thing-to-happen-to-network-administration-since-sdn-3kji)
+- [AWS VPC IPAM: The Most Underrated Feature for Avoiding IP Address Chaos](https://dev.to/srinu_nuthi_5ff587c586662/aws-vpc-ipam-the-most-underrated-feature-for-avoiding-ip-address-chaos-2e2o)
+- [React-prestanda: Sluta spilla energi på re-rendering](https://dev.to/linneaahlgren2427/react-prestanda-sluta-spilla-energi-pa-re-rendering-4h9)
+- [Usar h2non/imaginary con Ddev](https://dev.to/oskar_calvo_1615a9b3b293f/usar-h2nonimaginary-con-ddev-3e6h)
+- [What I learned building a take-home pay calculator for all 50 US states](https://dev.to/graham_s_6e58dacfa7e82f0d/what-i-learned-building-a-take-home-pay-calculator-for-all-50-us-states-2gmp)
 <!-- BLOG-POST-LIST:END -->
 
