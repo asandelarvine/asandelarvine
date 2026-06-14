@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Claude to Troubleshoot Linux Servers](https://dev.to/devopsaitoolkit/how-to-use-claude-to-troubleshoot-linux-servers-1fhe)
-- [A Cognitive Benchmark for Code-RAG Retrieval: Part 2 — Why Model Rankings Depend on the Pipeline](https://dev.to/miftakhov/a-cognitive-benchmark-for-code-rag-retrieval-part-2-why-model-rankings-depend-on-the-pipeline-12a4)
-- [5 LLM APIs Tested for Latency: Real Data [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/5-llm-apis-tested-for-latency-real-data-2026-3e4o)
-- [Prompt Injection in 2026: Still OWASP&#39;s Number One LLM Vulnerability](https://dev.to/kunal_d6a8fea2309e1571ee7/prompt-injection-in-2026-still-owasps-number-one-llm-vulnerability-5f31)
+- [Predictive Alpha: Pipeline Engineering for Real-Time Machine Learning Inference](https://dev.to/mountek/predictive-alpha-pipeline-engineering-for-real-time-machine-learning-inference-f69)
+- [We Got Blacklisted Because of a Banking Trojan We Didn&#39;t Even Have](https://dev.to/zehlm/our-domain-mail-was-blacklisted-because-of-a-banking-trojan-we-didnt-even-have-5be)
+- [The Rate‑Limiter Jedi: Mastering CAP Like a Lightsaber Duel](https://dev.to/timevolt/the-rate-limiter-jedi-mastering-cap-like-a-lightsaber-duel-17da)
+- [Spring Boot 3 and JVM Resilience in API Development: Avoiding JavaScript’s 2014 Pitfalls](https://dev.to/nitish_95c3a169c005f1d4fe/spring-boot-3-and-jvm-resilience-in-api-development-avoiding-javascripts-2014-pitfalls-4dl4)
 <!-- BLOG-POST-LIST:END -->
 
