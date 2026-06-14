@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Struct Embedding in Go: Composition That Bites When You Reach for Inheritance](https://dev.to/gabrielanhaia/struct-embedding-in-go-composition-that-bites-when-you-reach-for-inheritance-29le)
-- [Typescritp: Sobrecarga de Construtor](https://dev.to/yuripeixinho/sobrecarga-de-construtor-hkh)
-- [defer in Loops: The Resource Leak Go Still Lets You Write](https://dev.to/gabrielanhaia/defer-in-loops-the-resource-leak-go-still-lets-you-write-j9l)
-- [Query Objects in PHP: Rich Filtering Without Leaking SQL Into the Domain](https://dev.to/gabrielanhaia/query-objects-in-php-rich-filtering-without-leaking-sql-into-the-domain-43gc)
+- [General Token Economics: The Core System Behind a Sustainable Web3 Project](https://dev.to/jabo82930/general-token-economics-the-core-system-behind-a-sustainable-web3-project-15j2)
+- [Vertica vs VoltDB &lpar;Volt Active Data&rpar;: Key Differences, Use Cases &amp; How to Choose in 2026](https://dev.to/andrewll/vertica-vs-voltdb-volt-active-data-key-differences-use-cases-how-to-choose-in-2026-fc7)
+- [PostgreSQL 22P01 Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-22p01-error-causes-and-solutions-complete-guide-43ad)
+- [agentic workflows are being domesticated by actions](https://dev.to/pvgomes/agentic-workflows-are-being-domesticated-by-actions-4j4)
 <!-- BLOG-POST-LIST:END -->
 
