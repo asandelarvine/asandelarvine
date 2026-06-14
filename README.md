@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [General Token Economics: The Core System Behind a Sustainable Web3 Project](https://dev.to/jabo82930/general-token-economics-the-core-system-behind-a-sustainable-web3-project-15j2)
-- [Vertica vs VoltDB &lpar;Volt Active Data&rpar;: Key Differences, Use Cases &amp; How to Choose in 2026](https://dev.to/andrewll/vertica-vs-voltdb-volt-active-data-key-differences-use-cases-how-to-choose-in-2026-fc7)
-- [PostgreSQL 22P01 Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-22p01-error-causes-and-solutions-complete-guide-43ad)
-- [agentic workflows are being domesticated by actions](https://dev.to/pvgomes/agentic-workflows-are-being-domesticated-by-actions-4j4)
+- [From STTM to Snowflake SQL: Building a Metadata-Driven Data Engineering Copilot](https://dev.to/amising6/from-sttm-to-snowflake-sql-building-a-metadata-driven-data-engineering-copilot-n4)
+- [SAGA Made Microservices Reliable. Agent Harness Makes AI Agents Reliable.](https://dev.to/sreeni5018/saga-made-microservices-reliable-agent-harness-makes-ai-agents-reliable-3d1k)
+- [Day 17 of #100DaysOfClickHouse: Mastering Data Filtering for Faster ClickHouse Queries](https://dev.to/kanishga_subramani_49ad73/day-17-of-100daysofclickhouse-mastering-data-filtering-for-faster-clickhouse-queries-10i7)
+- [&quot;Stop Using os.path — Python pathlib Makes File Handling Actually Enjoyable&quot;](https://dev.to/kaithorne/stop-using-ospath-python-pathlib-makes-file-handling-actually-enjoyable-225)
 <!-- BLOG-POST-LIST:END -->
 
