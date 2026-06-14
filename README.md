@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Got Fired After Giving Feedback About a System That Was Already in Production](https://dev.to/dobrenteiistvan/i-got-fired-after-giving-feedback-about-a-system-that-was-already-in-production-2bi1)
-- [Making your docs site agent-readable: llms.txt, MCP, and the .well-known files that actually matter](https://dev.to/yonyonai/making-your-docs-site-agent-readable-llmstxt-mcp-and-the-well-known-files-that-actually-matter-33c6)
-- [YAML vs JSON: The Hidden Problems Most Developers Discover Too Late](https://dev.to/farasat6346138/yaml-vs-json-the-hidden-problems-most-developers-discover-too-late-493p)
-- [Why p-retry isn&#39;t enough for production and what to do instead](https://dev.to/rajatdh27/why-p-retry-isnt-enough-for-production-and-what-to-do-instead-5go2)
+- [Samiksha AI: Universal Review &amp; comment Analyzer](https://dev.to/techsakhi/samiksha-ai-universal-review-comment-analyzer-1j4a)
+- [قمر — Complete Guide](https://dev.to/sahand1987/qmr-complete-guide-56pl)
+- [Self-Healing Data Pipelines: Where the Marketing Ends and the Engineering Begins](https://dev.to/justsoftlab_x01/self-healing-data-pipelines-where-the-marketing-ends-and-the-engineering-begins-55fe)
+- [Desenvolvendo uma Plataforma para Transformar a Comunicação Escolar](https://dev.to/sprtxjh/desenvolvendo-uma-plataforma-para-transformar-a-comunicacao-escolar-77)
 <!-- BLOG-POST-LIST:END -->
 
