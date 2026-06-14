@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Container Queries: The CSS Feature I Wish I Had Years Ago](https://dev.to/muhammadmedhat/container-queries-the-css-feature-i-wish-i-had-years-ago-2h63)
-- [My nightly Claude Code cron was about to start costing real money](https://dev.to/mjmirza/my-nightly-claude-code-cron-was-about-to-start-costing-real-money-2ndm)
-- [How I Built My First Real AI Agent with DeepSeek — A Bootcamp Grad&#39;s Guide...](https://dev.to/rileykim/how-i-built-my-first-real-ai-agent-with-deepseek-a-bootcamp-grads-guide-542c)
-- [Nonmem addition to agent that personalised experience](https://dev.to/neonmem-dev/nonmem-addition-to-agent-that-personalised-experience-2pgj)
+- [I Got Fired After Giving Feedback About a System That Was Already in Production](https://dev.to/dobrenteiistvan/i-got-fired-after-giving-feedback-about-a-system-that-was-already-in-production-2bi1)
+- [Making your docs site agent-readable: llms.txt, MCP, and the .well-known files that actually matter](https://dev.to/yonyonai/making-your-docs-site-agent-readable-llmstxt-mcp-and-the-well-known-files-that-actually-matter-33c6)
+- [YAML vs JSON: The Hidden Problems Most Developers Discover Too Late](https://dev.to/farasat6346138/yaml-vs-json-the-hidden-problems-most-developers-discover-too-late-493p)
+- [Why p-retry isn&#39;t enough for production and what to do instead](https://dev.to/rajatdh27/why-p-retry-isnt-enough-for-production-and-what-to-do-instead-5go2)
 <!-- BLOG-POST-LIST:END -->
 
