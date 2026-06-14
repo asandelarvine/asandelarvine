@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS VPC IPAM: The Most Underrated Feature for Avoiding IP Address Chaos](https://dev.to/srinu_nuthi_5ff587c586662/aws-vpc-ipam-the-most-underrated-feature-for-avoiding-ip-address-chaos-2e2o)
-- [React-prestanda: Sluta spilla energi på re-rendering](https://dev.to/linneaahlgren2427/react-prestanda-sluta-spilla-energi-pa-re-rendering-4h9)
-- [Usar h2non/imaginary con Ddev](https://dev.to/oskar_calvo_1615a9b3b293f/usar-h2nonimaginary-con-ddev-3e6h)
-- [What I learned building a take-home pay calculator for all 50 US states](https://dev.to/graham_s_6e58dacfa7e82f0d/what-i-learned-building-a-take-home-pay-calculator-for-all-50-us-states-2gmp)
+- [Container Queries: The CSS Feature I Wish I Had Years Ago](https://dev.to/muhammadmedhat/container-queries-the-css-feature-i-wish-i-had-years-ago-2h63)
+- [My nightly Claude Code cron was about to start costing real money](https://dev.to/mjmirza/my-nightly-claude-code-cron-was-about-to-start-costing-real-money-2ndm)
+- [How I Built My First Real AI Agent with DeepSeek — A Bootcamp Grad&#39;s Guide...](https://dev.to/rileykim/how-i-built-my-first-real-ai-agent-with-deepseek-a-bootcamp-grads-guide-542c)
+- [Nonmem addition to agent that personalised experience](https://dev.to/neonmem-dev/nonmem-addition-to-agent-that-personalised-experience-2pgj)
 <!-- BLOG-POST-LIST:END -->
 
