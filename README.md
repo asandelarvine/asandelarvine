@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From STTM to Snowflake SQL: Building a Metadata-Driven Data Engineering Copilot](https://dev.to/amising6/from-sttm-to-snowflake-sql-building-a-metadata-driven-data-engineering-copilot-n4)
-- [SAGA Made Microservices Reliable. Agent Harness Makes AI Agents Reliable.](https://dev.to/sreeni5018/saga-made-microservices-reliable-agent-harness-makes-ai-agents-reliable-3d1k)
-- [Day 17 of #100DaysOfClickHouse: Mastering Data Filtering for Faster ClickHouse Queries](https://dev.to/kanishga_subramani_49ad73/day-17-of-100daysofclickhouse-mastering-data-filtering-for-faster-clickhouse-queries-10i7)
-- [&quot;Stop Using os.path — Python pathlib Makes File Handling Actually Enjoyable&quot;](https://dev.to/kaithorne/stop-using-ospath-python-pathlib-makes-file-handling-actually-enjoyable-225)
+- [Running Chinese LLMs at Scale: A Cloud Architect&#39;s Notes](https://dev.to/truelane/running-chinese-llms-at-scale-a-cloud-architects-notes-2g57)
+- [Edge Computing in the Browser: How I Replaced a Backend Server with Web Workers &amp; WASM](https://dev.to/karthick_ajan/edge-computing-in-the-browser-how-i-replaced-a-backend-server-with-web-workers-wasm-bg2)
+- [Event-Driven Architecture: Uncle Explains Like You&#39;re Five 👦👨‍🦳](https://dev.to/surajrkhonde/event-driven-architecture-uncle-explains-like-youre-five-4aaj)
+- [AI Agents Are the Best Thing to Happen to Network Administration Since SDN](https://dev.to/mariatanbobo/ai-agents-are-the-best-thing-to-happen-to-network-administration-since-sdn-3kji)
 <!-- BLOG-POST-LIST:END -->
 
