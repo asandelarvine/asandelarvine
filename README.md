@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Webcam Sign-Language Reader in the Browser &lpar;No Cloud&rpar;](https://dev.to/dev48v/i-built-a-webcam-sign-language-reader-in-the-browser-no-cloud-11hg)
-- [RAG Rerank: the Highest-Leverage Upgrade to Your Retrieval Pipeline](https://dev.to/dev48v/rag-rerank-the-highest-leverage-upgrade-to-your-retrieval-pipeline-7o5)
-- [What a Neural Net Actually Does — the Intuition, No Math](https://dev.to/dev48v/what-a-neural-net-actually-does-the-intuition-no-math-5h14)
-- [Adding Markdown Support End-to-End &lpar;Part 7&rpar;](https://dev.to/josh_blair/adding-markdown-support-end-to-end-part-7-24g1)
+- [The AI Filter: Why Every B2B GTM Strategy Now Has a Layer You Can&#39;t See](https://dev.to/darkhorsemkdev/the-ai-filter-why-every-b2b-gtm-strategy-now-has-a-layer-you-cant-see-5cgf)
+- [The Ansible Playbook I Run on Every New Server](https://dev.to/irfanmiral/the-ansible-playbook-i-run-on-every-new-server-5fkp)
+- [Linguagens Compiladas e Interpretadas](https://dev.to/mrpunkdasilva/linguagens-compiladas-e-interpretadas-4o7)
+- [Building Correct Payment Infrastructure: Webhooks, Reconciliation, and Records](https://dev.to/naresh_paturi_fintec/building-correct-payment-infrastructure-webhooks-reconciliation-and-records-2ooe)
 <!-- BLOG-POST-LIST:END -->
 
