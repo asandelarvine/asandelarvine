@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Tools, One Goal: Music Generation With Game Dev in Mind](https://dev.to/kaixu/two-tools-one-goal-music-generation-with-game-dev-in-mind-k02)
-- [SEO Is No Longer Enough: A Developer&#39;s Guide to SXO, CRO, GEO, AEO &amp; AI Overviews](https://dev.to/sambit1318/seo-is-no-longer-enough-a-developers-guide-to-sxo-cro-geo-aeo-ai-overviews-l8g)
-- [What &quot;production-ready&quot; actually means for healthcare software](https://dev.to/nazmulhd10/what-production-ready-actually-means-for-healthcare-software-2ei3)
-- [I Built a PDF Toolbox That Never Uploads Your Files — Here&#39;s How](https://dev.to/hwlsniper/i-built-a-pdf-toolbox-that-never-uploads-your-files-heres-how-57bm)
+- [Troubleshooting Kubernetes Events with TKE and Tencent Cloud CLS](https://dev.to/tencentcloud-cls/troubleshooting-kubernetes-events-with-tke-and-tencent-cloud-cls-1ncl)
+- [Real-Time Monitoring for AI Agents: Beyond Log Streaming](https://dev.to/albert_zhang_f468830cf0e6/real-time-monitoring-for-ai-agents-beyond-log-streaming-3g4h)
+- [Streaming Broke Musicians First](https://dev.to/rawveg/streaming-broke-musicians-first-3k3c)
+- [AI Agents Are Not Just for Coding](https://dev.to/changecrab/ai-agents-are-not-just-for-coding-21e)
 <!-- BLOG-POST-LIST:END -->
 
