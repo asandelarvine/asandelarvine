@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Cinematic Portfolio with React and Framer Motion](https://dev.to/akshaybhawar03/how-i-built-a-cinematic-portfolio-with-react-and-framer-motion-4hf7)
-- [Biome vs Oxlint in 2026: Which Rust-Powered Linter Should You Replace ESLint With](https://dev.to/jsmanifest/biome-vs-oxlint-in-2026-which-rust-powered-linter-should-you-replace-eslint-with-48lh)
-- [Your MCP Agent is Logging &quot;Sucess: true&quot; While the task never ran](https://dev.to/sasi_sundar/your-mcp-agent-is-logging-sucess-true-while-the-task-never-ran-4blb)
-- [The Human Is No Longer the Developer](https://dev.to/michael_maramzin/the-human-is-no-longer-the-developer-b56)
+- [I Built a Webcam Sign-Language Reader in the Browser &lpar;No Cloud&rpar;](https://dev.to/dev48v/i-built-a-webcam-sign-language-reader-in-the-browser-no-cloud-11hg)
+- [RAG Rerank: the Highest-Leverage Upgrade to Your Retrieval Pipeline](https://dev.to/dev48v/rag-rerank-the-highest-leverage-upgrade-to-your-retrieval-pipeline-7o5)
+- [What a Neural Net Actually Does — the Intuition, No Math](https://dev.to/dev48v/what-a-neural-net-actually-does-the-intuition-no-math-5h14)
+- [Adding Markdown Support End-to-End &lpar;Part 7&rpar;](https://dev.to/josh_blair/adding-markdown-support-end-to-end-part-7-24g1)
 <!-- BLOG-POST-LIST:END -->
 
