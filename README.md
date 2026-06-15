@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Troubleshooting Kubernetes Events with TKE and Tencent Cloud CLS](https://dev.to/tencentcloud-cls/troubleshooting-kubernetes-events-with-tke-and-tencent-cloud-cls-1ncl)
-- [Real-Time Monitoring for AI Agents: Beyond Log Streaming](https://dev.to/albert_zhang_f468830cf0e6/real-time-monitoring-for-ai-agents-beyond-log-streaming-3g4h)
-- [Streaming Broke Musicians First](https://dev.to/rawveg/streaming-broke-musicians-first-3k3c)
-- [AI Agents Are Not Just for Coding](https://dev.to/changecrab/ai-agents-are-not-just-for-coding-21e)
+- [How I Built a Cinematic Portfolio with React and Framer Motion](https://dev.to/akshaybhawar03/how-i-built-a-cinematic-portfolio-with-react-and-framer-motion-4hf7)
+- [Biome vs Oxlint in 2026: Which Rust-Powered Linter Should You Replace ESLint With](https://dev.to/jsmanifest/biome-vs-oxlint-in-2026-which-rust-powered-linter-should-you-replace-eslint-with-48lh)
+- [Your MCP Agent is Logging &quot;Sucess: true&quot; While the task never ran](https://dev.to/sasi_sundar/your-mcp-agent-is-logging-sucess-true-while-the-task-never-ran-4blb)
+- [The Human Is No Longer the Developer](https://dev.to/michael_maramzin/the-human-is-no-longer-the-developer-b56)
 <!-- BLOG-POST-LIST:END -->
 
