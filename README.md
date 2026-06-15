@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Predictive Alpha: Pipeline Engineering for Real-Time Machine Learning Inference](https://dev.to/mountek/predictive-alpha-pipeline-engineering-for-real-time-machine-learning-inference-f69)
-- [We Got Blacklisted Because of a Banking Trojan We Didn&#39;t Even Have](https://dev.to/zehlm/our-domain-mail-was-blacklisted-because-of-a-banking-trojan-we-didnt-even-have-5be)
-- [The Rate‑Limiter Jedi: Mastering CAP Like a Lightsaber Duel](https://dev.to/timevolt/the-rate-limiter-jedi-mastering-cap-like-a-lightsaber-duel-17da)
-- [Spring Boot 3 and JVM Resilience in API Development: Avoiding JavaScript’s 2014 Pitfalls](https://dev.to/nitish_95c3a169c005f1d4fe/spring-boot-3-and-jvm-resilience-in-api-development-avoiding-javascripts-2014-pitfalls-4dl4)
+- [Two Tools, One Goal: Music Generation With Game Dev in Mind](https://dev.to/kaixu/two-tools-one-goal-music-generation-with-game-dev-in-mind-k02)
+- [SEO Is No Longer Enough: A Developer&#39;s Guide to SXO, CRO, GEO, AEO &amp; AI Overviews](https://dev.to/sambit1318/seo-is-no-longer-enough-a-developers-guide-to-sxo-cro-geo-aeo-ai-overviews-l8g)
+- [What &quot;production-ready&quot; actually means for healthcare software](https://dev.to/nazmulhd10/what-production-ready-actually-means-for-healthcare-software-2ei3)
+- [I Built a PDF Toolbox That Never Uploads Your Files — Here&#39;s How](https://dev.to/hwlsniper/i-built-a-pdf-toolbox-that-never-uploads-your-files-heres-how-57bm)
 <!-- BLOG-POST-LIST:END -->
 
