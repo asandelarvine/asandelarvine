@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent Series &lpar;21&rpar;: Harness Testing — 45 Tests, How They&#39;re Designed, and What Bugs They Found](https://dev.to/wonderlab/agent-series-21-harness-testing-45-tests-how-theyre-designed-and-what-bugs-they-found-35c5)
-- [PostgreSQL 22030 Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-22030-error-causes-and-solutions-complete-guide-164j)
-- [OTTO: Give your AI agent a real browser without running a browser farm](https://dev.to/sebivaduva/otto-give-your-ai-agent-a-real-browser-without-running-a-browser-farm-3dk5)
-- [BrowserAct vs Playwright: Where Test Automation Hits Real-World Anti-Bot Friction &lpar;Hands-On Comparison&rpar;](https://dev.to/hadil/browseract-vs-playwright-where-test-automation-hits-real-world-anti-bot-friction-hands-on-432l)
+- [How we became the first Indian hosting company to deploy Cloudflare Magic Transit](https://dev.to/mayank_giganodes/how-we-became-the-first-indian-hosting-company-to-deploy-cloudflare-magic-transit-1ilo)
+- [I Moved Everything to a $4.50 Hetzner Box. Here&#39;s What Broke and What Didn&#39;t.](https://dev.to/muhammed_aliceylan_db433/i-moved-everything-to-a-450-hetzner-box-heres-what-broke-and-what-didnt-12dd)
+- [From Invoice to Owner: A Practitioner&#39;s Guide to Request-Level AI Cost Attribution](https://dev.to/void_stitch/from-invoice-to-owner-a-practitioners-guide-to-request-level-ai-cost-attribution-2j19)
+- [The Reference Check Questions Nobody Asks AI Vendors](https://dev.to/sumaskeller/the-reference-check-questions-nobody-asks-ai-vendors-142d)
 <!-- BLOG-POST-LIST:END -->
 
