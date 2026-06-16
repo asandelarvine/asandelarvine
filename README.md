@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How we became the first Indian hosting company to deploy Cloudflare Magic Transit](https://dev.to/mayank_giganodes/how-we-became-the-first-indian-hosting-company-to-deploy-cloudflare-magic-transit-1ilo)
-- [I Moved Everything to a $4.50 Hetzner Box. Here&#39;s What Broke and What Didn&#39;t.](https://dev.to/muhammed_aliceylan_db433/i-moved-everything-to-a-450-hetzner-box-heres-what-broke-and-what-didnt-12dd)
-- [From Invoice to Owner: A Practitioner&#39;s Guide to Request-Level AI Cost Attribution](https://dev.to/void_stitch/from-invoice-to-owner-a-practitioners-guide-to-request-level-ai-cost-attribution-2j19)
-- [The Reference Check Questions Nobody Asks AI Vendors](https://dev.to/sumaskeller/the-reference-check-questions-nobody-asks-ai-vendors-142d)
+- [Best LLM Models for Conversational AI in Language Learning](https://dev.to/shashank_ms_6a35baa4be138/best-llm-models-for-conversational-ai-in-language-learning-1ip9)
+- [Airtable AI From Scratch: A Freelance Dev&#39;s Cost Breakdown](https://dev.to/rileykim/airtable-ai-from-scratch-a-freelance-devs-cost-breakdown-52l2)
+- [Overcoming LLM Limitations](https://dev.to/shashank_ms_6a35baa4be138/overcoming-llm-limitations-3din)
+- [The Affective Blind Spot: How Support Systems Fail When Incentives Eclipse Care](https://dev.to/narnaiezzsshaa/the-affective-blind-spot-how-support-systems-fail-when-incentives-eclipse-care-25ja)
 <!-- BLOG-POST-LIST:END -->
 
