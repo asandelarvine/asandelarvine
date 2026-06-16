@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Literacy Will Be More Valuable Than Coding for Most Professionals](https://dev.to/jaideepparashar/ai-literacy-will-be-more-valuable-than-coding-for-most-professionals-2mo0)
-- [Date math notes for a court deadline calculator](https://dev.to/xian_x_9469bb3e1b9a2f6ed0/date-math-notes-for-a-court-deadline-calculator-2ljk)
-- [Introduction to TypeScript. JavaScript primitive data types](https://dev.to/jsha/introduction-to-typescript-javascript-primitive-data-types-49ok)
-- [Introduction to TypeScript. Special TypeScript data types](https://dev.to/jsha/introduction-to-typescript-special-typescript-data-types-2m67)
+- [Agent Series &lpar;21&rpar;: Harness Testing — 45 Tests, How They&#39;re Designed, and What Bugs They Found](https://dev.to/wonderlab/agent-series-21-harness-testing-45-tests-how-theyre-designed-and-what-bugs-they-found-35c5)
+- [PostgreSQL 22030 Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-22030-error-causes-and-solutions-complete-guide-164j)
+- [OTTO: Give your AI agent a real browser without running a browser farm](https://dev.to/sebivaduva/otto-give-your-ai-agent-a-real-browser-without-running-a-browser-farm-3dk5)
+- [BrowserAct vs Playwright: Where Test Automation Hits Real-World Anti-Bot Friction &lpar;Hands-On Comparison&rpar;](https://dev.to/hadil/browseract-vs-playwright-where-test-automation-hits-real-world-anti-bot-friction-hands-on-432l)
 <!-- BLOG-POST-LIST:END -->
 
