@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best LLM Models for Conversational AI in Language Learning](https://dev.to/shashank_ms_6a35baa4be138/best-llm-models-for-conversational-ai-in-language-learning-1ip9)
-- [Airtable AI From Scratch: A Freelance Dev&#39;s Cost Breakdown](https://dev.to/rileykim/airtable-ai-from-scratch-a-freelance-devs-cost-breakdown-52l2)
-- [Overcoming LLM Limitations](https://dev.to/shashank_ms_6a35baa4be138/overcoming-llm-limitations-3din)
-- [The Affective Blind Spot: How Support Systems Fail When Incentives Eclipse Care](https://dev.to/narnaiezzsshaa/the-affective-blind-spot-how-support-systems-fail-when-incentives-eclipse-care-25ja)
+- [Comment orchestrer un double déploiement automatique sur Vercel &amp; GitHub Pages avec GitHub Actions](https://dev.to/beautero_kenne_2b7e9bfb01/comment-orchestrer-un-double-deploiement-automatique-sur-vercel-github-pages-avec-github-actions-1pni)
+- [The Risk of Losing Your Know-how and Identity: Microsoft Satya Nadella&#39;s Warning on AI](https://dev.to/leolanese/the-risk-of-losing-your-know-how-and-identity-microsoft-satya-nadellas-warning-on-ai-eel)
+- [Check Designs validates your Figma. What validates your code?](https://dev.to/akollu72/check-designs-validates-your-figma-what-validates-your-code-38c2)
+- [15 perguntas de segurança para quem está praticando vibe coding](https://dev.to/marciofrayze/15-perguntas-de-seguranca-para-quem-esta-praticando-vibe-coding-1h7j)
 <!-- BLOG-POST-LIST:END -->
 
