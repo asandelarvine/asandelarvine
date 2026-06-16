@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Filter: Why Every B2B GTM Strategy Now Has a Layer You Can&#39;t See](https://dev.to/darkhorsemkdev/the-ai-filter-why-every-b2b-gtm-strategy-now-has-a-layer-you-cant-see-5cgf)
-- [The Ansible Playbook I Run on Every New Server](https://dev.to/irfanmiral/the-ansible-playbook-i-run-on-every-new-server-5fkp)
-- [Linguagens Compiladas e Interpretadas](https://dev.to/mrpunkdasilva/linguagens-compiladas-e-interpretadas-4o7)
-- [Building Correct Payment Infrastructure: Webhooks, Reconciliation, and Records](https://dev.to/naresh_paturi_fintec/building-correct-payment-infrastructure-webhooks-reconciliation-and-records-2ooe)
+- [AI Literacy Will Be More Valuable Than Coding for Most Professionals](https://dev.to/jaideepparashar/ai-literacy-will-be-more-valuable-than-coding-for-most-professionals-2mo0)
+- [Date math notes for a court deadline calculator](https://dev.to/xian_x_9469bb3e1b9a2f6ed0/date-math-notes-for-a-court-deadline-calculator-2ljk)
+- [Introduction to TypeScript. JavaScript primitive data types](https://dev.to/jsha/introduction-to-typescript-javascript-primitive-data-types-49ok)
+- [Introduction to TypeScript. Special TypeScript data types](https://dev.to/jsha/introduction-to-typescript-special-typescript-data-types-2m67)
 <!-- BLOG-POST-LIST:END -->
 
