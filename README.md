@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What changed about being a BA between 2020 and 2025 &lpar;and what didn&#39;t&rpar;](https://dev.to/requirementsfirst/what-changed-about-being-a-ba-between-2020-and-2025-and-what-didnt-253b)
-- [26. Databases](https://dev.to/avery_/26-databases-c25)
-- [I want to build a web application](https://dev.to/sahariar_shanto_969/i-want-to-build-a-web-application-16b2)
-- [Angular resources are not a good fit for Guards](https://dev.to/geromegrignon/angular-resources-are-not-a-good-fit-for-guards-58j)
+- [Building Effective Dialogue Systems with LLMs](https://dev.to/shashank_ms_6a35baa4be138/building-effective-dialogue-systems-with-llms-4dn4)
+- [Security First, Transparency Always: Inside GitGuardian&#39;s Responsible Disclosure Process](https://dev.to/gitguardian/security-first-transparency-always-inside-gitguardians-responsible-disclosure-process-4ic3)
+- [Twenty years of Linux, and now I run my own AI](https://dev.to/kenahrens/twenty-years-of-linux-and-now-i-run-my-own-ai-4ab9)
+- [AI Agent Scopes And Tool Lifecycles](https://dev.to/admilsoncossa/ai-agent-scopes-and-tool-lifecycles-14if)
 <!-- BLOG-POST-LIST:END -->
 
