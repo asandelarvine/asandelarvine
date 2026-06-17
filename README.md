@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your R2 presigned URL has a shorter TTL than you think — here&#39;s why](https://dev.to/riversea/your-r2-presigned-url-has-a-shorter-ttl-than-you-think-heres-why-22ge)
-- [Git Will Humble You &lpar;And That&#39;s Okay&rpar; 😭🔥](https://dev.to/mayan-okul/git-will-humble-you-and-thats-okay-my-first-ever-dev-article-and-yes-im-nervous-3lnk)
-- [Speed, Accuracy, and Efficiency: Benchmarking Endee vs. Google Vertex AI](https://dev.to/endee_mktg_31ca7cc9c0a2e8/speed-accuracy-and-efficiency-benchmarking-endee-vs-google-vertex-ai-4djc)
-- [Why Most AI Agents Fail in Production And the Architecture Patterns That Actually Work](https://dev.to/jacobjerryarackal/why-most-ai-agents-fail-in-production-and-the-architecture-patterns-that-actually-work-dbo)
+- [What changed about being a BA between 2020 and 2025 &lpar;and what didn&#39;t&rpar;](https://dev.to/requirementsfirst/what-changed-about-being-a-ba-between-2020-and-2025-and-what-didnt-253b)
+- [26. Databases](https://dev.to/avery_/26-databases-c25)
+- [I want to build a web application](https://dev.to/sahariar_shanto_969/i-want-to-build-a-web-application-16b2)
+- [Angular resources are not a good fit for Guards](https://dev.to/geromegrignon/angular-resources-are-not-a-good-fit-for-guards-58j)
 <!-- BLOG-POST-LIST:END -->
 
