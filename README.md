@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Build Production AI Apps on Cloudflare with Claude Code](https://dev.to/truvisory/how-i-build-production-ai-apps-on-cloudflare-with-claude-code-2hka)
-- [A UMAP With Arrows Is Not a Benchmark. This Is](https://dev.to/gbadedata/a-umap-with-arrows-is-not-a-benchmark-this-is-1k7o)
-- [OpenAI Codex Sites: the launch layer arrives — inside your company workspace](https://dev.to/li_qinyu_81f1e1a923c0a126/openai-codex-sites-the-launch-layer-arrives-inside-your-company-workspace-177p)
-- [The Java Collections Force: Mastering the Hidden Gems Like a Jedi](https://dev.to/timevolt/the-java-collections-force-mastering-the-hidden-gems-like-a-jedi-4438)
+- [Your R2 presigned URL has a shorter TTL than you think — here&#39;s why](https://dev.to/riversea/your-r2-presigned-url-has-a-shorter-ttl-than-you-think-heres-why-22ge)
+- [Git Will Humble You &lpar;And That&#39;s Okay&rpar; 😭🔥](https://dev.to/mayan-okul/git-will-humble-you-and-thats-okay-my-first-ever-dev-article-and-yes-im-nervous-3lnk)
+- [Speed, Accuracy, and Efficiency: Benchmarking Endee vs. Google Vertex AI](https://dev.to/endee_mktg_31ca7cc9c0a2e8/speed-accuracy-and-efficiency-benchmarking-endee-vs-google-vertex-ai-4djc)
+- [Why Most AI Agents Fail in Production And the Architecture Patterns That Actually Work](https://dev.to/jacobjerryarackal/why-most-ai-agents-fail-in-production-and-the-architecture-patterns-that-actually-work-dbo)
 <!-- BLOG-POST-LIST:END -->
 
