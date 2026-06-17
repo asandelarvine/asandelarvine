@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Comment orchestrer un double déploiement automatique sur Vercel &amp; GitHub Pages avec GitHub Actions](https://dev.to/beautero_kenne_2b7e9bfb01/comment-orchestrer-un-double-deploiement-automatique-sur-vercel-github-pages-avec-github-actions-1pni)
-- [The Risk of Losing Your Know-how and Identity: Microsoft Satya Nadella&#39;s Warning on AI](https://dev.to/leolanese/the-risk-of-losing-your-know-how-and-identity-microsoft-satya-nadellas-warning-on-ai-eel)
-- [Check Designs validates your Figma. What validates your code?](https://dev.to/akollu72/check-designs-validates-your-figma-what-validates-your-code-38c2)
-- [15 perguntas de segurança para quem está praticando vibe coding](https://dev.to/marciofrayze/15-perguntas-de-seguranca-para-quem-esta-praticando-vibe-coding-1h7j)
+- [How I Build Production AI Apps on Cloudflare with Claude Code](https://dev.to/truvisory/how-i-build-production-ai-apps-on-cloudflare-with-claude-code-2hka)
+- [A UMAP With Arrows Is Not a Benchmark. This Is](https://dev.to/gbadedata/a-umap-with-arrows-is-not-a-benchmark-this-is-1k7o)
+- [OpenAI Codex Sites: the launch layer arrives — inside your company workspace](https://dev.to/li_qinyu_81f1e1a923c0a126/openai-codex-sites-the-launch-layer-arrives-inside-your-company-workspace-177p)
+- [The Java Collections Force: Mastering the Hidden Gems Like a Jedi](https://dev.to/timevolt/the-java-collections-force-mastering-the-hidden-gems-like-a-jedi-4438)
 <!-- BLOG-POST-LIST:END -->
 
