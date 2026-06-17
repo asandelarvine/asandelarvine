@@ -79,13 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a 3-provider LLM fallback system in production &lpar;and what actually broke&rpar;](https://dev.to/ayush_notsogreat_b673d5/how-i-built-a-3-provider-llm-fallback-system-in-production-and-what-actually-broke-46jk)
-- [Staffing Industry News:
-
-166,000+ AI-assisted fake job applications. 76 confirmed job offers. Rising demand for AI talent. Growing concerns around candidate authenticity.
-
-AI is changing not only who gets hired but how employers verify who they&#39;re hiring.](https://dev.to/ptechpartners/staffing-industry-news-166000-ai-assisted-fake-job-applications-76-confirmed-job-offers-4e2h)
-- [Agentic eCommerce with Shopify and Sanity](https://dev.to/jonoroboto/agentic-ecommerce-with-shopify-and-sanity-26k9)
-- [Pragmatic AI Adoption: How Much AI Do We Actually Need?](https://dev.to/abhi_chatterjee_979801/pragmatic-ai-adoption-how-much-ai-do-we-actually-need-1m82)
+- [Most Engineers Use AI. Few Engineer With It.](https://dev.to/jeelvankhede/most-engineers-use-ai-few-engineer-with-it-3pd)
+- [Além da Ditação: Como Extrair Inteligência Real de Conversas a partir de Áudio em Segundos](https://dev.to/njc-ia/alem-da-ditacao-como-extrair-inteligencia-real-de-conversas-a-partir-de-audio-em-segundos-3kff)
+- [The Binary Trap: Why Scaling Output Requires a New Org Chart](https://dev.to/social_antrome/the-binary-trap-why-scaling-output-requires-a-new-org-chart-1p47)
+- [Chrome Put a 4GB AI Model on Your Computer: What Gemini Nano Means for Privacy](https://dev.to/mrtd/chrome-put-a-4gb-ai-model-on-your-computer-what-gemini-nano-means-for-privacy-2n4i)
 <!-- BLOG-POST-LIST:END -->
 
