@@ -79,9 +79,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build vs Buy Software: A Decision Framework for Growing Businesses](https://dev.to/0arch/build-vs-buy-software-a-decision-framework-for-growing-businesses-1alb)
-- [I Run a Self-Improvement Loop on My OpenClaw Agent Every Night. Here&#39;s What I Learned.](https://dev.to/mrclaw207/i-run-a-self-improvement-loop-on-my-openclaw-agent-every-night-heres-what-i-learned-38bp)
-- [Stop Dumping Your Entire Repository Into AI](https://dev.to/vansharora21/stop-dumping-your-entire-repository-into-ai-3f9p)
-- [How I let AI agents pay for APIs per call &lpar;the HTTP 402 path&rpar;](https://dev.to/lemoncake/how-i-let-ai-agents-pay-for-apis-per-call-the-http-402-path-cp)
+- [How I built a 3-provider LLM fallback system in production &lpar;and what actually broke&rpar;](https://dev.to/ayush_notsogreat_b673d5/how-i-built-a-3-provider-llm-fallback-system-in-production-and-what-actually-broke-46jk)
+- [Staffing Industry News:
+
+166,000+ AI-assisted fake job applications. 76 confirmed job offers. Rising demand for AI talent. Growing concerns around candidate authenticity.
+
+AI is changing not only who gets hired but how employers verify who they&#39;re hiring.](https://dev.to/ptechpartners/staffing-industry-news-166000-ai-assisted-fake-job-applications-76-confirmed-job-offers-4e2h)
+- [Agentic eCommerce with Shopify and Sanity](https://dev.to/jonoroboto/agentic-ecommerce-with-shopify-and-sanity-26k9)
+- [Pragmatic AI Adoption: How Much AI Do We Actually Need?](https://dev.to/abhi_chatterjee_979801/pragmatic-ai-adoption-how-much-ai-do-we-actually-need-1m82)
 <!-- BLOG-POST-LIST:END -->
 
