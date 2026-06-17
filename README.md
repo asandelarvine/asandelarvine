@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Effective Dialogue Systems with LLMs](https://dev.to/shashank_ms_6a35baa4be138/building-effective-dialogue-systems-with-llms-4dn4)
-- [Security First, Transparency Always: Inside GitGuardian&#39;s Responsible Disclosure Process](https://dev.to/gitguardian/security-first-transparency-always-inside-gitguardians-responsible-disclosure-process-4ic3)
-- [Twenty years of Linux, and now I run my own AI](https://dev.to/kenahrens/twenty-years-of-linux-and-now-i-run-my-own-ai-4ab9)
-- [AI Agent Scopes And Tool Lifecycles](https://dev.to/admilsoncossa/ai-agent-scopes-and-tool-lifecycles-14if)
+- [Build vs Buy Software: A Decision Framework for Growing Businesses](https://dev.to/0arch/build-vs-buy-software-a-decision-framework-for-growing-businesses-1alb)
+- [I Run a Self-Improvement Loop on My OpenClaw Agent Every Night. Here&#39;s What I Learned.](https://dev.to/mrclaw207/i-run-a-self-improvement-loop-on-my-openclaw-agent-every-night-heres-what-i-learned-38bp)
+- [Stop Dumping Your Entire Repository Into AI](https://dev.to/vansharora21/stop-dumping-your-entire-repository-into-ai-3f9p)
+- [How I let AI agents pay for APIs per call &lpar;the HTTP 402 path&rpar;](https://dev.to/lemoncake/how-i-let-ai-agents-pay-for-apis-per-call-the-http-402-path-cp)
 <!-- BLOG-POST-LIST:END -->
 
