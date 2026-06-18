@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Generate AI Video with Veo 3.1 via the Google Flow API](https://dev.to/useapi/how-to-generate-ai-video-with-veo-31-via-the-google-flow-api-2g4i)
-- [How I Built an Autonomous Incident Investigation Agent That Reduced MTTR by 65%](https://dev.to/velumal09/how-i-built-an-autonomous-incident-investigation-agent-that-reduced-mttr-by-65-42ae)
-- [The Hidden Cost of Employees Asking &quot;What Should I Do Next?&quot;](https://dev.to/saifuddin_tipu_ba2d0355b0/the-hidden-cost-of-employees-asking-what-should-i-do-next-5flf)
-- [The Heaviest AI Users Atrophy the Fastest: The Skill Atrophy Trap](https://dev.to/merbayerp/the-heaviest-ai-users-atrophy-the-fastest-the-skill-atrophy-trap-khp)
+- [The Imitation Gate: a Turing-test border checkpoint where the sky catches the liars](https://dev.to/asynchronope/the-imitation-gate-a-turing-test-border-checkpoint-where-the-sky-catches-the-liars-3kmd)
+- [Why `vitest --changed` misses some tests &lpar;and how runtime coverage fixes it&rpar;](https://dev.to/kazutaka-dev/why-vitest-changed-misses-some-tests-and-how-runtime-coverage-fixes-it-jjm)
+- [The Hidden Cost of AI Agents: Why Your LLM Pipeline Is Bleeding Money](https://dev.to/abdul___rehman/the-hidden-cost-of-ai-agents-why-your-llm-pipeline-is-bleeding-money-4bkd)
+- [Best Python Libraries for Building REST APIs Without a Full Framework in 2026](https://dev.to/kyle_rhodelander_d9e843b4/best-python-libraries-for-building-rest-apis-without-a-full-framework-in-2026-3bp9)
 <!-- BLOG-POST-LIST:END -->
 
