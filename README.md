@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reference Registers in NGB Platform: Effective Business State Over Time](https://dev.to/ngbplatform/reference-registers-in-ngb-platform-effective-business-state-over-time-3n4b)
-- [Mengapa Network Engineer Modern Harus Mulai Belajar Programmability?](https://dev.to/arfa_dygta_72145e63b43bff/mengapa-network-engineer-modern-harus-mulai-belajar-programmability-3aba)
-- [The Blameless Postmortem That Still Blames You](https://dev.to/omieee_24/the-blameless-postmortem-that-still-blames-you-3bdc)
-- [Gaussian Elimination: the algorithm hiding inside NumPy that I was doing by hand](https://dev.to/felipearaujobs/gaussian-elimination-the-algorithm-hiding-inside-numpy-that-i-was-doing-by-hand-1ahn)
+- [One &quot;Fix This Code&quot; Prompt Away from a Production Incident](https://dev.to/toniantunovic/one-fix-this-code-prompt-away-from-a-production-incident-2138)
+- [Is Your Unity Game Still Choking on a Single Thread?](https://dev.to/prabashanadev/is-your-unity-game-still-choking-on-a-single-thread-500f)
+- [The Model Doesn&#39;t Remember. You Do](https://dev.to/marcochavezco/the-model-doesnt-remember-you-do-3mmk)
+- [Batch-converting documents to markdown with Microsoft&#39;s markitdown](https://dev.to/schiff_heimlich/batch-converting-documents-to-markdown-with-microsofts-markitdown-kbi)
 <!-- BLOG-POST-LIST:END -->
 
