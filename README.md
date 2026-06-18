@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Most Engineers Use AI. Few Engineer With It.](https://dev.to/jeelvankhede/most-engineers-use-ai-few-engineer-with-it-3pd)
-- [Além da Ditação: Como Extrair Inteligência Real de Conversas a partir de Áudio em Segundos](https://dev.to/njc-ia/alem-da-ditacao-como-extrair-inteligencia-real-de-conversas-a-partir-de-audio-em-segundos-3kff)
-- [The Binary Trap: Why Scaling Output Requires a New Org Chart](https://dev.to/social_antrome/the-binary-trap-why-scaling-output-requires-a-new-org-chart-1p47)
-- [Chrome Put a 4GB AI Model on Your Computer: What Gemini Nano Means for Privacy](https://dev.to/mrtd/chrome-put-a-4gb-ai-model-on-your-computer-what-gemini-nano-means-for-privacy-2n4i)
+- [How to Generate AI Video with Veo 3.1 via the Google Flow API](https://dev.to/useapi/how-to-generate-ai-video-with-veo-31-via-the-google-flow-api-2g4i)
+- [How I Built an Autonomous Incident Investigation Agent That Reduced MTTR by 65%](https://dev.to/velumal09/how-i-built-an-autonomous-incident-investigation-agent-that-reduced-mttr-by-65-42ae)
+- [The Hidden Cost of Employees Asking &quot;What Should I Do Next?&quot;](https://dev.to/saifuddin_tipu_ba2d0355b0/the-hidden-cost-of-employees-asking-what-should-i-do-next-5flf)
+- [The Heaviest AI Users Atrophy the Fastest: The Skill Atrophy Trap](https://dev.to/merbayerp/the-heaviest-ai-users-atrophy-the-fastest-the-skill-atrophy-trap-khp)
 <!-- BLOG-POST-LIST:END -->
 
