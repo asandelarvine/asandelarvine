@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Imitation Gate: a Turing-test border checkpoint where the sky catches the liars](https://dev.to/asynchronope/the-imitation-gate-a-turing-test-border-checkpoint-where-the-sky-catches-the-liars-3kmd)
-- [Why `vitest --changed` misses some tests &lpar;and how runtime coverage fixes it&rpar;](https://dev.to/kazutaka-dev/why-vitest-changed-misses-some-tests-and-how-runtime-coverage-fixes-it-jjm)
-- [The Hidden Cost of AI Agents: Why Your LLM Pipeline Is Bleeding Money](https://dev.to/abdul___rehman/the-hidden-cost-of-ai-agents-why-your-llm-pipeline-is-bleeding-money-4bkd)
-- [Best Python Libraries for Building REST APIs Without a Full Framework in 2026](https://dev.to/kyle_rhodelander_d9e843b4/best-python-libraries-for-building-rest-apis-without-a-full-framework-in-2026-3bp9)
+- [Reference Registers in NGB Platform: Effective Business State Over Time](https://dev.to/ngbplatform/reference-registers-in-ngb-platform-effective-business-state-over-time-3n4b)
+- [Mengapa Network Engineer Modern Harus Mulai Belajar Programmability?](https://dev.to/arfa_dygta_72145e63b43bff/mengapa-network-engineer-modern-harus-mulai-belajar-programmability-3aba)
+- [The Blameless Postmortem That Still Blames You](https://dev.to/omieee_24/the-blameless-postmortem-that-still-blames-you-3bdc)
+- [Gaussian Elimination: the algorithm hiding inside NumPy that I was doing by hand](https://dev.to/felipearaujobs/gaussian-elimination-the-algorithm-hiding-inside-numpy-that-i-was-doing-by-hand-1ahn)
 <!-- BLOG-POST-LIST:END -->
 
