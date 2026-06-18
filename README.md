@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [One &quot;Fix This Code&quot; Prompt Away from a Production Incident](https://dev.to/toniantunovic/one-fix-this-code-prompt-away-from-a-production-incident-2138)
-- [Is Your Unity Game Still Choking on a Single Thread?](https://dev.to/prabashanadev/is-your-unity-game-still-choking-on-a-single-thread-500f)
-- [The Model Doesn&#39;t Remember. You Do](https://dev.to/marcochavezco/the-model-doesnt-remember-you-do-3mmk)
-- [Batch-converting documents to markdown with Microsoft&#39;s markitdown](https://dev.to/schiff_heimlich/batch-converting-documents-to-markdown-with-microsofts-markitdown-kbi)
+- [How do you scale a frontend application to a million users ?](https://dev.to/dhiraj-shrotri/how-do-you-scale-a-frontend-application-to-a-million-users--3777)
+- [I&#39;m 18 and I built an AI Pomodoro timer that actually forces you to study](https://dev.to/cavalinhoxdd/im-18-and-i-built-an-ai-pomodoro-timer-that-actually-forces-you-to-study-2ipo)
+- [Astrophysics &amp; AI with Python: Predicting Asteroid Positions with Skyfield](https://dev.to/programmingcentral/astrophysics-ai-with-python-predicting-asteroid-positions-with-skyfield-33a7)
+- [Your agent&#39;s memory should compute confidence, not store it](https://dev.to/hendrixxcnc/your-agents-memory-should-compute-confidence-not-store-it-c2a)
 <!-- BLOG-POST-LIST:END -->
 
