@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you scale a frontend application to a million users ?](https://dev.to/dhiraj-shrotri/how-do-you-scale-a-frontend-application-to-a-million-users--3777)
-- [I&#39;m 18 and I built an AI Pomodoro timer that actually forces you to study](https://dev.to/cavalinhoxdd/im-18-and-i-built-an-ai-pomodoro-timer-that-actually-forces-you-to-study-2ipo)
-- [Astrophysics &amp; AI with Python: Predicting Asteroid Positions with Skyfield](https://dev.to/programmingcentral/astrophysics-ai-with-python-predicting-asteroid-positions-with-skyfield-33a7)
-- [Your agent&#39;s memory should compute confidence, not store it](https://dev.to/hendrixxcnc/your-agents-memory-should-compute-confidence-not-store-it-c2a)
+- [Many Are Building Cathedrals on Quicksand](https://dev.to/keithjmackay/many-are-building-cathedrals-on-quicksand-1geo)
+- [I Built a Web-Based Code Editor for SA-MP Scripting](https://dev.to/akun_digital_69f354512772/i-built-a-web-based-code-editor-for-sa-mp-scripting-3e53)
+- [A complete tour of Qeli: a self-hosted, post-quantum VPN in Rust](https://dev.to/alexandr_litvinov/a-complete-tour-of-qeli-a-self-hosted-post-quantum-vpn-in-rust-2681)
+- [A green test suite proves less than you think](https://dev.to/praveenlavu/a-green-test-suite-proves-less-than-you-think-59cg)
 <!-- BLOG-POST-LIST:END -->
 
