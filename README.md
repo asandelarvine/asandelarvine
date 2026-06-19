@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Astrophysics &amp; AI with Python: Mastering Solar Flare Analysis with SunPy](https://dev.to/programmingcentral/astrophysics-ai-with-python-mastering-solar-flare-analysis-with-sunpy-n8j)
-- [Software Architecture Matters](https://dev.to/lavkeshdwivedi/software-architecture-matters-2k66)
-- [Can You Be a Data Scientist Without Statistics? Yes. Should You?](https://dev.to/amailuk/can-you-be-a-data-scientist-without-statistics-yes-should-you-3jn4)
-- [Manipulating QEMU Hardwares with Bootkit](https://dev.to/bekoo/manipulating-qemu-hardwares-with-bootkit-4gl7)
+- [We&#39;re One Script Away From 30% Cheaper Groceries, Stop Asking AI, Start Asking Why](https://dev.to/djowda/were-one-script-away-from-30-cheaper-groceries-stop-asking-ai-start-asking-why-3g12)
+- [Why Your Adobe Commerce Recommendation Engine Is Leaving Revenue on the Table And How to Fix It](https://dev.to/jagadeesh_s/why-your-adobe-commerce-recommendation-engine-is-leaving-revenue-on-the-table-and-how-to-fix-it-17ll)
+- [Lessons from building 20 MCP Apps in 2 days](https://dev.to/arcade/lessons-from-building-20-mcp-apps-in-2-days-1f98)
+- [Stop Wasting Tokens: I Built a File-Mapping Standard for AI-Assisted Development](https://dev.to/matteoturri/stop-wasting-tokens-i-built-a-file-mapping-standard-for-ai-assisted-development-o25)
 <!-- BLOG-POST-LIST:END -->
 
