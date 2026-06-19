@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Synthetic Monitoring vs Real User Monitoring &lpar;RUM&rpar;: The Difference](https://dev.to/devhelm/synthetic-monitoring-vs-real-user-monitoring-rum-the-difference-3mn2)
-- [Synthetic Monitoring Best Practices: What to Monitor and How Often](https://dev.to/devhelm/synthetic-monitoring-best-practices-what-to-monitor-and-how-often-1p9f)
-- [Playwright Monitoring: Turn E2E Tests Into Production Monitors](https://dev.to/devhelm/playwright-monitoring-turn-e2e-tests-into-production-monitors-1g22)
-- [Best Synthetic Monitoring Tools in 2026: Honest Comparison](https://dev.to/devhelm/best-synthetic-monitoring-tools-in-2026-honest-comparison-pjn)
+- [Astrophysics &amp; AI with Python: Mastering Solar Flare Analysis with SunPy](https://dev.to/programmingcentral/astrophysics-ai-with-python-mastering-solar-flare-analysis-with-sunpy-n8j)
+- [Software Architecture Matters](https://dev.to/lavkeshdwivedi/software-architecture-matters-2k66)
+- [Can You Be a Data Scientist Without Statistics? Yes. Should You?](https://dev.to/amailuk/can-you-be-a-data-scientist-without-statistics-yes-should-you-3jn4)
+- [Manipulating QEMU Hardwares with Bootkit](https://dev.to/bekoo/manipulating-qemu-hardwares-with-bootkit-4gl7)
 <!-- BLOG-POST-LIST:END -->
 
