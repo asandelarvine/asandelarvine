@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your LLM reads the whole file. It doesn&#39;t have to.](https://dev.to/kiou_ouba_afbd120335456f3/your-llm-reads-the-whole-file-it-doesnt-have-to-hem)
-- [pnpm workspaces in a monorepo: the setup that survived CI on Railway and the problems the docs don&#39;t warn you about](https://dev.to/jtorchia/pnpm-workspaces-in-a-monorepo-the-setup-that-survived-ci-on-railway-and-the-problems-the-docs-3aph)
-- [pnpm workspaces en monorepo: el setup que sobrevivió CI en Railway y los problemas que los docs no anticipan](https://dev.to/jtorchia/pnpm-workspaces-en-monorepo-el-setup-que-sobrevivio-ci-en-railway-y-los-problemas-que-los-docs-no-3ji6)
-- [Telegram Channels Need Project Pins](https://dev.to/agentprojectcontext/telegram-channels-need-project-pins-33aj)
+- [The Multi-Runtime Agent Problem: Why Your Team Needs More Than One Runtime](https://dev.to/paultwist/the-multi-runtime-agent-problem-why-your-team-needs-more-than-one-runtime-9d)
+- [From Remix to Hardhat: What Changes When You Go Pro](https://dev.to/srashti_a3904fc69ca75e7dd/from-remix-to-hardhat-what-changes-when-you-go-pro-a06)
+- [Documentation Is a Feature](https://dev.to/stinklewinks/documentation-is-a-feature-228n)
+- [Building Health-Adjacent Software Without Overclaiming](https://dev.to/crisiscoresystems/building-health-adjacent-software-without-overclaiming-2c7d)
 <!-- BLOG-POST-LIST:END -->
 
