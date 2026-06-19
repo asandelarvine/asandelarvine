@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built the Agency Template I Always Wished Existed](https://dev.to/gamer_den_eaace1c4df010b7/i-built-the-agency-template-i-always-wished-existed-241d)
-- [ACE-Step XL 1.5 Premium + Facebook / META Sam Audio + Auto-Editor Trim + Audio Tools Enhancement Full Tutorial](https://dev.to/furkangozukara/ace-step-xl-15-premium-facebook-meta-sam-audio-auto-editor-trim-audio-tools-enhancement-4h0o)
-- [Vector Databases Are Not Magic, Here&#39;s What&#39;s Actually Happening Under the Hood](https://dev.to/shayan_holakouee/vector-databases-are-not-magic-heres-whats-actually-happening-under-the-hood-566c)
-- [Real User Monitoring: Measuring Web Performance in Production](https://dev.to/feidou/real-user-monitoring-measuring-web-performance-in-production-32b6)
+- [Hotwire Marten: Less JavaScript, More Interactivity](https://dev.to/treagod/hotwire-marten-less-javascript-more-interactivity-3f5i)
+- [Fix HTTP Parameter Pollution: Spring Boot REST API Code Review](https://dev.to/securitystefan/fix-http-parameter-pollution-spring-boot-rest-api-code-review-2dbk)
+- [chatstore – persistent chat history service for LLM apps, zero infrastructure](https://dev.to/naman_kumar_29295fe9d5838/chatstore-persistent-chat-history-service-for-llm-apps-zero-infrastructure-566f)
+- [Loki Multi-Cluster Log Aggregation Across AWS Regions](https://dev.to/oleksandr_kuryzhev_42873f/loki-multi-cluster-log-aggregation-across-aws-regions-1ia4)
 <!-- BLOG-POST-LIST:END -->
 
