@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hotwire Marten: Less JavaScript, More Interactivity](https://dev.to/treagod/hotwire-marten-less-javascript-more-interactivity-3f5i)
-- [Fix HTTP Parameter Pollution: Spring Boot REST API Code Review](https://dev.to/securitystefan/fix-http-parameter-pollution-spring-boot-rest-api-code-review-2dbk)
-- [chatstore – persistent chat history service for LLM apps, zero infrastructure](https://dev.to/naman_kumar_29295fe9d5838/chatstore-persistent-chat-history-service-for-llm-apps-zero-infrastructure-566f)
-- [Loki Multi-Cluster Log Aggregation Across AWS Regions](https://dev.to/oleksandr_kuryzhev_42873f/loki-multi-cluster-log-aggregation-across-aws-regions-1ia4)
+- [Your LLM reads the whole file. It doesn&#39;t have to.](https://dev.to/kiou_ouba_afbd120335456f3/your-llm-reads-the-whole-file-it-doesnt-have-to-hem)
+- [pnpm workspaces in a monorepo: the setup that survived CI on Railway and the problems the docs don&#39;t warn you about](https://dev.to/jtorchia/pnpm-workspaces-in-a-monorepo-the-setup-that-survived-ci-on-railway-and-the-problems-the-docs-3aph)
+- [pnpm workspaces en monorepo: el setup que sobrevivió CI en Railway y los problemas que los docs no anticipan](https://dev.to/jtorchia/pnpm-workspaces-en-monorepo-el-setup-que-sobrevivio-ci-en-railway-y-los-problemas-que-los-docs-no-3ji6)
+- [Telegram Channels Need Project Pins](https://dev.to/agentprojectcontext/telegram-channels-need-project-pins-33aj)
 <!-- BLOG-POST-LIST:END -->
 
