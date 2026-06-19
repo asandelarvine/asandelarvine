@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Multi-Runtime Agent Problem: Why Your Team Needs More Than One Runtime](https://dev.to/paultwist/the-multi-runtime-agent-problem-why-your-team-needs-more-than-one-runtime-9d)
-- [From Remix to Hardhat: What Changes When You Go Pro](https://dev.to/srashti_a3904fc69ca75e7dd/from-remix-to-hardhat-what-changes-when-you-go-pro-a06)
-- [Documentation Is a Feature](https://dev.to/stinklewinks/documentation-is-a-feature-228n)
-- [Building Health-Adjacent Software Without Overclaiming](https://dev.to/crisiscoresystems/building-health-adjacent-software-without-overclaiming-2c7d)
+- [Synthetic Monitoring vs Real User Monitoring &lpar;RUM&rpar;: The Difference](https://dev.to/devhelm/synthetic-monitoring-vs-real-user-monitoring-rum-the-difference-3mn2)
+- [Synthetic Monitoring Best Practices: What to Monitor and How Often](https://dev.to/devhelm/synthetic-monitoring-best-practices-what-to-monitor-and-how-often-1p9f)
+- [Playwright Monitoring: Turn E2E Tests Into Production Monitors](https://dev.to/devhelm/playwright-monitoring-turn-e2e-tests-into-production-monitors-1g22)
+- [Best Synthetic Monitoring Tools in 2026: Honest Comparison](https://dev.to/devhelm/best-synthetic-monitoring-tools-in-2026-honest-comparison-pjn)
 <!-- BLOG-POST-LIST:END -->
 
