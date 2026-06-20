@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ECHO PROTOCOL — I Built a Game Where You Play as Alan Turing&#39;s Last AI, Interrogated by a Live Gemini Model](https://dev.to/_boweii/echo-protocol-i-built-a-game-where-you-play-as-alan-turings-last-ai-interrogated-by-a-live-f5n)
-- [Starl - a lightweight, no ads and offline music player i been working on..](https://dev.to/everm4iva/starl-a-lightweight-no-ads-and-offline-music-player-1gmf)
-- [DATABASE MODELLING,JOINS,RELATIONSHIPS &amp; SCHEMA](https://dev.to/kaizer77y/database-modellingjoinsrelationships-schema-4ped)
-- [Players, Not Wallets](https://dev.to/m_blackscarstudio/players-not-wallets-1dp)
+- [Agentic AI: Who&#39;s responsible? The AI? Or the developer?](https://dev.to/bennyarevalo/agentic-ai-whos-responsible-the-ai-or-the-developer-44j7)
+- [Stop Making Your AI Coding Agent Grep Your Whole Repo — Try codebase-memory-mcp](https://dev.to/arshtechpro/stop-making-your-ai-coding-agent-grep-your-whole-repo-try-codebase-memory-mcp-4g8l)
+- [EGC: Your AI agents never start from zero again](https://dev.to/fmarzochi/egc-your-ai-agents-never-start-from-zero-again-1o09)
+- [100 Days of DevOps, Day 1: Linux User Management and AWS Key Pairs](https://dev.to/ndcodes/100-days-of-devops-day-1-linux-user-management-and-aws-key-pairs-3bci)
 <!-- BLOG-POST-LIST:END -->
 
