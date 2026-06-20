@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Disposable code is a psyop by people who don&#39;t maintain anything](https://dev.to/adioof/disposable-code-is-a-psyop-by-people-who-dont-maintain-anything-33kg)
-- [Why Idempotency Is Critical in Modern SaaS Architectures](https://dev.to/sergey_3c52385cf547dee766/why-idempotency-is-critical-in-modern-saas-architectures-25cd)
-- [Who Is Email Security Actually Built For?](https://dev.to/wadco/who-is-email-security-actually-built-for-957)
-- [A Small Checklist for Apps That Handle Vulnerable User Data](https://dev.to/crisiscoresystems/a-small-checklist-for-apps-that-handle-vulnerable-user-data-44i)
+- [The Oracle and the Wolf: I Made Gemini Lose Like a Kid 🐺](https://dev.to/anchildress1/the-oracle-and-the-wolf-i-made-gemini-lose-like-a-kid-3nk5)
+- [Neural Networks with PyTorch and Lightning AI Part 5: Final Results and GPU Acceleration](https://dev.to/rijultp/neural-networks-with-pytorch-and-lightning-ai-part-5-final-results-and-gpu-acceleration-4m0m)
+- [Feature Flags at Scale: Designing a Distributed Control System for Production Behavior](https://dev.to/sai_ram_0000/feature-flags-at-scale-designing-a-distributed-control-system-for-production-behavior-2p30)
+- [🌍🚀 Project Showcase: Carbon Footprint Tracker](https://dev.to/prem_gaikwad_316d716c3/project-showcase-carbon-footprint-tracker-1e7n)
 <!-- BLOG-POST-LIST:END -->
 
