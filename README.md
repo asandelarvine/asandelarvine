@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Step Learning Rate Schedulers in LLM Training: Why Some Teams Are Moving Beyond Cosine Decay](https://dev.to/shrsv/multi-step-learning-rate-schedulers-in-llm-training-why-some-teams-are-moving-beyond-cosine-decay-3nef)
-- [I Built a Production AI Pipeline for a UK FinTech — Here&#39;s What Actually Happened](https://dev.to/fouzi_oukacha/i-built-a-production-ai-pipeline-for-a-uk-fintech-heres-what-actually-happened-3gfg)
-- [The Hidden Side of Bitcoin](https://dev.to/jtonny490/the-hidden-side-of-bitcoin-3817)
-- [The Viability Test Every AI-Dev Architecture Fails](https://dev.to/bala_paranj_059d338e44e7e/the-viability-test-every-ai-dev-architecture-fails-d3)
+- [Your design-token migration isn&#39;t done — here&#39;s a zero-dep CLI that finds the colors that escaped](https://dev.to/_06a3df6b50aec966668fb/your-design-token-migration-isnt-done-heres-a-zero-dep-cli-that-finds-the-colors-that-escaped-190f)
+- [The most-installed XML viewers are 2★ and abandoned. So I hand-wrote one.](https://dev.to/_06a3df6b50aec966668fb/the-most-installed-xml-viewers-are-2-and-abandoned-so-i-hand-wrote-one-267g)
+- [SQL - Order By, Limit and Offset](https://dev.to/aliduyar/sql-order-by-limit-and-offset-2enm)
+- [Can AI actually find the root cause of a bug, or does it just sound confident?](https://dev.to/atharvapanegai/can-ai-actually-find-the-root-cause-of-a-bug-or-does-it-just-sound-confident-5e0)
 <!-- BLOG-POST-LIST:END -->
 
