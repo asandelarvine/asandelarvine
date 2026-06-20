@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Event-Handling-Basics](https://dev.to/tengxgfyrz67s/event-handling-basics-2p4)
-- [Section 1.1 — Comparing AI Types and Techniques Used in Cybersecurity](https://dev.to/furkant/section-11-comparing-ai-types-and-techniques-used-in-cybersecurity-e74)
-- [your CI agent is reading more than your prompt](https://dev.to/pvgomes/your-ci-agent-is-reading-more-than-your-prompt-3c96)
-- [I&#39;m Building a Production-Grade Spring Boot + React App, One Feature a Day &lpar;Day 1&rpar;](https://dev.to/dev48v/im-building-a-production-grade-spring-boot-react-app-one-feature-a-day-day-1-26f7)
+- [Dev Log: When the design contradicts itself, stop typing](https://dev.to/ernestohs/dev-log-when-the-design-contradicts-itself-stop-typing-9dj)
+- [I built a Text to Handwriting tool to automate manual notes](https://dev.to/texttohandwriting_hub_da1/i-built-a-text-to-handwriting-tool-to-automate-manual-notes-3494)
+- [The Rust Performance Trap I Hit While Sorting Small Network Datasets](https://dev.to/amirsefati/the-rust-performance-trap-i-hit-while-sorting-small-network-datasets-2gj5)
+- [GB10 實測 DiffusionGemma 26B 挑戰 32K 極限](https://dev.to/jh5_pulse/gb10-shi-ce-diffusiongemma-26b-tiao-zhan-32k-ji-xian-43gj)
 <!-- BLOG-POST-LIST:END -->
 
