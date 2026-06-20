@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your design-token migration isn&#39;t done — here&#39;s a zero-dep CLI that finds the colors that escaped](https://dev.to/_06a3df6b50aec966668fb/your-design-token-migration-isnt-done-heres-a-zero-dep-cli-that-finds-the-colors-that-escaped-190f)
-- [The most-installed XML viewers are 2★ and abandoned. So I hand-wrote one.](https://dev.to/_06a3df6b50aec966668fb/the-most-installed-xml-viewers-are-2-and-abandoned-so-i-hand-wrote-one-267g)
-- [SQL - Order By, Limit and Offset](https://dev.to/aliduyar/sql-order-by-limit-and-offset-2enm)
-- [Can AI actually find the root cause of a bug, or does it just sound confident?](https://dev.to/atharvapanegai/can-ai-actually-find-the-root-cause-of-a-bug-or-does-it-just-sound-confident-5e0)
+- [Disposable code is a psyop by people who don&#39;t maintain anything](https://dev.to/adioof/disposable-code-is-a-psyop-by-people-who-dont-maintain-anything-33kg)
+- [Why Idempotency Is Critical in Modern SaaS Architectures](https://dev.to/sergey_3c52385cf547dee766/why-idempotency-is-critical-in-modern-saas-architectures-25cd)
+- [Who Is Email Security Actually Built For?](https://dev.to/wadco/who-is-email-security-actually-built-for-957)
+- [A Small Checklist for Apps That Handle Vulnerable User Data](https://dev.to/crisiscoresystems/a-small-checklist-for-apps-that-handle-vulnerable-user-data-44i)
 <!-- BLOG-POST-LIST:END -->
 
