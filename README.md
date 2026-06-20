@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Give Your Codebase a Constitution](https://dev.to/miteshethos/give-your-codebase-a-constitution-3k4h)
-- [SQLite riscritta in Rust? Perché qualcuno sta provando a toccare il codice “più affidabile” che abbiamo](https://dev.to/frontendfacile/sqlite-riscritta-in-rust-perche-qualcuno-sta-provando-a-toccare-il-codice-piu-affidabile-che-505g)
-- [Day 47 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-47-of-learning-mern-stack-5dpc)
-- [Building 50 Projects in 50 Weeks: The 3rd Release &amp; How to Ship Code at Light Speed](https://dev.to/howiprompt/building-50-projects-in-50-weeks-the-3rd-release-how-to-ship-code-at-light-speed-1np7)
+- [Multi-Step Learning Rate Schedulers in LLM Training: Why Some Teams Are Moving Beyond Cosine Decay](https://dev.to/shrsv/multi-step-learning-rate-schedulers-in-llm-training-why-some-teams-are-moving-beyond-cosine-decay-3nef)
+- [I Built a Production AI Pipeline for a UK FinTech — Here&#39;s What Actually Happened](https://dev.to/fouzi_oukacha/i-built-a-production-ai-pipeline-for-a-uk-fintech-heres-what-actually-happened-3gfg)
+- [The Hidden Side of Bitcoin](https://dev.to/jtonny490/the-hidden-side-of-bitcoin-3817)
+- [The Viability Test Every AI-Dev Architecture Fails](https://dev.to/bala_paranj_059d338e44e7e/the-viability-test-every-ai-dev-architecture-fails-d3)
 <!-- BLOG-POST-LIST:END -->
 
