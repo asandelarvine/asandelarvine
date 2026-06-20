@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Oracle and the Wolf: I Made Gemini Lose Like a Kid 🐺](https://dev.to/anchildress1/the-oracle-and-the-wolf-i-made-gemini-lose-like-a-kid-3nk5)
-- [Neural Networks with PyTorch and Lightning AI Part 5: Final Results and GPU Acceleration](https://dev.to/rijultp/neural-networks-with-pytorch-and-lightning-ai-part-5-final-results-and-gpu-acceleration-4m0m)
-- [Feature Flags at Scale: Designing a Distributed Control System for Production Behavior](https://dev.to/sai_ram_0000/feature-flags-at-scale-designing-a-distributed-control-system-for-production-behavior-2p30)
-- [🌍🚀 Project Showcase: Carbon Footprint Tracker](https://dev.to/prem_gaikwad_316d716c3/project-showcase-carbon-footprint-tracker-1e7n)
+- [ECHO PROTOCOL — I Built a Game Where You Play as Alan Turing&#39;s Last AI, Interrogated by a Live Gemini Model](https://dev.to/_boweii/echo-protocol-i-built-a-game-where-you-play-as-alan-turings-last-ai-interrogated-by-a-live-f5n)
+- [Starl - a lightweight, no ads and offline music player i been working on..](https://dev.to/everm4iva/starl-a-lightweight-no-ads-and-offline-music-player-1gmf)
+- [DATABASE MODELLING,JOINS,RELATIONSHIPS &amp; SCHEMA](https://dev.to/kaizer77y/database-modellingjoinsrelationships-schema-4ped)
+- [Players, Not Wallets](https://dev.to/m_blackscarstudio/players-not-wallets-1dp)
 <!-- BLOG-POST-LIST:END -->
 
