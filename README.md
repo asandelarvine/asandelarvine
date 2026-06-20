@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We&#39;re One Script Away From 30% Cheaper Groceries, Stop Asking AI, Start Asking Why](https://dev.to/djowda/were-one-script-away-from-30-cheaper-groceries-stop-asking-ai-start-asking-why-3g12)
-- [Why Your Adobe Commerce Recommendation Engine Is Leaving Revenue on the Table And How to Fix It](https://dev.to/jagadeesh_s/why-your-adobe-commerce-recommendation-engine-is-leaving-revenue-on-the-table-and-how-to-fix-it-17ll)
-- [Lessons from building 20 MCP Apps in 2 days](https://dev.to/arcade/lessons-from-building-20-mcp-apps-in-2-days-1f98)
-- [Stop Wasting Tokens: I Built a File-Mapping Standard for AI-Assisted Development](https://dev.to/matteoturri/stop-wasting-tokens-i-built-a-file-mapping-standard-for-ai-assisted-development-o25)
+- [Event-Handling-Basics](https://dev.to/tengxgfyrz67s/event-handling-basics-2p4)
+- [Section 1.1 — Comparing AI Types and Techniques Used in Cybersecurity](https://dev.to/furkant/section-11-comparing-ai-types-and-techniques-used-in-cybersecurity-e74)
+- [your CI agent is reading more than your prompt](https://dev.to/pvgomes/your-ci-agent-is-reading-more-than-your-prompt-3c96)
+- [I&#39;m Building a Production-Grade Spring Boot + React App, One Feature a Day &lpar;Day 1&rpar;](https://dev.to/dev48v/im-building-a-production-grade-spring-boot-react-app-one-feature-a-day-day-1-26f7)
 <!-- BLOG-POST-LIST:END -->
 
