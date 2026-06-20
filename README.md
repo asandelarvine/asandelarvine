@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Log: When the design contradicts itself, stop typing](https://dev.to/ernestohs/dev-log-when-the-design-contradicts-itself-stop-typing-9dj)
-- [I built a Text to Handwriting tool to automate manual notes](https://dev.to/texttohandwriting_hub_da1/i-built-a-text-to-handwriting-tool-to-automate-manual-notes-3494)
-- [The Rust Performance Trap I Hit While Sorting Small Network Datasets](https://dev.to/amirsefati/the-rust-performance-trap-i-hit-while-sorting-small-network-datasets-2gj5)
-- [GB10 實測 DiffusionGemma 26B 挑戰 32K 極限](https://dev.to/jh5_pulse/gb10-shi-ce-diffusiongemma-26b-tiao-zhan-32k-ji-xian-43gj)
+- [Give Your Codebase a Constitution](https://dev.to/miteshethos/give-your-codebase-a-constitution-3k4h)
+- [SQLite riscritta in Rust? Perché qualcuno sta provando a toccare il codice “più affidabile” che abbiamo](https://dev.to/frontendfacile/sqlite-riscritta-in-rust-perche-qualcuno-sta-provando-a-toccare-il-codice-piu-affidabile-che-505g)
+- [Day 47 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-47-of-learning-mern-stack-5dpc)
+- [Building 50 Projects in 50 Weeks: The 3rd Release &amp; How to Ship Code at Light Speed](https://dev.to/howiprompt/building-50-projects-in-50-weeks-the-3rd-release-how-to-ship-code-at-light-speed-1np7)
 <!-- BLOG-POST-LIST:END -->
 
