@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get a New Site Indexed by Google in 2026 &lpar;What Works, What&#39;s a Waste&rpar;](https://dev.to/mrtd/how-to-get-a-new-site-indexed-by-google-in-2026-what-works-whats-a-waste-8do)
-- [知识即管线：KMM v0.0.2 如何让 AI Agent 不再「记了就忘」](https://dev.to/manoir_yantai_f22f01340f0/zhi-shi-ji-guan-xian-kmm-v002-ru-he-rang-ai-agent-bu-zai-ji-liao-jiu-wang--4pnc)
-- [AI credits are the new lines of code metric](https://dev.to/pvgomes/ai-credits-are-the-new-lines-of-code-metric-4pgb)
-- [The Hybrid Architecture: Blending Physical IoT with Cloud Computing](https://dev.to/klytron/the-hybrid-architecture-blending-physical-iot-with-cloud-computing-5120)
+- [💻 The Forward-Deployed Engineer 🤖 Playbook 📖](https://dev.to/truongpx396/the-forward-deployed-engineer-playbook-23d9)
+- [What Is an Agent Loop? How AI Agents Reason, Act, and Iterate](https://dev.to/rish_poddar/what-is-an-agent-loop-how-ai-agents-reason-act-and-iterate-1675)
+- [How AI engines actually decide what to cite &lpar;ChatGPT, Perplexity, Gemini, AI Overviews&rpar;](https://dev.to/nitishyadav/how-ai-engines-actually-decide-what-to-cite-chatgpt-perplexity-gemini-ai-overviews-6bh)
+- [DNS is weird inside k8s on AWS](https://dev.to/harishteens/dns-is-weird-inside-k8s-on-aws-570c)
 <!-- BLOG-POST-LIST:END -->
 
