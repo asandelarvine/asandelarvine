@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💻 The Forward-Deployed Engineer 🤖 Playbook 📖](https://dev.to/truongpx396/the-forward-deployed-engineer-playbook-23d9)
-- [What Is an Agent Loop? How AI Agents Reason, Act, and Iterate](https://dev.to/rish_poddar/what-is-an-agent-loop-how-ai-agents-reason-act-and-iterate-1675)
-- [How AI engines actually decide what to cite &lpar;ChatGPT, Perplexity, Gemini, AI Overviews&rpar;](https://dev.to/nitishyadav/how-ai-engines-actually-decide-what-to-cite-chatgpt-perplexity-gemini-ai-overviews-6bh)
-- [DNS is weird inside k8s on AWS](https://dev.to/harishteens/dns-is-weird-inside-k8s-on-aws-570c)
+- [Generate Invoice PDFs from HTML in 10 Lines of Code](https://dev.to/mahiuddinalkamal/generate-invoice-pdfs-from-html-in-10-lines-of-code-57o2)
+- [Modeling, Joins, Relationships and Different Schemas In Power BI](https://dev.to/yonko/modeling-joins-relationships-and-different-schemas-in-power-bi-13d9)
+- [Stop measuring Web3 growth with Web2 metrics — Contribution &gt; DAU](https://dev.to/orville_wang_d2758f1be203/stop-measuring-web3-growth-with-web2-metrics-contribution-dau-46ce)
+- [Why my Chrome extension uses a hybrid AI risk score instead of pure AI sorting](https://dev.to/projekta2/why-my-chrome-extension-uses-a-hybrid-ai-risk-score-instead-of-pure-ai-sorting-4lfo)
 <!-- BLOG-POST-LIST:END -->
 
