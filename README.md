@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding a coach directory to a plans-only platform](https://dev.to/link_m/adding-a-coach-directory-to-a-plans-only-platform-j9f)
-- [Why wp_mail&lpar;&rpar; silently eats your form notifications — and how to fix it for free](https://dev.to/mrpsiho/why-wpmail-silently-eats-your-form-notifications-and-how-to-fix-it-for-free-5ckl)
-- [Understanding Tech guide about مطالعات میان رشته ای](https://dev.to/dehkadeh_honar_bd47919754/understanding-tech-guide-about-mtlt-myn-rshth-y-4lg6)
-- [Turing&#39;s Last Cipher — decrypt a message no one ever actually wrote](https://dev.to/georgpiwonka/turings-last-cipher-decrypt-a-message-no-one-ever-actually-wrote-506a)
+- [Ending the 2 AM Nightmare: How My Backtrace Agent and GitLab Orbit Tame On-Call Chaos](https://dev.to/vanichitkara/ending-the-2-am-nightmare-how-my-backtrace-agent-and-gitlab-orbit-tame-on-call-chaos-4mo2)
+- [Why Rate Limits Kill Your AI Agents in Production &lpar;And the Patterns That Actually Work&rpar;](https://dev.to/mudassirworks/why-rate-limits-kill-your-ai-agents-in-production-and-the-patterns-that-actually-work-20n6)
+- [Building a 3D Game in the Browser Humbled Me. Here&#39;s Everything That Fought Back.](https://dev.to/arya_koste_5845807df94776/building-a-3d-game-in-the-browser-humbled-me-heres-everything-that-fought-back-4mmg)
+- [Self-Taught, Final Year, and Honestly Asking for Guidance](https://dev.to/cobra_kai_/self-taught-final-year-and-honestly-asking-for-guidance-52jm)
 <!-- BLOG-POST-LIST:END -->
 
