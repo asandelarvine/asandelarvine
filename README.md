@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generate Invoice PDFs from HTML in 10 Lines of Code](https://dev.to/mahiuddinalkamal/generate-invoice-pdfs-from-html-in-10-lines-of-code-57o2)
-- [Modeling, Joins, Relationships and Different Schemas In Power BI](https://dev.to/yonko/modeling-joins-relationships-and-different-schemas-in-power-bi-13d9)
-- [Stop measuring Web3 growth with Web2 metrics — Contribution &gt; DAU](https://dev.to/orville_wang_d2758f1be203/stop-measuring-web3-growth-with-web2-metrics-contribution-dau-46ce)
-- [Why my Chrome extension uses a hybrid AI risk score instead of pure AI sorting](https://dev.to/projekta2/why-my-chrome-extension-uses-a-hybrid-ai-risk-score-instead-of-pure-ai-sorting-4lfo)
+- [The Dirty Secret of Cloud Server Scaling!](https://dev.to/prabashanadev/the-dirty-secret-of-cloud-server-scaling-2eg5)
+- [The Playwright Playbook — Part 8: Playwright Meets AI — Agents, MCP &amp; Self-Healing Tests](https://dev.to/sshhfaiz/the-playwright-playbook-part-8-playwright-meets-ai-agents-mcp-self-healing-tests-136p)
+- [Building a Real-Time Task Manager with Next.js and Firebase - Lessons from the Trenches](https://dev.to/sufalthakre/building-a-real-time-task-manager-with-nextjs-and-firebase-lessons-from-the-trenches-1kl4)
+- [Beyond open&lpar;&rpar;: Designing a Crash-Safe, Atomic Hot-Patching Engine in Python](https://dev.to/rasuljanov_alihon/beyond-open-designing-a-crash-safe-atomic-hot-patching-engine-in-python-4b7o)
 <!-- BLOG-POST-LIST:END -->
 
