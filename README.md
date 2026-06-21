@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Dirty Secret of Cloud Server Scaling!](https://dev.to/prabashanadev/the-dirty-secret-of-cloud-server-scaling-2eg5)
-- [The Playwright Playbook — Part 8: Playwright Meets AI — Agents, MCP &amp; Self-Healing Tests](https://dev.to/sshhfaiz/the-playwright-playbook-part-8-playwright-meets-ai-agents-mcp-self-healing-tests-136p)
-- [Building a Real-Time Task Manager with Next.js and Firebase - Lessons from the Trenches](https://dev.to/sufalthakre/building-a-real-time-task-manager-with-nextjs-and-firebase-lessons-from-the-trenches-1kl4)
-- [Beyond open&lpar;&rpar;: Designing a Crash-Safe, Atomic Hot-Patching Engine in Python](https://dev.to/rasuljanov_alihon/beyond-open-designing-a-crash-safe-atomic-hot-patching-engine-in-python-4b7o)
+- [5 Cookie Tricks for Debugging Auth Issues in Chrome &lpar;No More Creating Test Accounts&rpar;](https://dev.to/ktg0215/5-cookie-tricks-for-debugging-auth-issues-in-chrome-no-more-creating-test-accounts-1ol3)
+- [Escaping Generative Monoculture in AI-Assisted Engineering](https://dev.to/malsabbagh/escaping-generative-monoculture-in-ai-assisted-engineering-4bk0)
+- [Meet mytuis: A Sleek Terminal Application Manager Built with Bash and Gum](https://dev.to/horaciodegiorgi/meet-mytuis-a-sleek-terminal-application-manager-built-with-bash-and-gum-39b9)
+- [I Got Tired of Paying $99/mo for Options Data — So I Built My Own API tags: python, api, finance, showdev](https://dev.to/salomon_c7d44a2175a53c6d3/i-got-tired-of-paying-99mo-for-options-data-so-i-built-my-own-api-tags-python-api-finance-40d2)
 <!-- BLOG-POST-LIST:END -->
 
