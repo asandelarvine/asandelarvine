@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI: Who&#39;s responsible? The AI? Or the developer?](https://dev.to/bennyarevalo/agentic-ai-whos-responsible-the-ai-or-the-developer-44j7)
-- [Stop Making Your AI Coding Agent Grep Your Whole Repo — Try codebase-memory-mcp](https://dev.to/arshtechpro/stop-making-your-ai-coding-agent-grep-your-whole-repo-try-codebase-memory-mcp-4g8l)
-- [EGC: Your AI agents never start from zero again](https://dev.to/fmarzochi/egc-your-ai-agents-never-start-from-zero-again-1o09)
-- [100 Days of DevOps, Day 1: Linux User Management and AWS Key Pairs](https://dev.to/ndcodes/100-days-of-devops-day-1-linux-user-management-and-aws-key-pairs-3bci)
+- [How to Get a New Site Indexed by Google in 2026 &lpar;What Works, What&#39;s a Waste&rpar;](https://dev.to/mrtd/how-to-get-a-new-site-indexed-by-google-in-2026-what-works-whats-a-waste-8do)
+- [知识即管线：KMM v0.0.2 如何让 AI Agent 不再「记了就忘」](https://dev.to/manoir_yantai_f22f01340f0/zhi-shi-ji-guan-xian-kmm-v002-ru-he-rang-ai-agent-bu-zai-ji-liao-jiu-wang--4pnc)
+- [AI credits are the new lines of code metric](https://dev.to/pvgomes/ai-credits-are-the-new-lines-of-code-metric-4pgb)
+- [The Hybrid Architecture: Blending Physical IoT with Cloud Computing](https://dev.to/klytron/the-hybrid-architecture-blending-physical-iot-with-cloud-computing-5120)
 <!-- BLOG-POST-LIST:END -->
 
