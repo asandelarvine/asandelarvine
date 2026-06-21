@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Cookie Tricks for Debugging Auth Issues in Chrome &lpar;No More Creating Test Accounts&rpar;](https://dev.to/ktg0215/5-cookie-tricks-for-debugging-auth-issues-in-chrome-no-more-creating-test-accounts-1ol3)
-- [Escaping Generative Monoculture in AI-Assisted Engineering](https://dev.to/malsabbagh/escaping-generative-monoculture-in-ai-assisted-engineering-4bk0)
-- [Meet mytuis: A Sleek Terminal Application Manager Built with Bash and Gum](https://dev.to/horaciodegiorgi/meet-mytuis-a-sleek-terminal-application-manager-built-with-bash-and-gum-39b9)
-- [I Got Tired of Paying $99/mo for Options Data — So I Built My Own API tags: python, api, finance, showdev](https://dev.to/salomon_c7d44a2175a53c6d3/i-got-tired-of-paying-99mo-for-options-data-so-i-built-my-own-api-tags-python-api-finance-40d2)
+- [Adding a coach directory to a plans-only platform](https://dev.to/link_m/adding-a-coach-directory-to-a-plans-only-platform-j9f)
+- [Why wp_mail&lpar;&rpar; silently eats your form notifications — and how to fix it for free](https://dev.to/mrpsiho/why-wpmail-silently-eats-your-form-notifications-and-how-to-fix-it-for-free-5ckl)
+- [Understanding Tech guide about مطالعات میان رشته ای](https://dev.to/dehkadeh_honar_bd47919754/understanding-tech-guide-about-mtlt-myn-rshth-y-4lg6)
+- [Turing&#39;s Last Cipher — decrypt a message no one ever actually wrote](https://dev.to/georgpiwonka/turings-last-cipher-decrypt-a-message-no-one-ever-actually-wrote-506a)
 <!-- BLOG-POST-LIST:END -->
 
