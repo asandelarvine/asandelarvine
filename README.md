@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ending the 2 AM Nightmare: How My Backtrace Agent and GitLab Orbit Tame On-Call Chaos](https://dev.to/vanichitkara/ending-the-2-am-nightmare-how-my-backtrace-agent-and-gitlab-orbit-tame-on-call-chaos-4mo2)
-- [Why Rate Limits Kill Your AI Agents in Production &lpar;And the Patterns That Actually Work&rpar;](https://dev.to/mudassirworks/why-rate-limits-kill-your-ai-agents-in-production-and-the-patterns-that-actually-work-20n6)
-- [Building a 3D Game in the Browser Humbled Me. Here&#39;s Everything That Fought Back.](https://dev.to/arya_koste_5845807df94776/building-a-3d-game-in-the-browser-humbled-me-heres-everything-that-fought-back-4mmg)
-- [Self-Taught, Final Year, and Honestly Asking for Guidance](https://dev.to/cobra_kai_/self-taught-final-year-and-honestly-asking-for-guidance-52jm)
+- [Kinde Is Missing from Mastra&#39;s Auth Lineup, So I Built the Provider](https://dev.to/sholajegede/kinde-is-missing-from-mastras-auth-lineup-so-i-built-the-provider-5gc9)
+- [Mock any API response in Postman &lpar;and let AI build the collection&rpar;](https://dev.to/antonkirilchuk/mock-any-api-response-in-postman-and-let-ai-build-the-collection-2le1)
+- [Turing&#39;s Solstice – Decipher the Code. Control the Solstice.](https://dev.to/justino_contingo/turings-solstice-decipher-the-code-control-the-solstice-jfe)
+- [Dawn or Eclipse — a code-breaking ode to Turing you can&#39;t outsource to the machine](https://dev.to/tobethekey/dawn-or-eclipse-a-code-breaking-ode-to-turing-you-cant-outsource-to-the-machine-3o8a)
 <!-- BLOG-POST-LIST:END -->
 
