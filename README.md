@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kinde Is Missing from Mastra&#39;s Auth Lineup, So I Built the Provider](https://dev.to/sholajegede/kinde-is-missing-from-mastras-auth-lineup-so-i-built-the-provider-5gc9)
-- [Mock any API response in Postman &lpar;and let AI build the collection&rpar;](https://dev.to/antonkirilchuk/mock-any-api-response-in-postman-and-let-ai-build-the-collection-2le1)
-- [Turing&#39;s Solstice – Decipher the Code. Control the Solstice.](https://dev.to/justino_contingo/turings-solstice-decipher-the-code-control-the-solstice-jfe)
-- [Dawn or Eclipse — a code-breaking ode to Turing you can&#39;t outsource to the machine](https://dev.to/tobethekey/dawn-or-eclipse-a-code-breaking-ode-to-turing-you-cant-outsource-to-the-machine-3o8a)
+- [When SuSiE Says &#39;95% Confident&#39;, Is It?](https://dev.to/gbadedata/when-susie-says-95-confident-is-it-benchmarking-the-honesty-of-fine-mapping-credible-sets-206o)
+- [NOONFALL: A Solstice Game About a City Where the Sun Forgot to Set](https://dev.to/anaykushwaha/noonfall-a-solstice-game-about-a-city-where-the-sun-forgot-to-set-3cc1)
+- [Most AI Agents Aren&#39;t in Production. Here&#39;s What Works.](https://dev.to/studiomeyer_io/most-ai-agents-arent-in-production-heres-what-works-4ni9)
+- [Migrating from NextAuth to Better Auth in Next.js &lpar;and What the Boring Parts Actually Are&rpar;](https://dev.to/authlayerdev/migrating-from-nextauth-to-better-auth-in-nextjs-and-what-the-boring-parts-actually-are-4lf3)
 <!-- BLOG-POST-LIST:END -->
 
