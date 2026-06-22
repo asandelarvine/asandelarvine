@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Log response.model on Every Claude Call &lpar;and You Should Too&rpar;](https://dev.to/pavelespitia/why-i-log-responsemodel-on-every-claude-call-and-you-should-too-2fc1)
-- [I built 128 things with AI in 4 months. Then I made an AI dissect all of it.](https://dev.to/greymothjp/i-built-128-things-with-ai-in-4-months-then-i-made-an-ai-dissect-all-of-it-1766)
-- [&#39;&quot;An LLM and a harness&quot;: Nvidia&#39;&#39;s simple thesis on what agents actually are&#39;](https://dev.to/thegatewayguy/an-llm-and-a-harness-nvidias-simple-thesis-on-what-agents-actually-are-e63)
-- [How I Cut My LLM API Bill by 80% With a Simple Router](https://dev.to/chnby/how-i-cut-my-llm-api-bill-by-80-with-a-simple-router-3246)
+- [🚀 Day 1 of Learning React: Why React Exists, the Real DOM, Virtual DOM &amp; React Elements](https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61)
+- [[Boost]](https://dev.to/cherrypick14/-1d2i)
+- [I Build MCP Servers. Here&#39;s the Security Hole Nobody Talks About.](https://dev.to/enjoy_kumawat/i-build-mcp-servers-heres-the-security-hole-nobody-talks-about-41b6)
+- [Vibe-Coded Infrastructure: How to Ship Fast Without Torching Production](https://dev.to/jjoyneriv/vibe-coded-infrastructure-how-to-ship-fast-without-torching-production-3l83)
 <!-- BLOG-POST-LIST:END -->
 
