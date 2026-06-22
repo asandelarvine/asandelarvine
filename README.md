@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Code Review Is Working Perfectly. It Just Cannot Catch What Was Never Defined.](https://dev.to/avery_code/your-code-review-is-working-perfectly-it-just-cannot-catch-what-was-never-defined-dap)
-- [Beyond the Cache Miss: Designing Resilient Caching Layers with Redis Degradation Strategies](https://dev.to/shubham_bhati/beyond-the-cache-miss-designing-resilient-caching-layers-with-redis-degradation-strategies-e7k)
-- [Cloudflare under the hood: how it works and how attackers try to get around it](https://dev.to/jguillaumesio/cloudflare-under-the-hood-how-it-works-and-how-attackers-try-to-get-around-it-3740)
-- [Why Vibecoded Apps Fail Security Audits &lpar;and the 4 Fixes That Matter Most&rpar;](https://dev.to/jakub_inithouse/why-vibecoded-apps-fail-security-audits-and-the-4-fixes-that-matter-most-3jpj)
+- [Why I Log response.model on Every Claude Call &lpar;and You Should Too&rpar;](https://dev.to/pavelespitia/why-i-log-responsemodel-on-every-claude-call-and-you-should-too-2fc1)
+- [I built 128 things with AI in 4 months. Then I made an AI dissect all of it.](https://dev.to/greymothjp/i-built-128-things-with-ai-in-4-months-then-i-made-an-ai-dissect-all-of-it-1766)
+- [&#39;&quot;An LLM and a harness&quot;: Nvidia&#39;&#39;s simple thesis on what agents actually are&#39;](https://dev.to/thegatewayguy/an-llm-and-a-harness-nvidias-simple-thesis-on-what-agents-actually-are-e63)
+- [How I Cut My LLM API Bill by 80% With a Simple Router](https://dev.to/chnby/how-i-cut-my-llm-api-bill-by-80-with-a-simple-router-3246)
 <!-- BLOG-POST-LIST:END -->
 
