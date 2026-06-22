@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Six Lines, Zero API Calls: Running LLMs On-Device in React Native](https://dev.to/vikrantnegi/six-lines-zero-api-calls-running-llms-on-device-in-react-native-3ahl)
-- [Why I Think Most AI Agents Are Overengineered](https://dev.to/jaideepparashar/why-i-think-most-ai-agents-are-overengineered-249o)
-- [Understanding Server Sent Events](https://dev.to/rishini_dharan_t/understanding-server-sent-events-3mkd)
-- [Why Email Uses the @ Symbol](https://dev.to/fluidwire/why-email-uses-the-symbol-3cl9)
+- [Your Code Review Is Working Perfectly. It Just Cannot Catch What Was Never Defined.](https://dev.to/avery_code/your-code-review-is-working-perfectly-it-just-cannot-catch-what-was-never-defined-dap)
+- [Beyond the Cache Miss: Designing Resilient Caching Layers with Redis Degradation Strategies](https://dev.to/shubham_bhati/beyond-the-cache-miss-designing-resilient-caching-layers-with-redis-degradation-strategies-e7k)
+- [Cloudflare under the hood: how it works and how attackers try to get around it](https://dev.to/jguillaumesio/cloudflare-under-the-hood-how-it-works-and-how-attackers-try-to-get-around-it-3740)
+- [Why Vibecoded Apps Fail Security Audits &lpar;and the 4 Fixes That Matter Most&rpar;](https://dev.to/jakub_inithouse/why-vibecoded-apps-fail-security-audits-and-the-4-fixes-that-matter-most-3jpj)
 <!-- BLOG-POST-LIST:END -->
 
