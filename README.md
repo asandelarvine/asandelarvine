@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Day 1 of Learning React: Why React Exists, the Real DOM, Virtual DOM &amp; React Elements](https://dev.to/bismay-exe/day-1-of-learning-react-why-react-exists-the-real-dom-virtual-dom-react-elements-5b61)
-- [[Boost]](https://dev.to/cherrypick14/-1d2i)
-- [I Build MCP Servers. Here&#39;s the Security Hole Nobody Talks About.](https://dev.to/enjoy_kumawat/i-build-mcp-servers-heres-the-security-hole-nobody-talks-about-41b6)
-- [Vibe-Coded Infrastructure: How to Ship Fast Without Torching Production](https://dev.to/jjoyneriv/vibe-coded-infrastructure-how-to-ship-fast-without-torching-production-3l83)
+- [Penpot for Developers: The Open-Source Design Tool That Speaks Your Language](https://dev.to/arshtechpro/penpot-for-developers-the-open-source-design-tool-that-speaks-your-language-47p)
+- [CVE &amp; CVSS Scores: Strategic Integration in Vulnerability Management](https://dev.to/nara_naghi/cve-cvss-scores-strategic-integration-in-vulnerability-management-45eo)
+- [I built a fully local AI assistant at 16 — no cloud, no API keys, runs on your GPU](https://dev.to/shriisoot/i-built-a-fully-local-ai-assistant-at-16-no-cloud-no-api-keys-runs-on-your-gpu-am4)
+- [Securing AI: Codex Operational Bugs, Claude Output Integrity, Copilot Context](https://dev.to/soytuber/securing-ai-codex-operational-bugs-claude-output-integrity-copilot-context-3g08)
 <!-- BLOG-POST-LIST:END -->
 
