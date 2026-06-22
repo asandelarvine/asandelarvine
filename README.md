@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When SuSiE Says &#39;95% Confident&#39;, Is It?](https://dev.to/gbadedata/when-susie-says-95-confident-is-it-benchmarking-the-honesty-of-fine-mapping-credible-sets-206o)
-- [NOONFALL: A Solstice Game About a City Where the Sun Forgot to Set](https://dev.to/anaykushwaha/noonfall-a-solstice-game-about-a-city-where-the-sun-forgot-to-set-3cc1)
-- [Most AI Agents Aren&#39;t in Production. Here&#39;s What Works.](https://dev.to/studiomeyer_io/most-ai-agents-arent-in-production-heres-what-works-4ni9)
-- [Migrating from NextAuth to Better Auth in Next.js &lpar;and What the Boring Parts Actually Are&rpar;](https://dev.to/authlayerdev/migrating-from-nextauth-to-better-auth-in-nextjs-and-what-the-boring-parts-actually-are-4lf3)
+- [Six Lines, Zero API Calls: Running LLMs On-Device in React Native](https://dev.to/vikrantnegi/six-lines-zero-api-calls-running-llms-on-device-in-react-native-3ahl)
+- [Why I Think Most AI Agents Are Overengineered](https://dev.to/jaideepparashar/why-i-think-most-ai-agents-are-overengineered-249o)
+- [Understanding Server Sent Events](https://dev.to/rishini_dharan_t/understanding-server-sent-events-3mkd)
+- [Why Email Uses the @ Symbol](https://dev.to/fluidwire/why-email-uses-the-symbol-3cl9)
 <!-- BLOG-POST-LIST:END -->
 
