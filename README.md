@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Traced 1000 Lines of Python Without Running It. Here Is What I Learned.](https://dev.to/ameer_abdullah_68d48c8496/i-traced-1000-lines-of-python-without-running-it-here-is-what-i-learned-5dge)
-- [Static site search for Astro in 2026: why I picked Pagefind over Algolia and Lunr](https://dev.to/morinaga/static-site-search-for-astro-in-2026-why-i-picked-pagefind-over-algolia-and-lunr-3891)
-- [How I built pairwise AI model compare pages with Claude Haiku and a budget cap](https://dev.to/morinaga/how-i-built-pairwise-ai-model-compare-pages-with-claude-haiku-and-a-budget-cap-3hpm)
-- [How I built a billing system with a real double-entry ledger in Node + PostgreSQL](https://dev.to/lapistry_dev/how-i-built-a-billing-system-with-a-real-double-entry-ledger-in-node-postgresql-pm9)
+- [How I Stopped Burning Cash on Token Limits — A CTO&#39;s Field Notes](https://dev.to/eagerspark/how-i-stopped-burning-cash-on-token-limits-a-ctos-field-notes-lgp)
+- [Chrome I/O 2026: tre direttrici che contano davvero per chi fa frontend](https://dev.to/frontendfacile/chrome-io-2026-tre-direttrici-che-contano-davvero-per-chi-fa-frontend-5def)
+- [Stop returning the same &quot;blocked&quot; error from your agent guardrail](https://dev.to/sattyamjjain/stop-returning-the-same-blocked-error-from-your-agent-guardrail-1a53)
+- [I Built an ADHD-Friendly App in 3 Weeks — Here&#39;s Everything That Went Wrong &lpar;and Right&rpar;](https://dev.to/selmla/i-built-an-adhd-friendly-app-in-3-weeks-heres-everything-that-went-wrong-and-right-1ek2)
 <!-- BLOG-POST-LIST:END -->
 
