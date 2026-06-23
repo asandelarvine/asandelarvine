@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Stopped Burning Cash on Token Limits — A CTO&#39;s Field Notes](https://dev.to/eagerspark/how-i-stopped-burning-cash-on-token-limits-a-ctos-field-notes-lgp)
-- [Chrome I/O 2026: tre direttrici che contano davvero per chi fa frontend](https://dev.to/frontendfacile/chrome-io-2026-tre-direttrici-che-contano-davvero-per-chi-fa-frontend-5def)
-- [Stop returning the same &quot;blocked&quot; error from your agent guardrail](https://dev.to/sattyamjjain/stop-returning-the-same-blocked-error-from-your-agent-guardrail-1a53)
-- [I Built an ADHD-Friendly App in 3 Weeks — Here&#39;s Everything That Went Wrong &lpar;and Right&rpar;](https://dev.to/selmla/i-built-an-adhd-friendly-app-in-3-weeks-heres-everything-that-went-wrong-and-right-1ek2)
+- [Styling the Vertical - Achieving Parity](https://dev.to/shaynaproductions/styling-the-vertical-achieving-parity-5h2h)
+- [Go 1.26 Cheat Sheet](https://dev.to/lappy/go-126-cheat-sheet-34fi)
+- [Hetzner Doubled Its Prices Again. The AI Memory Crunch Is Why](https://dev.to/devopsdaily/hetzner-doubled-its-prices-again-the-ai-memory-crunch-is-why-64b)
+- [Your DB Is Still Red After Adding a Cache — Here&#39;s Why](https://dev.to/siddharth_pandey_27/your-db-is-still-red-after-adding-a-cache-heres-why-2e4e)
 <!-- BLOG-POST-LIST:END -->
 
