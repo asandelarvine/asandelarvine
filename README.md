@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rebalancing a portfolio with only your next deposit &lpar;no selling&rpar;](https://dev.to/diegocard117/rebalancing-a-portfolio-with-only-your-next-deposit-no-selling-3ma6)
-- [Infrastructure as Code with OpenTofu/Terraform](https://dev.to/mrduguo/infrastructure-as-code-with-opentofuterraform-1i58)
-- [The AI agent habit that was quietly wasting my time and tokens](https://dev.to/kstoyanovai/the-ai-agent-habit-that-was-quietly-wasting-my-time-and-tokens-2jmi)
-- [Too cheap to be good? Think again.](https://dev.to/pascal_cescato_692b7a8a20/too-cheap-to-be-good-think-again-4nj0)
+- [Running a LangGraph ReAct Agent in Production: OpenAI-Compatible API + Multi-Model Gateway + One-Line Tracing](https://dev.to/javaking1129/running-a-langgraph-react-agent-in-production-openai-compatible-api-multi-model-gateway--emi)
+- [The SaaS Churn Rate Formula: 3 Calculations That Expose Your Real Runway Risk](https://dev.to/saasdev11/the-saas-churn-rate-formula-3-calculations-that-expose-your-real-runway-risk-30bb)
+- [I built an open-source crypto trading bot that runs 4 exchanges from one server](https://dev.to/gainalgo/i-built-an-open-source-crypto-trading-bot-that-runs-4-exchanges-from-one-server-47c1)
+- [How LLM Tokens Work &lpar;And Why They Explain Your AI Bill&rpar;](https://dev.to/thestackunderflow_3b3b3b6/how-llm-tokens-work-and-why-they-explain-your-ai-bill-46b)
 <!-- BLOG-POST-LIST:END -->
 
