@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Penpot for Developers: The Open-Source Design Tool That Speaks Your Language](https://dev.to/arshtechpro/penpot-for-developers-the-open-source-design-tool-that-speaks-your-language-47p)
-- [CVE &amp; CVSS Scores: Strategic Integration in Vulnerability Management](https://dev.to/nara_naghi/cve-cvss-scores-strategic-integration-in-vulnerability-management-45eo)
-- [I built a fully local AI assistant at 16 — no cloud, no API keys, runs on your GPU](https://dev.to/shriisoot/i-built-a-fully-local-ai-assistant-at-16-no-cloud-no-api-keys-runs-on-your-gpu-am4)
-- [Securing AI: Codex Operational Bugs, Claude Output Integrity, Copilot Context](https://dev.to/soytuber/securing-ai-codex-operational-bugs-claude-output-integrity-copilot-context-3g08)
+- [你的 AI Agent 需要一个「三层记忆」，而不是一个聊天记录](https://dev.to/manoir_yantai_f22f01340f0/ni-de-ai-agent-xu-yao-ge-san-ceng-ji-yi-er-bu-shi-ge-liao-tian-ji-lu-42ol)
+- [agent sandboxes are the new enterprise desktop](https://dev.to/pvgomes/agent-sandboxes-are-the-new-enterprise-desktop-d18)
+- [Building One Knowledge Graph Across 46 Repositories With Static Analysis &lpar;Part 1&rpar;](https://dev.to/ryantsuji/building-one-knowledge-graph-across-46-repositories-with-static-analysis-part-1-egm)
+- [ForgeIL Has Been Self-Hosting Since May. Nobody Found It](https://dev.to/artanidos/forgeil-has-been-self-hosting-since-may-nobody-found-it-4772)
 <!-- BLOG-POST-LIST:END -->
 
