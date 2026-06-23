@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Studio is untapped territory for a large set of Developers and rightfully So..](https://dev.to/rudrarnc/ai-studio-is-untapped-territory-for-a-large-set-of-developers-21j4)
-- [Dev Log: 2026-06-23 — Query Cleanups, Real Health Checks, Safer MCP Tools, and Password-Reset Plumbing](https://dev.to/nasrulhazim/dev-log-2026-06-23-query-cleanups-real-health-checks-safer-mcp-tools-and-password-reset-12d0)
-- [A Day of Performance Hardening: Hunting N+1s and Killing Wasted Queries in Laravel](https://dev.to/nasrulhazim/a-day-of-performance-hardening-hunting-n1s-and-killing-wasted-queries-in-laravel-568p)
-- [What Western Devs Need to Know Before Visiting China in 2026: Alipay, WeChat Pay &amp; the Mobile Web](https://dev.to/pdfdark/what-western-devs-need-to-know-before-visiting-china-in-2026-alipay-wechat-pay-the-mobile-web-1bi0)
+- [Best 7 Social Media Scheduler APIs for Agents &amp; Developers](https://dev.to/haneem/best-7-social-media-scheduler-apis-for-agents-developers-21p3)
+- [Building a multi-agent document-search copilot — Part 1: muddy results, and one strategy per query](https://dev.to/rdiegoss/building-a-multi-agent-document-search-copilot-part-1-muddy-results-and-one-strategy-per-query-54og)
+- [GPU Scarcity Isn&#39;t the Problem Anymore. GPU Allocation Governance Is.](https://dev.to/ntctech/gpu-scarcity-isnt-the-problem-anymore-gpu-allocation-governance-is-c2e)
+- [Five features that turn an OS into a trust platform: Panic, Dead Man’s Switch, E2E messenger, Vault UI, and Secure Boot attestation in IONA OS](https://dev.to/ionablokchain/five-features-that-turn-an-os-into-a-trust-platform-panic-dead-mans-switch-e2e-messenger-vault-2npn)
 <!-- BLOG-POST-LIST:END -->
 
