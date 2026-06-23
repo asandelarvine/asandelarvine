@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best 7 Social Media Scheduler APIs for Agents &amp; Developers](https://dev.to/haneem/best-7-social-media-scheduler-apis-for-agents-developers-21p3)
-- [Building a multi-agent document-search copilot — Part 1: muddy results, and one strategy per query](https://dev.to/rdiegoss/building-a-multi-agent-document-search-copilot-part-1-muddy-results-and-one-strategy-per-query-54og)
-- [GPU Scarcity Isn&#39;t the Problem Anymore. GPU Allocation Governance Is.](https://dev.to/ntctech/gpu-scarcity-isnt-the-problem-anymore-gpu-allocation-governance-is-c2e)
-- [Five features that turn an OS into a trust platform: Panic, Dead Man’s Switch, E2E messenger, Vault UI, and Secure Boot attestation in IONA OS](https://dev.to/ionablokchain/five-features-that-turn-an-os-into-a-trust-platform-panic-dead-mans-switch-e2e-messenger-vault-2npn)
+- [Rebalancing a portfolio with only your next deposit &lpar;no selling&rpar;](https://dev.to/diegocard117/rebalancing-a-portfolio-with-only-your-next-deposit-no-selling-3ma6)
+- [Infrastructure as Code with OpenTofu/Terraform](https://dev.to/mrduguo/infrastructure-as-code-with-opentofuterraform-1i58)
+- [The AI agent habit that was quietly wasting my time and tokens](https://dev.to/kstoyanovai/the-ai-agent-habit-that-was-quietly-wasting-my-time-and-tokens-2jmi)
+- [Too cheap to be good? Think again.](https://dev.to/pascal_cescato_692b7a8a20/too-cheap-to-be-good-think-again-4nj0)
 <!-- BLOG-POST-LIST:END -->
 
