@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [你的 AI Agent 需要一个「三层记忆」，而不是一个聊天记录](https://dev.to/manoir_yantai_f22f01340f0/ni-de-ai-agent-xu-yao-ge-san-ceng-ji-yi-er-bu-shi-ge-liao-tian-ji-lu-42ol)
-- [agent sandboxes are the new enterprise desktop](https://dev.to/pvgomes/agent-sandboxes-are-the-new-enterprise-desktop-d18)
-- [Building One Knowledge Graph Across 46 Repositories With Static Analysis &lpar;Part 1&rpar;](https://dev.to/ryantsuji/building-one-knowledge-graph-across-46-repositories-with-static-analysis-part-1-egm)
-- [ForgeIL Has Been Self-Hosting Since May. Nobody Found It](https://dev.to/artanidos/forgeil-has-been-self-hosting-since-may-nobody-found-it-4772)
+- [I Traced 1000 Lines of Python Without Running It. Here Is What I Learned.](https://dev.to/ameer_abdullah_68d48c8496/i-traced-1000-lines-of-python-without-running-it-here-is-what-i-learned-5dge)
+- [Static site search for Astro in 2026: why I picked Pagefind over Algolia and Lunr](https://dev.to/morinaga/static-site-search-for-astro-in-2026-why-i-picked-pagefind-over-algolia-and-lunr-3891)
+- [How I built pairwise AI model compare pages with Claude Haiku and a budget cap](https://dev.to/morinaga/how-i-built-pairwise-ai-model-compare-pages-with-claude-haiku-and-a-budget-cap-3hpm)
+- [How I built a billing system with a real double-entry ledger in Node + PostgreSQL](https://dev.to/lapistry_dev/how-i-built-a-billing-system-with-a-real-double-entry-ledger-in-node-postgresql-pm9)
 <!-- BLOG-POST-LIST:END -->
 
