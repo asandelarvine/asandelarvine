@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Styling the Vertical - Achieving Parity](https://dev.to/shaynaproductions/styling-the-vertical-achieving-parity-5h2h)
-- [Go 1.26 Cheat Sheet](https://dev.to/lappy/go-126-cheat-sheet-34fi)
-- [Hetzner Doubled Its Prices Again. The AI Memory Crunch Is Why](https://dev.to/devopsdaily/hetzner-doubled-its-prices-again-the-ai-memory-crunch-is-why-64b)
-- [Your DB Is Still Red After Adding a Cache — Here&#39;s Why](https://dev.to/siddharth_pandey_27/your-db-is-still-red-after-adding-a-cache-heres-why-2e4e)
+- [AI Studio is untapped territory for a large set of Developers and rightfully So..](https://dev.to/rudrarnc/ai-studio-is-untapped-territory-for-a-large-set-of-developers-21j4)
+- [Dev Log: 2026-06-23 — Query Cleanups, Real Health Checks, Safer MCP Tools, and Password-Reset Plumbing](https://dev.to/nasrulhazim/dev-log-2026-06-23-query-cleanups-real-health-checks-safer-mcp-tools-and-password-reset-12d0)
+- [A Day of Performance Hardening: Hunting N+1s and Killing Wasted Queries in Laravel](https://dev.to/nasrulhazim/a-day-of-performance-hardening-hunting-n1s-and-killing-wasted-queries-in-laravel-568p)
+- [What Western Devs Need to Know Before Visiting China in 2026: Alipay, WeChat Pay &amp; the Mobile Web](https://dev.to/pdfdark/what-western-devs-need-to-know-before-visiting-china-in-2026-alipay-wechat-pay-the-mobile-web-1bi0)
 <!-- BLOG-POST-LIST:END -->
 
