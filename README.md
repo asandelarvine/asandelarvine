@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built ScaleMap Over a Weekend After Talking to Interior Designers](https://dev.to/dhruvangg/i-built-scalemap-over-a-weekend-after-talking-to-interior-designers-1gj4)
-- [Our Quality Scores Were Precise, Useless, and Identical](https://dev.to/vibeagentmaking/our-quality-scores-were-precise-useless-and-identical-57ge)
-- [&lpar;How Influence Operations Work&rpar;What the Dark Web Taught Me About Modern Influence Operations](https://dev.to/aetherintel/how-influence-operations-workwhat-the-dark-web-taught-me-about-modern-influence-operations-3mp9)
-- [CF7 to Airtable: Tables and Databases Not Loading in the Mapping Screen](https://dev.to/rahul_sharma_15bd129bc69e/cf7-to-airtable-tables-and-databases-not-loading-in-the-mapping-screen-52d7)
+- [Agile Is Not Broken — Your Portfolio Is](https://dev.to/denis_glushko/agile-is-not-broken-your-portfolio-is-305)
+- [How to Take Screenshots in Playwright &lpar;Full Page, Elements, CI&rpar;](https://dev.to/grabbit/how-to-take-screenshots-in-playwright-full-page-elements-ci-11gc)
+- [Security Education and Awareness: Because Not Everyone Is Technical](https://dev.to/max-b-grc/security-education-and-awareness-because-not-everyone-is-technical-iji)
+- [Building a Multilingual AI Chatbot for Indian Languages with Qwen 3](https://dev.to/tokencnn/building-a-multilingual-ai-chatbot-for-indian-languages-with-qwen-3-4nip)
 <!-- BLOG-POST-LIST:END -->
 
