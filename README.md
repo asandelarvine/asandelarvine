@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pull OTP and 2FA codes from email with Nylas](https://dev.to/mqasimca/pull-otp-and-2fa-codes-from-email-with-nylas-3gp9)
-- [Verify Nylas webhook signatures to trust your data](https://dev.to/mqasimca/verify-nylas-webhook-signatures-to-trust-your-data-1fk3)
-- [Connect a user&#39;s mailbox with Nylas hosted OAuth](https://dev.to/mqasimca/connect-a-users-mailbox-with-nylas-hosted-oauth-1a18)
-- [Line AI Chatbot In Production: A CTO&#39;s Honest Breakdown](https://dev.to/eagerspark/line-ai-chatbot-in-production-a-ctos-honest-breakdown-594d)
+- [I Built ScaleMap Over a Weekend After Talking to Interior Designers](https://dev.to/dhruvangg/i-built-scalemap-over-a-weekend-after-talking-to-interior-designers-1gj4)
+- [Our Quality Scores Were Precise, Useless, and Identical](https://dev.to/vibeagentmaking/our-quality-scores-were-precise-useless-and-identical-57ge)
+- [&lpar;How Influence Operations Work&rpar;What the Dark Web Taught Me About Modern Influence Operations](https://dev.to/aetherintel/how-influence-operations-workwhat-the-dark-web-taught-me-about-modern-influence-operations-3mp9)
+- [CF7 to Airtable: Tables and Databases Not Loading in the Mapping Screen](https://dev.to/rahul_sharma_15bd129bc69e/cf7-to-airtable-tables-and-databases-not-loading-in-the-mapping-screen-52d7)
 <!-- BLOG-POST-LIST:END -->
 
