@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agile Is Not Broken — Your Portfolio Is](https://dev.to/denis_glushko/agile-is-not-broken-your-portfolio-is-305)
-- [How to Take Screenshots in Playwright &lpar;Full Page, Elements, CI&rpar;](https://dev.to/grabbit/how-to-take-screenshots-in-playwright-full-page-elements-ci-11gc)
-- [Security Education and Awareness: Because Not Everyone Is Technical](https://dev.to/max-b-grc/security-education-and-awareness-because-not-everyone-is-technical-iji)
-- [Building a Multilingual AI Chatbot for Indian Languages with Qwen 3](https://dev.to/tokencnn/building-a-multilingual-ai-chatbot-for-indian-languages-with-qwen-3-4nip)
+- [Static API keys are the wrong primitive for agent authentication](https://dev.to/steveemmerich/static-api-keys-are-the-wrong-primitive-for-agent-authentication-3del)
+- [Five ways your AI coding agent wastes tokens &lpar;and how to fix each one&rpar;](https://dev.to/newtorob/five-ways-your-ai-coding-agent-wastes-tokens-and-how-to-fix-each-one-2m28)
+- [The IDE is Dead: How I Configured Claude Code for Ultra-Fast Terminal Development](https://dev.to/pratikpathak/the-ide-is-dead-how-i-configured-claude-code-for-ultra-fast-terminal-development-38dd)
+- [Why Listing Objects Is One of the Hardest Operations in Cloud Storage](https://dev.to/maxhuo/why-listing-objects-is-one-of-the-hardest-operations-in-cloud-storage-8kj)
 <!-- BLOG-POST-LIST:END -->
 
