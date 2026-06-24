@@ -79,9 +79,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [𝗠𝗼𝘀𝘁 𝗖𝗦𝗦 𝘀𝗽𝗮𝗰𝗶𝗻𝗴 𝗯𝘂𝗴𝘀 𝘀𝘁𝗮𝗿𝘁 𝘄𝗶𝘁𝗵 𝗼𝗻𝗲 𝗯𝗮𝘀𝗶𝗰 𝗰𝗼𝗻𝗳𝘂𝘀𝗶𝗼𝗻: 𝗽𝗮𝗱𝗱𝗶𝗻𝗴 𝘃𝘀 𝗺𝗮𝗿𝗴𝗶𝗻.](https://dev.to/hardik_kuwar_7caa4626bb16/--1k2h)
-- [Three packages claim &#39;SkillsGuard&#39;. One shipped malware.](https://dev.to/creeta/three-packages-claim-skillsguard-one-shipped-malware-4fgc)
-- [Klein Blue scores Lc -12 as text — here&#39;s the two-slot fix](https://dev.to/palo_alto_ai/klein-blue-scores-lc-12-as-text-heres-the-two-slot-fix-576l)
-- [How I Use AI Councils to Solve Ambiguous Engineering Problems](https://dev.to/j3nnning/how-i-use-ai-councils-to-solve-ambiguous-engineering-problems-4dii)
+- [MongoDB-backed ASP.NET Core Identity, without the EF Core detour](https://dev.to/michael_jordan_87eaf96f24/mongodb-backed-aspnet-core-identity-without-the-ef-core-detour-848)
+- [They say critical press is still good publicity, right? 
+
+A sharp piece accused us of grading our own exams. They aren&#39;t wrong. We wrote the tests, so we always pass. 
+
+The fix is a shared open attack corpus. Building in public.](https://dev.to/aeoess/they-say-critical-press-is-still-good-publicity-right-a-sharp-piece-accused-us-of-grading-our-e9e)
+- [Refactoring Without Breaking Production: A Practical Guide for Modern Software Teams](https://dev.to/ufomadu_nnaemeka_89/refactoring-without-breaking-production-a-practical-guide-for-modern-software-teams-3883)
+- [Self-Hosted Hermes Agent on iOS: Cloudflare Tunnel + Access Service Tokens + Hermex](https://dev.to/mosesman831/self-hosted-hermes-agent-on-ios-cloudflare-tunnel-access-service-tokens-hermex-103e)
 <!-- BLOG-POST-LIST:END -->
 
