@@ -79,13 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB-backed ASP.NET Core Identity, without the EF Core detour](https://dev.to/michael_jordan_87eaf96f24/mongodb-backed-aspnet-core-identity-without-the-ef-core-detour-848)
-- [They say critical press is still good publicity, right? 
-
-A sharp piece accused us of grading our own exams. They aren&#39;t wrong. We wrote the tests, so we always pass. 
-
-The fix is a shared open attack corpus. Building in public.](https://dev.to/aeoess/they-say-critical-press-is-still-good-publicity-right-a-sharp-piece-accused-us-of-grading-our-e9e)
-- [Refactoring Without Breaking Production: A Practical Guide for Modern Software Teams](https://dev.to/ufomadu_nnaemeka_89/refactoring-without-breaking-production-a-practical-guide-for-modern-software-teams-3883)
-- [Self-Hosted Hermes Agent on iOS: Cloudflare Tunnel + Access Service Tokens + Hermex](https://dev.to/mosesman831/self-hosted-hermes-agent-on-ios-cloudflare-tunnel-access-service-tokens-hermex-103e)
+- [Your @EventListener Fires Before the Transaction Commits⚙️](https://dev.to/code_with_kyryl/your-eventlistener-fires-before-the-transaction-commits-286m)
+- [Building a Real-Time World Cup 2026 Bracket Predictor with Vanilla JS and GitHub Actions](https://dev.to/ryo_kurita_1a64dfc9182ff0/building-a-real-time-world-cup-2026-bracket-predictor-with-vanilla-js-and-github-actions-5fln)
+- [How Be Recommended by Inithouse Scores AI Visibility 0 to 100 Across ChatGPT, Perplexity, Claude and Gemini](https://dev.to/jakub_inithouse/how-be-recommended-by-inithouse-scores-ai-visibility-0-to-100-across-chatgpt-perplexity-claude-36ob)
+- [I Built a Messenger That Works Without the Internet — And It Changed How I Think About Privacy](https://dev.to/6arshid/i-built-a-messenger-that-works-without-the-internet-and-it-changed-how-i-think-about-privacy-4aid)
 <!-- BLOG-POST-LIST:END -->
 
