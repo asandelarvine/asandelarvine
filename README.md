@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your @EventListener Fires Before the Transaction Commits⚙️](https://dev.to/code_with_kyryl/your-eventlistener-fires-before-the-transaction-commits-286m)
-- [Building a Real-Time World Cup 2026 Bracket Predictor with Vanilla JS and GitHub Actions](https://dev.to/ryo_kurita_1a64dfc9182ff0/building-a-real-time-world-cup-2026-bracket-predictor-with-vanilla-js-and-github-actions-5fln)
-- [How Be Recommended by Inithouse Scores AI Visibility 0 to 100 Across ChatGPT, Perplexity, Claude and Gemini](https://dev.to/jakub_inithouse/how-be-recommended-by-inithouse-scores-ai-visibility-0-to-100-across-chatgpt-perplexity-claude-36ob)
-- [I Built a Messenger That Works Without the Internet — And It Changed How I Think About Privacy](https://dev.to/6arshid/i-built-a-messenger-that-works-without-the-internet-and-it-changed-how-i-think-about-privacy-4aid)
+- [I&#39;m 18, Self-Taught, and I Built an AI Study App for Nigerian Students — Here&#39;s How](https://dev.to/geocodehub/im-18-self-taught-and-i-built-an-ai-study-app-for-nigerian-students-heres-how-1958)
+- [超越沙箱：为 AI Agent 构建持久化运行时](https://dev.to/cognitalk/chao-yue-sha-xiang-wei-ai-agent-gou-jian-chi-jiu-hua-yun-xing-shi-2i9i)
+- [Mastering Azure Management Task: A Hands-On Project &lpar;Part 2&rpar;](https://dev.to/degreatkhali/mastering-azure-management-task-a-hands-on-project-part-2-4m7o)
+- [OmniIDE 1.0.4 Released](https://dev.to/omninodeco/omniide-104-released-5oi)
 <!-- BLOG-POST-LIST:END -->
 
