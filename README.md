@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Passive Reconnaissance on google.com — What I Found Using Shodan, WHOIS, and DNS Tools](https://dev.to/almahmudkhalif/passive-reconnaissance-on-googlecom-what-i-found-using-shodan-whois-and-dns-tools-5hea)
-- [Why your reCAPTCHA v3 score is low — and how to actually raise it](https://dev.to/bshahin/why-your-recaptcha-v3-score-is-low-and-how-to-actually-raise-it-5554)
-- [Why I chose PM2 over Docker for most services - SolidNorth](https://dev.to/solidnorth/why-i-chose-pm2-over-docker-for-most-services-solidnorth-34p9)
-- [Building a Trading Bot Is Easy. Building One That Survives Overnight Isn&#39;t.](https://dev.to/casatrick/building-a-trading-bot-is-easy-building-one-that-survives-overnight-isnt-25j5)
+- [Moving from Migrate Mongo to Mongo Migrate Kit &lpar;mmk&rpar; Without Re Running Old Migrations](https://dev.to/santosh327/moving-from-migrate-mongo-to-mongo-migrate-kit-mmk-without-re-running-old-migrations-19j8)
+- [The Developer&#39;s Map of Quantum Computing: From Qubits to Fault-Tolerant Machines](https://dev.to/amanraza/the-developers-map-of-quantum-computing-from-qubits-to-fault-tolerant-machines-35gp)
+- [The 47 Words That Make Your Text Sound AI-Written &lpar;And What to Use Instead&rpar;](https://dev.to/david_musijenko/the-47-words-that-make-your-text-sound-ai-written-and-what-to-use-instead-4c4)
+- [System Design Interview Questions by Level: Junior, Mid-Level, Senior, and Staff](https://dev.to/arslan_ah/system-design-interview-questions-by-level-junior-mid-level-senior-and-staff-2m6h)
 <!-- BLOG-POST-LIST:END -->
 
