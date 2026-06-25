@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Translating Windows system audio in real time — driverless, with no virtual cable](https://dev.to/davutakca/translating-windows-system-audio-in-real-time-driverless-with-no-virtual-cable-2842)
-- [My app didn&#39;t go &quot;viral&quot;. My AWS bill did.](https://dev.to/earlgreyhot1701d/my-app-didnt-go-viral-my-aws-bill-did-434h)
-- [Making product recalls executable with Aurora DSQL and Vercel](https://dev.to/ujwal240/making-product-recalls-executable-with-aurora-dsql-and-vercel-2nja)
-- [AWS Lambda MicroVMs: I Tested the New Stateful Serverless Primitive](https://dev.to/aws-builders/aws-lambda-microvms-i-tested-the-new-stateful-serverless-primitive-40jf)
+- [Passive Reconnaissance on google.com — What I Found Using Shodan, WHOIS, and DNS Tools](https://dev.to/almahmudkhalif/passive-reconnaissance-on-googlecom-what-i-found-using-shodan-whois-and-dns-tools-5hea)
+- [Why your reCAPTCHA v3 score is low — and how to actually raise it](https://dev.to/bshahin/why-your-recaptcha-v3-score-is-low-and-how-to-actually-raise-it-5554)
+- [Why I chose PM2 over Docker for most services - SolidNorth](https://dev.to/solidnorth/why-i-chose-pm2-over-docker-for-most-services-solidnorth-34p9)
+- [Building a Trading Bot Is Easy. Building One That Survives Overnight Isn&#39;t.](https://dev.to/casatrick/building-a-trading-bot-is-easy-building-one-that-survives-overnight-isnt-25j5)
 <!-- BLOG-POST-LIST:END -->
 
