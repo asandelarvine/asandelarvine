@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built My Resume and Applied to Summer Internships Today: A Step-by-Step Breakdown](https://dev.to/ashwillrise/how-i-built-my-resume-and-applied-to-summer-internships-today-a-step-by-step-breakdown-4eo4)
-- [Lessons from building a QR-paired browser handoff tool](https://dev.to/icyzip/lessons-from-building-a-qr-paired-browser-handoff-tool-1nlk)
-- [The Feynman Technique Prompt: How to Make AI Explain Anything in 4 Layers of Depth](https://dev.to/blobxiaoyao/the-feynman-technique-prompt-how-to-make-ai-explain-anything-in-4-layers-of-depth-3076)
-- [AI Is Too Good at Coding - So I Built Something to Keep the Why &lpar;and Make It Scale&rpar;](https://dev.to/karthickramachandran/ai-is-too-good-at-coding-so-i-built-something-to-keep-the-why-and-make-it-scale-1hmf)
+- [This Brilliant Tool Reimagines Searching the Web as a Distraction-Free Social Feed](https://dev.to/amrzlabs/this-brilliant-tool-reimagines-searching-the-web-as-a-distraction-free-social-feed-48c8)
+- [Three Loops, No Ship](https://dev.to/vystartasv/three-loops-no-ship-2pg0)
+- [I built an AI project manager for dev teams because Jira was too much and Trello was too little — meet Rahnuma.io 🚀](https://dev.to/muhammad_azhar_3826652565/i-built-an-ai-project-manager-for-dev-teams-because-jira-was-too-much-and-trello-was-too-little--4918)
+- [sick of Boring, Corporate Looking Websites? Try This Fun CSS Framework! 🎨](https://dev.to/amrzlabs/ick-of-boring-corporate-looking-websites-try-this-fun-css-framework-5d2b)
 <!-- BLOG-POST-LIST:END -->
 
