@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Under the Hood: Drag, Touch, and CSS Cascade in a Real Diff UI](https://dev.to/bonzai2carn/under-the-hood-drag-touch-and-css-cascade-in-a-real-diff-ui-1b66)
-- [Supabase Shopify Backend: Side-Car Architecture &lpar;2026&rpar;](https://dev.to/no7software-uk/supabase-shopify-backend-side-car-architecture-2026-pgm)
-- [Humanizing Artificial Intelligence for SRE Teams: Reducing Alert Fatigue With Smarter AI Guidance](https://dev.to/jjoyneriv/humanizing-artificial-intelligence-for-sre-teams-reducing-alert-fatigue-with-smarter-ai-guidance-3411)
-- [Why KV Cache Matters — How MQA, GQA, and MLA Make LLM Inference Faster](https://dev.to/zeromathai/why-kv-cache-matters-how-mqa-gqa-and-mla-make-llm-inference-faster-5gb4)
+- [The ghost in my transcript: why my AI meeting app kept saying &#39;Thank you.&#39;](https://dev.to/_mh/the-ghost-in-my-transcript-why-my-ai-meeting-app-kept-saying-thank-you-17p1)
+- [Shrinking the Footprint and Cleaning the Pipes](https://dev.to/glad_labs/shrinking-the-footprint-and-cleaning-the-pipes-48if)
+- [GitHub Is Becoming a Giant AI Code Dump. Quality Gates Are the Only Fix.](https://dev.to/toniantunovic/github-is-becoming-a-giant-ai-code-dump-quality-gates-are-the-only-fix-3kpn)
+- [# Real-World SSH: From Your Laptop to the Linux Kernel 🚀](https://dev.to/mhasif0786/-real-world-ssh-from-your-laptop-to-the-linux-kernel-4b1c)
 <!-- BLOG-POST-LIST:END -->
 
