@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Moving from Migrate Mongo to Mongo Migrate Kit &lpar;mmk&rpar; Without Re Running Old Migrations](https://dev.to/santosh327/moving-from-migrate-mongo-to-mongo-migrate-kit-mmk-without-re-running-old-migrations-19j8)
-- [The Developer&#39;s Map of Quantum Computing: From Qubits to Fault-Tolerant Machines](https://dev.to/amanraza/the-developers-map-of-quantum-computing-from-qubits-to-fault-tolerant-machines-35gp)
-- [The 47 Words That Make Your Text Sound AI-Written &lpar;And What to Use Instead&rpar;](https://dev.to/david_musijenko/the-47-words-that-make-your-text-sound-ai-written-and-what-to-use-instead-4c4)
-- [System Design Interview Questions by Level: Junior, Mid-Level, Senior, and Staff](https://dev.to/arslan_ah/system-design-interview-questions-by-level-junior-mid-level-senior-and-staff-2m6h)
+- [Under the Hood: Drag, Touch, and CSS Cascade in a Real Diff UI](https://dev.to/bonzai2carn/under-the-hood-drag-touch-and-css-cascade-in-a-real-diff-ui-1b66)
+- [Supabase Shopify Backend: Side-Car Architecture &lpar;2026&rpar;](https://dev.to/no7software-uk/supabase-shopify-backend-side-car-architecture-2026-pgm)
+- [Humanizing Artificial Intelligence for SRE Teams: Reducing Alert Fatigue With Smarter AI Guidance](https://dev.to/jjoyneriv/humanizing-artificial-intelligence-for-sre-teams-reducing-alert-fatigue-with-smarter-ai-guidance-3411)
+- [Why KV Cache Matters — How MQA, GQA, and MLA Make LLM Inference Faster](https://dev.to/zeromathai/why-kv-cache-matters-how-mqa-gqa-and-mla-make-llm-inference-faster-5gb4)
 <!-- BLOG-POST-LIST:END -->
 
