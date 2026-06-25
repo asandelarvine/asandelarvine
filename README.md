@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The ghost in my transcript: why my AI meeting app kept saying &#39;Thank you.&#39;](https://dev.to/_mh/the-ghost-in-my-transcript-why-my-ai-meeting-app-kept-saying-thank-you-17p1)
-- [Shrinking the Footprint and Cleaning the Pipes](https://dev.to/glad_labs/shrinking-the-footprint-and-cleaning-the-pipes-48if)
-- [GitHub Is Becoming a Giant AI Code Dump. Quality Gates Are the Only Fix.](https://dev.to/toniantunovic/github-is-becoming-a-giant-ai-code-dump-quality-gates-are-the-only-fix-3kpn)
-- [# Real-World SSH: From Your Laptop to the Linux Kernel 🚀](https://dev.to/mhasif0786/-real-world-ssh-from-your-laptop-to-the-linux-kernel-4b1c)
+- [How I Built My Resume and Applied to Summer Internships Today: A Step-by-Step Breakdown](https://dev.to/ashwillrise/how-i-built-my-resume-and-applied-to-summer-internships-today-a-step-by-step-breakdown-4eo4)
+- [Lessons from building a QR-paired browser handoff tool](https://dev.to/icyzip/lessons-from-building-a-qr-paired-browser-handoff-tool-1nlk)
+- [The Feynman Technique Prompt: How to Make AI Explain Anything in 4 Layers of Depth](https://dev.to/blobxiaoyao/the-feynman-technique-prompt-how-to-make-ai-explain-anything-in-4-layers-of-depth-3076)
+- [AI Is Too Good at Coding - So I Built Something to Keep the Why &lpar;and Make It Scale&rpar;](https://dev.to/karthickramachandran/ai-is-too-good-at-coding-so-i-built-something-to-keep-the-why-and-make-it-scale-1hmf)
 <!-- BLOG-POST-LIST:END -->
 
