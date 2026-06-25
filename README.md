@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m 18, Self-Taught, and I Built an AI Study App for Nigerian Students — Here&#39;s How](https://dev.to/geocodehub/im-18-self-taught-and-i-built-an-ai-study-app-for-nigerian-students-heres-how-1958)
-- [超越沙箱：为 AI Agent 构建持久化运行时](https://dev.to/cognitalk/chao-yue-sha-xiang-wei-ai-agent-gou-jian-chi-jiu-hua-yun-xing-shi-2i9i)
-- [Mastering Azure Management Task: A Hands-On Project &lpar;Part 2&rpar;](https://dev.to/degreatkhali/mastering-azure-management-task-a-hands-on-project-part-2-4m7o)
-- [OmniIDE 1.0.4 Released](https://dev.to/omninodeco/omniide-104-released-5oi)
+- [Translating Windows system audio in real time — driverless, with no virtual cable](https://dev.to/davutakca/translating-windows-system-audio-in-real-time-driverless-with-no-virtual-cable-2842)
+- [My app didn&#39;t go &quot;viral&quot;. My AWS bill did.](https://dev.to/earlgreyhot1701d/my-app-didnt-go-viral-my-aws-bill-did-434h)
+- [Making product recalls executable with Aurora DSQL and Vercel](https://dev.to/ujwal240/making-product-recalls-executable-with-aurora-dsql-and-vercel-2nja)
+- [AWS Lambda MicroVMs: I Tested the New Stateful Serverless Primitive](https://dev.to/aws-builders/aws-lambda-microvms-i-tested-the-new-stateful-serverless-primitive-40jf)
 <!-- BLOG-POST-LIST:END -->
 
