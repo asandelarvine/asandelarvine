@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [This Brilliant Tool Reimagines Searching the Web as a Distraction-Free Social Feed](https://dev.to/amrzlabs/this-brilliant-tool-reimagines-searching-the-web-as-a-distraction-free-social-feed-48c8)
-- [Three Loops, No Ship](https://dev.to/vystartasv/three-loops-no-ship-2pg0)
-- [I built an AI project manager for dev teams because Jira was too much and Trello was too little — meet Rahnuma.io 🚀](https://dev.to/muhammad_azhar_3826652565/i-built-an-ai-project-manager-for-dev-teams-because-jira-was-too-much-and-trello-was-too-little--4918)
-- [sick of Boring, Corporate Looking Websites? Try This Fun CSS Framework! 🎨](https://dev.to/amrzlabs/ick-of-boring-corporate-looking-websites-try-this-fun-css-framework-5d2b)
+- [Laravel API Development in Morocco: Architecture Guide 2026](https://dev.to/aziz_amine_cabdc8e8ed1963/laravel-api-development-in-morocco-architecture-guide-2026-1bh8)
+- [Sarout Morocco](https://dev.to/aziz_amine_cabdc8e8ed1963/sarout-morocco-2n9p)
+- [linux lab](https://dev.to/jumptotech/linux-lab-2oa9)
+- [plugin marketplaces are the new endpoint policy for coding agents](https://dev.to/pvgomes/plugin-marketplaces-are-the-new-endpoint-policy-for-coding-agents-19p6)
 <!-- BLOG-POST-LIST:END -->
 
