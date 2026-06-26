@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ESP32 OLED Mini Shooter Game: Full Beginner Tutorial](https://dev.to/circuitrocks/esp32-oled-mini-shooter-game-full-beginner-tutorial-3784)
-- [Introducing Cloud Compass: Cloud News, Concepts, and Insights Without the Overwhelm](https://dev.to/thecloudcompass/introducing-cloud-compass-cloud-news-concepts-and-insights-without-the-overwhelm-5fjm)
-- [I analyzed 30 winning dropshipping products. 7 patterns they all share.](https://dev.to/dhruv_malaviya_cdcc71e595/i-analyzed-30-winning-dropshipping-products-7-patterns-they-all-share-2j2b)
-- [Your first SaaS hire probably shouldn&#39;t be an engineer](https://dev.to/stephen_dale_f411c38562bd/your-first-saas-hire-probably-shouldnt-be-an-engineer-512p)
+- [Pagination for huge amount of data and best practiced in .NET core](https://dev.to/hossein_esmati/pagination-for-huge-amount-of-data-and-best-practiced-in-net-core-37pb)
+- [Global Context Belongs Outside APC](https://dev.to/agentprojectcontext/global-context-belongs-outside-apc-4fg8)
+- [I Analyzed 1,684 URLs by Format — One Naming Pattern Gets 7x More Google Clicks](https://dev.to/kui_luo/i-analyzed-1684-urls-by-format-one-naming-pattern-gets-7x-more-google-clicks-1e5g)
+- [PyTorch: the deep learning framework that won the war](https://dev.to/jtorchia/pytorch-the-deep-learning-framework-that-won-the-war-299n)
 <!-- BLOG-POST-LIST:END -->
 
