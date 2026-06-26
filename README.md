@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fan-Out/Fan-In and the Async HTTP Pattern](https://dev.to/martin_oehlert/fan-outfan-in-and-the-async-http-pattern-194j)
-- [When Your Coding Agent Needs a Scribe, Not a Memory Engine](https://dev.to/timetxt/when-your-coding-agent-needs-a-scribe-not-a-memory-engine-3bj)
-- [The Day My Research Assistant Finally Got a Memory](https://dev.to/sasidhar_prathipati_/the-day-my-research-assistant-finally-got-a-memoryby-prathipati-sasidhar-2en4)
-- [# Treat: A Global Gifting Platform Empowering Local Businesses](https://dev.to/aws-builders/-treat-a-global-gifting-platform-empowering-local-businesses-i20)
+- [ESP32 OLED Mini Shooter Game: Full Beginner Tutorial](https://dev.to/circuitrocks/esp32-oled-mini-shooter-game-full-beginner-tutorial-3784)
+- [Introducing Cloud Compass: Cloud News, Concepts, and Insights Without the Overwhelm](https://dev.to/thecloudcompass/introducing-cloud-compass-cloud-news-concepts-and-insights-without-the-overwhelm-5fjm)
+- [I analyzed 30 winning dropshipping products. 7 patterns they all share.](https://dev.to/dhruv_malaviya_cdcc71e595/i-analyzed-30-winning-dropshipping-products-7-patterns-they-all-share-2j2b)
+- [Your first SaaS hire probably shouldn&#39;t be an engineer](https://dev.to/stephen_dale_f411c38562bd/your-first-saas-hire-probably-shouldnt-be-an-engineer-512p)
 <!-- BLOG-POST-LIST:END -->
 
