@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel API Development in Morocco: Architecture Guide 2026](https://dev.to/aziz_amine_cabdc8e8ed1963/laravel-api-development-in-morocco-architecture-guide-2026-1bh8)
-- [Sarout Morocco](https://dev.to/aziz_amine_cabdc8e8ed1963/sarout-morocco-2n9p)
-- [linux lab](https://dev.to/jumptotech/linux-lab-2oa9)
-- [plugin marketplaces are the new endpoint policy for coding agents](https://dev.to/pvgomes/plugin-marketplaces-are-the-new-endpoint-policy-for-coding-agents-19p6)
+- [Fan-Out/Fan-In and the Async HTTP Pattern](https://dev.to/martin_oehlert/fan-outfan-in-and-the-async-http-pattern-194j)
+- [When Your Coding Agent Needs a Scribe, Not a Memory Engine](https://dev.to/timetxt/when-your-coding-agent-needs-a-scribe-not-a-memory-engine-3bj)
+- [The Day My Research Assistant Finally Got a Memory](https://dev.to/sasidhar_prathipati_/the-day-my-research-assistant-finally-got-a-memoryby-prathipati-sasidhar-2en4)
+- [# Treat: A Global Gifting Platform Empowering Local Businesses](https://dev.to/aws-builders/-treat-a-global-gifting-platform-empowering-local-businesses-i20)
 <!-- BLOG-POST-LIST:END -->
 
