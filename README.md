@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Prompt Compressor That Saves 65% on LLM Costs — Here&#39;s the Story](https://dev.to/arjunkshah/i-built-a-prompt-compressor-that-saves-65-on-llm-costs-heres-the-story-2bdp)
-- [How We Migrated Bloom After from Vanilla JS to Next.js + TypeScript](https://dev.to/chijioke_uzodinma_d6ae6ef/how-we-migrated-bloom-after-from-vanilla-js-to-nextjs-typescript-ggl)
-- [How a .NET dev built an AI assistant](https://dev.to/manhhungtran/how-a-net-dev-built-an-ai-assistant-36cm)
-- [iOS App Icon Sizes in 2026: The Complete Reference](https://dev.to/presidentty/ios-app-icon-sizes-in-2026-the-complete-reference-fk6)
+- [Manage Sensitive Data In Application Code | 🏗️ Build A Secure Configuration Service](https://dev.to/aws-builders/manage-sensitive-data-in-application-code-build-a-secure-configuration-service-3mlb)
+- [JavaScript Closures: How They Actually Work](https://dev.to/sanuranjan/javascript-closures-how-they-actually-work-376g)
+- [Looking for Contributors: Help Build Avenx.js 🚀](https://dev.to/nathanschmid08/looking-for-contributors-help-build-avenxjs-1n4f)
+- [Weekly Dev Log 2026-W11](https://dev.to/umitomo-lab/weekly-dev-log-2026-w11-4ga6)
 <!-- BLOG-POST-LIST:END -->
 
