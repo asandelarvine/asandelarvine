@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Making of Aantraa](https://dev.to/shreyvijayvargiya/making-of-aantraa-3475)
-- [The AI reviewer scored 23/25 and missed the point](https://dev.to/michaeltruong/the-ai-reviewer-scored-2325-and-missed-the-point-51mh)
-- [How I Built a Custom Rust Blockchain for On-Chain Ride Lifecycle](https://dev.to/mehran_mazhar/how-i-built-a-custom-rust-blockchain-for-on-chain-ride-lifecycle-594i)
-- [MiniScript 2 Preview Builds is Here!!](https://dev.to/kartik_patel/miniscript-2-preview-builds-is-here-2mf5)
+- [Guardrails: Keeping Your AI Agent From Going Off the Rails](https://dev.to/lovestaco/guardrails-keeping-your-ai-agent-from-going-off-the-rails-2543)
+- [Organize your agents into workspaces by domain](https://dev.to/mqasimca/organize-your-agents-into-workspaces-by-domain-5dl7)
+- [Stop building backends for simple contact forms 🛑](https://dev.to/umair_ashraf_3fc3dabc723d/stop-building-backends-for-simple-contact-forms-1jne)
+- [The Agentic Stack: Discover the Gemini Enterprise Agent Platform.](https://dev.to/sunny7899/the-agentic-stack-why-managing-thousands-of-ai-agents-is-the-next-enterprise-revolution-5b2o)
 <!-- BLOG-POST-LIST:END -->
 
