@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Manage Sensitive Data In Application Code | 🏗️ Build A Secure Configuration Service](https://dev.to/aws-builders/manage-sensitive-data-in-application-code-build-a-secure-configuration-service-3mlb)
-- [JavaScript Closures: How They Actually Work](https://dev.to/sanuranjan/javascript-closures-how-they-actually-work-376g)
-- [Looking for Contributors: Help Build Avenx.js 🚀](https://dev.to/nathanschmid08/looking-for-contributors-help-build-avenxjs-1n4f)
-- [Weekly Dev Log 2026-W11](https://dev.to/umitomo-lab/weekly-dev-log-2026-w11-4ga6)
+- [Approval-driven server ops: how I let contractors restart nginx without ever giving them SSH](https://dev.to/lamas51/approval-driven-server-ops-how-i-let-contractors-restart-nginx-without-ever-giving-them-ssh-2fdm)
+- [Instrument AI Agent Decision Tracing with OpenTelemetry](https://dev.to/toxsec/instrument-ai-agent-decision-tracing-with-opentelemetry-5b2k)
+- [How I Stopped Worrying About AI API Bills: A Data-Driven Breakdown of...](https://dev.to/fiercedash/how-i-stopped-worrying-about-ai-api-bills-a-data-driven-breakdown-of-23h0)
+- [Why AI Clusters Fail Even When GPUs Are Idle](https://dev.to/zubairakbar/why-ai-clusters-fail-even-when-gpus-are-idle-5hdb)
 <!-- BLOG-POST-LIST:END -->
 
