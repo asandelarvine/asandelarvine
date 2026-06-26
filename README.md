@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Guardrails: Keeping Your AI Agent From Going Off the Rails](https://dev.to/lovestaco/guardrails-keeping-your-ai-agent-from-going-off-the-rails-2543)
-- [Organize your agents into workspaces by domain](https://dev.to/mqasimca/organize-your-agents-into-workspaces-by-domain-5dl7)
-- [Stop building backends for simple contact forms 🛑](https://dev.to/umair_ashraf_3fc3dabc723d/stop-building-backends-for-simple-contact-forms-1jne)
-- [The Agentic Stack: Discover the Gemini Enterprise Agent Platform.](https://dev.to/sunny7899/the-agentic-stack-why-managing-thousands-of-ai-agents-is-the-next-enterprise-revolution-5b2o)
+- [I Built a Prompt Compressor That Saves 65% on LLM Costs — Here&#39;s the Story](https://dev.to/arjunkshah/i-built-a-prompt-compressor-that-saves-65-on-llm-costs-heres-the-story-2bdp)
+- [How We Migrated Bloom After from Vanilla JS to Next.js + TypeScript](https://dev.to/chijioke_uzodinma_d6ae6ef/how-we-migrated-bloom-after-from-vanilla-js-to-nextjs-typescript-ggl)
+- [How a .NET dev built an AI assistant](https://dev.to/manhhungtran/how-a-net-dev-built-an-ai-assistant-36cm)
+- [iOS App Icon Sizes in 2026: The Complete Reference](https://dev.to/presidentty/ios-app-icon-sizes-in-2026-the-complete-reference-fk6)
 <!-- BLOG-POST-LIST:END -->
 
