@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pagination for huge amount of data and best practiced in .NET core](https://dev.to/hossein_esmati/pagination-for-huge-amount-of-data-and-best-practiced-in-net-core-37pb)
-- [Global Context Belongs Outside APC](https://dev.to/agentprojectcontext/global-context-belongs-outside-apc-4fg8)
-- [I Analyzed 1,684 URLs by Format — One Naming Pattern Gets 7x More Google Clicks](https://dev.to/kui_luo/i-analyzed-1684-urls-by-format-one-naming-pattern-gets-7x-more-google-clicks-1e5g)
-- [PyTorch: the deep learning framework that won the war](https://dev.to/jtorchia/pytorch-the-deep-learning-framework-that-won-the-war-299n)
+- [Making of Aantraa](https://dev.to/shreyvijayvargiya/making-of-aantraa-3475)
+- [The AI reviewer scored 23/25 and missed the point](https://dev.to/michaeltruong/the-ai-reviewer-scored-2325-and-missed-the-point-51mh)
+- [How I Built a Custom Rust Blockchain for On-Chain Ride Lifecycle](https://dev.to/mehran_mazhar/how-i-built-a-custom-rust-blockchain-for-on-chain-ride-lifecycle-594i)
+- [MiniScript 2 Preview Builds is Here!!](https://dev.to/kartik_patel/miniscript-2-preview-builds-is-here-2mf5)
 <!-- BLOG-POST-LIST:END -->
 
