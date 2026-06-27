@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Doesn&#39;t Need to Be Smarter. It Needs to Be Idempotent](https://dev.to/gs_sanjana_3e822112e14f8/your-ai-agent-doesnt-need-to-be-smarter-it-needs-to-be-idempotent-2736)
-- [Humanizing Artificial Intelligence for Log Analysis: Turning Raw Server Logs Into Clear DevOps Answers](https://dev.to/jjoyneriv/humanizing-artificial-intelligence-for-log-analysis-turning-raw-server-logs-into-clear-devops-2dnm)
-- [We Didn&#39;t Need Another AI Tool. We Needed Better Processes.](https://dev.to/saifuddin_tipu_ba2d0355b0/we-didnt-need-another-ai-tool-we-needed-better-processes-254)
-- [Three Token-2022 Mints in One Week: Fees, Yield, and Soul-Bound Tokens](https://dev.to/neocarvajal/three-token-2022-mints-in-one-week-fees-yield-and-soul-bound-tokens-j4j)
+- [We Run 9 AI Agents on 2 CPU Cores and 3.6GB RAM: The Engineering Memoir](https://dev.to/zwiserfit/we-run-9-ai-agents-on-2-cpu-cores-and-36gb-ram-the-engineering-memoir-3ad7)
+- [Organize your team, project and life.](https://dev.to/machadomichael/organize-your-team-project-and-life-lgf)
+- [Agent-Ready Commerce, Part 1: Building a Platform for the AI Era](https://dev.to/dmsfiris/agent-ready-commerce-part-1-building-a-platform-for-the-ai-era-32nc)
+- [Creating a Kubernetes scoped kubeconfig by hand is 15 steps of pain. It shouldn&#39;t be.](https://dev.to/sameraburabie/creating-a-kubernetes-scoped-kubeconfig-by-hand-is-15-steps-of-pain-it-shouldnt-be-27ig)
 <!-- BLOG-POST-LIST:END -->
 
