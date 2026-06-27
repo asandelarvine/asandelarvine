@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [StoreKit 2 subscriptions + a screenshot mode that bypasses purchases](https://dev.to/netflowers/storekit-2-subscriptions-a-screenshot-mode-that-bypasses-purchases-105)
-- [Bun v1.3.14: The Update That Actually Speeds Up Development](https://dev.to/frank_signorini/bun-v1314-the-update-that-actually-speeds-up-development-5g98)
-- [Custom Automation for SMEs: 5 real cases, EUR 500 to 5000](https://dev.to/ohugonnot/custom-automation-for-smes-5-real-cases-eur-500-to-5000-3jf5)
-- [GUI or CLI? Why We Built Both](https://dev.to/ancer/gui-or-cli-why-we-built-both-5mn)
+- [I built TokenBoard to track AI coding token usage without uploading prompts or code](https://dev.to/hui_chen_2437f5c7248178f9/i-built-tokenboard-to-track-ai-coding-token-usage-without-uploading-prompts-or-code-39ek)
+- [Luminary: a NextJS migration story.](https://dev.to/biola/luminary-a-nextjs-migration-story-1n1i)
+- [Heyo DEV Crowd!👋 I&#39;m Sorin, the maker, and this is Tamadoggo.](https://dev.to/sorvas/heyo-dev-crowd-im-sorin-the-maker-and-this-is-tamadoggo-4mn5)
+- [🧠 AI Context Engineering — Why Great AI Systems Need More Than Great Prompts &lpar;Part 1&rpar;](https://dev.to/fazal_mansuri_/ai-context-engineering-why-great-ai-systems-need-more-than-great-prompts-part-1-25dd)
 <!-- BLOG-POST-LIST:END -->
 
