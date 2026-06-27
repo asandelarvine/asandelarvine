@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built TokenBoard to track AI coding token usage without uploading prompts or code](https://dev.to/hui_chen_2437f5c7248178f9/i-built-tokenboard-to-track-ai-coding-token-usage-without-uploading-prompts-or-code-39ek)
-- [Luminary: a NextJS migration story.](https://dev.to/biola/luminary-a-nextjs-migration-story-1n1i)
-- [Heyo DEV Crowd!👋 I&#39;m Sorin, the maker, and this is Tamadoggo.](https://dev.to/sorvas/heyo-dev-crowd-im-sorin-the-maker-and-this-is-tamadoggo-4mn5)
-- [🧠 AI Context Engineering — Why Great AI Systems Need More Than Great Prompts &lpar;Part 1&rpar;](https://dev.to/fazal_mansuri_/ai-context-engineering-why-great-ai-systems-need-more-than-great-prompts-part-1-25dd)
+- [I let AI write this post. Then I deleted everything that made it sound like AI.](https://dev.to/fernforge/i-let-ai-write-this-post-then-i-deleted-everything-that-made-it-sound-like-ai-28aj)
+- [Browser Security Model: The Defensive Walls Every Hacker Knows &lpar;And Every Developer Should Too&rpar;](https://dev.to/arashad_dodhiya_0e4bdba5a/browser-security-model-the-defensive-walls-every-hacker-knows-and-every-developer-should-too-4cc3)
+- [Java To Native Linux App: One 5MB Binary, x64 And Arm](https://dev.to/codenameone/java-to-native-linux-app-one-5mb-binary-x64-and-arm-3cio)
+- [Resurrecting Kepler: Getting Modern LLMs Running on a GTX 770 &lpar;Kernel 7.x&rpar;](https://dev.to/skyne/resurrecting-kepler-getting-modern-llms-running-on-a-gtx-770-kernel-7x-4na)
 <!-- BLOG-POST-LIST:END -->
 
