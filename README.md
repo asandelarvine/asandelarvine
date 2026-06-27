@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Prepare For A Golang Interview: A Practical Guide For Mid &amp; Senior Engineers](https://dev.to/nazar_boyko/how-to-prepare-for-a-golang-interview-a-practical-guide-for-mid-senior-engineers-200p)
-- [My First Python Project: Lessons Learned While Building a Number Guessing Game](https://dev.to/xdk0d3r/my-first-python-project-lessons-learned-while-building-a-number-guessing-game-559i)
-- [My test had a comment that said &#39;in memory fallback&#39;. It wasn&#39;t.](https://dev.to/arihantdeva/my-test-had-a-comment-that-said-in-memory-fallback-it-wasnt-cij)
-- [How Rust Decides Whether an Array Is Copy](https://dev.to/jazz_thumyat/how-rust-decides-whether-an-array-is-copy-29kc)
+- [☁️ What Even Is &quot;The Cloud&quot;?](https://dev.to/thecloudcompass/what-even-is-the-cloud-4ojl)
+- [I Audited My AWS Account and Here&#39;s What I Found](https://dev.to/jas_dev/i-audited-my-aws-account-and-heres-what-i-found-3278)
+- [I Built a Free Browser-Based Urdu Writing and Design Platform](https://dev.to/anilanawaz_7/i-built-a-free-browser-based-urdu-writing-and-design-platform-3169)
+- [Why your AI agent is flaky — and 7 rules that make it reliable](https://dev.to/penloom_studio_829b7817d3/why-your-ai-agent-is-flaky-and-7-rules-that-make-it-reliable-481d)
 <!-- BLOG-POST-LIST:END -->
 
