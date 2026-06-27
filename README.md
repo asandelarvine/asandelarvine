@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [sqlex — A Modern Drop-in Replacement for jmoiron/sqlx](https://dev.to/suiriass/sqlex-a-modern-drop-in-replacement-for-jmoironsqlx-2d7i)
-- [I Built 9 AI Agents to Run a Gym. Here&#39;s the Architecture.](https://dev.to/zwiserfit/i-built-9-ai-agents-to-run-a-gym-heres-the-architecture-daf)
-- [SEO Services for Developers: What Actually Matters in 2026](https://dev.to/aboah/seo-services-for-developers-what-actually-matters-in-2026-34bd)
-- [MAX20151R: The 40V, 500mA Ultra-Low-Noise LDO That Silences Power Rails](https://dev.to/hknova/max20151r-the-40v-500ma-ultra-low-noise-ldo-that-silences-power-rails-3nic)
+- [How to ship and sell a paid desktop app outside the app stores &lpar;2026&rpar;](https://dev.to/nicodemanez/how-to-ship-and-sell-a-paid-desktop-app-outside-the-app-stores-2026-42j4)
+- [How to add license keys to a SwiftUI macOS app &lpar;in under an hour&rpar;](https://dev.to/nicodemanez/how-to-add-license-keys-to-a-swiftui-macos-app-in-under-an-hour-ge)
+- [I compared the licensing tools for my indie Mac app — the honest breakdown](https://dev.to/nicodemanez/i-compared-the-licensing-tools-for-my-indie-mac-app-the-honest-breakdown-40a5)
+- [How offline license activation actually works](https://dev.to/nicodemanez/how-offline-license-activation-actually-works-2paa)
 <!-- BLOG-POST-LIST:END -->
 
