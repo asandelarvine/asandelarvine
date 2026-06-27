@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I let AI write this post. Then I deleted everything that made it sound like AI.](https://dev.to/fernforge/i-let-ai-write-this-post-then-i-deleted-everything-that-made-it-sound-like-ai-28aj)
-- [Browser Security Model: The Defensive Walls Every Hacker Knows &lpar;And Every Developer Should Too&rpar;](https://dev.to/arashad_dodhiya_0e4bdba5a/browser-security-model-the-defensive-walls-every-hacker-knows-and-every-developer-should-too-4cc3)
-- [Java To Native Linux App: One 5MB Binary, x64 And Arm](https://dev.to/codenameone/java-to-native-linux-app-one-5mb-binary-x64-and-arm-3cio)
-- [Resurrecting Kepler: Getting Modern LLMs Running on a GTX 770 &lpar;Kernel 7.x&rpar;](https://dev.to/skyne/resurrecting-kepler-getting-modern-llms-running-on-a-gtx-770-kernel-7x-4na)
+- [How To Prepare For A Golang Interview: A Practical Guide For Mid &amp; Senior Engineers](https://dev.to/nazar_boyko/how-to-prepare-for-a-golang-interview-a-practical-guide-for-mid-senior-engineers-200p)
+- [My First Python Project: Lessons Learned While Building a Number Guessing Game](https://dev.to/xdk0d3r/my-first-python-project-lessons-learned-while-building-a-number-guessing-game-559i)
+- [My test had a comment that said &#39;in memory fallback&#39;. It wasn&#39;t.](https://dev.to/arihantdeva/my-test-had-a-comment-that-said-in-memory-fallback-it-wasnt-cij)
+- [How Rust Decides Whether an Array Is Copy](https://dev.to/jazz_thumyat/how-rust-decides-whether-an-array-is-copy-29kc)
 <!-- BLOG-POST-LIST:END -->
 
