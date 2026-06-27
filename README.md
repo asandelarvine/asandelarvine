@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to ship and sell a paid desktop app outside the app stores &lpar;2026&rpar;](https://dev.to/nicodemanez/how-to-ship-and-sell-a-paid-desktop-app-outside-the-app-stores-2026-42j4)
-- [How to add license keys to a SwiftUI macOS app &lpar;in under an hour&rpar;](https://dev.to/nicodemanez/how-to-add-license-keys-to-a-swiftui-macos-app-in-under-an-hour-ge)
-- [I compared the licensing tools for my indie Mac app — the honest breakdown](https://dev.to/nicodemanez/i-compared-the-licensing-tools-for-my-indie-mac-app-the-honest-breakdown-40a5)
-- [How offline license activation actually works](https://dev.to/nicodemanez/how-offline-license-activation-actually-works-2paa)
+- [StoreKit 2 subscriptions + a screenshot mode that bypasses purchases](https://dev.to/netflowers/storekit-2-subscriptions-a-screenshot-mode-that-bypasses-purchases-105)
+- [Bun v1.3.14: The Update That Actually Speeds Up Development](https://dev.to/frank_signorini/bun-v1314-the-update-that-actually-speeds-up-development-5g98)
+- [Custom Automation for SMEs: 5 real cases, EUR 500 to 5000](https://dev.to/ohugonnot/custom-automation-for-smes-5-real-cases-eur-500-to-5000-3jf5)
+- [GUI or CLI? Why We Built Both](https://dev.to/ancer/gui-or-cli-why-we-built-both-5mn)
 <!-- BLOG-POST-LIST:END -->
 
