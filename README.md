@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Approval-driven server ops: how I let contractors restart nginx without ever giving them SSH](https://dev.to/lamas51/approval-driven-server-ops-how-i-let-contractors-restart-nginx-without-ever-giving-them-ssh-2fdm)
-- [Instrument AI Agent Decision Tracing with OpenTelemetry](https://dev.to/toxsec/instrument-ai-agent-decision-tracing-with-opentelemetry-5b2k)
-- [How I Stopped Worrying About AI API Bills: A Data-Driven Breakdown of...](https://dev.to/fiercedash/how-i-stopped-worrying-about-ai-api-bills-a-data-driven-breakdown-of-23h0)
-- [Why AI Clusters Fail Even When GPUs Are Idle](https://dev.to/zubairakbar/why-ai-clusters-fail-even-when-gpus-are-idle-5hdb)
+- [sqlex — A Modern Drop-in Replacement for jmoiron/sqlx](https://dev.to/suiriass/sqlex-a-modern-drop-in-replacement-for-jmoironsqlx-2d7i)
+- [I Built 9 AI Agents to Run a Gym. Here&#39;s the Architecture.](https://dev.to/zwiserfit/i-built-9-ai-agents-to-run-a-gym-heres-the-architecture-daf)
+- [SEO Services for Developers: What Actually Matters in 2026](https://dev.to/aboah/seo-services-for-developers-what-actually-matters-in-2026-34bd)
+- [MAX20151R: The 40V, 500mA Ultra-Low-Noise LDO That Silences Power Rails](https://dev.to/hknova/max20151r-the-40v-500ma-ultra-low-noise-ldo-that-silences-power-rails-3nic)
 <!-- BLOG-POST-LIST:END -->
 
