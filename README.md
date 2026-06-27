@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [☁️ What Even Is &quot;The Cloud&quot;?](https://dev.to/thecloudcompass/what-even-is-the-cloud-4ojl)
-- [I Audited My AWS Account and Here&#39;s What I Found](https://dev.to/jas_dev/i-audited-my-aws-account-and-heres-what-i-found-3278)
-- [I Built a Free Browser-Based Urdu Writing and Design Platform](https://dev.to/anilanawaz_7/i-built-a-free-browser-based-urdu-writing-and-design-platform-3169)
-- [Why your AI agent is flaky — and 7 rules that make it reliable](https://dev.to/penloom_studio_829b7817d3/why-your-ai-agent-is-flaky-and-7-rules-that-make-it-reliable-481d)
+- [Your AI Agent Doesn&#39;t Need to Be Smarter. It Needs to Be Idempotent](https://dev.to/gs_sanjana_3e822112e14f8/your-ai-agent-doesnt-need-to-be-smarter-it-needs-to-be-idempotent-2736)
+- [Humanizing Artificial Intelligence for Log Analysis: Turning Raw Server Logs Into Clear DevOps Answers](https://dev.to/jjoyneriv/humanizing-artificial-intelligence-for-log-analysis-turning-raw-server-logs-into-clear-devops-2dnm)
+- [We Didn&#39;t Need Another AI Tool. We Needed Better Processes.](https://dev.to/saifuddin_tipu_ba2d0355b0/we-didnt-need-another-ai-tool-we-needed-better-processes-254)
+- [Three Token-2022 Mints in One Week: Fees, Yield, and Soul-Bound Tokens](https://dev.to/neocarvajal/three-token-2022-mints-in-one-week-fees-yield-and-soul-bound-tokens-j4j)
 <!-- BLOG-POST-LIST:END -->
 
