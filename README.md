@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The New Pattern of 2026 Tech Layoffs: &#39;Cut and Pivot&#39;](https://dev.to/merbayerp/the-new-pattern-of-2026-tech-layoffs-cut-and-pivot-3lf4)
-- [How I Built a Self-Learning YouTube AI on AWS Aurora &lpar;And Barely Survived the Weekend&rpar;](https://dev.to/neo_gamers_d7450d6e9b8785/how-i-built-a-self-learning-youtube-ai-on-aws-aurora-and-barely-survived-the-weekend-1gen)
-- [They Taught Themselves to Hack](https://dev.to/rawveg/they-taught-themselves-to-hack-4g1)
-- [5 PHP Features You&#39;re Probably Not Using &lpar;But Should&rpar;](https://dev.to/mahdyaralipor/5-php-features-youre-probably-not-using-but-should-133e)
+- [V.E.L.O.C.I.T.Y.-OS: The JIT Compiler Core – From AST to Native Closures &lpar;Part 4&rpar;](https://dev.to/unitbuilds_cc/velocity-os-the-jit-compiler-core-from-ast-to-native-closures-part-4-52f3)
+- [How I built a browser-only face-rating app with Next.js + MediaPipe &lpar;no upload, $0 per scan&rpar;](https://dev.to/alexlee_dev/how-i-built-a-browser-only-face-rating-app-with-nextjs-mediapipe-no-upload-0-per-scan-157m)
+- [Before the Algorithm: Building the Input Layer for My Poker Analysis Tool](https://dev.to/ty215/before-the-algorithm-building-the-input-layer-for-my-poker-analysis-tool-4ape)
+- [V.E.L.O.C.I.T.Y.-OS: Ditching the Web Stack &amp; The 30MB Standalone IDE &lpar;Part 3&rpar;](https://dev.to/unitbuilds_cc/velocity-os-ditching-the-web-stack-the-30mb-standalone-ide-part-3-3ia2)
 <!-- BLOG-POST-LIST:END -->
 
