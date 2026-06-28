@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The standard way to score AI agent monitors is gameable a coin flip scores F1 0.88](https://dev.to/alkur_jaswanth_ce4f9fc791/the-standard-way-to-score-ai-agent-monitors-is-gameable-a-coin-flip-scores-f1-088-3om6)
-- [V.E.L.O.C.I.T.Y.-OS: The Synaptic Canvas GUI &amp; V-NCE GPU &lpar;Part 10&rpar;](https://dev.to/unitbuilds_cc/velocity-os-the-synaptic-canvas-gui-v-nce-gpu-part-10-3om8)
-- [The same number decides whether an epidemic spreads, a brain thinks, or a chemical soup makes itself](https://dev.to/poushwell/the-same-number-decides-whether-an-epidemic-spreads-a-brain-thinks-or-a-chemical-soup-makes-itself-281e)
-- [crookcrypto.xyz Scammed Me $2,890.35 — Malicious Interface Used](https://dev.to/sfetwt3/crookcryptoxyz-scammed-me-289035-malicious-interface-used-21i9)
+- [Learning Xahau: PriceOracle and IOURewardClaim, On-Chain Prices and Custom Reward Programmes](https://dev.to/ekiserrepe/learning-xahau-priceoracle-and-iourewardclaim-on-chain-prices-and-custom-reward-programmes-8jb)
+- [RFC 1071 Checksum Explained: x64 Assembly Implementation](https://dev.to/jm00nj/rfc-1071-checksum-explained-x64-assembly-implementation-1ebj)
+- [How Long Does MVP Development Really Take?](https://dev.to/6sensehq/how-long-does-mvp-development-really-take-1hk6)
+- [Celebrity Problem](https://dev.to/jaspreet_singh_86ae1740ac/celebrity-problem-2kma)
 <!-- BLOG-POST-LIST:END -->
 
