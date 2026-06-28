@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I shipped an AI side panel in 2 weekends](https://dev.to/cwsaibuddy/i-shipped-an-ai-side-panel-in-2-weekends-5e5h)
-- [What KYB regulations actually demand &lpar;and where most implementations quietly fail&rpar;](https://dev.to/stuart_watkins_555e9d30ee/what-kyb-regulations-actually-demand-and-where-most-implementations-quietly-fail-of1)
-- [Building a Zero-Dependency Barcode Scanner with the Web Barcode Detection API](https://dev.to/jamiepark-design/building-a-zero-dependency-barcode-scanner-with-the-web-barcode-detection-api-246k)
-- [ChatGPT Just Read My Bank Statement, GPT-5.6 Got White-Housed, and Japan Dropped $70M on Anime Subs — AI News Jun 28](https://dev.to/danio_dev/chatgpt-just-read-my-bank-statement-gpt-56-got-white-housed-and-japan-dropped-70m-on-anime-subs-j72)
+- [How We Build Client-Safe Publishing Workflows](https://dev.to/thedoctorau/how-we-build-client-safe-publishing-workflows-2i82)
+- [The 7 Ways AI Agents Fail in Production — And How to Catch Them](https://dev.to/agrawal_83a0b8e9e8b/the-7-ways-ai-agents-fail-in-production-and-how-to-catch-them-254a)
+- [The Serve Speed Paradox: Why Faster Servers Don&#39;t Always Win More &lpar;And What Actually Matters&rpar; [Jun 28]](https://dev.to/edgelab/the-serve-speed-paradox-why-faster-servers-dont-always-win-more-and-what-actually-matters-jun-5ha5)
+- [How to Write DESIGN.md Prose That AI Agents Actually Follow](https://dev.to/promptmaster/how-to-write-designmd-prose-that-ai-agents-actually-follow-3bn7)
 <!-- BLOG-POST-LIST:END -->
 
