@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Persona Chat Agent and Fought Hallucination — A RAG Story](https://dev.to/abdullahmubin/how-i-built-a-persona-chat-agent-and-fought-hallucination-a-rag-story-22hf)
-- [Writing apps for IONA OS — a quick start guide](https://dev.to/ionablokchain/writing-apps-for-iona-os-a-quick-start-guide-7n1)
-- [Power BI: From Data Cleaning to Interactive Dashboards](https://dev.to/annah_the_analyst/power-bi-from-data-cleaning-to-interactive-dashboards-d8p)
-- [Building a 5G UPF That Actually Saturates a 10G Link: VPP + DPDK + Open5GS in Production](https://dev.to/jarvis8/building-a-5g-upf-that-actually-saturates-a-10g-link-vpp-dpdk-open5gs-in-production-1041)
+- [Title: Building an Interactive &quot;X-Ray&quot; Pipeline for 3D Game Assets in Three.js](https://dev.to/thebyteomi/title-building-an-interactive-x-ray-pipeline-for-3d-game-assets-in-threejs-o5c)
+- [Rodando Classic ASP no Linux em 2026](https://dev.to/lucas_guimaraes/rodando-classic-asp-no-linux-em-2026-1dep)
+- [I added an in-app currency to my indie macOS screen-time app](https://dev.to/quietware/i-added-an-in-app-currency-to-my-indie-macos-screen-time-app-1i9i)
+- [A provider outage can expose how deeply application code depends on a single feature-flag SDK.](https://dev.to/krishan_sharma_561a52817e/founder-and-maintainer-of-flaglint-5adb)
 <!-- BLOG-POST-LIST:END -->
 
