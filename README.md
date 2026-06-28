@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic pricing on Shopify is not a pricing problem. It is a blast-radius problem.](https://dev.to/macmcfall/dynamic-pricing-on-shopify-is-not-a-pricing-problem-it-is-a-blast-radius-problem-2phm)
-- [n8n Expressions: How to Use Dynamic Data in Your Workflows &lpar;Free Examples&rpar;](https://dev.to/pirateprentice/n8n-expressions-how-to-use-dynamic-data-in-your-workflows-free-examples-3f2j)
-- [A Rogue Registry in My Own Backyard: Anatomy of a Two-Line Supply Chain Attack](https://dev.to/sebs/a-rogue-registry-in-my-own-backyard-anatomy-of-a-two-line-supply-chain-attack-5b0h)
-- [Building an Artist Attribution Model with PyTorch and ResNet-50](https://dev.to/ghazy001/building-an-artist-attribution-model-with-pytorch-and-resnet-50-2pde)
+- [I shipped an AI side panel in 2 weekends](https://dev.to/cwsaibuddy/i-shipped-an-ai-side-panel-in-2-weekends-5e5h)
+- [What KYB regulations actually demand &lpar;and where most implementations quietly fail&rpar;](https://dev.to/stuart_watkins_555e9d30ee/what-kyb-regulations-actually-demand-and-where-most-implementations-quietly-fail-of1)
+- [Building a Zero-Dependency Barcode Scanner with the Web Barcode Detection API](https://dev.to/jamiepark-design/building-a-zero-dependency-barcode-scanner-with-the-web-barcode-detection-api-246k)
+- [ChatGPT Just Read My Bank Statement, GPT-5.6 Got White-Housed, and Japan Dropped $70M on Anime Subs — AI News Jun 28](https://dev.to/danio_dev/chatgpt-just-read-my-bank-statement-gpt-56-got-white-housed-and-japan-dropped-70m-on-anime-subs-j72)
 <!-- BLOG-POST-LIST:END -->
 
