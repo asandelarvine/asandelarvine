@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [V.E.L.O.C.I.T.Y.-OS: The JIT Compiler Core – From AST to Native Closures &lpar;Part 4&rpar;](https://dev.to/unitbuilds_cc/velocity-os-the-jit-compiler-core-from-ast-to-native-closures-part-4-52f3)
-- [How I built a browser-only face-rating app with Next.js + MediaPipe &lpar;no upload, $0 per scan&rpar;](https://dev.to/alexlee_dev/how-i-built-a-browser-only-face-rating-app-with-nextjs-mediapipe-no-upload-0-per-scan-157m)
-- [Before the Algorithm: Building the Input Layer for My Poker Analysis Tool](https://dev.to/ty215/before-the-algorithm-building-the-input-layer-for-my-poker-analysis-tool-4ape)
-- [V.E.L.O.C.I.T.Y.-OS: Ditching the Web Stack &amp; The 30MB Standalone IDE &lpar;Part 3&rpar;](https://dev.to/unitbuilds_cc/velocity-os-ditching-the-web-stack-the-30mb-standalone-ide-part-3-3ia2)
+- [The standard way to score AI agent monitors is gameable a coin flip scores F1 0.88](https://dev.to/alkur_jaswanth_ce4f9fc791/the-standard-way-to-score-ai-agent-monitors-is-gameable-a-coin-flip-scores-f1-088-3om6)
+- [V.E.L.O.C.I.T.Y.-OS: The Synaptic Canvas GUI &amp; V-NCE GPU &lpar;Part 10&rpar;](https://dev.to/unitbuilds_cc/velocity-os-the-synaptic-canvas-gui-v-nce-gpu-part-10-3om8)
+- [The same number decides whether an epidemic spreads, a brain thinks, or a chemical soup makes itself](https://dev.to/poushwell/the-same-number-decides-whether-an-epidemic-spreads-a-brain-thinks-or-a-chemical-soup-makes-itself-281e)
+- [crookcrypto.xyz Scammed Me $2,890.35 — Malicious Interface Used](https://dev.to/sfetwt3/crookcryptoxyz-scammed-me-289035-malicious-interface-used-21i9)
 <!-- BLOG-POST-LIST:END -->
 
