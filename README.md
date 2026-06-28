@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Title: Building an Interactive &quot;X-Ray&quot; Pipeline for 3D Game Assets in Three.js](https://dev.to/thebyteomi/title-building-an-interactive-x-ray-pipeline-for-3d-game-assets-in-threejs-o5c)
-- [Rodando Classic ASP no Linux em 2026](https://dev.to/lucas_guimaraes/rodando-classic-asp-no-linux-em-2026-1dep)
-- [I added an in-app currency to my indie macOS screen-time app](https://dev.to/quietware/i-added-an-in-app-currency-to-my-indie-macos-screen-time-app-1i9i)
-- [A provider outage can expose how deeply application code depends on a single feature-flag SDK.](https://dev.to/krishan_sharma_561a52817e/founder-and-maintainer-of-flaglint-5adb)
+- [Building CIS-Hardened, SBOM-Attested CentOS 9 Golden Images with Packer, QEMU and PingAccess - entirely on WSL2](https://dev.to/darkedges/uilding-cis-hardened-sbom-attested-centos-9-golden-images-with-packer-qemu-and-pingaccess--348n)
+- [How I Built a Visa Tracker with Django, Aurora PostgreSQL, and react](https://dev.to/elias_benfridja_41f2f87fe/how-i-built-a-visa-tracker-with-django-aurora-postgresql-and-react-3ijn)
+- [How I Built a Production Ready Microservice Notification System with NestJS, Redis, Bull Queues, and Docker](https://dev.to/peacemelodi/how-i-built-a-production-ready-microservice-notification-system-with-nestjs-redis-bull-queues-aa7)
+- [Stop Hardcoding Hex #d9d9d9 In Your CSS](https://dev.to/asds/stop-hardcoding-hex-d9d9d9-in-your-css-45ci)
 <!-- BLOG-POST-LIST:END -->
 
