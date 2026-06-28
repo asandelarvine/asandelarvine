@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Build Client-Safe Publishing Workflows](https://dev.to/thedoctorau/how-we-build-client-safe-publishing-workflows-2i82)
-- [The 7 Ways AI Agents Fail in Production — And How to Catch Them](https://dev.to/agrawal_83a0b8e9e8b/the-7-ways-ai-agents-fail-in-production-and-how-to-catch-them-254a)
-- [The Serve Speed Paradox: Why Faster Servers Don&#39;t Always Win More &lpar;And What Actually Matters&rpar; [Jun 28]](https://dev.to/edgelab/the-serve-speed-paradox-why-faster-servers-dont-always-win-more-and-what-actually-matters-jun-5ha5)
-- [How to Write DESIGN.md Prose That AI Agents Actually Follow](https://dev.to/promptmaster/how-to-write-designmd-prose-that-ai-agents-actually-follow-3bn7)
+- [The New Pattern of 2026 Tech Layoffs: &#39;Cut and Pivot&#39;](https://dev.to/merbayerp/the-new-pattern-of-2026-tech-layoffs-cut-and-pivot-3lf4)
+- [How I Built a Self-Learning YouTube AI on AWS Aurora &lpar;And Barely Survived the Weekend&rpar;](https://dev.to/neo_gamers_d7450d6e9b8785/how-i-built-a-self-learning-youtube-ai-on-aws-aurora-and-barely-survived-the-weekend-1gen)
+- [They Taught Themselves to Hack](https://dev.to/rawveg/they-taught-themselves-to-hack-4g1)
+- [5 PHP Features You&#39;re Probably Not Using &lpar;But Should&rpar;](https://dev.to/mahdyaralipor/5-php-features-youre-probably-not-using-but-should-133e)
 <!-- BLOG-POST-LIST:END -->
 
