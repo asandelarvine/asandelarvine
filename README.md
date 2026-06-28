@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Xahau: PriceOracle and IOURewardClaim, On-Chain Prices and Custom Reward Programmes](https://dev.to/ekiserrepe/learning-xahau-priceoracle-and-iourewardclaim-on-chain-prices-and-custom-reward-programmes-8jb)
-- [RFC 1071 Checksum Explained: x64 Assembly Implementation](https://dev.to/jm00nj/rfc-1071-checksum-explained-x64-assembly-implementation-1ebj)
-- [How Long Does MVP Development Really Take?](https://dev.to/6sensehq/how-long-does-mvp-development-really-take-1hk6)
-- [Celebrity Problem](https://dev.to/jaspreet_singh_86ae1740ac/celebrity-problem-2kma)
+- [How I Built a Persona Chat Agent and Fought Hallucination — A RAG Story](https://dev.to/abdullahmubin/how-i-built-a-persona-chat-agent-and-fought-hallucination-a-rag-story-22hf)
+- [Writing apps for IONA OS — a quick start guide](https://dev.to/ionablokchain/writing-apps-for-iona-os-a-quick-start-guide-7n1)
+- [Power BI: From Data Cleaning to Interactive Dashboards](https://dev.to/annah_the_analyst/power-bi-from-data-cleaning-to-interactive-dashboards-d8p)
+- [Building a 5G UPF That Actually Saturates a 10G Link: VPP + DPDK + Open5GS in Production](https://dev.to/jarvis8/building-a-5g-upf-that-actually-saturates-a-10g-link-vpp-dpdk-open5gs-in-production-1041)
 <!-- BLOG-POST-LIST:END -->
 
