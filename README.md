@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Three Questions I Ask Every System. Most Design Reviews Skip All Three.](https://dev.to/saeedhbi/three-questions-i-ask-every-system-most-design-reviews-skip-all-three-4ok)
-- [How to Fix Excel CSV Date Import Problems &lpar;US / UK Format Guide&rpar;](https://dev.to/hito_x_6cebe8e1c528573a2f/excel-csv-ri-qi-cuo-luan-zen-yao-xiu-us-uk-ge-shi-cai-keng-zhi-nan--5c4h)
-- [Contact Form 7 sent the email — but did it arrive? You have no way to know](https://dev.to/mrpsiho/contact-form-7-sent-the-email-but-did-it-arrive-you-have-no-way-to-know-5aee)
-- [WCAG 2.2 AA Audit Readiness for Product and Engineering Teams](https://dev.to/iaap_audit2026/wcag-22-aa-audit-readiness-for-product-and-engineering-teams-42en)
+- [Modeling seasonal cash flow in a SaaS product for trades businesses](https://dev.to/tcarter/modeling-seasonal-cash-flow-in-a-saas-product-for-trades-businesses-2ggi)
+- [How a Checkout Change Increased Our Sales by 22%](https://dev.to/dcerverizzo/how-a-checkout-change-increased-our-sales-by-22-29ol)
+- [Testing Qwen-AgentWorld-35B-A3B: A New Benchmark for Agentic Reasoning?](https://dev.to/o96a/testing-qwen-agentworld-35b-a3b-a-new-benchmark-for-agentic-reasoning-1nce)
+- [SEO audits in Claude + Cursor: our new MCP server](https://dev.to/avansledright/seo-audits-in-claude-cursor-our-new-mcp-server-1494)
 <!-- BLOG-POST-LIST:END -->
 
