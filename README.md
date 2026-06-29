@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI SDK 7: Agent Development Standardized](https://dev.to/devsignal/ai-sdk-7-agent-development-standardized-4440)
-- [Building an AI Cloud Cost Intelligence Platform That Doesn&#39;t Let AI Make Infrastructure Decisions](https://dev.to/upshivam786/building-an-ai-cloud-cost-intelligence-platform-that-doesnt-let-ai-make-infrastructure-decisions-5gbn)
-- [Ditch TeamViewer/Anydesk: A Free Self-Hosted Remote Desktop Solution is Here](https://dev.to/mattmesmer/ditch-teamvieweranydesk-a-free-self-hosted-remote-desktop-solution-is-here-3i09)
-- [The state machine your agent runtime is missing: session state as first-class infrastructure](https://dev.to/aloya/the-state-machine-your-agent-runtime-is-missing-session-state-as-first-class-infrastructure-4g08)
+- [Three Questions I Ask Every System. Most Design Reviews Skip All Three.](https://dev.to/saeedhbi/three-questions-i-ask-every-system-most-design-reviews-skip-all-three-4ok)
+- [How to Fix Excel CSV Date Import Problems &lpar;US / UK Format Guide&rpar;](https://dev.to/hito_x_6cebe8e1c528573a2f/excel-csv-ri-qi-cuo-luan-zen-yao-xiu-us-uk-ge-shi-cai-keng-zhi-nan--5c4h)
+- [Contact Form 7 sent the email — but did it arrive? You have no way to know](https://dev.to/mrpsiho/contact-form-7-sent-the-email-but-did-it-arrive-you-have-no-way-to-know-5aee)
+- [WCAG 2.2 AA Audit Readiness for Product and Engineering Teams](https://dev.to/iaap_audit2026/wcag-22-aa-audit-readiness-for-product-and-engineering-teams-42en)
 <!-- BLOG-POST-LIST:END -->
 
