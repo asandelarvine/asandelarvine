@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building CIS-Hardened, SBOM-Attested CentOS 9 Golden Images with Packer, QEMU and PingAccess - entirely on WSL2](https://dev.to/darkedges/uilding-cis-hardened-sbom-attested-centos-9-golden-images-with-packer-qemu-and-pingaccess--348n)
-- [How I Built a Visa Tracker with Django, Aurora PostgreSQL, and react](https://dev.to/elias_benfridja_41f2f87fe/how-i-built-a-visa-tracker-with-django-aurora-postgresql-and-react-3ijn)
-- [How I Built a Production Ready Microservice Notification System with NestJS, Redis, Bull Queues, and Docker](https://dev.to/peacemelodi/how-i-built-a-production-ready-microservice-notification-system-with-nestjs-redis-bull-queues-aa7)
-- [Stop Hardcoding Hex #d9d9d9 In Your CSS](https://dev.to/asds/stop-hardcoding-hex-d9d9d9-in-your-css-45ci)
+- [AI SDK 7: Agent Development Standardized](https://dev.to/devsignal/ai-sdk-7-agent-development-standardized-4440)
+- [Building an AI Cloud Cost Intelligence Platform That Doesn&#39;t Let AI Make Infrastructure Decisions](https://dev.to/upshivam786/building-an-ai-cloud-cost-intelligence-platform-that-doesnt-let-ai-make-infrastructure-decisions-5gbn)
+- [Ditch TeamViewer/Anydesk: A Free Self-Hosted Remote Desktop Solution is Here](https://dev.to/mattmesmer/ditch-teamvieweranydesk-a-free-self-hosted-remote-desktop-solution-is-here-3i09)
+- [The state machine your agent runtime is missing: session state as first-class infrastructure](https://dev.to/aloya/the-state-machine-your-agent-runtime-is-missing-session-state-as-first-class-infrastructure-4g08)
 <!-- BLOG-POST-LIST:END -->
 
