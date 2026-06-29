@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MII: Machine Identity Intelligence — discover and risk-score IAM roles, OIDC federations, and CI/CD tokens across AWS](https://dev.to/joseph_tui_c27f5364066e62/mii-machine-identity-intelligence-discover-and-risk-score-iam-roles-oidc-federations-and-cicd-48em)
-- [World Cup 2026: The 48-Team Format Just Created a Statistical Nightmare — and Nobody&#39;s Talking About It [Jun 30]](https://dev.to/edgelab/world-cup-2026-the-48-team-format-just-created-a-statistical-nightmare-and-nobodys-talking-3de8)
-- [Need a break? Play today&#39;s game from The Daily Context.](https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli)
-- [How Machine Identities The Invisible Attack Surface: Why Machine Identities Are Cloud Security&#39;s Biggest Blind Spot](https://dev.to/joseph_tui_c27f5364066e62/how-machine-identities-the-invisible-attack-surface-why-machine-identities-are-cloud-securitys-2126)
+- [DevOps as a Service Pricing: What Should Businesses Expect to Pay?](https://dev.to/devopsaitoolkit/devops-as-a-service-pricing-what-should-businesses-expect-to-pay-2481)
+- [The SGX Enclave: Building the First Cryptographically Sovereign Smart City](https://dev.to/crow004/the-sgx-enclave-building-the-first-cryptographically-sovereign-smart-city-5h7h)
+- [The GitHub Actions workflow that&#39;s been failing for weeks &lpar;and how to find yours&rpar;](https://dev.to/ace2932/the-github-actions-workflow-thats-been-failing-for-weeks-and-how-to-find-yours-2oj)
+- [Why your GitHub Actions CI is slow &lpar;and how to speed it up&rpar;](https://dev.to/ace2932/why-your-github-actions-ci-is-slow-and-how-to-speed-it-up-19la)
 <!-- BLOG-POST-LIST:END -->
 
