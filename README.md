@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Modeling seasonal cash flow in a SaaS product for trades businesses](https://dev.to/tcarter/modeling-seasonal-cash-flow-in-a-saas-product-for-trades-businesses-2ggi)
-- [How a Checkout Change Increased Our Sales by 22%](https://dev.to/dcerverizzo/how-a-checkout-change-increased-our-sales-by-22-29ol)
-- [Testing Qwen-AgentWorld-35B-A3B: A New Benchmark for Agentic Reasoning?](https://dev.to/o96a/testing-qwen-agentworld-35b-a3b-a-new-benchmark-for-agentic-reasoning-1nce)
-- [SEO audits in Claude + Cursor: our new MCP server](https://dev.to/avansledright/seo-audits-in-claude-cursor-our-new-mcp-server-1494)
+- [AI took me somewhere new, and proved me wrong](https://dev.to/olliechurch/ai-took-me-somewhere-new-and-proved-me-wrong-169i)
+- [I Built My Personal Portfolio Website with GitHub Pages](https://dev.to/xdk0d3r/i-built-my-personal-portfolio-website-with-github-pages-95f)
+- [Affiliate Marketing for Developers](https://dev.to/alexmarker1231/affiliate-marketing-for-developers-1mj)
+- [Designing a strongly-consistent event exchange on Amazon Aurora DSQL](https://dev.to/saatwik_kumaryadav_8b656/designing-a-strongly-consistent-event-exchange-on-amazon-aurora-dsql-2bi)
 <!-- BLOG-POST-LIST:END -->
 
