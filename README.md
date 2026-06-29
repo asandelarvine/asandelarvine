@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI took me somewhere new, and proved me wrong](https://dev.to/olliechurch/ai-took-me-somewhere-new-and-proved-me-wrong-169i)
-- [I Built My Personal Portfolio Website with GitHub Pages](https://dev.to/xdk0d3r/i-built-my-personal-portfolio-website-with-github-pages-95f)
-- [Affiliate Marketing for Developers](https://dev.to/alexmarker1231/affiliate-marketing-for-developers-1mj)
-- [Designing a strongly-consistent event exchange on Amazon Aurora DSQL](https://dev.to/saatwik_kumaryadav_8b656/designing-a-strongly-consistent-event-exchange-on-amazon-aurora-dsql-2bi)
+- [MII: Machine Identity Intelligence — discover and risk-score IAM roles, OIDC federations, and CI/CD tokens across AWS](https://dev.to/joseph_tui_c27f5364066e62/mii-machine-identity-intelligence-discover-and-risk-score-iam-roles-oidc-federations-and-cicd-48em)
+- [World Cup 2026: The 48-Team Format Just Created a Statistical Nightmare — and Nobody&#39;s Talking About It [Jun 30]](https://dev.to/edgelab/world-cup-2026-the-48-team-format-just-created-a-statistical-nightmare-and-nobodys-talking-3de8)
+- [Need a break? Play today&#39;s game from The Daily Context.](https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli)
+- [How Machine Identities The Invisible Attack Surface: Why Machine Identities Are Cloud Security&#39;s Biggest Blind Spot](https://dev.to/joseph_tui_c27f5364066e62/how-machine-identities-the-invisible-attack-surface-why-machine-identities-are-cloud-securitys-2126)
 <!-- BLOG-POST-LIST:END -->
 
