@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Physics of Microservices: What Thermodynamics Teaches Us About System Design](https://dev.to/tasenikol/the-physics-of-microservices-what-thermodynamics-teaches-us-about-system-design-1gof)
-- [Deploy an AI Chatbot on Your NextJS Website using FREE tools](https://dev.to/marrouchi/deploy-an-ai-chatbot-on-your-nextjs-website-using-free-tools-4n0a)
-- [I Built a Closed-Loop Self-Healing System for My AI Config — By Accident](https://dev.to/yuhaolin2005/i-built-a-closed-loop-self-healing-system-for-my-ai-config-by-accident-51m4)
-- [teste](https://dev.to/pachicodes/teste-4b3)
+- [Account Takeover Attacks: Why Authentication Isn’t the Real Problem](https://dev.to/sentinellayer/account-takeover-attacks-why-authentication-isnt-the-real-problem-1d0c)
+- [What 12 failure classes and 30 Billion tokens spent taught us about trusting AI coding agents](https://dev.to/cryptokeesan/what-12-failure-classes-and-30-billion-tokens-spent-taught-us-about-trusting-ai-coding-agents-pi7)
+- [Coinbase Cut Its AI Spend in Half Without Throttling Engineers - Here&#39;s the Playbook](https://dev.to/thegatewayguy/coinbase-cut-its-ai-spend-in-half-without-throttling-engineers-heres-the-playbook-1el4)
+- [I Built an AI Pipeline to Write About Building My Products. Then I Had to Debug the Debugger.](https://dev.to/zaerohell/i-built-an-ai-pipeline-to-write-about-building-my-products-then-i-had-to-debug-the-debugger-1hbd)
 <!-- BLOG-POST-LIST:END -->
 
