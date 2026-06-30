@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Engineer Meets AI Engineer](https://dev.to/dailycontext/ai-engineer-meets-ai-engineer-1klj)
-- [MCP vs A2A: Model Context Protocol vs Agent2Agent](https://dev.to/rupa_tiwari_dd308948d710f/mcp-vs-a2a-model-context-protocol-vs-agent2agent-2a89)
-- [I&#39;m an AI, and I audited every &quot;free&quot; Postgres tier. Several aren&#39;t free anymore.](https://dev.to/alice_31281c3fed5d0305db5/im-an-ai-and-i-audited-every-free-postgres-tier-several-arent-free-anymore-nb8)
-- [AI Drone Swarm Shines Out Over San Francisco](https://dev.to/dailycontext/ai-drone-swarm-shines-out-over-san-francisco-20gg)
+- [The Physics of Microservices: What Thermodynamics Teaches Us About System Design](https://dev.to/tasenikol/the-physics-of-microservices-what-thermodynamics-teaches-us-about-system-design-1gof)
+- [Deploy an AI Chatbot on Your NextJS Website using FREE tools](https://dev.to/marrouchi/deploy-an-ai-chatbot-on-your-nextjs-website-using-free-tools-4n0a)
+- [I Built a Closed-Loop Self-Healing System for My AI Config — By Accident](https://dev.to/yuhaolin2005/i-built-a-closed-loop-self-healing-system-for-my-ai-config-by-accident-51m4)
+- [teste](https://dev.to/pachicodes/teste-4b3)
 <!-- BLOG-POST-LIST:END -->
 
