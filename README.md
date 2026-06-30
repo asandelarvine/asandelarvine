@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Google Authentication in Flutter Without Firebase: Using the Latest google_sign_in &lpar;7.2.0&rpar;](https://dev.to/codexlancers/implementing-google-authentication-in-flutter-without-firebase-using-the-latest-googlesignin-1gea)
-- [5 Python List Problems That Catch Everyone Off Guard](https://dev.to/ameer_abdullah_68d48c8496/5-python-list-problems-that-catch-everyone-off-guard-160a)
-- [Coordinate-space diffusion improves video consistency](https://dev.to/olaughter/coordinate-space-diffusion-improves-video-consistency-470e)
-- [Your CI ran code it should not have, and you cannot prove it did not](https://dev.to/schiff_heimlich/your-ci-ran-code-it-should-not-have-and-you-cannot-prove-it-did-not-4ap4)
+- [Stop Writing the Same Laravel Boilerplate: Generate a Complete Module with One Artisan Command](https://dev.to/muhammed_salama_91643ccc5/stop-writing-the-same-laravel-boilerplate-generate-a-complete-module-with-one-artisan-command-5b0n)
+- [Indexed vs. Cited: The Distinction Killing Shopify Stores&#39; AI Visibility](https://dev.to/pramendray/indexed-vs-cited-the-distinction-killing-shopify-stores-ai-visibility-15p0)
+- [Day 50 - How to Migrate Data from MySQL to ClickHouse®: A Step-by-Step Guide](https://dev.to/kanishga_subramani_49ad73/day-50-how-to-migrate-data-from-mysql-to-clickhouser-a-step-by-step-guide-3ed2)
+- [Why I built a CLI to automate web research instead of relying on browser tabs](https://dev.to/techno_neighbour/why-i-built-a-cli-to-automate-web-research-instead-of-relying-on-browser-tabs-5b35)
 <!-- BLOG-POST-LIST:END -->
 
