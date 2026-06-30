@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps as a Service Pricing: What Should Businesses Expect to Pay?](https://dev.to/devopsaitoolkit/devops-as-a-service-pricing-what-should-businesses-expect-to-pay-2481)
-- [The SGX Enclave: Building the First Cryptographically Sovereign Smart City](https://dev.to/crow004/the-sgx-enclave-building-the-first-cryptographically-sovereign-smart-city-5h7h)
-- [The GitHub Actions workflow that&#39;s been failing for weeks &lpar;and how to find yours&rpar;](https://dev.to/ace2932/the-github-actions-workflow-thats-been-failing-for-weeks-and-how-to-find-yours-2oj)
-- [Why your GitHub Actions CI is slow &lpar;and how to speed it up&rpar;](https://dev.to/ace2932/why-your-github-actions-ci-is-slow-and-how-to-speed-it-up-19la)
+- [Resolve the tenant from the user, not the request](https://dev.to/nasrulhazim/resolve-the-tenant-from-the-user-not-the-request-4n02)
+- [frontier models are becoming cloud procurement](https://dev.to/pvgomes/frontier-models-are-becoming-cloud-procurement-1ong)
+- [When a KPI reads 163 billion instead of 819](https://dev.to/nasrulhazim/when-a-kpi-reads-163-billion-instead-of-819-4ph7)
+- [Dev Log: 2026-06-29](https://dev.to/nasrulhazim/dev-log-2026-06-29-1hed)
 <!-- BLOG-POST-LIST:END -->
 
