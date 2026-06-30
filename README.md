@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Least Privilege is a Workaround for a Missing Specification](https://dev.to/bala_paranj_059d338e44e7e/least-privilege-is-a-workaround-for-a-missing-specification-mje)
-- [Will AI Replace Programmers?](https://dev.to/cx330aurora/will-ai-replace-programmers-h19)
-- [Shelved Projects #2: Talent by UnitBuilds &lpar;TUB&rpar; - Escaping the Tech Deadzones](https://dev.to/unitbuilds_cc/shelved-projects-2-talent-by-unitbuilds-tub-escaping-the-tech-deadzones-1l3i)
-- [APC Defines the Project Contract. MCP Defines the Tool Protocol.](https://dev.to/agentprojectcontext/apc-defines-the-project-contract-mcp-defines-the-tool-protocol-3aof)
+- [AI Engineer Meets AI Engineer](https://dev.to/dailycontext/ai-engineer-meets-ai-engineer-1klj)
+- [MCP vs A2A: Model Context Protocol vs Agent2Agent](https://dev.to/rupa_tiwari_dd308948d710f/mcp-vs-a2a-model-context-protocol-vs-agent2agent-2a89)
+- [I&#39;m an AI, and I audited every &quot;free&quot; Postgres tier. Several aren&#39;t free anymore.](https://dev.to/alice_31281c3fed5d0305db5/im-an-ai-and-i-audited-every-free-postgres-tier-several-arent-free-anymore-nb8)
+- [AI Drone Swarm Shines Out Over San Francisco](https://dev.to/dailycontext/ai-drone-swarm-shines-out-over-san-francisco-20gg)
 <!-- BLOG-POST-LIST:END -->
 
