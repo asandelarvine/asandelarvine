@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing the Same Laravel Boilerplate: Generate a Complete Module with One Artisan Command](https://dev.to/muhammed_salama_91643ccc5/stop-writing-the-same-laravel-boilerplate-generate-a-complete-module-with-one-artisan-command-5b0n)
-- [Indexed vs. Cited: The Distinction Killing Shopify Stores&#39; AI Visibility](https://dev.to/pramendray/indexed-vs-cited-the-distinction-killing-shopify-stores-ai-visibility-15p0)
-- [Day 50 - How to Migrate Data from MySQL to ClickHouse®: A Step-by-Step Guide](https://dev.to/kanishga_subramani_49ad73/day-50-how-to-migrate-data-from-mysql-to-clickhouser-a-step-by-step-guide-3ed2)
-- [Why I built a CLI to automate web research instead of relying on browser tabs](https://dev.to/techno_neighbour/why-i-built-a-cli-to-automate-web-research-instead-of-relying-on-browser-tabs-5b35)
+- [Least Privilege is a Workaround for a Missing Specification](https://dev.to/bala_paranj_059d338e44e7e/least-privilege-is-a-workaround-for-a-missing-specification-mje)
+- [Will AI Replace Programmers?](https://dev.to/cx330aurora/will-ai-replace-programmers-h19)
+- [Shelved Projects #2: Talent by UnitBuilds &lpar;TUB&rpar; - Escaping the Tech Deadzones](https://dev.to/unitbuilds_cc/shelved-projects-2-talent-by-unitbuilds-tub-escaping-the-tech-deadzones-1l3i)
+- [APC Defines the Project Contract. MCP Defines the Tool Protocol.](https://dev.to/agentprojectcontext/apc-defines-the-project-contract-mcp-defines-the-tool-protocol-3aof)
 <!-- BLOG-POST-LIST:END -->
 
