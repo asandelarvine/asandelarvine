@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Resolve the tenant from the user, not the request](https://dev.to/nasrulhazim/resolve-the-tenant-from-the-user-not-the-request-4n02)
-- [frontier models are becoming cloud procurement](https://dev.to/pvgomes/frontier-models-are-becoming-cloud-procurement-1ong)
-- [When a KPI reads 163 billion instead of 819](https://dev.to/nasrulhazim/when-a-kpi-reads-163-billion-instead-of-819-4ph7)
-- [Dev Log: 2026-06-29](https://dev.to/nasrulhazim/dev-log-2026-06-29-1hed)
+- [Implementing Google Authentication in Flutter Without Firebase: Using the Latest google_sign_in &lpar;7.2.0&rpar;](https://dev.to/codexlancers/implementing-google-authentication-in-flutter-without-firebase-using-the-latest-googlesignin-1gea)
+- [5 Python List Problems That Catch Everyone Off Guard](https://dev.to/ameer_abdullah_68d48c8496/5-python-list-problems-that-catch-everyone-off-guard-160a)
+- [Coordinate-space diffusion improves video consistency](https://dev.to/olaughter/coordinate-space-diffusion-improves-video-consistency-470e)
+- [Your CI ran code it should not have, and you cannot prove it did not](https://dev.to/schiff_heimlich/your-ci-ran-code-it-should-not-have-and-you-cannot-prove-it-did-not-4ap4)
 <!-- BLOG-POST-LIST:END -->
 
