@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GuardFall: When Decades-Old Shell Injection Tricks Beat Modern AI Safety Guardrails](https://dev.to/coridev/guardfall-when-decades-old-shell-injection-tricks-beat-modern-ai-safety-guardrails-1lh1)
-- [The same 5 signals that preceded every major attack wave since 2012 are all active right now](https://dev.to/aetherintel/the-same-5-signals-that-preceded-every-major-attack-wave-since-2012-are-all-active-right-now-302n)
-- [Stop Comparing JSON Responses Manually. Use a JSON Diff Instead.](https://dev.to/janardan_joshi_6f21026e06/stop-comparing-json-responses-manually-use-a-json-diff-instead-2cn5)
-- [Short-lived, scoped, challenge-based: designing safer service tokens for agents](https://dev.to/steveemmerich/short-lived-scoped-challenge-based-designing-safer-service-tokens-for-agents-1eno)
+- [Why MLCC Lead Times Are Blowing Up in 2026 &lpar;And How to Design Around It&rpar;](https://dev.to/lucas_ding/why-mlcc-lead-times-are-blowing-up-in-2026-and-how-to-design-around-it-3gkn)
+- [What Feature Makes You Leave a Resume Builder Website?](https://dev.to/itsdeveloper/what-feature-makes-you-leave-a-resume-builder-website-4olc)
+- [Proxying RabbitMQ Management UI Through Nginx &lpar;Fixing the %2F Problem&rpar;](https://dev.to/aswindanu_anwar_38c31d278/proxying-rabbitmq-management-ui-through-nginx-fixing-the-2f-problem-3dj0)
+- [Your OTP regex assumes six digits. Supabase magic links don&#39;t.](https://dev.to/incultnitollc/your-otp-regex-assumes-six-digits-supabase-magic-links-dont-33i1)
 <!-- BLOG-POST-LIST:END -->
 
