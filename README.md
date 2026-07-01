@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why MLCC Lead Times Are Blowing Up in 2026 &lpar;And How to Design Around It&rpar;](https://dev.to/lucas_ding/why-mlcc-lead-times-are-blowing-up-in-2026-and-how-to-design-around-it-3gkn)
-- [What Feature Makes You Leave a Resume Builder Website?](https://dev.to/itsdeveloper/what-feature-makes-you-leave-a-resume-builder-website-4olc)
-- [Proxying RabbitMQ Management UI Through Nginx &lpar;Fixing the %2F Problem&rpar;](https://dev.to/aswindanu_anwar_38c31d278/proxying-rabbitmq-management-ui-through-nginx-fixing-the-2f-problem-3dj0)
-- [Your OTP regex assumes six digits. Supabase magic links don&#39;t.](https://dev.to/incultnitollc/your-otp-regex-assumes-six-digits-supabase-magic-links-dont-33i1)
+- [we built a &#39;failed&#39; column on purpose, then caught our own agent triggering it](https://dev.to/whateverneveranywhere/we-built-a-failed-column-on-purpose-then-caught-our-own-agent-triggering-it-3gpl)
+- [Stop Over-Optimizing Performance: The Modern Full-Stack Toolkit in 2026](https://dev.to/johnnylemonny/stop-over-optimizing-performance-the-modern-full-stack-toolkit-in-2026-2i97)
+- [4-Phase Orchestration: 5 Universal Agent Skills with YAML-Driven Rules, Composable Components, and Graceful Degradation](https://dev.to/__b01666abd57fb7bb91f9/4-phase-orchestration-5-universal-agent-skills-with-yaml-driven-rules-composable-components-and-370b)
+- [Starting with Spec-Driven Development: Spec first, Prompt later.](https://dev.to/arbishal/starting-with-spec-driven-development-spec-first-prompt-later-4o2e)
 <!-- BLOG-POST-LIST:END -->
 
