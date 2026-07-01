@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop re-flagging the same finding — without going silent](https://dev.to/muhammetsafak/stop-re-flagging-the-same-finding-without-going-silent-1llp)
-- [One Year](https://dev.to/brendandevenney/one-year-gbc)
-- [🦩OS June Recap: Reviewing PRs was my biggest milestone](https://dev.to/neithergalax/os-june-recap-reviewing-prs-was-my-biggest-milestone-3jh)
-- [The Hybrid Retrieval Pattern](https://dev.to/kenwalger/the-hybrid-retrieval-pattern-jno)
+- [GuardFall: When Decades-Old Shell Injection Tricks Beat Modern AI Safety Guardrails](https://dev.to/coridev/guardfall-when-decades-old-shell-injection-tricks-beat-modern-ai-safety-guardrails-1lh1)
+- [The same 5 signals that preceded every major attack wave since 2012 are all active right now](https://dev.to/aetherintel/the-same-5-signals-that-preceded-every-major-attack-wave-since-2012-are-all-active-right-now-302n)
+- [Stop Comparing JSON Responses Manually. Use a JSON Diff Instead.](https://dev.to/janardan_joshi_6f21026e06/stop-comparing-json-responses-manually-use-a-json-diff-instead-2cn5)
+- [Short-lived, scoped, challenge-based: designing safer service tokens for agents](https://dev.to/steveemmerich/short-lived-scoped-challenge-based-designing-safer-service-tokens-for-agents-1eno)
 <!-- BLOG-POST-LIST:END -->
 
