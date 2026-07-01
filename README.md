@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A security writeup catalogs how AI agents get attacked -- and one claim raised eyebrows](https://dev.to/breachprotocol/a-security-writeup-catalogs-how-ai-agents-get-attacked-and-one-claim-raised-eyebrows-59dl)
-- [I Tried to Escape LeetCode for 2 Years &lpar;But Here We Are&rpar;](https://dev.to/konark_13/i-tried-to-escape-leetcode-for-2-years-but-here-we-are-1k99)
-- [Are closed AI models overpriced luxury goods?](https://dev.to/breachprotocol/are-closed-ai-models-overpriced-luxury-goods-47a)
-- [# MCP and A2A in Agentic BFSI Systems: The Complete Implementation Guide](https://dev.to/nikhil_ramank_152ca48266/-mcp-and-a2a-in-agentic-bfsi-systems-the-complete-implementation-guide-1egp)
+- [NVIDIA&#39;s warm-water fix for AI&#39;s thirsty data centers](https://dev.to/breachprotocol/nvidias-warm-water-fix-for-ais-thirsty-data-centers-4h89)
+- [[GCD] Cancelando un DispatchWorkItem](https://dev.to/david_goyes_a488f58a17a53/gcd-cancelando-un-dispatchworkitem-1hl5)
+- [How to Actually Cap AI Spend for Your Users: 3 Edge Cases Everyone Misses](https://dev.to/cjcummings/how-to-actually-cap-ai-spend-for-your-users-3-edge-cases-everyone-misses-2d42)
+- [Fallacies of distributed computing](https://dev.to/sebs/fallacies-of-distributed-computing-41fb)
 <!-- BLOG-POST-LIST:END -->
 
