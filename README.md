@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [we built a &#39;failed&#39; column on purpose, then caught our own agent triggering it](https://dev.to/whateverneveranywhere/we-built-a-failed-column-on-purpose-then-caught-our-own-agent-triggering-it-3gpl)
-- [Stop Over-Optimizing Performance: The Modern Full-Stack Toolkit in 2026](https://dev.to/johnnylemonny/stop-over-optimizing-performance-the-modern-full-stack-toolkit-in-2026-2i97)
-- [4-Phase Orchestration: 5 Universal Agent Skills with YAML-Driven Rules, Composable Components, and Graceful Degradation](https://dev.to/__b01666abd57fb7bb91f9/4-phase-orchestration-5-universal-agent-skills-with-yaml-driven-rules-composable-components-and-370b)
-- [Starting with Spec-Driven Development: Spec first, Prompt later.](https://dev.to/arbishal/starting-with-spec-driven-development-spec-first-prompt-later-4o2e)
+- [AdaBoost from Scratch: How a Pile of Dumb Rules Becomes a Smart Classifier](https://dev.to/dev48v/adaboost-from-scratch-how-a-pile-of-dumb-rules-becomes-a-smart-classifier-368i)
+- [I finally understood cron expressions by building an explainer for them](https://dev.to/dev48v/i-finally-understood-cron-expressions-by-building-an-explainer-for-them-12dk)
+- [Graph of Thoughts: when a tree of reasoning isn&#39;t enough, let the branches merge](https://dev.to/dev48v/graph-of-thoughts-when-a-tree-of-reasoning-isnt-enough-let-the-branches-merge-4a9e)
+- [Blog Post Title:** Nextcloud vs Immich: Which Self-Hosting Solution is](https://dev.to/merbayerp/blog-post-title-nextcloud-vs-immich-which-self-hosting-solution-is-40fd)
 <!-- BLOG-POST-LIST:END -->
 
