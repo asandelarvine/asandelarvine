@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AdaBoost from Scratch: How a Pile of Dumb Rules Becomes a Smart Classifier](https://dev.to/dev48v/adaboost-from-scratch-how-a-pile-of-dumb-rules-becomes-a-smart-classifier-368i)
-- [I finally understood cron expressions by building an explainer for them](https://dev.to/dev48v/i-finally-understood-cron-expressions-by-building-an-explainer-for-them-12dk)
-- [Graph of Thoughts: when a tree of reasoning isn&#39;t enough, let the branches merge](https://dev.to/dev48v/graph-of-thoughts-when-a-tree-of-reasoning-isnt-enough-let-the-branches-merge-4a9e)
-- [Blog Post Title:** Nextcloud vs Immich: Which Self-Hosting Solution is](https://dev.to/merbayerp/blog-post-title-nextcloud-vs-immich-which-self-hosting-solution-is-40fd)
+- [A security writeup catalogs how AI agents get attacked -- and one claim raised eyebrows](https://dev.to/breachprotocol/a-security-writeup-catalogs-how-ai-agents-get-attacked-and-one-claim-raised-eyebrows-59dl)
+- [I Tried to Escape LeetCode for 2 Years &lpar;But Here We Are&rpar;](https://dev.to/konark_13/i-tried-to-escape-leetcode-for-2-years-but-here-we-are-1k99)
+- [Are closed AI models overpriced luxury goods?](https://dev.to/breachprotocol/are-closed-ai-models-overpriced-luxury-goods-47a)
+- [# MCP and A2A in Agentic BFSI Systems: The Complete Implementation Guide](https://dev.to/nikhil_ramank_152ca48266/-mcp-and-a2a-in-agentic-bfsi-systems-the-complete-implementation-guide-1egp)
 <!-- BLOG-POST-LIST:END -->
 
