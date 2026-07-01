@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LongCat-2.0 &amp; Agentic AI: Reshaping India&#39;s Tech by 2026](https://dev.to/meghroop_tech/longcat-20-agentic-ai-reshaping-indias-tech-by-2026-36if)
-- [Turn Phone Numbers into Lead Signals](https://dev.to/sonam_50a41a4ced7e6b4f3fa/turn-phone-numbers-into-lead-signals-3f7k)
-- [FOV in FPS Games: The Math Behind Field of View Settings](https://dev.to/alexcarter_dev/fov-in-fps-games-the-math-behind-field-of-view-settings-82h)
-- [Play today’s game from Issue #2 of The Daily Context!](https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf)
+- [Stop re-flagging the same finding — without going silent](https://dev.to/muhammetsafak/stop-re-flagging-the-same-finding-without-going-silent-1llp)
+- [One Year](https://dev.to/brendandevenney/one-year-gbc)
+- [🦩OS June Recap: Reviewing PRs was my biggest milestone](https://dev.to/neithergalax/os-june-recap-reviewing-prs-was-my-biggest-milestone-3jh)
+- [The Hybrid Retrieval Pattern](https://dev.to/kenwalger/the-hybrid-retrieval-pattern-jno)
 <!-- BLOG-POST-LIST:END -->
 
