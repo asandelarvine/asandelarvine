@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Startups are Getting Ripped Off by 30% Recruiter Fees &lpar;From a Recruiter Who Left&rpar;](https://dev.to/futureisnowtech/why-startups-are-getting-ripped-off-by-30-recruiter-fees-from-a-recruiter-who-left-bdc)
-- [The PhD Trap: Why Quantum Startups are Failing to Ship Code](https://dev.to/futureisnowtech/the-phd-trap-why-quantum-startups-are-failing-to-ship-code-4dph)
-- [Why You Need to Shield Your Resume from the Recruiter Spam Machine](https://dev.to/futureisnowtech/why-you-need-to-shield-your-resume-from-the-recruiter-spam-machine-56pd)
-- [Why Developer Ghosting is Killing Your Hiring Funnel](https://dev.to/futureisnowtech/why-developer-ghosting-is-killing-your-hiring-funnel-30l3)
+- [The Enter key that submits your form while a Japanese user is still typing](https://dev.to/greymothjp/the-enter-key-that-submits-your-form-while-a-japanese-user-is-still-typing-4h6f)
+- [PHP 8.5&#39;s New URI Extension: Parsing URLs Without the parse_url&lpar;&rpar; Footguns](https://dev.to/gabrielanhaia/php-85s-new-uri-extension-parsing-urls-without-the-parseurl-footguns-3a49)
+- [The last mile of AI-assisted coding is a signup form](https://dev.to/lunchboxfortwo/the-last-mile-of-ai-assisted-coding-is-a-signup-form-3lgd)
+- [I Built an AI Life Planner the Month I Graduated and Switched to Linux Halfway Through](https://dev.to/hilalaydx/i-built-an-ai-life-planner-the-month-i-graduated-and-switched-to-linux-halfway-through-39f1)
 <!-- BLOG-POST-LIST:END -->
 
