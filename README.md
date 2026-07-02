@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Today&#39;s AI Research Means for the Products You&#39;ll Build Tomorrow](https://dev.to/basavaraj_sh_1ea7d95f0f2e/what-todays-ai-research-means-for-the-products-youll-build-tomorrow-19c1)
-- [Node-RED on Industrial Edge Gateways: Building Simple Factory IoT Data Flows](https://dev.to/robustel/node-red-on-industrial-edge-gateways-building-simple-factory-iot-data-flows-mbj)
-- [Rethinking Enterprise AI: Why GraphRAG is the Missing Link](https://dev.to/imhyke/rethinking-enterprise-ai-why-graphrag-is-the-missing-link-311d)
-- [Don&#39;t generate your AGENTS.md with an LLM](https://dev.to/promptmaster/dont-generate-your-agentsmd-with-an-llm-4p50)
+- [[Boost]](https://dev.to/cicirello/-2pi5)
+- [Purchase Order Automation in n8n – extract PO data straight into a Google Sheet [Workflow Included]](https://dev.to/felix__s/purchase-order-automation-in-n8n-extract-po-data-straight-into-a-google-sheet-workflow-included-45ji)
+- [How Much Autonomy Should Your AI Agent Have?](https://dev.to/rohith_kn/how-much-autonomy-should-your-ai-agent-have-4h4n)
+- [Here is a tutorial post designed for **dev.to**, focusing on a **Tool Discovery**.](https://dev.to/samchenreviews/here-is-a-tutorial-post-designed-for-devto-focusing-on-a-tool-discovery-fc3)
 <!-- BLOG-POST-LIST:END -->
 
