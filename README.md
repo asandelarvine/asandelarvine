@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy your own crossposter to a VPS or Render and keep the scheduler alive](https://dev.to/apoorvdarshan/deploy-your-own-crossposter-to-a-vps-or-render-and-keep-the-scheduler-alive-4dk1)
-- [Agentic Development: Your coding discipline under a magnifying glass](https://dev.to/vriesdemichael/agentic-development-your-coding-discipline-under-a-magnifying-glass-4che)
-- [AI Increased Our Open PRs by 36%. That Wasn’t the Whole Story.](https://dev.to/stack_builders/ai-in-software-delivery-whats-working-whats-hard-and-what-were-still-learning-42e)
-- [I built an instant, client-side Markdown to HTML converter. Here is how it works.](https://dev.to/kandz/i-built-an-instant-client-side-markdown-to-html-converter-here-is-how-it-works-2gdp)
+- [Best AI Coding Tools in 2026: Full Power Rankings](https://dev.to/kemalcodes/best-ai-coding-tools-in-2026-full-power-rankings-ni3)
+- [Stop Your LLM From Getting Owned](https://dev.to/lovestaco/stop-your-llm-from-getting-owned-25b9)
+- [A free llms.txt validator](https://dev.to/turva-dev/a-free-llmstxt-validator-mn2)
+- [Microsoft&#39;s 99 AI Skills Are Interesting. The Bigger Story Is What They Represent.](https://dev.to/restuananda/microsofts-99-ai-skills-are-interesting-the-bigger-story-is-what-they-represent-pl3)
 <!-- BLOG-POST-LIST:END -->
 
