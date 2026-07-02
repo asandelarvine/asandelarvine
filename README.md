@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/cicirello/-2pi5)
-- [Purchase Order Automation in n8n – extract PO data straight into a Google Sheet [Workflow Included]](https://dev.to/felix__s/purchase-order-automation-in-n8n-extract-po-data-straight-into-a-google-sheet-workflow-included-45ji)
-- [How Much Autonomy Should Your AI Agent Have?](https://dev.to/rohith_kn/how-much-autonomy-should-your-ai-agent-have-4h4n)
-- [Here is a tutorial post designed for **dev.to**, focusing on a **Tool Discovery**.](https://dev.to/samchenreviews/here-is-a-tutorial-post-designed-for-devto-focusing-on-a-tool-discovery-fc3)
+- [Deploy your own crossposter to a VPS or Render and keep the scheduler alive](https://dev.to/apoorvdarshan/deploy-your-own-crossposter-to-a-vps-or-render-and-keep-the-scheduler-alive-4dk1)
+- [Agentic Development: Your coding discipline under a magnifying glass](https://dev.to/vriesdemichael/agentic-development-your-coding-discipline-under-a-magnifying-glass-4che)
+- [AI Increased Our Open PRs by 36%. That Wasn’t the Whole Story.](https://dev.to/stack_builders/ai-in-software-delivery-whats-working-whats-hard-and-what-were-still-learning-42e)
+- [I built an instant, client-side Markdown to HTML converter. Here is how it works.](https://dev.to/kandz/i-built-an-instant-client-side-markdown-to-html-converter-here-is-how-it-works-2gdp)
 <!-- BLOG-POST-LIST:END -->
 
