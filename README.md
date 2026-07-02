@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Coding Tools in 2026: Full Power Rankings](https://dev.to/kemalcodes/best-ai-coding-tools-in-2026-full-power-rankings-ni3)
-- [Stop Your LLM From Getting Owned](https://dev.to/lovestaco/stop-your-llm-from-getting-owned-25b9)
-- [A free llms.txt validator](https://dev.to/turva-dev/a-free-llmstxt-validator-mn2)
-- [Microsoft&#39;s 99 AI Skills Are Interesting. The Bigger Story Is What They Represent.](https://dev.to/restuananda/microsofts-99-ai-skills-are-interesting-the-bigger-story-is-what-they-represent-pl3)
+- [Why Startups are Getting Ripped Off by 30% Recruiter Fees &lpar;From a Recruiter Who Left&rpar;](https://dev.to/futureisnowtech/why-startups-are-getting-ripped-off-by-30-recruiter-fees-from-a-recruiter-who-left-bdc)
+- [The PhD Trap: Why Quantum Startups are Failing to Ship Code](https://dev.to/futureisnowtech/the-phd-trap-why-quantum-startups-are-failing-to-ship-code-4dph)
+- [Why You Need to Shield Your Resume from the Recruiter Spam Machine](https://dev.to/futureisnowtech/why-you-need-to-shield-your-resume-from-the-recruiter-spam-machine-56pd)
+- [Why Developer Ghosting is Killing Your Hiring Funnel](https://dev.to/futureisnowtech/why-developer-ghosting-is-killing-your-hiring-funnel-30l3)
 <!-- BLOG-POST-LIST:END -->
 
