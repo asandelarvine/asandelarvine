@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build software that heals itself in the agentic era](https://dev.to/bucabay/build-software-that-heals-itself-in-the-agentic-era-540p)
-- [Docker Security Dispatch — Issue 4: Miasma, Phantom Gyp, and AI Routing 🪱️](https://dev.to/docker/docker-security-dispatch-issue-4-miasma-phantom-gyp-and-ai-routing-4n6h)
-- [The safety switch that doesn&#39;t actually work](https://dev.to/breachprotocol/the-safety-switch-that-doesnt-actually-work-10h3)
-- [An independent verifier audited my compliance API&#39;s hash chain byte-by-byte — in public, same day, both sides shipped fixes](https://dev.to/trustboost/an-independent-verifier-audited-my-compliance-apis-hash-chain-byte-by-byte-in-public-same-day-k12)
+- [Loop Engineering — เมื่อการ Prompt Agent ด้วยมือไม่พออีกต่อไป แล้ว Programmer ต้องออกแบบ Loop แทน](https://dev.to/sarantoon/loop-engineering-emuuekaar-prompt-agent-dwymuueaimphiiktaip-aelw-programmer-tngkaebb-loop-aethn-1ikh)
+- [hermes-memory-installer: Memory Sidecar v3.5.1](https://dev.to/mage0535/hermes-memory-installer-memory-sidecar-v351-2eeo)
+- [the best books for the agent era are still systems books](https://dev.to/pvgomes/the-best-books-for-the-agent-era-are-still-systems-books-2ij3)
+- [Why teaching AI agents to use tools keeps blowing up in training](https://dev.to/breachprotocol/why-teaching-ai-agents-to-use-tools-keeps-blowing-up-in-training-27bo)
 <!-- BLOG-POST-LIST:END -->
 
