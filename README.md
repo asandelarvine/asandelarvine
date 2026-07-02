@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Enter key that submits your form while a Japanese user is still typing](https://dev.to/greymothjp/the-enter-key-that-submits-your-form-while-a-japanese-user-is-still-typing-4h6f)
-- [PHP 8.5&#39;s New URI Extension: Parsing URLs Without the parse_url&lpar;&rpar; Footguns](https://dev.to/gabrielanhaia/php-85s-new-uri-extension-parsing-urls-without-the-parseurl-footguns-3a49)
-- [The last mile of AI-assisted coding is a signup form](https://dev.to/lunchboxfortwo/the-last-mile-of-ai-assisted-coding-is-a-signup-form-3lgd)
-- [I Built an AI Life Planner the Month I Graduated and Switched to Linux Halfway Through](https://dev.to/hilalaydx/i-built-an-ai-life-planner-the-month-i-graduated-and-switched-to-linux-halfway-through-39f1)
+- [I got tired of rebuilding my diagnostic USB on every machine, so I fixed it once](https://dev.to/systems_byreg/i-got-tired-of-rebuilding-my-diagnostic-usb-on-every-machine-so-i-fixed-it-once-2d62)
+- [Stop Asking AI to &quot;Write Code&quot;. Teach It How to Work.](https://dev.to/joedev090/stop-asking-ai-to-write-code-teach-it-how-to-work-1m47)
+- [Shipping a libmpv-based video player on the Mac App Store](https://dev.to/yamayu-dev/shipping-a-libmpv-based-video-player-on-the-mac-app-store-1f2l)
+- [You Don&#39;t Need MIDI-OX Anymore: Building a SysEx Librarian with the Web MIDI API](https://dev.to/knobmonster/you-dont-need-midi-ox-anymore-building-a-sysex-librarian-with-the-web-midi-api-3pii)
 <!-- BLOG-POST-LIST:END -->
 
