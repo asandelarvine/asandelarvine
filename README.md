@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Loop Engineering — เมื่อการ Prompt Agent ด้วยมือไม่พออีกต่อไป แล้ว Programmer ต้องออกแบบ Loop แทน](https://dev.to/sarantoon/loop-engineering-emuuekaar-prompt-agent-dwymuueaimphiiktaip-aelw-programmer-tngkaebb-loop-aethn-1ikh)
-- [hermes-memory-installer: Memory Sidecar v3.5.1](https://dev.to/mage0535/hermes-memory-installer-memory-sidecar-v351-2eeo)
-- [the best books for the agent era are still systems books](https://dev.to/pvgomes/the-best-books-for-the-agent-era-are-still-systems-books-2ij3)
-- [Why teaching AI agents to use tools keeps blowing up in training](https://dev.to/breachprotocol/why-teaching-ai-agents-to-use-tools-keeps-blowing-up-in-training-27bo)
+- [I Coined a New Word: Breator](https://dev.to/breator/i-coined-a-new-word-breator-1ddi)
+- [AI For Test Generation: Where It Helps And Where It Lies](https://dev.to/nazar_boyko/ai-for-test-generation-where-it-helps-and-where-it-lies-jhm)
+- [Webhook Idempotency: Handling Duplicate Events](https://dev.to/anonymilyhq/webhook-idempotency-handling-duplicate-events-5ep8)
+- [What Three Fictional Startups Taught Me About Structured, Semi-Structured, and Unstructured Data on Azure](https://dev.to/richyy/what-three-fictional-startups-taught-me-about-structured-semi-structured-and-unstructured-data-on-1h37)
 <!-- BLOG-POST-LIST:END -->
 
