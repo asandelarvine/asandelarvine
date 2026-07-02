@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Coined a New Word: Breator](https://dev.to/breator/i-coined-a-new-word-breator-1ddi)
-- [AI For Test Generation: Where It Helps And Where It Lies](https://dev.to/nazar_boyko/ai-for-test-generation-where-it-helps-and-where-it-lies-jhm)
-- [Webhook Idempotency: Handling Duplicate Events](https://dev.to/anonymilyhq/webhook-idempotency-handling-duplicate-events-5ep8)
-- [What Three Fictional Startups Taught Me About Structured, Semi-Structured, and Unstructured Data on Azure](https://dev.to/richyy/what-three-fictional-startups-taught-me-about-structured-semi-structured-and-unstructured-data-on-1h37)
+- [What Today&#39;s AI Research Means for the Products You&#39;ll Build Tomorrow](https://dev.to/basavaraj_sh_1ea7d95f0f2e/what-todays-ai-research-means-for-the-products-youll-build-tomorrow-19c1)
+- [Node-RED on Industrial Edge Gateways: Building Simple Factory IoT Data Flows](https://dev.to/robustel/node-red-on-industrial-edge-gateways-building-simple-factory-iot-data-flows-mbj)
+- [Rethinking Enterprise AI: Why GraphRAG is the Missing Link](https://dev.to/imhyke/rethinking-enterprise-ai-why-graphrag-is-the-missing-link-311d)
+- [Don&#39;t generate your AGENTS.md with an LLM](https://dev.to/promptmaster/dont-generate-your-agentsmd-with-an-llm-4p50)
 <!-- BLOG-POST-LIST:END -->
 
