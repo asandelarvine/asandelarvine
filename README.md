@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Simple Python AI Starter Projects for Beginners](https://dev.to/sphillips1337/12-simple-python-ai-starter-projects-for-beginners-53d4)
-- [Password Spray Attacks: How Attackers Exploit Authentication Weaknesses](https://dev.to/guardingpearsoftware/password-spray-attacks-how-attackers-exploit-authentication-weaknesses-5e1)
-- [Як я побудував AI-агента для e-commerce: уроки розробки та деплою](https://dev.to/vitalii_timonin_8a0a44efd/iak-ia-pobuduvav-ai-aghienta-dlia-e-commerce-uroki-rozrobki-ta-dieploiu-8fh)
-- [I bundled email + phone validation into one $0 API &lpar;because paying for two subscriptions is silly&rpar;](https://dev.to/ka_shah/i-bundled-email-phone-validation-into-one-0-api-because-paying-for-two-subscriptions-is-silly-13ai)
+- [Why Does a List Change in Two Variables?](https://dev.to/storvus/why-does-a-list-change-in-two-variables-288f)
+- [OAUTH2.0 In Action — A Guide To Implementing OAUTH In Apps and Websites.](https://dev.to/abdulmalikalayande/oauth20-in-action-a-guide-to-implementing-oauth-in-apps-and-websites-31h8)
+- [The Generative AI Learning Roadmap: My Journey from Beginner to AI Developer &lpar;2026&rpar;](https://dev.to/rushikeshpatil1007/the-generative-ai-learning-roadmap-my-journey-from-beginner-to-ai-developer-2026-1i0m)
+- [Enterprise Due Diligence Agent: AI Reports for 60+ Real Companies](https://dev.to/__b01666abd57fb7bb91f9/enterprise-due-diligence-agent-ai-reports-for-60-real-companies-iak)
 <!-- BLOG-POST-LIST:END -->
 
