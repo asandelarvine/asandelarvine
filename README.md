@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Does a List Change in Two Variables?](https://dev.to/storvus/why-does-a-list-change-in-two-variables-288f)
-- [OAUTH2.0 In Action — A Guide To Implementing OAUTH In Apps and Websites.](https://dev.to/abdulmalikalayande/oauth20-in-action-a-guide-to-implementing-oauth-in-apps-and-websites-31h8)
-- [The Generative AI Learning Roadmap: My Journey from Beginner to AI Developer &lpar;2026&rpar;](https://dev.to/rushikeshpatil1007/the-generative-ai-learning-roadmap-my-journey-from-beginner-to-ai-developer-2026-1i0m)
-- [Enterprise Due Diligence Agent: AI Reports for 60+ Real Companies](https://dev.to/__b01666abd57fb7bb91f9/enterprise-due-diligence-agent-ai-reports-for-60-real-companies-iak)
+- [Funding Open Source Without The Bait And Switch: Analytics, Native Maps, TV And More](https://dev.to/codenameone/funding-open-source-without-the-bait-and-switch-analytics-native-maps-tv-and-more-1h1j)
+- [How to Test Email Change Flows in React Without Mixing Up Confirmation Links](https://dev.to/ryanlee91/how-to-test-email-change-flows-in-react-without-mixing-up-confirmation-links-4eii)
+- [Is looping ready to roll? Experts split on the future of coding](https://dev.to/dailycontext/is-looping-ready-to-roll-experts-split-on-the-future-of-coding-2g7p)
+- [I Built a Free Bluesky Video Downloader — Here&#39;s How It Works](https://dev.to/bhargav_reddysatti_b8d7e/i-built-a-free-bluesky-video-downloader-heres-how-it-works-e87)
 <!-- BLOG-POST-LIST:END -->
 
