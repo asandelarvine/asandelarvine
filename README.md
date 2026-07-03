@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mid-Year Backend Reset: My H2 Goals for Speed, Security, and Better Docs](https://dev.to/tahsin000/mid-year-backend-reset-my-h2-goals-for-speed-security-and-better-docs-14ap)
-- [Account Security on Solana, Made Simple](https://dev.to/100daysofsolana/account-security-on-solana-made-simple-154d)
-- [The Pragmatic Migration: Moving from AngularJS to Angular v22](https://dev.to/prestonwest/the-pragmatic-migration-moving-from-angularjs-to-angular-v22-1n0e)
-- [Current OSS proof, without the launch gloss](https://dev.to/morganlabs/current-oss-proof-without-the-launch-gloss-24fn)
+- [In Pursuit of the Ideal Developer Experience](https://dev.to/ljtn/in-pursuit-of-the-ideal-developer-experience-2gp8)
+- [UI Kernel: Design Tokens as Symfony infrastructure](https://dev.to/symfinity/ui-kernel-design-tokens-as-symfony-infrastructure-31m)
+- [AI Field Notes 2026](https://dev.to/nullabletype/ai-field-notes-2026-53ap)
+- [Your Coding Agent Is a New Attack Surface and Most Devs Aren&#39;t Ready for It](https://dev.to/coridev/your-coding-agent-is-a-new-attack-surface-and-most-devs-arent-ready-for-it-1b92)
 <!-- BLOG-POST-LIST:END -->
 
