@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Caffeine Is the Most Effective Legal Ergogenic. Pre-Workouts Bury This Under $30 of Filler.](https://dev.to/jonas_prenissl_5eb6eaa63c/caffeine-is-the-most-effective-legal-ergogenic-pre-workouts-bury-this-under-30-of-filler-4gpa)
-- [The Real Cost to an Agency When a Client&#39;s Domain Silently Expires](https://dev.to/instarenewal/the-real-cost-to-an-agency-when-a-clients-domain-silently-expires-53i2)
-- [You Can&#39;t Vibe Code Infrastructure. The Job Market Agrees.](https://dev.to/remoet/you-cant-vibe-code-infrastructure-the-job-market-agrees-15oh)
-- [Why Snap CD: A Permission System Built for Infrastructure](https://dev.to/karlschriek/why-snap-cd-a-permission-system-built-for-infrastructure-1602)
+- [12 Simple Python AI Starter Projects for Beginners](https://dev.to/sphillips1337/12-simple-python-ai-starter-projects-for-beginners-53d4)
+- [Password Spray Attacks: How Attackers Exploit Authentication Weaknesses](https://dev.to/guardingpearsoftware/password-spray-attacks-how-attackers-exploit-authentication-weaknesses-5e1)
+- [Як я побудував AI-агента для e-commerce: уроки розробки та деплою](https://dev.to/vitalii_timonin_8a0a44efd/iak-ia-pobuduvav-ai-aghienta-dlia-e-commerce-uroki-rozrobki-ta-dieploiu-8fh)
+- [I bundled email + phone validation into one $0 API &lpar;because paying for two subscriptions is silly&rpar;](https://dev.to/ka_shah/i-bundled-email-phone-validation-into-one-0-api-because-paying-for-two-subscriptions-is-silly-13ai)
 <!-- BLOG-POST-LIST:END -->
 
