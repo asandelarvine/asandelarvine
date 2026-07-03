@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NestJS Zero-Downtime Deployment on DigitalOcean with GitLab CI/CD and PM2](https://dev.to/fecoded/nestjs-zero-downtime-deployment-on-digitalocean-with-gitlab-cicd-and-pm2-fo7)
-- [Reading Your Data Layer at 2 AM: Glass Box vs. Black Box Queries](https://dev.to/maskdatabases/reading-your-data-layer-at-2-am-glass-box-vs-black-box-queries-57d1)
-- [I Pointed My AI Research Engine at Goldbach&#39;s Conjecture — It Found a Hidden Bias](https://dev.to/subhansh/i-pointed-my-ai-research-engine-at-goldbachs-conjecture-it-found-a-hidden-bias-44pn)
-- [I Built an AI Research Engine and It Found a Perfect Power Law in Twin Primes](https://dev.to/subhansh/i-built-an-ai-research-engine-and-it-found-a-perfect-power-law-in-twin-primes-12ba)
+- [AI Agents as Digital Employees: Architecture and Lessons from Practice](https://dev.to/slawanextlevels/ai-agents-as-digital-employees-architecture-and-lessons-from-practice-3khd)
+- [Chunked Prefill: Why One Long Prompt Freezes Your LLM Server](https://dev.to/ji_ai/chunked-prefill-why-one-long-prompt-freezes-your-llm-server-30e0)
+- [Binary, Hex &amp; Octal — Number Systems Every Developer Must Know](https://dev.to/akaranjkar08/binary-hex-octal-number-systems-every-developer-must-know-5d8o)
+- [I built an AI that predicts its own collapse](https://dev.to/alexander_zuberjatzke_7e/i-built-an-ai-that-predicts-its-own-collapse-17h2)
 <!-- BLOG-POST-LIST:END -->
 
