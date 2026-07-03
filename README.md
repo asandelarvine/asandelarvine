@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of rebuilding my diagnostic USB on every machine, so I fixed it once](https://dev.to/systems_byreg/i-got-tired-of-rebuilding-my-diagnostic-usb-on-every-machine-so-i-fixed-it-once-2d62)
-- [Stop Asking AI to &quot;Write Code&quot;. Teach It How to Work.](https://dev.to/joedev090/stop-asking-ai-to-write-code-teach-it-how-to-work-1m47)
-- [Shipping a libmpv-based video player on the Mac App Store](https://dev.to/yamayu-dev/shipping-a-libmpv-based-video-player-on-the-mac-app-store-1f2l)
-- [You Don&#39;t Need MIDI-OX Anymore: Building a SysEx Librarian with the Web MIDI API](https://dev.to/knobmonster/you-dont-need-midi-ox-anymore-building-a-sysex-librarian-with-the-web-midi-api-3pii)
+- [When &lpar;and when not&rpar; to inline images as Base64](https://dev.to/jeromell/when-and-when-not-to-inline-images-as-base64-2abo)
+- [The same root cause keeps coming back because nobody tracks it. I built a zero-dep CLI that does.](https://dev.to/_06a3df6b50aec966668fb/the-same-root-cause-keeps-coming-back-because-nobody-tracks-it-i-built-a-zero-dep-cli-that-does-3i34)
+- [Why Every Developer Will Become an AI Orchestrator](https://dev.to/yash_sonawane25/why-every-developer-will-become-an-ai-orchestrator-3ec)
+- [LINQ and ZLinq in the Unity 6 Era: Avoiding GC Allocations in Large-Scale Projects](https://dev.to/gamedevtoollab/linq-and-zlinq-in-the-unity-6-era-avoiding-gc-allocations-in-large-scale-projects-36c2)
 <!-- BLOG-POST-LIST:END -->
 
