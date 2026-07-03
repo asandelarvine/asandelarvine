@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Funding Open Source Without The Bait And Switch: Analytics, Native Maps, TV And More](https://dev.to/codenameone/funding-open-source-without-the-bait-and-switch-analytics-native-maps-tv-and-more-1h1j)
-- [How to Test Email Change Flows in React Without Mixing Up Confirmation Links](https://dev.to/ryanlee91/how-to-test-email-change-flows-in-react-without-mixing-up-confirmation-links-4eii)
-- [Is looping ready to roll? Experts split on the future of coding](https://dev.to/dailycontext/is-looping-ready-to-roll-experts-split-on-the-future-of-coding-2g7p)
-- [I Built a Free Bluesky Video Downloader — Here&#39;s How It Works](https://dev.to/bhargav_reddysatti_b8d7e/i-built-a-free-bluesky-video-downloader-heres-how-it-works-e87)
+- [NestJS Zero-Downtime Deployment on DigitalOcean with GitLab CI/CD and PM2](https://dev.to/fecoded/nestjs-zero-downtime-deployment-on-digitalocean-with-gitlab-cicd-and-pm2-fo7)
+- [Reading Your Data Layer at 2 AM: Glass Box vs. Black Box Queries](https://dev.to/maskdatabases/reading-your-data-layer-at-2-am-glass-box-vs-black-box-queries-57d1)
+- [I Pointed My AI Research Engine at Goldbach&#39;s Conjecture — It Found a Hidden Bias](https://dev.to/subhansh/i-pointed-my-ai-research-engine-at-goldbachs-conjecture-it-found-a-hidden-bias-44pn)
+- [I Built an AI Research Engine and It Found a Perfect Power Law in Twin Primes](https://dev.to/subhansh/i-built-an-ai-research-engine-and-it-found-a-perfect-power-law-in-twin-primes-12ba)
 <!-- BLOG-POST-LIST:END -->
 
