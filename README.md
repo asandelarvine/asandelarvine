@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents as Digital Employees: Architecture and Lessons from Practice](https://dev.to/slawanextlevels/ai-agents-as-digital-employees-architecture-and-lessons-from-practice-3khd)
-- [Chunked Prefill: Why One Long Prompt Freezes Your LLM Server](https://dev.to/ji_ai/chunked-prefill-why-one-long-prompt-freezes-your-llm-server-30e0)
-- [Binary, Hex &amp; Octal — Number Systems Every Developer Must Know](https://dev.to/akaranjkar08/binary-hex-octal-number-systems-every-developer-must-know-5d8o)
-- [I built an AI that predicts its own collapse](https://dev.to/alexander_zuberjatzke_7e/i-built-an-ai-that-predicts-its-own-collapse-17h2)
+- [Mid-Year Backend Reset: My H2 Goals for Speed, Security, and Better Docs](https://dev.to/tahsin000/mid-year-backend-reset-my-h2-goals-for-speed-security-and-better-docs-14ap)
+- [Account Security on Solana, Made Simple](https://dev.to/100daysofsolana/account-security-on-solana-made-simple-154d)
+- [The Pragmatic Migration: Moving from AngularJS to Angular v22](https://dev.to/prestonwest/the-pragmatic-migration-moving-from-angularjs-to-angular-v22-1n0e)
+- [Current OSS proof, without the launch gloss](https://dev.to/morganlabs/current-oss-proof-without-the-launch-gloss-24fn)
 <!-- BLOG-POST-LIST:END -->
 
