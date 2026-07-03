@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When &lpar;and when not&rpar; to inline images as Base64](https://dev.to/jeromell/when-and-when-not-to-inline-images-as-base64-2abo)
-- [The same root cause keeps coming back because nobody tracks it. I built a zero-dep CLI that does.](https://dev.to/_06a3df6b50aec966668fb/the-same-root-cause-keeps-coming-back-because-nobody-tracks-it-i-built-a-zero-dep-cli-that-does-3i34)
-- [Why Every Developer Will Become an AI Orchestrator](https://dev.to/yash_sonawane25/why-every-developer-will-become-an-ai-orchestrator-3ec)
-- [LINQ and ZLinq in the Unity 6 Era: Avoiding GC Allocations in Large-Scale Projects](https://dev.to/gamedevtoollab/linq-and-zlinq-in-the-unity-6-era-avoiding-gc-allocations-in-large-scale-projects-36c2)
+- [Caffeine Is the Most Effective Legal Ergogenic. Pre-Workouts Bury This Under $30 of Filler.](https://dev.to/jonas_prenissl_5eb6eaa63c/caffeine-is-the-most-effective-legal-ergogenic-pre-workouts-bury-this-under-30-of-filler-4gpa)
+- [The Real Cost to an Agency When a Client&#39;s Domain Silently Expires](https://dev.to/instarenewal/the-real-cost-to-an-agency-when-a-clients-domain-silently-expires-53i2)
+- [You Can&#39;t Vibe Code Infrastructure. The Job Market Agrees.](https://dev.to/remoet/you-cant-vibe-code-infrastructure-the-job-market-agrees-15oh)
+- [Why Snap CD: A Permission System Built for Infrastructure](https://dev.to/karlschriek/why-snap-cd-a-permission-system-built-for-infrastructure-1602)
 <!-- BLOG-POST-LIST:END -->
 
