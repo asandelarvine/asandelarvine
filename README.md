@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP Deep Dive, Part 1: Why Model Context Protocol Kills Integration Glue Code for Good](https://dev.to/kirandeepjassalcrypto/mcp-deep-dive-part-1-why-model-context-protocol-kills-integration-glue-code-for-good-3jcp)
-- [The True Classification of AI: Part 2 - Agentic AI](https://dev.to/claireg/the-true-classification-of-ai-part-2-agentic-ai-1c6j)
-- [Stop calling a service that&#39;s already down: circuit breakers with Resilience4j](https://dev.to/dev48v/stop-calling-a-service-thats-already-down-circuit-breakers-with-resilience4j-906)
-- [LoRA: Fine-Tune a Giant Model by Training 1% of It](https://dev.to/dev48v/lora-fine-tune-a-giant-model-by-training-1-of-it-2025)
+- [Sauna CTF HTB](https://dev.to/iftikhar_911/sauna-ctf-htb-1lp0)
+- [Bringing React Native Style Composition to React](https://dev.to/omnidev/bringing-react-native-style-composition-to-react-d1l)
+- [Building a 10-Agent Security Civilization with Qwen and Alibaba Cloud 🛡️🤖](https://dev.to/astaaddahiya/building-a-10-agent-security-civilization-with-qwen-and-alibaba-cloud-4i21)
+- [I Packed DeepSeek V4 + Claude Code Into a Starter Kit. Clone It and Ship.](https://dev.to/yuhaolin2005/i-packed-deepseek-v4-claude-code-into-a-starter-kit-clone-it-and-ship-13dn)
 <!-- BLOG-POST-LIST:END -->
 
