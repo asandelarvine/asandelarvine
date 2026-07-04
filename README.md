@@ -79,9 +79,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sauna CTF HTB](https://dev.to/iftikhar_911/sauna-ctf-htb-1lp0)
-- [Bringing React Native Style Composition to React](https://dev.to/omnidev/bringing-react-native-style-composition-to-react-d1l)
-- [Building a 10-Agent Security Civilization with Qwen and Alibaba Cloud 🛡️🤖](https://dev.to/astaaddahiya/building-a-10-agent-security-civilization-with-qwen-and-alibaba-cloud-4i21)
-- [I Packed DeepSeek V4 + Claude Code Into a Starter Kit. Clone It and Ship.](https://dev.to/yuhaolin2005/i-packed-deepseek-v4-claude-code-into-a-starter-kit-clone-it-and-ship-13dn)
+- [Swiss Zefix records: what you can pull live in 2026](https://dev.to/openregistry/swiss-zefix-records-what-you-can-pull-live-in-2026-4md6)
+- [🚀 I just published “Python for TypeScript Developers” — a comprehensive, 26-chapter course built specifically for TS devs who want to level up into Python.
+
+https://github.com/blacksmoke26/python-for-typescript-programmers-course](https://dev.to/blacksmoke26/i-just-published-python-for-typescript-developers-a-comprehensive-26-chapter-course-built-2ej)
+- [Wan Monitor - Tiny Failover Controller for OpenWrt](https://dev.to/ng256/wan-monitor-tiny-failover-controller-for-openwrt-4o8e)
+- [Modern Flutter Best Practices for 2026](https://dev.to/hamberluo/modern-flutter-best-practices-for-2026-56o3)
 <!-- BLOG-POST-LIST:END -->
 
