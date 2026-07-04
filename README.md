@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [In Pursuit of the Ideal Developer Experience](https://dev.to/ljtn/in-pursuit-of-the-ideal-developer-experience-2gp8)
-- [UI Kernel: Design Tokens as Symfony infrastructure](https://dev.to/symfinity/ui-kernel-design-tokens-as-symfony-infrastructure-31m)
-- [AI Field Notes 2026](https://dev.to/nullabletype/ai-field-notes-2026-53ap)
-- [Your Coding Agent Is a New Attack Surface and Most Devs Aren&#39;t Ready for It](https://dev.to/coridev/your-coding-agent-is-a-new-attack-surface-and-most-devs-arent-ready-for-it-1b92)
+- [The $4,900 Humanoid Robot Changes Everything](https://dev.to/max_quimby/the-4900-humanoid-robot-changes-everything-3k0b)
+- [AGENTS.md, Hands-On: Build One Step by Step &lpar;and Watch an Agent Use It&rpar;](https://dev.to/wolfejam/agentsmd-hands-on-build-one-step-by-step-and-watch-an-agent-use-it-3g27)
+- [I built a Telegram bot that counts calories from food photos. It confidently called soup &quot;berry compote&quot;](https://dev.to/alexdv124/i-built-a-telegram-bot-that-counts-calories-from-food-photos-it-confidently-called-soup-berry-5bah)
+- [Traditional Metrics Fall Short: Adopting Narrative-Driven Insights for Actionable Software Development Analysis](https://dev.to/pavkode/traditional-metrics-fall-short-adopting-narrative-driven-insights-for-actionable-software-hdl)
 <!-- BLOG-POST-LIST:END -->
 
