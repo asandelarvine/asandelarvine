@@ -79,11 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Swiss Zefix records: what you can pull live in 2026](https://dev.to/openregistry/swiss-zefix-records-what-you-can-pull-live-in-2026-4md6)
-- [🚀 I just published “Python for TypeScript Developers” — a comprehensive, 26-chapter course built specifically for TS devs who want to level up into Python.
-
-https://github.com/blacksmoke26/python-for-typescript-programmers-course](https://dev.to/blacksmoke26/i-just-published-python-for-typescript-developers-a-comprehensive-26-chapter-course-built-2ej)
-- [Wan Monitor - Tiny Failover Controller for OpenWrt](https://dev.to/ng256/wan-monitor-tiny-failover-controller-for-openwrt-4o8e)
-- [Modern Flutter Best Practices for 2026](https://dev.to/hamberluo/modern-flutter-best-practices-for-2026-56o3)
+- [7 AI Tools Every SDET Should Learn in 2026 — With Real Testing Use Cases](https://dev.to/vishal_kumar_32aca0795138/7-ai-tools-every-sdet-should-learn-in-2026-with-real-testing-use-cases-j71)
+- [I recorded my agent auditing a 36k-file Rails app: the play-by-play](https://dev.to/luuuc/i-recorded-my-agent-auditing-a-36k-file-rails-app-the-play-by-play-10h3)
+- [Building a Fitness Workout Planner Agent in typescript with HazelJS](https://dev.to/nisa_fatima_bcd75fa085b76/building-a-fitness-workout-planner-agent-in-typescript-with-hazeljs-cpi)
+- [Position: fixed is a paint trick, not an event boundary](https://dev.to/earthbound_misfit/position-fixed-is-a-paint-trick-not-an-event-boundary-3cgp)
 <!-- BLOG-POST-LIST:END -->
 
