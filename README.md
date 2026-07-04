@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 AI Tools Every SDET Should Learn in 2026 — With Real Testing Use Cases](https://dev.to/vishal_kumar_32aca0795138/7-ai-tools-every-sdet-should-learn-in-2026-with-real-testing-use-cases-j71)
-- [I recorded my agent auditing a 36k-file Rails app: the play-by-play](https://dev.to/luuuc/i-recorded-my-agent-auditing-a-36k-file-rails-app-the-play-by-play-10h3)
-- [Building a Fitness Workout Planner Agent in typescript with HazelJS](https://dev.to/nisa_fatima_bcd75fa085b76/building-a-fitness-workout-planner-agent-in-typescript-with-hazeljs-cpi)
-- [Position: fixed is a paint trick, not an event boundary](https://dev.to/earthbound_misfit/position-fixed-is-a-paint-trick-not-an-event-boundary-3cgp)
+- [I Almost Gave Up... But One Console Log Changed Everything](https://dev.to/usama_dev/i-almost-gave-up-but-one-console-log-changed-everything-2l23)
+- [I analyzed 292 open Forward Deployed Engineer jobs. Here is the data.](https://dev.to/tech_t_e23de7b66d4559a055/i-analyzed-292-open-forward-deployed-engineer-jobs-here-is-the-data-5ekl)
+- [Stop Watching Tutorials. Start Building Projects: The Fastest Way to Learn Programming](https://dev.to/code_tocareer_5c69a8/stop-watching-tutorials-start-building-projects-the-fastest-way-to-learn-programming-3gkd)
+- [Adam: The Optimization Algorithm That Made LLMs Practical](https://dev.to/shrsv/adam-the-optimization-algorithm-that-made-llms-practical-k17)
 <!-- BLOG-POST-LIST:END -->
 
