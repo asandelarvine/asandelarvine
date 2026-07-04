@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The $4,900 Humanoid Robot Changes Everything](https://dev.to/max_quimby/the-4900-humanoid-robot-changes-everything-3k0b)
-- [AGENTS.md, Hands-On: Build One Step by Step &lpar;and Watch an Agent Use It&rpar;](https://dev.to/wolfejam/agentsmd-hands-on-build-one-step-by-step-and-watch-an-agent-use-it-3g27)
-- [I built a Telegram bot that counts calories from food photos. It confidently called soup &quot;berry compote&quot;](https://dev.to/alexdv124/i-built-a-telegram-bot-that-counts-calories-from-food-photos-it-confidently-called-soup-berry-5bah)
-- [Traditional Metrics Fall Short: Adopting Narrative-Driven Insights for Actionable Software Development Analysis](https://dev.to/pavkode/traditional-metrics-fall-short-adopting-narrative-driven-insights-for-actionable-software-hdl)
+- [Stop Building State Machines and Start Building Brains: The Flowork Approach](https://dev.to/alya_mahalini_f05d9953cfa/stop-building-state-machines-and-start-building-brains-the-flowork-approach-24cm)
+- [Bruno — API Client แบบ Git-Native ที่เก็บทุกอย่างเป็นไฟล์](https://dev.to/gophernment/bruno-api-client-aebb-git-native-thiiekbthukyaangepnaifl-4fj4)
+- [Why I Ditched Socket.IO for Raw WebSockets &lpar;And What I Learned&rpar;](https://dev.to/nikhilsharma6/why-i-ditched-socketio-for-raw-websockets-and-what-i-learned-55i6)
+- [I just published Postgres MCP Server in Go!](https://dev.to/akshay_gupta/i-just-published-postgres-mcp-server-in-go-10ab)
 <!-- BLOG-POST-LIST:END -->
 
