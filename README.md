@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Running a mail server on a VPS: what actually keeps you out of spam](https://dev.to/eqvps/running-a-mail-server-on-a-vps-what-actually-keeps-you-out-of-spam-2hop)
-- [🚀 Deploy Your First Website in 30 Minutes — The Absolute Beginner&#39;s Guide](https://dev.to/_b70278078078f44982f07/deploy-your-first-website-in-30-minutes-the-absolute-beginners-guide-3hm9)
-- [Clintech Pico Board: All 48 RP2354B GPIOs in a Pico 2 Footprint](https://dev.to/circuitrocks/clintech-pico-board-all-48-rp2354b-gpios-in-a-pico-2-footprint-2kl1)
-- [WalletConnect in Claude Desktop: Mobile Approval for AI Agent Transactions](https://dev.to/walletguy/walletconnect-in-claude-desktop-mobile-approval-for-ai-agent-transactions-27ho)
+- [MCP Deep Dive, Part 1: Why Model Context Protocol Kills Integration Glue Code for Good](https://dev.to/kirandeepjassalcrypto/mcp-deep-dive-part-1-why-model-context-protocol-kills-integration-glue-code-for-good-3jcp)
+- [The True Classification of AI: Part 2 - Agentic AI](https://dev.to/claireg/the-true-classification-of-ai-part-2-agentic-ai-1c6j)
+- [Stop calling a service that&#39;s already down: circuit breakers with Resilience4j](https://dev.to/dev48v/stop-calling-a-service-thats-already-down-circuit-breakers-with-resilience4j-906)
+- [LoRA: Fine-Tune a Giant Model by Training 1% of It](https://dev.to/dev48v/lora-fine-tune-a-giant-model-by-training-1-of-it-2025)
 <!-- BLOG-POST-LIST:END -->
 
