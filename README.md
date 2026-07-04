@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Edges: Using a PNG Alpha Mask on AI-Generated Animations](https://dev.to/raphink/clean-edges-using-a-png-alpha-mask-on-ai-generated-animations-ifb)
-- [🧩 How to Pass a Request Body in a GET Request? Meet the New HTTP QUERY Method &lpar;RFC 10008&rpar;](https://dev.to/rohanshukla/how-to-pass-a-request-body-in-a-get-request-meet-the-new-http-query-method-rfc-10008-32fk)
-- [Adding Homemade TLS to a Homemade Web Server](https://dev.to/dmytro_huz/adding-homemade-tls-to-a-homemade-web-server-1a6d)
-- [We deployed a LangChain agent for a client and it silently failed for two weeks. Here&#39;s what we built to make sure it never happens again.](https://dev.to/hubert8120/we-deployed-a-langchain-agent-for-a-client-and-it-silently-failed-for-two-weeks-heres-what-we-4f3f)
+- [My Journey Into Data Analysis: From Basics to SQL](https://dev.to/nyandiatech/my-journey-into-data-analysis-from-basics-to-sql-57ip)
+- [AWS Lambda MicroVMs: El futuro del cómputo serverless explicado desde cero](https://dev.to/chainiz/aws-lambda-microvms-el-futuro-del-computo-serverless-explicado-desde-cero-1bf4)
+- [Una capa de prompts que se califica a sí misma por resultados, hace A/B testing de sus propias reescrituras, e intercambia al ganador casi sin despliegue](https://dev.to/aws-builders/una-capa-de-prompts-que-se-califica-a-si-misma-por-resultados-hace-ab-testing-de-sus-propias-131d)
+- [Run an enrollment agent from a school&#39;s admissions inbox](https://dev.to/mqasimca/run-an-enrollment-agent-from-a-schools-admissions-inbox-dia)
 <!-- BLOG-POST-LIST:END -->
 
