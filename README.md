@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Building State Machines and Start Building Brains: The Flowork Approach](https://dev.to/alya_mahalini_f05d9953cfa/stop-building-state-machines-and-start-building-brains-the-flowork-approach-24cm)
-- [Bruno — API Client แบบ Git-Native ที่เก็บทุกอย่างเป็นไฟล์](https://dev.to/gophernment/bruno-api-client-aebb-git-native-thiiekbthukyaangepnaifl-4fj4)
-- [Why I Ditched Socket.IO for Raw WebSockets &lpar;And What I Learned&rpar;](https://dev.to/nikhilsharma6/why-i-ditched-socketio-for-raw-websockets-and-what-i-learned-55i6)
-- [I just published Postgres MCP Server in Go!](https://dev.to/akshay_gupta/i-just-published-postgres-mcp-server-in-go-10ab)
+- [Running a mail server on a VPS: what actually keeps you out of spam](https://dev.to/eqvps/running-a-mail-server-on-a-vps-what-actually-keeps-you-out-of-spam-2hop)
+- [🚀 Deploy Your First Website in 30 Minutes — The Absolute Beginner&#39;s Guide](https://dev.to/_b70278078078f44982f07/deploy-your-first-website-in-30-minutes-the-absolute-beginners-guide-3hm9)
+- [Clintech Pico Board: All 48 RP2354B GPIOs in a Pico 2 Footprint](https://dev.to/circuitrocks/clintech-pico-board-all-48-rp2354b-gpios-in-a-pico-2-footprint-2kl1)
+- [WalletConnect in Claude Desktop: Mobile Approval for AI Agent Transactions](https://dev.to/walletguy/walletconnect-in-claude-desktop-mobile-approval-for-ai-agent-transactions-27ho)
 <!-- BLOG-POST-LIST:END -->
 
