@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mall of React: An Uncle-Nephew Guide](https://dev.to/surajrkhonde/the-mall-of-react-an-uncle-nephew-guide-4def)
-- [Can You Build an Alternative to LLMs? 8 Months, ~200 Failed Experiments, One Wall. 2](https://dev.to/teolex2020/can-you-build-an-alternative-to-llms-8-months-200-failed-experiments-one-wall-2-3776)
-- [Query one Apache Iceberg table from Trino, Spark, and DuckDB](https://dev.to/databasin/query-one-apache-iceberg-table-from-trino-spark-and-duckdb-5c1k)
-- [Why v7 UUIDs beat v4 for database keys &lpar;and how to hand-roll both&rpar;](https://dev.to/dev48v/why-v7-uuids-beat-v4-for-database-keys-and-how-to-hand-roll-both-3h4b)
+- [BrowserAct Hit #1 on Product Hunt, So I Decided to Test It 🧙‍♂️](https://dev.to/dev_kiran/browseract-hit-1-on-product-hunt-so-i-decided-to-test-it-96m)
+- [AWS Lightsail Instance for Docker](https://dev.to/acj1971/aws-lightsail-instance-for-docker-4jb8)
+- [Knowing AI Isn&#39;t Enough. Great AI Project Managers Connect Data, Models, and Products](https://dev.to/dainguyen202/toi-nghi-ai-project-manager-gioi-khong-phai-nguoi-biet-ai-ma-la-nguoi-noi-duoc-du-lieu-mo-hinh-58d7)
+- [Parsing Claude Code&#39;s JSONL: patterns for a schema that keeps moving](https://dev.to/tznthou/parsing-claude-codes-jsonl-patterns-for-a-schema-that-keeps-moving-2dcj)
 <!-- BLOG-POST-LIST:END -->
 
