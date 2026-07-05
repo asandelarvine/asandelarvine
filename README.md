@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Retro Systems in 2024: Running Windows 2000 on a DEC Alpha with the New Es40 Fork – A Low-Level Developer Deep Dive](https://dev.to/tamizuddin/retro-systems-in-2024-running-windows-2000-on-a-dec-alpha-with-the-new-es40-fork-a-low-level-3maf)
-- [I Had Never Heard of Cognee. Then I Spent 5 Days Breaking It Wide Open.](https://dev.to/geetansh_vikram_836d7f761/i-had-never-heard-of-cognee-then-i-spent-5-days-breaking-it-wide-open-4j0j)
-- [Write-Intensive Systems: Key Challenges in Distributed Systems](https://dev.to/mquanit/write-intensive-systems-key-challenges-in-scalable-architecture-a3)
-- [Dead Man&#39;s Switch + USB Kill Switch for Linux - Open source defensive security project](https://dev.to/qxnode/dead-mans-switch-usb-kill-switch-for-linux-open-source-defensive-security-project-c8n)
+- [I Let a Bedrock Agent Watch My AWS Bill for 30 Days. Here Is Everything It Caught, Missed, and Made Up](https://dev.to/aws-builders/i-let-a-bedrock-agent-watch-my-aws-bill-for-30-days-here-is-everything-it-caught-missed-and-made-1lde)
+- [The Silent Killer of Edge AI: How to Master Thermal Throttling and Prevent the &quot;Performance Cliff&quot;](https://dev.to/programmingcentral/the-silent-killer-of-edge-ai-how-to-master-thermal-throttling-and-prevent-the-performance-cliff-b2b)
+- [Hi, I&#39;m Sithija Kalhara — Full-Stack Developer &amp; Game Streamer](https://dev.to/sithija_kalhara/hi-im-sithija-kalhara-full-stack-developer-game-streamer-4lo8)
+- [Applying SAST Tools to Infrastructure as Code — A Hands-On Look at Checkov](https://dev.to/mauchoquenachoque/applying-sast-tools-to-infrastructure-as-code-a-hands-on-look-at-checkov-18lh)
 <!-- BLOG-POST-LIST:END -->
 
