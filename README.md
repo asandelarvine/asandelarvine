@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RL Time Constant: The Coil Delay and Back-EMF Calculation Engineers Underestimate](https://dev.to/evgeniikonkin/rl-time-constant-the-coil-delay-and-back-emf-calculation-engineers-underestimate-4994)
-- [Day 98 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-98-of-learning-mern-stack-31ie)
-- [Port Numbers, In Order: Why the List Has Gaps, and the Best Stories Behind the Numbers](https://dev.to/_76130e67067eab4c8510/port-numbers-in-order-why-the-list-has-gaps-and-the-best-stories-behind-the-numbers-5a2a)
-- [Jetson Nano: Ollama &amp; Optimal Quantization](https://dev.to/annavi11arrea1/jetson-nano-ollama-optimal-quantization-2de8)
+- [Retro Systems in 2024: Running Windows 2000 on a DEC Alpha with the New Es40 Fork – A Low-Level Developer Deep Dive](https://dev.to/tamizuddin/retro-systems-in-2024-running-windows-2000-on-a-dec-alpha-with-the-new-es40-fork-a-low-level-3maf)
+- [I Had Never Heard of Cognee. Then I Spent 5 Days Breaking It Wide Open.](https://dev.to/geetansh_vikram_836d7f761/i-had-never-heard-of-cognee-then-i-spent-5-days-breaking-it-wide-open-4j0j)
+- [Write-Intensive Systems: Key Challenges in Distributed Systems](https://dev.to/mquanit/write-intensive-systems-key-challenges-in-scalable-architecture-a3)
+- [Dead Man&#39;s Switch + USB Kill Switch for Linux - Open source defensive security project](https://dev.to/qxnode/dead-mans-switch-usb-kill-switch-for-linux-open-source-defensive-security-project-c8n)
 <!-- BLOG-POST-LIST:END -->
 
