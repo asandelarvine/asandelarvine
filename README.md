@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BrowserAct Hit #1 on Product Hunt, So I Decided to Test It 🧙‍♂️](https://dev.to/dev_kiran/browseract-hit-1-on-product-hunt-so-i-decided-to-test-it-96m)
-- [AWS Lightsail Instance for Docker](https://dev.to/acj1971/aws-lightsail-instance-for-docker-4jb8)
-- [Knowing AI Isn&#39;t Enough. Great AI Project Managers Connect Data, Models, and Products](https://dev.to/dainguyen202/toi-nghi-ai-project-manager-gioi-khong-phai-nguoi-biet-ai-ma-la-nguoi-noi-duoc-du-lieu-mo-hinh-58d7)
-- [Parsing Claude Code&#39;s JSONL: patterns for a schema that keeps moving](https://dev.to/tznthou/parsing-claude-codes-jsonl-patterns-for-a-schema-that-keeps-moving-2dcj)
+- [Ubuntu Agent Starter](https://dev.to/masihmoafi/ubuntu-agent-starter-5768)
+- [Building an Energy Comparator Designed to Be Read by AI Agents Before Humans](https://dev.to/us1929/building-an-energy-comparator-designed-to-be-read-by-ai-agents-before-humans-15ob)
+- [Your Codebase Just Wrote Itself. Terrified Yet?](https://dev.to/prabashanadev/your-codebase-just-wrote-itself-terrified-yet-3i5j)
+- [Built faster with AI and quietly lost the thread on my own systems](https://dev.to/mjmirza/built-faster-with-ai-and-quietly-lost-the-thread-on-my-own-systems-245k)
 <!-- BLOG-POST-LIST:END -->
 
