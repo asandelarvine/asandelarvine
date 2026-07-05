@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ubuntu Agent Starter](https://dev.to/masihmoafi/ubuntu-agent-starter-5768)
-- [Building an Energy Comparator Designed to Be Read by AI Agents Before Humans](https://dev.to/us1929/building-an-energy-comparator-designed-to-be-read-by-ai-agents-before-humans-15ob)
-- [Your Codebase Just Wrote Itself. Terrified Yet?](https://dev.to/prabashanadev/your-codebase-just-wrote-itself-terrified-yet-3i5j)
-- [Built faster with AI and quietly lost the thread on my own systems](https://dev.to/mjmirza/built-faster-with-ai-and-quietly-lost-the-thread-on-my-own-systems-245k)
+- [Site Builder: from one Markdown file to a deployed site in three commands](https://dev.to/mrduguo/site-builder-from-one-markdown-file-to-a-deployed-site-in-three-commands-3682)
+- [👁️ Stop Flying Blind: Implementing Observability Practices in Production &lpar;Python, Prometheus &amp; Grafana&rpar;](https://dev.to/roberto_carloshuamanriv/stop-flying-blind-implementing-observability-practices-in-production-python-prometheus--2p0p)
+- [Why Snap CD: Non-invasive Orchestration](https://dev.to/karlschriek/why-snap-cd-non-invasive-orchestration-3i18)
+- [Why Snap CD: An Extensive Supporting Toolset](https://dev.to/karlschriek/why-snap-cd-an-extensive-supporting-toolset-13dg)
 <!-- BLOG-POST-LIST:END -->
 
