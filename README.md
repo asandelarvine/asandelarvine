@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Let a Bedrock Agent Watch My AWS Bill for 30 Days. Here Is Everything It Caught, Missed, and Made Up](https://dev.to/aws-builders/i-let-a-bedrock-agent-watch-my-aws-bill-for-30-days-here-is-everything-it-caught-missed-and-made-1lde)
-- [The Silent Killer of Edge AI: How to Master Thermal Throttling and Prevent the &quot;Performance Cliff&quot;](https://dev.to/programmingcentral/the-silent-killer-of-edge-ai-how-to-master-thermal-throttling-and-prevent-the-performance-cliff-b2b)
-- [Hi, I&#39;m Sithija Kalhara — Full-Stack Developer &amp; Game Streamer](https://dev.to/sithija_kalhara/hi-im-sithija-kalhara-full-stack-developer-game-streamer-4lo8)
-- [Applying SAST Tools to Infrastructure as Code — A Hands-On Look at Checkov](https://dev.to/mauchoquenachoque/applying-sast-tools-to-infrastructure-as-code-a-hands-on-look-at-checkov-18lh)
+- [From Angular.js to Fine-Grained Reactivity: Part 2 — The JS Proxy Runtime](https://dev.to/straccia17/from-angularjs-to-fine-grained-reactivity-part-2-the-js-proxy-runtime-2m60)
+- [Reverse Engineering is so cool](https://dev.to/sh4man/reverse-engineering-is-so-cool-22cl)
+- [The Second Brain They Can’t Subpoena: Local RAG on a Pi 5](https://dev.to/numbpill3d/the-second-brain-they-cant-subpoena-local-rag-on-a-pi-5-3374)
+- [What AGENTS.md Gives Coding Agents That README Files Do Not](https://dev.to/anilmuppalla/what-agentsmd-gives-coding-agents-that-readme-files-do-not-412k)
 <!-- BLOG-POST-LIST:END -->
 
