@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Site Builder: from one Markdown file to a deployed site in three commands](https://dev.to/mrduguo/site-builder-from-one-markdown-file-to-a-deployed-site-in-three-commands-3682)
-- [👁️ Stop Flying Blind: Implementing Observability Practices in Production &lpar;Python, Prometheus &amp; Grafana&rpar;](https://dev.to/roberto_carloshuamanriv/stop-flying-blind-implementing-observability-practices-in-production-python-prometheus--2p0p)
-- [Why Snap CD: Non-invasive Orchestration](https://dev.to/karlschriek/why-snap-cd-non-invasive-orchestration-3i18)
-- [Why Snap CD: An Extensive Supporting Toolset](https://dev.to/karlschriek/why-snap-cd-an-extensive-supporting-toolset-13dg)
+- [RL Time Constant: The Coil Delay and Back-EMF Calculation Engineers Underestimate](https://dev.to/evgeniikonkin/rl-time-constant-the-coil-delay-and-back-emf-calculation-engineers-underestimate-4994)
+- [Day 98 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-98-of-learning-mern-stack-31ie)
+- [Port Numbers, In Order: Why the List Has Gaps, and the Best Stories Behind the Numbers](https://dev.to/_76130e67067eab4c8510/port-numbers-in-order-why-the-list-has-gaps-and-the-best-stories-behind-the-numbers-5a2a)
+- [Jetson Nano: Ollama &amp; Optimal Quantization](https://dev.to/annavi11arrea1/jetson-nano-ollama-optimal-quantization-2de8)
 <!-- BLOG-POST-LIST:END -->
 
