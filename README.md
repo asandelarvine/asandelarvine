@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NodeLLM 1.17: MCP Sampling, Concurrent Tool Execution, and Smarter ORM Control](https://dev.to/eshaiju/nodellm-117-mcp-sampling-concurrent-tool-execution-and-smarter-orm-control-dek)
-- [The State of Changelog Tools for Indie SaaS in 2026](https://dev.to/kavinjeya/the-state-of-changelog-tools-for-indie-saas-in-2026-2f22)
-- [AI-DLC: Giving Structure to AI-Assisted Development](https://dev.to/tharindukn/ai-dlc-giving-structure-to-ai-assisted-development-3k4f)
-- [How I built a real-time whale tracker for Polymarket using Node.js and a CLI](https://dev.to/manpreet_brar_264e408885a/how-i-built-a-real-time-whale-tracker-for-polymarket-using-nodejs-and-a-cli-862)
+- [The Mall of React: An Uncle-Nephew Guide](https://dev.to/surajrkhonde/the-mall-of-react-an-uncle-nephew-guide-4def)
+- [Can You Build an Alternative to LLMs? 8 Months, ~200 Failed Experiments, One Wall. 2](https://dev.to/teolex2020/can-you-build-an-alternative-to-llms-8-months-200-failed-experiments-one-wall-2-3776)
+- [Query one Apache Iceberg table from Trino, Spark, and DuckDB](https://dev.to/databasin/query-one-apache-iceberg-table-from-trino-spark-and-duckdb-5c1k)
+- [Why v7 UUIDs beat v4 for database keys &lpar;and how to hand-roll both&rpar;](https://dev.to/dev48v/why-v7-uuids-beat-v4-for-database-keys-and-how-to-hand-roll-both-3h4b)
 <!-- BLOG-POST-LIST:END -->
 
