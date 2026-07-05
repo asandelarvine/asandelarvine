@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey Into Data Analysis: From Basics to SQL](https://dev.to/nyandiatech/my-journey-into-data-analysis-from-basics-to-sql-57ip)
-- [AWS Lambda MicroVMs: El futuro del cómputo serverless explicado desde cero](https://dev.to/chainiz/aws-lambda-microvms-el-futuro-del-computo-serverless-explicado-desde-cero-1bf4)
-- [Una capa de prompts que se califica a sí misma por resultados, hace A/B testing de sus propias reescrituras, e intercambia al ganador casi sin despliegue](https://dev.to/aws-builders/una-capa-de-prompts-que-se-califica-a-si-misma-por-resultados-hace-ab-testing-de-sus-propias-131d)
-- [Run an enrollment agent from a school&#39;s admissions inbox](https://dev.to/mqasimca/run-an-enrollment-agent-from-a-schools-admissions-inbox-dia)
+- [NodeLLM 1.17: MCP Sampling, Concurrent Tool Execution, and Smarter ORM Control](https://dev.to/eshaiju/nodellm-117-mcp-sampling-concurrent-tool-execution-and-smarter-orm-control-dek)
+- [The State of Changelog Tools for Indie SaaS in 2026](https://dev.to/kavinjeya/the-state-of-changelog-tools-for-indie-saas-in-2026-2f22)
+- [AI-DLC: Giving Structure to AI-Assisted Development](https://dev.to/tharindukn/ai-dlc-giving-structure-to-ai-assisted-development-3k4f)
+- [How I built a real-time whale tracker for Polymarket using Node.js and a CLI](https://dev.to/manpreet_brar_264e408885a/how-i-built-a-real-time-whale-tracker-for-polymarket-using-nodejs-and-a-cli-862)
 <!-- BLOG-POST-LIST:END -->
 
