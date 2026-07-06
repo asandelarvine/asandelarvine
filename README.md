@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Simplest Explanation: What a 700-Year-Old Idea Teaches Us About AI](https://dev.to/scott_peterson/the-simplest-explanation-what-a-700-year-old-idea-teaches-us-about-ai-10f4)
-- [DynamoDB adaptive capacity](https://dev.to/dynotable/dynamodb-adaptive-capacity-gif)
-- [Kafka addressing &amp; VPC peering](https://dev.to/conduktor/kafka-addressing-vpc-peering-5f3j)
-- [AI ROBOTICS Coding Discourse](https://dev.to/blazx0/ai-robotics-coding-discourse-449l)
+- [The 4 Best Free Resume Builders in 2026 &lpar;Tested &amp; Compared&rpar;](https://dev.to/gerardo_barrera_538fc60b7/the-4-best-free-resume-builders-in-2026-tested-compared-7jk)
+- [Stop Killing Your Battery: The Ultimate Guide to Android Edge AI Quantization &lpar;INT8 vs. FP16&rpar;](https://dev.to/programmingcentral/stop-killing-your-battery-the-ultimate-guide-to-android-edge-ai-quantization-int8-vs-fp16-121k)
+- [Built a Secure Multi-Vendor Digital Marketplace with Automated Payment Verification](https://dev.to/houssamtah/built-a-secure-multi-vendor-digital-marketplace-with-automated-payment-verification-5dcl)
+- [Bubble or not? The money loop, the token revolt, and why the AI demand is still real](https://dev.to/anishbasnetab/bubble-or-not-the-money-loop-the-token-revolt-and-why-the-ai-demand-is-still-real-1o49)
 <!-- BLOG-POST-LIST:END -->
 
