@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 4 Best Free Resume Builders in 2026 &lpar;Tested &amp; Compared&rpar;](https://dev.to/gerardo_barrera_538fc60b7/the-4-best-free-resume-builders-in-2026-tested-compared-7jk)
-- [Stop Killing Your Battery: The Ultimate Guide to Android Edge AI Quantization &lpar;INT8 vs. FP16&rpar;](https://dev.to/programmingcentral/stop-killing-your-battery-the-ultimate-guide-to-android-edge-ai-quantization-int8-vs-fp16-121k)
-- [Built a Secure Multi-Vendor Digital Marketplace with Automated Payment Verification](https://dev.to/houssamtah/built-a-secure-multi-vendor-digital-marketplace-with-automated-payment-verification-5dcl)
-- [Bubble or not? The money loop, the token revolt, and why the AI demand is still real](https://dev.to/anishbasnetab/bubble-or-not-the-money-loop-the-token-revolt-and-why-the-ai-demand-is-still-real-1o49)
+- [I needed cross-platform screen capture in Rust, so I built pinray](https://dev.to/agasta/i-needed-cross-platform-screen-capture-in-rust-so-i-built-pinray-4gi)
+- [Building VEQRA AI: How I Resolved Enterprise Incidents in 13 Seconds with Qwen3-235B](https://dev.to/nabilfattouch1/building-veqra-ai-how-i-resolved-enterprise-incidents-in-13-seconds-with-qwen3-235b-196d)
+- [Soft Deletes no Laravel: apague sem apagar de verdade](https://dev.to/denisgusto1/soft-deletes-no-laravel-apague-sem-apagar-de-verdade-3po)
+- [Want to keep using Fable 5? Teach Opus and Sonnet to &quot;behave&quot; like it.](https://dev.to/toffy/want-to-keep-using-fable-5-teach-opus-and-sonnet-to-behave-like-it-4kl0)
 <!-- BLOG-POST-LIST:END -->
 
