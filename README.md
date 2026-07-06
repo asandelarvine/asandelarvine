@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Kubernetes RBAC: Roles, RoleBindings, and and Client Certificates](https://dev.to/oyebobs/understanding-kubernetes-rbac-roles-rolebindings-and-and-client-certificates-d97)
-- [The AI Is Fast. The Decisions Are Mine.](https://dev.to/flipslidersand/the-ai-is-fast-the-decisions-are-mine-35p5)
-- [I Opened the APK to Find the 0.46 MiB PackedAssets Could Not Explain](https://dev.to/hano/i-opened-the-apk-to-find-the-046-mib-packedassets-could-not-explain-1f2i)
-- [AWS for Newbies — Episode 3: The Magic Helper Booth](https://dev.to/surajrkhonde/aws-for-newbies-episode-3-the-magic-helper-booth-1583)
+- [The Simplest Explanation: What a 700-Year-Old Idea Teaches Us About AI](https://dev.to/scott_peterson/the-simplest-explanation-what-a-700-year-old-idea-teaches-us-about-ai-10f4)
+- [DynamoDB adaptive capacity](https://dev.to/dynotable/dynamodb-adaptive-capacity-gif)
+- [Kafka addressing &amp; VPC peering](https://dev.to/conduktor/kafka-addressing-vpc-peering-5f3j)
+- [AI ROBOTICS Coding Discourse](https://dev.to/blazx0/ai-robotics-coding-discourse-449l)
 <!-- BLOG-POST-LIST:END -->
 
