@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Angular.js to Fine-Grained Reactivity: Part 2 — The JS Proxy Runtime](https://dev.to/straccia17/from-angularjs-to-fine-grained-reactivity-part-2-the-js-proxy-runtime-2m60)
-- [Reverse Engineering is so cool](https://dev.to/sh4man/reverse-engineering-is-so-cool-22cl)
-- [The Second Brain They Can’t Subpoena: Local RAG on a Pi 5](https://dev.to/numbpill3d/the-second-brain-they-cant-subpoena-local-rag-on-a-pi-5-3374)
-- [What AGENTS.md Gives Coding Agents That README Files Do Not](https://dev.to/anilmuppalla/what-agentsmd-gives-coding-agents-that-readme-files-do-not-412k)
+- [Your AI API key is the first integration test, not the last setup step](https://dev.to/edward_li_71f26791eac62b8/your-ai-api-key-is-the-first-integration-test-not-the-last-setup-step-gci)
+- [El scale-to-zero no sabe contar hasta uno](https://dev.to/authagonal/el-scale-to-zero-no-sabe-contar-hasta-uno-3906)
+- [The Incident Commander Role: Running Incidents Without Chaos](https://dev.to/samson_tanimawo/the-incident-commander-role-running-incidents-without-chaos-17jl)
+- [Scale-to-zero can&#39;t count to one](https://dev.to/authagonal/scale-to-zero-cant-count-to-one-2c29)
 <!-- BLOG-POST-LIST:END -->
 
