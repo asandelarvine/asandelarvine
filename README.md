@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI API key is the first integration test, not the last setup step](https://dev.to/edward_li_71f26791eac62b8/your-ai-api-key-is-the-first-integration-test-not-the-last-setup-step-gci)
-- [El scale-to-zero no sabe contar hasta uno](https://dev.to/authagonal/el-scale-to-zero-no-sabe-contar-hasta-uno-3906)
-- [The Incident Commander Role: Running Incidents Without Chaos](https://dev.to/samson_tanimawo/the-incident-commander-role-running-incidents-without-chaos-17jl)
-- [Scale-to-zero can&#39;t count to one](https://dev.to/authagonal/scale-to-zero-cant-count-to-one-2c29)
+- [7 Must-Have Features in a React Admin Dashboard Template](https://dev.to/lettstartdesign-official/7-must-have-features-in-a-react-admin-dashboard-template-320f)
+- [Applying API Testing Frameworks: Bulletproofing Your REST APIs Against Edge Cases and Bad Actors](https://dev.to/fabrizioperezperalta/applying-api-testing-frameworks-bulletproofing-your-rest-apis-against-edge-cases-and-bad-actors-47d7)
+- [The Mantra to Thrive in the AI Hype](https://dev.to/canro91/the-mantra-to-thrive-in-the-ai-hype-3igd)
+- [Storing your ATTiny program in...EEPROM?](https://dev.to/pikotutorial/storing-your-attiny-program-ineeprom-3on8)
 <!-- BLOG-POST-LIST:END -->
 
