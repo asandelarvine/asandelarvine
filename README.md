@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Must-Have Features in a React Admin Dashboard Template](https://dev.to/lettstartdesign-official/7-must-have-features-in-a-react-admin-dashboard-template-320f)
-- [Applying API Testing Frameworks: Bulletproofing Your REST APIs Against Edge Cases and Bad Actors](https://dev.to/fabrizioperezperalta/applying-api-testing-frameworks-bulletproofing-your-rest-apis-against-edge-cases-and-bad-actors-47d7)
-- [The Mantra to Thrive in the AI Hype](https://dev.to/canro91/the-mantra-to-thrive-in-the-ai-hype-3igd)
-- [Storing your ATTiny program in...EEPROM?](https://dev.to/pikotutorial/storing-your-attiny-program-ineeprom-3on8)
+- [How to Prefetch Across GenericForeignKeys When You Can&#39;t Change the Schema](https://dev.to/acel/how-to-prefetch-across-genericforeignkeys-when-you-cant-change-the-schema-2755)
+- [Kiro for Ruby: Generating Rails Controllers and Models](https://dev.to/kartik_koul_/kiro-for-ruby-generating-rails-controllers-and-models-1coj)
+- [The Gap Between What AI Vendors Promise and What Enterprise Buyers Actually Get](https://dev.to/mirasloan/the-gap-between-what-ai-vendors-promise-and-what-enterprise-buyers-actually-get-22g1)
+- [5 questions for your next platform evaluation 🏗️](https://dev.to/upsun/5-questions-for-your-next-platform-evaluation-2da7)
 <!-- BLOG-POST-LIST:END -->
 
