@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Prefetch Across GenericForeignKeys When You Can&#39;t Change the Schema](https://dev.to/acel/how-to-prefetch-across-genericforeignkeys-when-you-cant-change-the-schema-2755)
-- [Kiro for Ruby: Generating Rails Controllers and Models](https://dev.to/kartik_koul_/kiro-for-ruby-generating-rails-controllers-and-models-1coj)
-- [The Gap Between What AI Vendors Promise and What Enterprise Buyers Actually Get](https://dev.to/mirasloan/the-gap-between-what-ai-vendors-promise-and-what-enterprise-buyers-actually-get-22g1)
-- [5 questions for your next platform evaluation 🏗️](https://dev.to/upsun/5-questions-for-your-next-platform-evaluation-2da7)
+- [Understanding Kubernetes RBAC: Roles, RoleBindings, and and Client Certificates](https://dev.to/oyebobs/understanding-kubernetes-rbac-roles-rolebindings-and-and-client-certificates-d97)
+- [The AI Is Fast. The Decisions Are Mine.](https://dev.to/flipslidersand/the-ai-is-fast-the-decisions-are-mine-35p5)
+- [I Opened the APK to Find the 0.46 MiB PackedAssets Could Not Explain](https://dev.to/hano/i-opened-the-apk-to-find-the-046-mib-packedassets-could-not-explain-1f2i)
+- [AWS for Newbies — Episode 3: The Magic Helper Booth](https://dev.to/surajrkhonde/aws-for-newbies-episode-3-the-magic-helper-booth-1583)
 <!-- BLOG-POST-LIST:END -->
 
