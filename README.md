@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret to On-Device Intelligence: Mastering Weight Pruning and Sparsity for Mobile NPUs](https://dev.to/programmingcentral/the-secret-to-on-device-intelligence-mastering-weight-pruning-and-sparsity-for-mobile-npus-4bb6)
-- [What If Your Project Starter Knew Exactly What You Needed](https://dev.to/moeidheidari/what-if-your-project-starter-knew-exactly-what-you-needed-3gf8)
-- [OfficeCLI: Giving AI Agents the Power to Automate Word, Excel, and PowerPoint](https://dev.to/terminalchai/officecli-giving-ai-agents-the-power-to-automate-word-excel-and-powerpoint-4281)
-- [🚀 We&#39;re Hiring Software Engineers at 10xHire](https://dev.to/shivanshu814/were-hiring-software-engineers-at-10xhire-1g0h)
+- [Pre-allocate Like a Pro](https://dev.to/ssukhpinder/day-2-pre-allocate-like-a-pro-121l)
+- [What I learned building a compliance answer engine that refuses to make things up](https://dev.to/adi_cch/what-i-learned-building-a-compliance-answer-engine-that-refuses-to-make-things-up-42mp)
+- [Coinbase Advanced Trade API vs Kraken API for a Python Trading Bot](https://dev.to/fillbench/coinbase-advanced-trade-api-vs-kraken-api-for-a-python-trading-bot-eeb)
+- [Dev Log: 2026-07-07](https://dev.to/nasrulhazim/dev-log-2026-07-07-3jc2)
 <!-- BLOG-POST-LIST:END -->
 
