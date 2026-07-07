@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TerraUSD Collapsed With $18B in Circulation. Chainlink Proof of Reserve Would Have Caught It Earlier](https://dev.to/0xramprasad/terrausd-collapsed-with-18b-in-circulation-chainlink-proof-of-reserve-would-have-caught-it-earlier-4n3j)
-- [I built a free Azure naming tool that knows every resource type&#39;s rules](https://dev.to/tusharrverma/i-built-a-free-azure-naming-tool-that-knows-every-resource-types-rules-23kf)
-- [Autonomous Robots: With A11 vs Without A11](https://dev.to/__272d48f2ed/autonomous-robots-with-a11-vs-without-a11-6hj)
-- [Title](https://dev.to/enadoc2_temp_cc4da1a52236/title-4pkc)
+- [If AI can do it in minutes, it&#39;s not special.](https://dev.to/canro91/if-ai-can-do-it-in-minutes-its-not-special-269a)
+- [What happens when a PostgreSQL backend crashes?](https://dev.to/franckpachot/what-happens-when-a-postgresql-backend-crashes-3md)
+- [FOR UPDATE SKIP LOCKED: the Postgres feature that saved my digital cloakroom](https://dev.to/philippesj/for-update-skip-locked-the-postgres-feature-that-saved-my-digital-cloakroom-3dm)
+- [Understanding ACME: What I Learned While Debugging HTTPS Certificate Failures](https://dev.to/mohhddhassan/understanding-acme-what-i-learned-while-debugging-https-certificate-failures-12l6)
 <!-- BLOG-POST-LIST:END -->
 
