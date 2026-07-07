@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I needed cross-platform screen capture in Rust, so I built pinray](https://dev.to/agasta/i-needed-cross-platform-screen-capture-in-rust-so-i-built-pinray-4gi)
-- [Building VEQRA AI: How I Resolved Enterprise Incidents in 13 Seconds with Qwen3-235B](https://dev.to/nabilfattouch1/building-veqra-ai-how-i-resolved-enterprise-incidents-in-13-seconds-with-qwen3-235b-196d)
-- [Soft Deletes no Laravel: apague sem apagar de verdade](https://dev.to/denisgusto1/soft-deletes-no-laravel-apague-sem-apagar-de-verdade-3po)
-- [Want to keep using Fable 5? Teach Opus and Sonnet to &quot;behave&quot; like it.](https://dev.to/toffy/want-to-keep-using-fable-5-teach-opus-and-sonnet-to-behave-like-it-4kl0)
+- [Memory Sidecar v3.5.1](https://dev.to/mage0535/memory-sidecar-v351-9dh)
+- [incident response is becoming an agent review workflow](https://dev.to/pvgomes/incident-response-is-becoming-an-agent-review-workflow-4ni)
+- [How I Fixed WSL2&#39;s &quot;100% Packet Loss&quot; Networking Bug in Under 10 Minutes](https://dev.to/jvicmaina/how-i-fixed-wsl2s-100-packet-loss-networking-bug-in-under-10-minutes-110d)
+- [The Blade Gotcha That 500s Your Page: Directives Inside Component Attributes](https://dev.to/nasrulhazim/the-blade-gotcha-that-500s-your-page-directives-inside-component-attributes-5gci)
 <!-- BLOG-POST-LIST:END -->
 
