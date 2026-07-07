@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Sidecar v3.5.1](https://dev.to/mage0535/memory-sidecar-v351-9dh)
-- [incident response is becoming an agent review workflow](https://dev.to/pvgomes/incident-response-is-becoming-an-agent-review-workflow-4ni)
-- [How I Fixed WSL2&#39;s &quot;100% Packet Loss&quot; Networking Bug in Under 10 Minutes](https://dev.to/jvicmaina/how-i-fixed-wsl2s-100-packet-loss-networking-bug-in-under-10-minutes-110d)
-- [The Blade Gotcha That 500s Your Page: Directives Inside Component Attributes](https://dev.to/nasrulhazim/the-blade-gotcha-that-500s-your-page-directives-inside-component-attributes-5gci)
+- [Dev log #10 Kanagawa Dreams and Test Suites: A Week of Refactoring my Neovim and Hardening the Backend](https://dev.to/yashksaini/dev-log-11-kanagawa-dreams-and-test-suites-a-week-of-refactoring-my-neovim-and-hardening-the-nb3)
+- [Fable 5 just left your Claude subscription. Here&#39;s how I keep Opus at that tier.](https://dev.to/clomia_d9be33fb6dacd82fa1/fable-5-just-left-your-claude-subscription-heres-how-i-keep-opus-at-that-tier-3b3j)
+- [What Makes a Residential Proxy Actually &quot;Enterprise-Grade&quot; &lpar;A Technical Buyer&#39;s Checklist&rpar;](https://dev.to/danielk_automat/what-makes-a-residential-proxy-actually-enterprise-grade-a-technical-buyers-checklist-3h9)
+- [Stop Auth Flickers: Edge Middleware in Next.js ⚡](https://dev.to/iprajapatiparesh/stop-auth-flickers-edge-middleware-in-nextjs-5dcb)
 <!-- BLOG-POST-LIST:END -->
 
