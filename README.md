@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Small Node.js Wrapper for LLM API Retries, Timeouts, and Logging](https://dev.to/plasma_01/a-small-nodejs-wrapper-for-llm-api-retries-timeouts-and-logging-ff4)
-- [I didn&#39;t write my n8n node&#39;s 323 operations. I scraped the docs and generated them.](https://dev.to/srcanton/i-didnt-write-my-n8n-nodes-323-operations-i-scraped-the-docs-and-generated-them-1pjn)
-- [2 Bugs That Made Me Question My Life Choices &lpar;And What They Actually Were&rpar;](https://dev.to/kahenda/2-bugs-that-made-me-question-my-life-choices-and-what-they-actually-were-12jc)
-- [The Agent That Knows When Not to Act — Building NeuroScale Autopilot on Qwen Cloud](https://dev.to/sodiqjimoh/the-agent-that-knows-when-not-to-act-building-neuroscale-autopilot-on-qwen-cloud-1lld)
+- [TerraUSD Collapsed With $18B in Circulation. Chainlink Proof of Reserve Would Have Caught It Earlier](https://dev.to/0xramprasad/terrausd-collapsed-with-18b-in-circulation-chainlink-proof-of-reserve-would-have-caught-it-earlier-4n3j)
+- [I built a free Azure naming tool that knows every resource type&#39;s rules](https://dev.to/tusharrverma/i-built-a-free-azure-naming-tool-that-knows-every-resource-types-rules-23kf)
+- [Autonomous Robots: With A11 vs Without A11](https://dev.to/__272d48f2ed/autonomous-robots-with-a11-vs-without-a11-6hj)
+- [Title](https://dev.to/enadoc2_temp_cc4da1a52236/title-4pkc)
 <!-- BLOG-POST-LIST:END -->
 
