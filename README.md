@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello world example with gRPC and Go](https://dev.to/sergioarmgpl/hello-world-example-with-grpc-and-go-9j8)
-- [Day 108 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-108-of-learning-mern-stack-4mh2)
-- [GitHub Agentic Workflows Vulnerable to GitLost Data Leak Exploit](https://dev.to/davekurian/github-agentic-workflows-vulnerable-to-gitlost-data-leak-exploit-4i6m)
-- [We Rewrote VictoriaMetrics in Rust. It Now Beats the Original on Every Benchmark Metric](https://dev.to/softalink/we-rewrote-victoriametrics-in-rust-it-now-beats-the-original-on-every-benchmark-metric-2g62)
+- [The Secret to On-Device Intelligence: Mastering Weight Pruning and Sparsity for Mobile NPUs](https://dev.to/programmingcentral/the-secret-to-on-device-intelligence-mastering-weight-pruning-and-sparsity-for-mobile-npus-4bb6)
+- [What If Your Project Starter Knew Exactly What You Needed](https://dev.to/moeidheidari/what-if-your-project-starter-knew-exactly-what-you-needed-3gf8)
+- [OfficeCLI: Giving AI Agents the Power to Automate Word, Excel, and PowerPoint](https://dev.to/terminalchai/officecli-giving-ai-agents-the-power-to-automate-word-excel-and-powerpoint-4281)
+- [🚀 We&#39;re Hiring Software Engineers at 10xHire](https://dev.to/shivanshu814/were-hiring-software-engineers-at-10xhire-1g0h)
 <!-- BLOG-POST-LIST:END -->
 
