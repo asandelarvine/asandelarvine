@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [If AI can do it in minutes, it&#39;s not special.](https://dev.to/canro91/if-ai-can-do-it-in-minutes-its-not-special-269a)
-- [What happens when a PostgreSQL backend crashes?](https://dev.to/franckpachot/what-happens-when-a-postgresql-backend-crashes-3md)
-- [FOR UPDATE SKIP LOCKED: the Postgres feature that saved my digital cloakroom](https://dev.to/philippesj/for-update-skip-locked-the-postgres-feature-that-saved-my-digital-cloakroom-3dm)
-- [Understanding ACME: What I Learned While Debugging HTTPS Certificate Failures](https://dev.to/mohhddhassan/understanding-acme-what-i-learned-while-debugging-https-certificate-failures-12l6)
+- [Hello world example with gRPC and Go](https://dev.to/sergioarmgpl/hello-world-example-with-grpc-and-go-9j8)
+- [Day 108 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-108-of-learning-mern-stack-4mh2)
+- [GitHub Agentic Workflows Vulnerable to GitLost Data Leak Exploit](https://dev.to/davekurian/github-agentic-workflows-vulnerable-to-gitlost-data-leak-exploit-4i6m)
+- [We Rewrote VictoriaMetrics in Rust. It Now Beats the Original on Every Benchmark Metric](https://dev.to/softalink/we-rewrote-victoriametrics-in-rust-it-now-beats-the-original-on-every-benchmark-metric-2g62)
 <!-- BLOG-POST-LIST:END -->
 
