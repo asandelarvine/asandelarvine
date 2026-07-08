@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ownership: do &quot;temos um rojão na mão&quot; até &quot;não precisa mais pensar nisso&quot;](https://dev.to/he4rt/ownership-do-temos-um-rojao-na-mao-ate-nao-precisa-mais-pensar-nisso-3ki7)
-- [How ICD-10 Codes Map to an HCC / RAF Score &lpar;and Why the Same Code Set Yields Different Scores&rpar;](https://dev.to/vbc_risk_analytics/how-icd-10-codes-map-to-an-hcc-raf-score-and-why-the-same-code-set-yields-different-scores-25l2)
-- [My VM state check reads one line of VBoxManage output, and it&#39;s one character from reading the wrong one](https://dev.to/tiltedlunar123/my-vm-state-check-reads-one-line-of-vboxmanage-output-and-its-one-character-from-reading-the-107g)
-- [CI/CD Pipelines That Actually Work: My Quest Like a DevOps Jedi](https://dev.to/timevolt/cicd-pipelines-that-actually-work-my-quest-like-a-devops-jedi-42le)
+- [Designing B2B SaaS onboarding that converts](https://dev.to/agenyc/designing-b2b-saas-onboarding-that-converts-28eh)
+- [What is a Transient Prop?](https://dev.to/usama_dev/what-is-a-transient-prop-2pkj)
+- [I Rolled Back My MCP Skills Experiment. Here&#39;s What I Learned](https://dev.to/neithergalax/i-rolled-back-my-mcp-skills-experiment-heres-what-i-learned-gje)
+- [Fragment API SDK for Telegram Apps and Bots: A Practical Guide &lpar;Node.js &amp; Python&rpar;](https://dev.to/mystarstg/fragment-api-sdk-for-telegram-apps-and-bots-a-practical-guide-nodejs-python-3bk2)
 <!-- BLOG-POST-LIST:END -->
 
