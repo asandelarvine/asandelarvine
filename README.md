@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;My AI Assistant Could See the Screenshot. Feishu Still Got No Image&quot;](https://dev.to/codekingai/my-ai-assistant-could-see-the-screenshot-feishu-still-got-no-image-2pej)
-- [Old Reddit Users Face Inaccessible World Cup Post; Redirect Link Offers Full Content Access](https://dev.to/jerryskins/old-reddit-users-face-inaccessible-world-cup-post-redirect-link-offers-full-content-access-45d0)
-- [Piscine Survival Guide: What I&#39;d Tell Myself Before Day 1](https://dev.to/kahenda/piscine-survival-guide-what-id-tell-myself-before-day-1-pa2)
-- [The Complete Guide to yait_aichain&#39;s Model Registry](https://dev.to/yait/the-complete-guide-to-yaitaichains-model-registry-2mgc)
+- [Stop Writing Prompts. Start Writing Loops.](https://dev.to/mininglamp/stop-writing-prompts-start-writing-loops-416o)
+- [Why MCP Is Becoming the Standard Layer for AI Integrations &lpar;And Why Your Team Will Eventually Use It&rpar;](https://dev.to/damir-karimov/why-mcp-is-becoming-the-standard-layer-for-ai-integrations-and-why-your-team-will-eventually-use-2pn7)
+- [When Cloud Agent Platforms Pull the Plug, Local Deployment Is the Only Foundation](https://dev.to/mininglamp/when-cloud-agent-platforms-pull-the-plug-local-deployment-is-the-only-foundation-3bjj)
+- [AI-Run Ransomware: The Autopilot Was Impressive, the Pilot Still Booked the Flight](https://dev.to/coridev/ai-run-ransomware-the-autopilot-was-impressive-the-pilot-still-booked-the-flight-348)
 <!-- BLOG-POST-LIST:END -->
 
