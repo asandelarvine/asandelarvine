@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing B2B SaaS onboarding that converts](https://dev.to/agenyc/designing-b2b-saas-onboarding-that-converts-28eh)
-- [What is a Transient Prop?](https://dev.to/usama_dev/what-is-a-transient-prop-2pkj)
-- [I Rolled Back My MCP Skills Experiment. Here&#39;s What I Learned](https://dev.to/neithergalax/i-rolled-back-my-mcp-skills-experiment-heres-what-i-learned-gje)
-- [Fragment API SDK for Telegram Apps and Bots: A Practical Guide &lpar;Node.js &amp; Python&rpar;](https://dev.to/mystarstg/fragment-api-sdk-for-telegram-apps-and-bots-a-practical-guide-nodejs-python-3bk2)
+- [How AI is Changing the Work of Blockchain Engineers: Writing Code Faster or Making Mistakes Faster?](https://dev.to/vlad_prtrovich_ebf76a4c6f/how-ai-is-changing-the-work-of-blockchain-engineers-writing-code-faster-or-making-mistakes-faster-44an)
+- [Why We Open-Sourced Identity Lifecycle Management &lpar;ILM&rpar;](https://dev.to/carolineilm/why-we-open-sourced-identity-lifecycle-management-ilm-5f6g)
+- [I Built a PDF Report Generator for NVIDIA SkillSpector Because AI Skills Need Better Security Reviews](https://dev.to/mbahubaishi/i-built-a-pdf-report-generator-for-nvidia-skillspector-because-ai-skills-need-better-security-8c9)
+- [Evident: Proving Digital Ownership Without Revealing Your Content](https://dev.to/vesmot_dev/evident-proving-digital-ownership-without-revealing-your-content-286h)
 <!-- BLOG-POST-LIST:END -->
 
