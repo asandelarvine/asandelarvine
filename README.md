@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pre-allocate Like a Pro](https://dev.to/ssukhpinder/day-2-pre-allocate-like-a-pro-121l)
-- [What I learned building a compliance answer engine that refuses to make things up](https://dev.to/adi_cch/what-i-learned-building-a-compliance-answer-engine-that-refuses-to-make-things-up-42mp)
-- [Coinbase Advanced Trade API vs Kraken API for a Python Trading Bot](https://dev.to/fillbench/coinbase-advanced-trade-api-vs-kraken-api-for-a-python-trading-bot-eeb)
-- [Dev Log: 2026-07-07](https://dev.to/nasrulhazim/dev-log-2026-07-07-3jc2)
+- [Nuxt In 2026: The Vue Full-Stack Framework That Deserves More Attention](https://dev.to/nazar-boyko/nuxt-in-2026-the-vue-full-stack-framework-that-deserves-more-attention-546k)
+- [Treat the Context Window Like a Budget, Not a Junk Drawer](https://dev.to/orieken/treat-the-context-window-like-a-budget-not-a-junk-drawer-5602)
+- [GEO for Developers: Get Cited by ChatGPT and Perplexity](https://dev.to/swapnoneel123/geo-for-developers-get-cited-by-chatgpt-and-perplexity-34mf)
+- [Response to &#39;gVisor vs Firecracker for AI Agent Sandboxing&#39; — what we learned auditing 8,764 MCP servers](https://dev.to/edison_flores_6d2cd381b13/response-to-gvisor-vs-firecracker-for-ai-agent-sandboxing-what-we-learned-auditing-8764-mcp-4p05)
 <!-- BLOG-POST-LIST:END -->
 
