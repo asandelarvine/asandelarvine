@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Nuxt In 2026: The Vue Full-Stack Framework That Deserves More Attention](https://dev.to/nazar-boyko/nuxt-in-2026-the-vue-full-stack-framework-that-deserves-more-attention-546k)
-- [Treat the Context Window Like a Budget, Not a Junk Drawer](https://dev.to/orieken/treat-the-context-window-like-a-budget-not-a-junk-drawer-5602)
-- [GEO for Developers: Get Cited by ChatGPT and Perplexity](https://dev.to/swapnoneel123/geo-for-developers-get-cited-by-chatgpt-and-perplexity-34mf)
-- [Response to &#39;gVisor vs Firecracker for AI Agent Sandboxing&#39; — what we learned auditing 8,764 MCP servers](https://dev.to/edison_flores_6d2cd381b13/response-to-gvisor-vs-firecracker-for-ai-agent-sandboxing-what-we-learned-auditing-8764-mcp-4p05)
+- [Building an Agentic OS: A Complete End-to-End Guide for Autonomous AI Engineering Workflows](https://dev.to/saitarrun/building-an-agentic-os-a-complete-end-to-end-guide-for-autonomous-ai-engineering-workflows-25dk)
+- [border-shape is the property clip-path always owed you](https://dev.to/leobaniak/border-shape-is-the-property-clip-path-always-owed-you-nkc)
+- [Logging Into the Higgsfield CLI on a Server With No Browser](https://dev.to/henry_dan_81513dd35a2f540/logging-into-the-higgsfield-cli-on-a-server-with-no-browser-34gi)
+- [idmix: A Better Alternative to Sqids for Structured Access Keys](https://dev.to/vanni_fan/idmix-a-better-alternative-to-sqids-for-structured-access-keys-4a75)
 <!-- BLOG-POST-LIST:END -->
 
