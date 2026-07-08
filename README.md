@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Agentic OS: A Complete End-to-End Guide for Autonomous AI Engineering Workflows](https://dev.to/saitarrun/building-an-agentic-os-a-complete-end-to-end-guide-for-autonomous-ai-engineering-workflows-25dk)
-- [border-shape is the property clip-path always owed you](https://dev.to/leobaniak/border-shape-is-the-property-clip-path-always-owed-you-nkc)
-- [Logging Into the Higgsfield CLI on a Server With No Browser](https://dev.to/henry_dan_81513dd35a2f540/logging-into-the-higgsfield-cli-on-a-server-with-no-browser-34gi)
-- [idmix: A Better Alternative to Sqids for Structured Access Keys](https://dev.to/vanni_fan/idmix-a-better-alternative-to-sqids-for-structured-access-keys-4a75)
+- [&quot;My AI Assistant Could See the Screenshot. Feishu Still Got No Image&quot;](https://dev.to/codekingai/my-ai-assistant-could-see-the-screenshot-feishu-still-got-no-image-2pej)
+- [Old Reddit Users Face Inaccessible World Cup Post; Redirect Link Offers Full Content Access](https://dev.to/jerryskins/old-reddit-users-face-inaccessible-world-cup-post-redirect-link-offers-full-content-access-45d0)
+- [Piscine Survival Guide: What I&#39;d Tell Myself Before Day 1](https://dev.to/kahenda/piscine-survival-guide-what-id-tell-myself-before-day-1-pa2)
+- [The Complete Guide to yait_aichain&#39;s Model Registry](https://dev.to/yait/the-complete-guide-to-yaitaichains-model-registry-2mgc)
 <!-- BLOG-POST-LIST:END -->
 
