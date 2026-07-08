@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing Prompts. Start Writing Loops.](https://dev.to/mininglamp/stop-writing-prompts-start-writing-loops-416o)
-- [Why MCP Is Becoming the Standard Layer for AI Integrations &lpar;And Why Your Team Will Eventually Use It&rpar;](https://dev.to/damir-karimov/why-mcp-is-becoming-the-standard-layer-for-ai-integrations-and-why-your-team-will-eventually-use-2pn7)
-- [When Cloud Agent Platforms Pull the Plug, Local Deployment Is the Only Foundation](https://dev.to/mininglamp/when-cloud-agent-platforms-pull-the-plug-local-deployment-is-the-only-foundation-3bjj)
-- [AI-Run Ransomware: The Autopilot Was Impressive, the Pilot Still Booked the Flight](https://dev.to/coridev/ai-run-ransomware-the-autopilot-was-impressive-the-pilot-still-booked-the-flight-348)
+- [Best Railway Alternatives for AI Apps in 2026](https://dev.to/engineeringjournal/best-railway-alternatives-for-ai-apps-in-2026-4h)
+- [habit of small talks in the time of AI](https://dev.to/arenukvern/habit-of-small-talks-in-the-time-of-ai-29kb)
+- [Building Syllabix: An AI Lesson Plan Generator for Nigerian Teachers](https://dev.to/bukarr/building-syllabix-an-ai-lesson-plan-generator-for-nigerian-teachers-3n1p)
+- [Agent Slugs Are the Smallest Handoff Key Between APC and APX](https://dev.to/agentprojectcontext/agent-slugs-are-the-smallest-handoff-key-between-apc-and-apx-dom)
 <!-- BLOG-POST-LIST:END -->
 
