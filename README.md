@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Railway Alternatives for AI Apps in 2026](https://dev.to/engineeringjournal/best-railway-alternatives-for-ai-apps-in-2026-4h)
-- [habit of small talks in the time of AI](https://dev.to/arenukvern/habit-of-small-talks-in-the-time-of-ai-29kb)
-- [Building Syllabix: An AI Lesson Plan Generator for Nigerian Teachers](https://dev.to/bukarr/building-syllabix-an-ai-lesson-plan-generator-for-nigerian-teachers-3n1p)
-- [Agent Slugs Are the Smallest Handoff Key Between APC and APX](https://dev.to/agentprojectcontext/agent-slugs-are-the-smallest-handoff-key-between-apc-and-apx-dom)
+- [Escalation Policies: How to Route Alerts Without Waking Everyone](https://dev.to/devhelm/escalation-policies-how-to-route-alerts-without-waking-everyone-1en7)
+- [On-Call Engineer Burnout: How to Build Sustainable Rotations](https://dev.to/devhelm/on-call-engineer-burnout-how-to-build-sustainable-rotations-51m)
+- [Best Cloud Monitoring Tools in 2026: A Developer&#39;s Honest Comparison](https://dev.to/devhelm/best-cloud-monitoring-tools-in-2026-a-developers-honest-comparison-2dn1)
+- [Device Integrity And App Review: RASP, Attestation, And Asking For Ratings Right](https://dev.to/codenameone/device-integrity-and-app-review-rasp-attestation-and-asking-for-ratings-right-2n1j)
 <!-- BLOG-POST-LIST:END -->
 
