@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Changing the Work of Blockchain Engineers: Writing Code Faster or Making Mistakes Faster?](https://dev.to/vlad_prtrovich_ebf76a4c6f/how-ai-is-changing-the-work-of-blockchain-engineers-writing-code-faster-or-making-mistakes-faster-44an)
-- [Why We Open-Sourced Identity Lifecycle Management &lpar;ILM&rpar;](https://dev.to/carolineilm/why-we-open-sourced-identity-lifecycle-management-ilm-5f6g)
-- [I Built a PDF Report Generator for NVIDIA SkillSpector Because AI Skills Need Better Security Reviews](https://dev.to/mbahubaishi/i-built-a-pdf-report-generator-for-nvidia-skillspector-because-ai-skills-need-better-security-8c9)
-- [Evident: Proving Digital Ownership Without Revealing Your Content](https://dev.to/vesmot_dev/evident-proving-digital-ownership-without-revealing-your-content-286h)
+- [What Is Vibe Coding? How AI Builds Games From Scratch](https://dev.to/vibearcade/what-is-vibe-coding-how-ai-builds-games-from-scratch-40bh)
+- [HalluSquatting: How Attackers Turn AI Coding Agents Into a Botnet Without Touching a Single Victim](https://dev.to/coridev/hallusquatting-how-attackers-turn-ai-coding-agents-into-a-botnet-without-touching-a-single-victim-3fpm)
+- [DEV&#39;s Summer Bug Smash Launches on July 14. Register Now!](https://dev.to/devteam/devs-summer-bug-smash-launches-on-july-14-register-now-3g2n)
+- [Tanstack Router + Vite race condition in filewatcher &lpar;EPERM&rpar;](https://dev.to/flyingduck92/tanstack-router-vite-race-condition-in-filewatcher-2lmh)
 <!-- BLOG-POST-LIST:END -->
 
