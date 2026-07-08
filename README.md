@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Escalation Policies: How to Route Alerts Without Waking Everyone](https://dev.to/devhelm/escalation-policies-how-to-route-alerts-without-waking-everyone-1en7)
-- [On-Call Engineer Burnout: How to Build Sustainable Rotations](https://dev.to/devhelm/on-call-engineer-burnout-how-to-build-sustainable-rotations-51m)
-- [Best Cloud Monitoring Tools in 2026: A Developer&#39;s Honest Comparison](https://dev.to/devhelm/best-cloud-monitoring-tools-in-2026-a-developers-honest-comparison-2dn1)
-- [Device Integrity And App Review: RASP, Attestation, And Asking For Ratings Right](https://dev.to/codenameone/device-integrity-and-app-review-rasp-attestation-and-asking-for-ratings-right-2n1j)
+- [Ownership: do &quot;temos um rojão na mão&quot; até &quot;não precisa mais pensar nisso&quot;](https://dev.to/he4rt/ownership-do-temos-um-rojao-na-mao-ate-nao-precisa-mais-pensar-nisso-3ki7)
+- [How ICD-10 Codes Map to an HCC / RAF Score &lpar;and Why the Same Code Set Yields Different Scores&rpar;](https://dev.to/vbc_risk_analytics/how-icd-10-codes-map-to-an-hcc-raf-score-and-why-the-same-code-set-yields-different-scores-25l2)
+- [My VM state check reads one line of VBoxManage output, and it&#39;s one character from reading the wrong one](https://dev.to/tiltedlunar123/my-vm-state-check-reads-one-line-of-vboxmanage-output-and-its-one-character-from-reading-the-107g)
+- [CI/CD Pipelines That Actually Work: My Quest Like a DevOps Jedi](https://dev.to/timevolt/cicd-pipelines-that-actually-work-my-quest-like-a-devops-jedi-42le)
 <!-- BLOG-POST-LIST:END -->
 
