@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Installing GBase 8a Cluster with a Non‑Default SSH Port](https://dev.to/michaelfv/installing-gbase-8a-cluster-with-a-non-default-ssh-port-293l)
-- [Governing AI agents with Microsoft Entra Agent ID and Agent 365](https://dev.to/stepbysteptocloud/governing-ai-agents-with-microsoft-entra-agent-id-and-agent-365-3a7g)
-- [Open-ended delegation froze 8 of 13 people. Here&#39;s what unfroze them](https://dev.to/nomurasan/open-ended-delegation-froze-8-of-13-people-heres-what-unfroze-them-3cle)
-- [&quot;Back&quot; to move forward](https://dev.to/thallred_/back-to-move-forward-5dag)
+- [Golden Images com Packer + Ansible: como automatizamos provisionamento e centralizamos configurações](https://dev.to/kevinfinalboss/golden-images-com-packer-ansible-como-automatizamos-provisionamento-e-centralizamos-configuracoes-4689)
+- [The 3 Types of AI Users Dominating the Software Engineering Landscape](https://dev.to/konark_13/the-3-types-of-ai-users-dominating-the-software-engineering-landscape-3go5)
+- [Why Most AI Prompts for Developers Don&#39;t Work &lpar;and How to Fix Them&rpar;](https://dev.to/marcgil_dev/why-most-ai-prompts-for-developers-dont-work-and-how-to-fix-them-5a9)
+- [Day 1 - Basics of HTML &amp; CSS](https://dev.to/abimanyu_p_9e75124634d2a4/day-1-basics-of-html-css-3cai)
 <!-- BLOG-POST-LIST:END -->
 
