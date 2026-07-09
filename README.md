@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Golden Images com Packer + Ansible: como automatizamos provisionamento e centralizamos configurações](https://dev.to/kevinfinalboss/golden-images-com-packer-ansible-como-automatizamos-provisionamento-e-centralizamos-configuracoes-4689)
-- [The 3 Types of AI Users Dominating the Software Engineering Landscape](https://dev.to/konark_13/the-3-types-of-ai-users-dominating-the-software-engineering-landscape-3go5)
-- [Why Most AI Prompts for Developers Don&#39;t Work &lpar;and How to Fix Them&rpar;](https://dev.to/marcgil_dev/why-most-ai-prompts-for-developers-dont-work-and-how-to-fix-them-5a9)
-- [Day 1 - Basics of HTML &amp; CSS](https://dev.to/abimanyu_p_9e75124634d2a4/day-1-basics-of-html-css-3cai)
+- [trelix v1.0 to v2.7: When &quot;It Works&quot; Meets &quot;It Scales&quot;](https://dev.to/sai_ram_0000/trelix-v10-to-v27-when-it-works-meets-it-scales-2f25)
+- [Puppetlabs Modules Roundup – June 2026](https://dev.to/puppet/puppetlabs-modules-roundup-june-2026-23da)
+- [iOS Location Spoofer: The Pros and Cons of Non-Jailbroken GPS Manipulation](https://dev.to/dd8888/ios-location-spoofer-the-pros-and-cons-of-non-jailbroken-gps-manipulation-2ndo)
+- [Forget the $5,000 Bootcamp: The Definitive, Open-Source AI &amp; Data Engineering Syllabus for 2026](https://dev.to/shweta_mishra_b3c97874de9/forget-the-5000-bootcamp-the-definitive-open-source-ai-data-engineering-syllabus-for-2026-c98)
 <!-- BLOG-POST-LIST:END -->
 
