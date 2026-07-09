@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Vibe Coding? How AI Builds Games From Scratch](https://dev.to/vibearcade/what-is-vibe-coding-how-ai-builds-games-from-scratch-40bh)
-- [HalluSquatting: How Attackers Turn AI Coding Agents Into a Botnet Without Touching a Single Victim](https://dev.to/coridev/hallusquatting-how-attackers-turn-ai-coding-agents-into-a-botnet-without-touching-a-single-victim-3fpm)
-- [DEV&#39;s Summer Bug Smash Launches on July 14. Register Now!](https://dev.to/devteam/devs-summer-bug-smash-launches-on-july-14-register-now-3g2n)
-- [Tanstack Router + Vite race condition in filewatcher &lpar;EPERM&rpar;](https://dev.to/flyingduck92/tanstack-router-vite-race-condition-in-filewatcher-2lmh)
+- [Building Better Front-End Code with Modern Web Guidance](https://dev.to/tipusultandev/building-better-front-end-code-with-modern-web-guidance-2jj2)
+- [Why Your ChatGPT Answers Feel Generic &lpar;It&#39;s Not the Model&#39;s Fault&rpar;](https://dev.to/kaelctu3/why-your-chatgpt-answers-feel-generic-its-not-the-models-fault-3mcf)
+- [用 FROST 五维元模型构建可治理的多 Agent 系统：从零到一的代码教程](https://dev.to/llimage/yong-frost-wu-wei-yuan-mo-xing-gou-jian-ke-zhi-li-de-duo-agent-xi-tong-cong-ling-dao-de-dai-ma-jiao-cheng-5f42)
+- [Deciding to Appear: One Year of Shifting into Development](https://dev.to/andrs_ricardofloresvel/deciding-to-appear-one-year-of-shifting-into-development-40dm)
 <!-- BLOG-POST-LIST:END -->
 
