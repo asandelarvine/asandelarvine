@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Optimization to Protection: Adding a Security and Governance Agent to Your Snowflake Multi-Agent Team &lpar;Part 3&rpar;](https://dev.to/swaroop_krishna_e2f4b83b2/from-optimization-to-protection-adding-a-security-and-governance-agent-to-your-snowflake-369f)
-- [Why I Love the Word &quot;Pivot&quot;](https://dev.to/an12s3/why-i-love-the-word-pivot-2f69)
-- [Our Journey to GSSoC 2026: Omnikon&#39;s Repository Has Been Selected! 🎉](https://dev.to/rishibyte/our-journey-to-gssoc-2026-omnikons-repository-has-been-selected-23le)
-- [Chrome Built-In AI APIs: A Hands-On Guide to Language Detection, Translation, Summarization and Writing Assistance](https://dev.to/phalgunv/chrome-built-in-ai-apis-a-hands-on-guide-to-language-detection-translation-summarization-and-114k)
+- [Everyone on the team is running agents. Nobody&#39;s running the same plan.](https://dev.to/henrypoydar/everyone-on-the-team-is-running-agents-nobodys-running-the-same-plan-37oo)
+- [3 Claude Code habits that were quietly costing me &lpar;and the fixes I actually run&rpar;](https://dev.to/jdiz00/3-claude-code-habits-that-were-quietly-costing-me-and-the-fixes-i-actually-run-1ahn)
+- [I got tired of Django being left behind in UI, so I built a shadcn/ui equivalent.](https://dev.to/josephjbassey/i-got-tired-of-django-being-left-behind-in-ui-so-i-built-a-shadcnui-equivalent-3b6e)
+- [AI Agents Cheat on Pull Requests. I Mined 327 of Them to Prove It.](https://dev.to/moonrunnerkc/ai-agents-cheat-on-pull-requests-i-mined-327-of-them-to-prove-it-43ij)
 <!-- BLOG-POST-LIST:END -->
 
