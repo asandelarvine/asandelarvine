@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [trelix v1.0 to v2.7: When &quot;It Works&quot; Meets &quot;It Scales&quot;](https://dev.to/sai_ram_0000/trelix-v10-to-v27-when-it-works-meets-it-scales-2f25)
-- [Puppetlabs Modules Roundup – June 2026](https://dev.to/puppet/puppetlabs-modules-roundup-june-2026-23da)
-- [iOS Location Spoofer: The Pros and Cons of Non-Jailbroken GPS Manipulation](https://dev.to/dd8888/ios-location-spoofer-the-pros-and-cons-of-non-jailbroken-gps-manipulation-2ndo)
-- [Forget the $5,000 Bootcamp: The Definitive, Open-Source AI &amp; Data Engineering Syllabus for 2026](https://dev.to/shweta_mishra_b3c97874de9/forget-the-5000-bootcamp-the-definitive-open-source-ai-data-engineering-syllabus-for-2026-c98)
+- [From Optimization to Protection: Adding a Security and Governance Agent to Your Snowflake Multi-Agent Team &lpar;Part 3&rpar;](https://dev.to/swaroop_krishna_e2f4b83b2/from-optimization-to-protection-adding-a-security-and-governance-agent-to-your-snowflake-369f)
+- [Why I Love the Word &quot;Pivot&quot;](https://dev.to/an12s3/why-i-love-the-word-pivot-2f69)
+- [Our Journey to GSSoC 2026: Omnikon&#39;s Repository Has Been Selected! 🎉](https://dev.to/rishibyte/our-journey-to-gssoc-2026-omnikons-repository-has-been-selected-23le)
+- [Chrome Built-In AI APIs: A Hands-On Guide to Language Detection, Translation, Summarization and Writing Assistance](https://dev.to/phalgunv/chrome-built-in-ai-apis-a-hands-on-guide-to-language-detection-translation-summarization-and-114k)
 <!-- BLOG-POST-LIST:END -->
 
