@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flawed humans, perfect machines: A new era of self-awareness.](https://dev.to/dimitrisgiannopoulos/flawed-humans-perfect-machines-a-new-era-of-self-awareness-59fp)
-- [Why Every ASP.NET Core Developer Should Learn Clean Architecture](https://dev.to/mian_usman_khalid/why-every-aspnet-core-developer-should-learn-clean-architecture-ho8)
-- [Your Hand-Typed Slop Isn&#39;t Honest. It&#39;s Just Slower.](https://dev.to/dannwaneri/your-hand-typed-slop-isnt-honest-its-just-slower-36ei)
-- [Decorators Are Just Functions. Here Is Proof.](https://dev.to/ameer_abdullah_68d48c8496/decorators-are-just-functions-here-is-proof-5ejh)
+- [Stop Treating Legacy Systems as the Enemy](https://dev.to/improving/stop-treating-legacy-systems-as-the-enemy-4fai)
+- [I Rebuilt My Habit Tracker&#39;s Core Logic as One Hook. Here&#39;s What I Learned.](https://dev.to/alexkazanski/i-rebuilt-my-habit-trackers-core-logic-as-one-hook-heres-what-i-learned-28pl)
+- [The technical reason every Windows lock app fails — and how I fixed it at 13.](https://dev.to/akhourianmolkumar/the-technical-reason-every-windows-lock-app-fails-and-how-i-fixed-it-at-13-2j0n)
+- [EGREGOR-Коллективный разум ИИ на твоём ПК](https://dev.to/vladislavshter1/egregor-kolliektivnyi-razum-ii-na-tvoiom-pk-3eal)
 <!-- BLOG-POST-LIST:END -->
 
