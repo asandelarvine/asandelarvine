@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Treating Legacy Systems as the Enemy](https://dev.to/improving/stop-treating-legacy-systems-as-the-enemy-4fai)
-- [I Rebuilt My Habit Tracker&#39;s Core Logic as One Hook. Here&#39;s What I Learned.](https://dev.to/alexkazanski/i-rebuilt-my-habit-trackers-core-logic-as-one-hook-heres-what-i-learned-28pl)
-- [The technical reason every Windows lock app fails — and how I fixed it at 13.](https://dev.to/akhourianmolkumar/the-technical-reason-every-windows-lock-app-fails-and-how-i-fixed-it-at-13-2j0n)
-- [EGREGOR-Коллективный разум ИИ на твоём ПК](https://dev.to/vladislavshter1/egregor-kolliektivnyi-razum-ii-na-tvoiom-pk-3eal)
+- [Installing GBase 8a Cluster with a Non‑Default SSH Port](https://dev.to/michaelfv/installing-gbase-8a-cluster-with-a-non-default-ssh-port-293l)
+- [Governing AI agents with Microsoft Entra Agent ID and Agent 365](https://dev.to/stepbysteptocloud/governing-ai-agents-with-microsoft-entra-agent-id-and-agent-365-3a7g)
+- [Open-ended delegation froze 8 of 13 people. Here&#39;s what unfroze them](https://dev.to/nomurasan/open-ended-delegation-froze-8-of-13-people-heres-what-unfroze-them-3cle)
+- [&quot;Back&quot; to move forward](https://dev.to/thallred_/back-to-move-forward-5dag)
 <!-- BLOG-POST-LIST:END -->
 
