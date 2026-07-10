@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Track Every LLM Token in Node.js with all-llm-token-tracker](https://dev.to/rajesh_kumarkanumetta_b5/track-every-llm-token-in-nodejs-with-all-llm-token-tracker-2k90)
-- [Four Ways a Refresh Token Request Fails — Only One Means Trouble](https://dev.to/zyvop/four-ways-a-refresh-token-request-fails-only-one-means-trouble-1c7c)
-- [Billing a Bulk Endpoint Where Any Row Might Be Free](https://dev.to/ritusmoikaushik/billing-a-bulk-endpoint-where-any-row-might-be-free-4kik)
-- [Are You Using Coding Agents Like Slot Machines?](https://dev.to/loicboset/are-you-using-coding-agents-like-slot-machines-1cnf)
+- [RivalryFuel: AI Hype Commentary for Any Rivalry](https://dev.to/aniket_saini_7/rivalryfuel-ai-hype-commentary-for-any-rivalry-1303)
+- [AI and the Translators Left Behind](https://dev.to/rawveg/ai-and-the-translators-left-behind-39gm)
+- [How I am using Vue with Typescript 7 today](https://dev.to/nikhilverma/how-i-am-using-vue-with-typescript-7-today-3ge3)
+- [CCIP&#39;s Router Pattern: Why a Single Immutable Contract Per Chain Is the Entire Security Bet](https://dev.to/0xramprasad/ccips-router-pattern-why-a-single-immutable-contract-per-chain-is-the-entire-security-bet-14ba)
 <!-- BLOG-POST-LIST:END -->
 
