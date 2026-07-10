@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GRIND404: I turned my &quot;Passion&quot; for LeetCode into a playable arcade game](https://dev.to/gde/grind404-i-turned-my-passion-for-leetcode-into-a-playable-arcade-game-1hnl)
-- [An Agent That Hunts Bugs in My App While I Sleep](https://dev.to/debs_obrien/an-agent-that-hunts-bugs-in-my-app-while-i-sleep-2fe0)
-- [The Day the Disc Died](https://dev.to/eagledev_/the-day-the-disc-died-180k)
-- [Breaking the Abstraction Tax: Mastering Custom C++ Operations for High-Performance Edge AI on Android](https://dev.to/programmingcentral/breaking-the-abstraction-tax-mastering-custom-c-operations-for-high-performance-edge-ai-on-51g1)
+- [Your Loom App Quietly Became a Thread Pool Again: A Field Guide to Virtual Thread Pinning](https://dev.to/maschiojv/your-loom-app-quietly-became-a-thread-pool-again-a-field-guide-to-virtual-thread-pinning-2a3f)
+- [How I replaced LLM calls with coding agent calls and saved money](https://dev.to/popiol/how-i-replaced-llm-calls-with-coding-agent-calls-and-saved-money-10p7)
+- [From Devnet to Mainnet: What Changes When Your Solana Program Goes Live](https://dev.to/100daysofsolana/from-devnet-to-mainnet-what-changes-when-your-solana-program-goes-live-hg2)
+- [AI Agents: Memory Layers, Test Automation, and Workflow Orchestration](https://dev.to/soytuber/ai-agents-memory-layers-test-automation-and-workflow-orchestration-3oab)
 <!-- BLOG-POST-LIST:END -->
 
