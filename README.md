@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Left of the Loop: Who’s on the Hook?](https://dev.to/aepfli/left-of-the-loop-whos-on-the-hook-51ig)
-- [SOLID](https://dev.to/victorlisbronzo/solid-3hje)
-- [What Indie SaaS Founders Should Monitor Before Users Complain](https://dev.to/captain_cole/what-indie-saas-founders-should-monitor-before-users-complain-1fge)
-- [How I built a Chrome extension that reads Terms of Service using AI — and what I found](https://dev.to/francisco_javiernovesmo/how-i-built-a-chrome-extension-that-reads-terms-of-service-using-ai-and-what-i-found-1mi)
+- [The Shell You Know vs The Shell You Deserve](https://dev.to/lovestaco/the-shell-you-know-vs-the-shell-you-deserve-38pf)
+- [Architecting Sync: Building a Dual-Communication Pipeline Between Kotlin Jetpack Compose and Spring Boot](https://dev.to/raziq_din_bd0274cc2ac748b/architecting-sync-building-a-dual-communication-pipeline-between-kotlin-jetpack-compose-and-spring-34ea)
+- [Writing Code to Watch the Watchers: Log Aggression and Digital Self-Defense](https://dev.to/numbpill3d/writing-code-to-watch-the-watchers-log-aggression-and-digital-self-defense-2fli)
+- [Code or diffusion? A field guide to programmatic image generation](https://dev.to/aws-builders/code-or-diffusion-a-field-guide-to-programmatic-image-generation-2jm7)
 <!-- BLOG-POST-LIST:END -->
 
