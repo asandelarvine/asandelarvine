@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Shell You Know vs The Shell You Deserve](https://dev.to/lovestaco/the-shell-you-know-vs-the-shell-you-deserve-38pf)
-- [Architecting Sync: Building a Dual-Communication Pipeline Between Kotlin Jetpack Compose and Spring Boot](https://dev.to/raziq_din_bd0274cc2ac748b/architecting-sync-building-a-dual-communication-pipeline-between-kotlin-jetpack-compose-and-spring-34ea)
-- [Writing Code to Watch the Watchers: Log Aggression and Digital Self-Defense](https://dev.to/numbpill3d/writing-code-to-watch-the-watchers-log-aggression-and-digital-self-defense-2fli)
-- [Code or diffusion? A field guide to programmatic image generation](https://dev.to/aws-builders/code-or-diffusion-a-field-guide-to-programmatic-image-generation-2jm7)
+- [GRIND404: I turned my &quot;Passion&quot; for LeetCode into a playable arcade game](https://dev.to/gde/grind404-i-turned-my-passion-for-leetcode-into-a-playable-arcade-game-1hnl)
+- [An Agent That Hunts Bugs in My App While I Sleep](https://dev.to/debs_obrien/an-agent-that-hunts-bugs-in-my-app-while-i-sleep-2fe0)
+- [The Day the Disc Died](https://dev.to/eagledev_/the-day-the-disc-died-180k)
+- [Breaking the Abstraction Tax: Mastering Custom C++ Operations for High-Performance Edge AI on Android](https://dev.to/programmingcentral/breaking-the-abstraction-tax-mastering-custom-c-operations-for-high-performance-edge-ai-on-51g1)
 <!-- BLOG-POST-LIST:END -->
 
