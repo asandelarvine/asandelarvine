@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Everyone on the team is running agents. Nobody&#39;s running the same plan.](https://dev.to/henrypoydar/everyone-on-the-team-is-running-agents-nobodys-running-the-same-plan-37oo)
-- [3 Claude Code habits that were quietly costing me &lpar;and the fixes I actually run&rpar;](https://dev.to/jdiz00/3-claude-code-habits-that-were-quietly-costing-me-and-the-fixes-i-actually-run-1ahn)
-- [I got tired of Django being left behind in UI, so I built a shadcn/ui equivalent.](https://dev.to/josephjbassey/i-got-tired-of-django-being-left-behind-in-ui-so-i-built-a-shadcnui-equivalent-3b6e)
-- [AI Agents Cheat on Pull Requests. I Mined 327 of Them to Prove It.](https://dev.to/moonrunnerkc/ai-agents-cheat-on-pull-requests-i-mined-327-of-them-to-prove-it-43ij)
+- [The One-Click Exporter: AI Studio Antigravity, Probed to Its Limits](https://dev.to/gde/the-one-click-exporter-ai-studio-antigravity-probed-to-its-limits-171e)
+- [Hitting the Iceberg REST Catalog Directly: Understanding the Differences Between Glue Data Catalog and S3 Tables](https://dev.to/aws-builders/hitting-the-iceberg-rest-catalog-directly-understanding-the-differences-between-glue-data-catalog-43j8)
+- [Semantic Drift in LLMs: How Archetypal Attractors &lpar;Like “Goblin”&rpar; Emerge and How Structured Reflection Reduces Them](https://dev.to/__272d48f2ed/semantic-drift-in-llms-how-archetypal-attractors-like-goblin-emerge-and-how-structured-445o)
+- [I Did the Math on GPT-5.6. The $2.50 Terra Tier Is the One I&#39;d Ship First.](https://dev.to/tokenmixai/i-did-the-math-on-gpt-56-the-250-terra-tier-is-the-one-id-ship-first-1aja)
 <!-- BLOG-POST-LIST:END -->
 
