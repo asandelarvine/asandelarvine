@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RivalryFuel: AI Hype Commentary for Any Rivalry](https://dev.to/aniket_saini_7/rivalryfuel-ai-hype-commentary-for-any-rivalry-1303)
-- [AI and the Translators Left Behind](https://dev.to/rawveg/ai-and-the-translators-left-behind-39gm)
-- [How I am using Vue with Typescript 7 today](https://dev.to/nikhilverma/how-i-am-using-vue-with-typescript-7-today-3ge3)
-- [CCIP&#39;s Router Pattern: Why a Single Immutable Contract Per Chain Is the Entire Security Bet](https://dev.to/0xramprasad/ccips-router-pattern-why-a-single-immutable-contract-per-chain-is-the-entire-security-bet-14ba)
+- [Why Production Bugs Always Feel Different From Local Bugs?](https://dev.to/hereanwaris/why-production-bugs-always-feel-different-from-local-bugs-3lm1)
+- [Warum eine einzelne KI Ihnen selbstbewusst etwas vorlügt — und ein Rat nicht](https://dev.to/vladislavshter/warum-eine-einzelne-ki-ihnen-selbstbewusst-etwas-vorlugt-und-ein-rat-nicht-2210)
+- [100+ Job Applications, 2 Months, Zero Offers — Why I Started Riding an Uber Delivery Bike](https://dev.to/kushang_tailor/100-job-applications-2-months-zero-offers-why-i-started-riding-an-uber-delivery-bike-h1a)
+- [I Built a Free Privacy-First Text Toolkit That Runs Entirely in Your Browser](https://dev.to/punker/i-built-a-free-privacy-first-text-toolkit-that-runs-entirely-in-your-browser-1448)
 <!-- BLOG-POST-LIST:END -->
 
