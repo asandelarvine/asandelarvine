@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Production Bugs Always Feel Different From Local Bugs?](https://dev.to/hereanwaris/why-production-bugs-always-feel-different-from-local-bugs-3lm1)
-- [Warum eine einzelne KI Ihnen selbstbewusst etwas vorlügt — und ein Rat nicht](https://dev.to/vladislavshter/warum-eine-einzelne-ki-ihnen-selbstbewusst-etwas-vorlugt-und-ein-rat-nicht-2210)
-- [100+ Job Applications, 2 Months, Zero Offers — Why I Started Riding an Uber Delivery Bike](https://dev.to/kushang_tailor/100-job-applications-2-months-zero-offers-why-i-started-riding-an-uber-delivery-bike-h1a)
-- [I Built a Free Privacy-First Text Toolkit That Runs Entirely in Your Browser](https://dev.to/punker/i-built-a-free-privacy-first-text-toolkit-that-runs-entirely-in-your-browser-1448)
+- [Left of the Loop: Who’s on the Hook?](https://dev.to/aepfli/left-of-the-loop-whos-on-the-hook-51ig)
+- [SOLID](https://dev.to/victorlisbronzo/solid-3hje)
+- [What Indie SaaS Founders Should Monitor Before Users Complain](https://dev.to/captain_cole/what-indie-saas-founders-should-monitor-before-users-complain-1fge)
+- [How I built a Chrome extension that reads Terms of Service using AI — and what I found](https://dev.to/francisco_javiernovesmo/how-i-built-a-chrome-extension-that-reads-terms-of-service-using-ai-and-what-i-found-1mi)
 <!-- BLOG-POST-LIST:END -->
 
