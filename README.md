@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Loom App Quietly Became a Thread Pool Again: A Field Guide to Virtual Thread Pinning](https://dev.to/maschiojv/your-loom-app-quietly-became-a-thread-pool-again-a-field-guide-to-virtual-thread-pinning-2a3f)
-- [How I replaced LLM calls with coding agent calls and saved money](https://dev.to/popiol/how-i-replaced-llm-calls-with-coding-agent-calls-and-saved-money-10p7)
-- [From Devnet to Mainnet: What Changes When Your Solana Program Goes Live](https://dev.to/100daysofsolana/from-devnet-to-mainnet-what-changes-when-your-solana-program-goes-live-hg2)
-- [AI Agents: Memory Layers, Test Automation, and Workflow Orchestration](https://dev.to/soytuber/ai-agents-memory-layers-test-automation-and-workflow-orchestration-3oab)
+- [Architecting a background-controlled sound manager that actually survives Doze mode](https://dev.to/haseebthedev0/architecting-a-background-controlled-sound-manager-that-actually-survives-doze-mode-505m)
+- [Stop Building Beautiful Frontends. Build Fast Ones Instead.](https://dev.to/mie_code/stop-building-beautiful-frontends-build-fast-ones-instead-4o49)
+- [Azure AI Search in 2026, how to build a RAG pipeline](https://dev.to/carlosjcastrog/azure-ai-search-in-2026-how-to-build-a-rag-pipeline-43h8)
+- [6 Months For Sentence Lab](https://dev.to/highdesertapps/6-months-for-sentence-lab-5h7p)
 <!-- BLOG-POST-LIST:END -->
 
