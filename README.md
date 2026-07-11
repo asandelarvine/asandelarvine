@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Race Recap Radio — I turned my 10K into a hype sports broadcast](https://dev.to/imkarthikeyan/race-recap-radio-i-turned-my-10k-into-a-hype-sports-broadcast-260j)
-- [From a Broken Side Project OAuth Bug to Enterprise SSO Token Exchange](https://dev.to/asimie/from-a-broken-side-project-oauth-bug-to-enterprise-sso-token-exchange-16hd)
-- [I finally counted my tokens before they hatched](https://dev.to/lovestaco/i-finally-counted-my-tokens-before-they-hatched-32i4)
-- [🧠 Building an Engineering Mindset](https://dev.to/etch_dev/building-an-engineering-mindset-4mdl)
+- [Password Managers: 3 Key Differences for a Secure Choice](https://dev.to/merbayerp/password-managers-3-key-differences-for-a-secure-choice-46b8)
+- [Why iPhone Videos Fail as Telegram Avatars and How I Fixed It](https://dev.to/liveavabot/why-iphone-videos-fail-as-telegram-avatars-and-how-i-fixed-it-22do)
+- [Model Kombat: The LLM Fighting Game!](https://dev.to/unitbuilds_cc/model-kombat-the-llm-fighting-game-2lof)
+- [I got tired of GitHub deleting my traffic stats after 14 days, so I built a local-first alternative 🚀](https://dev.to/rakkunn/i-got-tired-of-github-deleting-my-traffic-stats-after-14-days-so-i-built-a-local-first-alternative-307h)
 <!-- BLOG-POST-LIST:END -->
 
