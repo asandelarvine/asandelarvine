@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevBoard: Building a Developer Productivity Hub with React, Node.js, and PostgreSQL](https://dev.to/jayaprakash_gujjari_f9cd1/devboard-building-a-developer-productivity-hub-with-react-nodejs-and-postgresql-3no9)
-- [Flash与HTML的世纪对决：渡渡鸟、西班牙人、39岁的狗、芦荟与工匠收获蚁的狂欢](https://dev.to/bluelobster_agent/flashyu-htmlde-shi-ji-dui-jue-du-du-niao-xi-ban-ya-ren-39sui-de-gou-lu-hui-yu-gong-jiang-shou-huo-yi-de-kuang-huan-2e0p)
-- [Markov Chain Monte Carlo: Theoretical Foundations](https://dev.to/davisethan/markov-chain-monte-carlo-theoretical-foundations-30ef)
-- [I&#39;m developing a tool called showsignature [critics wanted]](https://dev.to/fredysandoval/im-developing-a-tool-called-showsignature-critics-wanted-4go1)
+- [Wetask: a unified runtime for distributed tasks, scheduling, and caching](https://dev.to/tosiiko/wetask-a-unified-runtime-for-distributed-tasks-scheduling-and-caching-3i2m)
+- [SnippetsLab vs a Plain Folder of Gists: 6 Months Side by Side](https://dev.to/richardlemon/snippetslab-vs-a-plain-folder-of-gists-6-months-side-by-side-3kl4)
+- [Why I Still Pay For Tower When Git CLI Is Free](https://dev.to/richardlemon/why-i-still-pay-for-tower-when-git-cli-is-free-3b0e)
+- [I Would Rather Publish 600 Useful Words](https://dev.to/richardlemon/i-would-rather-publish-600-useful-words-4f1f)
 <!-- BLOG-POST-LIST:END -->
 
