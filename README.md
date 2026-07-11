@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Wetask: a unified runtime for distributed tasks, scheduling, and caching](https://dev.to/tosiiko/wetask-a-unified-runtime-for-distributed-tasks-scheduling-and-caching-3i2m)
-- [SnippetsLab vs a Plain Folder of Gists: 6 Months Side by Side](https://dev.to/richardlemon/snippetslab-vs-a-plain-folder-of-gists-6-months-side-by-side-3kl4)
-- [Why I Still Pay For Tower When Git CLI Is Free](https://dev.to/richardlemon/why-i-still-pay-for-tower-when-git-cli-is-free-3b0e)
-- [I Would Rather Publish 600 Useful Words](https://dev.to/richardlemon/i-would-rather-publish-600-useful-words-4f1f)
+- [How to Hunt a Bug at 10 PM 🌙](https://dev.to/codemaster_121482/how-to-hunt-a-bug-at-10-pm-5gkf)
+- [Beyond AI: The Solitude of the Developer and the Search for True Human Connection](https://dev.to/bumbulik0/beyond-ai-the-solitude-of-the-developer-and-the-search-for-true-human-connection-22i3)
+- [Markdown to HTML: The Fastest Way to Convert Markdown Online](https://dev.to/mdconverthub/markdown-to-html-the-fastest-way-to-convert-markdown-online-46hm)
+- [FoundrGeeks Is Live: Find Your Co-Founder the Intelligent Way](https://dev.to/serjson/foundrgeeks-is-live-find-your-co-founder-the-intelligent-way-4a12)
 <!-- BLOG-POST-LIST:END -->
 
