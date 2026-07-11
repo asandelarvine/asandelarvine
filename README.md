@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From API to GPU, Week 1: Understanding My NVIDIA DGX Spark Environment](https://dev.to/dinesh_kumarramasamy_f6a/from-api-to-gpu-week-1-understanding-my-nvidia-dgx-spark-environment-51c)
-- [Build vs buy: what running your own CAPTCHA-solving stack actually costs](https://dev.to/bshahin/build-vs-buy-what-running-your-own-captcha-solving-stack-actually-costs-4ae3)
-- [Building a Local-First, AI-Agent Powered Trading Workstation in Docker 🚀](https://dev.to/mrhustlex/i-built-tradingspy-a-completely-local-privacy-first-ai-trading-research-assistant-backtester-15kj)
-- [React Server Components: Under the Hood of Streaming and Client Boundaries](https://dev.to/mspk97/react-server-components-under-the-hood-of-streaming-and-client-boundaries-57po)
+- [I built a file-grounded continuity system for my AI German teacher—what am I overcomplicating?](https://dev.to/nr7whfms97/i-built-a-file-grounded-continuity-system-for-my-ai-german-teacher-what-am-i-overcomplicating-i32)
+- [AI Agents &amp; Workflows: Local Deployment, Label Orchestration, Cloud Enablement](https://dev.to/soytuber/ai-agents-workflows-local-deployment-label-orchestration-cloud-enablement-3dao)
+- [Stop Paying AWS Just to Test Your Code Locally](https://dev.to/hammad153/stop-paying-aws-just-to-test-your-code-locally-die)
+- [Linux 7.2 Improves Multi-GPU Displays, M3 Support, Mesa Rusticl Defaults Arm Mali](https://dev.to/soytuber/linux-72-improves-multi-gpu-displays-m3-support-mesa-rusticl-defaults-arm-mali-5g3l)
 <!-- BLOG-POST-LIST:END -->
 
