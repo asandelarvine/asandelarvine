@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Password Managers: 3 Key Differences for a Secure Choice](https://dev.to/merbayerp/password-managers-3-key-differences-for-a-secure-choice-46b8)
-- [Why iPhone Videos Fail as Telegram Avatars and How I Fixed It](https://dev.to/liveavabot/why-iphone-videos-fail-as-telegram-avatars-and-how-i-fixed-it-22do)
-- [Model Kombat: The LLM Fighting Game!](https://dev.to/unitbuilds_cc/model-kombat-the-llm-fighting-game-2lof)
-- [I got tired of GitHub deleting my traffic stats after 14 days, so I built a local-first alternative 🚀](https://dev.to/rakkunn/i-got-tired-of-github-deleting-my-traffic-stats-after-14-days-so-i-built-a-local-first-alternative-307h)
+- [From API to GPU, Week 1: Understanding My NVIDIA DGX Spark Environment](https://dev.to/dinesh_kumarramasamy_f6a/from-api-to-gpu-week-1-understanding-my-nvidia-dgx-spark-environment-51c)
+- [Build vs buy: what running your own CAPTCHA-solving stack actually costs](https://dev.to/bshahin/build-vs-buy-what-running-your-own-captcha-solving-stack-actually-costs-4ae3)
+- [Building a Local-First, AI-Agent Powered Trading Workstation in Docker 🚀](https://dev.to/mrhustlex/i-built-tradingspy-a-completely-local-privacy-first-ai-trading-research-assistant-backtester-15kj)
+- [React Server Components: Under the Hood of Streaming and Client Boundaries](https://dev.to/mspk97/react-server-components-under-the-hood-of-streaming-and-client-boundaries-57po)
 <!-- BLOG-POST-LIST:END -->
 
