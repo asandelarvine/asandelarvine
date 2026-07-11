@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Practice Real-World Testing Scenarios for QA: Challenge 2 - Data Grid Validation and CRUD Operations](https://dev.to/abigail_armijo/practice-real-world-testing-scenarios-for-qa-challenge-2-data-grid-validation-and-crud-operations-50oc)
-- [Most Evals Measure the Wrong Thing](https://dev.to/o96a/most-evals-measure-the-wrong-thing-c76)
-- [Therapy for AI agents: free consultation, 99-cent repair skills](https://dev.to/levelsofself/therapy-for-ai-agents-free-consultation-99-cent-repair-skills-33bh)
-- [Use Xcode MCP Instead of xcodebuild to Save Disk Space and Time in Agentic iOS Development](https://dev.to/isekai_kara_no_dev/-use-xcode-mcp-instead-of-xcodebuild-to-save-disk-space-and-time-in-agentic-ios-development-2m4j)
+- [How to clone a Keycloak realm on the same instance &lpar;fixing &quot;duplicate key value violates unique constraint&quot;&rpar;](https://dev.to/vimukthishohanjay/how-to-clone-a-keycloak-realm-on-the-same-instance-fixing-duplicate-key-value-violates-unique-25ja)
+- [Your Background Subagents Can Leak Secrets — Build the Isolation Model](https://dev.to/terminalblog/your-background-subagents-can-leak-secrets-build-the-isolation-model-c1h)
+- [Tencent&#39;s Hy3 Coding AI Puts Input Tokens at $0.14 Per Million](https://dev.to/terminalblog/tencents-hy3-coding-ai-puts-input-tokens-at-014-per-million-10g1)
+- [Learning Xahau: HookOnV2, NamedHooks, and Transaction Simulation. More Control Over When and How Hooks Fire.](https://dev.to/ekiserrepe/learning-xahau-hookonv2-namedhooks-and-transaction-simulation-more-control-over-when-and-how-2glo)
 <!-- BLOG-POST-LIST:END -->
 
