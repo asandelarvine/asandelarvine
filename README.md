@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to clone a Keycloak realm on the same instance &lpar;fixing &quot;duplicate key value violates unique constraint&quot;&rpar;](https://dev.to/vimukthishohanjay/how-to-clone-a-keycloak-realm-on-the-same-instance-fixing-duplicate-key-value-violates-unique-25ja)
-- [Your Background Subagents Can Leak Secrets — Build the Isolation Model](https://dev.to/terminalblog/your-background-subagents-can-leak-secrets-build-the-isolation-model-c1h)
-- [Tencent&#39;s Hy3 Coding AI Puts Input Tokens at $0.14 Per Million](https://dev.to/terminalblog/tencents-hy3-coding-ai-puts-input-tokens-at-014-per-million-10g1)
-- [Learning Xahau: HookOnV2, NamedHooks, and Transaction Simulation. More Control Over When and How Hooks Fire.](https://dev.to/ekiserrepe/learning-xahau-hookonv2-namedhooks-and-transaction-simulation-more-control-over-when-and-how-2glo)
+- [Race Recap Radio — I turned my 10K into a hype sports broadcast](https://dev.to/imkarthikeyan/race-recap-radio-i-turned-my-10k-into-a-hype-sports-broadcast-260j)
+- [From a Broken Side Project OAuth Bug to Enterprise SSO Token Exchange](https://dev.to/asimie/from-a-broken-side-project-oauth-bug-to-enterprise-sso-token-exchange-16hd)
+- [I finally counted my tokens before they hatched](https://dev.to/lovestaco/i-finally-counted-my-tokens-before-they-hatched-32i4)
+- [🧠 Building an Engineering Mindset](https://dev.to/etch_dev/building-an-engineering-mindset-4mdl)
 <!-- BLOG-POST-LIST:END -->
 
