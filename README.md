@@ -79,9 +79,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a file-grounded continuity system for my AI German teacher—what am I overcomplicating?](https://dev.to/nr7whfms97/i-built-a-file-grounded-continuity-system-for-my-ai-german-teacher-what-am-i-overcomplicating-i32)
-- [AI Agents &amp; Workflows: Local Deployment, Label Orchestration, Cloud Enablement](https://dev.to/soytuber/ai-agents-workflows-local-deployment-label-orchestration-cloud-enablement-3dao)
-- [Stop Paying AWS Just to Test Your Code Locally](https://dev.to/hammad153/stop-paying-aws-just-to-test-your-code-locally-die)
-- [Linux 7.2 Improves Multi-GPU Displays, M3 Support, Mesa Rusticl Defaults Arm Mali](https://dev.to/soytuber/linux-72-improves-multi-gpu-displays-m3-support-mesa-rusticl-defaults-arm-mali-5g3l)
+- [A Backend Engineer&#39;s Field Notes on Cheap AI APIs in 2026](https://dev.to/truelane/a-backend-engineers-field-notes-on-cheap-ai-apis-in-2026-1pop)
+- [Day 15: My AI agent just completed its first multi-app task. It copied my bank balance from my banking app and sent it to Mom on WhatsApp. Two apps. One task. Fully autonomous. Task memory is the key.
+
+👉 github.com/Dexter2344/phone-agent](https://dev.to/okeke_chukwudubem_5f3bf49/day-15-my-ai-agent-just-completed-its-first-multi-app-task-it-copied-my-bank-balance-from-my-4eid)
+- [Project Log #15: My AI Agent Just Completed Its First Multi-App Task](https://dev.to/okeke_chukwudubem_5f3bf49/project-log-15-my-ai-agent-just-completed-its-first-multi-app-task-38n7)
+- [We Analyzed 89 Dead Lifetime Deals. 1 in 8 Died While the Company Was Still Alive.](https://dev.to/dominique_abbey_b2a2f35ee/we-analyzed-89-dead-lifetime-deals-1-in-8-died-while-the-company-was-still-alive-6pe)
 <!-- BLOG-POST-LIST:END -->
 
