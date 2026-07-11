@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [acpdbg: let the agent sit at the debugger 🐛](https://dev.to/phimage/acpdbg-let-the-agent-sit-at-the-debugger-47co)
-- [Cloud Storage: Object vs Block vs File](https://dev.to/sri2614/cloud-storage-object-vs-block-vs-file-17p3)
-- [5 launchd Traps I Hit Running Claude Code Automation 24/7 on macOS](https://dev.to/bokuwalily/5-launchd-traps-i-hit-running-claude-code-automation-247-on-macos-32bi)
-- [Same Symptoms, Different Care](https://dev.to/rawveg/same-symptoms-different-care-4701)
+- [# I built 62 free browser tools in one website — no uploads, no sign-ups, works offline](https://dev.to/sophia_anjum_0509b2bb7049/-i-built-62-free-browser-tools-in-one-website-no-uploads-no-sign-ups-works-offline-3cia)
+- [Passionaut: Turn Any Passion into an AI-Generated 3D Knowledge Atlas](https://dev.to/johnnylemonny/passionaut-turn-any-passion-into-an-ai-generated-3d-knowledge-atlas-25gh)
+- [Will your tracker still exist next year? Switching-cost anxiety, and the one-command exit](https://dev.to/radial/will-your-tracker-still-exist-next-year-switching-cost-anxiety-and-the-one-command-exit-1e5e)
+- [Authorization Explained: What Really Happens Before Your Card Payment Is Approved?](https://dev.to/eunice-js/authorization-explained-what-really-happens-before-your-card-payment-is-approved-3po)
 <!-- BLOG-POST-LIST:END -->
 
