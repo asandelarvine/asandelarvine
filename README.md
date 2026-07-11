@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# I built 62 free browser tools in one website — no uploads, no sign-ups, works offline](https://dev.to/sophia_anjum_0509b2bb7049/-i-built-62-free-browser-tools-in-one-website-no-uploads-no-sign-ups-works-offline-3cia)
-- [Passionaut: Turn Any Passion into an AI-Generated 3D Knowledge Atlas](https://dev.to/johnnylemonny/passionaut-turn-any-passion-into-an-ai-generated-3d-knowledge-atlas-25gh)
-- [Will your tracker still exist next year? Switching-cost anxiety, and the one-command exit](https://dev.to/radial/will-your-tracker-still-exist-next-year-switching-cost-anxiety-and-the-one-command-exit-1e5e)
-- [Authorization Explained: What Really Happens Before Your Card Payment Is Approved?](https://dev.to/eunice-js/authorization-explained-what-really-happens-before-your-card-payment-is-approved-3po)
+- [Practice Real-World Testing Scenarios for QA: Challenge 2 - Data Grid Validation and CRUD Operations](https://dev.to/abigail_armijo/practice-real-world-testing-scenarios-for-qa-challenge-2-data-grid-validation-and-crud-operations-50oc)
+- [Most Evals Measure the Wrong Thing](https://dev.to/o96a/most-evals-measure-the-wrong-thing-c76)
+- [Therapy for AI agents: free consultation, 99-cent repair skills](https://dev.to/levelsofself/therapy-for-ai-agents-free-consultation-99-cent-repair-skills-33bh)
+- [Use Xcode MCP Instead of xcodebuild to Save Disk Space and Time in Agentic iOS Development](https://dev.to/isekai_kara_no_dev/-use-xcode-mcp-instead-of-xcodebuild-to-save-disk-space-and-time-in-agentic-ios-development-2m4j)
 <!-- BLOG-POST-LIST:END -->
 
