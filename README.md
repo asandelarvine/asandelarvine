@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Colibri — รัน GLM-5.2 &lpar;744B MoE&rpar; บนเครื่อง 25GB RAM ด้วย Pure C ไฟล์เดียว](https://dev.to/sarantoon/colibri-ran-glm-52-744b-moe-bnekhruueng-25gb-ram-dwy-pure-c-aiflediiyw-3ae9)
-- [Go Middleware Best Practices in Production &lpar;2026&rpar;](https://dev.to/ohugonnot/go-middleware-best-practices-in-production-2026-1ekj)
-- [Leveling Up My MERN Stack Observability with SigNoz](https://dev.to/sujal_arse/leveling-up-my-mern-stack-observability-with-signoz-19nb)
-- [Class vs Instance Variables: The Mutation Trap That Catches Experienced Developers](https://dev.to/ameer_abdullah_68d48c8496/class-vs-instance-variables-the-mutation-trap-that-catches-experienced-developers-483f)
+- [2022 FIFA Dünya Kupası Finali: Arjantin - Fransa Maçının Taktiksel ve Psikolojik Analizi](https://dev.to/ironman7/2022-fifa-dunya-kupasi-finali-arjantin-fransa-macinin-taktiksel-ve-psikolojik-analizi-2b3e)
+- [Instrument Like a Learning Scientist](https://dev.to/michaeltuszynski/instrument-like-a-learning-scientist-4o47)
+- [Stop Prompting and Start Engineering: Treating LLMs as Unreliable Functions](https://dev.to/ntty/stop-prompting-and-start-engineering-treating-llms-as-unreliable-functions-12fp)
+- [Real-Time Monitoring for AI Agents: Beyond Log Streaming](https://dev.to/albert_zhang_f468830cf0e6/real-time-monitoring-for-ai-agents-beyond-log-streaming-1oal)
 <!-- BLOG-POST-LIST:END -->
 
