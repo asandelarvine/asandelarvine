@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Level Up Your Problem-Solving Like a Jedi: Speed Under Pressure](https://dev.to/timevolt/level-up-your-problem-solving-like-a-jedi-speed-under-pressure-3i70)
-- [Longest Common Prefix &lpar;Easy&rpar; | LeetCode Practice #4](https://dev.to/secondlastsleep/longest-common-prefix-leetcode-practice-4-2ikp)
-- [Data Engineering: The Data Field&#39;s Unknown Child](https://dev.to/khaytorah/data-engineering-the-data-fields-unknown-child-4510)
-- [HTTP QUERY Is Finally Here: Here&#39;s Why It Matters More Than You Think](https://dev.to/georgekobaidze/http-query-is-finally-here-heres-why-it-matters-more-than-you-think-5d5m)
+- [BroncoCTF : Atomic Substitution Theory Writeup](https://dev.to/exploitnotes/broncoctf-atomic-substitution-theory-writeup-1ckd)
+- [NGB Platform v1.3.1: CRM Demo Built with NuGet and npm Packages](https://dev.to/ngbplatform/ngb-platform-v131-crm-demo-built-with-nuget-and-npm-packages-5bfc)
+- [Building KunciMasuk, a Privacy-First SSH Launcher](https://dev.to/msulaimanmisri/building-kuncimasuk-a-privacy-first-ssh-launcher-484a)
+- [BronocCTF : Proper Pwning Writeup](https://dev.to/exploitnotes/bronocctf-proper-pwning-writeup-1h8j)
 <!-- BLOG-POST-LIST:END -->
 
