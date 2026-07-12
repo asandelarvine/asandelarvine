@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2022 FIFA Dünya Kupası Finali: Arjantin - Fransa Maçının Taktiksel ve Psikolojik Analizi](https://dev.to/ironman7/2022-fifa-dunya-kupasi-finali-arjantin-fransa-macinin-taktiksel-ve-psikolojik-analizi-2b3e)
-- [Instrument Like a Learning Scientist](https://dev.to/michaeltuszynski/instrument-like-a-learning-scientist-4o47)
-- [Stop Prompting and Start Engineering: Treating LLMs as Unreliable Functions](https://dev.to/ntty/stop-prompting-and-start-engineering-treating-llms-as-unreliable-functions-12fp)
-- [Real-Time Monitoring for AI Agents: Beyond Log Streaming](https://dev.to/albert_zhang_f468830cf0e6/real-time-monitoring-for-ai-agents-beyond-log-streaming-1oal)
+- [A tiny mini-audit template for AI-built launch pages](https://dev.to/nova_ai_ventures/a-tiny-mini-audit-template-for-ai-built-launch-pages-24f)
+- [A Small Prompt Workflow That Made My AI Image Experiments Easier To Debug](https://dev.to/sopihe/a-small-prompt-workflow-that-made-my-ai-image-experiments-easier-to-debug-1ia2)
+- [What is SapixDB? A living database where data secures itself and every table manages its own data](https://dev.to/allforscience/what-is-sapixdb-a-living-database-where-data-secures-itself-and-every-table-manages-its-own-data-1afl)
+- [六層鐵律：AI 生圖的結構性解法](https://dev.to/yuta_tu_df870be227e99357a/liu-ceng-tie-lu-ai-sheng-tu-de-jie-gou-xing-jie-fa-2ldd)
 <!-- BLOG-POST-LIST:END -->
 
