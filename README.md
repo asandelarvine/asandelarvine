@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [BroncoCTF : Atomic Substitution Theory Writeup](https://dev.to/exploitnotes/broncoctf-atomic-substitution-theory-writeup-1ckd)
-- [NGB Platform v1.3.1: CRM Demo Built with NuGet and npm Packages](https://dev.to/ngbplatform/ngb-platform-v131-crm-demo-built-with-nuget-and-npm-packages-5bfc)
-- [Building KunciMasuk, a Privacy-First SSH Launcher](https://dev.to/msulaimanmisri/building-kuncimasuk-a-privacy-first-ssh-launcher-484a)
-- [BronocCTF : Proper Pwning Writeup](https://dev.to/exploitnotes/bronocctf-proper-pwning-writeup-1h8j)
+- [Building a Three.js 3D Product Configurator for WooCommerce: 4 Things I Didn&#39;t Expect](https://dev.to/noorealam/building-a-threejs-3d-product-configurator-for-woocommerce-4-things-i-didnt-expect-il2)
+- [Commit Chronicles—Your Obsession Leaves a Trail. Mine Gives It a Plot.](https://dev.to/anchildress1/commit-chronicles-your-obsession-leaves-a-trail-mine-gives-it-a-plot-h8j)
+- [Be the right Platform Team](https://dev.to/pouja/be-the-right-platform-team-2nn0)
+- [Claude Code Sends 33k Tokens Before Your Prompt; OpenCode Sends 7k](https://dev.to/terminalblog/claude-code-sends-33k-tokens-before-your-prompt-opencode-sends-7k-4em7)
 <!-- BLOG-POST-LIST:END -->
 
