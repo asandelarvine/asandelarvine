@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CI Health Check: a /ci Skill for Claude Code](https://dev.to/gbti-network/ci-health-check-a-ci-skill-for-claude-code-2njg)
-- [Cómo revisar emails de reactivación trial](https://dev.to/hannahdev56/como-revisar-emails-de-reactivacion-trial-7d)
-- [How to Forward WhatsApp Messages to Telegram &lpar;Without Losing Your Media&rpar;](https://dev.to/alex_gv_24192032990395354/how-to-forward-whatsapp-messages-to-telegram-without-losing-your-media-c4e)
-- [How a &quot;safe&quot; shipping change silently disapproved 621 products in Google Merchant Center](https://dev.to/jasonpun/how-a-safe-shipping-change-silently-disapproved-621-products-in-google-merchant-center-i12)
+- [周日慢读：如果细胞会写日记——FROST家族的记忆传承](https://dev.to/llimage/zhou-ri-man-du-ru-guo-xi-bao-hui-xie-ri-ji-frostjia-zu-de-ji-yi-chuan-cheng-2dnn)
+- [Migrating from Auth0 Rules to Actions: a Practical Guide for Real-World Teams](https://dev.to/rakesh_k/migrating-from-auth0-rules-to-actions-a-practical-guide-for-real-world-teams-32g3)
+- [Detecta si tu modelo de materiales hace trampa con la &#39;huella bibliográfica&#39;](https://dev.to/magopredator/detecta-si-tu-modelo-de-materiales-hace-trampa-con-la-huella-bibliografica-301a)
+- [How I Built ProjectHub: An Embeddable AI Recruiter Assistant That Runs on Free Tiers](https://dev.to/bradleymatera/how-i-built-projecthub-an-embeddable-ai-recruiter-assistant-that-runs-on-free-tiers-bif)
 <!-- BLOG-POST-LIST:END -->
 
