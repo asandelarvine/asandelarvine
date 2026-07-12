@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [EU AI Act compliance as API calls](https://dev.to/moltycel/eu-ai-act-compliance-as-api-calls-43d7)
-- [How to Debug AI API Failures Across Multiple Models](https://dev.to/ye_allen_/how-to-debug-ai-api-failures-across-multiple-models-2cal)
-- [What Happened When I Let Several AI Agents Loose in One Repo](https://dev.to/whynext/what-happened-when-i-let-several-ai-agents-loose-in-one-repo-3eoh)
-- [Equality Operators &lpar;==, !=&rpar; in Java — Part 1](https://dev.to/rajeshbhola1/equality-operators-in-java-part-1-2ajo)
+- [Colibri — รัน GLM-5.2 &lpar;744B MoE&rpar; บนเครื่อง 25GB RAM ด้วย Pure C ไฟล์เดียว](https://dev.to/sarantoon/colibri-ran-glm-52-744b-moe-bnekhruueng-25gb-ram-dwy-pure-c-aiflediiyw-3ae9)
+- [Go Middleware Best Practices in Production &lpar;2026&rpar;](https://dev.to/ohugonnot/go-middleware-best-practices-in-production-2026-1ekj)
+- [Leveling Up My MERN Stack Observability with SigNoz](https://dev.to/sujal_arse/leveling-up-my-mern-stack-observability-with-signoz-19nb)
+- [Class vs Instance Variables: The Mutation Trap That Catches Experienced Developers](https://dev.to/ameer_abdullah_68d48c8496/class-vs-instance-variables-the-mutation-trap-that-catches-experienced-developers-483f)
 <!-- BLOG-POST-LIST:END -->
 
