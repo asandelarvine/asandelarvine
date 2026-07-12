@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your uptime SLA means nothing when the physical process can&#39;t wait for your rollback](https://dev.to/mariusgjerd/your-uptime-sla-means-nothing-when-the-physical-process-cant-wait-for-your-rollback-12i2)
-- [Why this blog exists](https://dev.to/mariusgjerd/why-this-blog-exists-47dc)
-- [CodeForge AI — Turning Passion for Programming into a Smarter Learning Journey.](https://dev.to/sunnyspencer/codeforge-ai-turning-passion-for-programming-into-a-smarter-learning-journey-38nh)
-- [I Read Too Much and Forgot Everything So I Built a Tool That Turns My Annotations Into Something I&#39;ll Actually Reread.](https://dev.to/dynn_f/i-read-too-much-and-forgot-everything-so-i-built-a-tool-that-turns-my-highlights-into-something-2d5k)
+- [Using WebSockets to Convert BTC to USD and Reais &lpar;BRL&rpar;](https://dev.to/rubemfsv/using-websockets-to-convert-btc-to-usd-and-reais-brl-30j0)
+- [RAG - Meta Filtering and Reranking](https://dev.to/ramya_perumal_e93721ef2fa/rag-meta-filtering-and-reranking-22i1)
+- [Kiponos Java SDK 5.0 What’s New — Developer Guide](https://dev.to/kiponos/kiponos-java-sdk-50-whats-new-developer-guide-533m)
+- [The handshake is the easy part. Agent payments still haven&#39;t named the custody split.](https://dev.to/mspro3210/the-handshake-is-the-easy-part-agent-payments-still-havent-named-the-custody-split-472n)
 <!-- BLOG-POST-LIST:END -->
 
