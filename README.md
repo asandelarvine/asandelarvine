@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Using WebSockets to Convert BTC to USD and Reais &lpar;BRL&rpar;](https://dev.to/rubemfsv/using-websockets-to-convert-btc-to-usd-and-reais-brl-30j0)
-- [RAG - Meta Filtering and Reranking](https://dev.to/ramya_perumal_e93721ef2fa/rag-meta-filtering-and-reranking-22i1)
-- [Kiponos Java SDK 5.0 What’s New — Developer Guide](https://dev.to/kiponos/kiponos-java-sdk-50-whats-new-developer-guide-533m)
-- [The handshake is the easy part. Agent payments still haven&#39;t named the custody split.](https://dev.to/mspro3210/the-handshake-is-the-easy-part-agent-payments-still-havent-named-the-custody-split-472n)
+- [Introduction to media streaming: Part 2](https://dev.to/xheghun/introduction-to-media-streaming-part-2-473p)
+- [Meta-Analysis: Between-Study Heterogeneity](https://dev.to/davisethan/meta-analysis-between-study-heterogeneity-28p2)
+- [SDLC in the AI Era with Spec-Driven Development](https://dev.to/hossein_esmati/sdlc-in-the-ai-era-with-spec-driven-development-48fn)
+- [# Why We Built DRM: Stopping Production Incidents Caused by Manual Database Deployments *By Alexey Levin &amp; Eli Shohat, co-founders of D-Band* ---](https://dev.to/dband-drm/-why-we-built-drm-stopping-production-incidents-caused-by-manual-database-deployments-by-alexey-1bnc)
 <!-- BLOG-POST-LIST:END -->
 
