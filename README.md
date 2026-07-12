@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Three.js 3D Product Configurator for WooCommerce: 4 Things I Didn&#39;t Expect](https://dev.to/noorealam/building-a-threejs-3d-product-configurator-for-woocommerce-4-things-i-didnt-expect-il2)
-- [Commit Chronicles—Your Obsession Leaves a Trail. Mine Gives It a Plot.](https://dev.to/anchildress1/commit-chronicles-your-obsession-leaves-a-trail-mine-gives-it-a-plot-h8j)
-- [Be the right Platform Team](https://dev.to/pouja/be-the-right-platform-team-2nn0)
-- [Claude Code Sends 33k Tokens Before Your Prompt; OpenCode Sends 7k](https://dev.to/terminalblog/claude-code-sends-33k-tokens-before-your-prompt-opencode-sends-7k-4em7)
+- [Your uptime SLA means nothing when the physical process can&#39;t wait for your rollback](https://dev.to/mariusgjerd/your-uptime-sla-means-nothing-when-the-physical-process-cant-wait-for-your-rollback-12i2)
+- [Why this blog exists](https://dev.to/mariusgjerd/why-this-blog-exists-47dc)
+- [CodeForge AI — Turning Passion for Programming into a Smarter Learning Journey.](https://dev.to/sunnyspencer/codeforge-ai-turning-passion-for-programming-into-a-smarter-learning-journey-38nh)
+- [I Read Too Much and Forgot Everything So I Built a Tool That Turns My Annotations Into Something I&#39;ll Actually Reread.](https://dev.to/dynn_f/i-read-too-much-and-forgot-everything-so-i-built-a-tool-that-turns-my-highlights-into-something-2d5k)
 <!-- BLOG-POST-LIST:END -->
 
