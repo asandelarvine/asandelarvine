@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A tiny mini-audit template for AI-built launch pages](https://dev.to/nova_ai_ventures/a-tiny-mini-audit-template-for-ai-built-launch-pages-24f)
-- [A Small Prompt Workflow That Made My AI Image Experiments Easier To Debug](https://dev.to/sopihe/a-small-prompt-workflow-that-made-my-ai-image-experiments-easier-to-debug-1ia2)
-- [What is SapixDB? A living database where data secures itself and every table manages its own data](https://dev.to/allforscience/what-is-sapixdb-a-living-database-where-data-secures-itself-and-every-table-manages-its-own-data-1afl)
-- [六層鐵律：AI 生圖的結構性解法](https://dev.to/yuta_tu_df870be227e99357a/liu-ceng-tie-lu-ai-sheng-tu-de-jie-gou-xing-jie-fa-2ldd)
+- [Level Up Your Problem-Solving Like a Jedi: Speed Under Pressure](https://dev.to/timevolt/level-up-your-problem-solving-like-a-jedi-speed-under-pressure-3i70)
+- [Longest Common Prefix &lpar;Easy&rpar; | LeetCode Practice #4](https://dev.to/secondlastsleep/longest-common-prefix-leetcode-practice-4-2ikp)
+- [Data Engineering: The Data Field&#39;s Unknown Child](https://dev.to/khaytorah/data-engineering-the-data-fields-unknown-child-4510)
+- [HTTP QUERY Is Finally Here: Here&#39;s Why It Matters More Than You Think](https://dev.to/georgekobaidze/http-query-is-finally-here-heres-why-it-matters-more-than-you-think-5d5m)
 <!-- BLOG-POST-LIST:END -->
 
