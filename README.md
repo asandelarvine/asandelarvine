@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Commerce And Secrets Without An IAP Tax](https://dev.to/codenameone/commerce-and-secrets-without-an-iap-tax-1n9b)
-- [Skip LinkedIn/Indeed: most companies&#39; job boards have a public JSON API](https://dev.to/ronin13/skip-linkedinindeed-most-companies-job-boards-have-a-public-json-api-48b)
-- [The Solana Program Security Checklist I Wish I&#39;d Had on Day One](https://dev.to/lymah/the-solana-program-security-checklist-i-wish-id-had-on-day-one-1e8l)
-- [Building an Agentic FinOps Platform — Development Environment Setup, Google Antigravity, MCPs and Skills, and ADK Bootstrapping with Agents CLI](https://dev.to/gde/building-an-agentic-finops-platform-development-environment-setup-google-antigravity-mcps-and-4c43)
+- [Rendering JSON-Driven Popups in a Shopify Theme App Extension Without React 🤖](https://dev.to/sazzad90/rendering-json-driven-popups-in-a-shopify-theme-app-extension-without-react-2co0)
+- [SMTP outbound as a first-class citizen: send emails without pip install yagmail](https://dev.to/martin_palopoli/smtp-outbound-as-a-first-class-citizen-send-emails-without-pip-install-yagmail-46dd)
+- [SMTP outbound como ciudadano de primera clase: mandá emails sin pip install yagmail](https://dev.to/martin_palopoli/smtp-outbound-como-ciudadano-de-primera-clase-manda-emails-sin-pip-install-yagmail-1nfa)
+- [Great API docs don&#39;t lead with a parameter table](https://dev.to/jkballa/great-api-docs-dont-lead-with-a-parameter-table-5a43)
 <!-- BLOG-POST-LIST:END -->
 
