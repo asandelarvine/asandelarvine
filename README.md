@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Vibe Is Not a Verdict: I Built a Tool That&#39;s Allowed to Say &#39;I Don&#39;t Know&#39;](https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe)
-- [Developers are not searching for more powerful Claude Code skills. They are searching for taste.](https://dev.to/skillselion/developers-are-not-searching-for-more-powerful-claude-code-skills-they-are-searching-for-taste-52pn)
-- [The Production Leap: Scaling Agent Workflows Globally on thingd.cloud &lpar;Part 4&rpar;](https://dev.to/sayanmohsin/the-production-leap-scaling-agent-workflows-globally-on-thingdcloud-part-4-1cai)
-- [Ditching JSON &amp; SQL Friction: Designing an Object-Shaped Memory Engine &lpar;Part 2&rpar;](https://dev.to/sayanmohsin/ditching-json-sql-friction-designing-an-object-shaped-memory-engine-part-2-140n)
+- [Backend/Domain foundation](https://dev.to/lksvn/backenddomain-foundation-24hl)
+- [14 Browser Testing Articles That Changed How I Think About Release Confidence](https://dev.to/mellowthunder735/14-browser-testing-articles-that-changed-how-i-think-about-release-confidence-2a2o)
+- [How a mesh of peer AI workspaces catches what any single agent misses](https://dev.to/soulentheo/how-a-mesh-of-peer-ai-workspaces-catches-what-any-single-agent-misses-2ffh)
+- [Podman in Production: The Book, and the Pipeline Behind It](https://dev.to/wkerschbaumer/podman-in-production-the-book-and-the-pipeline-behind-it-nie)
 <!-- BLOG-POST-LIST:END -->
 
