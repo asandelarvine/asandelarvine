@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Kernel Modules That Explain How Podman Really Works](https://dev.to/sergioarmgpl/linux-kernel-modules-that-explain-how-podman-really-works-22c3)
-- [Logging workouts is solved. I&#39;m building what comes after.](https://dev.to/arqamwd/logging-workouts-is-solved-im-building-what-comes-after-36cc)
-- [Your AI agent says &quot;done.&quot; Who checks that from outside the agent?](https://dev.to/nexuslabzen/your-ai-agent-says-done-who-checks-that-from-outside-the-agent-3fe4)
-- [Why Advanced Industrial Protocols Give Raw Sockets the &quot;Silent Treatment&quot;](https://dev.to/null_saint/why-advanced-industrial-protocols-give-raw-sockets-the-silent-treatment-33b8)
+- [A Deep Dive Into File Compression: How Data Gets Smaller, Why Codecs Differ, and What to Actually Use in the Lakehouse](https://dev.to/alexmercedcoder/a-deep-dive-into-file-compression-how-data-gets-smaller-why-codecs-differ-and-what-to-actually-5dce)
+- [A Reader&#39;s Guide to My Books: Which One to Pick Up, Depending on What You&#39;re Building](https://dev.to/alexmercedcoder/a-readers-guide-to-my-books-which-one-to-pick-up-depending-on-what-youre-building-2kgc)
+- [The AI Supply Chain: The Next Evolution of Third Party Risk](https://dev.to/alifunk/the-ai-supply-chain-the-next-evolution-of-third-party-risk-1ek)
+- [Building a production AI agent in TypeScript with Mastra: a 2026 step-by-step.](https://dev.to/thegdsks/building-a-production-ai-agent-in-typescript-with-mastra-a-2026-step-by-step-37dc)
 <!-- BLOG-POST-LIST:END -->
 
