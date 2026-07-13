@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rhumb — static user-journey maps from your frontend source](https://dev.to/satnam_sandhu/rhumb-static-user-journey-maps-from-your-frontend-source-1pkc)
-- [The authority boundary problem in agent tool calls: who decides what &#39;no results&#39; means](https://dev.to/aloya/the-authority-boundary-problem-in-agent-tool-calls-who-decides-what-no-results-means-55d3)
-- [How I Built a Paper Ranking Engine That Saved Me 4 Hours a Week](https://dev.to/leozhang8285/how-i-built-a-paper-ranking-engine-that-saved-me-4-hours-a-week-4p1a)
-- [ServeSense vs FileZilla Server &lpar;2026 Comparison&rpar;](https://dev.to/ducwuji/servesense-vs-filezilla-server-2026-comparison-711)
+- [Building a Transpiler to Migrate over 4,000 Tests to Playwright](https://dev.to/serhiy1/building-a-transpiler-to-migrate-over-4000-tests-to-playwright-4di)
+- [&quot;Make me an offer&quot; is how pre-revenue apps die on marketplaces](https://dev.to/jason_01kk/make-me-an-offer-is-how-pre-revenue-apps-die-on-marketplaces-4c7)
+- [enabling AI&#39;s Full Potential: Bridging the Gap from Sandbox to Production](https://dev.to/davekurian/enabling-ais-full-potential-bridging-the-gap-from-sandbox-to-production-4l94)
+- [Password Generator and the case for browser-side cryptography](https://dev.to/mryesiller/password-generator-and-the-case-for-browser-side-cryptography-2162)
 <!-- BLOG-POST-LIST:END -->
 
