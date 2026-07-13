@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Backend/Domain foundation](https://dev.to/lksvn/backenddomain-foundation-24hl)
-- [14 Browser Testing Articles That Changed How I Think About Release Confidence](https://dev.to/mellowthunder735/14-browser-testing-articles-that-changed-how-i-think-about-release-confidence-2a2o)
-- [How a mesh of peer AI workspaces catches what any single agent misses](https://dev.to/soulentheo/how-a-mesh-of-peer-ai-workspaces-catches-what-any-single-agent-misses-2ffh)
-- [Podman in Production: The Book, and the Pipeline Behind It](https://dev.to/wkerschbaumer/podman-in-production-the-book-and-the-pipeline-behind-it-nie)
+- [Linux Kernel Modules That Explain How Podman Really Works](https://dev.to/sergioarmgpl/linux-kernel-modules-that-explain-how-podman-really-works-22c3)
+- [Logging workouts is solved. I&#39;m building what comes after.](https://dev.to/arqamwd/logging-workouts-is-solved-im-building-what-comes-after-36cc)
+- [Your AI agent says &quot;done.&quot; Who checks that from outside the agent?](https://dev.to/nexuslabzen/your-ai-agent-says-done-who-checks-that-from-outside-the-agent-3fe4)
+- [Why Advanced Industrial Protocols Give Raw Sockets the &quot;Silent Treatment&quot;](https://dev.to/null_saint/why-advanced-industrial-protocols-give-raw-sockets-the-silent-treatment-33b8)
 <!-- BLOG-POST-LIST:END -->
 
