@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Actually Evaluate an AI Engineer in 2026 &lpar;7-Point Framework&rpar;](https://dev.to/krunal_groovy/how-to-actually-evaluate-an-ai-engineer-in-2026-7-point-framework-1hjd)
-- [Project Config Should Travel With APC](https://dev.to/agentprojectcontext/project-config-should-travel-with-apc-1g20)
-- [How We Built a Faster TeraBox Downloader: The Architecture Behind the Tool](https://dev.to/rishabjay_36/how-we-built-a-faster-terabox-downloader-the-architecture-behind-the-tool-4kc0)
-- [Top AI Papers on Hugging Face - 2026-07-13](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-07-13-39a0)
+- [Commerce And Secrets Without An IAP Tax](https://dev.to/codenameone/commerce-and-secrets-without-an-iap-tax-1n9b)
+- [Skip LinkedIn/Indeed: most companies&#39; job boards have a public JSON API](https://dev.to/ronin13/skip-linkedinindeed-most-companies-job-boards-have-a-public-json-api-48b)
+- [The Solana Program Security Checklist I Wish I&#39;d Had on Day One](https://dev.to/lymah/the-solana-program-security-checklist-i-wish-id-had-on-day-one-1e8l)
+- [Building an Agentic FinOps Platform — Development Environment Setup, Google Antigravity, MCPs and Skills, and ADK Bootstrapping with Agents CLI](https://dev.to/gde/building-an-agentic-finops-platform-development-environment-setup-google-antigravity-mcps-and-4c43)
 <!-- BLOG-POST-LIST:END -->
 
