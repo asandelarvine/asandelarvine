@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Event Planning Coordinator Agent in typescript with HazelJS](https://dev.to/nisa_fatima_bcd75fa085b76/building-an-event-planning-coordinator-agent-in-typescript-with-hazeljs-2jn1)
-- [Building a Home Maintenance Scheduler Agent in typescript with HazelJS](https://dev.to/nisa_fatima_bcd75fa085b76/building-a-home-maintenance-scheduler-agent-in-typescript-with-hazeljs-5c3f)
-- [Your email passes SPF and DKIM but still fails DMARC. Here&#39;s why](https://dev.to/vadimivanov/your-email-passes-spf-and-dkim-but-still-fails-dmarc-heres-why-58ca)
-- [EDR Tool Limits Linux Distro Choice on Developer Laptops: Exploring Solutions for Flexibility and Productivity](https://dev.to/maricode/edr-tool-limits-linux-distro-choice-on-developer-laptops-exploring-solutions-for-flexibility-and-2ndp)
+- [I Built a Task Orchestrator, Then Deleted Its Best Number](https://dev.to/vystartasv/i-built-a-task-orchestrator-then-deleted-its-best-number-57np)
+- [The bugs I could only find by running the thing](https://dev.to/moui72/the-bugs-i-could-only-find-by-running-the-thing-3mjc)
+- [The Ansible Playbook that will Harden Your VPS](https://dev.to/wadethomastt/the-ansible-playbook-that-will-harden-your-vps-in-seconds-49ca)
+- [Are We Offloading Too Much Thinking to AI?](https://dev.to/onsen/are-we-offloading-too-much-thinking-to-ai-1nmk)
 <!-- BLOG-POST-LIST:END -->
 
