@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build AI Agents That Won&#39;t Delete Your Database](https://dev.to/abdul___rehman/how-to-build-ai-agents-that-wont-delete-your-database-pi5)
-- [How Fast Should Your AI Voice Agent Respond?](https://dev.to/pykero/how-fast-should-your-ai-voice-agent-respond-4o68)
-- [Switching to GPT-5.6 in production: it&#39;s a schema, cache, and harness problem — not a model swap](https://dev.to/thegatewayguy/switching-to-gpt-56-in-production-its-a-schema-cache-and-harness-problem-not-a-model-swap-2hjn)
-- [How to Size Crypto Trading Bot Positions by Market Regime](https://dev.to/gunnarthorderson/how-to-size-crypto-trading-bot-positions-by-market-regime-41gl)
+- [Chrome 146 Zero-Days: The Skia and V8 Attack Surface, 2026 Edition](https://dev.to/alejandxr/chrome-146-zero-days-the-skia-and-v8-attack-surface-2026-edition-494a)
+- [Build a Real-Time Notification System with Server-Sent Events](https://dev.to/qingluan/build-a-real-time-notification-system-with-server-sent-events-59ge)
+- [Seven Free Node.js Hosting Platforms Worth Trying in 2026](https://dev.to/sparrowhawk705/seven-free-nodejs-hosting-platforms-worth-trying-in-2026-25c1)
+- [I Asked in a Chainlink Discord: &quot;Is Chainlink Building Any AI?&quot; The Answer Sent Me Down a Rabbit Hole for Three Days.](https://dev.to/0xramprasad/i-asked-in-a-chainlink-discord-is-chainlink-building-any-ai-the-answer-sent-me-down-a-rabbit-5b7j)
 <!-- BLOG-POST-LIST:END -->
 
