@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Deep Dive Into File Compression: How Data Gets Smaller, Why Codecs Differ, and What to Actually Use in the Lakehouse](https://dev.to/alexmercedcoder/a-deep-dive-into-file-compression-how-data-gets-smaller-why-codecs-differ-and-what-to-actually-5dce)
-- [A Reader&#39;s Guide to My Books: Which One to Pick Up, Depending on What You&#39;re Building](https://dev.to/alexmercedcoder/a-readers-guide-to-my-books-which-one-to-pick-up-depending-on-what-youre-building-2kgc)
-- [The AI Supply Chain: The Next Evolution of Third Party Risk](https://dev.to/alifunk/the-ai-supply-chain-the-next-evolution-of-third-party-risk-1ek)
-- [Building a production AI agent in TypeScript with Mastra: a 2026 step-by-step.](https://dev.to/thegdsks/building-a-production-ai-agent-in-typescript-with-mastra-a-2026-step-by-step-37dc)
+- [Fix Docker Exit Code 137 &lpar;OOMKilled&rpar;: Why It Happens and How to Stop It](https://dev.to/jjoyneriv/fix-docker-exit-code-137-oomkilled-why-it-happens-and-how-to-stop-it-4ipf)
+- [The Problem: The &quot;Extract-Edit-Recompress&quot; Loop](https://dev.to/mystrowin/the-problem-the-extract-edit-recompress-loop-28og)
+- [CTF Players: Quick File Sharing Setup for Your Team](https://dev.to/simpledrop/ctf-players-quick-file-sharing-setup-for-your-team-59dg)
+- [Lesson 0 - Learning to build with AI: where I learned not to trust it](https://dev.to/smukker/lesson-0-learning-to-build-with-ai-where-i-learned-not-to-trust-it-49hf)
 <!-- BLOG-POST-LIST:END -->
 
