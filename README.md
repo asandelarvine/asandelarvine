@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fix Docker Exit Code 137 &lpar;OOMKilled&rpar;: Why It Happens and How to Stop It](https://dev.to/jjoyneriv/fix-docker-exit-code-137-oomkilled-why-it-happens-and-how-to-stop-it-4ipf)
-- [The Problem: The &quot;Extract-Edit-Recompress&quot; Loop](https://dev.to/mystrowin/the-problem-the-extract-edit-recompress-loop-28og)
-- [CTF Players: Quick File Sharing Setup for Your Team](https://dev.to/simpledrop/ctf-players-quick-file-sharing-setup-for-your-team-59dg)
-- [Lesson 0 - Learning to build with AI: where I learned not to trust it](https://dev.to/smukker/lesson-0-learning-to-build-with-ai-where-i-learned-not-to-trust-it-49hf)
+- [# Production Patterns for AI Agent Tool Calling: 8 Lessons from 6 Months of 24/7](https://dev.to/manoir_yantai_f22f01340f0/-production-patterns-for-ai-agent-tool-calling-8-lessons-from-6-months-of-247-3e5l)
+- [Hello, RocheDB! A Nim Database Built Around Data Locality](https://dev.to/puffball1567/hello-rochedb-a-nim-database-built-around-data-locality-22co)
+- [We graded 13 famous trading strategies on 6 years of data. All 13 failed.](https://dev.to/tessen/we-graded-13-famous-trading-strategies-on-6-years-of-data-all-13-failed-26o4)
+- [Advanced Git Command-Line Techniques for Mastering Development History](https://dev.to/tamizuddin/advanced-git-command-line-techniques-for-mastering-development-history-4hm6)
 <!-- BLOG-POST-LIST:END -->
 
