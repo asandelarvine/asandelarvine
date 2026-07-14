@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome 146 Zero-Days: The Skia and V8 Attack Surface, 2026 Edition](https://dev.to/alejandxr/chrome-146-zero-days-the-skia-and-v8-attack-surface-2026-edition-494a)
-- [Build a Real-Time Notification System with Server-Sent Events](https://dev.to/qingluan/build-a-real-time-notification-system-with-server-sent-events-59ge)
-- [Seven Free Node.js Hosting Platforms Worth Trying in 2026](https://dev.to/sparrowhawk705/seven-free-nodejs-hosting-platforms-worth-trying-in-2026-25c1)
-- [I Asked in a Chainlink Discord: &quot;Is Chainlink Building Any AI?&quot; The Answer Sent Me Down a Rabbit Hole for Three Days.](https://dev.to/0xramprasad/i-asked-in-a-chainlink-discord-is-chainlink-building-any-ai-the-answer-sent-me-down-a-rabbit-5b7j)
+- [Mastering FastAPI Background Tasks: Real‑World Patterns, Testing, and When to Reach for Celery](https://dev.to/ayush_kumar_085a0f2c54e3f/mastering-fastapi-background-tasks-real-world-patterns-testing-and-when-to-reach-for-celery-22o8)
+- [Auto-Tag Your Music Library — With Confidence Scores](https://dev.to/birrings/auto-tag-your-music-library-with-confidence-scores-17d)
+- [Mixed In Key vs Rekordbox vs Serato: Why DJ Platforms Disagree on Key 60% of the Time](https://dev.to/birrings/mixed-in-key-vs-rekordbox-vs-serato-why-dj-platforms-disagree-on-key-60-of-the-time-22fj)
+- [Testing Laravel Events and Listeners: Ensuring Reliable Asynchronous Workflows](https://dev.to/codecraft_diary_3d13677fb/testing-laravel-events-and-listeners-ensuring-reliable-asynchronous-workflows-4gi0)
 <!-- BLOG-POST-LIST:END -->
 
