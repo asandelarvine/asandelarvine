@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;How Discord Timestamps Work — A Complete Guide&quot;](https://dev.to/quratulain_memon_31b25f7e/how-discord-timestamps-work-a-complete-guide-dph)
-- [Did You Know? Mapbox Geocoding API Lets You Filter by Feature Type](https://dev.to/mapbox/did-you-know-mapbox-geocoding-api-lets-you-filter-by-feature-type-3oeb)
-- [Image SEO untuk Galeri Portofolio Proyek: Sitemap, Structured Data, dan Penamaan File](https://dev.to/mightyblue/image-seo-untuk-galeri-portofolio-proyek-sitemap-structured-data-dan-penamaan-file-p2c)
-- [How I Built a Distributed API Gateway with Rate Limiting, BullMQ Queues, and Real-Time Analytics — From Scratch](https://dev.to/sawastik_bhullar/how-i-built-a-distributed-api-gateway-with-rate-limiting-bullmq-queues-and-real-time-analytics--53dm)
+- [Building an Event Planning Coordinator Agent in typescript with HazelJS](https://dev.to/nisa_fatima_bcd75fa085b76/building-an-event-planning-coordinator-agent-in-typescript-with-hazeljs-2jn1)
+- [Building a Home Maintenance Scheduler Agent in typescript with HazelJS](https://dev.to/nisa_fatima_bcd75fa085b76/building-a-home-maintenance-scheduler-agent-in-typescript-with-hazeljs-5c3f)
+- [Your email passes SPF and DKIM but still fails DMARC. Here&#39;s why](https://dev.to/vadimivanov/your-email-passes-spf-and-dkim-but-still-fails-dmarc-heres-why-58ca)
+- [EDR Tool Limits Linux Distro Choice on Developer Laptops: Exploring Solutions for Flexibility and Productivity](https://dev.to/maricode/edr-tool-limits-linux-distro-choice-on-developer-laptops-exploring-solutions-for-flexibility-and-2ndp)
 <!-- BLOG-POST-LIST:END -->
 
