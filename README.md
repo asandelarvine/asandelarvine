@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Task Orchestrator, Then Deleted Its Best Number](https://dev.to/vystartasv/i-built-a-task-orchestrator-then-deleted-its-best-number-57np)
-- [The bugs I could only find by running the thing](https://dev.to/moui72/the-bugs-i-could-only-find-by-running-the-thing-3mjc)
-- [The Ansible Playbook that will Harden Your VPS](https://dev.to/wadethomastt/the-ansible-playbook-that-will-harden-your-vps-in-seconds-49ca)
-- [Are We Offloading Too Much Thinking to AI?](https://dev.to/onsen/are-we-offloading-too-much-thinking-to-ai-1nmk)
+- [How I Used Spec-Driven Development to Build a Game](https://dev.to/erikch/how-i-used-spec-driven-development-to-build-a-game-a5p)
+- [I graded my own ML option forecasts. Here&#39;s the Brier score.](https://dev.to/connerlambden/i-graded-my-own-ml-option-forecasts-heres-the-brier-score-20fp)
+- [Fix: &quot;new row violates row-level security policy&quot; in Supabase &lpar;it&#39;s not what you think&rpar;](https://dev.to/mateuszingano/fix-new-row-violates-row-level-security-policy-in-supabase-its-not-what-you-think-2g08)
+- [Best Online Communities for Indie Hackers in 2026](https://dev.to/gbenga_odukoya_d9c8477163/best-online-communities-for-indie-hackers-in-2026-3llp)
 <!-- BLOG-POST-LIST:END -->
 
