@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering FastAPI Background Tasks: Real‑World Patterns, Testing, and When to Reach for Celery](https://dev.to/ayush_kumar_085a0f2c54e3f/mastering-fastapi-background-tasks-real-world-patterns-testing-and-when-to-reach-for-celery-22o8)
-- [Auto-Tag Your Music Library — With Confidence Scores](https://dev.to/birrings/auto-tag-your-music-library-with-confidence-scores-17d)
-- [Mixed In Key vs Rekordbox vs Serato: Why DJ Platforms Disagree on Key 60% of the Time](https://dev.to/birrings/mixed-in-key-vs-rekordbox-vs-serato-why-dj-platforms-disagree-on-key-60-of-the-time-22fj)
-- [Testing Laravel Events and Listeners: Ensuring Reliable Asynchronous Workflows](https://dev.to/codecraft_diary_3d13677fb/testing-laravel-events-and-listeners-ensuring-reliable-asynchronous-workflows-4gi0)
+- [He Built an App in 24 Hours and Made $20,378 the Next Day. Here&#39;s the Part Nobody Screenshots.](https://dev.to/promptway/he-built-an-app-in-24-hours-and-made-20378-the-next-day-heres-the-part-nobody-screenshots-5gep)
+- [How We Turned a High-Traffic News Site&#39;s Core Web Vitals from Red to Green](https://dev.to/beksnotfound/how-we-turned-a-high-traffic-news-sites-core-web-vitals-from-red-to-green-3h14)
+- [Coding Agents and Developer Economics on the Microsoft Stack &lpar;2026&rpar;](https://dev.to/az365ai/coding-agents-and-developer-economics-on-the-microsoft-stack-2026-39hn)
+- [Microsoft Dismantles Fox Tempest: The $9K Malware-Signing Service Behind Ransomware&#39;s Trust Exploit](https://dev.to/alejandxr/microsoft-dismantles-fox-tempest-the-9k-malware-signing-service-behind-ransomwares-trust-exploit-pln)
 <!-- BLOG-POST-LIST:END -->
 
