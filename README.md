@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [He Built an App in 24 Hours and Made $20,378 the Next Day. Here&#39;s the Part Nobody Screenshots.](https://dev.to/promptway/he-built-an-app-in-24-hours-and-made-20378-the-next-day-heres-the-part-nobody-screenshots-5gep)
-- [How We Turned a High-Traffic News Site&#39;s Core Web Vitals from Red to Green](https://dev.to/beksnotfound/how-we-turned-a-high-traffic-news-sites-core-web-vitals-from-red-to-green-3h14)
-- [Coding Agents and Developer Economics on the Microsoft Stack &lpar;2026&rpar;](https://dev.to/az365ai/coding-agents-and-developer-economics-on-the-microsoft-stack-2026-39hn)
-- [Microsoft Dismantles Fox Tempest: The $9K Malware-Signing Service Behind Ransomware&#39;s Trust Exploit](https://dev.to/alejandxr/microsoft-dismantles-fox-tempest-the-9k-malware-signing-service-behind-ransomwares-trust-exploit-pln)
+- [&quot;How Discord Timestamps Work — A Complete Guide&quot;](https://dev.to/quratulain_memon_31b25f7e/how-discord-timestamps-work-a-complete-guide-dph)
+- [Did You Know? Mapbox Geocoding API Lets You Filter by Feature Type](https://dev.to/mapbox/did-you-know-mapbox-geocoding-api-lets-you-filter-by-feature-type-3oeb)
+- [Image SEO untuk Galeri Portofolio Proyek: Sitemap, Structured Data, dan Penamaan File](https://dev.to/mightyblue/image-seo-untuk-galeri-portofolio-proyek-sitemap-structured-data-dan-penamaan-file-p2c)
+- [How I Built a Distributed API Gateway with Rate Limiting, BullMQ Queues, and Real-Time Analytics — From Scratch](https://dev.to/sawastik_bhullar/how-i-built-a-distributed-api-gateway-with-rate-limiting-bullmq-queues-and-real-time-analytics--53dm)
 <!-- BLOG-POST-LIST:END -->
 
