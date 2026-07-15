@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Distributed Tracing Shows You What Happened. It Cannot Prove It to a Regulator.](https://dev.to/arkforge-ceo/distributed-tracing-shows-you-what-happened-it-cannot-prove-it-to-a-regulator-5h1k)
-- [🛠️ Day 3 – Python Functions &amp; Functional Power](https://dev.to/thirusakthi-dev/day-3-python-functions-functional-power-pm7)
-- [mtime is not a claim](https://dev.to/ilya_mozerov_867dbdd91feb/mtime-is-not-a-claim-36en)
-- [A stealthy and efficient way for Just In Time payload decryption](https://dev.to/schich/a-stealthy-and-efficient-way-for-just-in-time-payload-decryption-3e0o)
+- [Taotuner’s Informational-Processual Monism &lpar;IPM&rpar; explores how systems maintain coherence through change using computational models of Lack, coupling, integration, and persistence. Through Python simulations such as the Lack Kernel and related experiments.](https://dev.to/taotuner/taotuners-informational-processual-monism-ipm-explores-how-systems-maintain-coherence-through-1n6c)
+- [Is Multi-AZ Enough for Disaster Recovery? What DORA Actually Asks of Your Application](https://dev.to/upstood/is-multi-az-enough-for-disaster-recovery-what-dora-actually-asks-of-your-application-1fmi)
+- [The Commercial Veil &lpar;1992-1994&rpar;: Concealment in the New Economy](https://dev.to/bioshistory/the-commercial-veil-1992-1994-concealment-in-the-new-economy-5gf5)
+- [Stop Guessing Your AI Performance: The Professional Guide to Edge AI Benchmarking on Android](https://dev.to/programmingcentral/stop-guessing-your-ai-performance-the-professional-guide-to-edge-ai-benchmarking-on-android-2f3m)
 <!-- BLOG-POST-LIST:END -->
 
