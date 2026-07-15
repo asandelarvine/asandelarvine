@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Taotuner’s Informational-Processual Monism &lpar;IPM&rpar; explores how systems maintain coherence through change using computational models of Lack, coupling, integration, and persistence. Through Python simulations such as the Lack Kernel and related experiments.](https://dev.to/taotuner/taotuners-informational-processual-monism-ipm-explores-how-systems-maintain-coherence-through-1n6c)
-- [Is Multi-AZ Enough for Disaster Recovery? What DORA Actually Asks of Your Application](https://dev.to/upstood/is-multi-az-enough-for-disaster-recovery-what-dora-actually-asks-of-your-application-1fmi)
-- [The Commercial Veil &lpar;1992-1994&rpar;: Concealment in the New Economy](https://dev.to/bioshistory/the-commercial-veil-1992-1994-concealment-in-the-new-economy-5gf5)
-- [Stop Guessing Your AI Performance: The Professional Guide to Edge AI Benchmarking on Android](https://dev.to/programmingcentral/stop-guessing-your-ai-performance-the-professional-guide-to-edge-ai-benchmarking-on-android-2f3m)
+- [Why Converting HTML to WordPress and Elementor Is Still Hard in 2026](https://dev.to/dmitry_hans_db5eae0801980/why-converting-html-to-wordpress-and-elementor-is-still-hard-in-2026-13lc)
+- [Fleet-Scale Robotics: Reliable USB Device Binding on NVIDIA Jetson Orin](https://dev.to/shaifurcodes/fleet-scale-robotics-reliable-usb-device-binding-on-nvidia-jetson-orin-3gei)
+- [Beyond Scaling Laws: Why &quot;Thinking Longer&quot; Is a Systems Problem, Not a Prompting Trick](https://dev.to/therajgupta/beyond-scaling-laws-why-thinking-longer-is-a-systems-problem-not-a-prompting-trick-27da)
+- [Exactly-Once Semantics in Kafka: Promise vs. Reality](https://dev.to/aliasgarmk/exactly-once-semantics-in-kafka-promise-vs-reality-4b1e)
 <!-- BLOG-POST-LIST:END -->
 
