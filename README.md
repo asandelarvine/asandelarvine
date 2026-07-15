@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT-Live Needs an Interruption UI, Not Just a Microphone Button](https://dev.to/babycat/gpt-live-needs-an-interruption-ui-not-just-a-microphone-button-41b6)
-- [Add Claude Sonnet 5 Behind a Provider Contract, Not Across Your Codebase](https://dev.to/kongkong1/add-claude-sonnet-5-behind-a-provider-contract-not-across-your-codebase-2ki2)
-- [GPT-5.6 Has Three Model Tiers; Your Product Needs a Routing P&amp;L](https://dev.to/bestbee/gpt-56-has-three-model-tiers-your-product-needs-a-routing-pl-p81)
-- [Learn AI Coding Benchmarks by Building a Tiny Contamination Check](https://dev.to/magickong/learn-ai-coding-benchmarks-by-building-a-tiny-contamination-check-57bo)
+- [When AI Beats a Senior Developer — and When It Doesn&#39;t](https://dev.to/iurii_rogulia/when-ai-beats-a-senior-developer-and-when-it-doesnt-5eed)
+- [Crypto OTC Proof-of-Funds PDF Fraud Detection](https://dev.to/iurii_rogulia/crypto-otc-proof-of-funds-pdf-fraud-detection-5g7n)
+- [How I Built a Multilingual CEFR Language Testing Platform in PHP](https://dev.to/examinizer/how-i-built-a-multilingual-cefr-language-testing-platform-in-php-1i0b)
+- [`new` Operator in Java](https://dev.to/rajeshbhola1/new-operator-in-java-lhh)
 <!-- BLOG-POST-LIST:END -->
 
