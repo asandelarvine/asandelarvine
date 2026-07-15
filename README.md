@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When AI Beats a Senior Developer — and When It Doesn&#39;t](https://dev.to/iurii_rogulia/when-ai-beats-a-senior-developer-and-when-it-doesnt-5eed)
-- [Crypto OTC Proof-of-Funds PDF Fraud Detection](https://dev.to/iurii_rogulia/crypto-otc-proof-of-funds-pdf-fraud-detection-5g7n)
-- [How I Built a Multilingual CEFR Language Testing Platform in PHP](https://dev.to/examinizer/how-i-built-a-multilingual-cefr-language-testing-platform-in-php-1i0b)
-- [`new` Operator in Java](https://dev.to/rajeshbhola1/new-operator-in-java-lhh)
+- [Building a production MCP server: How we made GoodBarber agent-ready &lpar;without the glue code&rpar;](https://dev.to/pierrelaurentmedori/building-a-production-mcp-server-how-we-made-goodbarber-agent-ready-without-the-glue-code-4co6)
+- [Building AI That People Actually Use: Lessons Beyond the Hype](https://dev.to/katul1512/building-ai-that-people-actually-use-lessons-beyond-the-hype-3dde)
+- [I Built a Tool to Visualize DSA. Let’s Learn Together! &lpar;DSA View View 👀👀&rpar;](https://dev.to/nyaomaru/i-built-a-tool-to-visualize-dsa-lets-learn-together-dsa-view-view--djo)
+- [I scanned 221 US city government websites for accessibility after the ADA deadline - 42% still have a critical barrier](https://dev.to/accesslumens/i-scanned-221-us-city-government-websites-for-accessibility-after-the-ada-deadline-42-still-have-5h08)
 <!-- BLOG-POST-LIST:END -->
 
