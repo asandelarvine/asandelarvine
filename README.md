@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Building Two AI-Powered Solutions at HACKHAZARDS &#39;26: VeritasFlow &amp; PermitFlow](https://dev.to/tanya_garg_5315/building-two-ai-powered-solutions-at-hackhazards-26-veritasflow-permitflow-ab9)
-- [The Chatbot Was Easy. The Engineering Wasn&#39;t.](https://dev.to/surajrkhonde/the-chatbot-was-easy-the-engineering-wasnt-3cod)
-- [I source-reviewed 200+ self-hosted AI tools for tenant isolation. 78 leaked across tenants.](https://dev.to/dmitrymaranik/i-source-reviewed-200-self-hosted-ai-tools-for-tenant-isolation-78-leaked-across-tenants-4ff4)
-- [# Tracking the Ghosts in the Machine: Instrumenting Asynchronous AI Agent Workflows with OpenTelemetry and SigNoz](https://dev.to/scoops/-tracking-the-ghosts-in-the-machine-instrumenting-asynchronous-ai-agent-workflows-with-3bi2)
+- [为什么 AI Agent 都离不开 Workflow？看懂现代 AI 应用的底层设计](https://dev.to/addtoken521/wei-shi-yao-ai-agent-du-chi-bu-kai-workflowkan-dong-xian-dai-ai-ying-yong-de-di-ceng-she-ji-1knb)
+- [Building an AI Agent That Knows When Not to Guess &lpar;Qwen + MCP&rpar;](https://dev.to/dannwaneri/building-an-ai-agent-that-knows-when-not-to-guess-qwen-mcp-19kl)
+- [Your Docs Are Doing Your Marketing Now &lpar;Whether You Like It Or Not&rpar;](https://dev.to/karasilv/your-docs-are-doing-your-marketing-now-whether-you-like-it-or-not-4bmj)
+- [AI Unveils 15-Year-Old Linux Kernel Root Vulnerability](https://dev.to/davekurian/ai-unveils-15-year-old-linux-kernel-root-vulnerability-3efj)
 <!-- BLOG-POST-LIST:END -->
 
