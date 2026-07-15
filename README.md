@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I joined Expo.](https://dev.to/expo/i-joined-expo-3enh)
-- [A Receipt Is Not Proof Forever. It Is a Promise to Reopen the Claim.](https://dev.to/kenielzep97/a-receipt-is-not-proof-forever-it-is-a-promise-to-reopen-the-claim-2b57)
-- [HTML na Prática: 7 fundamentos essências para todos os iniciantes](https://dev.to/candidonkuerten346/html-na-pratica-7-fundamentos-essencias-para-todos-os-iniciantes-260p)
-- [Proof-Adjusted Autonomy: The 90% Agent Is a 61.6% Agent](https://dev.to/pich/proof-adjusted-autonomy-the-90-agent-is-a-616-agent-42jh)
+- [Knowledge-and-Memory-Management v0.0.2: Portable Knowledge Collection and Memory Management](https://dev.to/mage0535/knowledge-and-memory-management-v002-portable-knowledge-collection-and-memory-management-3c9m)
+- [Scale Is a Design, Not a Dial](https://dev.to/imacto/scale-is-a-design-not-a-dial-1740)
+- [i&#39;ve been building platforms first for 25 years. i think it&#39;s wrong now.](https://dev.to/debashish_ghosal/ive-been-building-platforms-first-for-25-years-i-think-its-wrong-now-1bn1)
+- [Why Your TypeScript 7 Upgrade Broke ESLint, ts-jest, and ts-morph](https://dev.to/dev_encyclopedia/why-your-typescript-7-upgrade-broke-eslint-ts-jest-and-ts-morph-385k)
 <!-- BLOG-POST-LIST:END -->
 
