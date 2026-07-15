@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a production MCP server: How we made GoodBarber agent-ready &lpar;without the glue code&rpar;](https://dev.to/pierrelaurentmedori/building-a-production-mcp-server-how-we-made-goodbarber-agent-ready-without-the-glue-code-4co6)
-- [Building AI That People Actually Use: Lessons Beyond the Hype](https://dev.to/katul1512/building-ai-that-people-actually-use-lessons-beyond-the-hype-3dde)
-- [I Built a Tool to Visualize DSA. Let’s Learn Together! &lpar;DSA View View 👀👀&rpar;](https://dev.to/nyaomaru/i-built-a-tool-to-visualize-dsa-lets-learn-together-dsa-view-view--djo)
-- [I scanned 221 US city government websites for accessibility after the ADA deadline - 42% still have a critical barrier](https://dev.to/accesslumens/i-scanned-221-us-city-government-websites-for-accessibility-after-the-ada-deadline-42-still-have-5h08)
+- [🚀 Building Two AI-Powered Solutions at HACKHAZARDS &#39;26: VeritasFlow &amp; PermitFlow](https://dev.to/tanya_garg_5315/building-two-ai-powered-solutions-at-hackhazards-26-veritasflow-permitflow-ab9)
+- [The Chatbot Was Easy. The Engineering Wasn&#39;t.](https://dev.to/surajrkhonde/the-chatbot-was-easy-the-engineering-wasnt-3cod)
+- [I source-reviewed 200+ self-hosted AI tools for tenant isolation. 78 leaked across tenants.](https://dev.to/dmitrymaranik/i-source-reviewed-200-self-hosted-ai-tools-for-tenant-isolation-78-leaked-across-tenants-4ff4)
+- [# Tracking the Ghosts in the Machine: Instrumenting Asynchronous AI Agent Workflows with OpenTelemetry and SigNoz](https://dev.to/scoops/-tracking-the-ghosts-in-the-machine-instrumenting-asynchronous-ai-agent-workflows-with-3bi2)
 <!-- BLOG-POST-LIST:END -->
 
