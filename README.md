@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Knowledge-and-Memory-Management v0.0.2: Portable Knowledge Collection and Memory Management](https://dev.to/mage0535/knowledge-and-memory-management-v002-portable-knowledge-collection-and-memory-management-3c9m)
-- [Scale Is a Design, Not a Dial](https://dev.to/imacto/scale-is-a-design-not-a-dial-1740)
-- [i&#39;ve been building platforms first for 25 years. i think it&#39;s wrong now.](https://dev.to/debashish_ghosal/ive-been-building-platforms-first-for-25-years-i-think-its-wrong-now-1bn1)
-- [Why Your TypeScript 7 Upgrade Broke ESLint, ts-jest, and ts-morph](https://dev.to/dev_encyclopedia/why-your-typescript-7-upgrade-broke-eslint-ts-jest-and-ts-morph-385k)
+- [GPT-Live Needs an Interruption UI, Not Just a Microphone Button](https://dev.to/babycat/gpt-live-needs-an-interruption-ui-not-just-a-microphone-button-41b6)
+- [Add Claude Sonnet 5 Behind a Provider Contract, Not Across Your Codebase](https://dev.to/kongkong1/add-claude-sonnet-5-behind-a-provider-contract-not-across-your-codebase-2ki2)
+- [GPT-5.6 Has Three Model Tiers; Your Product Needs a Routing P&amp;L](https://dev.to/bestbee/gpt-56-has-three-model-tiers-your-product-needs-a-routing-pl-p81)
+- [Learn AI Coding Benchmarks by Building a Tiny Contamination Check](https://dev.to/magickong/learn-ai-coding-benchmarks-by-building-a-tiny-contamination-check-57bo)
 <!-- BLOG-POST-LIST:END -->
 
