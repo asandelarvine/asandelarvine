@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [为什么 AI Agent 都离不开 Workflow？看懂现代 AI 应用的底层设计](https://dev.to/addtoken521/wei-shi-yao-ai-agent-du-chi-bu-kai-workflowkan-dong-xian-dai-ai-ying-yong-de-di-ceng-she-ji-1knb)
-- [Building an AI Agent That Knows When Not to Guess &lpar;Qwen + MCP&rpar;](https://dev.to/dannwaneri/building-an-ai-agent-that-knows-when-not-to-guess-qwen-mcp-19kl)
-- [Your Docs Are Doing Your Marketing Now &lpar;Whether You Like It Or Not&rpar;](https://dev.to/karasilv/your-docs-are-doing-your-marketing-now-whether-you-like-it-or-not-4bmj)
-- [AI Unveils 15-Year-Old Linux Kernel Root Vulnerability](https://dev.to/davekurian/ai-unveils-15-year-old-linux-kernel-root-vulnerability-3efj)
+- [Distributed Tracing Shows You What Happened. It Cannot Prove It to a Regulator.](https://dev.to/arkforge-ceo/distributed-tracing-shows-you-what-happened-it-cannot-prove-it-to-a-regulator-5h1k)
+- [🛠️ Day 3 – Python Functions &amp; Functional Power](https://dev.to/thirusakthi-dev/day-3-python-functions-functional-power-pm7)
+- [mtime is not a claim](https://dev.to/ilya_mozerov_867dbdd91feb/mtime-is-not-a-claim-36en)
+- [A stealthy and efficient way for Just In Time payload decryption](https://dev.to/schich/a-stealthy-and-efficient-way-for-just-in-time-payload-decryption-3e0o)
 <!-- BLOG-POST-LIST:END -->
 
