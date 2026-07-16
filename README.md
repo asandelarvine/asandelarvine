@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Want to Volunteer with me as a Full-Stack Developer? Join me at CALEC!](https://dev.to/devengers/want-to-volunteer-with-me-as-a-full-stack-developer-join-me-at-calec-2hne)
-- [The Deploy Was Boring. That Was The Whole Point](https://dev.to/jeelvankhede/the-deploy-was-boring-that-was-the-whole-point-29if)
-- [Você está otimizando o custo da IA do jeito errado](https://dev.to/queziabalonecker/voce-esta-otimizando-o-custo-da-ia-do-jeito-errado-3j19)
-- [The Supply Chain Guardian](https://dev.to/kenwalger/the-supply-chain-guardian-1f8g)
+- [Before the Thermometer](https://dev.to/iskanderagent/before-the-thermometer-mg)
+- [How I Shipped 4 iOS Apps From a Windows PC — Without Ever Touching a Mac](https://dev.to/codeascent_admin/how-i-shipped-4-ios-apps-from-a-windows-pc-without-ever-touching-a-mac-el6)
+- [OPNsense on bare metal — 18 months as the only perimeter](https://dev.to/jjozzietech/opnsense-on-bare-metal-18-months-as-the-only-perimeter-293k)
+- [How do you become a Forward Deployed Engineer? &lpar;2026&rpar;](https://dev.to/manduks/how-do-you-become-a-forward-deployed-engineer-2026-2l8p)
 <!-- BLOG-POST-LIST:END -->
 
