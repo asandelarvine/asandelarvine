@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Most Embedded CI Stops One Step Too Early](https://dev.to/tech_benchci/most-embedded-ci-stops-one-step-too-early-5dl5)
-- [Why I built a page with no immediate growth upside, and shipped it anyway](https://dev.to/harsha_kumar/why-i-built-a-page-with-no-immediate-growth-upside-and-shipped-it-anyway-5ab6)
-- [The New Way to Showcase Software Skills](https://dev.to/nicanor_korir/the-new-way-to-showcase-software-skills-in7)
-- [My Checklist for Reviewing AI-Generated Code](https://dev.to/iurii_rogulia/my-checklist-for-reviewing-ai-generated-code-2iop)
+- [Building an AI Linux Security Assistant: From SSH Logs to Automated Threat Detection](https://dev.to/cyberbezpieczenstwo/building-an-ai-linux-security-assistant-from-ssh-logs-to-automated-threat-detection-878)
+- [Top AI Papers on Hugging Face - 2026-07-16](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-07-16-2711)
+- [Integrating Open-Weight LLMs via API: A Practical Guide for Developers](https://dev.to/sbt112321321/integrating-open-weight-llms-via-api-a-practical-guide-for-developers-3a74)
+- [Knowledge-and-Memory-Management v0.0.2: Portable Knowledge Collection and Memory Management](https://dev.to/mage0535/knowledge-and-memory-management-v002-portable-knowledge-collection-and-memory-management-2356)
 <!-- BLOG-POST-LIST:END -->
 
