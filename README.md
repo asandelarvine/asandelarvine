@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building and Deploying a Remote MCP Server: Lessons from Connecting an Expense Tracker to Claude Desktop](https://dev.to/ali_raza_1ce2540f37e01a91/building-and-deploying-a-remote-mcp-server-lessons-from-connecting-an-expense-tracker-to-claude-2f4o)
-- [Alt Text for WooCommerce Variation Images](https://dev.to/benoats/alt-text-for-woocommerce-variation-images-182d)
-- [Soul in Motion — 12:33 PM | 2026-07-16](https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-1233-pm-2026-07-16-3p4h)
-- [Booking.com Breach: When the Vendor Chain Becomes the Attack Surface](https://dev.to/alejandxr/bookingcom-breach-when-the-vendor-chain-becomes-the-attack-surface-cee)
+- [Most Embedded CI Stops One Step Too Early](https://dev.to/tech_benchci/most-embedded-ci-stops-one-step-too-early-5dl5)
+- [Why I built a page with no immediate growth upside, and shipped it anyway](https://dev.to/harsha_kumar/why-i-built-a-page-with-no-immediate-growth-upside-and-shipped-it-anyway-5ab6)
+- [The New Way to Showcase Software Skills](https://dev.to/nicanor_korir/the-new-way-to-showcase-software-skills-in7)
+- [My Checklist for Reviewing AI-Generated Code](https://dev.to/iurii_rogulia/my-checklist-for-reviewing-ai-generated-code-2iop)
 <!-- BLOG-POST-LIST:END -->
 
