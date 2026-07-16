@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I thought fallback was a nice-to-have until OpenAI billing issues broke 3 agent runs in one week](https://dev.to/lars_winstand/i-thought-fallback-was-a-nice-to-have-until-openai-billing-issues-broke-3-agent-runs-in-one-week-pk7)
-- [Nobody Painted That Rectangle Black](https://dev.to/lovestaco/nobody-painted-that-rectangle-black-a3)
-- [I got tired of not knowing what my AI agents were doing, so I built a tiny observability tool](https://dev.to/remdore/i-got-tired-of-not-knowing-what-my-ai-agents-were-doing-so-i-built-a-tiny-observability-tool-3p67)
-- [The Redis URL That Leaked Its Own Password Into AI Agent Context](https://dev.to/rohith_matam_be6aea5caf13/the-redis-url-that-leaked-its-own-password-into-ai-agent-context-5c6n)
+- [Want to Volunteer with me as a Full-Stack Developer? Join me at CALEC!](https://dev.to/devengers/want-to-volunteer-with-me-as-a-full-stack-developer-join-me-at-calec-2hne)
+- [The Deploy Was Boring. That Was The Whole Point](https://dev.to/jeelvankhede/the-deploy-was-boring-that-was-the-whole-point-29if)
+- [Você está otimizando o custo da IA do jeito errado](https://dev.to/queziabalonecker/voce-esta-otimizando-o-custo-da-ia-do-jeito-errado-3j19)
+- [The Supply Chain Guardian](https://dev.to/kenwalger/the-supply-chain-guardian-1f8g)
 <!-- BLOG-POST-LIST:END -->
 
