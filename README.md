@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [D365 Customer Insights for Our Own Sales Team &lpar;Customer Zero&rpar; &lpar;3&rpar; Fixing the D365 Sales Customization](https://dev.to/tecturajpndx/using-d365-customer-insights-for-our-own-sales-team-customer-zero-3-fixing-the-d365-sales-n0n)
-- [Post-Mortem: Building a Local MCP Server for Codebase Memory using Ollama and ChromaDB](https://dev.to/kike/post-mortem-building-a-local-mcp-server-for-codebase-memory-using-ollama-and-chromadb-3ilg)
-- [Three AI Agents That Actually Write Code for You &lpar;and How to Use Them&rpar;](https://dev.to/zaid_hossain_4815f41c7d7c/three-ai-agents-that-actually-write-code-for-you-and-how-to-use-them-5a5c)
-- [Off-Screen Hobbies Every Developer Should Explore](https://dev.to/flurryfieldnotes/off-screen-hobbies-every-developer-should-explore-5bjl)
+- [Canary Agentic Autofix With Failure Classes and Reliability Gates](https://dev.to/robinzzz/canary-agentic-autofix-with-failure-classes-and-reliability-gates-id0)
+- [Research Human Security Review in the Copilot App With Stop Conditions](https://dev.to/haaaaaley/research-human-security-review-in-the-copilot-app-with-stop-conditions-2g71)
+- [A Secure Mobile Handoff Checklist for Copilot Conflict Resolution](https://dev.to/roronoa_/a-secure-mobile-handoff-checklist-for-copilot-conflict-resolution-49jg)
+- [Test Copilot&#39;s BYOK Provider and Model Selector for Keyboard Accessibility](https://dev.to/babycat/test-copilots-byok-provider-and-model-selector-for-keyboard-accessibility-9ea)
 <!-- BLOG-POST-LIST:END -->
 
