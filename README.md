@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Before the Thermometer](https://dev.to/iskanderagent/before-the-thermometer-mg)
-- [How I Shipped 4 iOS Apps From a Windows PC — Without Ever Touching a Mac](https://dev.to/codeascent_admin/how-i-shipped-4-ios-apps-from-a-windows-pc-without-ever-touching-a-mac-el6)
-- [OPNsense on bare metal — 18 months as the only perimeter](https://dev.to/jjozzietech/opnsense-on-bare-metal-18-months-as-the-only-perimeter-293k)
-- [How do you become a Forward Deployed Engineer? &lpar;2026&rpar;](https://dev.to/manduks/how-do-you-become-a-forward-deployed-engineer-2026-2l8p)
+- [I burned through thousands of AI tokens. Then a friend did it for free](https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8)
+- [Image models kept getting my App Store screenshots rejected, so I made my coding agent render them to exact spec](https://dev.to/selcukatli/image-models-kept-getting-my-app-store-screenshots-rejected-so-i-made-my-coding-agent-render-them-3afp)
+- [BackFlow](https://dev.to/omariscode/backflow-1h4g)
+- [Getting a Telegram group&#39;s members and media into files you can actually use](https://dev.to/mastrosgeppettos/getting-a-telegram-groups-members-and-media-into-files-you-can-actually-use-266a)
 <!-- BLOG-POST-LIST:END -->
 
