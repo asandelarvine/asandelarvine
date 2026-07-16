@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I auto-published 2,300 AI articles. Google buried 90% of my traffic.](https://dev.to/martinschenk/i-auto-published-2300-ai-articles-google-buried-90-of-my-traffic-424o)
-- [Make your icons follow dark mode automatically with currentColor](https://dev.to/rushan123/make-your-icons-follow-dark-mode-automatically-with-currentcolor-5ed5)
-- [What Is an Agentic Semantic Layer?](https://dev.to/maxbonnard/what-is-an-agentic-semantic-layer-4hbj)
-- [Feature Flags - Thinking](https://dev.to/marcus_carreira_ac9932616/feature-flags-thinking-3o1f)
+- [I thought fallback was a nice-to-have until OpenAI billing issues broke 3 agent runs in one week](https://dev.to/lars_winstand/i-thought-fallback-was-a-nice-to-have-until-openai-billing-issues-broke-3-agent-runs-in-one-week-pk7)
+- [Nobody Painted That Rectangle Black](https://dev.to/lovestaco/nobody-painted-that-rectangle-black-a3)
+- [I got tired of not knowing what my AI agents were doing, so I built a tiny observability tool](https://dev.to/remdore/i-got-tired-of-not-knowing-what-my-ai-agents-were-doing-so-i-built-a-tiny-observability-tool-3p67)
+- [The Redis URL That Leaked Its Own Password Into AI Agent Context](https://dev.to/rohith_matam_be6aea5caf13/the-redis-url-that-leaked-its-own-password-into-ai-agent-context-5c6n)
 <!-- BLOG-POST-LIST:END -->
 
