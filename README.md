@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Converting HTML to WordPress and Elementor Is Still Hard in 2026](https://dev.to/dmitry_hans_db5eae0801980/why-converting-html-to-wordpress-and-elementor-is-still-hard-in-2026-13lc)
-- [Fleet-Scale Robotics: Reliable USB Device Binding on NVIDIA Jetson Orin](https://dev.to/shaifurcodes/fleet-scale-robotics-reliable-usb-device-binding-on-nvidia-jetson-orin-3gei)
-- [Beyond Scaling Laws: Why &quot;Thinking Longer&quot; Is a Systems Problem, Not a Prompting Trick](https://dev.to/therajgupta/beyond-scaling-laws-why-thinking-longer-is-a-systems-problem-not-a-prompting-trick-27da)
-- [Exactly-Once Semantics in Kafka: Promise vs. Reality](https://dev.to/aliasgarmk/exactly-once-semantics-in-kafka-promise-vs-reality-4b1e)
+- [D365 Customer Insights for Our Own Sales Team &lpar;Customer Zero&rpar; &lpar;3&rpar; Fixing the D365 Sales Customization](https://dev.to/tecturajpndx/using-d365-customer-insights-for-our-own-sales-team-customer-zero-3-fixing-the-d365-sales-n0n)
+- [Post-Mortem: Building a Local MCP Server for Codebase Memory using Ollama and ChromaDB](https://dev.to/kike/post-mortem-building-a-local-mcp-server-for-codebase-memory-using-ollama-and-chromadb-3ilg)
+- [Three AI Agents That Actually Write Code for You &lpar;and How to Use Them&rpar;](https://dev.to/zaid_hossain_4815f41c7d7c/three-ai-agents-that-actually-write-code-for-you-and-how-to-use-them-5a5c)
+- [Off-Screen Hobbies Every Developer Should Explore](https://dev.to/flurryfieldnotes/off-screen-hobbies-every-developer-should-explore-5bjl)
 <!-- BLOG-POST-LIST:END -->
 
