@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Linux Security Assistant: From SSH Logs to Automated Threat Detection](https://dev.to/cyberbezpieczenstwo/building-an-ai-linux-security-assistant-from-ssh-logs-to-automated-threat-detection-878)
-- [Top AI Papers on Hugging Face - 2026-07-16](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-07-16-2711)
-- [Integrating Open-Weight LLMs via API: A Practical Guide for Developers](https://dev.to/sbt112321321/integrating-open-weight-llms-via-api-a-practical-guide-for-developers-3a74)
-- [Knowledge-and-Memory-Management v0.0.2: Portable Knowledge Collection and Memory Management](https://dev.to/mage0535/knowledge-and-memory-management-v002-portable-knowledge-collection-and-memory-management-2356)
+- [I auto-published 2,300 AI articles. Google buried 90% of my traffic.](https://dev.to/martinschenk/i-auto-published-2300-ai-articles-google-buried-90-of-my-traffic-424o)
+- [Make your icons follow dark mode automatically with currentColor](https://dev.to/rushan123/make-your-icons-follow-dark-mode-automatically-with-currentcolor-5ed5)
+- [What Is an Agentic Semantic Layer?](https://dev.to/maxbonnard/what-is-an-agentic-semantic-layer-4hbj)
+- [Feature Flags - Thinking](https://dev.to/marcus_carreira_ac9932616/feature-flags-thinking-3o1f)
 <!-- BLOG-POST-LIST:END -->
 
