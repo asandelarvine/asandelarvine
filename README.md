@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I burned through thousands of AI tokens. Then a friend did it for free](https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8)
-- [Image models kept getting my App Store screenshots rejected, so I made my coding agent render them to exact spec](https://dev.to/selcukatli/image-models-kept-getting-my-app-store-screenshots-rejected-so-i-made-my-coding-agent-render-them-3afp)
-- [BackFlow](https://dev.to/omariscode/backflow-1h4g)
-- [Getting a Telegram group&#39;s members and media into files you can actually use](https://dev.to/mastrosgeppettos/getting-a-telegram-groups-members-and-media-into-files-you-can-actually-use-266a)
+- [Vector Databases, Deep Indexing &amp; Token Economics: The Complete Story &lpar;phase 3&rpar;](https://dev.to/surajrkhonde/vector-databases-deep-indexing-token-economics-the-complete-story-phase-3-4n60)
+- [I Did the Math on Kimi K3. The $15 Output Price Isn&#39;t the Whole Cost Story.](https://dev.to/tokenmixai/i-did-the-math-on-kimi-k3-the-15-output-price-isnt-the-whole-cost-story-3b21)
+- [What Makes a Software Engineer: The Essence of the Job](https://dev.to/shayesta/what-makes-a-software-engineer-the-essence-of-the-job-6p8)
+- [Hello DEV Community 👋](https://dev.to/kikakkz/hello-dev-community-5gkm)
 <!-- BLOG-POST-LIST:END -->
 
