@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Five Gemma-4 models, one accelerator: what porting E2B 31B to AWS Inferentia2 taught me](https://dev.to/gde/five-gemma-4-models-one-accelerator-what-porting-e2b-31b-to-aws-inferentia2-taught-me-2gf5)
-- [Show DEV: I built a lightweight, extensible Web Page Builder using React 🚀](https://dev.to/ebrahim_elmwafy_5d64d93ce/show-dev-i-built-a-lightweight-extensible-web-page-builder-using-react-6b6)
-- [HackTheBox : Void Whispers Writeup](https://dev.to/exploitnotes/hackthebox-void-whispers-writeup-bh5)
-- [Generator Internals: Why They Are Lazy and What That Actually Means](https://dev.to/ameer_abdullah_68d48c8496/generator-internals-why-they-are-lazy-and-what-that-actually-means-1eh1)
+- [I got tired of paying for premium AI Chatbot, so I built a completely free alternative for Android/Windows.](https://dev.to/techambient/i-got-tired-of-paying-for-premium-ai-chatbot-so-i-built-a-completely-free-alternative-for-59f9)
+- [Stop Wasting Your LLM Context Window: A Practical Strategy](https://dev.to/learnairesource/stop-wasting-your-llm-context-window-a-practical-strategy-1lgm)
+- [Archetype: The Bear Killer](https://dev.to/druid628/archetype-the-bear-killer-3e9o)
+- [&quot;My AI engineer has a second AI that tells it NO. Three times, it was right.&quot;](https://dev.to/nunc/my-ai-engineer-has-a-second-ai-that-tells-it-no-three-times-it-was-right-162l)
 <!-- BLOG-POST-LIST:END -->
 
