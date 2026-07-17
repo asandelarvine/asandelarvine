@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of paying for premium AI Chatbot, so I built a completely free alternative for Android/Windows.](https://dev.to/techambient/i-got-tired-of-paying-for-premium-ai-chatbot-so-i-built-a-completely-free-alternative-for-59f9)
-- [Stop Wasting Your LLM Context Window: A Practical Strategy](https://dev.to/learnairesource/stop-wasting-your-llm-context-window-a-practical-strategy-1lgm)
-- [Archetype: The Bear Killer](https://dev.to/druid628/archetype-the-bear-killer-3e9o)
-- [&quot;My AI engineer has a second AI that tells it NO. Three times, it was right.&quot;](https://dev.to/nunc/my-ai-engineer-has-a-second-ai-that-tells-it-no-three-times-it-was-right-162l)
+- [From Curiosity to Community: Why I Started Omnikon](https://dev.to/rishibyte/from-curiosity-to-community-why-i-started-omnikon-16kg)
+- [I Built an Open-Source Seller Earnings Calculator for Software Marketplaces](https://dev.to/esde_site/i-built-an-open-source-seller-earnings-calculator-for-software-marketplaces-4d09)
+- [Dev Opportunity Radar #8: OpenAI Build Week, AIAF Fellowship, The Residency &amp; AI Dev Tools Zoomcamp](https://dev.to/devengers/dev-opportunity-radar-8-openai-build-week-aiaf-fellowship-the-residency-ai-dev-tools-zoomcamp-5bpc)
+- [Contribute to Omnikon in GSSoC 2026](https://dev.to/rishibyte/contribute-to-omnikon-in-gssoc-2026-1occ)
 <!-- BLOG-POST-LIST:END -->
 
