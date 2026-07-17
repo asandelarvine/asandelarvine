@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Content Publishing Workflow That Actually Holds Together](https://dev.to/ahmet_saridag_9232a4f1a24/building-an-ai-content-publishing-workflow-that-actually-holds-together-3o6m)
-- [How to catch breaking OpenAPI changes before they reach production](https://dev.to/apicontractguard/how-to-catch-breaking-openapi-changes-before-they-reach-production-44jj)
-- [Grok Walks Off With Your Repo? When the &quot;Smartest Assistant&quot; Becomes the Most Dangerous Tool](https://dev.to/dufrence/grok-walks-off-with-your-repo-when-the-smartest-assistant-becomes-the-most-dangerous-tool-5bdl)
-- [LSPS Specifications: What Lightning Service Providers Are Standardizing and Why It Matters](https://dev.to/aturo_phil/lsps-specifications-what-lightning-service-providers-are-standardizing-and-why-it-matters-2nng)
+- [719 React Native Interview Questions and Answers — 2026 Edition](https://dev.to/amitkumar13/719-react-native-interview-questions-and-answers-2026-edition-31d9)
+- [How to Build a Crypto Trading Bot in 2026 &lpar;Complete Guide&rpar;](https://dev.to/gunnarthorderson/how-to-build-a-crypto-trading-bot-in-2026-complete-guide-2b9a)
+- [FATAL: no pg_hba.conf entry for host: a diagnostic flow for a symptom with sever](https://dev.to/philip_mcclarence_2ef9475/fatal-no-pghbaconf-entry-for-host-a-diagnostic-flow-for-a-symptom-with-sever-57bb)
+- [Your AI Agent Folds When You Push Back: Measured Sycophancy and a Challenge-Triggered Verification Gate](https://dev.to/hexisteme/your-ai-agent-folds-when-you-push-back-measured-sycophancy-and-a-challenge-triggered-verification-4i6n)
 <!-- BLOG-POST-LIST:END -->
 
