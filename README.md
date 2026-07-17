@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Curiosity to Community: Why I Started Omnikon](https://dev.to/rishibyte/from-curiosity-to-community-why-i-started-omnikon-16kg)
-- [I Built an Open-Source Seller Earnings Calculator for Software Marketplaces](https://dev.to/esde_site/i-built-an-open-source-seller-earnings-calculator-for-software-marketplaces-4d09)
-- [Dev Opportunity Radar #8: OpenAI Build Week, AIAF Fellowship, The Residency &amp; AI Dev Tools Zoomcamp](https://dev.to/devengers/dev-opportunity-radar-8-openai-build-week-aiaf-fellowship-the-residency-ai-dev-tools-zoomcamp-5bpc)
-- [Contribute to Omnikon in GSSoC 2026](https://dev.to/rishibyte/contribute-to-omnikon-in-gssoc-2026-1occ)
+- [クレジットカード不要で使える無料LLM APIプロバイダまとめ（2026年版）](https://dev.to/orca_forge/kurezitutokadobu-yao-deshi-eruwu-liao-llm-apipurobaidamatome2026nian-ban--4cdk)
+- [From Legos to Referees: A Brief History of How Online Games Actually Work](https://dev.to/derek_kahre/from-legos-to-referees-a-brief-history-of-how-online-games-actually-work-1e6o)
+- [Python Comprehensions: From Confusing to Crystal Clear in 10 Minutes](https://dev.to/ameer_abdullah_68d48c8496/python-comprehensions-from-confusing-to-crystal-clear-in-10-minutes-49me)
+- [🚀 Git Cheat Sheet Every Developer Should Bookmark &lpar;Learn Git Faster&rpar;](https://dev.to/sugatadev/git-cheat-sheet-every-developer-should-bookmark-learn-git-faster-465i)
 <!-- BLOG-POST-LIST:END -->
 
