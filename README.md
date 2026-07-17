@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [719 React Native Interview Questions and Answers — 2026 Edition](https://dev.to/amitkumar13/719-react-native-interview-questions-and-answers-2026-edition-31d9)
-- [How to Build a Crypto Trading Bot in 2026 &lpar;Complete Guide&rpar;](https://dev.to/gunnarthorderson/how-to-build-a-crypto-trading-bot-in-2026-complete-guide-2b9a)
-- [FATAL: no pg_hba.conf entry for host: a diagnostic flow for a symptom with sever](https://dev.to/philip_mcclarence_2ef9475/fatal-no-pghbaconf-entry-for-host-a-diagnostic-flow-for-a-symptom-with-sever-57bb)
-- [Your AI Agent Folds When You Push Back: Measured Sycophancy and a Challenge-Triggered Verification Gate](https://dev.to/hexisteme/your-ai-agent-folds-when-you-push-back-measured-sycophancy-and-a-challenge-triggered-verification-4i6n)
+- [Node.js Internals — An Uncle-Nephew Conversation &lpar;Hindi&rpar;🍵](https://dev.to/surajrkhonde/nodejs-internals-an-uncle-nephew-conversation-hindi-7n0)
+- [Under the hood of, JavaScript&#39;s Type Conversion](https://dev.to/d32ssv/under-the-hood-of-javascripts-type-conversion-2epc)
+- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-706)
+- [Catch the 5-Hour Cap Before You Hit It: token-budget-advisor and Status-Line Integration](https://dev.to/bokuwalily/catch-the-5-hour-cap-before-you-hit-it-token-budget-advisor-and-status-line-integration-14ab)
 <!-- BLOG-POST-LIST:END -->
 
