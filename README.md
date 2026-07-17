@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Review, Part 2: The Reviewer That Learned To Lie Better](https://dev.to/raleighschickel/code-review-part-2-the-reviewer-that-learned-to-lie-better-4901)
-- [Steer by Intent, Monitor by Exception](https://dev.to/sameer_halbe_42366ad6cd70/steer-by-intentmonitor-by-exception-4pfo)
-- [I Got Tired of AI Quiz Tools Making Up Facts That Weren&#39;t In My Notes, So I Built One That Can&#39;t](https://dev.to/jim_l_efc70c3a738e9f4baa7/i-got-tired-of-ai-quiz-tools-making-up-facts-that-werent-in-my-notes-so-i-built-one-that-cant-3c99)
-- [When Green Browser Tests Lie: Environment Drift, CI Noise, and Hidden Runtime Failures](https://dev.to/orbitpickle307/when-green-browser-tests-lie-environment-drift-ci-noise-and-hidden-runtime-failures-1p69)
+- [How to Display a PDF Inside Your Adalo App &lpar;iOS, Android &amp; Web&rpar;](https://dev.to/shinnawy/how-to-display-a-pdf-inside-your-adalo-app-ios-android-web-31l)
+- [Someone said &quot;let&#39;s make a new internet&quot; — sarcastically.](https://dev.to/thomas_verhave_8976b2c977/someone-said-lets-make-a-new-internet-sarcastically-ljc)
+- [Show HN: Weft](https://dev.to/thomas_verhave_8976b2c977/show-hn-weft-mo7)
+- [The OpenTofu Errors You&#39;ll Actually Hit &lpar;and How to Fix Them Fast&rpar;](https://dev.to/jjoyneriv/the-opentofu-errors-youll-actually-hit-and-how-to-fix-them-fast-3f9e)
 <!-- BLOG-POST-LIST:END -->
 
