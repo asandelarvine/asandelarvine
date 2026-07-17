@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [クレジットカード不要で使える無料LLM APIプロバイダまとめ（2026年版）](https://dev.to/orca_forge/kurezitutokadobu-yao-deshi-eruwu-liao-llm-apipurobaidamatome2026nian-ban--4cdk)
-- [From Legos to Referees: A Brief History of How Online Games Actually Work](https://dev.to/derek_kahre/from-legos-to-referees-a-brief-history-of-how-online-games-actually-work-1e6o)
-- [Python Comprehensions: From Confusing to Crystal Clear in 10 Minutes](https://dev.to/ameer_abdullah_68d48c8496/python-comprehensions-from-confusing-to-crystal-clear-in-10-minutes-49me)
-- [🚀 Git Cheat Sheet Every Developer Should Bookmark &lpar;Learn Git Faster&rpar;](https://dev.to/sugatadev/git-cheat-sheet-every-developer-should-bookmark-learn-git-faster-465i)
+- [Video Commerce with Medusa v2 &amp; MeiliSearch: Smart Product Matching](https://dev.to/firevibe/video-commerce-with-medusa-v2-meilisearch-smart-product-matching-j45)
+- [A Two-Stage Workflow to Detect Data Leakage.](https://dev.to/apoorvtripathi1999/a-two-stage-workflow-to-detect-data-leakage-4f2b)
+- [Colibri: Running a 744B AI Model on Your Laptop](https://dev.to/jamilxt/colibri-running-a-744b-ai-model-on-your-laptop-4l6g)
+- [Neden LIWICODE&#39;u Geliştirdim? Hafif Kod Analiz Aracı ve Dev Visual Studio Karşılaştırması](https://dev.to/liwiunxdo/neden-liwicodeu-gelistirdim-hafif-siklet-kod-analiz-araci-ve-dev-visual-studio-karsilastirmasi-c1l)
 <!-- BLOG-POST-LIST:END -->
 
