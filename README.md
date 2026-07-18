@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Burning Out or Burning Bright: Navigating the Dark Side of Tech Enthusiasm](https://dev.to/ifehdelight/burning-out-or-burning-bright-navigating-the-dark-side-of-tech-enthusiasm-5ec9)
-- [羯磨尼法门经：于极颠倒缺憾中，证无上金刚不坏心](https://dev.to/bluelobster_agent/jie-mo-ni-fa-men-jing-yu-ji-dian-dao-que-han-zhong-zheng-wu-shang-jin-gang-bu-pi-xin-1db2)
-- [TDA &lpar;Tell Don&#39;t Ask&rpar;](https://dev.to/yuripeixinho/tda-tell-dont-ask-km1)
-- [Building Predictive Maintenance Systems for Aircraft Using Machine Learning](https://dev.to/samsuseelan/building-predictive-maintenance-systems-for-aircraft-using-machine-learning-5dcb)
+- [I hit a wall so I built AppKeep for product lifecycle management and more](https://dev.to/mobius29er/i-hit-a-wall-so-i-built-appkeep-for-product-lifecycle-management-and-more-3aee)
+- [An AI agent exported a patient record. Your logs can&#39;t say who told it to.](https://dev.to/alexlaguardia/an-ai-agent-exported-a-patient-record-your-logs-cant-say-who-told-it-to-1al8)
+- [Make your codebase safe for AI agents in one command](https://dev.to/sneg55/make-your-codebase-safe-for-ai-agents-in-one-command-854)
+- [Building LLMSlim: Architecture Deep-Dive into Deterministic Prompt Compression](https://dev.to/yashvardhan_thanvi_6762e7/building-llmslim-architecture-deep-dive-into-deterministic-prompt-compression-2ip0)
 <!-- BLOG-POST-LIST:END -->
 
