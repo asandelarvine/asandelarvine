@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Display a PDF Inside Your Adalo App &lpar;iOS, Android &amp; Web&rpar;](https://dev.to/shinnawy/how-to-display-a-pdf-inside-your-adalo-app-ios-android-web-31l)
-- [Someone said &quot;let&#39;s make a new internet&quot; — sarcastically.](https://dev.to/thomas_verhave_8976b2c977/someone-said-lets-make-a-new-internet-sarcastically-ljc)
-- [Show HN: Weft](https://dev.to/thomas_verhave_8976b2c977/show-hn-weft-mo7)
-- [The OpenTofu Errors You&#39;ll Actually Hit &lpar;and How to Fix Them Fast&rpar;](https://dev.to/jjoyneriv/the-opentofu-errors-youll-actually-hit-and-how-to-fix-them-fast-3f9e)
+- [I Spent Months Building a Financial Reconciliation Engine That Processes 10 Million Records in Under Five Minutes](https://dev.to/koladev/i-spent-months-building-a-financial-reconciliation-engine-that-processes-10-million-records-in-20o4)
+- [How to Build an AI-Powered Web Article Summarizer with Python 🐍](https://dev.to/mohamedpythonist/how-to-build-an-ai-powered-web-article-summarizer-with-python-4djb)
+- [Most Shopify Developers Use This Every Day. Almost Nobody Knows Why It Exists.](https://dev.to/sammulla47/most-shopify-developers-use-this-every-day-almost-nobody-knows-why-it-exists-4ehc)
+- [Your Paywall May Not Be the Leak: Audit These 5 Subscription Handoffs First](https://dev.to/funnelleakaudit/your-paywall-may-not-be-the-leak-audit-these-5-subscription-handoffs-first-4nok)
 <!-- BLOG-POST-LIST:END -->
 
