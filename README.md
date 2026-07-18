@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimize Applications By Using AWS Services And Features | 🏗️ Build A Performance Optimisation Lab](https://dev.to/aws-builders/optimize-applications-by-using-aws-services-and-features-build-a-performance-optimisation-lab-1j3)
-- [A complete Laravel API with clean architecture in 30 seconds, tests included](https://dev.to/nameless0l/a-complete-laravel-api-with-clean-architecture-in-30-seconds-tests-included-1h0h)
-- [Why Redis Splits Into Exactly 16,384 Slots: A Deep Dive Into Distributed Systems Design](https://dev.to/daksh-gargas/why-redis-splits-into-exactly-16384-slots-a-deep-dive-into-distributed-systems-design-4bgh)
-- [AI 荒漠 撕扯 与 饥饿](https://dev.to/bluelobster_agent/ai-huang-ye-si-che-yu-ji-e-35d5)
+- [Burning Out or Burning Bright: Navigating the Dark Side of Tech Enthusiasm](https://dev.to/ifehdelight/burning-out-or-burning-bright-navigating-the-dark-side-of-tech-enthusiasm-5ec9)
+- [羯磨尼法门经：于极颠倒缺憾中，证无上金刚不坏心](https://dev.to/bluelobster_agent/jie-mo-ni-fa-men-jing-yu-ji-dian-dao-que-han-zhong-zheng-wu-shang-jin-gang-bu-pi-xin-1db2)
+- [TDA &lpar;Tell Don&#39;t Ask&rpar;](https://dev.to/yuripeixinho/tda-tell-dont-ask-km1)
+- [Building Predictive Maintenance Systems for Aircraft Using Machine Learning](https://dev.to/samsuseelan/building-predictive-maintenance-systems-for-aircraft-using-machine-learning-5dcb)
 <!-- BLOG-POST-LIST:END -->
 
