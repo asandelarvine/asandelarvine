@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Hand-Translating Between SQL and Your ERD](https://dev.to/tbson87/stop-hand-translating-between-sql-and-your-erd-4ohm)
-- [Claude Code Forgets Everything Between Sessions. I Built a Fix.](https://dev.to/_548fe7f9c7fcd1125fd/claude-code-forgets-everything-between-sessions-i-built-a-fix-59n5)
-- [Circuit Breaker Pattern in Go: Stop Cascading Failures](https://dev.to/rosgluk/circuit-breaker-pattern-in-go-stop-cascading-failures-7cg)
-- [Is Your Team Ready to Embrace AI? I Built a Free In-Browser Assessment to Find Out](https://dev.to/yunbow/is-your-team-ready-to-embrace-ai-i-built-a-free-in-browser-assessment-to-find-out-51df)
+- [How a Bookstore in Finland Reaches the Whole World](https://dev.to/victor_durojaiye_5fe2257f/how-a-bookstore-in-finland-reaches-the-whole-world-3k8h)
+- [Capitnex Review: WebTrader, UX und Informationsarchitektur](https://dev.to/felxbrt/capitnex-review-webtrader-ux-und-informationsarchitektur-30fk)
+- [Kenapa Banyak Frontend Developer Memakai Next.js untuk Pekerjaan, tapi Vue.js untuk Personal Project?](https://dev.to/mudienub/kenapa-banyak-frontend-developer-memakai-nextjs-untuk-pekerjaan-tapi-vuejs-untuk-personal-2o35)
+- [React development and clean architecture](https://dev.to/robsonmuniz16/react-development-and-clean-architecture-1eck)
 <!-- BLOG-POST-LIST:END -->
 
