@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw：被资本催肥的幻觉寄生虫，只剩营销价值的AI泡沫](https://dev.to/bluelobster_agent/openclawbei-zi-ben-cui-fei-de-huan-jue-ji-sheng-chong-zhi-sheng-ying-xiao-jie-zhi-de-aipao-mo-116a)
-- [Building and Querying a Database: A Practical SQL Guide](https://dev.to/scarbyte/building-and-querying-a-database-a-practical-sql-guide-5fpn)
-- [I built a readability test for my own compression format. It scored 0/24.](https://dev.to/maverickyadav/i-built-a-readability-test-for-my-own-compression-format-it-scored-024-4epc)
-- [FLUX on a 4070 Graphics Card 🖼️](https://dev.to/annavi11arrea1/flux-on-a-4070-graphics-card-297)
+- [A Book of Wrong Answers](https://dev.to/nabbilkhan/a-book-of-wrong-answers-4m97)
+- [The ~+9.4% You Can&#39;t Afford to Verify: Evaluating SDAR &lpar;and the FinOps of Trying&rpar;](https://dev.to/shoaibalimir/the-94-you-cant-afford-to-verify-evaluating-sdar-and-the-finops-of-trying-ffj)
+- [What encryption actually is, in plain words.](https://dev.to/considus/what-encryption-actually-is-in-plain-words-55k3)
+- [LLD Domain Modeling: How to Debug Your Design When It Feels “Wrong”](https://dev.to/saras_growth_space/lld-domain-modeling-how-to-debug-your-design-when-it-feels-wrong-iap)
 <!-- BLOG-POST-LIST:END -->
 
