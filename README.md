@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibecoding: When the AI writes the code and you manage the intent](https://dev.to/ntty/vibecoding-when-the-ai-writes-the-code-and-you-manage-the-intent-190d)
-- [Auto-Migrating Claude Code with a Throwaway launchd Job — a Script That Deletes Itself When Its Work Is Done](https://dev.to/bokuwalily/auto-migrating-claude-code-with-a-throwaway-launchd-job-a-script-that-deletes-itself-when-its-e7k)
-- [Ray-Ban Meta and the Bystander](https://dev.to/rawveg/ray-ban-meta-and-the-bystander-2o47)
-- [Build Durable Agents With Pydantic AI And Temporal](https://dev.to/joxiahdev/build-durable-agents-with-pydantic-ai-and-temporal-3e67)
+- [Don’t Use console.log for Logging: What Vercel’s Founder Warned About](https://dev.to/biomathcode/dont-use-consolelog-for-logging-what-vercels-founder-warned-about-1n46)
+- [Technical Leadership vs. Managerial Leadership: Chart Your Career Path](https://dev.to/merbayerp/technical-leadership-vs-managerial-leadership-chart-your-career-path-2o13)
+- [Can Codex Build an Entire x86 Assembly Game Autonomously? A Real-World Experiment](https://dev.to/mbostjan/can-codex-build-an-entire-x86-assembly-game-autonomously-a-real-world-experiment-mik)
+- [I kept losing the things AI made for me, so I built an iPhone library for them](https://dev.to/spingras/i-kept-losing-the-things-ai-made-for-me-so-i-built-an-iphone-library-for-them-4pe7)
 <!-- BLOG-POST-LIST:END -->
 
