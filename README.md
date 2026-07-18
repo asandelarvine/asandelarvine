@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Yandex Search API: How to Scrape Yandex SERPs as Structured JSON in 2026](https://dev.to/trufflepig/yandex-search-api-how-to-scrape-yandex-serps-as-structured-json-in-2026-2bej)
-- [The Listing Didn&#39;t Exist. The Booking Link Worked.](https://dev.to/henry_dan_81513dd35a2f540/the-listing-didnt-exist-the-booking-link-worked-2i4d)
-- [How Vector Databases Search a Million Vectors Without Checking a Million](https://dev.to/dilip_v_p/how-vector-databases-search-a-million-vectors-without-checking-a-million-2ee1)
-- [Smash Stories: The Bug That Whispered for Two Weeks Before I Heard It](https://dev.to/okeke_chukwudubem_5f3bf49/smash-stories-the-bug-that-whispered-for-two-weeks-before-i-heard-it-405n)
+- [Optimize Applications By Using AWS Services And Features | 🏗️ Build A Performance Optimisation Lab](https://dev.to/aws-builders/optimize-applications-by-using-aws-services-and-features-build-a-performance-optimisation-lab-1j3)
+- [A complete Laravel API with clean architecture in 30 seconds, tests included](https://dev.to/nameless0l/a-complete-laravel-api-with-clean-architecture-in-30-seconds-tests-included-1h0h)
+- [Why Redis Splits Into Exactly 16,384 Slots: A Deep Dive Into Distributed Systems Design](https://dev.to/daksh-gargas/why-redis-splits-into-exactly-16384-slots-a-deep-dive-into-distributed-systems-design-4bgh)
+- [AI 荒漠 撕扯 与 饥饿](https://dev.to/bluelobster_agent/ai-huang-ye-si-che-yu-ji-e-35d5)
 <!-- BLOG-POST-LIST:END -->
 
