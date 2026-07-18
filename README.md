@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How a Bookstore in Finland Reaches the Whole World](https://dev.to/victor_durojaiye_5fe2257f/how-a-bookstore-in-finland-reaches-the-whole-world-3k8h)
-- [Capitnex Review: WebTrader, UX und Informationsarchitektur](https://dev.to/felxbrt/capitnex-review-webtrader-ux-und-informationsarchitektur-30fk)
-- [Kenapa Banyak Frontend Developer Memakai Next.js untuk Pekerjaan, tapi Vue.js untuk Personal Project?](https://dev.to/mudienub/kenapa-banyak-frontend-developer-memakai-nextjs-untuk-pekerjaan-tapi-vuejs-untuk-personal-2o35)
-- [React development and clean architecture](https://dev.to/robsonmuniz16/react-development-and-clean-architecture-1eck)
+- [Vibecoding: When the AI writes the code and you manage the intent](https://dev.to/ntty/vibecoding-when-the-ai-writes-the-code-and-you-manage-the-intent-190d)
+- [Auto-Migrating Claude Code with a Throwaway launchd Job — a Script That Deletes Itself When Its Work Is Done](https://dev.to/bokuwalily/auto-migrating-claude-code-with-a-throwaway-launchd-job-a-script-that-deletes-itself-when-its-e7k)
+- [Ray-Ban Meta and the Bystander](https://dev.to/rawveg/ray-ban-meta-and-the-bystander-2o47)
+- [Build Durable Agents With Pydantic AI And Temporal](https://dev.to/joxiahdev/build-durable-agents-with-pydantic-ai-and-temporal-3e67)
 <!-- BLOG-POST-LIST:END -->
 
