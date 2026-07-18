@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Going Below Android&#39;s Volume Floor: DynamicsProcessing, LoudnessEnhancer, and Reproducible F-Droid Builds](https://dev.to/rzuss/going-below-androids-volume-floor-dynamicsprocessing-loudnessenhancer-and-reproducible-f-droid-3aje)
-- [Your PDFs Are Eating Your LLM&#39;s Tokens for Breakfast](https://dev.to/lovestaco/your-pdfs-are-eating-your-llms-tokens-for-breakfast-1k96)
-- [[Boost]](https://dev.to/copyleftdev/-3c00)
-- [[Boost]](https://dev.to/renolu/-1h7c)
+- [Yandex Search API: How to Scrape Yandex SERPs as Structured JSON in 2026](https://dev.to/trufflepig/yandex-search-api-how-to-scrape-yandex-serps-as-structured-json-in-2026-2bej)
+- [The Listing Didn&#39;t Exist. The Booking Link Worked.](https://dev.to/henry_dan_81513dd35a2f540/the-listing-didnt-exist-the-booking-link-worked-2i4d)
+- [How Vector Databases Search a Million Vectors Without Checking a Million](https://dev.to/dilip_v_p/how-vector-databases-search-a-million-vectors-without-checking-a-million-2ee1)
+- [Smash Stories: The Bug That Whispered for Two Weeks Before I Heard It](https://dev.to/okeke_chukwudubem_5f3bf49/smash-stories-the-bug-that-whispered-for-two-weeks-before-i-heard-it-405n)
 <!-- BLOG-POST-LIST:END -->
 
