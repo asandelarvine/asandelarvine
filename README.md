@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Book of Wrong Answers](https://dev.to/nabbilkhan/a-book-of-wrong-answers-4m97)
-- [The ~+9.4% You Can&#39;t Afford to Verify: Evaluating SDAR &lpar;and the FinOps of Trying&rpar;](https://dev.to/shoaibalimir/the-94-you-cant-afford-to-verify-evaluating-sdar-and-the-finops-of-trying-ffj)
-- [What encryption actually is, in plain words.](https://dev.to/considus/what-encryption-actually-is-in-plain-words-55k3)
-- [LLD Domain Modeling: How to Debug Your Design When It Feels “Wrong”](https://dev.to/saras_growth_space/lld-domain-modeling-how-to-debug-your-design-when-it-feels-wrong-iap)
+- [Going Below Android&#39;s Volume Floor: DynamicsProcessing, LoudnessEnhancer, and Reproducible F-Droid Builds](https://dev.to/rzuss/going-below-androids-volume-floor-dynamicsprocessing-loudnessenhancer-and-reproducible-f-droid-3aje)
+- [Your PDFs Are Eating Your LLM&#39;s Tokens for Breakfast](https://dev.to/lovestaco/your-pdfs-are-eating-your-llms-tokens-for-breakfast-1k96)
+- [[Boost]](https://dev.to/copyleftdev/-3c00)
+- [[Boost]](https://dev.to/renolu/-1h7c)
 <!-- BLOG-POST-LIST:END -->
 
