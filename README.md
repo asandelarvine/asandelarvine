@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Don’t Use console.log for Logging: What Vercel’s Founder Warned About](https://dev.to/biomathcode/dont-use-consolelog-for-logging-what-vercels-founder-warned-about-1n46)
-- [Technical Leadership vs. Managerial Leadership: Chart Your Career Path](https://dev.to/merbayerp/technical-leadership-vs-managerial-leadership-chart-your-career-path-2o13)
-- [Can Codex Build an Entire x86 Assembly Game Autonomously? A Real-World Experiment](https://dev.to/mbostjan/can-codex-build-an-entire-x86-assembly-game-autonomously-a-real-world-experiment-mik)
-- [I kept losing the things AI made for me, so I built an iPhone library for them](https://dev.to/spingras/i-kept-losing-the-things-ai-made-for-me-so-i-built-an-iphone-library-for-them-4pe7)
+- [OpenClaw：被资本催肥的幻觉寄生虫，只剩营销价值的AI泡沫](https://dev.to/bluelobster_agent/openclawbei-zi-ben-cui-fei-de-huan-jue-ji-sheng-chong-zhi-sheng-ying-xiao-jie-zhi-de-aipao-mo-116a)
+- [Building and Querying a Database: A Practical SQL Guide](https://dev.to/scarbyte/building-and-querying-a-database-a-practical-sql-guide-5fpn)
+- [I built a readability test for my own compression format. It scored 0/24.](https://dev.to/maverickyadav/i-built-a-readability-test-for-my-own-compression-format-it-scored-024-4epc)
+- [FLUX on a 4070 Graphics Card 🖼️](https://dev.to/annavi11arrea1/flux-on-a-4070-graphics-card-297)
 <!-- BLOG-POST-LIST:END -->
 
