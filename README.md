@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Benchmarking Gemini 2.5 Flash vs 3.1 Flash-Lite vs Gemma 4 with LLM judge &lpar;Claude Fable 5&rpar;](https://dev.to/io_56a2cd4aff31d/benchmarking-gemini-25-flash-vs-31-flash-lite-vs-gemma-4-with-llm-judge-claude-fable-5-356)
-- [Adding an AI Chat Feature to My Expense Manager](https://dev.to/oluchii/adding-an-ai-chat-feature-to-my-expense-manager-32j0)
-- [Why Your Automation Completed Successfully But Shipped Nothing](https://dev.to/babarmaker76/why-your-automation-completed-successfully-but-shipped-nothing-3pa2)
-- [Your Calculator App Has a Units Problem](https://dev.to/damion_gayle56/your-calculator-app-has-a-units-problem-2177)
+- [Stop Hand-Translating Between SQL and Your ERD](https://dev.to/tbson87/stop-hand-translating-between-sql-and-your-erd-4ohm)
+- [Claude Code Forgets Everything Between Sessions. I Built a Fix.](https://dev.to/_548fe7f9c7fcd1125fd/claude-code-forgets-everything-between-sessions-i-built-a-fix-59n5)
+- [Circuit Breaker Pattern in Go: Stop Cascading Failures](https://dev.to/rosgluk/circuit-breaker-pattern-in-go-stop-cascading-failures-7cg)
+- [Is Your Team Ready to Embrace AI? I Built a Free In-Browser Assessment to Find Out](https://dev.to/yunbow/is-your-team-ready-to-embrace-ai-i-built-a-free-in-browser-assessment-to-find-out-51df)
 <!-- BLOG-POST-LIST:END -->
 
