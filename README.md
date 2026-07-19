@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&lt;InSource&gt; argo-workflows #14615](https://dev.to/hchsu/argo-workflows-14615-3koo)
-- [Angular Selectorless Support](https://dev.to/wszgrcy/angular-selectorless-support-1gai)
-- [I built a Chrome extension that reads AI usage limits, and MV3 cookies nearly broke me](https://dev.to/jsdevspace/i-built-a-chrome-extension-that-reads-ai-usage-limits-and-mv3-cookies-nearly-broke-me-3fce)
-- [Reading a Rust crate&#39;s capabilities out of its compiled symbols](https://dev.to/booyaka101/reading-a-rust-crates-capabilities-out-of-its-compiled-symbols-58pb)
+- [Would this be the new CLI you would use Claw-coder](https://dev.to/gabrielblessed/would-this-be-the-new-cli-you-would-use-claw-coder-3b8f)
+- [SERIES: AI SIMPLIFIED](https://dev.to/autonomous/series-ai-simplified-4ohi)
+- [The Developer Becomes a Pipeliner](https://dev.to/casamia918/the-developer-becomes-a-pipeliner-5875)
+- [Contract Testing a Nutrition API with Millions of Messy Records](https://dev.to/dietly/contract-testing-a-nutrition-api-with-millions-of-messy-records-6bc)
 <!-- BLOG-POST-LIST:END -->
 
