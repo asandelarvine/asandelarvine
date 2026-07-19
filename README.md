@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Would this be the new CLI you would use Claw-coder](https://dev.to/gabrielblessed/would-this-be-the-new-cli-you-would-use-claw-coder-3b8f)
-- [SERIES: AI SIMPLIFIED](https://dev.to/autonomous/series-ai-simplified-4ohi)
-- [The Developer Becomes a Pipeliner](https://dev.to/casamia918/the-developer-becomes-a-pipeliner-5875)
-- [Contract Testing a Nutrition API with Millions of Messy Records](https://dev.to/dietly/contract-testing-a-nutrition-api-with-millions-of-messy-records-6bc)
+- [DevLog #1: Re-entering the Matrix after years away](https://dev.to/moleaine/devlog-1-re-entering-the-matrix-after-years-away-318g)
+- [The Difference Between a Review and an Advert](https://dev.to/review-it/the-difference-between-a-review-and-an-advert-1f26)
+- [I Built an Architecture Intelligence Tool for React &amp; Next.js During the OpenAI Build Week Hackathon](https://dev.to/gkhan205/i-built-an-architecture-intelligence-tool-for-react-nextjs-during-the-openai-build-week-hackathon-37ba)
+- [The date string that invented $725 in a synthetic margin report](https://dev.to/michaelalriggs/the-date-string-that-invented-725-in-a-synthetic-margin-report-3o79)
 <!-- BLOG-POST-LIST:END -->
 
