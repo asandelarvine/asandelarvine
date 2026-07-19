@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Brain Science: Friday, July 17](https://dev.to/thula/brain-science-friday-july-17-dp5)
-- [Building an Interactive Shell in Python with Aetherix](https://dev.to/divyanshusinha136/building-an-interactive-shell-in-python-with-aetherix-33d6)
-- [How to Test Your Current Website for WCAG Compliance ?](https://dev.to/kiransm/how-to-test-your-current-website-for-wcag-compliance--1dde)
-- [Vibe Coding: From Viral Tweet to Default Development Practice](https://dev.to/keerat_rashid/vibe-coding-from-viral-tweet-to-default-development-practice-2bi9)
+- [Testing AI Agents with AgentSpec: Jest for Non-Deterministic Behavior](https://dev.to/pawfromoz/testing-ai-agents-with-agentspec-jest-for-non-deterministic-behavior-55kg)
+- [How to Validate an App Idea Before Building It &lpar;The Cheap, Honest Way&rpar;](https://dev.to/assindo/how-to-validate-an-app-idea-before-building-it-the-cheap-honest-way-51f6)
+- [How AI Agents Actually Work](https://dev.to/paulcrinigan/how-ai-agents-actually-work-1ljd)
+- [A One-Second Static Check for E2E Selector Drift](https://dev.to/cydavid/a-one-second-static-check-for-e2e-selector-drift-21gf)
 <!-- BLOG-POST-LIST:END -->
 
