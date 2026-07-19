@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevLog #1: Re-entering the Matrix after years away](https://dev.to/moleaine/devlog-1-re-entering-the-matrix-after-years-away-318g)
-- [The Difference Between a Review and an Advert](https://dev.to/review-it/the-difference-between-a-review-and-an-advert-1f26)
-- [I Built an Architecture Intelligence Tool for React &amp; Next.js During the OpenAI Build Week Hackathon](https://dev.to/gkhan205/i-built-an-architecture-intelligence-tool-for-react-nextjs-during-the-openai-build-week-hackathon-37ba)
-- [The date string that invented $725 in a synthetic margin report](https://dev.to/michaelalriggs/the-date-string-that-invented-725-in-a-synthetic-margin-report-3o79)
+- [Brain Science: Friday, July 17](https://dev.to/thula/brain-science-friday-july-17-dp5)
+- [Building an Interactive Shell in Python with Aetherix](https://dev.to/divyanshusinha136/building-an-interactive-shell-in-python-with-aetherix-33d6)
+- [How to Test Your Current Website for WCAG Compliance ?](https://dev.to/kiransm/how-to-test-your-current-website-for-wcag-compliance--1dde)
+- [Vibe Coding: From Viral Tweet to Default Development Practice](https://dev.to/keerat_rashid/vibe-coding-from-viral-tweet-to-default-development-practice-2bi9)
 <!-- BLOG-POST-LIST:END -->
 
