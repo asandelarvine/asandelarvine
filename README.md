@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Got Tired of Hand-Translating Xcode Plists, So I Built a Tiny Free Tool to Do It On-Device](https://dev.to/swainwri/i-got-tired-of-hand-translating-xcode-plists-so-i-built-a-tiny-free-tool-to-do-it-on-device-3cod)
-- [A Practical Workflow for Contributing to a Large, Structured Codebase](https://dev.to/daniel_wu_c0ec7ad41de5f61/my-workflow-when-contributing-to-a-structured-codebase-1878)
-- [The Problems with Modern Web Development](https://dev.to/user93390/the-problems-with-modern-web-development-118c)
-- [Backend Development Isn&#39;t Just CRUD. Abeg Make We Talk True.](https://dev.to/technvernacular/backend-development-isnt-just-crud-abeg-make-we-talk-true-nmb)
+- [How Akhouri Systems crossed 400 downloads with zero dollar spend](https://dev.to/akhourianmolkumar/how-akhouri-systems-crossed-400-downloads-with-zero-dollar-spend-4o1h)
+- [One Bucket, Two Terraform Owners - the Last apply Wins](https://dev.to/whynext/one-bucket-two-terraform-owners-the-last-apply-wins-2abk)
+- [A Complete Guide to Moonshot&#39;s New 2.8T Flagship](https://dev.to/prodevopsguytech/a-complete-guide-to-moonshots-new-28t-flagship-2lme)
+- [5 Proof Gates Between an AI Demo and a Shippable MVP](https://dev.to/eric-evidence-gate/5-proof-gates-between-an-ai-demo-and-a-shippable-mvp-294)
 <!-- BLOG-POST-LIST:END -->
 
