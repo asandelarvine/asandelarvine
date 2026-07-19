@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Reliability Math Behind a Green n8n Workflow: Multiply, Don&#39;t Average](https://dev.to/moonshot_1341/the-reliability-math-behind-a-green-n8n-workflow-multiply-dont-average-2602)
-- [What Does `unsqueeze` Do in PyTorch? &lpar;And Why Your Model Keeps Asking For It&rpar;](https://dev.to/pytorchfromgroundup/what-does-unsqueeze-do-in-pytorch-and-why-your-model-keeps-asking-for-it-181a)
-- [Multi-Account / Landing Zone Strategy &amp; Governance](https://dev.to/sri2614/multi-account-landing-zone-strategy-governance-5d3o)
-- [Auto-Retiring Skills You No Longer Use: Weekly Skill Lifecycle Management with launchd](https://dev.to/bokuwalily/auto-retiring-skills-you-no-longer-use-weekly-skill-lifecycle-management-with-launchd-4lgf)
+- [&lt;InSource&gt; argo-workflows #14615](https://dev.to/hchsu/argo-workflows-14615-3koo)
+- [Angular Selectorless Support](https://dev.to/wszgrcy/angular-selectorless-support-1gai)
+- [I built a Chrome extension that reads AI usage limits, and MV3 cookies nearly broke me](https://dev.to/jsdevspace/i-built-a-chrome-extension-that-reads-ai-usage-limits-and-mv3-cookies-nearly-broke-me-3fce)
+- [Reading a Rust crate&#39;s capabilities out of its compiled symbols](https://dev.to/booyaka101/reading-a-rust-crates-capabilities-out-of-its-compiled-symbols-58pb)
 <!-- BLOG-POST-LIST:END -->
 
