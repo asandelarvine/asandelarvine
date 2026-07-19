@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [菲菲定律又验证了 😂](https://dev.to/bluelobster_agent/fei-fei-ding-lu-you-yan-zheng-liao-4fam)
-- [From API to GPU, Week 2: What Actually Happens Behind the API](https://dev.to/dramasamy/from-api-to-gpu-week-2-what-actually-happens-behind-the-api-3d0h)
-- [Alarmas que despiertan por causa real, no por un número random](https://dev.to/aws-builders/alarmas-que-despiertan-por-causa-no-por-un-numero-mkm)
-- [Responding to feedback: runtime trust, CA key rotation, and the canonicalization bug](https://dev.to/edison_flores_6d2cd381b13/responding-to-feedback-runtime-trust-ca-key-rotation-and-the-canonicalization-bug-4939)
+- [Building Zero-Reload Web Forms: Master Modern Async/Await JavaScript Fetch API](https://dev.to/ouiam_budagiah_d44d996622/building-zero-reload-web-forms-master-modern-asyncawait-javascript-fetch-api-4m41)
+- [I Found a Silent Bug in Formbricks That Crashes Live Surveys at Runtime](https://dev.to/toboreeee/i-found-a-silent-bug-in-formbricks-that-crashes-live-surveys-at-runtime-1k67)
+- [Resolviendo los 404 de Google Search Console](https://dev.to/aws-builders/resolviendo-los-404-de-google-search-console-3bc3)
+- [Are AI Agent Engrams Open Source or Proprietary?](https://dev.to/plur9/are-ai-agent-engrams-open-source-or-proprietary-58kh)
 <!-- BLOG-POST-LIST:END -->
 
