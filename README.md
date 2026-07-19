@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is your agent&#39;s grep tool a shell command?](https://dev.to/vdalal/is-your-agents-grep-tool-a-shell-command-4002)
-- [Testing Keycloak SPIs with Testcontainers — the part every tutorial skips](https://dev.to/jihedbfrart/testing-keycloak-spis-with-testcontainers-the-part-every-tutorial-skips-4loe)
-- [Your Keycloak roles aren&#39;t working in Spring Security. Here&#39;s the actual reason.](https://dev.to/jihedbfrart/your-keycloak-roles-arent-working-in-spring-security-heres-the-actual-reason-8fo)
-- [Build a Pear Protocol DeFi trading agent with MCP](https://dev.to/marvelcodes/build-a-pear-protocol-defi-trading-agent-with-mcp-499o)
+- [I Got Tired of Hand-Translating Xcode Plists, So I Built a Tiny Free Tool to Do It On-Device](https://dev.to/swainwri/i-got-tired-of-hand-translating-xcode-plists-so-i-built-a-tiny-free-tool-to-do-it-on-device-3cod)
+- [A Practical Workflow for Contributing to a Large, Structured Codebase](https://dev.to/daniel_wu_c0ec7ad41de5f61/my-workflow-when-contributing-to-a-structured-codebase-1878)
+- [The Problems with Modern Web Development](https://dev.to/user93390/the-problems-with-modern-web-development-118c)
+- [Backend Development Isn&#39;t Just CRUD. Abeg Make We Talk True.](https://dev.to/technvernacular/backend-development-isnt-just-crud-abeg-make-we-talk-true-nmb)
 <!-- BLOG-POST-LIST:END -->
 
