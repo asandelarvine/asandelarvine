@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Akhouri Systems crossed 400 downloads with zero dollar spend](https://dev.to/akhourianmolkumar/how-akhouri-systems-crossed-400-downloads-with-zero-dollar-spend-4o1h)
-- [One Bucket, Two Terraform Owners - the Last apply Wins](https://dev.to/whynext/one-bucket-two-terraform-owners-the-last-apply-wins-2abk)
-- [A Complete Guide to Moonshot&#39;s New 2.8T Flagship](https://dev.to/prodevopsguytech/a-complete-guide-to-moonshots-new-28t-flagship-2lme)
-- [5 Proof Gates Between an AI Demo and a Shippable MVP](https://dev.to/eric-evidence-gate/5-proof-gates-between-an-ai-demo-and-a-shippable-mvp-294)
+- [Cross-Vendor Audit: What It Caught in My Own Model&#39;s Writing, and What It Got Wrong](https://dev.to/hexisteme/cross-vendor-audit-what-it-caught-in-my-own-models-writing-and-what-it-got-wrong-3f7g)
+- [The Ideal Cart: 5 Design Patterns That Earn Their Keep &lpar;and 2 Refused&rpar;](https://dev.to/ohugonnot/the-ideal-cart-5-design-patterns-that-earn-their-keep-and-2-refused-2nli)
+- [How to get your site cited by AI assistants](https://dev.to/turva-dev/how-to-get-your-site-cited-by-ai-assistants-35f1)
+- [Data transfer between script files](https://dev.to/eliozashvili/data-transfer-between-script-files-3lp5)
 <!-- BLOG-POST-LIST:END -->
 
