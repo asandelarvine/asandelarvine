@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Vendor Audit: What It Caught in My Own Model&#39;s Writing, and What It Got Wrong](https://dev.to/hexisteme/cross-vendor-audit-what-it-caught-in-my-own-models-writing-and-what-it-got-wrong-3f7g)
-- [The Ideal Cart: 5 Design Patterns That Earn Their Keep &lpar;and 2 Refused&rpar;](https://dev.to/ohugonnot/the-ideal-cart-5-design-patterns-that-earn-their-keep-and-2-refused-2nli)
-- [How to get your site cited by AI assistants](https://dev.to/turva-dev/how-to-get-your-site-cited-by-ai-assistants-35f1)
-- [Data transfer between script files](https://dev.to/eliozashvili/data-transfer-between-script-files-3lp5)
+- [The Reliability Math Behind a Green n8n Workflow: Multiply, Don&#39;t Average](https://dev.to/moonshot_1341/the-reliability-math-behind-a-green-n8n-workflow-multiply-dont-average-2602)
+- [What Does `unsqueeze` Do in PyTorch? &lpar;And Why Your Model Keeps Asking For It&rpar;](https://dev.to/pytorchfromgroundup/what-does-unsqueeze-do-in-pytorch-and-why-your-model-keeps-asking-for-it-181a)
+- [Multi-Account / Landing Zone Strategy &amp; Governance](https://dev.to/sri2614/multi-account-landing-zone-strategy-governance-5d3o)
+- [Auto-Retiring Skills You No Longer Use: Weekly Skill Lifecycle Management with launchd](https://dev.to/bokuwalily/auto-retiring-skills-you-no-longer-use-weekly-skill-lifecycle-management-with-launchd-4lgf)
 <!-- BLOG-POST-LIST:END -->
 
