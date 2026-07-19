@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Zero-Reload Web Forms: Master Modern Async/Await JavaScript Fetch API](https://dev.to/ouiam_budagiah_d44d996622/building-zero-reload-web-forms-master-modern-asyncawait-javascript-fetch-api-4m41)
-- [I Found a Silent Bug in Formbricks That Crashes Live Surveys at Runtime](https://dev.to/toboreeee/i-found-a-silent-bug-in-formbricks-that-crashes-live-surveys-at-runtime-1k67)
-- [Resolviendo los 404 de Google Search Console](https://dev.to/aws-builders/resolviendo-los-404-de-google-search-console-3bc3)
-- [Are AI Agent Engrams Open Source or Proprietary?](https://dev.to/plur9/are-ai-agent-engrams-open-source-or-proprietary-58kh)
+- [Why Child Safety Tracking Should Never Be Paywalled](https://dev.to/omarelhaitoum/why-child-safety-tracking-should-never-be-paywalled-2f38)
+- [Great Tools for Solo SaaS Founders: A Battle-Tested Stack for 2024](https://dev.to/brino666/great-tools-for-solo-saas-founders-a-battle-tested-stack-for-2024-4cc9)
+- [How to Find a SaaS Project to Build: A Developer&#39;s Practical Guide](https://dev.to/brino666/how-to-find-a-saas-project-to-build-a-developers-practical-guide-59gp)
+- [Ask HN: What do you consider the best way to protect a SaaS from bots?](https://dev.to/brino666/ask-hn-what-do-you-consider-the-best-way-to-protect-a-saas-from-bots-2fh3)
 <!-- BLOG-POST-LIST:END -->
 
