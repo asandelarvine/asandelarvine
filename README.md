@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Is the Real Model: Governance, Lineage, and Provenance](https://dev.to/anusha_mukka/data-is-the-real-model-governance-lineage-and-provenance-1eo3)
-- [Why design matters for a web framework: a 7-year evolution](https://dev.to/wasp/why-design-matters-for-a-web-framework-a-7-year-evolution-2ajl)
-- [I Taught a Security Camera to Say &quot;I Don&#39;t Know&quot; — and It Got More Useful, Not Less](https://dev.to/thecodedaniel/i-taught-a-security-camera-to-say-i-dont-know-and-it-got-more-useful-not-less-1d87)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-1gpi)
+- [I built a test lab to measure SSG vs SSR vs ISR on real WordPress, here&#39;s what I found](https://dev.to/nimajafari/i-built-a-test-lab-to-measure-ssg-vs-ssr-vs-isr-on-real-wordpress-heres-what-i-found-7p)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-30oh)
+- [Your Application Is Ready... According to Whom?](https://dev.to/agiloop_ai/your-application-is-readyaccording-to-whom-5467)
+- [Uma Máquina, Duas Contas Claude, Zero Estado Compartilhado](https://dev.to/ogoul4rt/uma-maquina-dois-claudes-zero-estado-compartilhado-5f74)
 <!-- BLOG-POST-LIST:END -->
 
