@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-5hnn)
-- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-16gl)
-- [Resume Optimization for US Data Engineering from WeChat Mini-Programs](https://dev.to/prismresume/resume-optimization-for-us-data-engineering-from-wechat-mini-programs-4ph6)
-- [The Bug I Fixed Nine Times Before I Finally Killed It For Good](https://dev.to/kushang_tailor/the-bug-i-fixed-nine-times-before-i-finally-killed-it-for-good-1m18)
+- [My OpenClaw Agent Had a Panic Attack at 3 AM. Its Model Fallback Chain Saved It](https://dev.to/mrclaw207/my-openclaw-agent-had-a-panic-attack-at-3-am-its-model-fallback-chain-saved-it-40l4)
+- [Building a Diversifi Memory Agent on Qwen Cloud](https://dev.to/papajams/building-a-diversifi-memory-agent-on-qwen-cloud-5gek)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-4mo4)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-4oj7)
 <!-- BLOG-POST-LIST:END -->
 
