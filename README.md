@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Child Safety Tracking Should Never Be Paywalled](https://dev.to/omarelhaitoum/why-child-safety-tracking-should-never-be-paywalled-2f38)
-- [Great Tools for Solo SaaS Founders: A Battle-Tested Stack for 2024](https://dev.to/brino666/great-tools-for-solo-saas-founders-a-battle-tested-stack-for-2024-4cc9)
-- [How to Find a SaaS Project to Build: A Developer&#39;s Practical Guide](https://dev.to/brino666/how-to-find-a-saas-project-to-build-a-developers-practical-guide-59gp)
-- [Ask HN: What do you consider the best way to protect a SaaS from bots?](https://dev.to/brino666/ask-hn-what-do-you-consider-the-best-way-to-protect-a-saas-from-bots-2fh3)
+- [Strip Location From Both Halves of an iOS Live Photo Before Upload](https://dev.to/roronoa_/strip-location-from-both-halves-of-an-ios-live-photo-before-upload-4aoa)
+- [Test a Saga When Compensation Times Out and the Message Is Delivered Twice](https://dev.to/robinzzz/test-a-saga-when-compensation-times-out-and-the-message-is-delivered-twice-5b6d)
+- [Ship a Restart-Safe Upload CLI That Survives an Expired Resume URL](https://dev.to/rivera123/ship-a-restart-safe-upload-cli-that-survives-an-expired-resume-url-182m)
+- [Reproduce SQLite WAL Checkpoint Starvation With One Forgotten Reader](https://dev.to/odd_background_328/reproduce-sqlite-wal-checkpoint-starvation-with-one-forgotten-reader-4jfo)
 <!-- BLOG-POST-LIST:END -->
 
