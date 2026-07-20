@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding the Link Between Pretraining and Reinforcement Learning](https://dev.to/pneumetron/decoding-the-link-between-pretraining-and-reinforcement-learning-4egm)
-- [India&#39;s Tech Sector Faces Hiring Slowdown as FY27 Begins](https://dev.to/pneumetron/indias-tech-sector-faces-hiring-slowdown-as-fy27-begins-392)
-- [A practical journey into SQL](https://dev.to/steve_m/a-practical-journey-into-sql-2f58)
-- [Feature Flags Without LaunchDarkly: A 100-Line Solution](https://dev.to/iurii_rogulia/feature-flags-without-launchdarkly-a-100-line-solution-1mpb)
+- [&quot;Where.Was.I&quot; — a task board built around the moment you switch](https://dev.to/alialp/wherewasi-a-task-board-built-around-the-moment-you-switch-25lj)
+- [Blue Watch, Day 4-6: From Alerts to a Story](https://dev.to/luna_meadows/blue-watch-day-4-6-from-alerts-to-a-story-2hb6)
+- [Meme Monday](https://dev.to/ben/meme-monday-4eld)
+- [I Fed an Entire YouTube Channel Into an LLM &lpar;200 Videos, ~550k Tokens&rpar; 🥊](https://dev.to/fritter6323/i-fed-an-entire-youtube-channel-into-an-llm-200-videos-550k-tokens-3a75)
 <!-- BLOG-POST-LIST:END -->
 
