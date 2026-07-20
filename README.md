@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a test lab to measure SSG vs SSR vs ISR on real WordPress, here&#39;s what I found](https://dev.to/nimajafari/i-built-a-test-lab-to-measure-ssg-vs-ssr-vs-isr-on-real-wordpress-heres-what-i-found-7p)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-30oh)
-- [Your Application Is Ready... According to Whom?](https://dev.to/agiloop_ai/your-application-is-readyaccording-to-whom-5467)
-- [Uma Máquina, Duas Contas Claude, Zero Estado Compartilhado](https://dev.to/ogoul4rt/uma-maquina-dois-claudes-zero-estado-compartilhado-5f74)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-59ia)
+- [A Dart regex that cannot be made to hang](https://dev.to/yusufihsangorgel/a-dart-regex-that-cannot-be-made-to-hang-1pl4)
+- [How Does an LLM Request and Response Cycle Work? A Full Walkthrough](https://dev.to/qainsights/how-does-an-llm-request-and-response-cycle-work-a-full-walkthrough-2k7j)
+- [When a human edits an agent&#39;s output, where does that decision go?](https://dev.to/arsalan_shahid116/when-a-human-edits-an-agents-output-where-does-that-decision-go-30pj)
 <!-- BLOG-POST-LIST:END -->
 
