@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Where.Was.I&quot; — a task board built around the moment you switch](https://dev.to/alialp/wherewasi-a-task-board-built-around-the-moment-you-switch-25lj)
-- [Blue Watch, Day 4-6: From Alerts to a Story](https://dev.to/luna_meadows/blue-watch-day-4-6-from-alerts-to-a-story-2hb6)
-- [Meme Monday](https://dev.to/ben/meme-monday-4eld)
-- [I Fed an Entire YouTube Channel Into an LLM &lpar;200 Videos, ~550k Tokens&rpar; 🥊](https://dev.to/fritter6323/i-fed-an-entire-youtube-channel-into-an-llm-200-videos-550k-tokens-3a75)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-5hnn)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-16gl)
+- [Resume Optimization for US Data Engineering from WeChat Mini-Programs](https://dev.to/prismresume/resume-optimization-for-us-data-engineering-from-wechat-mini-programs-4ph6)
+- [The Bug I Fixed Nine Times Before I Finally Killed It For Good](https://dev.to/kushang_tailor/the-bug-i-fixed-nine-times-before-i-finally-killed-it-for-good-1m18)
 <!-- BLOG-POST-LIST:END -->
 
