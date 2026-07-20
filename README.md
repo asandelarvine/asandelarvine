@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-4aoa)
-- [The Bug Report Said &quot;Refresh Logs Me Out.&quot; It Was Actually Two Bugs.](https://dev.to/tochukwu_dev/the-bug-report-said-refresh-logs-me-out-it-was-actually-two-bugs-43p3)
-- [What Makes a WordPress Developer Truly AI-Ready?](https://dev.to/muhammad_muheet_411d9659a/what-makes-a-wordpress-developer-truly-ai-ready-4pj5)
-- [Understanding &quot;Skills&quot; in LangChain: Loading Expertise On-Demand](https://dev.to/syeedmdtalha/understanding-skills-in-langchain-loading-expertise-on-demand-ced)
+- [Decoding the Link Between Pretraining and Reinforcement Learning](https://dev.to/pneumetron/decoding-the-link-between-pretraining-and-reinforcement-learning-4egm)
+- [India&#39;s Tech Sector Faces Hiring Slowdown as FY27 Begins](https://dev.to/pneumetron/indias-tech-sector-faces-hiring-slowdown-as-fy27-begins-392)
+- [A practical journey into SQL](https://dev.to/steve_m/a-practical-journey-into-sql-2f58)
+- [Feature Flags Without LaunchDarkly: A 100-Line Solution](https://dev.to/iurii_rogulia/feature-flags-without-launchdarkly-a-100-line-solution-1mpb)
 <!-- BLOG-POST-LIST:END -->
 
