@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My OpenClaw Agent Had a Panic Attack at 3 AM. Its Model Fallback Chain Saved It](https://dev.to/mrclaw207/my-openclaw-agent-had-a-panic-attack-at-3-am-its-model-fallback-chain-saved-it-40l4)
-- [Building a Diversifi Memory Agent on Qwen Cloud](https://dev.to/papajams/building-a-diversifi-memory-agent-on-qwen-cloud-5gek)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-4mo4)
-- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-4oj7)
+- [Data Is the Real Model: Governance, Lineage, and Provenance](https://dev.to/anusha_mukka/data-is-the-real-model-governance-lineage-and-provenance-1eo3)
+- [Why design matters for a web framework: a 7-year evolution](https://dev.to/wasp/why-design-matters-for-a-web-framework-a-7-year-evolution-2ajl)
+- [I Taught a Security Camera to Say &quot;I Don&#39;t Know&quot; — and It Got More Useful, Not Less](https://dev.to/thecodedaniel/i-taught-a-security-camera-to-say-i-dont-know-and-it-got-more-useful-not-less-1d87)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-1gpi)
 <!-- BLOG-POST-LIST:END -->
 
