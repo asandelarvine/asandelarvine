@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Laravel Boost with Neo4j MCP 🚀](https://dev.to/zaeem2331/supercharge-laravel-boost-with-neo4j-mcp-226k)
-- [Amazon, Microsoft, and Google Are Building the Same Thing: The Enterprise AI Agent Lock-In Trap](https://dev.to/muskan_bandta/amazon-microsoft-and-google-are-building-the-same-thing-the-enterprise-ai-agent-lock-in-trap-1ic7)
-- [I built 118+ device tests that run entirely in your browser — no server, no uploads](https://dev.to/kaan_tokali_5a4828a3f897c/i-built-118-device-tests-that-run-entirely-in-your-browser-no-server-no-uploads-5d1n)
-- [Self-hosted Umami still gets blocked by adblockers if your subdomain is named umami](https://dev.to/harish_annam/self-hosted-umami-still-gets-blocked-by-adblockers-if-your-subdomain-is-named-umami-3ni5)
+- [This Week in AI: Kimi K3 Sets an Open-Weight Record, OpenAI Consolidates Coding Tools, and the Agent Infrastructure Race Heats Up](https://dev.to/nerdhead_01/this-week-in-ai-kimi-k3-sets-an-open-weight-record-openai-consolidates-coding-tools-and-the-3m0k)
+- [Why I built YourOnlyAI.](https://dev.to/aakash_mishra_0e9354bc079/why-i-built-youronlyai-3c9p)
+- [Ultrasonic Sensor HC-SR04 Ultrasonic Sensor HC-SR04 with Arduino: A Beginner&#39;s Guide to Distance Measurement](https://dev.to/akshay_jain/ultrasonic-sensor-hc-sr04-ultrasonic-sensor-hc-sr04-with-arduino-a-beginners-guide-to-distance-4624)
+- [Stop Job Hunting Like It&#39;s 2015](https://dev.to/asad_faizee/stop-job-hunting-like-its-2015-5gle)
 <!-- BLOG-POST-LIST:END -->
 
