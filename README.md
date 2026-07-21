@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Anatomy of the AI &quot;The Gartner Hype Cycle&quot;](https://dev.to/leolanese/anatomy-of-the-ai-the-gartner-hype-cycle-2bem)
-- [Ускорение интернет-магазина на 1С-Битрикс с 7 до 2 секунд: SQL, кеширование, WebP](https://dev.to/_swebs_f392b7/uskorieniie-intierniet-maghazina-na-1s-bitriks-s-7-do-2-siekund-sql-kieshirovaniie-webp-kln)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-2b9b)
-- [How to Fix Puppeteer Memory Leaks in Production &lpar;and When to Stop Running Chromium&rpar;](https://dev.to/grabbit/how-to-fix-puppeteer-memory-leaks-in-production-and-when-to-stop-running-chromium-23c0)
+- [How I Fixed Hallucinations by Switching from AGENTS.md to AGENTS.db](https://dev.to/0x1brahim/how-i-fixed-hallucinations-by-switching-from-agentsmd-to-agentsdb-2ch1)
+- [Astro Server Islands: Keep Pages Fast Without Giving Up Interactivity](https://dev.to/momciloo/astro-server-islands-keep-pages-fast-without-giving-up-interactivity-144j)
+- [The table looked general-purpose. The schema disagreed.](https://dev.to/mike_clarke_50a95013f5c59/the-table-looked-general-purpose-the-schema-disagreed-9h9)
+- [When to Break and When to Bend: Post-Quantum Migration Tradeoffs in Rust](https://dev.to/mdenda/when-to-break-and-when-to-bend-post-quantum-migration-tradeoffs-in-rust-2i4g)
 <!-- BLOG-POST-LIST:END -->
 
