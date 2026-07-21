@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Load Balancing? A Beginner&#39;s Guide to Faster and More Reliable Applications](https://dev.to/ashraful/-what-is-load-balancing-a-beginners-guide-to-faster-and-more-reliable-applications-3pap)
-- [Subtitle readability: why a valid file can still be unreadable](https://dev.to/woshiliyana/subtitle-readability-why-a-valid-file-can-still-be-unreadable-4im0)
-- [projports: find every port your project declares](https://dev.to/sybilgambleyyu/projports-find-every-port-your-project-declares-2d7h)
-- [openFDA Adverse Event API: Paging Past 25,000 and Flattening](https://dev.to/mayd-it/openfda-adverse-event-api-paging-past-25000-and-flattening-2c6l)
+- [Supercharge Laravel Boost with Neo4j MCP 🚀](https://dev.to/zaeem2331/supercharge-laravel-boost-with-neo4j-mcp-226k)
+- [Amazon, Microsoft, and Google Are Building the Same Thing: The Enterprise AI Agent Lock-In Trap](https://dev.to/muskan_bandta/amazon-microsoft-and-google-are-building-the-same-thing-the-enterprise-ai-agent-lock-in-trap-1ic7)
+- [I built 118+ device tests that run entirely in your browser — no server, no uploads](https://dev.to/kaan_tokali_5a4828a3f897c/i-built-118-device-tests-that-run-entirely-in-your-browser-no-server-no-uploads-5d1n)
+- [Self-hosted Umami still gets blocked by adblockers if your subdomain is named umami](https://dev.to/harish_annam/self-hosted-umami-still-gets-blocked-by-adblockers-if-your-subdomain-is-named-umami-3ni5)
 <!-- BLOG-POST-LIST:END -->
 
