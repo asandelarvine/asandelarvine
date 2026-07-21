@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How an Autonomous Agent Breached Hugging Face — And What a RAG Poisoning Filter Would Have Stopped](https://dev.to/coridev/how-an-autonomous-agent-breached-hugging-face-and-what-a-rag-poisoning-filter-would-have-stopped-2361)
-- [Gemini 3.6 Flash &amp; 3.5 Flash-Lite: Developer guide](https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-i17)
-- [I Built a Real-Time Perception Stack on CARLA. Here Is What Actually Happened.](https://dev.to/iyanuoluwa007/i-built-a-real-time-perception-stack-on-carla-here-is-what-actually-happened-5abl)
-- [MCP Deep Dive, Part 10: When the Agent Feels Off — Debugging and Observability for MCP in Production](https://dev.to/kirandeepjassalcrypto/mcp-deep-dive-part-10-when-the-agent-feels-off-debugging-and-observability-for-mcp-in-production-1c43)
+- [How We Built an AI-Native Real Estate Platform for Northern Cyprus](https://dev.to/onur_dokuzolu_ae3db85aa9/how-we-built-an-ai-native-real-estate-platform-for-northern-cyprus-31h0)
+- [WeasyPrint Alternative: HTML to PDF in Python &lpar;When You Need JavaScript&rpar;](https://dev.to/accreditly/weasyprint-alternative-html-to-pdf-in-python-when-you-need-javascript-1965)
+- [*This is a submission for [DEV&#39;s Summer Bug Smash: Smash Stories]&lpar;https://dev.to/bugsmash&rpar; powered by [Sentry]&lpar;https://sentry.io/&rpar;.*](https://dev.to/sachittav/this-is-a-submission-for-devs-summer-bug-smash-smash-storieshttpsdevtobugsmash-powered-473m)
+- [Dominando Transações de Banco de Dados: Do Conceito à Prática com Laravel](https://dev.to/moreiraandre/dominando-transacoes-de-banco-de-dados-do-conceito-a-pratica-com-laravel-k26)
 <!-- BLOG-POST-LIST:END -->
 
