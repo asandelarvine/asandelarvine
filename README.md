@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LongCat-Video-Avatar 1.5 cuts inference to 8 steps — here&#39;s](https://dev.to/creeta/longcat-video-avatar-15-cuts-inference-to-8-steps-heres-152b)
-- [AI Didn&#39;t Kill Software Engineering. It Made It More Valuable Than Ever.](https://dev.to/jlio_csarkdel_6c306c2/ai-didnt-kill-software-engineering-it-made-it-more-valuable-than-ever-4o9n)
-- [A IA não matou a Engenharia de Software. Ela a tornou mais importante do que nunca.](https://dev.to/jlio_csarkdel_6c306c2/a-ia-nao-matou-a-engenharia-de-software-ela-a-tornou-mais-importante-do-que-nunca-295p)
-- [Getting Started with Sinch Functions](https://dev.to/gunnargrosch/getting-started-with-sinch-functions-3eeo)
+- [Incident Retrospectives Without Blame](https://dev.to/samson_tanimawo/incident-retrospectives-without-blame-29e)
+- [Your coding agent runs a shell on your machine. I audited mine.](https://dev.to/agentiknet/your-coding-agent-runs-a-shell-on-your-machine-i-audited-mine-a1g)
+- [Building a 13-Agent Marketing Society on Qwen Cloud — What Actually Broke, and What I Learned Fixing It](https://dev.to/iyomichrist/building-a-13-agent-marketing-society-on-qwen-cloud-what-actually-broke-and-what-i-learned-23n3)
+- [Building a Governance SaaS for Trustees: Why Trust Administration Needs Software](https://dev.to/agentictrustkit/building-a-governance-saas-for-trustees-why-trust-administration-needs-software-4e3a)
 <!-- BLOG-POST-LIST:END -->
 
