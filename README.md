@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built an AI-Native Real Estate Platform for Northern Cyprus](https://dev.to/onur_dokuzolu_ae3db85aa9/how-we-built-an-ai-native-real-estate-platform-for-northern-cyprus-31h0)
-- [WeasyPrint Alternative: HTML to PDF in Python &lpar;When You Need JavaScript&rpar;](https://dev.to/accreditly/weasyprint-alternative-html-to-pdf-in-python-when-you-need-javascript-1965)
-- [*This is a submission for [DEV&#39;s Summer Bug Smash: Smash Stories]&lpar;https://dev.to/bugsmash&rpar; powered by [Sentry]&lpar;https://sentry.io/&rpar;.*](https://dev.to/sachittav/this-is-a-submission-for-devs-summer-bug-smash-smash-storieshttpsdevtobugsmash-powered-473m)
-- [Dominando Transações de Banco de Dados: Do Conceito à Prática com Laravel](https://dev.to/moreiraandre/dominando-transacoes-de-banco-de-dados-do-conceito-a-pratica-com-laravel-k26)
+- [Chat-based AI course authoring: why SCORM still matters in 2026](https://dev.to/ian_tappan/chat-based-ai-course-authoring-why-scorm-still-matters-in-2026-40lk)
+- [Implementing Row-Level Access Control](https://dev.to/homeless-coder/implementing-row-level-access-control-17k3)
+- [How I Solved Cross-Environment Vector Database Schema Mismatches in a Dockerized AI Agent](https://dev.to/benaiahhhh/how-i-solved-cross-environment-vector-database-schema-mismatches-in-a-dockerized-ai-agent-4nbn)
+- [The Great Erasure &lpar;2004-2006&rpar;: Decommissioning and Evidence Destruction](https://dev.to/bioshistory/the-great-erasure-2004-2006-decommissioning-and-evidence-destruction-no8)
 <!-- BLOG-POST-LIST:END -->
 
