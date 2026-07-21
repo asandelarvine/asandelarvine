@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chat-based AI course authoring: why SCORM still matters in 2026](https://dev.to/ian_tappan/chat-based-ai-course-authoring-why-scorm-still-matters-in-2026-40lk)
-- [Implementing Row-Level Access Control](https://dev.to/homeless-coder/implementing-row-level-access-control-17k3)
-- [How I Solved Cross-Environment Vector Database Schema Mismatches in a Dockerized AI Agent](https://dev.to/benaiahhhh/how-i-solved-cross-environment-vector-database-schema-mismatches-in-a-dockerized-ai-agent-4nbn)
-- [The Great Erasure &lpar;2004-2006&rpar;: Decommissioning and Evidence Destruction](https://dev.to/bioshistory/the-great-erasure-2004-2006-decommissioning-and-evidence-destruction-no8)
+- [LongCat-Video-Avatar 1.5 cuts inference to 8 steps — here&#39;s](https://dev.to/creeta/longcat-video-avatar-15-cuts-inference-to-8-steps-heres-152b)
+- [AI Didn&#39;t Kill Software Engineering. It Made It More Valuable Than Ever.](https://dev.to/jlio_csarkdel_6c306c2/ai-didnt-kill-software-engineering-it-made-it-more-valuable-than-ever-4o9n)
+- [A IA não matou a Engenharia de Software. Ela a tornou mais importante do que nunca.](https://dev.to/jlio_csarkdel_6c306c2/a-ia-nao-matou-a-engenharia-de-software-ela-a-tornou-mais-importante-do-que-nunca-295p)
+- [Getting Started with Sinch Functions](https://dev.to/gunnargrosch/getting-started-with-sinch-functions-3eeo)
 <!-- BLOG-POST-LIST:END -->
 
