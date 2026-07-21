@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-59ia)
-- [A Dart regex that cannot be made to hang](https://dev.to/yusufihsangorgel/a-dart-regex-that-cannot-be-made-to-hang-1pl4)
-- [How Does an LLM Request and Response Cycle Work? A Full Walkthrough](https://dev.to/qainsights/how-does-an-llm-request-and-response-cycle-work-a-full-walkthrough-2k7j)
-- [When a human edits an agent&#39;s output, where does that decision go?](https://dev.to/arsalan_shahid116/when-a-human-edits-an-agents-output-where-does-that-decision-go-30pj)
+- [What Is Load Balancing? A Beginner&#39;s Guide to Faster and More Reliable Applications](https://dev.to/ashraful/-what-is-load-balancing-a-beginners-guide-to-faster-and-more-reliable-applications-3pap)
+- [Subtitle readability: why a valid file can still be unreadable](https://dev.to/woshiliyana/subtitle-readability-why-a-valid-file-can-still-be-unreadable-4im0)
+- [projports: find every port your project declares](https://dev.to/sybilgambleyyu/projports-find-every-port-your-project-declares-2d7h)
+- [openFDA Adverse Event API: Paging Past 25,000 and Flattening](https://dev.to/mayd-it/openfda-adverse-event-api-paging-past-25000-and-flattening-2c6l)
 <!-- BLOG-POST-LIST:END -->
 
