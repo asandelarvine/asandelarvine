@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I lint-scanned 36 popular MCP servers. A third of them are failing your agent.](https://dev.to/tengbyte/i-lint-scanned-36-popular-mcp-servers-a-third-of-them-are-failing-your-agent-102d)
-- [The AI Bubble and the Future of Work: What Professionals Should Prepare For](https://dev.to/isuvo/the-ai-bubble-and-the-future-of-work-what-professionals-should-prepare-for-15fc)
-- [From Variables to Closures](https://dev.to/sai_swaroopbijinapalli_5/from-variables-to-closures-12fc)
-- [What Changed in Zod 4, and How I Migrated Production Schemas](https://dev.to/ahmed_mahmoud360/what-changed-in-zod-4-and-how-i-migrated-production-schemas-di0)
+- [Packages in Java: Why Your Code Needs a Home Address](https://dev.to/jamilxt/packages-in-java-why-your-code-needs-a-home-address-b3a)
+- [I Spent 16 Months Building My Own SaaS Solo — Why the Last 10% Takes Months](https://dev.to/joshmsn/i-spent-16-months-building-my-own-saas-solo-the-last-10-took-longer-than-the-first-90-288)
+- [Anti-bot without melting your budget: the proxy waterfall.](https://dev.to/votiakov/anti-bot-without-melting-your-budget-the-proxy-waterfall-4a04)
+- [Recover Missed LINE MINI App Purchase Webhooks with a 7-Day Reconciliation Job](https://dev.to/unifyport/recover-missed-line-mini-app-purchase-webhooks-with-a-7-day-reconciliation-job-4k7c)
 <!-- BLOG-POST-LIST:END -->
 
