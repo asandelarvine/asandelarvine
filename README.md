@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Packages in Java: Why Your Code Needs a Home Address](https://dev.to/jamilxt/packages-in-java-why-your-code-needs-a-home-address-b3a)
-- [I Spent 16 Months Building My Own SaaS Solo — Why the Last 10% Takes Months](https://dev.to/joshmsn/i-spent-16-months-building-my-own-saas-solo-the-last-10-took-longer-than-the-first-90-288)
-- [Anti-bot without melting your budget: the proxy waterfall.](https://dev.to/votiakov/anti-bot-without-melting-your-budget-the-proxy-waterfall-4a04)
-- [Recover Missed LINE MINI App Purchase Webhooks with a 7-Day Reconciliation Job](https://dev.to/unifyport/recover-missed-line-mini-app-purchase-webhooks-with-a-7-day-reconciliation-job-4k7c)
+- [Gitignore Generator: a small tool that solves a specific problem](https://dev.to/mryesiller/gitignore-generator-a-small-tool-that-solves-a-specific-problem-1h49)
+- [Satoshi&#39;s Presumed 1.1 Million Coins Have Never Moved. So Much for &quot;First-Mover Advantage.&quot;](https://dev.to/bitcoin_devto/satoshis-presumed-11-million-coins-have-never-moved-so-much-for-first-mover-advantage-1d1p)
+- [[Boost]](https://dev.to/masterl1/-bk)
+- [Lalal.ai — Best Tool to Remove Vocals from Music](https://dev.to/joodi/lalalai-best-tool-to-remove-vocals-from-music-2d37)
 <!-- BLOG-POST-LIST:END -->
 
