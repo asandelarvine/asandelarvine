@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 5 — Deals, pricing, and a real board](https://dev.to/nerd_snipe_dev/part-5-deals-pricing-and-a-real-board-a1c)
-- [# Python Crash Course for C# Developers — Part 2: Data Structures](https://dev.to/leonardo_zeaiter_79dfe3d6/-python-crash-course-for-c-developers-part-2-data-structures-1bkf)
-- [You Validated the Output. Who Validated the Process?](https://dev.to/yura_solovey/you-validated-the-output-who-validated-the-process-18i8)
-- [From Prompting to Production: A Practical Framework for AI-Assisted Software Development](https://dev.to/aswani_nayak_cdcb2fe8ee38/from-prompting-to-production-a-practical-framework-for-ai-assisted-software-development-37pp)
+- [I counted every OP_RETURN on Bitcoin. A machine out-wrote all of human history 45 to 1.](https://dev.to/zekebuilds/i-counted-every-opreturn-on-bitcoin-a-machine-out-wrote-all-of-human-history-45-to-1-5bgn)
+- [What 90% Line-Rate Utilization on a Single 100GbE Port Means: Analyzing Network Bottlenecks in Inference Storage](https://dev.to/mingxintech/what-90-line-rate-utilization-on-a-single-100gbe-port-means-analyzing-network-bottlenecks-in-531m)
+- [Porting my Rust KVM hypervisor to ARM64: Running the binary](https://dev.to/stjepan86/porting-my-rust-kvm-hypervisor-to-arm64-running-the-binary-79m)
+- [TypeScript 6.0 `--noEmit` and Type-Only Builds: Why Your CI Pipeline Should Never Call tsc for Output Again](https://dev.to/jsmanifest/typescript-60-noemit-and-type-only-builds-why-your-ci-pipeline-should-never-call-tsc-for-4jmb)
 <!-- BLOG-POST-LIST:END -->
 
