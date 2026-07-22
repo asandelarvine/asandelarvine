@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gitignore Generator: a small tool that solves a specific problem](https://dev.to/mryesiller/gitignore-generator-a-small-tool-that-solves-a-specific-problem-1h49)
-- [Satoshi&#39;s Presumed 1.1 Million Coins Have Never Moved. So Much for &quot;First-Mover Advantage.&quot;](https://dev.to/bitcoin_devto/satoshis-presumed-11-million-coins-have-never-moved-so-much-for-first-mover-advantage-1d1p)
-- [[Boost]](https://dev.to/masterl1/-bk)
-- [Lalal.ai — Best Tool to Remove Vocals from Music](https://dev.to/joodi/lalalai-best-tool-to-remove-vocals-from-music-2d37)
+- [The smartest engineers I know are afraid to decide](https://dev.to/diogocapela/the-smartest-engineers-i-know-are-afraid-to-decide-jg5)
+- [I reshaped a mature marketplace platform into a free &quot;give it away&quot; app - Laravel + Inertia + Vue + PostGIS](https://dev.to/yatta_pick_8831ada913f4e7/i-reshaped-a-mature-marketplace-platform-into-a-free-give-it-away-app-laravel-inertia-vue--4mn3)
+- [7 Tuya Matter Pitfalls That Will Kill Your Certification &lpar;And How We Avoided Them&rpar;](https://dev.to/zediot/7-tuya-matter-pitfalls-that-will-kill-your-certification-and-how-we-avoided-them-1egh)
+- [I Built a Free Privacy-First Developer Toolkit - No Data Leaves Your Browser](https://dev.to/ravikiranreddy_b/i-built-a-free-privacy-first-developer-toolkit-no-data-leaves-your-browser-3pg4)
 <!-- BLOG-POST-LIST:END -->
 
