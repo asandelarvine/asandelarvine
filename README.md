@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Incident Retrospectives Without Blame](https://dev.to/samson_tanimawo/incident-retrospectives-without-blame-29e)
-- [Your coding agent runs a shell on your machine. I audited mine.](https://dev.to/agentiknet/your-coding-agent-runs-a-shell-on-your-machine-i-audited-mine-a1g)
-- [Building a 13-Agent Marketing Society on Qwen Cloud — What Actually Broke, and What I Learned Fixing It](https://dev.to/iyomichrist/building-a-13-agent-marketing-society-on-qwen-cloud-what-actually-broke-and-what-i-learned-23n3)
-- [Building a Governance SaaS for Trustees: Why Trust Administration Needs Software](https://dev.to/agentictrustkit/building-a-governance-saas-for-trustees-why-trust-administration-needs-software-4e3a)
+- [Is Your AI Agent Production-Ready? Define the Bar First](https://dev.to/sara_mo/is-your-ai-agent-production-ready-define-the-bar-first-3lm6)
+- [I Couldn’t Fix My LLM Costs Until I Measured Tokens Per Feature](https://dev.to/plasma_01/i-couldnt-fix-my-llm-costs-until-i-measured-tokens-per-feature-3f9n)
+- [React useCookie Hook: Cookies as Reactive State &lpar;2026&rpar;](https://dev.to/childrentime/react-usecookie-hook-cookies-as-reactive-state-2026-1369)
+- [Extension Blocks in C# 14 Are More Than New Syntax](https://dev.to/ssukhpinder/extension-blocks-in-c-14-are-more-than-new-syntax-31mk)
 <!-- BLOG-POST-LIST:END -->
 
