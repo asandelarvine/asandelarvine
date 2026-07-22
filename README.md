@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I counted every OP_RETURN on Bitcoin. A machine out-wrote all of human history 45 to 1.](https://dev.to/zekebuilds/i-counted-every-opreturn-on-bitcoin-a-machine-out-wrote-all-of-human-history-45-to-1-5bgn)
-- [What 90% Line-Rate Utilization on a Single 100GbE Port Means: Analyzing Network Bottlenecks in Inference Storage](https://dev.to/mingxintech/what-90-line-rate-utilization-on-a-single-100gbe-port-means-analyzing-network-bottlenecks-in-531m)
-- [Porting my Rust KVM hypervisor to ARM64: Running the binary](https://dev.to/stjepan86/porting-my-rust-kvm-hypervisor-to-arm64-running-the-binary-79m)
-- [TypeScript 6.0 `--noEmit` and Type-Only Builds: Why Your CI Pipeline Should Never Call tsc for Output Again](https://dev.to/jsmanifest/typescript-60-noemit-and-type-only-builds-why-your-ci-pipeline-should-never-call-tsc-for-4jmb)
+- [CVE-2026-6875: ServiceNow AI Platform Sandbox Escape Under Active Exploitation](https://dev.to/etairos/cve-2026-6875-servicenow-ai-platform-sandbox-escape-under-active-exploitation-487f)
+- [The Eternal Legacy &lpar;2006-2008&rpar;: The Modern Surveillance Aftermath](https://dev.to/bioshistory/the-eternal-legacy-2006-2008-the-modern-surveillance-aftermath-1lh1)
+- [A Lei de Gall: Por que todo sistema complexo que funciona evoluiu de um sistema simples que funcionava ⚙️](https://dev.to/vitor_mateus_e7a30f628063/a-lei-de-gall-por-que-todo-sistema-complexo-que-funciona-evoluiu-de-um-sistema-simples-que-bep)
+- [Securing SaaS Signup Forms: Stop Bot Attacks With CAPTCHA](https://dev.to/silverw_dot_ing/securing-saas-signup-forms-stop-bot-attacks-with-captcha-2f15)
 <!-- BLOG-POST-LIST:END -->
 
