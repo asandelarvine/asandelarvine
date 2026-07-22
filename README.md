@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Your AI Agent Production-Ready? Define the Bar First](https://dev.to/sara_mo/is-your-ai-agent-production-ready-define-the-bar-first-3lm6)
-- [I Couldn’t Fix My LLM Costs Until I Measured Tokens Per Feature](https://dev.to/plasma_01/i-couldnt-fix-my-llm-costs-until-i-measured-tokens-per-feature-3f9n)
-- [React useCookie Hook: Cookies as Reactive State &lpar;2026&rpar;](https://dev.to/childrentime/react-usecookie-hook-cookies-as-reactive-state-2026-1369)
-- [Extension Blocks in C# 14 Are More Than New Syntax](https://dev.to/ssukhpinder/extension-blocks-in-c-14-are-more-than-new-syntax-31mk)
+- [I lint-scanned 36 popular MCP servers. A third of them are failing your agent.](https://dev.to/tengbyte/i-lint-scanned-36-popular-mcp-servers-a-third-of-them-are-failing-your-agent-102d)
+- [The AI Bubble and the Future of Work: What Professionals Should Prepare For](https://dev.to/isuvo/the-ai-bubble-and-the-future-of-work-what-professionals-should-prepare-for-15fc)
+- [From Variables to Closures](https://dev.to/sai_swaroopbijinapalli_5/from-variables-to-closures-12fc)
+- [What Changed in Zod 4, and How I Migrated Production Schemas](https://dev.to/ahmed_mahmoud360/what-changed-in-zod-4-and-how-i-migrated-production-schemas-di0)
 <!-- BLOG-POST-LIST:END -->
 
