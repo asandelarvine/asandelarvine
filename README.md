@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The smartest engineers I know are afraid to decide](https://dev.to/diogocapela/the-smartest-engineers-i-know-are-afraid-to-decide-jg5)
-- [I reshaped a mature marketplace platform into a free &quot;give it away&quot; app - Laravel + Inertia + Vue + PostGIS](https://dev.to/yatta_pick_8831ada913f4e7/i-reshaped-a-mature-marketplace-platform-into-a-free-give-it-away-app-laravel-inertia-vue--4mn3)
-- [7 Tuya Matter Pitfalls That Will Kill Your Certification &lpar;And How We Avoided Them&rpar;](https://dev.to/zediot/7-tuya-matter-pitfalls-that-will-kill-your-certification-and-how-we-avoided-them-1egh)
-- [I Built a Free Privacy-First Developer Toolkit - No Data Leaves Your Browser](https://dev.to/ravikiranreddy_b/i-built-a-free-privacy-first-developer-toolkit-no-data-leaves-your-browser-3pg4)
+- [Part 5 — Deals, pricing, and a real board](https://dev.to/nerd_snipe_dev/part-5-deals-pricing-and-a-real-board-a1c)
+- [# Python Crash Course for C# Developers — Part 2: Data Structures](https://dev.to/leonardo_zeaiter_79dfe3d6/-python-crash-course-for-c-developers-part-2-data-structures-1bkf)
+- [You Validated the Output. Who Validated the Process?](https://dev.to/yura_solovey/you-validated-the-output-who-validated-the-process-18i8)
+- [From Prompting to Production: A Practical Framework for AI-Assisted Software Development](https://dev.to/aswani_nayak_cdcb2fe8ee38/from-prompting-to-production-a-practical-framework-for-ai-assisted-software-development-37pp)
 <!-- BLOG-POST-LIST:END -->
 
