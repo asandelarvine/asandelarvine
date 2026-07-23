@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lean Startup Methodology: A First-Time Founder&#39;s Guide](https://dev.to/sclaydon/lean-startup-methodology-a-first-time-founders-guide-2a27)
-- [Beyond CI/CD: Building Agentic Validation and Inspection Layers with LangGraph, MCP, and A2A](https://dev.to/nikhil_ramank_152ca48266/beyond-cicd-building-agentic-validation-and-inspection-layers-with-langgraph-mcp-and-a2a-30f0)
-- [Beyond Binaural Beats: Building an Adaptive, Verifiable Audio Entrainment Platform](https://dev.to/anulum/beyond-binaural-beats-building-an-adaptive-verifiable-audio-entrainment-platform-3n6f)
-- [Database Migrations: Managing Schema Changes as Version-Controlled Code](https://dev.to/rhuturaj_takle/database-migrations-managing-schema-changes-as-version-controlled-code-1o18)
+- [AKS and Near-Bare-Metal Workloads: What Platform Teams Can Responsibly Plan For](https://dev.to/sathpal_singh/aks-and-near-bare-metal-workloads-what-platform-teams-can-responsibly-plan-for-5927)
+- [I Built CodeComplex: A Real-Time Competitive Coding Platform with AI Rivals and Bug-Fix Arenas](https://dev.to/umangsisodia/i-built-codecomplex-a-real-time-competitive-coding-platform-with-ai-rivals-and-bug-fix-arenas-4j3p)
+- [I built an AI-first bank statement converter. The one rule that stopped it lying to me.](https://dev.to/statementdecoder/i-built-an-ai-first-bank-statement-converter-the-one-rule-that-stopped-it-lying-to-me-24ik)
+- [O dia em que coloquei um agente de IA pra fiscalizar débito técnico no maior banco da América Latina](https://dev.to/lincoln_romais/-o-dia-em-que-coloquei-um-agente-de-ia-pra-fiscalizar-debito-tecnico-no-maior-banco-da-america-2734)
 <!-- BLOG-POST-LIST:END -->
 
