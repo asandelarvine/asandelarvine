@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a CLI That Finds Me Clients on Reddit Using AI](https://dev.to/hidekiryu/i-built-a-cli-that-finds-me-clients-on-reddit-using-ai-55dc)
-- [We Catalogued 14,085 x402 Endpoints. 10,508 Came From One Domain.](https://dev.to/devtoship/we-catalogued-14085-x402-endpoints-10508-came-from-one-domain-1g19)
-- [What Happens If You Lose Your Gmail Account Tomorrow?](https://dev.to/sashasmith/what-happens-if-you-lose-your-gmail-account-tomorrow-f4l)
-- [My Developer Associate Certification Journey and Resources to Certify With Confidence](https://dev.to/aws-builders/my-developer-associate-certification-journey-and-resources-to-certify-with-confidence-402l)
+- [AMD Advancing AI 2026: Software, Hardware &amp; Framework, Unified](https://dev.to/earlgreyhot1701d/amd-advancing-ai-2026-software-hardware-framework-unified-2d2j)
+- [🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]](https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i)
+- [3 Assumptions That Broke Before I Got gpt-oss-120b Working Through the Anthropic SDK](https://dev.to/nomurasan/3-assumptions-that-broke-before-i-got-gpt-oss-120b-working-through-the-anthropic-sdk-m55)
+- [I built a terminal tool to see your AI coding limits before they stop you](https://dev.to/pawfromoz/i-built-a-terminal-tool-to-see-your-ai-coding-limits-before-they-stop-you-3a93)
 <!-- BLOG-POST-LIST:END -->
 
