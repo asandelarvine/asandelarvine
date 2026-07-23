@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Git-Based Decision Tracker — Branch Your Life Choices, Commit Predictions, and Let Time Score Your Judgment](https://dev.to/shivansh_goel_df5116dbcdd/i-built-a-git-based-decision-tracker-branch-your-life-choices-commit-predictions-and-let-time-295i)
-- [Building MaxOS #6: The Architecture Is Finished. Now It&#39;s Time to Build.](https://dev.to/maxpaardekam/building-maxos-6-the-architecture-is-finished-now-its-time-to-build-1nb7)
-- [Post-Quantum DNS and TLS: What ML-DSA Means for Your Site](https://dev.to/tpchosting/post-quantum-dns-and-tls-what-ml-dsa-means-for-your-site-1ieb)
-- [Why Most RAG Systems Fail in Production: The Hidden Architecture Problems Behind AI Search](https://dev.to/damir-karimov/why-most-rag-systems-fail-in-production-the-hidden-architecture-problems-behind-ai-search-2ce3)
+- [Lean Startup Methodology: A First-Time Founder&#39;s Guide](https://dev.to/sclaydon/lean-startup-methodology-a-first-time-founders-guide-2a27)
+- [Beyond CI/CD: Building Agentic Validation and Inspection Layers with LangGraph, MCP, and A2A](https://dev.to/nikhil_ramank_152ca48266/beyond-cicd-building-agentic-validation-and-inspection-layers-with-langgraph-mcp-and-a2a-30f0)
+- [Beyond Binaural Beats: Building an Adaptive, Verifiable Audio Entrainment Platform](https://dev.to/anulum/beyond-binaural-beats-building-an-adaptive-verifiable-audio-entrainment-platform-3n6f)
+- [Database Migrations: Managing Schema Changes as Version-Controlled Code](https://dev.to/rhuturaj_takle/database-migrations-managing-schema-changes-as-version-controlled-code-1o18)
 <!-- BLOG-POST-LIST:END -->
 
