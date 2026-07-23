@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hunting Down Zombie Agents: Logging Subagent Usage with a Claude Code Stop Hook](https://dev.to/bokuwalily/hunting-down-zombie-agents-logging-subagent-usage-with-a-claude-code-stop-hook-332g)
-- [Your budgeting app is lying to you about last month](https://dev.to/sssselfmade/your-budgeting-app-is-lying-to-you-about-last-month-3kn8)
-- [My app&#39;s anti-theft feature locked every user out](https://dev.to/sssselfmade/my-apps-anti-theft-feature-locked-every-user-out-48mf)
-- [Automate FOMC and CPI Alerts with n8n and a Free Economic Calendar API](https://dev.to/ichigowa/automate-fomc-and-cpi-alerts-with-n8n-and-a-free-economic-calendar-api-3j87)
+- [ESP32 Bowling Scoring System Beats a $120K Proprietary Quote](https://dev.to/circuitrocks/esp32-bowling-scoring-system-beats-a-120k-proprietary-quote-4i9p)
+- [Dev log #13 Hardening Kademlia: A week of p2p security architecture and Neovim maintenance](https://dev.to/yashksaini/dev-log-1-hardening-kademlia-a-week-of-p2p-security-architecture-and-neovim-maintenance-12jo)
+- [Character consistency isn&#39;t a seed trick: a 2-stage image pipeline that actually locks the face](https://dev.to/ownstackhq/character-consistency-isnt-a-seed-trick-a-2-stage-image-pipeline-that-actually-locks-the-face-p76)
+- [L1.9: I built a prompt injection firewall for AI agents &lpar;28 detection rules&rpar;](https://dev.to/edison_flores_6d2cd381b13/l19-i-built-a-prompt-injection-firewall-for-ai-agents-28-detection-rules-18nb)
 <!-- BLOG-POST-LIST:END -->
 
