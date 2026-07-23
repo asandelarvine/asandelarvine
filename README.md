@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AKS and Near-Bare-Metal Workloads: What Platform Teams Can Responsibly Plan For](https://dev.to/sathpal_singh/aks-and-near-bare-metal-workloads-what-platform-teams-can-responsibly-plan-for-5927)
-- [I Built CodeComplex: A Real-Time Competitive Coding Platform with AI Rivals and Bug-Fix Arenas](https://dev.to/umangsisodia/i-built-codecomplex-a-real-time-competitive-coding-platform-with-ai-rivals-and-bug-fix-arenas-4j3p)
-- [I built an AI-first bank statement converter. The one rule that stopped it lying to me.](https://dev.to/statementdecoder/i-built-an-ai-first-bank-statement-converter-the-one-rule-that-stopped-it-lying-to-me-24ik)
-- [O dia em que coloquei um agente de IA pra fiscalizar débito técnico no maior banco da América Latina](https://dev.to/lincoln_romais/-o-dia-em-que-coloquei-um-agente-de-ia-pra-fiscalizar-debito-tecnico-no-maior-banco-da-america-2734)
+- [I built a machine-payable API for AI agents and made $0.00 from strangers. Here&#39;s every number.](https://dev.to/baolongspx6900/i-built-a-machine-payable-api-for-ai-agents-and-made-000-from-strangers-heres-every-number-3g5k)
+- [10 ChatGPT Prompts for Daily Use by L1 SOC Analysts](https://dev.to/excalibra/10-chatgpt-prompts-for-daily-use-by-l1-soc-analysts-5g27)
+- [My AI deleted a test to make the build pass. So I built 28 safety checks to stop it.](https://dev.to/ratingtesting/my-ai-deleted-a-test-to-make-the-build-pass-so-i-built-28-safety-checks-to-stop-it-14mf)
+- [Claude Code Plan Mode: How I Use It on Real Multi-File Work](https://dev.to/stravukarl/claude-code-plan-mode-how-i-use-it-on-real-multi-file-work-40od)
 <!-- BLOG-POST-LIST:END -->
 
