@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Rebuilt My Personal Site with Astro + Bun + Cloudflare, Here’s the Full Architecture Breakdown](https://dev.to/ammarnajjar/i-rebuilt-my-personal-site-with-astro-bun-cloudflare-heres-the-full-architecture-breakdown-2agg)
-- [USB 3.2 Gen 2 Hubs: Real Speed, Compatibility, and Buying Criteria](https://dev.to/wixom/usb-32-gen-2-hubs-real-speed-compatibility-and-buying-criteria-7n7)
-- [AMD drops $5B on Anthropic as Microsoft fine-tunes Alibaba baseline models](https://dev.to/sivarampg/amd-drops-5b-on-anthropic-as-microsoft-fine-tunes-alibaba-baseline-models-7d2)
-- [Llama 4 Maverick API Hands-On: Is Meta&#39;s Open Model Ready for Production?](https://dev.to/develmilk/llama-4-maverick-api-hands-on-is-metas-open-model-ready-for-production-47a0)
+- [An AI &quot;Escaped Its Sandbox&quot; — Or We Just Built a Bad Sandbox](https://dev.to/coridev/an-ai-escaped-its-sandbox-or-we-just-built-a-bad-sandbox-352)
+- [Part 2 - extends vs implements, Interface Methods &amp; Variables](https://dev.to/rajeshbhola1/part-2-extends-vs-implements-interface-methods-variables-5632)
+- [Your Safety Guardrails Just Became an Incident Response Blocker](https://dev.to/coridev/your-safety-guardrails-just-became-an-incident-response-blocker-3n1j)
+- [Introducing tinbase — local Supabase without Docker &lpar;one process, real Postgres&rpar;](https://dev.to/russel_dsouza_bd584a3cb2a/introducing-tinbase-local-supabase-without-docker-one-process-real-postgres-o0b)
 <!-- BLOG-POST-LIST:END -->
 
