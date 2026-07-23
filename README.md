@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An AI &quot;Escaped Its Sandbox&quot; — Or We Just Built a Bad Sandbox](https://dev.to/coridev/an-ai-escaped-its-sandbox-or-we-just-built-a-bad-sandbox-352)
-- [Part 2 - extends vs implements, Interface Methods &amp; Variables](https://dev.to/rajeshbhola1/part-2-extends-vs-implements-interface-methods-variables-5632)
-- [Your Safety Guardrails Just Became an Incident Response Blocker](https://dev.to/coridev/your-safety-guardrails-just-became-an-incident-response-blocker-3n1j)
-- [Introducing tinbase — local Supabase without Docker &lpar;one process, real Postgres&rpar;](https://dev.to/russel_dsouza_bd584a3cb2a/introducing-tinbase-local-supabase-without-docker-one-process-real-postgres-o0b)
+- [I Built a Git-Based Decision Tracker — Branch Your Life Choices, Commit Predictions, and Let Time Score Your Judgment](https://dev.to/shivansh_goel_df5116dbcdd/i-built-a-git-based-decision-tracker-branch-your-life-choices-commit-predictions-and-let-time-295i)
+- [Building MaxOS #6: The Architecture Is Finished. Now It&#39;s Time to Build.](https://dev.to/maxpaardekam/building-maxos-6-the-architecture-is-finished-now-its-time-to-build-1nb7)
+- [Post-Quantum DNS and TLS: What ML-DSA Means for Your Site](https://dev.to/tpchosting/post-quantum-dns-and-tls-what-ml-dsa-means-for-your-site-1ieb)
+- [Why Most RAG Systems Fail in Production: The Hidden Architecture Problems Behind AI Search](https://dev.to/damir-karimov/why-most-rag-systems-fail-in-production-the-hidden-architecture-problems-behind-ai-search-2ce3)
 <!-- BLOG-POST-LIST:END -->
 
