@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a machine-payable API for AI agents and made $0.00 from strangers. Here&#39;s every number.](https://dev.to/baolongspx6900/i-built-a-machine-payable-api-for-ai-agents-and-made-000-from-strangers-heres-every-number-3g5k)
-- [10 ChatGPT Prompts for Daily Use by L1 SOC Analysts](https://dev.to/excalibra/10-chatgpt-prompts-for-daily-use-by-l1-soc-analysts-5g27)
-- [My AI deleted a test to make the build pass. So I built 28 safety checks to stop it.](https://dev.to/ratingtesting/my-ai-deleted-a-test-to-make-the-build-pass-so-i-built-28-safety-checks-to-stop-it-14mf)
-- [Claude Code Plan Mode: How I Use It on Real Multi-File Work](https://dev.to/stravukarl/claude-code-plan-mode-how-i-use-it-on-real-multi-file-work-40od)
+- [I Built a CLI That Finds Me Clients on Reddit Using AI](https://dev.to/hidekiryu/i-built-a-cli-that-finds-me-clients-on-reddit-using-ai-55dc)
+- [We Catalogued 14,085 x402 Endpoints. 10,508 Came From One Domain.](https://dev.to/devtoship/we-catalogued-14085-x402-endpoints-10508-came-from-one-domain-1g19)
+- [What Happens If You Lose Your Gmail Account Tomorrow?](https://dev.to/sashasmith/what-happens-if-you-lose-your-gmail-account-tomorrow-f4l)
+- [My Developer Associate Certification Journey and Resources to Certify With Confidence](https://dev.to/aws-builders/my-developer-associate-certification-journey-and-resources-to-certify-with-confidence-402l)
 <!-- BLOG-POST-LIST:END -->
 
