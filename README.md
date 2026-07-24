@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Dev Log 2026-W15](https://dev.to/umitomo-lab/weekly-dev-log-2026-w15-4fhi)
-- [Azure Management Tasks Part 2: How to configure the Virtual Network &lpar;VNET&rpar;](https://dev.to/smayowa10/azure-management-tasks-part-2-how-to-configure-the-virtual-network-vnet-e7i)
-- [Lịch Việt &amp; Phong Thủy - Tiện Ích Chrome Xem Lịch Âm, Ngày Tốt Xấu, Giờ Hoàng Đạo Ngay Trên Trình Duyệt](https://dev.to/ngtduc693/lich-viet-phong-thuy-tien-ich-chrome-xem-lich-am-ngay-tot-xau-gio-hoang-dao-ngay-tren-trinh-18o2)
-- [Structured Logging for Node.js](https://dev.to/moose978/structured-logging-for-nodejs-1b8p)
+- [Continuous Learning Won&#39;t Come From the Weights](https://dev.to/tomleelive/continuous-learning-wont-come-from-the-weights-oeb)
+- [Building an Operating System In Rust Part 2](https://dev.to/benkaythe1st/building-an-operating-system-in-rust-part-2-30ci)
+- [Debugging a Broken Ingress Setup: A Step-by-Step Walkthrough](https://dev.to/oyebobs/debugging-a-broken-ingress-setup-a-step-by-step-walkthrough-b37)
+- [Ich habe einen echten Speedtest in Vanilla JS gebaut &lpar;mit Cloudflare API&rpar;](https://dev.to/nevik_schmidt_3635afa2b85/ich-habe-einen-echten-speedtest-in-vanilla-js-gebaut-mit-cloudflare-api-4n37)
 <!-- BLOG-POST-LIST:END -->
 
