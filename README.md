@@ -79,9 +79,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to run Hermes, a self-improving personal AI agent, fully local with QVAC](https://dev.to/qvac/how-to-run-hermes-a-self-improving-personal-ai-agent-fully-local-with-qvac-463d)
-- [What Still Required Human Judgment When Adding MCP to an AI-Assisted SaaS](https://dev.to/bruno_vieira_39eeac09381c/what-still-required-human-judgment-when-adding-mcp-to-an-ai-assisted-saas-3n57)
-- [CDR与retimer是什么关系](https://dev.to/zhhk1h/cdryu-retimershi-shi-yao-guan-xi-4ccm)
-- [Testing the Proof System: Negative Controls and Dependency Evidence in Ota](https://dev.to/otaready/testing-the-proof-system-negative-controls-and-dependency-evidence-in-ota-38mp)
+- [I built an eval harness to prove an LLM worked. It proved the opposite.](https://dev.to/fissible/i-built-an-eval-harness-to-prove-an-llm-worked-it-proved-the-opposite-327m)
+- [Hi everyone !, I&#39;m absolute beginner in programming with no background . And I&#39;m interested in C++ . Because of it&#39;s speed , AAA games usage ... etc .
+ So, I hope if there anyone &lpar;expert one&rpar; navigate me .
+Should I go ahead ?or try another language?](https://dev.to/__609313c55d72035/hi-everyone-im-absolute-beginner-in-programming-with-no-background-and-im-interested-in-31p)
+- [The None That Broke Permissions: How a Single Null Crashed Hermes Agent Approvals](https://dev.to/aniruddha_adak/the-none-that-broke-permissions-how-a-single-null-crashed-hermes-agent-approvals-189f)
+- [C is way more different than I thought](https://dev.to/immert/c-is-way-more-different-than-i-thought-2g0)
 <!-- BLOG-POST-LIST:END -->
 
