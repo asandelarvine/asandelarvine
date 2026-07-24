@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MIT Hackathon Puzzle That Turned Into a Data Science Project](https://dev.to/poetryofcode/mit-hackathon-puzzle-that-turned-into-a-data-science-project-5183)
-- [The rules were written down. Nobody followed them. Then CI went red on day one](https://dev.to/jun_uen0/the-rules-were-written-down-nobody-followed-them-then-ci-went-red-on-day-one-18mi)
-- [OhNine: Why I Built a Menu Bar App for Claude Limits](https://dev.to/raxxostudios/ohnine-why-i-built-a-menu-bar-app-for-claude-limits-3f25)
-- [Knowledge-and-Memory-Management v0.0.2: Portable Knowledge Collection and Memory Management](https://dev.to/mage0535/knowledge-and-memory-management-v002-portable-knowledge-collection-and-memory-management-3lcf)
+- [What Is AI Agent Tool Calling? MCP, Function Calling, and A2A Explained &lpar;2026&rpar;](https://dev.to/arcade/ai-agent-tool-calling-mcp-a2a-23l6)
+- [How Upgrading Door Handles Can Transform Your Home&#39;s Style and Function](https://dev.to/micheljee/how-upgrading-door-handles-can-transform-your-homes-style-and-function-5hl8)
+- [Don&#39;t Fragment My AI Stack: Why Shutting Off Chinese Open-Weight Models Is a Bad Idea](https://dev.to/hanzla/dont-fragment-my-ai-stack-why-shutting-off-chinese-open-weight-models-is-a-bad-idea-3c08)
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-5ak2)
 <!-- BLOG-POST-LIST:END -->
 
