@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AMD Advancing AI 2026: Software, Hardware &amp; Framework, Unified](https://dev.to/earlgreyhot1701d/amd-advancing-ai-2026-software-hardware-framework-unified-2d2j)
-- [🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]](https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i)
-- [3 Assumptions That Broke Before I Got gpt-oss-120b Working Through the Anthropic SDK](https://dev.to/nomurasan/3-assumptions-that-broke-before-i-got-gpt-oss-120b-working-through-the-anthropic-sdk-m55)
-- [I built a terminal tool to see your AI coding limits before they stop you](https://dev.to/pawfromoz/i-built-a-terminal-tool-to-see-your-ai-coding-limits-before-they-stop-you-3a93)
+- [MIT Hackathon Puzzle That Turned Into a Data Science Project](https://dev.to/poetryofcode/mit-hackathon-puzzle-that-turned-into-a-data-science-project-5183)
+- [The rules were written down. Nobody followed them. Then CI went red on day one](https://dev.to/jun_uen0/the-rules-were-written-down-nobody-followed-them-then-ci-went-red-on-day-one-18mi)
+- [OhNine: Why I Built a Menu Bar App for Claude Limits](https://dev.to/raxxostudios/ohnine-why-i-built-a-menu-bar-app-for-claude-limits-3f25)
+- [Knowledge-and-Memory-Management v0.0.2: Portable Knowledge Collection and Memory Management](https://dev.to/mage0535/knowledge-and-memory-management-v002-portable-knowledge-collection-and-memory-management-3lcf)
 <!-- BLOG-POST-LIST:END -->
 
