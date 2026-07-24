@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Doing the Work Myself. My OpenClaw Agent Now Delegates to Sub-Agents.](https://dev.to/mrclaw207/i-stopped-doing-the-work-myself-my-openclaw-agent-now-delegates-to-sub-agents-18g1)
-- [The Six Flavors of Dependency Injection in Flutter](https://dev.to/gde/the-six-flavors-of-dependency-injection-in-flutter-lea)
-- [Your coding agent knows your codebase. It knows nothing about your users.](https://dev.to/scatterlabz/your-coding-agent-knows-your-codebase-it-knows-nothing-about-your-users-5339)
-- [『画面を飛び出したAIスウォーム』：バンコクの物理世界（IoT・都市物流）を無人で侵食する「O2O物理ハック仕様書」 Sofi_Log #040](https://dev.to/sofi_works_2a97535d1a93dc/hua-mian-wofei-bichu-sitaaisuuomu-bankokunowu-li-shi-jie-iotdu-shi-wu-liu-wowu-ren-deqin-shi-suruo2owu-li-hatukushi-yang-shu-sofilog-040-5f14)
+- [How to host an app your AI built with its own URL and saved data](https://dev.to/usecharming/how-to-host-an-app-your-ai-built-with-its-own-url-and-saved-data-18ma)
+- [Making a launch video for Claude Opus 5](https://dev.to/remocn/making-a-launch-video-for-claude-opus-5-2jlo)
+- [Your agent knows your preferences. It just never uses them](https://dev.to/nambok/your-agent-knows-your-preferences-it-just-never-uses-them-3ho5)
+- [Context Compression: Making AI Agents Forget Without Losing the Plot](https://dev.to/rijultp/context-compression-making-ai-agents-forget-without-losing-the-plot-5g7a)
 <!-- BLOG-POST-LIST:END -->
 
