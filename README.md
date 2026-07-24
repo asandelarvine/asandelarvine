@@ -79,11 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an eval harness to prove an LLM worked. It proved the opposite.](https://dev.to/fissible/i-built-an-eval-harness-to-prove-an-llm-worked-it-proved-the-opposite-327m)
-- [Hi everyone !, I&#39;m absolute beginner in programming with no background . And I&#39;m interested in C++ . Because of it&#39;s speed , AAA games usage ... etc .
- So, I hope if there anyone &lpar;expert one&rpar; navigate me .
-Should I go ahead ?or try another language?](https://dev.to/__609313c55d72035/hi-everyone-im-absolute-beginner-in-programming-with-no-background-and-im-interested-in-31p)
-- [The None That Broke Permissions: How a Single Null Crashed Hermes Agent Approvals](https://dev.to/aniruddha_adak/the-none-that-broke-permissions-how-a-single-null-crashed-hermes-agent-approvals-189f)
-- [C is way more different than I thought](https://dev.to/immert/c-is-way-more-different-than-i-thought-2g0)
+- [I Stopped Doing the Work Myself. My OpenClaw Agent Now Delegates to Sub-Agents.](https://dev.to/mrclaw207/i-stopped-doing-the-work-myself-my-openclaw-agent-now-delegates-to-sub-agents-18g1)
+- [The Six Flavors of Dependency Injection in Flutter](https://dev.to/gde/the-six-flavors-of-dependency-injection-in-flutter-lea)
+- [Your coding agent knows your codebase. It knows nothing about your users.](https://dev.to/scatterlabz/your-coding-agent-knows-your-codebase-it-knows-nothing-about-your-users-5339)
+- [『画面を飛び出したAIスウォーム』：バンコクの物理世界（IoT・都市物流）を無人で侵食する「O2O物理ハック仕様書」 Sofi_Log #040](https://dev.to/sofi_works_2a97535d1a93dc/hua-mian-wofei-bichu-sitaaisuuomu-bankokunowu-li-shi-jie-iotdu-shi-wu-liu-wowu-ren-deqin-shi-suruo2owu-li-hatukushi-yang-shu-sofilog-040-5f14)
 <!-- BLOG-POST-LIST:END -->
 
