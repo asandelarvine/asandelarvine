@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# From JavaScript to Node.js: Understanding What Really Happens Behind the Scenes &lpar;Part 4.3A.1&rpar;](https://dev.to/sudhanshu_code_b8ef988ceb/-from-javascript-to-nodejs-understanding-what-really-happens-behind-the-scenes-part-1o8i)
-- [The AI Wasn&#39;t Hallucinating. Our Architecture Was.](https://dev.to/imhardikmehta/the-ai-wasnt-hallucinating-our-architecture-was-1f14)
-- [I built foku — a minimal pomodoro timer with no ads, no account, no clutter](https://dev.to/baransel/i-built-foku-a-minimal-pomodoro-timer-with-no-ads-no-account-no-clutter-3fc)
-- [&#39;World Models&#39; Will Be the Next Buzzword. The Man Saying That Just Raised $1B to Build One.](https://dev.to/p0rt/world-models-will-be-the-next-buzzword-the-man-saying-that-just-raised-1b-to-build-one-4oih)
+- [How to run Hermes, a self-improving personal AI agent, fully local with QVAC](https://dev.to/qvac/how-to-run-hermes-a-self-improving-personal-ai-agent-fully-local-with-qvac-463d)
+- [What Still Required Human Judgment When Adding MCP to an AI-Assisted SaaS](https://dev.to/bruno_vieira_39eeac09381c/what-still-required-human-judgment-when-adding-mcp-to-an-ai-assisted-saas-3n57)
+- [CDR与retimer是什么关系](https://dev.to/zhhk1h/cdryu-retimershi-shi-yao-guan-xi-4ccm)
+- [Testing the Proof System: Negative Controls and Dependency Evidence in Ota](https://dev.to/otaready/testing-the-proof-system-negative-controls-and-dependency-evidence-in-ota-38mp)
 <!-- BLOG-POST-LIST:END -->
 
