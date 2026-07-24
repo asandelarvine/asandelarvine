@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to host an app your AI built with its own URL and saved data](https://dev.to/usecharming/how-to-host-an-app-your-ai-built-with-its-own-url-and-saved-data-18ma)
-- [Making a launch video for Claude Opus 5](https://dev.to/remocn/making-a-launch-video-for-claude-opus-5-2jlo)
-- [Your agent knows your preferences. It just never uses them](https://dev.to/nambok/your-agent-knows-your-preferences-it-just-never-uses-them-3ho5)
-- [Context Compression: Making AI Agents Forget Without Losing the Plot](https://dev.to/rijultp/context-compression-making-ai-agents-forget-without-losing-the-plot-5g7a)
+- [Pytest - Production test Coverage](https://dev.to/felipe_de_godoy/pytest-pt4-production-test-coverage-6hn)
+- [How to Check SPF, DKIM, and DMARC Records in Python](https://dev.to/devyjones/how-to-check-spf-dkim-and-dmarc-records-in-python-143)
+- [Rotating Residential Proxies in Python: requests, Scrapy &amp; Sticky Sessions](https://dev.to/devyjones/rotating-residential-proxies-in-python-requests-scrapy-sticky-sessions-2obp)
+- [Integrating AI and WordPress: From Idea to Execution, Real-World Challenges, and Practical Workflows](https://dev.to/faridkhoshdel/integrating-ai-and-wordpress-from-idea-to-execution-real-world-challenges-and-practical-workflows-2oj6)
 <!-- BLOG-POST-LIST:END -->
 
