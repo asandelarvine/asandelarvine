@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Video Generator with Next.js and Got My First Paid User in 3 Months](https://dev.to/jaspersmith/i-built-an-ai-video-generator-with-nextjs-and-got-my-first-paid-user-in-3-months-23kd)
-- [When SearchValues&lt;T&gt; Actually Pays Off](https://dev.to/ssukhpinder/when-searchvalues-actually-pays-off-310l)
-- [From Bug Found to Bug Filed: A Bug-Reporter Skill for Claude Code](https://dev.to/aswani25/from-bug-found-to-bug-filed-a-bug-reporter-skill-for-claude-code-5ih)
-- [What I learned on my first week of TryHackMe](https://dev.to/quinticus/what-i-learned-on-my-first-week-of-cybersecurity-ded)
+- [I built a web-first OS where standard HTML/JS apps run natively — no IPC bloat or electron wrappers required](https://dev.to/max_f2ab6697eb4060d4bc660/i-built-a-web-first-os-where-standard-htmljs-apps-run-natively-no-ipc-bloat-or-electron-wrappers-37a1)
+- [Kmemo: a semantic cache for LLM calls that refuses to serve you the wrong answer](https://dev.to/tonytonycoder11/kmemo-a-semantic-cache-for-llm-calls-that-refuses-to-serve-you-the-wrong-answer-54h7)
+- [I built a free learning platform because I was tired of scattered, paywalled resources. Now I need help keeping it alive.](https://dev.to/mblancodev/i-built-a-free-learning-platform-because-i-was-tired-of-scattered-paywalled-resources-now-i-need-3d87)
+- [# We Are Not Building a Product. We Are Building the Foundation.](https://dev.to/bayu911/-we-are-not-building-a-product-we-are-building-the-foundation-5c6j)
 <!-- BLOG-POST-LIST:END -->
 
