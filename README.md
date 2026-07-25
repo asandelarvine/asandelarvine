@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My LLM drift tracker flagged four regressions this week. All four were wrong.](https://dev.to/agentdev9/my-llm-drift-tracker-flagged-four-regressions-this-week-all-four-were-wrong-2i6e)
-- [How HTTPS Actually Works: TLS, Certificates, and Encryption](https://dev.to/juma_evans_34e389ef539266/how-https-actually-works-tls-certificates-and-encryption-41an)
-- [I built a memory layer that works across Claude, ChatGPT and Cursor — and rendered it as a 3D brain](https://dev.to/rajveer__gill__/i-built-a-memory-layer-that-works-across-claude-chatgpt-and-cursor-and-rendered-it-as-a-3d-brain-1b9k)
-- [How to Contribute to an Open-Source AI Trading Bot](https://dev.to/dineshstack/how-to-contribute-to-an-open-source-ai-trading-bot-5a0d)
+- [Your YouTube screenshot is black because you screenshotted the wrong layer](https://dev.to/liuhao04/your-youtube-screenshot-is-black-because-you-screenshotted-the-wrong-layer-14cm)
+- [One App, Many Models: Globe’s AI Fiesta Is Prepaid Logic Applied to Generative AI](https://dev.to/james_lin/one-app-many-models-globes-ai-fiesta-is-prepaid-logic-applied-to-generative-ai-ane)
+- [Why the most-installed &quot;PDF dark mode&quot; Chrome extensions do nothing on a web PDF](https://dev.to/liuhao04/why-most-pdf-dark-mode-chrome-extensions-do-nothing-on-a-web-pdf-on5)
+- [Cost Per Verified Success: Your Exit-0 Denominator Lies](https://dev.to/alex_spinov/cost-per-verified-success-your-exit-0-denominator-lies-5e6j)
 <!-- BLOG-POST-LIST:END -->
 
