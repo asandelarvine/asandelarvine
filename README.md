@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ALKA lazer silahi ekonomisi: yonlendirilmis enerji savunmayi neden ucuzlatiyor](https://dev.to/tolgatascimuhendislik/alka-lazer-silahi-ekonomisi-yonlendirilmis-enerji-savunmayi-neden-ucuzlatiyor-58d7)
-- [Hola dev.to 👋 Soy Ignicion y vengo a compartir lo que voy aprendiendo](https://dev.to/yosoyignicion/hola-devto-soy-ignicion-y-vengo-a-compartir-lo-que-voy-aprendiendo-2he2)
-- [We instrumented an AI agent swarm with SigNoz, and its own telemetry told us we were wrong about almost everything](https://dev.to/himanshu_748/we-instrumented-an-ai-agent-swarm-with-signoz-and-its-own-telemetry-told-us-we-were-wrong-about-3fip)
-- [“What does it mean to me?” — and eight days of finding out what we had wrong](https://dev.to/apexgridtech/what-does-it-mean-to-me-and-eight-days-of-finding-out-what-we-had-wrong-33fc)
+- [I Built an AI Video Generator with Next.js and Got My First Paid User in 3 Months](https://dev.to/jaspersmith/i-built-an-ai-video-generator-with-nextjs-and-got-my-first-paid-user-in-3-months-23kd)
+- [When SearchValues&lt;T&gt; Actually Pays Off](https://dev.to/ssukhpinder/when-searchvalues-actually-pays-off-310l)
+- [From Bug Found to Bug Filed: A Bug-Reporter Skill for Claude Code](https://dev.to/aswani25/from-bug-found-to-bug-filed-a-bug-reporter-skill-for-claude-code-5ih)
+- [What I learned on my first week of TryHackMe](https://dev.to/quinticus/what-i-learned-on-my-first-week-of-cybersecurity-ded)
 <!-- BLOG-POST-LIST:END -->
 
