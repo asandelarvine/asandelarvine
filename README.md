@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Our AI Agent Told a Customer It Processed a Refund. It Didn&#39;t.](https://dev.to/rockyrockers/our-ai-agent-told-a-customer-it-processed-a-refund-it-didnt-25a3)
-- [Your AI Agent Has a Backpack. It&#39;s Called Retrieval Memory.](https://dev.to/rijultp/your-ai-agent-has-a-backpack-its-called-retrieval-memory-1d95)
-- [[Advanced Rust] 1.10. References and Interior Mutability &lpar;Quick Recap&rpar; - References, Interior Mutability, Cell Type, and Relate…](https://dev.to/someb1oody/advanced-rust-110-references-and-interior-mutability-quick-recap-references-interior-3mkh)
-- [Your Build Target Is Not an API Contract: Enforcing Baseline with TypeScript](https://dev.to/ryuya/your-build-target-is-not-an-api-contract-enforcing-baseline-with-typescript-epn)
+- [Why I Put Mirth Connect in Front of FastAPI Instead of Parsing HL7 in Python](https://dev.to/budiwidhiyanto/why-i-put-mirth-connect-in-front-of-fastapi-instead-of-parsing-hl7-in-python-jh3)
+- [Claude Opus 5 leads on agentic work — and undercuts Fable 5 on cost](https://dev.to/thegatewayguy/claude-opus-5-leads-on-agentic-work-and-undercuts-fable-5-on-cost-4b02)
+- [We Got the Prompt Cache Working. Our Pipeline Got Slower.](https://dev.to/terum/we-got-the-prompt-cache-working-our-pipeline-got-slower-265f)
+- [I created a Laravel package to generate clean API modules](https://dev.to/strides_hovo/i-created-a-laravel-package-to-generate-clean-api-modules-118h)
 <!-- BLOG-POST-LIST:END -->
 
