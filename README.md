@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a web-first OS where standard HTML/JS apps run natively — no IPC bloat or electron wrappers required](https://dev.to/max_f2ab6697eb4060d4bc660/i-built-a-web-first-os-where-standard-htmljs-apps-run-natively-no-ipc-bloat-or-electron-wrappers-37a1)
-- [Kmemo: a semantic cache for LLM calls that refuses to serve you the wrong answer](https://dev.to/tonytonycoder11/kmemo-a-semantic-cache-for-llm-calls-that-refuses-to-serve-you-the-wrong-answer-54h7)
-- [I built a free learning platform because I was tired of scattered, paywalled resources. Now I need help keeping it alive.](https://dev.to/mblancodev/i-built-a-free-learning-platform-because-i-was-tired-of-scattered-paywalled-resources-now-i-need-3d87)
-- [# We Are Not Building a Product. We Are Building the Foundation.](https://dev.to/bayu911/-we-are-not-building-a-product-we-are-building-the-foundation-5c6j)
+- [Our AI Agent Told a Customer It Processed a Refund. It Didn&#39;t.](https://dev.to/rockyrockers/our-ai-agent-told-a-customer-it-processed-a-refund-it-didnt-25a3)
+- [Your AI Agent Has a Backpack. It&#39;s Called Retrieval Memory.](https://dev.to/rijultp/your-ai-agent-has-a-backpack-its-called-retrieval-memory-1d95)
+- [[Advanced Rust] 1.10. References and Interior Mutability &lpar;Quick Recap&rpar; - References, Interior Mutability, Cell Type, and Relate…](https://dev.to/someb1oody/advanced-rust-110-references-and-interior-mutability-quick-recap-references-interior-3mkh)
+- [Your Build Target Is Not an API Contract: Enforcing Baseline with TypeScript](https://dev.to/ryuya/your-build-target-is-not-an-api-contract-enforcing-baseline-with-typescript-epn)
 <!-- BLOG-POST-LIST:END -->
 
