@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dario must be crashing out](https://dev.to/jon_at_backboardio/dario-must-be-crashing-out-26b9)
-- [Beyond the Model: Building the AI Harness](https://dev.to/abdulaziz_zos/beyond-the-model-1b23)
-- [TLS and mTLS for Infra Services: A Production Deep Dive for Solo Devs and Small Startups](https://dev.to/instanceofgod/tls-and-mtls-for-infra-services-a-production-deep-dive-for-solo-devs-and-small-startups-2j0g)
-- [#22 Tool #23 Is the Blog You&#39;re Reading Right Now](https://dev.to/fromzerotoship/22-tool-23-is-the-blog-youre-reading-right-now-3ha0)
+- [ALKA lazer silahi ekonomisi: yonlendirilmis enerji savunmayi neden ucuzlatiyor](https://dev.to/tolgatascimuhendislik/alka-lazer-silahi-ekonomisi-yonlendirilmis-enerji-savunmayi-neden-ucuzlatiyor-58d7)
+- [Hola dev.to 👋 Soy Ignicion y vengo a compartir lo que voy aprendiendo](https://dev.to/yosoyignicion/hola-devto-soy-ignicion-y-vengo-a-compartir-lo-que-voy-aprendiendo-2he2)
+- [We instrumented an AI agent swarm with SigNoz, and its own telemetry told us we were wrong about almost everything](https://dev.to/himanshu_748/we-instrumented-an-ai-agent-swarm-with-signoz-and-its-own-telemetry-told-us-we-were-wrong-about-3fip)
+- [“What does it mean to me?” — and eight days of finding out what we had wrong](https://dev.to/apexgridtech/what-does-it-mean-to-me-and-eight-days-of-finding-out-what-we-had-wrong-33fc)
 <!-- BLOG-POST-LIST:END -->
 
