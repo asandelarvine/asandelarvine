@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your YouTube screenshot is black because you screenshotted the wrong layer](https://dev.to/liuhao04/your-youtube-screenshot-is-black-because-you-screenshotted-the-wrong-layer-14cm)
-- [One App, Many Models: Globe’s AI Fiesta Is Prepaid Logic Applied to Generative AI](https://dev.to/james_lin/one-app-many-models-globes-ai-fiesta-is-prepaid-logic-applied-to-generative-ai-ane)
-- [Why the most-installed &quot;PDF dark mode&quot; Chrome extensions do nothing on a web PDF](https://dev.to/liuhao04/why-most-pdf-dark-mode-chrome-extensions-do-nothing-on-a-web-pdf-on5)
-- [Cost Per Verified Success: Your Exit-0 Denominator Lies](https://dev.to/alex_spinov/cost-per-verified-success-your-exit-0-denominator-lies-5e6j)
+- [🐳 MyZubster Ecosystem: Docker Integration, Monero Mainnet, and NFT Expansion](https://dev.to/danielioni/myzubster-ecosystem-docker-integration-monero-mainnet-and-nft-expansion-1d30)
+- [Sally in the Classroom: A $58K Humanoid Is Not an Education Strategy](https://dev.to/james_lin/sally-in-the-classroom-a-58k-humanoid-is-not-an-education-strategy-13cf)
+- [AI Agent Security Audit Checklist: 8 Critical Tests for Production Deployments](https://dev.to/correctover_15/ai-agent-security-audit-checklist-8-critical-tests-for-production-deployments-448o)
+- [Claude Opus 5: Hands-On with Code Generation, Agent Orchestration, and Cost Analysis](https://dev.to/yanmoheluo/claude-opus-5-hands-on-with-code-generation-agent-orchestration-and-cost-analysis-38b7)
 <!-- BLOG-POST-LIST:END -->
 
