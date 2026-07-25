@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🐳 MyZubster Ecosystem: Docker Integration, Monero Mainnet, and NFT Expansion](https://dev.to/danielioni/myzubster-ecosystem-docker-integration-monero-mainnet-and-nft-expansion-1d30)
-- [Sally in the Classroom: A $58K Humanoid Is Not an Education Strategy](https://dev.to/james_lin/sally-in-the-classroom-a-58k-humanoid-is-not-an-education-strategy-13cf)
-- [AI Agent Security Audit Checklist: 8 Critical Tests for Production Deployments](https://dev.to/correctover_15/ai-agent-security-audit-checklist-8-critical-tests-for-production-deployments-448o)
-- [Claude Opus 5: Hands-On with Code Generation, Agent Orchestration, and Cost Analysis](https://dev.to/yanmoheluo/claude-opus-5-hands-on-with-code-generation-agent-orchestration-and-cost-analysis-38b7)
+- [ML Without Magic: Building a Tiny Language Model in Pure Node.js and Watching Every Weight Change](https://dev.to/maktordev/ml-without-magic-building-a-tiny-language-model-in-pure-nodejs-and-watching-every-weight-change-5dfh)
+- [Terraform e YAML - Padrões Avançados e Escalabilidade](https://dev.to/apsis-cc/terraform-e-yaml-padroes-avancados-e-escalabilidade-28aa)
+- [Why I built Sanctuary: A local-first, zero-tracking reflection app](https://dev.to/hrishikesh_jadhav_bbd2b40/why-i-built-sanctuary-a-local-first-zero-tracking-reflection-app-2lfh)
+- [Your OpenAPI spec is already a test plan — here&#39;s how to turn it into Playwright tests automatically](https://dev.to/j0ny3nglish/your-openapi-spec-is-already-a-test-plan-heres-how-to-turn-it-into-playwright-tests-automatically-1mp6)
 <!-- BLOG-POST-LIST:END -->
 
