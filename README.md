@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ML Without Magic: Building a Tiny Language Model in Pure Node.js and Watching Every Weight Change](https://dev.to/maktordev/ml-without-magic-building-a-tiny-language-model-in-pure-nodejs-and-watching-every-weight-change-5dfh)
-- [Terraform e YAML - Padrões Avançados e Escalabilidade](https://dev.to/apsis-cc/terraform-e-yaml-padroes-avancados-e-escalabilidade-28aa)
-- [Why I built Sanctuary: A local-first, zero-tracking reflection app](https://dev.to/hrishikesh_jadhav_bbd2b40/why-i-built-sanctuary-a-local-first-zero-tracking-reflection-app-2lfh)
-- [Your OpenAPI spec is already a test plan — here&#39;s how to turn it into Playwright tests automatically](https://dev.to/j0ny3nglish/your-openapi-spec-is-already-a-test-plan-heres-how-to-turn-it-into-playwright-tests-automatically-1mp6)
+- [I built a collection of open-source Eve agents for AI based on the Vercel framework](https://dev.to/zoltanszogyenyi/i-built-a-collection-of-open-source-eve-agents-for-ai-based-on-the-vercel-framework-55ab)
+- [Why I Built a Security Scanner That Never Touches the Target](https://dev.to/resul_oztas/why-i-built-a-security-scanner-that-never-touches-the-target-4123)
+- [The Biggest Flaw in My AI Evaluation Wasn&#39;t the Models. It Was My Scorecard.](https://dev.to/asiaostrich/the-biggest-flaw-in-my-ai-evaluation-wasnt-the-models-it-was-my-scorecard-556d)
+- [Protect Your Python Bots From Failing Over and Over Again](https://dev.to/john_wick_47/protect-your-python-bots-from-failing-over-and-over-again-27a4)
 <!-- BLOG-POST-LIST:END -->
 
