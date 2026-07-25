@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pytest - Production test Coverage](https://dev.to/felipe_de_godoy/pytest-pt4-production-test-coverage-6hn)
-- [How to Check SPF, DKIM, and DMARC Records in Python](https://dev.to/devyjones/how-to-check-spf-dkim-and-dmarc-records-in-python-143)
-- [Rotating Residential Proxies in Python: requests, Scrapy &amp; Sticky Sessions](https://dev.to/devyjones/rotating-residential-proxies-in-python-requests-scrapy-sticky-sessions-2obp)
-- [Integrating AI and WordPress: From Idea to Execution, Real-World Challenges, and Practical Workflows](https://dev.to/faridkhoshdel/integrating-ai-and-wordpress-from-idea-to-execution-real-world-challenges-and-practical-workflows-2oj6)
+- [My LLM drift tracker flagged four regressions this week. All four were wrong.](https://dev.to/agentdev9/my-llm-drift-tracker-flagged-four-regressions-this-week-all-four-were-wrong-2i6e)
+- [How HTTPS Actually Works: TLS, Certificates, and Encryption](https://dev.to/juma_evans_34e389ef539266/how-https-actually-works-tls-certificates-and-encryption-41an)
+- [I built a memory layer that works across Claude, ChatGPT and Cursor — and rendered it as a 3D brain](https://dev.to/rajveer__gill__/i-built-a-memory-layer-that-works-across-claude-chatgpt-and-cursor-and-rendered-it-as-a-3d-brain-1b9k)
+- [How to Contribute to an Open-Source AI Trading Bot](https://dev.to/dineshstack/how-to-contribute-to-an-open-source-ai-trading-bot-5a0d)
 <!-- BLOG-POST-LIST:END -->
 
