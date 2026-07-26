@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Put Mirth Connect in Front of FastAPI Instead of Parsing HL7 in Python](https://dev.to/budiwidhiyanto/why-i-put-mirth-connect-in-front-of-fastapi-instead-of-parsing-hl7-in-python-jh3)
-- [Claude Opus 5 leads on agentic work — and undercuts Fable 5 on cost](https://dev.to/thegatewayguy/claude-opus-5-leads-on-agentic-work-and-undercuts-fable-5-on-cost-4b02)
-- [We Got the Prompt Cache Working. Our Pipeline Got Slower.](https://dev.to/terum/we-got-the-prompt-cache-working-our-pipeline-got-slower-265f)
-- [I created a Laravel package to generate clean API modules](https://dev.to/strides_hovo/i-created-a-laravel-package-to-generate-clean-api-modules-118h)
+- [Building Automated Developer Pipelines](https://dev.to/zukliod/building-automated-developer-pipelines-17k5)
+- [just build a music streaming app for windows and androids](https://dev.to/geethudinoyt/just-build-a-music-streaming-app-for-windows-and-androids-3j51)
+- [Single-file INI editor for .NET that preserves formatting by editing the original text](https://dev.to/ng256/single-file-ini-editor-for-net-that-preserves-formatting-by-editing-the-original-text-k2b)
+- [A Weekly AI Coding Report Is an Activity Ledger, Not a Productivity Score](https://dev.to/agentis/a-weekly-ai-coding-report-is-an-activity-ledger-not-a-productivity-score-43eo)
 <!-- BLOG-POST-LIST:END -->
 
