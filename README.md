@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Challenge: Similar colors](https://dev.to/simongreennet/weekly-challenge-similar-colors-1n4d)
-- [Skull Skills](https://dev.to/aturzone/skull-skills-1lnb)
-- [Inspiracion por un comentario interesante 🧠️](https://dev.to/yosoyignicion/inspiracion-por-un-comentario-interesante-2cfm)
-- [I shipped an npm package that fails your build when an LLM leaks PHI](https://dev.to/selvakg/i-shipped-an-npm-package-that-fails-your-build-when-an-llm-leaks-phi-1a65)
+- [How I Built an Auditable Palworld 1.0 Breeding Calculator Without Shipping Game Files](https://dev.to/joshua9919/how-i-built-an-auditable-palworld-10-breeding-calculator-without-shipping-game-files-1jde)
+- [I made LLM context editable: a graph where the wires are the prompt](https://dev.to/chenxiachan/i-made-llm-context-editable-a-graph-where-the-wires-are-the-prompt-2afl)
+- [How to use third party web components - &quot;for the rest of us&quot;](https://dev.to/treehouse/how-to-use-third-party-web-components-for-the-rest-of-us-36ff)
+- [How to Self-Host an AI API Gateway With Sub2API](https://dev.to/skedaddle/how-to-self-host-an-ai-api-gateway-with-sub2api-3i99)
 <!-- BLOG-POST-LIST:END -->
 
