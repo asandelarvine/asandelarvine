@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Opus 5 vs Fable 5: Which Tier Earns the Money](https://dev.to/raxxostudios/claude-opus-5-vs-fable-5-which-tier-earns-the-money-4of)
-- [Opus 5 vs GPT-5.6 Sol vs Kimi K3: Who Leads Now?](https://dev.to/raxxostudios/opus-5-vs-gpt-56-sol-vs-kimi-k3-who-leads-now-453c)
-- [I kept forgetting syntax and wasting time googling basic code, so I built a free web tool to fix it.](https://dev.to/autosnippetsweb/i-kept-forgetting-syntax-and-wasting-time-googling-basic-code-so-i-built-a-free-web-tool-to-fix-it-2mdf)
-- [AI-Driven Development: How Machine Learning is Reshaping Software Workflows in 2026](https://dev.to/kaixintelligence/ai-driven-development-how-machine-learning-is-reshaping-software-workflows-in-2026-4038)
+- [Weekly Challenge: Similar colors](https://dev.to/simongreennet/weekly-challenge-similar-colors-1n4d)
+- [Skull Skills](https://dev.to/aturzone/skull-skills-1lnb)
+- [Inspiracion por un comentario interesante 🧠️](https://dev.to/yosoyignicion/inspiracion-por-un-comentario-interesante-2cfm)
+- [I shipped an npm package that fails your build when an LLM leaks PHI](https://dev.to/selvakg/i-shipped-an-npm-package-that-fails-your-build-when-an-llm-leaks-phi-1a65)
 <!-- BLOG-POST-LIST:END -->
 
