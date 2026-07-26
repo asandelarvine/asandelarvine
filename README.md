@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Validation State Doesn&#39;t Act By Itself](https://dev.to/pathvector-dev/validation-state-doesnt-act-by-itself-35nm)
-- [Origin validation is a separate decision from best path](https://dev.to/pathvector-dev/origin-validation-is-a-separate-decision-from-best-path-316g)
-- [Teams Governance — Why Most Enterprises Get It Wrong](https://dev.to/suvankar_chakraborty_1d46/teams-governance-why-most-enterprises-get-it-wrong-1008)
-- [Google ADK: Introduction to AI Agent Development](https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e)
+- [Building AI Agents with the GO Agent Development Kit &lpar;ADK&rpar; — 2026 Edition &lpar;v2&rpar;](https://dev.to/xbill/building-ai-agents-with-the-go-agent-development-kit-adk-2026-edition-v2-4n55)
+- [Claude Opus 5 vs Opus 4.8, Measured: Same Price, 3x Apart](https://dev.to/synthorai/claude-opus-5-vs-opus-48-measured-same-price-3x-apart-3354)
+- [Tracing a multi-agent LLM system: otel-swarm and a SigNoz dashboard pack](https://dev.to/himanshu_748/tracing-a-multi-agent-llm-system-otel-swarm-and-a-signoz-dashboard-pack-4m85)
+- [Andrej Karpathy&#39;s &quot;Deep Dive into LLMs like ChatGPT&quot;](https://dev.to/absterellio/andrej-karpathys-deep-dive-into-llms-like-chatgpt-576o)
 <!-- BLOG-POST-LIST:END -->
 
