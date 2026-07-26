@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Auto-Locate Nearby Golf Courses on Your Map Using IP Geolocation](https://dev.to/onizuka/auto-locate-nearby-golf-courses-on-your-map-using-ip-geolocation-4dn5)
-- [I built an interactive terminal portfolio you can run with: npx hello-nayeem](https://dev.to/nayeem-miah/i-built-an-interactive-terminal-portfolio-you-can-run-with-npx-hello-nayeem-1lh5)
-- [I built an agent that asks your app what happened to it on SigNoz](https://dev.to/ibrahimpima/i-built-an-agent-that-asks-your-app-what-happened-to-it-on-signoz-2m3b)
-- [Dual-Tier Memory Architecture for AI Agents: How Local Vector Search Scales to 14,726 Memories Without Pinecone](https://dev.to/hypernexus/dual-tier-memory-architecture-for-ai-agents-how-local-vector-search-scales-to-14726-memories-2617)
+- [Are your MCP server&#39;s safety labels honest? A one-command check &lpar;and what it found on 31 popular servers&rpar;](https://dev.to/formael/are-your-mcp-servers-safety-labels-honest-a-one-command-check-and-what-it-found-on-31-popular-1ml3)
+- [Five AI features in an invoicing app, and the rules that keep them from touching the books](https://dev.to/slate_co_il/five-ai-features-in-an-invoicing-app-and-the-rules-that-keep-them-from-touching-the-books-3kh1)
+- [Your AI Guardrails Speak English Only — Here&#39;s the Multilingual Jailbreak Gap](https://dev.to/coridev/your-ai-guardrails-speak-english-only-heres-the-multilingual-jailbreak-gap-4fa0)
+- [# 🔐 How Does JWT Authentication Work?](https://dev.to/likitha_chendrimada/-how-does-jwt-authentication-work-him)
 <!-- BLOG-POST-LIST:END -->
 
