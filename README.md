@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an Auditable Palworld 1.0 Breeding Calculator Without Shipping Game Files](https://dev.to/joshua9919/how-i-built-an-auditable-palworld-10-breeding-calculator-without-shipping-game-files-1jde)
-- [I made LLM context editable: a graph where the wires are the prompt](https://dev.to/chenxiachan/i-made-llm-context-editable-a-graph-where-the-wires-are-the-prompt-2afl)
-- [How to use third party web components - &quot;for the rest of us&quot;](https://dev.to/treehouse/how-to-use-third-party-web-components-for-the-rest-of-us-36ff)
-- [How to Self-Host an AI API Gateway With Sub2API](https://dev.to/skedaddle/how-to-self-host-an-ai-api-gateway-with-sub2api-3i99)
+- [Validation State Doesn&#39;t Act By Itself](https://dev.to/pathvector-dev/validation-state-doesnt-act-by-itself-35nm)
+- [Origin validation is a separate decision from best path](https://dev.to/pathvector-dev/origin-validation-is-a-separate-decision-from-best-path-316g)
+- [Teams Governance — Why Most Enterprises Get It Wrong](https://dev.to/suvankar_chakraborty_1d46/teams-governance-why-most-enterprises-get-it-wrong-1008)
+- [Google ADK: Introduction to AI Agent Development](https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e)
 <!-- BLOG-POST-LIST:END -->
 
