@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Automated Developer Pipelines](https://dev.to/zukliod/building-automated-developer-pipelines-17k5)
-- [just build a music streaming app for windows and androids](https://dev.to/geethudinoyt/just-build-a-music-streaming-app-for-windows-and-androids-3j51)
-- [Single-file INI editor for .NET that preserves formatting by editing the original text](https://dev.to/ng256/single-file-ini-editor-for-net-that-preserves-formatting-by-editing-the-original-text-k2b)
-- [A Weekly AI Coding Report Is an Activity Ledger, Not a Productivity Score](https://dev.to/agentis/a-weekly-ai-coding-report-is-an-activity-ledger-not-a-productivity-score-43eo)
+- [Auto-Locate Nearby Golf Courses on Your Map Using IP Geolocation](https://dev.to/onizuka/auto-locate-nearby-golf-courses-on-your-map-using-ip-geolocation-4dn5)
+- [I built an interactive terminal portfolio you can run with: npx hello-nayeem](https://dev.to/nayeem-miah/i-built-an-interactive-terminal-portfolio-you-can-run-with-npx-hello-nayeem-1lh5)
+- [I built an agent that asks your app what happened to it on SigNoz](https://dev.to/ibrahimpima/i-built-an-agent-that-asks-your-app-what-happened-to-it-on-signoz-2m3b)
+- [Dual-Tier Memory Architecture for AI Agents: How Local Vector Search Scales to 14,726 Memories Without Pinecone](https://dev.to/hypernexus/dual-tier-memory-architecture-for-ai-agents-how-local-vector-search-scales-to-14726-memories-2617)
 <!-- BLOG-POST-LIST:END -->
 
