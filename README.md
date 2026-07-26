@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Are your MCP server&#39;s safety labels honest? A one-command check &lpar;and what it found on 31 popular servers&rpar;](https://dev.to/formael/are-your-mcp-servers-safety-labels-honest-a-one-command-check-and-what-it-found-on-31-popular-1ml3)
-- [Five AI features in an invoicing app, and the rules that keep them from touching the books](https://dev.to/slate_co_il/five-ai-features-in-an-invoicing-app-and-the-rules-that-keep-them-from-touching-the-books-3kh1)
-- [Your AI Guardrails Speak English Only — Here&#39;s the Multilingual Jailbreak Gap](https://dev.to/coridev/your-ai-guardrails-speak-english-only-heres-the-multilingual-jailbreak-gap-4fa0)
-- [# 🔐 How Does JWT Authentication Work?](https://dev.to/likitha_chendrimada/-how-does-jwt-authentication-work-him)
+- [Claude Opus 5 vs Fable 5: Which Tier Earns the Money](https://dev.to/raxxostudios/claude-opus-5-vs-fable-5-which-tier-earns-the-money-4of)
+- [Opus 5 vs GPT-5.6 Sol vs Kimi K3: Who Leads Now?](https://dev.to/raxxostudios/opus-5-vs-gpt-56-sol-vs-kimi-k3-who-leads-now-453c)
+- [I kept forgetting syntax and wasting time googling basic code, so I built a free web tool to fix it.](https://dev.to/autosnippetsweb/i-kept-forgetting-syntax-and-wasting-time-googling-basic-code-so-i-built-a-free-web-tool-to-fix-it-2mdf)
+- [AI-Driven Development: How Machine Learning is Reshaping Software Workflows in 2026](https://dev.to/kaixintelligence/ai-driven-development-how-machine-learning-is-reshaping-software-workflows-in-2026-4038)
 <!-- BLOG-POST-LIST:END -->
 
