@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI Agents with the GO Agent Development Kit &lpar;ADK&rpar; — 2026 Edition &lpar;v2&rpar;](https://dev.to/xbill/building-ai-agents-with-the-go-agent-development-kit-adk-2026-edition-v2-4n55)
-- [Claude Opus 5 vs Opus 4.8, Measured: Same Price, 3x Apart](https://dev.to/synthorai/claude-opus-5-vs-opus-48-measured-same-price-3x-apart-3354)
-- [Tracing a multi-agent LLM system: otel-swarm and a SigNoz dashboard pack](https://dev.to/himanshu_748/tracing-a-multi-agent-llm-system-otel-swarm-and-a-signoz-dashboard-pack-4m85)
-- [Andrej Karpathy&#39;s &quot;Deep Dive into LLMs like ChatGPT&quot;](https://dev.to/absterellio/andrej-karpathys-deep-dive-into-llms-like-chatgpt-576o)
+- [Stop Hardcoding AI Tools: Dynamic Tool Discovery and Schema Validation with Zod &amp; MCP](https://dev.to/programmingcentral/stop-hardcoding-ai-tools-dynamic-tool-discovery-and-schema-validation-with-zod-mcp-3e9j)
+- [I shipped a neural-network opponent into the browser: no backend, no accounts, 120 ms per move](https://dev.to/selectany/i-shipped-a-neural-network-opponent-into-the-browser-no-backend-no-accounts-120-ms-per-move-3l09)
+- [🤖 The Copilot’s Honest Opinion about Rullst!](https://dev.to/venelouis/the-copilots-honest-opinion-about-rullst-hce)
+- [When to Rebuild vs When to Refactor: A Decision Framework for Founders](https://dev.to/makumi/when-to-rebuild-vs-when-to-refactor-a-decision-framework-for-founders-20go)
 <!-- BLOG-POST-LIST:END -->
 
