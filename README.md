@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [mise Resolves Tools. Ota Governs Repository Acceptance.](https://dev.to/otaready/mise-resolves-tools-ota-governs-repository-acceptance-3c39)
-- [OpenGL Learning Needs](https://dev.to/turbodevc/opengl-learning-needs-5gl8)
-- [A VPN Is a Lie You Tell Your Kernel](https://dev.to/lovestaco/a-vpn-is-a-lie-you-tell-your-kernel-41dj)
-- [Meme Monday](https://dev.to/ben/meme-monday-mm5)
+- [Accessibility Semantics: The UI Tree You Cannot See](https://dev.to/codenameone/accessibility-semantics-the-ui-tree-you-cannot-see-g9m)
+- [Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider](https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929)
+- [CodeBerg Bans Cryptocurrency and LLM-generated code projects](https://dev.to/andreimerlescu/codeberg-bans-cryptocurrency-and-llm-generated-code-projects-3aj0)
+- [What I scan for in Framer code components](https://dev.to/thunkle/what-i-scan-for-in-framer-code-components-45la)
 <!-- BLOG-POST-LIST:END -->
 
