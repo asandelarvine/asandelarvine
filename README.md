@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Cost Control in Production: Token Budgets, Caching Strategies, and What the Billing Dashboard Hides](https://dev.to/jsmanifest/claude-code-cost-control-in-production-token-budgets-caching-strategies-and-what-the-billing-2p0)
-- [I Planned 10 LLM Evaluation Experiments And Only Ran 1. It Was Enough.](https://dev.to/debashish_ghosal/i-planned-10-llm-evaluation-experiments-and-only-ran-1-it-was-enough-2gjf)
-- [I got tired of juggling apps in my workflow, so I built Termo](https://dev.to/biplab_pokhrel_0224753da6/i-got-tired-of-juggling-apps-in-my-workflow-so-i-built-termo-42hf)
-- [Using Claude to decrypt Carmageddon](https://dev.to/esmesm/using-claude-to-decrypt-carmageddon-dkk)
+- [Stop Using chmod 777: Understanding Linux File Permissions](https://dev.to/kai-wen-the-parrot/stop-using-chmod-777-understanding-linux-file-permissions-1630)
+- [Why I Built Ironic: Bringing Enterprise Application Architecture to Rust Without Hiding Rust](https://dev.to/morshedulmunna/why-i-built-ironic-bringing-enterprise-application-architecture-to-rust-without-hiding-rust-48f9)
+- [I Updated My Android App From a Restaurant. My Laptop Was Off.](https://dev.to/juandastic/i-updated-my-android-app-from-a-restaurant-my-laptop-was-off-283k)
+- [Real-Time Features in Django: How We Build Live Updates with Channels and WebSockets](https://dev.to/lycore/real-time-features-in-django-how-we-build-live-updates-with-channels-and-websockets-bgl)
 <!-- BLOG-POST-LIST:END -->
 
