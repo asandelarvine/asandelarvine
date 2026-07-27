@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Work Raises Enterprise Questions on Automation, Governance and Rollout](https://dev.to/alifar/chatgpt-work-raises-enterprise-questions-on-automation-governance-and-rollout-5h0g)
-- [Following ROWIDs Through an Oracle Unique Index Update](https://dev.to/franckpachot/following-rowids-through-an-oracle-unique-index-update-2lc)
-- [Building a browser game with client-side Groth16 proofs](https://dev.to/heindauven/building-a-browser-game-with-client-side-groth16-proofs-26g9)
-- [Vibe Coding Won&#39;t Kill Developers. It&#39;ll Kill the Middle.](https://dev.to/helkyn_coello/vibe-coding-wont-kill-developers-itll-kill-the-middle-2c61)
+- [Claude Code Cost Control in Production: Token Budgets, Caching Strategies, and What the Billing Dashboard Hides](https://dev.to/jsmanifest/claude-code-cost-control-in-production-token-budgets-caching-strategies-and-what-the-billing-2p0)
+- [I Planned 10 LLM Evaluation Experiments And Only Ran 1. It Was Enough.](https://dev.to/debashish_ghosal/i-planned-10-llm-evaluation-experiments-and-only-ran-1-it-was-enough-2gjf)
+- [I got tired of juggling apps in my workflow, so I built Termo](https://dev.to/biplab_pokhrel_0224753da6/i-got-tired-of-juggling-apps-in-my-workflow-so-i-built-termo-42hf)
+- [Using Claude to decrypt Carmageddon](https://dev.to/esmesm/using-claude-to-decrypt-carmageddon-dkk)
 <!-- BLOG-POST-LIST:END -->
 
