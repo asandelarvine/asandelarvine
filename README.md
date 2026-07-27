@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kiro and the Future of AI-Assisted Development](https://dev.to/dionarodrigues/kiro-and-the-future-of-ai-assisted-development-4nam)
-- [HLD1:Computer Networks Notes](https://dev.to/shifa_2/hld1computer-networks-notes-3bf1)
-- [Harness Engineering: The Missing Framework for AI-Native Development](https://dev.to/jacobjerryarackal/harness-engineering-the-missing-framework-for-ai-native-development-3mjl)
-- [Building AI Agents with the TypeScript Agent Development Kit &lpar;ADK&rpar;](https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-257h)
+- [Build and Deploy Java AI Agents with Google ADK](https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi)
+- [Four lessons from building AI, education, and healthcare products with Next.js](https://dev.to/robertionutfundulea/four-lessons-from-building-ai-education-and-healthcare-products-with-nextjs-3nm7)
+- [The ten-line binary search that balanced a four-million-item crawl](https://dev.to/shell412/the-ten-line-binary-search-that-balanced-a-four-million-item-crawl-321n)
 <!-- BLOG-POST-LIST:END -->
 
