@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessibility Semantics: The UI Tree You Cannot See](https://dev.to/codenameone/accessibility-semantics-the-ui-tree-you-cannot-see-g9m)
-- [Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider](https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929)
-- [CodeBerg Bans Cryptocurrency and LLM-generated code projects](https://dev.to/andreimerlescu/codeberg-bans-cryptocurrency-and-llm-generated-code-projects-3aj0)
-- [What I scan for in Framer code components](https://dev.to/thunkle/what-i-scan-for-in-framer-code-components-45la)
+- [Kiro and the Future of AI-Assisted Development](https://dev.to/dionarodrigues/kiro-and-the-future-of-ai-assisted-development-4nam)
+- [HLD1:Computer Networks Notes](https://dev.to/shifa_2/hld1computer-networks-notes-3bf1)
+- [Harness Engineering: The Missing Framework for AI-Native Development](https://dev.to/jacobjerryarackal/harness-engineering-the-missing-framework-for-ai-native-development-3mjl)
+- [Building AI Agents with the TypeScript Agent Development Kit &lpar;ADK&rpar;](https://dev.to/gde/building-ai-agents-with-the-typescript-agent-development-kit-adk-3mf)
 <!-- BLOG-POST-LIST:END -->
 
