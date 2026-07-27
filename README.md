@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [One OpenAI-Compatible Endpoint for Multiple LLM Providers: A Practical Setup Guide](https://dev.to/jack_lee_4c43dca262c339fb/one-openai-compatible-endpoint-for-multiple-llm-providers-a-practical-setup-guide-2pon)
-- [The Rusty Hobbit: Ownership System Explained for JavaScript Developers](https://dev.to/timevolt/the-rusty-hobbit-ownership-system-explained-for-javascript-developers-49n4)
-- [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk)
-- [Why We Run Every AI Pipeline in Its Own Process](https://dev.to/mithilesh_gaurihar_e719cd/why-we-run-every-ai-pipeline-in-its-own-process-1ikc)
+- [Seamless Flutter Hooks Integration with BlocSignal via signals_hooks](https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e)
+- [I once found a silicon bug in a protocol spec — not in the RTL.](https://dev.to/mritunjay_biharisingh/i-once-found-a-silicon-bug-in-a-protocol-spec-not-in-the-rtl-1aid)
+- [Most UVM testbenches fail coverage closure for one reason nobody talks about — and it&#39;s not your constraints.](https://dev.to/mritunjay_biharisingh/most-uvm-testbenches-fail-coverage-closure-for-one-reason-nobody-talks-about-and-its-not-your-png)
+- [The cleanup that could never run: a silent Web Push leak in Go](https://dev.to/tonytonycoder11/the-cleanup-that-could-never-run-a-silent-web-push-leak-in-go-1kaj)
 <!-- BLOG-POST-LIST:END -->
 
