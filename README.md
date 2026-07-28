@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust polymorphism](https://dev.to/qrrcnaxne/rust-polymorphism-5bop)
-- [Passwordless OTP Needs Inbox Boundaries](https://dev.to/sophiax99/passwordless-otp-needs-inbox-boundaries-1079)
-- [No, Go 1.26 Did Not Make Your Service 40% Faster](https://dev.to/zmey56/no-go-126-did-not-make-your-service-40-faster-3a41)
-- [Deja de hacer despliegues manuales: CI/CD básico con GitHub Actions](https://dev.to/acrdev/deja-de-hacer-despliegues-manuales-cicd-basico-con-github-actions-40j9)
+- [Screen Reader Handling of ARIA Live Regions: Timing, Interruptions, and Debugging](https://dev.to/mspk97/screen-reader-handling-of-aria-live-regions-timing-interruptions-and-debugging-404p)
+- [Confidence Is Not Authorization: A Safer GitHub Issue-Automation Policy](https://dev.to/zira125/confidence-is-not-authorization-a-safer-github-issue-automation-policy-4o01)
+- [Your Face on a World Cup Sticker: Our Nano Banana Story](https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6)
+- [Same AI Coding Tools, Two Languages For Buying Them a7c8d3](https://dev.to/ninghonggang/same-ai-coding-tools-two-languages-for-buying-them-a7c8d3-18in)
 <!-- BLOG-POST-LIST:END -->
 
