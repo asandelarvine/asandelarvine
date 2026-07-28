@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI agents changed my opinion on vertical slices.](https://dev.to/themassiveone/ai-agents-changed-my-opinion-on-vertical-slices-3k92)
-- [I stopped writing rules for coding agents that CI could not enforce](https://dev.to/agentskit/i-stopped-writing-rules-for-coding-agents-that-ci-could-not-enforce-5hn9)
-- [We Back Up Files. We Rarely Back Up Why They Exist.](https://dev.to/valerykot/we-back-up-files-we-rarely-back-up-why-they-exist-20cg)
-- [Clean Code: The Fellowship of the Function](https://dev.to/timevolt/clean-code-the-fellowship-of-the-function-23a7)
+- [Reverse image search breaks on Instagram. Here&#39;s the fallback ladder that fixes it.](https://dev.to/tonic20/reverse-image-search-breaks-on-instagram-heres-the-fallback-ladder-that-fixes-it-me)
+- [Turning Solana Skills Into a Web3 Career](https://dev.to/100daysofsolana/turning-solana-skills-into-a-web3-career-3ok)
+- [Self-hosting ArangoDB: one database for graph, document, and vector search](https://dev.to/greatsage_sh/self-hosting-arangodb-one-database-for-graph-document-and-vector-search-1735)
+- [MongoDB + Mongoose Patterns I Use in Every Next.js Project](https://dev.to/anas_sheikh_2/mongodb-mongoose-patterns-i-use-in-every-nextjs-project-32b)
 <!-- BLOG-POST-LIST:END -->
 
