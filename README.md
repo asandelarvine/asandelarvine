@@ -79,14 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ElevenLabs Bengaluru Event Listings Point to Cypher, Not an October 6 Summit](https://dev.to/alifar/elevenlabs-bengaluru-event-listings-point-to-cypher-not-an-october-6-summit-2c7)
-- [Introducing UglyPHP 🎨
-A typed, zero-runtime design-system engine for Laravel. Write your styles in PHP, ship clean scoped CSS, no build step, no context switching.
-
-Write ugly. Ship beautiful.
-Our Docs: https://uglyphp.dev
-#laravel #php](https://dev.to/uglyphp/introducing-uglyphp-a-typed-zero-runtime-design-system-engine-for-laravel-write-your-styles-in-1l1h)
-- [Monorepo 8 端同步开发:Turborepo + pnpm Workspace 实战](https://dev.to/_fd4c731d8fc551b91150a/monorepo-8-duan-tong-bu-kai-fa-turborepo-pnpm-workspace-shi-zhan-1g7k)
-- [LangGraph Agent 编排模式:6 种生产级 Multi-Agent 架构](https://dev.to/_fd4c731d8fc551b91150a/langgraph-agent-bian-pai-mo-shi-6-chong-sheng-chan-ji-multi-agent-jia-gou-eme)
+- [Rust polymorphism](https://dev.to/qrrcnaxne/rust-polymorphism-5bop)
+- [Passwordless OTP Needs Inbox Boundaries](https://dev.to/sophiax99/passwordless-otp-needs-inbox-boundaries-1079)
+- [No, Go 1.26 Did Not Make Your Service 40% Faster](https://dev.to/zmey56/no-go-126-did-not-make-your-service-40-faster-3a41)
+- [Deja de hacer despliegues manuales: CI/CD básico con GitHub Actions](https://dev.to/acrdev/deja-de-hacer-despliegues-manuales-cicd-basico-con-github-actions-40j9)
 <!-- BLOG-POST-LIST:END -->
 
