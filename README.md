@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Seamless Flutter Hooks Integration with BlocSignal via signals_hooks](https://dev.to/gde/seamless-flutter-hooks-integration-with-blocsignal-via-signalshooks-55e)
-- [I once found a silicon bug in a protocol spec — not in the RTL.](https://dev.to/mritunjay_biharisingh/i-once-found-a-silicon-bug-in-a-protocol-spec-not-in-the-rtl-1aid)
-- [Most UVM testbenches fail coverage closure for one reason nobody talks about — and it&#39;s not your constraints.](https://dev.to/mritunjay_biharisingh/most-uvm-testbenches-fail-coverage-closure-for-one-reason-nobody-talks-about-and-its-not-your-png)
-- [The cleanup that could never run: a silent Web Push leak in Go](https://dev.to/tonytonycoder11/the-cleanup-that-could-never-run-a-silent-web-push-leak-in-go-1kaj)
+- [A 200 Response Does Not Prove an AI Crawler Can Read Your Site](https://dev.to/danielgreid/a-200-response-does-not-prove-an-ai-crawler-can-read-your-site-10a8)
+- [A beginner&#39;s guide to the Kimi-K3 model by Moonshotai on Huggingface](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-kimi-k3-model-by-moonshotai-on-huggingface-912)
+- [Tired of wasting hours searching for that bookmark you saved months ago? 🔍](https://dev.to/pabli44/tired-of-wasting-hours-searching-for-that-bookmark-you-saved-months-ago-3m6)
+- [Honestly, The perfect read for anyone trying to get into &lpar;or in my case, back into&rpar; the tech industry! Excited to get started with learning and contributing to The Odin Project.](https://dev.to/constmalik/honestly-the-perfect-read-for-anyone-trying-to-get-into-or-in-my-case-back-into-the-tech-447n)
 <!-- BLOG-POST-LIST:END -->
 
