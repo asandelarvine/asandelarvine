@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The People Who Know Shell Scripting Are Quietly Running Everything](https://dev.to/numbpill3d/the-people-who-know-shell-scripting-are-quietly-running-everything-2ood)
-- [24,650 Exposed BMCs Hand Out IPMI Password Hashes to Anyone Who Asks](https://dev.to/etairos/24650-exposed-bmcs-hand-out-ipmi-password-hashes-to-anyone-who-asks-2ckl)
-- [Reverse-Engineering a Competitor&#39;s Palette Without Copying It](https://dev.to/lizely/reverse-engineering-a-competitors-palette-without-copying-it-1h8m)
-- [Beyond APIs: The Architecture of Autonomous &quot;Computer Use&quot; Agents in TypeScript](https://dev.to/programmingcentral/beyond-apis-the-architecture-of-autonomous-computer-use-agents-in-typescript-33g)
+- [Top 5 Node.js ORMs Every Developer Should Know in 2026](https://dev.to/joodi/top-5-nodejs-orms-every-developer-should-know-in-2026-204p)
+- [Your eval&#39;s confidence interval assumes independent examples. Yours are clustered.](https://dev.to/maya_andersson_dev/your-evals-confidence-interval-assumes-independent-examples-yours-are-clustered-292c)
+- [Starting Terraria modding &lpar;again&rpar;](https://dev.to/uniformic/starting-terraria-modding-again-4g6a)
+- [Building Local AI Agents in Java with Tools4AI and Ollama: An Insurance Claims Use Case](https://dev.to/vishalmysore/building-local-ai-agents-in-java-with-tools4ai-and-ollama-an-insurance-claims-use-case-2m0m)
 <!-- BLOG-POST-LIST:END -->
 
