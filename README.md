@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Screen Reader Handling of ARIA Live Regions: Timing, Interruptions, and Debugging](https://dev.to/mspk97/screen-reader-handling-of-aria-live-regions-timing-interruptions-and-debugging-404p)
-- [Confidence Is Not Authorization: A Safer GitHub Issue-Automation Policy](https://dev.to/zira125/confidence-is-not-authorization-a-safer-github-issue-automation-policy-4o01)
-- [Your Face on a World Cup Sticker: Our Nano Banana Story](https://dev.to/gde/your-face-on-a-world-cup-sticker-our-nano-banana-story-43p6)
-- [Same AI Coding Tools, Two Languages For Buying Them a7c8d3](https://dev.to/ninghonggang/same-ai-coding-tools-two-languages-for-buying-them-a7c8d3-18in)
+- [Reasons to Still Use Next.js from a TanStack Start Enjoyer](https://dev.to/tigawanna/reasons-to-still-use-nextjs-from-a-tanstack-start-enjoyer-3a8h)
+- [How to Destroy a Project in 5 Steps](https://dev.to/feranor/how-to-destroy-a-project-in-5-steps-5a1f)
+- [Arista VeloCloud Orchestrator CVE-2026-16812: CVSS 10.0 Command Injection Under Active Attack](https://dev.to/etairos/arista-velocloud-orchestrator-cve-2026-16812-cvss-100-command-injection-under-active-attack-f75)
+- [Microsoft MDASH Shows How Multi-Agent Security Systems Can Improve Vulnerability Discovery](https://dev.to/alifar/microsoft-mdash-shows-how-multi-agent-security-systems-can-improve-vulnerability-discovery-3mhh)
 <!-- BLOG-POST-LIST:END -->
 
