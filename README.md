@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse image search breaks on Instagram. Here&#39;s the fallback ladder that fixes it.](https://dev.to/tonic20/reverse-image-search-breaks-on-instagram-heres-the-fallback-ladder-that-fixes-it-me)
-- [Turning Solana Skills Into a Web3 Career](https://dev.to/100daysofsolana/turning-solana-skills-into-a-web3-career-3ok)
-- [Self-hosting ArangoDB: one database for graph, document, and vector search](https://dev.to/greatsage_sh/self-hosting-arangodb-one-database-for-graph-document-and-vector-search-1735)
-- [MongoDB + Mongoose Patterns I Use in Every Next.js Project](https://dev.to/anas_sheikh_2/mongodb-mongoose-patterns-i-use-in-every-nextjs-project-32b)
+- [The People Who Know Shell Scripting Are Quietly Running Everything](https://dev.to/numbpill3d/the-people-who-know-shell-scripting-are-quietly-running-everything-2ood)
+- [24,650 Exposed BMCs Hand Out IPMI Password Hashes to Anyone Who Asks](https://dev.to/etairos/24650-exposed-bmcs-hand-out-ipmi-password-hashes-to-anyone-who-asks-2ckl)
+- [Reverse-Engineering a Competitor&#39;s Palette Without Copying It](https://dev.to/lizely/reverse-engineering-a-competitors-palette-without-copying-it-1h8m)
+- [Beyond APIs: The Architecture of Autonomous &quot;Computer Use&quot; Agents in TypeScript](https://dev.to/programmingcentral/beyond-apis-the-architecture-of-autonomous-computer-use-agents-in-typescript-33g)
 <!-- BLOG-POST-LIST:END -->
 
