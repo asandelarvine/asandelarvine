@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reasons to Still Use Next.js from a TanStack Start Enjoyer](https://dev.to/tigawanna/reasons-to-still-use-nextjs-from-a-tanstack-start-enjoyer-3a8h)
-- [How to Destroy a Project in 5 Steps](https://dev.to/feranor/how-to-destroy-a-project-in-5-steps-5a1f)
-- [Arista VeloCloud Orchestrator CVE-2026-16812: CVSS 10.0 Command Injection Under Active Attack](https://dev.to/etairos/arista-velocloud-orchestrator-cve-2026-16812-cvss-100-command-injection-under-active-attack-f75)
-- [Microsoft MDASH Shows How Multi-Agent Security Systems Can Improve Vulnerability Discovery](https://dev.to/alifar/microsoft-mdash-shows-how-multi-agent-security-systems-can-improve-vulnerability-discovery-3mhh)
+- [AI agents changed my opinion on vertical slices.](https://dev.to/themassiveone/ai-agents-changed-my-opinion-on-vertical-slices-3k92)
+- [I stopped writing rules for coding agents that CI could not enforce](https://dev.to/agentskit/i-stopped-writing-rules-for-coding-agents-that-ci-could-not-enforce-5hn9)
+- [We Back Up Files. We Rarely Back Up Why They Exist.](https://dev.to/valerykot/we-back-up-files-we-rarely-back-up-why-they-exist-20cg)
+- [Clean Code: The Fellowship of the Function](https://dev.to/timevolt/clean-code-the-fellowship-of-the-function-23a7)
 <!-- BLOG-POST-LIST:END -->
 
