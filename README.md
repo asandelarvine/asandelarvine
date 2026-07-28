@@ -79,9 +79,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A 200 Response Does Not Prove an AI Crawler Can Read Your Site](https://dev.to/danielgreid/a-200-response-does-not-prove-an-ai-crawler-can-read-your-site-10a8)
-- [A beginner&#39;s guide to the Kimi-K3 model by Moonshotai on Huggingface](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-kimi-k3-model-by-moonshotai-on-huggingface-912)
-- [Tired of wasting hours searching for that bookmark you saved months ago? 🔍](https://dev.to/pabli44/tired-of-wasting-hours-searching-for-that-bookmark-you-saved-months-ago-3m6)
-- [Honestly, The perfect read for anyone trying to get into &lpar;or in my case, back into&rpar; the tech industry! Excited to get started with learning and contributing to The Odin Project.](https://dev.to/constmalik/honestly-the-perfect-read-for-anyone-trying-to-get-into-or-in-my-case-back-into-the-tech-447n)
+- [ElevenLabs Bengaluru Event Listings Point to Cypher, Not an October 6 Summit](https://dev.to/alifar/elevenlabs-bengaluru-event-listings-point-to-cypher-not-an-october-6-summit-2c7)
+- [Introducing UglyPHP 🎨
+A typed, zero-runtime design-system engine for Laravel. Write your styles in PHP, ship clean scoped CSS, no build step, no context switching.
+
+Write ugly. Ship beautiful.
+Our Docs: https://uglyphp.dev
+#laravel #php](https://dev.to/uglyphp/introducing-uglyphp-a-typed-zero-runtime-design-system-engine-for-laravel-write-your-styles-in-1l1h)
+- [Monorepo 8 端同步开发:Turborepo + pnpm Workspace 实战](https://dev.to/_fd4c731d8fc551b91150a/monorepo-8-duan-tong-bu-kai-fa-turborepo-pnpm-workspace-shi-zhan-1g7k)
+- [LangGraph Agent 编排模式:6 种生产级 Multi-Agent 架构](https://dev.to/_fd4c731d8fc551b91150a/langgraph-agent-bian-pai-mo-shi-6-chong-sheng-chan-ji-multi-agent-jia-gou-eme)
 <!-- BLOG-POST-LIST:END -->
 
