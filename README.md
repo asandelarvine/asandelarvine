@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Disabled Button Is Not Delivery: Build a Receipt-Based React Support Form](https://dev.to/susiewang/a-disabled-button-is-not-delivery-build-a-receipt-based-react-support-form-d8o)
-- [Shattering the Frontend Monolith: Micro-Frontends in Next.js 🧩](https://dev.to/iprajapatiparesh/shattering-the-frontend-monolith-micro-frontends-in-nextjs-3lc4)
-- [The Era of Probabilistic Defense Is Over](https://dev.to/mariatanbobo/the-era-of-probabilistic-defense-is-over-4d0n)
-- [The Death of the App Store: How AI Agents Killed Individual Apps](https://dev.to/theaiprism/the-death-of-the-app-store-how-ai-agents-killed-individual-apps-2jff)
+- [Web dev is fake.None of this actually works](https://dev.to/chesea_dev/web-dev-is-fakenone-of-this-actually-works-3l51)
+- [How to Switch to uv: Replace pip, virtualenv, and Poetry in Your Python Project](https://dev.to/dev_encyclopedia/how-to-switch-to-uv-replace-pip-virtualenv-and-poetry-in-your-python-project-41p5)
+- [I analyzed 204 screen-time apps to find out why mine gets zero downloads](https://dev.to/samtj/i-analyzed-204-screen-time-apps-to-find-out-why-mine-gets-zero-downloads-2g80)
+- [I gave AI a free watch — because knowing the time isn&#39;t the same as having a sense of time &lpar;ai-watch.eu&rpar;](https://dev.to/alain_caviggia_387052c79a/i-gave-ai-a-free-watch-because-knowing-the-time-isnt-the-same-as-having-a-sense-of-time-3cf0)
 <!-- BLOG-POST-LIST:END -->
 
