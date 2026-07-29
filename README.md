@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The One-Line Audit That Might Save You a Container Incident](https://dev.to/schiff_heimlich/the-one-line-audit-that-might-save-you-a-container-incident-570f)
-- [Stop Faking Your Mock APIs: Introducing Playground API 🚀](https://dev.to/nileshcodehub/stop-faking-your-mock-apis-introducing-playground-api-5b03)
-- [How I fixed Cyrillic support in jsPDF &lpar;the clean way&rpar;](https://dev.to/aleksandrov_todor_bff7f67/how-i-fixed-cyrillic-support-in-jspdf-the-clean-way-58hh)
-- [OpenAI’s Frontier Governance Framework Raises the Question of How AI Progress Should Be Paced](https://dev.to/alifar/openais-frontier-governance-framework-raises-the-question-of-how-ai-progress-should-be-paced-4al4)
+- [Montando um Cluster Kubernetes On-Premise — Parte 6: Deploy, Atualização e Escalabilidade de uma Aplicação Própria](https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-6-deploy-atualizacao-e-escalabilidade-de-uma-588g)
+- [Montando um Cluster Kubernetes On-Premise — Parte 5: Fazendo o Deploy do Primeiro Container](https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-5-fazendo-o-deploy-do-primeiro-container-3dm1)
+- [Montando um Cluster Kubernetes On-Premise — Parte 2: Instalando Containerd e Kubernetes](https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-2-instalando-containerd-e-kubernetes-ode)
+- [Validating JSON Payloads Against a Schema Before They Hit Your Service](https://dev.to/lizely/validating-json-payloads-against-a-schema-before-they-hit-your-service-1d39)
 <!-- BLOG-POST-LIST:END -->
 
