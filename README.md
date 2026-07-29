@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Montando um Cluster Kubernetes On-Premise — Parte 6: Deploy, Atualização e Escalabilidade de uma Aplicação Própria](https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-6-deploy-atualizacao-e-escalabilidade-de-uma-588g)
-- [Montando um Cluster Kubernetes On-Premise — Parte 5: Fazendo o Deploy do Primeiro Container](https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-5-fazendo-o-deploy-do-primeiro-container-3dm1)
-- [Montando um Cluster Kubernetes On-Premise — Parte 2: Instalando Containerd e Kubernetes](https://dev.to/celsonery/montando-um-cluster-kubernetes-on-premise-parte-2-instalando-containerd-e-kubernetes-ode)
-- [Validating JSON Payloads Against a Schema Before They Hit Your Service](https://dev.to/lizely/validating-json-payloads-against-a-schema-before-they-hit-your-service-1d39)
+- [I run a registry that tracks 218 AI and SaaS tools. 18 are already dead or dying - here are the patterns](https://dev.to/sergei_arbo_0f42ee01a7399/i-run-a-registry-that-tracks-218-ai-and-saas-tools-18-are-already-dead-or-dying-here-are-the-1533)
+- [How I Found a HIGH-Severity AI Security Issue on Khan Academy&#39;s VDP](https://dev.to/galeops/how-i-found-a-high-severity-ai-security-issue-on-khan-academys-vdp-2n1)
+- [OpenAI Codex Security Enters Research Preview, Clarifying Its Role in the Codex Ecosystem](https://dev.to/alifar/openai-codex-security-enters-research-preview-clarifying-its-role-in-the-codex-ecosystem-23j3)
+- [I built an AI observability platform with $0 – zero dependencies, zero ops, stateless](https://dev.to/mamman_mohammed_86795ea0e/i-built-an-ai-observability-platform-with-0-zero-dependencies-zero-ops-stateless-4e7j)
 <!-- BLOG-POST-LIST:END -->
 
