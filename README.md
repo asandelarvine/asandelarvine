@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Compilando Brainf*ck para a JVM, parte 1: o interpretador](https://dev.to/edysilva/compilando-brainfuck-pra-jvm-parte-1-o-interpretador-3gm9)
-- [3 Action Mailer Features I Didn&#39;t Know Existed](https://dev.to/pavelmyslik/3-action-mailer-features-i-didnt-know-existed-3hg6)
-- [KNX Motion-Sensor Automations in Home Assistant](https://dev.to/cloudapp_dev/knx-motion-sensor-automations-in-home-assistant-3dj3)
-- [A Dead Man&#39;s Switch for Your Monitoring Stack](https://dev.to/irinobservability/a-dead-mans-switch-for-your-monitoring-stack-2335)
+- [Beginner&#39;s Guide: Connect React with Supabase &lpar;Build a Simple To-Do App&rpar; published: true tags: react, supabase, beginners, webdev](https://dev.to/mahbub__404/beginners-guide-connect-react-with-supabase-build-a-simple-to-do-app-published-true-tags-5ag9)
+- [Build a Typed Training Data Client in TypeScript with intervals-icu](https://dev.to/paladini/build-a-typed-training-data-client-in-typescript-with-intervals-icu-8fc)
+- [Legacy Modernization With AI: What Can Be Automated and What Still Needs Engineering Judgment](https://dev.to/techbarsw/legacy-modernization-with-ai-what-can-be-automated-and-what-still-needs-engineering-judgment-38md)
+- [Unknown Time Is Not Noon: Modeling Missing Temporal Data Without Inventing Facts](https://dev.to/baziclarity/unknown-time-is-not-noon-modeling-missing-temporal-data-without-inventing-facts-198d)
 <!-- BLOG-POST-LIST:END -->
 
