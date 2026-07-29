@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner&#39;s Guide: Connect React with Supabase &lpar;Build a Simple To-Do App&rpar; published: true tags: react, supabase, beginners, webdev](https://dev.to/mahbub__404/beginners-guide-connect-react-with-supabase-build-a-simple-to-do-app-published-true-tags-5ag9)
-- [Build a Typed Training Data Client in TypeScript with intervals-icu](https://dev.to/paladini/build-a-typed-training-data-client-in-typescript-with-intervals-icu-8fc)
-- [Legacy Modernization With AI: What Can Be Automated and What Still Needs Engineering Judgment](https://dev.to/techbarsw/legacy-modernization-with-ai-what-can-be-automated-and-what-still-needs-engineering-judgment-38md)
-- [Unknown Time Is Not Noon: Modeling Missing Temporal Data Without Inventing Facts](https://dev.to/baziclarity/unknown-time-is-not-noon-modeling-missing-temporal-data-without-inventing-facts-198d)
+- [The One-Line Audit That Might Save You a Container Incident](https://dev.to/schiff_heimlich/the-one-line-audit-that-might-save-you-a-container-incident-570f)
+- [Stop Faking Your Mock APIs: Introducing Playground API 🚀](https://dev.to/nileshcodehub/stop-faking-your-mock-apis-introducing-playground-api-5b03)
+- [How I fixed Cyrillic support in jsPDF &lpar;the clean way&rpar;](https://dev.to/aleksandrov_todor_bff7f67/how-i-fixed-cyrillic-support-in-jspdf-the-clean-way-58hh)
+- [OpenAI’s Frontier Governance Framework Raises the Question of How AI Progress Should Be Paced](https://dev.to/alifar/openais-frontier-governance-framework-raises-the-question-of-how-ai-progress-should-be-paced-4al4)
 <!-- BLOG-POST-LIST:END -->
 
