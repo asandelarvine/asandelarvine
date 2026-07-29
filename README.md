@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I run a registry that tracks 218 AI and SaaS tools. 18 are already dead or dying - here are the patterns](https://dev.to/sergei_arbo_0f42ee01a7399/i-run-a-registry-that-tracks-218-ai-and-saas-tools-18-are-already-dead-or-dying-here-are-the-1533)
-- [How I Found a HIGH-Severity AI Security Issue on Khan Academy&#39;s VDP](https://dev.to/galeops/how-i-found-a-high-severity-ai-security-issue-on-khan-academys-vdp-2n1)
-- [OpenAI Codex Security Enters Research Preview, Clarifying Its Role in the Codex Ecosystem](https://dev.to/alifar/openai-codex-security-enters-research-preview-clarifying-its-role-in-the-codex-ecosystem-23j3)
-- [I built an AI observability platform with $0 – zero dependencies, zero ops, stateless](https://dev.to/mamman_mohammed_86795ea0e/i-built-an-ai-observability-platform-with-0-zero-dependencies-zero-ops-stateless-4e7j)
+- [Streaming vs JSON: Trade-offs in AI-Powered Apps](https://dev.to/david_essien/streaming-vs-json-trade-offs-in-ai-powered-apps-4oac)
+- [Stop Trading Like It&#39;s 1999 — I Built an Autonomous, Vision-Capable Crypto Bot with Python 3.13](https://dev.to/qrak/-stop-trading-like-its-1999-an-llm-crypto-bot-that-sees-charts-remembers-trades-and-learns-1cd1)
+- [Installing Apache Hadoop 3.4.2 on Linux 2026 &lpar;Single Node Cluster&rpar; Complete Step-by-Step Guide](https://dev.to/adityapidurkar/installing-apache-hadoop-342-on-linux-2026-single-node-cluster-complete-step-by-step-guide-2bnl)
+- [Supporting Multiple iOS Versions in SwiftUI Without Turning Your Views Into a Mess](https://dev.to/emadbeyrami/supporting-multiple-ios-versions-in-swiftui-without-turning-your-views-into-a-mess-52oc)
 <!-- BLOG-POST-LIST:END -->
 
