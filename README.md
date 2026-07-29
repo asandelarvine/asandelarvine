@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Web dev is fake.None of this actually works](https://dev.to/chesea_dev/web-dev-is-fakenone-of-this-actually-works-3l51)
-- [How to Switch to uv: Replace pip, virtualenv, and Poetry in Your Python Project](https://dev.to/dev_encyclopedia/how-to-switch-to-uv-replace-pip-virtualenv-and-poetry-in-your-python-project-41p5)
-- [I analyzed 204 screen-time apps to find out why mine gets zero downloads](https://dev.to/samtj/i-analyzed-204-screen-time-apps-to-find-out-why-mine-gets-zero-downloads-2g80)
-- [I gave AI a free watch — because knowing the time isn&#39;t the same as having a sense of time &lpar;ai-watch.eu&rpar;](https://dev.to/alain_caviggia_387052c79a/i-gave-ai-a-free-watch-because-knowing-the-time-isnt-the-same-as-having-a-sense-of-time-3cf0)
+- [I think the first AI property research automation you should build is the boring 4-step one](https://dev.to/lars_winstand/i-think-the-first-ai-property-research-automation-you-should-build-is-the-boring-4-step-one-58h8)
+- [AI-Driven Development: Transforming Software Workflows in 2026](https://dev.to/kaixintelligence/ai-driven-development-transforming-software-workflows-in-2026-1871)
+- [Automating Dell PowerProtect Backup on AWS: A Terraform-Based Approach](https://dev.to/alpeshkumbhare/automating-dell-powerprotect-backup-on-aws-a-terraform-based-approach-pac)
+- [Stop Building Custom AI Integrations. Use MCP Instead.](https://dev.to/bhavyshekhaliya/stop-building-custom-ai-integrations-use-mcp-instead-5d8l)
 <!-- BLOG-POST-LIST:END -->
 
