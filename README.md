@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I think the first AI property research automation you should build is the boring 4-step one](https://dev.to/lars_winstand/i-think-the-first-ai-property-research-automation-you-should-build-is-the-boring-4-step-one-58h8)
-- [AI-Driven Development: Transforming Software Workflows in 2026](https://dev.to/kaixintelligence/ai-driven-development-transforming-software-workflows-in-2026-1871)
-- [Automating Dell PowerProtect Backup on AWS: A Terraform-Based Approach](https://dev.to/alpeshkumbhare/automating-dell-powerprotect-backup-on-aws-a-terraform-based-approach-pac)
-- [Stop Building Custom AI Integrations. Use MCP Instead.](https://dev.to/bhavyshekhaliya/stop-building-custom-ai-integrations-use-mcp-instead-5d8l)
+- [Compilando Brainf*ck para a JVM, parte 1: o interpretador](https://dev.to/edysilva/compilando-brainfuck-pra-jvm-parte-1-o-interpretador-3gm9)
+- [3 Action Mailer Features I Didn&#39;t Know Existed](https://dev.to/pavelmyslik/3-action-mailer-features-i-didnt-know-existed-3hg6)
+- [KNX Motion-Sensor Automations in Home Assistant](https://dev.to/cloudapp_dev/knx-motion-sensor-automations-in-home-assistant-3dj3)
+- [A Dead Man&#39;s Switch for Your Monitoring Stack](https://dev.to/irinobservability/a-dead-mans-switch-for-your-monitoring-stack-2335)
 <!-- BLOG-POST-LIST:END -->
 
