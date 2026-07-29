@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Operable Over Sophisticated: What Shipping AI Agents at Scale Actually Looks Like](https://dev.to/oscarrabasa/operable-over-sophisticated-what-shipping-ai-agents-at-scale-actually-looks-like-2461)
-- [Why Replit&#39;s AI Agent Deleted a Production Database](https://dev.to/joylo/why-replits-ai-agent-deleted-a-production-database-389p)
-- [Your AI Agents Need Finite State Machines &lpar;FSMs&rpar;](https://dev.to/remojansen/your-ai-agents-need-finite-state-machines-fsms-2i9j)
-- [I built a free full-stack auth starter so you can skip &quot;auth week&quot; &lpar;Flutter + FastAPI&rpar;](https://dev.to/yusuf_kzlkan_bec8219b13/i-built-a-free-full-stack-auth-starter-so-you-can-skip-auth-week-flutter-fastapi-4e51)
+- [A Disabled Button Is Not Delivery: Build a Receipt-Based React Support Form](https://dev.to/susiewang/a-disabled-button-is-not-delivery-build-a-receipt-based-react-support-form-d8o)
+- [Shattering the Frontend Monolith: Micro-Frontends in Next.js 🧩](https://dev.to/iprajapatiparesh/shattering-the-frontend-monolith-micro-frontends-in-nextjs-3lc4)
+- [The Era of Probabilistic Defense Is Over](https://dev.to/mariatanbobo/the-era-of-probabilistic-defense-is-over-4d0n)
+- [The Death of the App Store: How AI Agents Killed Individual Apps](https://dev.to/theaiprism/the-death-of-the-app-store-how-ai-agents-killed-individual-apps-2jff)
 <!-- BLOG-POST-LIST:END -->
 
