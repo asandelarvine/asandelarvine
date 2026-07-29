@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Node.js ORMs Every Developer Should Know in 2026](https://dev.to/joodi/top-5-nodejs-orms-every-developer-should-know-in-2026-204p)
-- [Your eval&#39;s confidence interval assumes independent examples. Yours are clustered.](https://dev.to/maya_andersson_dev/your-evals-confidence-interval-assumes-independent-examples-yours-are-clustered-292c)
-- [Starting Terraria modding &lpar;again&rpar;](https://dev.to/uniformic/starting-terraria-modding-again-4g6a)
-- [Building Local AI Agents in Java with Tools4AI and Ollama: An Insurance Claims Use Case](https://dev.to/vishalmysore/building-local-ai-agents-in-java-with-tools4ai-and-ollama-an-insurance-claims-use-case-2m0m)
+- [Operable Over Sophisticated: What Shipping AI Agents at Scale Actually Looks Like](https://dev.to/oscarrabasa/operable-over-sophisticated-what-shipping-ai-agents-at-scale-actually-looks-like-2461)
+- [Why Replit&#39;s AI Agent Deleted a Production Database](https://dev.to/joylo/why-replits-ai-agent-deleted-a-production-database-389p)
+- [Your AI Agents Need Finite State Machines &lpar;FSMs&rpar;](https://dev.to/remojansen/your-ai-agents-need-finite-state-machines-fsms-2i9j)
+- [I built a free full-stack auth starter so you can skip &quot;auth week&quot; &lpar;Flutter + FastAPI&rpar;](https://dev.to/yusuf_kzlkan_bec8219b13/i-built-a-free-full-stack-auth-starter-so-you-can-skip-auth-week-flutter-fastapi-4e51)
 <!-- BLOG-POST-LIST:END -->
 
