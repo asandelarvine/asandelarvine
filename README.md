@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Episode 7: Local Development](https://dev.to/surajrkhonde/episode-7-local-development-15ba)
-- [I gave the same fabricated answer to RAGAS and DeepEval. One scored it 0.0. The other scored it 1.0](https://dev.to/nickjlamb/we-gave-the-same-fabricated-answer-to-ragas-and-deepeval-one-scored-it-00-the-other-scored-it-10-57om)
-- [Enterprise State Management: React &amp; Zustand 🐻](https://dev.to/iprajapatiparesh/enterprise-state-management-react-zustand-lph)
-- [Anonymous survey design starts with a data inventory, not a checkbox](https://dev.to/billy6go/anonymous-survey-design-starts-with-a-data-inventory-not-a-checkbox-43dj)
+- [Keeping your email deliverability high by filtering invalid emails](https://dev.to/berislavbabic/keeping-your-email-deliverability-high-by-filtering-invalid-email-145d)
+- [It Was Just a Patch Update. What Could Possibly Go Wrong?](https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3)
+- [A Second Check Is a Second Source of Truth](https://dev.to/henry_dan_81513dd35a2f540/a-second-check-is-a-second-source-of-truth-39lf)
+- [AI Agent Security Audit: From MCP Penetration Testing to LLM Vulnerability Assessment](https://dev.to/correctover/ai-agent-security-audit-from-mcp-penetration-testing-to-llm-vulnerability-assessment-4k40)
 <!-- BLOG-POST-LIST:END -->
 
