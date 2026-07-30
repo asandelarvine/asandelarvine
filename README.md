@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rob Pike — ผู้ชายที่เกลียดความซับซ้อน และสร้าง UTF-8 กับ Go](https://dev.to/gophernment/rob-pike-phuuchaaythiiekliiydkhwaamchabchn-aelasraang-utf-8-kab-go-2f4k)
-- [The query succeeded. Which table state did it read?](https://dev.to/jerry_king_d0ee94a9bca82f/the-query-succeeded-which-table-state-did-it-read-1g7o)
-- [String Bean Casserole — CSS Art + Photos](https://dev.to/dan52242644dan/string-bean-casserole-css-art-photos-3bkg)
-- [The Customer Success Playbook for Solo Founders](https://dev.to/insightlab/the-customer-success-playbook-for-solo-founders-2l1f)
+- [Episode 7: Local Development](https://dev.to/surajrkhonde/episode-7-local-development-15ba)
+- [I gave the same fabricated answer to RAGAS and DeepEval. One scored it 0.0. The other scored it 1.0](https://dev.to/nickjlamb/we-gave-the-same-fabricated-answer-to-ragas-and-deepeval-one-scored-it-00-the-other-scored-it-10-57om)
+- [Enterprise State Management: React &amp; Zustand 🐻](https://dev.to/iprajapatiparesh/enterprise-state-management-react-zustand-lph)
+- [Anonymous survey design starts with a data inventory, not a checkbox](https://dev.to/billy6go/anonymous-survey-design-starts-with-a-data-inventory-not-a-checkbox-43dj)
 <!-- BLOG-POST-LIST:END -->
 
