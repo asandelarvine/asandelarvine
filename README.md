@@ -79,9 +79,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Make Melodies and Chords with AI on this website](https://dev.to/zaxnick/make-melodies-and-chords-with-ai-on-this-website-3ika)
-- [Securing Azure Functions: Use Managed Identities Over Connection Strings](https://dev.to/florianlenz/securing-azure-functions-use-managed-identities-over-connection-strings-jlj)
-- [He creado un bot de Telegram para gestionar los temas&lpar;topics&rpar; de los grupos](https://dev.to/herchi/he-creado-un-bot-de-telegram-para-gestionar-los-temastopics-de-los-grupos-3i00)
-- [Can we play a game on pixelden? Made my pixel art game portal playable inside Claude via MCP](https://dev.to/freema/can-we-play-a-game-on-pixelden-made-my-pixel-art-game-portal-playable-inside-claude-via-mcp-h4m)
+- [Optimizing API Latency in C# .NET Applications](https://dev.to/arash_zand/optimizing-api-latency-in-c-net-applications-424c)
+- [From Software Engineer to AI Engineer - Part 1: A whole new world](https://dev.to/bjornvdlaan/from-software-engineer-to-ai-engineer-part-1-a-whole-new-world-3ebk)
+- [Angular was built for codebases where no one person could review every change, and agent-generated code is that same problem arriving faster.
+
+So if you&#39;re going to let a machine write most of it, write it somewhere that argues back. That&#39;s the case for An](https://dev.to/eneajaho/angular-was-built-for-codebases-where-no-one-person-could-review-every-change-and-agent-generated-5cam)
+- [The Hardest Part of a White-Label SaaS Was One Login Form](https://dev.to/nabeelbaghoor/the-hardest-part-of-a-white-label-saas-was-one-login-form-455n)
 <!-- BLOG-POST-LIST:END -->
 
