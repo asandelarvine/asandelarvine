@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Streaming vs JSON: Trade-offs in AI-Powered Apps](https://dev.to/david_essien/streaming-vs-json-trade-offs-in-ai-powered-apps-4oac)
-- [Stop Trading Like It&#39;s 1999 — I Built an Autonomous, Vision-Capable Crypto Bot with Python 3.13](https://dev.to/qrak/-stop-trading-like-its-1999-an-llm-crypto-bot-that-sees-charts-remembers-trades-and-learns-1cd1)
-- [Installing Apache Hadoop 3.4.2 on Linux 2026 &lpar;Single Node Cluster&rpar; Complete Step-by-Step Guide](https://dev.to/adityapidurkar/installing-apache-hadoop-342-on-linux-2026-single-node-cluster-complete-step-by-step-guide-2bnl)
-- [Supporting Multiple iOS Versions in SwiftUI Without Turning Your Views Into a Mess](https://dev.to/emadbeyrami/supporting-multiple-ios-versions-in-swiftui-without-turning-your-views-into-a-mess-52oc)
+- [Rob Pike — ผู้ชายที่เกลียดความซับซ้อน และสร้าง UTF-8 กับ Go](https://dev.to/gophernment/rob-pike-phuuchaaythiiekliiydkhwaamchabchn-aelasraang-utf-8-kab-go-2f4k)
+- [The query succeeded. Which table state did it read?](https://dev.to/jerry_king_d0ee94a9bca82f/the-query-succeeded-which-table-state-did-it-read-1g7o)
+- [String Bean Casserole — CSS Art + Photos](https://dev.to/dan52242644dan/string-bean-casserole-css-art-photos-3bkg)
+- [The Customer Success Playbook for Solo Founders](https://dev.to/insightlab/the-customer-success-playbook-for-solo-founders-2l1f)
 <!-- BLOG-POST-LIST:END -->
 
