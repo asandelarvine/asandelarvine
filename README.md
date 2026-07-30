@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CSA Says Harden Your Networks for the AI Storm. Here&#39;s How to Verify You Actually Did.](https://dev.to/bala_paranj_059d338e44e7e/csa-says-harden-your-networks-for-the-ai-storm-heres-how-to-verify-you-actually-did-1i58)
-- [Google Expands Gemini Spark as a Persistent AI Agent Across Its Product Ecosystem](https://dev.to/alifar/google-expands-gemini-spark-as-a-persistent-ai-agent-across-its-product-ecosystem-b1n)
-- [Atomarine: Nuclear Data Centers at Sea!](https://dev.to/mgobea/atomarine-nuclear-data-centers-at-sea-4d5h)
-- [Open-Source Multi-Agent Orchestration: Lessons from AgentForge](https://dev.to/albert_zhang_f468830cf0e6/open-source-multi-agent-orchestration-lessons-from-agentforge-1kf0)
+- [Every gate in my system is a scar](https://dev.to/martinschenk/every-gate-in-my-system-is-a-scar-33la)
+- [I built a vertically-integrated commerce system with AI — and accidentally discovered 4 governance patterns](https://dev.to/dexterlung/i-built-a-vertically-integrated-commerce-system-with-ai-and-accidentally-discovered-4-governance-hdk)
+- [Tailwind vs FrontAlign: Which Is Better Depends on Your Architecture](https://dev.to/eyruz/tailwind-vs-frontalign-which-is-better-depends-on-your-architecture-9n)
+- [The SEC gives away every company&#39;s financials. Parsing them was the hard part](https://dev.to/philipvdb/the-sec-gives-away-every-companys-financials-parsing-them-was-the-hard-part-41np)
 <!-- BLOG-POST-LIST:END -->
 
