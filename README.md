@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ABSL v1.0.0: I trained a Neural Network to solve XOR using 100% Integers &lpar;No Floats, No FPUs, Written in Rust&rpar;](https://dev.to/mojo0869/absl-v100-i-trained-a-neural-network-to-solve-xor-using-100-integers-no-floats-no-fpus-pb1)
-- [What GitHub Copilot&#39;s New July 2026 Agentic Review Features Can Teach Beginners About Trust in AI Coding](https://dev.to/marcusykim/what-github-copilots-new-july-2026-agentic-review-features-can-teach-beginners-about-trust-in-ai-4j2j)
-- [MCP Went Stateless: Migrating to the 2026-07-28 Spec &lpar;and Proving It Works&rpar;](https://dev.to/rupa_tiwari_dd308948d710f/mcp-went-stateless-migrating-to-the-2026-07-28-spec-and-proving-it-works-174)
-- [WHOIS is gone, RDAP replaced it, and a 404 does not mean what you think](https://dev.to/glitchbound/whois-is-gone-rdap-replaced-it-and-a-404-does-not-mean-what-you-think-3alh)
+- [Make Melodies and Chords with AI on this website](https://dev.to/zaxnick/make-melodies-and-chords-with-ai-on-this-website-3ika)
+- [Securing Azure Functions: Use Managed Identities Over Connection Strings](https://dev.to/florianlenz/securing-azure-functions-use-managed-identities-over-connection-strings-jlj)
+- [He creado un bot de Telegram para gestionar los temas&lpar;topics&rpar; de los grupos](https://dev.to/herchi/he-creado-un-bot-de-telegram-para-gestionar-los-temastopics-de-los-grupos-3i00)
+- [Can we play a game on pixelden? Made my pixel art game portal playable inside Claude via MCP](https://dev.to/freema/can-we-play-a-game-on-pixelden-made-my-pixel-art-game-portal-playable-inside-claude-via-mcp-h4m)
 <!-- BLOG-POST-LIST:END -->
 
