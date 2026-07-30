@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LLD Data Structures in Design Context: Why HashMaps Feel So Fast — Understanding Performance Without Memorising Big-O](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-why-hashmaps-feel-so-fast-understanding-performance-2p7c)
-- [Trace digests for LLM monitoring, at 1/30th the price of Sonnet](https://dev.to/rarestoma/trace-digests-for-llm-monitoring-at-130th-the-price-of-sonnet-1ah7)
-- [One Contract, Multiple Enforcement Points for Safe AI Agent Execution](https://dev.to/otaready/one-contract-multiple-enforcement-points-for-safe-ai-agent-execution-15o8)
-- [Social Engineering Attacks](https://dev.to/offordile_chinonso_e3fe36/social-engineering-attacks-39ee)
+- [ABSL v1.0.0: I trained a Neural Network to solve XOR using 100% Integers &lpar;No Floats, No FPUs, Written in Rust&rpar;](https://dev.to/mojo0869/absl-v100-i-trained-a-neural-network-to-solve-xor-using-100-integers-no-floats-no-fpus-pb1)
+- [What GitHub Copilot&#39;s New July 2026 Agentic Review Features Can Teach Beginners About Trust in AI Coding](https://dev.to/marcusykim/what-github-copilots-new-july-2026-agentic-review-features-can-teach-beginners-about-trust-in-ai-4j2j)
+- [MCP Went Stateless: Migrating to the 2026-07-28 Spec &lpar;and Proving It Works&rpar;](https://dev.to/rupa_tiwari_dd308948d710f/mcp-went-stateless-migrating-to-the-2026-07-28-spec-and-proving-it-works-174)
+- [WHOIS is gone, RDAP replaced it, and a 404 does not mean what you think](https://dev.to/glitchbound/whois-is-gone-rdap-replaced-it-and-a-404-does-not-mean-what-you-think-3alh)
 <!-- BLOG-POST-LIST:END -->
 
