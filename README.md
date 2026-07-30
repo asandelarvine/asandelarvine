@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Every gate in my system is a scar](https://dev.to/martinschenk/every-gate-in-my-system-is-a-scar-33la)
-- [I built a vertically-integrated commerce system with AI — and accidentally discovered 4 governance patterns](https://dev.to/dexterlung/i-built-a-vertically-integrated-commerce-system-with-ai-and-accidentally-discovered-4-governance-hdk)
-- [Tailwind vs FrontAlign: Which Is Better Depends on Your Architecture](https://dev.to/eyruz/tailwind-vs-frontalign-which-is-better-depends-on-your-architecture-9n)
-- [The SEC gives away every company&#39;s financials. Parsing them was the hard part](https://dev.to/philipvdb/the-sec-gives-away-every-companys-financials-parsing-them-was-the-hard-part-41np)
+- [LLD Data Structures in Design Context: Why HashMaps Feel So Fast — Understanding Performance Without Memorising Big-O](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-why-hashmaps-feel-so-fast-understanding-performance-2p7c)
+- [Trace digests for LLM monitoring, at 1/30th the price of Sonnet](https://dev.to/rarestoma/trace-digests-for-llm-monitoring-at-130th-the-price-of-sonnet-1ah7)
+- [One Contract, Multiple Enforcement Points for Safe AI Agent Execution](https://dev.to/otaready/one-contract-multiple-enforcement-points-for-safe-ai-agent-execution-15o8)
+- [Social Engineering Attacks](https://dev.to/offordile_chinonso_e3fe36/social-engineering-attacks-39ee)
 <!-- BLOG-POST-LIST:END -->
 
