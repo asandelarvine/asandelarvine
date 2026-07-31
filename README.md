@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What More Than Three Decades of Acrobat JavaScript Development Taught Me About Interactive PDF Forms](https://dev.to/boilerup73/what-more-than-three-decades-of-acrobat-javascript-development-taught-me-about-interactive-pdf-forms-5758)
-- [Why INT4 Weight-Only Quantization Doesn&#39;t Speed Up Prefill](https://dev.to/ji_ai/why-int4-weight-only-quantization-doesnt-speed-up-prefill-1b45)
-- [Building a Client-Side ATS Resume Analyzer with Next.js 14 and TypeScript](https://dev.to/hamed_darvishi/building-a-client-side-ats-resume-analyzer-with-nextjs-14-and-typescript-2706)
-- [I built a BitTorrent engine that streams to Plex without downloading](https://dev.to/mrrobotogit/i-built-a-bittorrent-engine-that-streams-to-plex-without-downloading-52do)
+- [From Source Code to Execution: The Mental Model Behind Compilers and Interpreters](https://dev.to/odingaval/from-source-code-to-execution-the-mental-model-behind-compilers-and-interpreters-45on)
+- [Preparing for AWS CI/CD Hands-On Project - Prerequisites](https://dev.to/kadhamvj23/preparing-for-aws-cicd-hands-on-project-prerequisites-3h5o)
+- [AWS CI/CD Explained for Beginners | Understanding AWS CodeCommit, CodePipeline, CodeBuild &amp; CodeDeploy](https://dev.to/kadhamvj23/aws-cicd-explained-for-beginners-understanding-aws-codecommit-codepipeline-codebuild--1j3e)
+- [Cost Attribution in Shared Infrastructure](https://dev.to/samson_tanimawo/cost-attribution-in-shared-infrastructure-h7p)
 <!-- BLOG-POST-LIST:END -->
 
