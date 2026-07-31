@@ -79,11 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing API Latency in C# .NET Applications](https://dev.to/arash_zand/optimizing-api-latency-in-c-net-applications-424c)
-- [From Software Engineer to AI Engineer - Part 1: A whole new world](https://dev.to/bjornvdlaan/from-software-engineer-to-ai-engineer-part-1-a-whole-new-world-3ebk)
-- [Angular was built for codebases where no one person could review every change, and agent-generated code is that same problem arriving faster.
-
-So if you&#39;re going to let a machine write most of it, write it somewhere that argues back. That&#39;s the case for An](https://dev.to/eneajaho/angular-was-built-for-codebases-where-no-one-person-could-review-every-change-and-agent-generated-5cam)
-- [The Hardest Part of a White-Label SaaS Was One Login Form](https://dev.to/nabeelbaghoor/the-hardest-part-of-a-white-label-saas-was-one-login-form-455n)
+- [The Five Ideals of DevOps: os Cinco Ideais que Sustentam a Transformação DevOps](https://dev.to/luiscruzcwb/the-five-ideals-of-devops-os-cinco-ideais-que-sustentam-a-transformacao-devops-c24)
+- [Presigned URLs vs proxying file uploads through your backend: cost, latency, security](https://dev.to/yukikobayashi880/presigned-urls-vs-proxying-file-uploads-through-your-backend-cost-latency-security-4pi0)
+- [Wetask Is Opening Its Task Runtime to External Workers](https://dev.to/tosiiko/wetask-is-opening-its-task-runtime-to-external-workers-1p2a)
+- [Why I don&#39;t use an LLM to secure my LLM](https://dev.to/wesellistools/why-i-dont-use-an-llm-to-secure-my-llm-1m2k)
 <!-- BLOG-POST-LIST:END -->
 
