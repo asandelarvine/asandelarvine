@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Deleting a Hardcoded Secret Does Not Fix It &lpar;CWE-798&rpar;](https://dev.to/c_k_fb750e731394/why-deleting-a-hardcoded-secret-does-not-fix-it-cwe-798-1bp1)
-- [Demystifying Bitcoin Transaction Fees: How Explicit Fee Selection Works](https://dev.to/vkimutai/demystifying-bitcoin-transaction-fees-how-explicit-fee-selection-works-3g0c)
-- [The engineering behind a search bar. Is it worth reinventing the wheel?](https://dev.to/filipe_neves/the-engineering-behind-a-search-bar-is-it-worth-reinventing-the-wheel-4ef4)
-- [Data Migration, Conversion, and ETL — What I Actually Did, Across Two Eras](https://dev.to/sangeetha_kalia_cb89c90aa/data-migration-conversion-and-etl-what-i-actually-did-across-two-eras-2emj)
+- [What More Than Three Decades of Acrobat JavaScript Development Taught Me About Interactive PDF Forms](https://dev.to/boilerup73/what-more-than-three-decades-of-acrobat-javascript-development-taught-me-about-interactive-pdf-forms-5758)
+- [Why INT4 Weight-Only Quantization Doesn&#39;t Speed Up Prefill](https://dev.to/ji_ai/why-int4-weight-only-quantization-doesnt-speed-up-prefill-1b45)
+- [Building a Client-Side ATS Resume Analyzer with Next.js 14 and TypeScript](https://dev.to/hamed_darvishi/building-a-client-side-ats-resume-analyzer-with-nextjs-14-and-typescript-2706)
+- [I built a BitTorrent engine that streams to Plex without downloading](https://dev.to/mrrobotogit/i-built-a-bittorrent-engine-that-streams-to-plex-without-downloading-52do)
 <!-- BLOG-POST-LIST:END -->
 
