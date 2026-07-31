@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Five Ideals of DevOps: os Cinco Ideais que Sustentam a Transformação DevOps](https://dev.to/luiscruzcwb/the-five-ideals-of-devops-os-cinco-ideais-que-sustentam-a-transformacao-devops-c24)
-- [Presigned URLs vs proxying file uploads through your backend: cost, latency, security](https://dev.to/yukikobayashi880/presigned-urls-vs-proxying-file-uploads-through-your-backend-cost-latency-security-4pi0)
-- [Wetask Is Opening Its Task Runtime to External Workers](https://dev.to/tosiiko/wetask-is-opening-its-task-runtime-to-external-workers-1p2a)
-- [Why I don&#39;t use an LLM to secure my LLM](https://dev.to/wesellistools/why-i-dont-use-an-llm-to-secure-my-llm-1m2k)
+- [n8n Adds Qwen Cloud Node for Text, Image and Video AI Automation Workflows](https://dev.to/alifar/n8n-adds-qwen-cloud-node-for-text-image-and-video-ai-automation-workflows-i7b)
+- [What a .NET Core service needs before it&#39;s actually production-ready](https://dev.to/webruster/what-a-net-core-service-needs-before-its-actually-production-ready-42k0)
+- [Building GovChain: Making Government Scheme Discovery Simpler with AI](https://dev.to/suryansh_soni_12b227bfd84/building-govchain-making-government-scheme-discovery-simpler-with-ai-48cb)
+- [Build a Support Copilot That Loads the Runbook Before It Calls a Tool](https://dev.to/susiewang/build-a-support-copilot-that-loads-the-runbook-before-it-calls-a-tool-3po0)
 <!-- BLOG-POST-LIST:END -->
 
