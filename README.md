@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [n8n Adds Qwen Cloud Node for Text, Image and Video AI Automation Workflows](https://dev.to/alifar/n8n-adds-qwen-cloud-node-for-text-image-and-video-ai-automation-workflows-i7b)
-- [What a .NET Core service needs before it&#39;s actually production-ready](https://dev.to/webruster/what-a-net-core-service-needs-before-its-actually-production-ready-42k0)
-- [Building GovChain: Making Government Scheme Discovery Simpler with AI](https://dev.to/suryansh_soni_12b227bfd84/building-govchain-making-government-scheme-discovery-simpler-with-ai-48cb)
-- [Build a Support Copilot That Loads the Runbook Before It Calls a Tool](https://dev.to/susiewang/build-a-support-copilot-that-loads-the-runbook-before-it-calls-a-tool-3po0)
+- [My Robot Accountant Got an Eviction Notice. So We Moved: Migrating from Bedrock Agents Classic to AgentCore](https://dev.to/aws-builders/my-robot-accountant-got-an-eviction-notice-so-we-moved-migrating-from-bedrock-agents-classic-to-4bjo)
+- [HTML Minifier: the privacy-first data tool that runs entirely in your browser](https://dev.to/mryesiller/html-minifier-the-privacy-first-data-tool-that-runs-entirely-in-your-browser-318h)
+- [My bot detector said 95% fake. It agreed with me instantly — that was the tell.](https://dev.to/fromzerotoship/my-bot-detector-said-95-fake-it-agreed-with-me-instantly-that-was-the-tell-3j6a)
+- [Next.js API routes vs route handlers: when to use each](https://dev.to/nayankyada/nextjs-api-routes-vs-route-handlers-when-to-use-each-29p6)
 <!-- BLOG-POST-LIST:END -->
 
