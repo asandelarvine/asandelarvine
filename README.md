@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Robot Accountant Got an Eviction Notice. So We Moved: Migrating from Bedrock Agents Classic to AgentCore](https://dev.to/aws-builders/my-robot-accountant-got-an-eviction-notice-so-we-moved-migrating-from-bedrock-agents-classic-to-4bjo)
-- [HTML Minifier: the privacy-first data tool that runs entirely in your browser](https://dev.to/mryesiller/html-minifier-the-privacy-first-data-tool-that-runs-entirely-in-your-browser-318h)
-- [My bot detector said 95% fake. It agreed with me instantly — that was the tell.](https://dev.to/fromzerotoship/my-bot-detector-said-95-fake-it-agreed-with-me-instantly-that-was-the-tell-3j6a)
-- [Next.js API routes vs route handlers: when to use each](https://dev.to/nayankyada/nextjs-api-routes-vs-route-handlers-when-to-use-each-29p6)
+- [100 Days of Solana is a wrap!](https://dev.to/100daysofsolana/100-days-of-solana-is-a-wrap-1hak)
+- [How AI Is Transforming Software Development Workflows in 2026](https://dev.to/kaixintelligence/how-ai-is-transforming-software-development-workflows-in-2026-1k6f)
+- [A Hardware Wallet Can Stay Offline and Still Create a Weak Seed](https://dev.to/azaleakuts/a-hardware-wallet-can-stay-offline-and-still-create-a-weak-seed-10pc)
+- [Fixing Exact Package Search Relevance in npmx](https://dev.to/anilloutombam/fixing-exact-package-search-relevance-in-npmx-34c7)
 <!-- BLOG-POST-LIST:END -->
 
