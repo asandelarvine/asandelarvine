@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [100 Days of Solana is a wrap!](https://dev.to/100daysofsolana/100-days-of-solana-is-a-wrap-1hak)
-- [How AI Is Transforming Software Development Workflows in 2026](https://dev.to/kaixintelligence/how-ai-is-transforming-software-development-workflows-in-2026-1k6f)
-- [A Hardware Wallet Can Stay Offline and Still Create a Weak Seed](https://dev.to/azaleakuts/a-hardware-wallet-can-stay-offline-and-still-create-a-weak-seed-10pc)
-- [Fixing Exact Package Search Relevance in npmx](https://dev.to/anilloutombam/fixing-exact-package-search-relevance-in-npmx-34c7)
+- [The Bug That Crashes Your Import Is the Lucky One](https://dev.to/p0rt/the-bug-that-crashes-your-import-is-the-lucky-one-25of)
+- [Deploying ImgProxy – Process, Resize, Convert Images on the Fly](https://dev.to/vultr/deploying-imgproxy-process-resize-convert-images-on-the-fly-5ab0)
+- [My MCP Tool&#39;s Audit Log Was Built So a Bad Write Would Leave a Trace. The Log Itself Leaves None.](https://dev.to/enjoy_kumawat/my-mcp-tools-audit-log-was-built-so-a-bad-write-would-leave-a-trace-the-log-itself-leaves-none-4maf)
+- [Deploying code-server for VS Code on Ubuntu 24.04](https://dev.to/vultr/deploying-code-server-for-vs-code-on-ubuntu-2404-4o9e)
 <!-- BLOG-POST-LIST:END -->
 
