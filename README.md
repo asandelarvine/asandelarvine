@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Roundup Jul 31: OpenAI&#39;s 80% Price Cut, Whole-Body Robotics, and the Pacing-the-Frontier Letter](https://dev.to/lucioliu/ai-roundup-jul-31-openais-80-price-cut-whole-body-robotics-and-the-pacing-the-frontier-letter-34o2)
-- [The Indian Income Tax notice cascade, as a state machine: CPC Supreme Court &lpar;walkthrough for salaried filers&rpar;](https://dev.to/chetansanghani/the-indian-income-tax-notice-cascade-as-a-state-machine-cpc-supreme-court-walkthrough-for-2nf1)
-- [The 4 Indian salary perquisites that survive the New Tax Regime &lpar;what your HR probably won&#39;t volunteer&rpar;](https://dev.to/chetansanghani/the-4-indian-salary-perquisites-that-survive-the-new-tax-regime-what-your-hr-probably-wont-19bp)
-- [The Silent Squeeze 🤫: How the AI Infrastructure Boom is Breaking the Gaming Industry](https://dev.to/itzzsvr_tech74/the-silent-squeeze-how-the-ai-infrastructure-boom-is-breaking-the-gaming-industry-1o4h)
+- [Build a Clean ASP.NET Core API with Signalynx and CQRS](https://dev.to/nilesh_vishwakarma_01e134/build-a-clean-aspnet-core-api-with-signalynx-and-cqrs-1e1l)
+- [How to Review Pull Requests Without a Meeting](https://dev.to/oskarreyesdev/how-to-review-pull-requests-without-a-meeting-109i)
+- [8 Open Source Gems To Become The Ultimate Developer 🔥](https://dev.to/anthonymax/8-open-source-gems-to-become-the-ultimate-developer-3hh0)
+- [Strategies for Cryptographic Agility in Quantum Migration](https://dev.to/vpodk/strategies-for-cryptographic-agility-in-quantum-migration-4lon)
 <!-- BLOG-POST-LIST:END -->
 
