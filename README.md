@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Clean ASP.NET Core API with Signalynx and CQRS](https://dev.to/nilesh_vishwakarma_01e134/build-a-clean-aspnet-core-api-with-signalynx-and-cqrs-1e1l)
-- [How to Review Pull Requests Without a Meeting](https://dev.to/oskarreyesdev/how-to-review-pull-requests-without-a-meeting-109i)
-- [8 Open Source Gems To Become The Ultimate Developer 🔥](https://dev.to/anthonymax/8-open-source-gems-to-become-the-ultimate-developer-3hh0)
-- [Strategies for Cryptographic Agility in Quantum Migration](https://dev.to/vpodk/strategies-for-cryptographic-agility-in-quantum-migration-4lon)
+- [Why Deleting a Hardcoded Secret Does Not Fix It &lpar;CWE-798&rpar;](https://dev.to/c_k_fb750e731394/why-deleting-a-hardcoded-secret-does-not-fix-it-cwe-798-1bp1)
+- [Demystifying Bitcoin Transaction Fees: How Explicit Fee Selection Works](https://dev.to/vkimutai/demystifying-bitcoin-transaction-fees-how-explicit-fee-selection-works-3g0c)
+- [The engineering behind a search bar. Is it worth reinventing the wheel?](https://dev.to/filipe_neves/the-engineering-behind-a-search-bar-is-it-worth-reinventing-the-wheel-4ef4)
+- [Data Migration, Conversion, and ETL — What I Actually Did, Across Two Eras](https://dev.to/sangeetha_kalia_cb89c90aa/data-migration-conversion-and-etl-what-i-actually-did-across-two-eras-2emj)
 <!-- BLOG-POST-LIST:END -->
 
