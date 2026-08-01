@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ratatop: the network box, and why your ISP lies with units](https://dev.to/lovestaco/ratatop-the-network-box-and-why-your-isp-lies-with-units-4lpo)
-- [Localized routes in Laravel with Laralang](https://dev.to/edulazaro/localized-routes-un-laravel-with-laralang-4g0o)
-- [Clean Architecture Project Setup From Scratch With .NET 10](https://dev.to/muhammad_waqasanwar_ddbf/clean-architecture-project-setup-from-scratch-with-net-10-434n)
-- [How Much Does AI Actually Cost? The Field Guide to 12 AI Economics Calculators](https://dev.to/pich/how-much-does-ai-actually-cost-the-field-guide-to-12-ai-economics-calculators-17bp)
+- [I tried to prove AI writes insecure WordPress code. 32 runs later, I could not.](https://dev.to/lunetrax/i-tried-to-prove-ai-writes-insecure-wordpress-code-32-runs-later-i-could-not-252h)
+- [What&#39;s new in our latest Android dependency bumps — ConstraintLayout, Firebase, Intercom, Auth0](https://dev.to/rajen_trivedi/whats-new-in-our-latest-android-dependency-bumps-constraintlayout-firebase-intercom-auth0-3e2e)
+- [Three bugs we found and fixed in our own pipeline this week](https://dev.to/journeymen/three-bugs-we-found-and-fixed-in-our-own-pipeline-this-week-47b6)
+- [One contract. Any format. Zero mapping](https://dev.to/antako/one-contract-any-format-zero-mapping-293c)
 <!-- BLOG-POST-LIST:END -->
 
