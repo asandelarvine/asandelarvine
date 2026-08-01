@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lucide vs Tabler vs Phosphor: Which Free Icon Set Fits Your UI?](https://dev.to/svgicons/lucide-vs-tabler-vs-phosphor-which-free-icon-set-fits-your-ui-4ocl)
-- [AI collapsed my job into three roles and I had to relearn all of them](https://dev.to/mjmirza/ai-collapsed-my-job-into-three-roles-and-i-had-to-relearn-all-of-them-509g)
-- [How to Use SVG Icons in React, Next.js, and Tailwind CSS](https://dev.to/svgicons/how-to-use-svg-icons-in-react-nextjs-and-tailwind-css-3o1c)
-- [From Skewer to Screen — A Tandoori Paneer Landing Page](https://dev.to/jogadiyadipak28art/from-skewer-to-screen-a-tandoori-paneer-landing-page-3la1)
+- [Why My Expo Router App Froze on the Splash Screen After a Cold-Start Notification Tap](https://dev.to/hirodeath/why-my-expo-router-app-froze-on-the-splash-screen-after-a-cold-start-notification-tap-40d4)
+- [I Rewrote My Resume Once and Stopped Getting Ghosted. Then Oracle Called](https://dev.to/jawadelyousfi17/i-rewrote-my-resume-once-and-stopped-getting-ghosted-then-oracle-called-2bgg)
+- [I used the Hacker News API to check 5,000 old links. 34 domains are now unregistered.](https://dev.to/aiq_labs/i-used-the-hacker-news-api-to-check-5000-old-links-34-domains-are-now-unregistered-2jbf)
+- [Spaced Repetition Under the Hood: How We Decide When to Show a Word Again](https://dev.to/vitaly_pavlenko_71b14d120/spaced-repetition-under-the-hood-how-we-decide-when-to-show-a-word-again-2g5b)
 <!-- BLOG-POST-LIST:END -->
 
