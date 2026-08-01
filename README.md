@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s April Gemini Drop Expands Desktop, Mobile and Agentic App Integration](https://dev.to/alifar/googles-april-gemini-drop-expands-desktop-mobile-and-agentic-app-integration-1hmn)
-- [What &quot;Context-Aware Code Review&quot; Actually Means🤔](https://dev.to/dev_kiran/what-context-aware-code-review-actually-means-30gm)
-- [Building Fair Rhythm-Game Judgement Windows in JavaScript](https://dev.to/skywalker_2de7de5f97df567/building-fair-rhythm-game-judgement-windows-in-javascript-1og9)
-- [Implementing FreeCell SuperMoves: Capacity Rules and Edge Cases](https://dev.to/skywalker_2de7de5f97df567/implementing-freecell-supermoves-capacity-rules-and-edge-cases-2012)
+- [How to Build a Customized Chat UI for n8n Chat Webhooks?](https://dev.to/johndavedecano/how-to-build-a-customized-chat-ui-for-n8n-chat-webhooks-o9i)
+- [Writing Agent Memories: What to Store and What to Skip](https://dev.to/promptmaster/writing-agent-memories-what-to-store-and-what-to-skip-515d)
+- [I built an open, reproducible typing-speed test — and it won&#39;t show a number until it earns one](https://dev.to/lucian_lkb_1f009d/i-built-an-open-reproducible-typing-speed-test-and-it-wont-show-a-number-until-it-earns-one-16md)
+- [React Mastery Series – Day 6: Props in React – Passing Data Between Components](https://dev.to/siva_samanthapudi/-react-mastery-series-day-6-props-in-react-passing-data-between-components-3fg8)
 <!-- BLOG-POST-LIST:END -->
 
