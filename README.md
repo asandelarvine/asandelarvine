@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Customized Chat UI for n8n Chat Webhooks?](https://dev.to/johndavedecano/how-to-build-a-customized-chat-ui-for-n8n-chat-webhooks-o9i)
-- [Writing Agent Memories: What to Store and What to Skip](https://dev.to/promptmaster/writing-agent-memories-what-to-store-and-what-to-skip-515d)
-- [I built an open, reproducible typing-speed test — and it won&#39;t show a number until it earns one](https://dev.to/lucian_lkb_1f009d/i-built-an-open-reproducible-typing-speed-test-and-it-wont-show-a-number-until-it-earns-one-16md)
-- [React Mastery Series – Day 6: Props in React – Passing Data Between Components](https://dev.to/siva_samanthapudi/-react-mastery-series-day-6-props-in-react-passing-data-between-components-3fg8)
+- [ratatop: the network box, and why your ISP lies with units](https://dev.to/lovestaco/ratatop-the-network-box-and-why-your-isp-lies-with-units-4lpo)
+- [Localized routes in Laravel with Laralang](https://dev.to/edulazaro/localized-routes-un-laravel-with-laralang-4g0o)
+- [Clean Architecture Project Setup From Scratch With .NET 10](https://dev.to/muhammad_waqasanwar_ddbf/clean-architecture-project-setup-from-scratch-with-net-10-434n)
+- [How Much Does AI Actually Cost? The Field Guide to 12 AI Economics Calculators](https://dev.to/pich/how-much-does-ai-actually-cost-the-field-guide-to-12-ai-economics-calculators-17bp)
 <!-- BLOG-POST-LIST:END -->
 
