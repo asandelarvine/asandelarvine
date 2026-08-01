@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing a Memory Leak in React by Cleaning Up useEffect](https://dev.to/prince_patel_09/fixing-a-memory-leak-in-react-by-cleaning-up-useeffect-4ifl)
-- [The 4-part brief that keeps coding agents from drifting](https://dev.to/agentbriefstudio/the-4-part-brief-that-keeps-coding-agents-from-drifting-1lpn)
-- [The Role of Clear Documentation in Team Velocity](https://dev.to/nahamaalochi/the-role-of-clear-documentation-in-team-velocity-ihd)
-- [Series Week 28/52 — Audit , Tracing &amp; Logging - They all mean different things](https://dev.to/nabhaas/series-week-2852-audit-tracing-logging-they-all-mean-different-things-2569)
+- [Sole developer on a national SSO platform for six months, with Claude writing most of the code](https://dev.to/bhagatashisha/sole-developer-on-a-national-sso-platform-for-six-months-with-claude-writing-most-of-the-code-5bg9)
+- [Google&#39;s AI Just Found a Chrome Bug That Hid From Humans for 13 Years](https://dev.to/ashraf_chowdury09/googles-ai-just-found-a-chrome-bug-that-hid-from-humans-for-13-years-4enf)
+- [Calculate Everything. Master the Numbers.](https://dev.to/ahmed_eldemerdash/calculate-everythingmaster-the-numbers-35p2)
+- [Why JSON Schema Field Order Breaks Structured Output Accuracy](https://dev.to/ji_ai/why-json-schema-field-order-breaks-structured-output-accuracy-2985)
 <!-- BLOG-POST-LIST:END -->
 
