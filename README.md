@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Source Code to Execution: The Mental Model Behind Compilers and Interpreters](https://dev.to/odingaval/from-source-code-to-execution-the-mental-model-behind-compilers-and-interpreters-45on)
-- [Preparing for AWS CI/CD Hands-On Project - Prerequisites](https://dev.to/kadhamvj23/preparing-for-aws-cicd-hands-on-project-prerequisites-3h5o)
-- [AWS CI/CD Explained for Beginners | Understanding AWS CodeCommit, CodePipeline, CodeBuild &amp; CodeDeploy](https://dev.to/kadhamvj23/aws-cicd-explained-for-beginners-understanding-aws-codecommit-codepipeline-codebuild--1j3e)
-- [Cost Attribution in Shared Infrastructure](https://dev.to/samson_tanimawo/cost-attribution-in-shared-infrastructure-h7p)
+- [Upgrade .NET 8 to .NET 10 Without Breaking Your API Contract](https://dev.to/csharp-programming/upgrade-net-8-to-net-10-without-breaking-your-api-contract-51h)
+- [How I Fixed an Expo SDK 54 Android Build with SDK 55 Packages Mixed In](https://dev.to/hirodeath/how-i-fixed-an-expo-sdk-54-android-build-with-sdk-55-packages-mixed-in-19d)
+- [Google Gemini’s AI Trip Planner Is an Established Travel Tool, Not a New Launch](https://dev.to/alifar/google-geminis-ai-trip-planner-is-an-established-travel-tool-not-a-new-launch-4fd4)
+- [Beyond the Hype: What I Learned from a 45-Minute AI Research Agent Lab](https://dev.to/edwardyun/beyond-the-hype-what-i-learned-from-a-45-minute-ai-research-agent-lab-4bm5)
 <!-- BLOG-POST-LIST:END -->
 
