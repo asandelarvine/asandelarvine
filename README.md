@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Upgrade .NET 8 to .NET 10 Without Breaking Your API Contract](https://dev.to/csharp-programming/upgrade-net-8-to-net-10-without-breaking-your-api-contract-51h)
-- [How I Fixed an Expo SDK 54 Android Build with SDK 55 Packages Mixed In](https://dev.to/hirodeath/how-i-fixed-an-expo-sdk-54-android-build-with-sdk-55-packages-mixed-in-19d)
-- [Google Gemini’s AI Trip Planner Is an Established Travel Tool, Not a New Launch](https://dev.to/alifar/google-geminis-ai-trip-planner-is-an-established-travel-tool-not-a-new-launch-4fd4)
-- [Beyond the Hype: What I Learned from a 45-Minute AI Research Agent Lab](https://dev.to/edwardyun/beyond-the-hype-what-i-learned-from-a-45-minute-ai-research-agent-lab-4bm5)
+- [Fixing a Memory Leak in React by Cleaning Up useEffect](https://dev.to/prince_patel_09/fixing-a-memory-leak-in-react-by-cleaning-up-useeffect-4ifl)
+- [The 4-part brief that keeps coding agents from drifting](https://dev.to/agentbriefstudio/the-4-part-brief-that-keeps-coding-agents-from-drifting-1lpn)
+- [The Role of Clear Documentation in Team Velocity](https://dev.to/nahamaalochi/the-role-of-clear-documentation-in-team-velocity-ihd)
+- [Series Week 28/52 — Audit , Tracing &amp; Logging - They all mean different things](https://dev.to/nabhaas/series-week-2852-audit-tracing-logging-they-all-mean-different-things-2569)
 <!-- BLOG-POST-LIST:END -->
 
