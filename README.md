@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sole developer on a national SSO platform for six months, with Claude writing most of the code](https://dev.to/bhagatashisha/sole-developer-on-a-national-sso-platform-for-six-months-with-claude-writing-most-of-the-code-5bg9)
-- [Google&#39;s AI Just Found a Chrome Bug That Hid From Humans for 13 Years](https://dev.to/ashraf_chowdury09/googles-ai-just-found-a-chrome-bug-that-hid-from-humans-for-13-years-4enf)
-- [Calculate Everything. Master the Numbers.](https://dev.to/ahmed_eldemerdash/calculate-everythingmaster-the-numbers-35p2)
-- [Why JSON Schema Field Order Breaks Structured Output Accuracy](https://dev.to/ji_ai/why-json-schema-field-order-breaks-structured-output-accuracy-2985)
+- [Correlated Subqueries Explained: From Confusing to Intuitive](https://dev.to/saamiabbaskhan/correlated-subqueries-explained-from-confusing-to-intuitive-32jn)
+- [AWS Lambda and NestJS: Communication between services](https://dev.to/venyabrodetskiy/aws-lambda-and-nestjs-communication-between-services-5gh2)
+- [The Linux Skills That Separate Junior and Senior DevOps Engineers: A Practical Comparison](https://dev.to/asepsayyad007/the-linux-skills-that-separate-junior-and-senior-devops-engineers-a-practical-comparison-40jh)
+- [OpenAI ลดราคา GPT-5.6 Luna 80% เปิด Fast Mode ให้ Sol — เกมใหม่ของสงครามราคา AI](https://dev.to/sarantoon/openai-ldraakhaa-gpt-56-luna-80-epid-fast-mode-aih-sol-ekmaihmkhngsngkhraamraakhaa-ai-1b3c)
 <!-- BLOG-POST-LIST:END -->
 
