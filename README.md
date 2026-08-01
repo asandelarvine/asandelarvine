@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I tried to prove AI writes insecure WordPress code. 32 runs later, I could not.](https://dev.to/lunetrax/i-tried-to-prove-ai-writes-insecure-wordpress-code-32-runs-later-i-could-not-252h)
-- [What&#39;s new in our latest Android dependency bumps — ConstraintLayout, Firebase, Intercom, Auth0](https://dev.to/rajen_trivedi/whats-new-in-our-latest-android-dependency-bumps-constraintlayout-firebase-intercom-auth0-3e2e)
-- [Three bugs we found and fixed in our own pipeline this week](https://dev.to/journeymen/three-bugs-we-found-and-fixed-in-our-own-pipeline-this-week-47b6)
-- [One contract. Any format. Zero mapping](https://dev.to/antako/one-contract-any-format-zero-mapping-293c)
+- [Publishers Blocking AI Crawlers Are Reshaping the Economics of Training Data](https://dev.to/alifar/publishers-blocking-ai-crawlers-are-reshaping-the-economics-of-training-data-4i33)
+- [Your Code Doesn&#39;t Run. A Translation of Your Code Does.](https://dev.to/juma_evans_34e389ef539266/your-code-doesnt-run-a-translation-of-your-code-does-32i5)
+- [Clive — a friendly CLI for local LLMs](https://dev.to/sedarolmez94/clive-a-friendly-cli-for-local-llms-36l9)
+- [I handed AI agents almost the whole product. Except one part - and that part is the job](https://dev.to/nerovny/i-handed-ai-agents-almost-the-whole-product-except-one-part-and-that-part-is-the-job-39b)
 <!-- BLOG-POST-LIST:END -->
 
