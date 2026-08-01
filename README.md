@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Publishers Blocking AI Crawlers Are Reshaping the Economics of Training Data](https://dev.to/alifar/publishers-blocking-ai-crawlers-are-reshaping-the-economics-of-training-data-4i33)
-- [Your Code Doesn&#39;t Run. A Translation of Your Code Does.](https://dev.to/juma_evans_34e389ef539266/your-code-doesnt-run-a-translation-of-your-code-does-32i5)
-- [Clive — a friendly CLI for local LLMs](https://dev.to/sedarolmez94/clive-a-friendly-cli-for-local-llms-36l9)
-- [I handed AI agents almost the whole product. Except one part - and that part is the job](https://dev.to/nerovny/i-handed-ai-agents-almost-the-whole-product-except-one-part-and-that-part-is-the-job-39b)
+- [Lucide vs Tabler vs Phosphor: Which Free Icon Set Fits Your UI?](https://dev.to/svgicons/lucide-vs-tabler-vs-phosphor-which-free-icon-set-fits-your-ui-4ocl)
+- [AI collapsed my job into three roles and I had to relearn all of them](https://dev.to/mjmirza/ai-collapsed-my-job-into-three-roles-and-i-had-to-relearn-all-of-them-509g)
+- [How to Use SVG Icons in React, Next.js, and Tailwind CSS](https://dev.to/svgicons/how-to-use-svg-icons-in-react-nextjs-and-tailwind-css-3o1c)
+- [From Skewer to Screen — A Tandoori Paneer Landing Page](https://dev.to/jogadiyadipak28art/from-skewer-to-screen-a-tandoori-paneer-landing-page-3la1)
 <!-- BLOG-POST-LIST:END -->
 
