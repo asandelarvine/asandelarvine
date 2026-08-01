@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Correlated Subqueries Explained: From Confusing to Intuitive](https://dev.to/saamiabbaskhan/correlated-subqueries-explained-from-confusing-to-intuitive-32jn)
-- [AWS Lambda and NestJS: Communication between services](https://dev.to/venyabrodetskiy/aws-lambda-and-nestjs-communication-between-services-5gh2)
-- [The Linux Skills That Separate Junior and Senior DevOps Engineers: A Practical Comparison](https://dev.to/asepsayyad007/the-linux-skills-that-separate-junior-and-senior-devops-engineers-a-practical-comparison-40jh)
-- [OpenAI ลดราคา GPT-5.6 Luna 80% เปิด Fast Mode ให้ Sol — เกมใหม่ของสงครามราคา AI](https://dev.to/sarantoon/openai-ldraakhaa-gpt-56-luna-80-epid-fast-mode-aih-sol-ekmaihmkhngsngkhraamraakhaa-ai-1b3c)
+- [Google’s April Gemini Drop Expands Desktop, Mobile and Agentic App Integration](https://dev.to/alifar/googles-april-gemini-drop-expands-desktop-mobile-and-agentic-app-integration-1hmn)
+- [What &quot;Context-Aware Code Review&quot; Actually Means🤔](https://dev.to/dev_kiran/what-context-aware-code-review-actually-means-30gm)
+- [Building Fair Rhythm-Game Judgement Windows in JavaScript](https://dev.to/skywalker_2de7de5f97df567/building-fair-rhythm-game-judgement-windows-in-javascript-1og9)
+- [Implementing FreeCell SuperMoves: Capacity Rules and Edge Cases](https://dev.to/skywalker_2de7de5f97df567/implementing-freecell-supermoves-capacity-rules-and-edge-cases-2012)
 <!-- BLOG-POST-LIST:END -->
 
