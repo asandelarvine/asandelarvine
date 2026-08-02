@@ -79,9 +79,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Bug Report to Merged PR: Fixing a UI State Bug in Joplin](https://dev.to/vinay_reddy_b22f3bf1f2748/from-bug-report-to-merged-pr-fixing-a-ui-state-bug-in-joplin-34ia)
-- [A.I Foundational Guideline for Developers](https://dev.to/42phi61861/ai-foundational-guideline-for-developers-5138)
-- [How I Built a Free JSON to Excel Converter That Handles Nested JSON](https://dev.to/narinder_kumar_62739e18d3/how-i-built-a-free-json-to-excel-converter-that-handles-nested-json-fhb)
-- [Building a Compiler from First Principles](https://dev.to/alexbatashev/building-a-compiler-from-first-principles-5b51)
+- [Soul in Motion — 8:22 PM | 2026-08-02](https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-822-pm-2026-08-02-8eb)
+- [Built a real offline app from an empty repo with OpenSpec + AI agents. Keeping decisions in specs, not the chat, let me pause, switch models, and stay in control; Including where it fell short.
+#ai #spec #openspec #productivity](https://dev.to/shyamala_u/built-a-real-offline-app-from-an-empty-repo-with-openspec-ai-agents-keeping-decisions-in-specs-1171)
+- [Your AI Agent Shouldn&#39;t Hold Your OAuth Tokens](https://dev.to/alwaysmavs/your-ai-agent-shouldnt-hold-your-oauth-tokens-4o82)
+- [Built a real offline app from scratch with OpenSpec + AI agents. Keeping decisions in specs, not the chat, let me pause, switch models, and stay in control; Including where it fell short. #genai #productivity #spec #openspec #showdev](https://dev.to/shyamala_u/built-a-real-offline-app-from-scratch-with-openspec-ai-agents-keeping-decisions-in-specs-not-22i2)
 <!-- BLOG-POST-LIST:END -->
 
