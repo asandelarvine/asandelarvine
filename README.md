@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1 of microservices](https://dev.to/vigneshwaralingam/day-1-of-microservices-3npk)
-- [My first project in python](https://dev.to/recover/my-first-project-in-python-54jj)
-- [# Deploying a Production-Style Amazon EKS Cluster on Fargate with AWS Load Balancer Controller and the 2048 Sample Application](https://dev.to/goodluck_ekeoma_2c98866d0/-deploying-a-production-style-amazon-eks-cluster-on-fargate-with-aws-load-balancer-controller-and-15pa)
-- [Further Optimizing the Vision-Only Harness: the Notes Rule](https://dev.to/qingze_hu_c4c251c1b353ede/further-optimizing-the-vision-only-harness-the-notes-rule-3857)
+- [Shrek owned the swamp. POUCHPO owns the payout.](https://dev.to/alexar76/shrek-owned-the-swamp-pouchpo-owns-the-payout-407h)
+- [What Auditing My Own AI Projects Taught Me About Shipping Production Code](https://dev.to/shweta_mishra_b3c97874de9/what-auditing-my-own-ai-projects-taught-me-about-shipping-production-code-175f)
+- [Taste of Punjab - A CSS Love Letter to Comfort Food](https://dev.to/komal290106/taste-of-punjab-a-css-love-letter-to-comfort-food-1bk2)
+- [Offset vs Cursor Pagination: The Mistake Most Backend Engineers Make](https://dev.to/engrmark/offset-vs-cursor-pagination-the-mistake-most-backend-engineers-make-2gme)
 <!-- BLOG-POST-LIST:END -->
 
