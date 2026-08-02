@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why My Expo Router App Froze on the Splash Screen After a Cold-Start Notification Tap](https://dev.to/hirodeath/why-my-expo-router-app-froze-on-the-splash-screen-after-a-cold-start-notification-tap-40d4)
-- [I Rewrote My Resume Once and Stopped Getting Ghosted. Then Oracle Called](https://dev.to/jawadelyousfi17/i-rewrote-my-resume-once-and-stopped-getting-ghosted-then-oracle-called-2bgg)
-- [I used the Hacker News API to check 5,000 old links. 34 domains are now unregistered.](https://dev.to/aiq_labs/i-used-the-hacker-news-api-to-check-5000-old-links-34-domains-are-now-unregistered-2jbf)
-- [Spaced Repetition Under the Hood: How We Decide When to Show a Word Again](https://dev.to/vitaly_pavlenko_71b14d120/spaced-repetition-under-the-hood-how-we-decide-when-to-show-a-word-again-2g5b)
+- [Day 1: Understanding Cloud Computing — Service and Deployment Models Explained with a Biryani Analogy](https://dev.to/sr-palatasingh/day-1-understanding-cloud-computing-service-and-deployment-models-explained-with-a-biryani-3h8p)
+- [&quot;Plan 9 — ระบบปฏิบัติการที่โลกลืม แต่เปลี่ยนวิธีคิดเรื่อง OS ไปตลอดกาล&quot;](https://dev.to/gophernment/plan-9-rabbptibatikaarthiiolkluuem-aetepliiynwithiikhideruueng-os-aiptldkaal-41o)
+- [I built CleanSlate, an open-source coding agent for the IDE, CLI, and SDK](https://dev.to/maaaz7/i-built-cleanslate-an-open-source-coding-agent-for-the-ide-cli-and-sdk-5b0n)
+- [Building Fluentic Style: Making CSS Debugging Work Across Next.js Server and Client](https://dev.to/omnidev/building-fluentic-style-making-css-debugging-work-across-nextjs-server-and-client-49kk)
 <!-- BLOG-POST-LIST:END -->
 
