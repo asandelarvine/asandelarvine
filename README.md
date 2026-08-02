@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Framework-Agnostic Testing Methodology for AI Agents &lpar;61 sources, 58 test blocks, OWASP Agentic Top 10&rpar;](https://dev.to/turgaysavaci/a-framework-agnostic-testing-methodology-for-ai-agents-61-sources-58-test-blocks-owasp-agentic-4jh7)
-- [The Most Underused Prompt in Data Engineering](https://dev.to/raghavsharma_/the-most-underused-prompt-in-data-engineering-ejk)
-- [I swept 59 keywords across 6 App Store storefronts. My app ranks for exactly 2 — and both are just my own title.](https://dev.to/samtj/i-swept-59-keywords-across-6-app-store-storefronts-my-app-ranks-for-exactly-2-and-both-are-just-5eo0)
-- [React Mastery Series – Day 18: Custom Hooks in React – Reusing Logic Like a Pro](https://dev.to/siva_samanthapudi/react-mastery-series-day-18-custom-hooks-in-react-reusing-logic-like-a-pro-2m59)
+- [Lifecycle, DevOps &amp; Multi-Agent Orchestration for Enterprise AI](https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m)
+- [OpenAI Reports Internal Model Disproved an 80-Year-Old Geometry Problem](https://dev.to/alifar/openai-reports-internal-model-disproved-an-80-year-old-geometry-problem-2io5)
+- [The Apprenticeship Severance](https://dev.to/rawveg/the-apprenticeship-severance-5m)
+- [Your Docs Are Already Lying to You — Here&#39;s How to Make Them Graph Nodes Instead](https://dev.to/neha_jakate_/your-docs-are-already-lying-to-you-heres-how-to-make-them-graph-nodes-instead-eep)
 <!-- BLOG-POST-LIST:END -->
 
