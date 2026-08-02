@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Shrek owned the swamp. POUCHPO owns the payout.](https://dev.to/alexar76/shrek-owned-the-swamp-pouchpo-owns-the-payout-407h)
-- [What Auditing My Own AI Projects Taught Me About Shipping Production Code](https://dev.to/shweta_mishra_b3c97874de9/what-auditing-my-own-ai-projects-taught-me-about-shipping-production-code-175f)
-- [Taste of Punjab - A CSS Love Letter to Comfort Food](https://dev.to/komal290106/taste-of-punjab-a-css-love-letter-to-comfort-food-1bk2)
-- [Offset vs Cursor Pagination: The Mistake Most Backend Engineers Make](https://dev.to/engrmark/offset-vs-cursor-pagination-the-mistake-most-backend-engineers-make-2gme)
+- [Your cron job did not fail. It never ran.](https://dev.to/dcwiklik/your-cron-job-did-not-fail-it-never-ran-31o)
+- [Your Cognito Login Code Fails Because the App Client Never Allowed That Auth Flow](https://dev.to/siddharth_pandey_27/your-cognito-login-code-fails-because-the-app-client-never-allowed-that-auth-flow-1hmf)
+- [I Built an Agent Eval Harness. Real Agents Broke the Clean Version of the Story](https://dev.to/debashish_ghosal/i-built-an-agent-eval-harness-real-agents-broke-the-clean-version-of-the-story-53dj)
+- [Building an LLM API Gateway in Node.js](https://dev.to/mudassirworks/building-an-llm-api-gateway-in-nodejs-35g7)
 <!-- BLOG-POST-LIST:END -->
 
