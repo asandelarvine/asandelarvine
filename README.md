@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DUM: Breaking the Seal on Hyderabadi Biryani with Pure CSS](https://dev.to/adityawaslost/dum-breaking-the-seal-on-hyderabadi-biryani-with-pure-css-28d0)
-- [You&#39;ve Seen the Pipeline. Now Meet the Matrix: The One `Vec&lt;f64&gt;` Behind the 400 Shrink](https://dev.to/gencmurat/youve-seen-the-pipeline-now-meet-the-matrix-the-one-vec-behind-the-400x-shrink-385g)
-- [I Built the Same Escrow on Two Chains. The Architectures Couldn&#39;t Be More Different.](https://dev.to/novacont/i-built-the-same-escrow-on-two-chains-the-architectures-couldnt-be-more-different-2b9b)
-- [From Agents to Infrastructure: Building Secure, Local-First AI Assistants with Go and Rust](https://dev.to/tamizuddin/from-agents-to-infrastructure-building-secure-local-first-ai-assistants-with-go-and-rust-1fke)
+- [A Framework-Agnostic Testing Methodology for AI Agents &lpar;61 sources, 58 test blocks, OWASP Agentic Top 10&rpar;](https://dev.to/turgaysavaci/a-framework-agnostic-testing-methodology-for-ai-agents-61-sources-58-test-blocks-owasp-agentic-4jh7)
+- [The Most Underused Prompt in Data Engineering](https://dev.to/raghavsharma_/the-most-underused-prompt-in-data-engineering-ejk)
+- [I swept 59 keywords across 6 App Store storefronts. My app ranks for exactly 2 — and both are just my own title.](https://dev.to/samtj/i-swept-59-keywords-across-6-app-store-storefronts-my-app-ranks-for-exactly-2-and-both-are-just-5eo0)
+- [React Mastery Series – Day 18: Custom Hooks in React – Reusing Logic Like a Pro](https://dev.to/siva_samanthapudi/react-mastery-series-day-18-custom-hooks-in-react-reusing-logic-like-a-pro-2m59)
 <!-- BLOG-POST-LIST:END -->
 
