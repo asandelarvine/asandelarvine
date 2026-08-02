@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lifecycle, DevOps &amp; Multi-Agent Orchestration for Enterprise AI](https://dev.to/gde/lifecycle-devops-multi-agent-orchestration-for-enterprise-ai-1a1m)
-- [OpenAI Reports Internal Model Disproved an 80-Year-Old Geometry Problem](https://dev.to/alifar/openai-reports-internal-model-disproved-an-80-year-old-geometry-problem-2io5)
-- [The Apprenticeship Severance](https://dev.to/rawveg/the-apprenticeship-severance-5m)
-- [Your Docs Are Already Lying to You — Here&#39;s How to Make Them Graph Nodes Instead](https://dev.to/neha_jakate_/your-docs-are-already-lying-to-you-heres-how-to-make-them-graph-nodes-instead-eep)
+- [From Bug Report to Merged PR: Fixing a UI State Bug in Joplin](https://dev.to/vinay_reddy_b22f3bf1f2748/from-bug-report-to-merged-pr-fixing-a-ui-state-bug-in-joplin-34ia)
+- [A.I Foundational Guideline for Developers](https://dev.to/42phi61861/ai-foundational-guideline-for-developers-5138)
+- [How I Built a Free JSON to Excel Converter That Handles Nested JSON](https://dev.to/narinder_kumar_62739e18d3/how-i-built-a-free-json-to-excel-converter-that-handles-nested-json-fhb)
+- [Building a Compiler from First Principles](https://dev.to/alexbatashev/building-a-compiler-from-first-principles-5b51)
 <!-- BLOG-POST-LIST:END -->
 
