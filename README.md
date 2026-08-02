@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1: Understanding Cloud Computing — Service and Deployment Models Explained with a Biryani Analogy](https://dev.to/sr-palatasingh/day-1-understanding-cloud-computing-service-and-deployment-models-explained-with-a-biryani-3h8p)
-- [&quot;Plan 9 — ระบบปฏิบัติการที่โลกลืม แต่เปลี่ยนวิธีคิดเรื่อง OS ไปตลอดกาล&quot;](https://dev.to/gophernment/plan-9-rabbptibatikaarthiiolkluuem-aetepliiynwithiikhideruueng-os-aiptldkaal-41o)
-- [I built CleanSlate, an open-source coding agent for the IDE, CLI, and SDK](https://dev.to/maaaz7/i-built-cleanslate-an-open-source-coding-agent-for-the-ide-cli-and-sdk-5b0n)
-- [Building Fluentic Style: Making CSS Debugging Work Across Next.js Server and Client](https://dev.to/omnidev/building-fluentic-style-making-css-debugging-work-across-nextjs-server-and-client-49kk)
+- [DUM: Breaking the Seal on Hyderabadi Biryani with Pure CSS](https://dev.to/adityawaslost/dum-breaking-the-seal-on-hyderabadi-biryani-with-pure-css-28d0)
+- [You&#39;ve Seen the Pipeline. Now Meet the Matrix: The One `Vec&lt;f64&gt;` Behind the 400 Shrink](https://dev.to/gencmurat/youve-seen-the-pipeline-now-meet-the-matrix-the-one-vec-behind-the-400x-shrink-385g)
+- [I Built the Same Escrow on Two Chains. The Architectures Couldn&#39;t Be More Different.](https://dev.to/novacont/i-built-the-same-escrow-on-two-chains-the-architectures-couldnt-be-more-different-2b9b)
+- [From Agents to Infrastructure: Building Secure, Local-First AI Assistants with Go and Rust](https://dev.to/tamizuddin/from-agents-to-infrastructure-building-secure-local-first-ai-assistants-with-go-and-rust-1fke)
 <!-- BLOG-POST-LIST:END -->
 
