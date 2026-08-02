@@ -79,10 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Soul in Motion — 8:22 PM | 2026-08-02](https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-822-pm-2026-08-02-8eb)
-- [Built a real offline app from an empty repo with OpenSpec + AI agents. Keeping decisions in specs, not the chat, let me pause, switch models, and stay in control; Including where it fell short.
-#ai #spec #openspec #productivity](https://dev.to/shyamala_u/built-a-real-offline-app-from-an-empty-repo-with-openspec-ai-agents-keeping-decisions-in-specs-1171)
-- [Your AI Agent Shouldn&#39;t Hold Your OAuth Tokens](https://dev.to/alwaysmavs/your-ai-agent-shouldnt-hold-your-oauth-tokens-4o82)
-- [Built a real offline app from scratch with OpenSpec + AI agents. Keeping decisions in specs, not the chat, let me pause, switch models, and stay in control; Including where it fell short. #genai #productivity #spec #openspec #showdev](https://dev.to/shyamala_u/built-a-real-offline-app-from-scratch-with-openspec-ai-agents-keeping-decisions-in-specs-not-22i2)
+- [Day 1 of microservices](https://dev.to/vigneshwaralingam/day-1-of-microservices-3npk)
+- [My first project in python](https://dev.to/recover/my-first-project-in-python-54jj)
+- [# Deploying a Production-Style Amazon EKS Cluster on Fargate with AWS Load Balancer Controller and the 2048 Sample Application](https://dev.to/goodluck_ekeoma_2c98866d0/-deploying-a-production-style-amazon-eks-cluster-on-fargate-with-aws-load-balancer-controller-and-15pa)
+- [Further Optimizing the Vision-Only Harness: the Notes Rule](https://dev.to/qingze_hu_c4c251c1b353ede/further-optimizing-the-vision-only-harness-the-notes-rule-3857)
 <!-- BLOG-POST-LIST:END -->
 
