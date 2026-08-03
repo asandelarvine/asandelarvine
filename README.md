@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The black box in your PDF is a shape, not a delete key](https://dev.to/haruodev/the-black-box-in-your-pdf-is-a-shape-not-a-delete-key-1nc3)
-- [Pure Codename One Text Editing Without Native Overlays](https://dev.to/codenameone/pure-codename-one-text-editing-without-native-overlays-2i9l)
-- [What a good Agents.md should teach an agent on day one](https://dev.to/bengreenberg/what-a-good-agentsmd-should-teach-an-agent-on-day-one-3nen)
-- [Building ferctl top: Kubernetes resource usage vs requests and limits](https://dev.to/ferztyle/building-ferctl-top-kubernetes-resource-usage-vs-requests-and-limits-50a3)
+- [The DingTalk &amp; Feishu AI Ecosystem: Guide Integration in](https://dev.to/beehivestrategy/the-dingtalk-feishu-ai-ecosystem-guide-integration-in-56m8)
+- [Agentic AI Explained: A Spectrum, Not a Product Label](https://dev.to/studiomeyer_io/agentic-ai-explained-a-spectrum-not-a-product-label-17pa)
+- [Enterprise Knowledge Graphs: Unlocking AI-Driven Insights](https://dev.to/beehivestrategy/enterprise-knowledge-graphs-unlocking-ai-driven-insights-4g38)
+- [How to Overcome TestFlight User Limits](https://dev.to/kaushalrola/how-to-overcome-testflight-user-limits-48b9)
 <!-- BLOG-POST-LIST:END -->
 
