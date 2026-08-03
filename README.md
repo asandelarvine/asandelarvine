@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Makes Developers Faster. Why Can It Make Teams Slower?](https://dev.to/_3ffb5be7950c3a975b5d/ai-makes-developers-faster-why-can-it-make-teams-slower-13kl)
-- [Treat prompts like code: skills, evals, and ship-gate CI for Cursor slash commands](https://dev.to/emaraschio/treat-prompts-like-code-skills-evals-and-ship-gate-ci-for-cursor-slash-commands-1o03)
-- [Crypto-Agility Without a Redesign: The &quot;Soft-Fade-Out&quot; Pattern for Legacy IoT Silicon](https://dev.to/artkeller/crypto-agility-without-a-redesign-the-soft-fade-out-pattern-for-legacy-iot-silicon-2oc6)
-- [How Much Should Live Together? Learning to Isolate Services the Hard Way](https://dev.to/tehrfurth/how-much-should-live-together-learning-to-isolate-services-the-hard-way-4b8m)
+- [Llamar a un teléfono real desde el navegador: WebRTC, SIP y lo que nadie te cuenta de la facturación](https://dev.to/ivanindiv/llamar-a-un-telefono-real-desde-el-navegador-webrtc-sip-y-lo-que-nadie-te-cuenta-de-la-facturacion-3nmp)
+- [Your AI Agent&#39;s Chat History Is User Input](https://dev.to/y11t0/your-ai-agents-chat-history-is-user-input-fl6)
+- [Jollof, Sunday Special — A Bowl of Jollof Rice in Pure CSS](https://dev.to/charleseze322/jollof-sunday-special-a-bowl-of-jollof-rice-in-pure-css-540)
+- [5 New Dev Tools You Should Learn This Week](https://dev.to/karleeov/5-new-dev-tools-you-should-learn-this-week-12in)
 <!-- BLOG-POST-LIST:END -->
 
