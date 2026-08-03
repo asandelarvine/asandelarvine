@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [EU AI Act Article 50: What the 2026 Transparency Rules Mean for AI Teams](https://dev.to/alifar/eu-ai-act-article-50-what-the-2026-transparency-rules-mean-for-ai-teams-3i7g)
-- [From API client to CLI, without writing a parser](https://dev.to/mauvilsa/from-api-client-to-cli-without-writing-a-parser-3h01)
-- [RAG Retrieval Optimization: Reduce Vector Search Before Ranking](https://dev.to/puffball1567/rag-retrieval-optimization-reduce-vector-search-before-ranking-5h16)
-- [I Built Peko to Fix Native App Deployment](https://dev.to/iamprestonbrown/i-built-peko-to-fix-native-app-deployment-4m7o)
+- [Build a Semantic Cache for Your LLM App in 40 Lines of Python &lpar;And Cut Costs by Half&rpar;](https://dev.to/hrsvd/build-a-semantic-cache-for-your-llm-app-in-40-lines-of-python-and-cut-costs-by-half-2216)
+- [A Threat Actor Used DeepSeek to Orchestrate 460 Attacks via Telegram](https://dev.to/peremptory/a-threat-actor-used-deepseek-to-orchestrate-460-attacks-via-telegram-2jpi)
+- [The Kafka Incident That Was Just a Certificate &lpar;And the Operator That Saved MirrorMaker&rpar;](https://dev.to/hugolesta/the-kafka-incident-that-was-just-a-certificate-and-the-operator-that-saved-mirrormaker-p94)
+- [How to Solve ITMS-90035 Error: From Signature Chain Troubleshooting to IPA Regeneration](https://dev.to/uikit_ninja/how-to-solve-itms-90035-error-from-signature-chain-troubleshooting-to-ipa-regeneration-44j5)
 <!-- BLOG-POST-LIST:END -->
 
