@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The DingTalk &amp; Feishu AI Ecosystem: Guide Integration in](https://dev.to/beehivestrategy/the-dingtalk-feishu-ai-ecosystem-guide-integration-in-56m8)
-- [Agentic AI Explained: A Spectrum, Not a Product Label](https://dev.to/studiomeyer_io/agentic-ai-explained-a-spectrum-not-a-product-label-17pa)
-- [Enterprise Knowledge Graphs: Unlocking AI-Driven Insights](https://dev.to/beehivestrategy/enterprise-knowledge-graphs-unlocking-ai-driven-insights-4g38)
-- [How to Overcome TestFlight User Limits](https://dev.to/kaushalrola/how-to-overcome-testflight-user-limits-48b9)
+- [An editable range can change without changing Word text](https://dev.to/sybilgambleyyu/an-editable-range-can-change-without-changing-word-text-532o)
+- [Germany&#39;s Energy Revolution: Wind and Solar Overtake Fossil Fuels for the First Time](https://dev.to/kaixintelligence/germanys-energy-revolution-wind-and-solar-overtake-fossil-fuels-for-the-first-time-1kpj)
+- [Celebrating 45 Years of Kermit: The Protocol That Refuses to Die, Now Reborn in C](https://dev.to/kaixintelligence/celebrating-45-years-of-kermit-the-protocol-that-refuses-to-die-now-reborn-in-c-5f54)
+- [Ten Breakthrough Advances in Mathematics and Theoretical Computer Science &lpar;2026&rpar;](https://dev.to/kaixintelligence/ten-breakthrough-advances-in-mathematics-and-theoretical-computer-science-2026-13ac)
 <!-- BLOG-POST-LIST:END -->
 
