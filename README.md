@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [XML Tagging in Prompts: The Secret to Getting Better Output from Claude and GPT](https://dev.to/maryam_saba_792cdbcdb46fd/xml-tagging-in-prompts-the-secret-to-getting-better-output-from-claude-and-gpt-54e1)
-- [Building a security posture scanner with Next.js and Python](https://dev.to/dkls7777/building-a-security-posture-scanner-with-nextjs-and-python-5g5c)
-- [Why GitHub Cannot Paginate Through Millions of Repositories - Deep Pagination Explained](https://dev.to/mayank7924/why-github-silently-caps-your-search-at-1000-results-and-whats-actually-happening-underneath-1oik)
-- [A comment can be marked done without changing Word text](https://dev.to/sybilgambleyyu/a-comment-can-be-marked-done-without-changing-word-text-512o)
+- [Docker Proves Your App Runs. Kubernetes Proves It&#39;s Operable.](https://dev.to/arbythecoder/docker-proves-your-app-runs-kubernetes-proves-its-operable-439i)
+- [Practice Real-World Testing Scenarios for QA: Challenge 3 - Visual Testing with API Mocking](https://dev.to/abigail_armijo/practice-real-world-testing-scenarios-for-qa-challenge-3-visual-testing-with-api-mocking-5f6i)
+- [Building Deterministic Multi Agent Workflows with LangGraph](https://dev.to/muhammad_aslam_ff65e35553/building-deterministic-multi-agent-workflows-with-langgraph-4m0i)
+- [Qwen3.8-Max Just Went GA: A Developer&#39;s Guide to Alibaba&#39;s 2.4T Model](https://dev.to/arshtechpro/qwen38-max-just-went-ga-a-developers-guide-to-alibabas-24t-model-ff3)
 <!-- BLOG-POST-LIST:END -->
 
