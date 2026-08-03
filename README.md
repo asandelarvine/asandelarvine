@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Reading About SEO and Built a Password Generator Instead](https://dev.to/_63f383d3ef7194bca9b64/i-stopped-reading-about-seo-and-built-a-password-generator-instead-5clb)
-- [Cómo solucionar el error “Enable JavaScript and cookies to continue”](https://dev.to/erickeduardoramos03/como-solucionar-el-error-enable-javascript-and-cookies-to-continue-fbd)
-- [The Easiest Way to Look Up GeoIP in Laravel](https://dev.to/iproutdev/the-easiest-way-to-look-up-geoip-in-laravel-374o)
-- [From a 10-Minute Nap to 300+ Installs: The Story of My &#39;Restrict WP Upload Type&#39; Plugin](https://dev.to/kushang_tailor/from-a-10-minute-nap-to-300-installs-the-story-of-my-restrict-wp-upload-type-plugin-dgn)
+- [The black box in your PDF is a shape, not a delete key](https://dev.to/haruodev/the-black-box-in-your-pdf-is-a-shape-not-a-delete-key-1nc3)
+- [Pure Codename One Text Editing Without Native Overlays](https://dev.to/codenameone/pure-codename-one-text-editing-without-native-overlays-2i9l)
+- [What a good Agents.md should teach an agent on day one](https://dev.to/bengreenberg/what-a-good-agentsmd-should-teach-an-agent-on-day-one-3nen)
+- [Building ferctl top: Kubernetes resource usage vs requests and limits](https://dev.to/ferztyle/building-ferctl-top-kubernetes-resource-usage-vs-requests-and-limits-50a3)
 <!-- BLOG-POST-LIST:END -->
 
