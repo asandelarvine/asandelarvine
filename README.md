@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Semantic Cache for Your LLM App in 40 Lines of Python &lpar;And Cut Costs by Half&rpar;](https://dev.to/hrsvd/build-a-semantic-cache-for-your-llm-app-in-40-lines-of-python-and-cut-costs-by-half-2216)
-- [A Threat Actor Used DeepSeek to Orchestrate 460 Attacks via Telegram](https://dev.to/peremptory/a-threat-actor-used-deepseek-to-orchestrate-460-attacks-via-telegram-2jpi)
-- [The Kafka Incident That Was Just a Certificate &lpar;And the Operator That Saved MirrorMaker&rpar;](https://dev.to/hugolesta/the-kafka-incident-that-was-just-a-certificate-and-the-operator-that-saved-mirrormaker-p94)
-- [How to Solve ITMS-90035 Error: From Signature Chain Troubleshooting to IPA Regeneration](https://dev.to/uikit_ninja/how-to-solve-itms-90035-error-from-signature-chain-troubleshooting-to-ipa-regeneration-44j5)
+- [I Stopped Reading About SEO and Built a Password Generator Instead](https://dev.to/_63f383d3ef7194bca9b64/i-stopped-reading-about-seo-and-built-a-password-generator-instead-5clb)
+- [Cómo solucionar el error “Enable JavaScript and cookies to continue”](https://dev.to/erickeduardoramos03/como-solucionar-el-error-enable-javascript-and-cookies-to-continue-fbd)
+- [The Easiest Way to Look Up GeoIP in Laravel](https://dev.to/iproutdev/the-easiest-way-to-look-up-geoip-in-laravel-374o)
+- [From a 10-Minute Nap to 300+ Installs: The Story of My &#39;Restrict WP Upload Type&#39; Plugin](https://dev.to/kushang_tailor/from-a-10-minute-nap-to-300-installs-the-story-of-my-restrict-wp-upload-type-plugin-dgn)
 <!-- BLOG-POST-LIST:END -->
 
