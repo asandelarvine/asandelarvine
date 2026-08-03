@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An editable range can change without changing Word text](https://dev.to/sybilgambleyyu/an-editable-range-can-change-without-changing-word-text-532o)
-- [Germany&#39;s Energy Revolution: Wind and Solar Overtake Fossil Fuels for the First Time](https://dev.to/kaixintelligence/germanys-energy-revolution-wind-and-solar-overtake-fossil-fuels-for-the-first-time-1kpj)
-- [Celebrating 45 Years of Kermit: The Protocol That Refuses to Die, Now Reborn in C](https://dev.to/kaixintelligence/celebrating-45-years-of-kermit-the-protocol-that-refuses-to-die-now-reborn-in-c-5f54)
-- [Ten Breakthrough Advances in Mathematics and Theoretical Computer Science &lpar;2026&rpar;](https://dev.to/kaixintelligence/ten-breakthrough-advances-in-mathematics-and-theoretical-computer-science-2026-13ac)
+- [XML Tagging in Prompts: The Secret to Getting Better Output from Claude and GPT](https://dev.to/maryam_saba_792cdbcdb46fd/xml-tagging-in-prompts-the-secret-to-getting-better-output-from-claude-and-gpt-54e1)
+- [Building a security posture scanner with Next.js and Python](https://dev.to/dkls7777/building-a-security-posture-scanner-with-nextjs-and-python-5g5c)
+- [Why GitHub Cannot Paginate Through Millions of Repositories - Deep Pagination Explained](https://dev.to/mayank7924/why-github-silently-caps-your-search-at-1000-results-and-whats-actually-happening-underneath-1oik)
+- [A comment can be marked done without changing Word text](https://dev.to/sybilgambleyyu/a-comment-can-be-marked-done-without-changing-word-text-512o)
 <!-- BLOG-POST-LIST:END -->
 
