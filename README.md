@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DiffusionGemma Is Fast Because It Stops Pretending Text Has to Be Written Left to Right](https://dev.to/komo/diffusiongemma-is-fast-because-it-stops-pretending-text-has-to-be-written-left-to-right-2h2n)
-- [How I Built a Self-Employment Tax Calculator with Zero Dependencies](https://dev.to/leo_chang_4c726afdf3a87eb/how-i-built-a-self-employment-tax-calculator-with-zero-dependencies-5d6g)
-- [I Got Tired of Rebuilding FastAPI Projects, So I Built FastStrapy](https://dev.to/anoop_george/i-got-tired-of-rebuilding-fastapi-projects-so-i-built-faststrapy-18ml)
-- [.env vs .env.example: What&#39;s the Difference and Why You Need Both](https://dev.to/ujwala_dev/-env-vs-envexample-whats-the-difference-4gh7)
+- [Todo el mundo escribe qué reportar. Nadie escribe cómo no perder ninguno](https://dev.to/isazajuancarlos/todo-el-mundo-escribe-que-reportar-nadie-escribe-como-no-perder-ninguno-c05)
+- [como encontrar grupos de WhatsApp públicos com segurança](https://dev.to/gustavoschroderofc/como-encontrar-grupos-de-whatsapp-publicos-com-seguranca-5eb1)
+- [Browser vs Node — Where the Event Loop Actually Diverges &lpar;Part 2/3&rpar;](https://dev.to/aniket_misra_e47d1564ab7b/browser-vs-node-where-the-event-loop-actually-diverges-part-23-3j6c)
+- [My Agent Orchestrator Burned 1-2M Opus Tokens Per Task. Here&#39;s the Postmortem.](https://dev.to/akashy/my-agent-orchestrator-burned-1-2m-opus-tokens-per-task-heres-the-postmortem-2k7g)
 <!-- BLOG-POST-LIST:END -->
 
