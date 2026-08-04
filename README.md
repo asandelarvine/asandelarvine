@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [eve: agent AI senza “plumbing” &lpar;e con una struttura che sta in una cartella&rpar;](https://dev.to/frontendfacile/eve-agent-ai-senza-plumbing-e-con-una-struttura-che-sta-in-una-cartella-3gd6)
-- [Stop Reading Raw JSON: A Better Workflow for Debugging API Responses](https://dev.to/fastminify/stop-reading-raw-json-a-better-workflow-for-debugging-api-responses-4i7f)
-- [Cara Mengambil File JSON Menentukan Bagaimana Data Diproses](https://dev.to/mudienub/cara-mengambil-file-json-menentukan-bagaimana-data-diproses-15f4)
-- [Reliable estimate of how many users block iFrames?](https://dev.to/lauri9819/reliable-estimate-of-how-many-users-block-iframes-i9g)
+- [ollanode](https://dev.to/venk1122/ollanode-27pc)
+- [Most CSS Resets Solve the Wrong Problem](https://dev.to/ortizfranklindev/most-css-resets-solve-the-wrong-problem-1aj9)
+- [Convert MT940 to xml](https://dev.to/ni_klaus_4eb1581f851becee/convert-mt940-to-xml-2d41)
+- [I Reviewed 100 Reddit Threads About GPU Clouds. Price Was Only Part of the Story.](https://dev.to/highreso/i-reviewed-100-reddit-threads-about-gpu-clouds-price-was-only-part-of-the-story-n98)
 <!-- BLOG-POST-LIST:END -->
 
