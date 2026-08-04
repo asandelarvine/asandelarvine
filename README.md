@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ollanode](https://dev.to/venk1122/ollanode-27pc)
-- [Most CSS Resets Solve the Wrong Problem](https://dev.to/ortizfranklindev/most-css-resets-solve-the-wrong-problem-1aj9)
-- [Convert MT940 to xml](https://dev.to/ni_klaus_4eb1581f851becee/convert-mt940-to-xml-2d41)
-- [I Reviewed 100 Reddit Threads About GPU Clouds. Price Was Only Part of the Story.](https://dev.to/highreso/i-reviewed-100-reddit-threads-about-gpu-clouds-price-was-only-part-of-the-story-n98)
+- [Pricing Your First Product: Why Free Is the Most Expensive Number](https://dev.to/senternet/pricing-your-first-product-why-free-is-the-most-expensive-number-4c6l)
+- [CVE-2026-8457: WooCommerce Social Login Auth Bypass — Forged Apple JWTs Take Over Accounts](https://dev.to/stanleya/cve-2026-8457-woocommerce-social-login-auth-bypass-forged-apple-jwts-take-over-accounts-14m6)
+- [Render invoices to PDF with a GET request instead of shipping Chromium](https://dev.to/clausenetizen/render-invoices-to-pdf-with-a-get-request-instead-of-shipping-chromium-39o7)
+- [An MCP server on Cloudflare&#39;s free plan, measured against the 10 ms CPU limit](https://dev.to/301st/an-mcp-server-on-cloudflares-free-plan-measured-against-the-10-ms-cpu-limit-468b)
 <!-- BLOG-POST-LIST:END -->
 
