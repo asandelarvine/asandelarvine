@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Incremental Graph Updates for Corporate Knowledge Graphs: Three Problems Batch Pipelines Can&#39;t Solve](https://dev.to/hannune/incremental-graph-updates-for-corporate-knowledge-graphs-three-problems-batch-pipelines-cant-solve-2phm)
-- [I locked my AI&#39;s design output with JSON. It worked perfectly — and everything looked like a spreadsheet](https://dev.to/mxhlix/i-locked-my-ais-design-output-with-json-it-worked-perfectly-and-everything-looked-like-a-14kd)
-- [How I Built a Smart Eco-Air Monitor Without Knowing C++ &lpar;And How You Can Build Anything Too&rpar;](https://dev.to/toemaster3103/how-i-built-a-smart-eco-air-monitor-without-knowing-c-and-how-you-can-build-anything-too-7d4)
-- [The J-Space: How I Learned To Read An LLM&#39;s Mind](https://dev.to/maiasalti/the-j-space-how-i-learned-to-read-an-llms-mind-4foj)
+- [Pulse - AI Debugger - Beta Testers Wanted](https://dev.to/yash_patel_988e86e072314e/pulse-ai-debugger-beta-testers-wanted-45b3)
+- [Higgsfield-level image &amp; video quality, but inside Claude Code and billed by Google. generate-nanobanana quotes the cost before every paid run and logs prompt + seed beside each file. https://github.com/AntonioCardenas/generate-nanobanana feedback welcome.](https://dev.to/antoniocardenas/higgsfield-level-image-video-quality-but-inside-claude-code-and-billed-by-google-57oa)
+- [From Nobody to GIS: How I Found My Path to Environmental Data Analytics](https://dev.to/deannamellon1995/from-nobody-to-gis-how-i-found-my-path-to-environmental-data-analytics-2nin)
+- [Kernel &amp; Embedded News: Linux 7.2 Nears Release; Swap I/O Rework](https://dev.to/raghu_bharadwaj_404e60eb0c/kernel-embedded-news-linux-72-nears-release-swap-io-rework-52e0)
 <!-- BLOG-POST-LIST:END -->
 
