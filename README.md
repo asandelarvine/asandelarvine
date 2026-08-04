@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pulse - AI Debugger - Beta Testers Wanted](https://dev.to/yash_patel_988e86e072314e/pulse-ai-debugger-beta-testers-wanted-45b3)
-- [Higgsfield-level image &amp; video quality, but inside Claude Code and billed by Google. generate-nanobanana quotes the cost before every paid run and logs prompt + seed beside each file. https://github.com/AntonioCardenas/generate-nanobanana feedback welcome.](https://dev.to/antoniocardenas/higgsfield-level-image-video-quality-but-inside-claude-code-and-billed-by-google-57oa)
-- [From Nobody to GIS: How I Found My Path to Environmental Data Analytics](https://dev.to/deannamellon1995/from-nobody-to-gis-how-i-found-my-path-to-environmental-data-analytics-2nin)
-- [Kernel &amp; Embedded News: Linux 7.2 Nears Release; Swap I/O Rework](https://dev.to/raghu_bharadwaj_404e60eb0c/kernel-embedded-news-linux-72-nears-release-swap-io-rework-52e0)
+- [eve: agent AI senza “plumbing” &lpar;e con una struttura che sta in una cartella&rpar;](https://dev.to/frontendfacile/eve-agent-ai-senza-plumbing-e-con-una-struttura-che-sta-in-una-cartella-3gd6)
+- [Stop Reading Raw JSON: A Better Workflow for Debugging API Responses](https://dev.to/fastminify/stop-reading-raw-json-a-better-workflow-for-debugging-api-responses-4i7f)
+- [Cara Mengambil File JSON Menentukan Bagaimana Data Diproses](https://dev.to/mudienub/cara-mengambil-file-json-menentukan-bagaimana-data-diproses-15f4)
+- [Reliable estimate of how many users block iFrames?](https://dev.to/lauri9819/reliable-estimate-of-how-many-users-block-iframes-i9g)
 <!-- BLOG-POST-LIST:END -->
 
