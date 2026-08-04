@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Todo el mundo escribe qué reportar. Nadie escribe cómo no perder ninguno](https://dev.to/isazajuancarlos/todo-el-mundo-escribe-que-reportar-nadie-escribe-como-no-perder-ninguno-c05)
-- [como encontrar grupos de WhatsApp públicos com segurança](https://dev.to/gustavoschroderofc/como-encontrar-grupos-de-whatsapp-publicos-com-seguranca-5eb1)
-- [Browser vs Node — Where the Event Loop Actually Diverges &lpar;Part 2/3&rpar;](https://dev.to/aniket_misra_e47d1564ab7b/browser-vs-node-where-the-event-loop-actually-diverges-part-23-3j6c)
-- [My Agent Orchestrator Burned 1-2M Opus Tokens Per Task. Here&#39;s the Postmortem.](https://dev.to/akashy/my-agent-orchestrator-burned-1-2m-opus-tokens-per-task-heres-the-postmortem-2k7g)
+- [Keyv Supply Chain Attack: What You Need to Know Now](https://dev.to/onsen/keyv-supply-chain-attack-what-you-need-to-know-now-1466)
+- [🚀 Venturing Into DevOps as a Beginner? Here’s What I Wish I Knew First..](https://dev.to/henryigwe/venturing-into-devops-as-a-beginner-heres-what-i-wish-i-knew-first-41ih)
+- [The Shape of Knowledge](https://dev.to/justcatdev/the-shape-of-knowledge-2kab)
+- [Self-Hosting AI Models on a Raspberry Pi 5: A Complete Guide to Free, Private, Local AI Inference](https://dev.to/trismegistus/self-hosting-ai-models-on-a-raspberry-pi-5-a-complete-guide-to-free-private-local-ai-inference-24p3)
 <!-- BLOG-POST-LIST:END -->
 
