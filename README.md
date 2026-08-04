@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Proves Your App Runs. Kubernetes Proves It&#39;s Operable.](https://dev.to/arbythecoder/docker-proves-your-app-runs-kubernetes-proves-its-operable-439i)
-- [Practice Real-World Testing Scenarios for QA: Challenge 3 - Visual Testing with API Mocking](https://dev.to/abigail_armijo/practice-real-world-testing-scenarios-for-qa-challenge-3-visual-testing-with-api-mocking-5f6i)
-- [Building Deterministic Multi Agent Workflows with LangGraph](https://dev.to/muhammad_aslam_ff65e35553/building-deterministic-multi-agent-workflows-with-langgraph-4m0i)
-- [Qwen3.8-Max Just Went GA: A Developer&#39;s Guide to Alibaba&#39;s 2.4T Model](https://dev.to/arshtechpro/qwen38-max-just-went-ga-a-developers-guide-to-alibabas-24t-model-ff3)
+- [Incremental Graph Updates for Corporate Knowledge Graphs: Three Problems Batch Pipelines Can&#39;t Solve](https://dev.to/hannune/incremental-graph-updates-for-corporate-knowledge-graphs-three-problems-batch-pipelines-cant-solve-2phm)
+- [I locked my AI&#39;s design output with JSON. It worked perfectly — and everything looked like a spreadsheet](https://dev.to/mxhlix/i-locked-my-ais-design-output-with-json-it-worked-perfectly-and-everything-looked-like-a-14kd)
+- [How I Built a Smart Eco-Air Monitor Without Knowing C++ &lpar;And How You Can Build Anything Too&rpar;](https://dev.to/toemaster3103/how-i-built-a-smart-eco-air-monitor-without-knowing-c-and-how-you-can-build-anything-too-7d4)
+- [The J-Space: How I Learned To Read An LLM&#39;s Mind](https://dev.to/maiasalti/the-j-space-how-i-learned-to-read-an-llms-mind-4foj)
 <!-- BLOG-POST-LIST:END -->
 
