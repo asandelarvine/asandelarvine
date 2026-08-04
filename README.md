@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Keyv Supply Chain Attack: What You Need to Know Now](https://dev.to/onsen/keyv-supply-chain-attack-what-you-need-to-know-now-1466)
-- [🚀 Venturing Into DevOps as a Beginner? Here’s What I Wish I Knew First..](https://dev.to/henryigwe/venturing-into-devops-as-a-beginner-heres-what-i-wish-i-knew-first-41ih)
-- [The Shape of Knowledge](https://dev.to/justcatdev/the-shape-of-knowledge-2kab)
-- [Self-Hosting AI Models on a Raspberry Pi 5: A Complete Guide to Free, Private, Local AI Inference](https://dev.to/trismegistus/self-hosting-ai-models-on-a-raspberry-pi-5-a-complete-guide-to-free-private-local-ai-inference-24p3)
+- [Notion meeting notes em sistemas Linux, ou, como o PipeWire venceu a preguiça de portar o Notion para Linux.](https://dev.to/guilhermeterriaga/notion-meeting-notes-em-sistemas-linux-2749)
+- [How to Configure a Custom LLM Proxy in OpenOPC &lpar;and Debug LiteLLM&rpar;](https://dev.to/fanioz/how-to-configure-a-custom-llm-proxy-in-openopc-and-debug-litellm-5m6)
+- [My Agent Said the Page Was Live. The Page Said &#39;We Are Closed.&#39;](https://dev.to/onurkesim/my-agent-said-the-page-was-live-the-page-said-we-are-closed-f75)
+- [Bridging the FE/BE Divide: Why I Built a Zero-Dependency Component Engine for Vanilla HTML](https://dev.to/mtz1406/bridging-the-febe-divide-why-i-built-a-zero-dependency-component-engine-for-vanilla-html-3h8h)
 <!-- BLOG-POST-LIST:END -->
 
