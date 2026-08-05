@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Linxr | Part 9 — Dynamic Storage Expansion &amp; Automatic resize2fs on Boot](https://dev.to/ai2th/linxr-part-9-dynamic-storage-expansion-automatic-resize2fs-on-boot-3o5c)
-- [Linxr | Part 8 — Fixing Network Latency &amp; SLIRP Terminal Slowness](https://dev.to/ai2th/linxr-part-8-fixing-network-latency-slirp-terminal-slowness-1l7o)
-- [The Random Forest Cheat Sheet: Everything on One Page](https://dev.to/sachin_krrajput/the-random-forest-cheat-sheet-everything-on-one-page-9gg)
-- [Necrophos.nvim: Dota 2 Heroes Neovim Color Schemes](https://dev.to/electromidz/necrophosnvim-dota-2-heroes-neovim-color-schemes-5a6f)
+- [Hub &amp; Switch &amp; Router](https://dev.to/min38/hub-switch-router-4g82)
+- [How Stripe MPP Uses HTTP 402 to Authenticate and Authorize Machine Payments](https://dev.to/synfinity-dynamics-pvt-ltd/how-stripe-mpp-uses-http-402-to-authenticate-and-authorize-machine-payments-1kpo)
+- [O abismo entre cuidar do usuário e vender atenção: por que precisamos falar sobre dark patterns](https://dev.to/pddesign/o-abismo-entre-cuidar-do-usuario-e-vender-atencao-por-que-precisamos-falar-sobre-dark-patterns-5h1h)
+- [Why Stateless MCP Is Winning: The Shift That Recaptured My Interest](https://dev.to/kaixintelligence/why-stateless-mcp-is-winning-the-shift-that-recaptured-my-interest-462h)
 <!-- BLOG-POST-LIST:END -->
 
