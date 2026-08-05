@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hub &amp; Switch &amp; Router](https://dev.to/min38/hub-switch-router-4g82)
-- [How Stripe MPP Uses HTTP 402 to Authenticate and Authorize Machine Payments](https://dev.to/synfinity-dynamics-pvt-ltd/how-stripe-mpp-uses-http-402-to-authenticate-and-authorize-machine-payments-1kpo)
-- [O abismo entre cuidar do usuário e vender atenção: por que precisamos falar sobre dark patterns](https://dev.to/pddesign/o-abismo-entre-cuidar-do-usuario-e-vender-atencao-por-que-precisamos-falar-sobre-dark-patterns-5h1h)
-- [Why Stateless MCP Is Winning: The Shift That Recaptured My Interest](https://dev.to/kaixintelligence/why-stateless-mcp-is-winning-the-shift-that-recaptured-my-interest-462h)
+- [# BlazeMeter alternatives: top performance testing tools in 2026](https://dev.to/gatling/-blazemeter-alternatives-top-performance-testing-tools-in-2026-49gh)
+- [Google AI Plus Broadens Availability as Free Gemini Access Varies by Region](https://dev.to/alifar/google-ai-plus-broadens-availability-as-free-gemini-access-varies-by-region-5h0h)
+- [Mistral Releases Shieldstral, a 3B Open-Weight Model for On-Device Content Safety](https://dev.to/alifar/mistral-releases-shieldstral-a-3b-open-weight-model-for-on-device-content-safety-280p)
+- [My Tool-Calling Loop Worked Fine, Until Compliance Wanted a Second Model to Check It](https://dev.to/deep-27/my-tool-calling-loop-worked-fine-until-compliance-wanted-a-second-model-to-check-it-27mj)
 <!-- BLOG-POST-LIST:END -->
 
