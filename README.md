@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI Avatar Workflows: Comparing Artlist, HeyGen, and Synthesia from a Developer&#39;s Perspective](https://dev.to/daniel-seed-digital/building-ai-avatar-workflows-comparing-artlist-heygen-and-synthesia-from-a-developers-45cj)
-- [Thou Shall Not &#39;ls -la&#39;](https://dev.to/coldstorage/thou-shall-not-ls-la-5dph)
-- [Compact Strings Cut Character Storage in Half](https://dev.to/codenameone/compact-strings-cut-character-storage-in-half-542h)
-- [How to Validate a Startup Idea on Reddit &lpar;Founder&#39;s Guide&rpar;](https://dev.to/sclaydon/how-to-validate-a-startup-idea-on-reddit-founders-guide-3nap)
+- [A pragmatic view on AI and mostly revolutionary tech in general](https://dev.to/sriram_95722c4cc4c32b9fc4/a-pragmatic-view-on-ai-and-mostly-revolutionary-tech-in-general-4ia1)
+- [I was released from the role of a lifetime. So I built an AI estate that runs while I sleep.](https://dev.to/jenatechio/i-was-released-from-the-role-of-a-lifetime-so-i-built-an-ai-estate-that-runs-while-i-sleep-bp)
+- [Stop Your AI Coding CLI From Wasting Tokens on &quot;Hi&quot; and &quot;Thanks&quot;](https://dev.to/qainsights/stop-your-ai-coding-cli-from-wasting-tokens-on-hi-and-thanks-4f6b)
+- [Building LOKA: From ESP32 Firmware to a Live Map That Tracks Animals in Real Time](https://dev.to/abdeldjaouadfarid/building-loka-from-esp32-firmware-to-a-live-map-that-tracks-animals-in-real-time-j4c)
 <!-- BLOG-POST-LIST:END -->
 
