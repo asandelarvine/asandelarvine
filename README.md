@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Snowflake to Databricks: what the migration actually costs you](https://dev.to/zephico/snowflake-to-databricks-what-the-migration-actually-costs-you-5e09)
-- [Keep Docker Engine as Your Kubernetes Runtime on Ubuntu with cri-dockerd](https://dev.to/jjoyneriv/keep-docker-engine-as-your-kubernetes-runtime-on-ubuntu-with-cri-dockerd-18de)
-- [Construí un sistema de cotizaciones real con .NET 10 y Blazor Server — y esto fue lo que aprendí](https://dev.to/kiddtobal/construi-un-sistema-de-cotizaciones-real-con-net-10-y-blazor-server-y-esto-fue-lo-que-aprendi-4il3)
-- [Escaping the Event Loop — A Deep Dive into worker_threads &lpar;Part 3/3&rpar;](https://dev.to/aniket_misra_e47d1564ab7b/escaping-the-event-loop-a-deep-dive-into-workerthreads-part-33-11oj)
+- [The AI decided &quot;we&#39;re allowed to use this&quot; — an adversarial agent caught contract data seconds before it bled into another project](https://dev.to/jun_uen0/the-ai-decided-were-allowed-to-use-this-an-adversarial-agent-caught-contract-data-seconds-1n0d)
+- [EU AI Act Timeline: What AI Vendors and Developers Must Track Through 2026](https://dev.to/alifar/eu-ai-act-timeline-what-ai-vendors-and-developers-must-track-through-2026-4413)
+- [Finding Exposed Services &lpar;and Vulnerabilities&rpar; on Your Network: A Practical ScanSearch Guide](https://dev.to/devyjones/finding-exposed-services-and-vulnerabilities-on-your-network-a-practical-scansearch-guide-20e3)
+- [Designing a Reliable PDF Translation Job Pipeline in TypeScript](https://dev.to/noahchenbuilds/designing-a-reliable-pdf-translation-job-pipeline-in-typescript-1i04)
 <!-- BLOG-POST-LIST:END -->
 
