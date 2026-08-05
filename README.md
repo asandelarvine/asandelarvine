@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A pragmatic view on AI and mostly revolutionary tech in general](https://dev.to/sriram_95722c4cc4c32b9fc4/a-pragmatic-view-on-ai-and-mostly-revolutionary-tech-in-general-4ia1)
-- [I was released from the role of a lifetime. So I built an AI estate that runs while I sleep.](https://dev.to/jenatechio/i-was-released-from-the-role-of-a-lifetime-so-i-built-an-ai-estate-that-runs-while-i-sleep-bp)
-- [Stop Your AI Coding CLI From Wasting Tokens on &quot;Hi&quot; and &quot;Thanks&quot;](https://dev.to/qainsights/stop-your-ai-coding-cli-from-wasting-tokens-on-hi-and-thanks-4f6b)
-- [Building LOKA: From ESP32 Firmware to a Live Map That Tracks Animals in Real Time](https://dev.to/abdeldjaouadfarid/building-loka-from-esp32-firmware-to-a-live-map-that-tracks-animals-in-real-time-j4c)
+- [Left Brain vs Right Brain in Trading: What Science Says](https://dev.to/shaktitiwari/left-brain-vs-right-brain-in-trading-what-science-says-758)
+- [General Challenge Updates Moving Forward](https://dev.to/thepracticaldev/general-challenge-updates-moving-forward-5h39)
+- [Best Amazon Redshift alternatives &lpar;2026&rpar; for real-time analytics: cost, tuning, and latency](https://dev.to/dataengineeringguide/redshift-alternatives-2026-2k6n)
+- [Good QA Systems Reduce Ambiguity](https://dev.to/sleepyfalcon247/good-qa-systems-reduce-ambiguity-1dci)
 <!-- BLOG-POST-LIST:END -->
 
