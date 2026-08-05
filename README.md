@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI decided &quot;we&#39;re allowed to use this&quot; — an adversarial agent caught contract data seconds before it bled into another project](https://dev.to/jun_uen0/the-ai-decided-were-allowed-to-use-this-an-adversarial-agent-caught-contract-data-seconds-1n0d)
-- [EU AI Act Timeline: What AI Vendors and Developers Must Track Through 2026](https://dev.to/alifar/eu-ai-act-timeline-what-ai-vendors-and-developers-must-track-through-2026-4413)
-- [Finding Exposed Services &lpar;and Vulnerabilities&rpar; on Your Network: A Practical ScanSearch Guide](https://dev.to/devyjones/finding-exposed-services-and-vulnerabilities-on-your-network-a-practical-scansearch-guide-20e3)
-- [Designing a Reliable PDF Translation Job Pipeline in TypeScript](https://dev.to/noahchenbuilds/designing-a-reliable-pdf-translation-job-pipeline-in-typescript-1i04)
+- [Linxr | Part 9 — Dynamic Storage Expansion &amp; Automatic resize2fs on Boot](https://dev.to/ai2th/linxr-part-9-dynamic-storage-expansion-automatic-resize2fs-on-boot-3o5c)
+- [Linxr | Part 8 — Fixing Network Latency &amp; SLIRP Terminal Slowness](https://dev.to/ai2th/linxr-part-8-fixing-network-latency-slirp-terminal-slowness-1l7o)
+- [The Random Forest Cheat Sheet: Everything on One Page](https://dev.to/sachin_krrajput/the-random-forest-cheat-sheet-everything-on-one-page-9gg)
+- [Necrophos.nvim: Dota 2 Heroes Neovim Color Schemes](https://dev.to/electromidz/necrophosnvim-dota-2-heroes-neovim-color-schemes-5a6f)
 <!-- BLOG-POST-LIST:END -->
 
