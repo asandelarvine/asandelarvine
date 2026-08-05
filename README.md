@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Left Brain vs Right Brain in Trading: What Science Says](https://dev.to/shaktitiwari/left-brain-vs-right-brain-in-trading-what-science-says-758)
-- [General Challenge Updates Moving Forward](https://dev.to/thepracticaldev/general-challenge-updates-moving-forward-5h39)
-- [Best Amazon Redshift alternatives &lpar;2026&rpar; for real-time analytics: cost, tuning, and latency](https://dev.to/dataengineeringguide/redshift-alternatives-2026-2k6n)
-- [Good QA Systems Reduce Ambiguity](https://dev.to/sleepyfalcon247/good-qa-systems-reduce-ambiguity-1dci)
+- [SNS vs SQS vs Kinesis vs MSK vs EventBridge vs RabbitMQ: An Architect&#39;s Decision Matrix](https://dev.to/swethagolla/sns-vs-sqs-vs-kinesis-vs-msk-vs-eventbridge-vs-rabbitmq-an-architects-decision-matrix-510p)
+- [Mecha, my first AI agent](https://dev.to/kuyawa/mecha-my-firt-ai-agent-cii)
+- [🥈 React Performance Tips: 12 Ways to Make Your App Faster](https://dev.to/joodi/react-performance-tips-12-ways-to-make-your-app-faster-5bop)
+- [Breaking the Browser Sandbox: How to Build Native Desktop Automation Agents with Node.js and C++](https://dev.to/programmingcentral/breaking-the-browser-sandbox-how-to-build-native-desktop-automation-agents-with-nodejs-and-c-3h81)
 <!-- BLOG-POST-LIST:END -->
 
