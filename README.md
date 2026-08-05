@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Notion meeting notes em sistemas Linux, ou, como o PipeWire venceu a preguiça de portar o Notion para Linux.](https://dev.to/guilhermeterriaga/notion-meeting-notes-em-sistemas-linux-2749)
-- [How to Configure a Custom LLM Proxy in OpenOPC &lpar;and Debug LiteLLM&rpar;](https://dev.to/fanioz/how-to-configure-a-custom-llm-proxy-in-openopc-and-debug-litellm-5m6)
-- [My Agent Said the Page Was Live. The Page Said &#39;We Are Closed.&#39;](https://dev.to/onurkesim/my-agent-said-the-page-was-live-the-page-said-we-are-closed-f75)
-- [Bridging the FE/BE Divide: Why I Built a Zero-Dependency Component Engine for Vanilla HTML](https://dev.to/mtz1406/bridging-the-febe-divide-why-i-built-a-zero-dependency-component-engine-for-vanilla-html-3h8h)
+- [Snowflake to Databricks: what the migration actually costs you](https://dev.to/zephico/snowflake-to-databricks-what-the-migration-actually-costs-you-5e09)
+- [Keep Docker Engine as Your Kubernetes Runtime on Ubuntu with cri-dockerd](https://dev.to/jjoyneriv/keep-docker-engine-as-your-kubernetes-runtime-on-ubuntu-with-cri-dockerd-18de)
+- [Construí un sistema de cotizaciones real con .NET 10 y Blazor Server — y esto fue lo que aprendí](https://dev.to/kiddtobal/construi-un-sistema-de-cotizaciones-real-con-net-10-y-blazor-server-y-esto-fue-lo-que-aprendi-4il3)
+- [Escaping the Event Loop — A Deep Dive into worker_threads &lpar;Part 3/3&rpar;](https://dev.to/aniket_misra_e47d1564ab7b/escaping-the-event-loop-a-deep-dive-into-workerthreads-part-33-11oj)
 <!-- BLOG-POST-LIST:END -->
 
