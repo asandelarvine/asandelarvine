@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [khunt: SQL Injection to Resident Threat Inside Oracle Database Stealing Credentials with SYSTEM Privileges](https://dev.to/anoymask/khunt-sql-injection-to-resident-threat-inside-oracle-database-stealing-credentials-with-system-431j)
-- [Managing production, preview, and runtimeVersion after introducing EAS Update](https://dev.to/hirodeath/managing-production-preview-and-runtimeversion-after-introducing-eas-update-1k0c)
-- [Two gotchas when your Laravel app shells out to a CLI](https://dev.to/nasrulhazim/two-gotchas-when-your-laravel-app-shells-out-to-a-cli-2n2l)
-- [Dev Log: 2026-08-05 — reverse proxies, email journeys, and a tenant that wasn&#39;t there](https://dev.to/nasrulhazim/dev-log-2026-08-05-reverse-proxies-email-journeys-and-a-tenant-that-wasnt-there-1o9b)
+- [I Built a Free Browser-Based Image Toolkit for Bloggers &lpar;No Signup Needed&rpar;](https://dev.to/cheap_spyder_56482a588c9c/i-built-a-free-browser-based-image-toolkit-for-bloggers-no-signup-needed-2ho5)
+- [Distributed Transactions: The Saga Pattern in Laravel 🎻](https://dev.to/iprajapatiparesh/distributed-transactions-the-saga-pattern-in-laravel-2h2p)
+- [5 Web Development Services You Can Avail with Node.js](https://dev.to/sahil_khurana_486f374ecf2/5-web-development-services-you-can-avail-with-nodejs-3pnd)
+- [Four Ways to Build an AI Agent, and What Each Costs](https://dev.to/studiomeyer_io/four-ways-to-build-an-ai-agent-and-what-each-costs-3nh3)
 <!-- BLOG-POST-LIST:END -->
 
