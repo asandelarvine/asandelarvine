@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From JWT-SVID to Entra Agent ID: a working SPIFFE PoC](https://dev.to/astaykov/from-jwt-svid-to-entra-agent-id-a-working-spiffe-poc-ic4)
-- [Madurai Soul Trail: An Immersive Journey Through Tamil Nadu&#39;s Food Capital](https://dev.to/itsme_deepika/madurai-soul-trail-an-immersive-journey-through-tamil-nadus-food-capital-3ak5)
-- [Create a ZIP File in the Browser with JavaScript — No Backend](https://dev.to/ryan_e200dd10ede43c8fc2e4/create-a-zip-file-in-the-browser-with-javascript-no-backend-5e14)
-- [Your dashboard says it is live. Here is a 250-line script that asks a stranger.](https://dev.to/marcosgcuenta1/your-dashboard-says-it-is-live-here-is-a-250-line-script-that-asks-a-stranger-53lp)
+- [How to Make Your App Look Good When You’re Not a Designer](https://dev.to/imforja/how-to-make-your-app-look-good-when-youre-not-a-designer-4di9)
+- [This is a submission for [Frontend Challenge - Comfort Food Edition, Perfect Landing] 😊](https://dev.to/edmundsparrow/this-is-a-submission-for-frontend-challenge-comfort-food-edition-perfect-landing-1p8c)
+- [4,407 Rockwell PLCs Sit on the Public Internet, 22 in Cities Hit by Water Utility Attacks](https://dev.to/etairos/4407-rockwell-plcs-sit-on-the-public-internet-22-in-cities-hit-by-water-utility-attacks-5337)
+- [Java CMYK to RGB Conversion – Speed Comparison](https://dev.to/idrsolutions/java-cmyk-to-rgb-conversion-speed-comparison-1onl)
 <!-- BLOG-POST-LIST:END -->
 
