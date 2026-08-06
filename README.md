@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Cron vs Systemd Timers vs daemontools — Understanding the Evolution of Linux Job Scheduling &amp; Service Management](https://dev.to/deekay99/cron-vs-systemd-timers-vs-daemontools-understanding-the-evolution-of-linux-job-scheduling--31mm)
-- [Ahrefs MCP Server: Setup for Claude, Codex and the Rest](https://dev.to/studiomeyer_io/ahrefs-mcp-server-setup-for-claude-codex-and-the-rest-l46)
-- [I built a time-travel debugger for Zustand — and it caught three bugs I&#39;d already shipped](https://dev.to/kuba_opoczka_a6fb453bac5f/i-built-a-time-travel-debugger-for-zustand-and-it-caught-three-bugs-id-already-shipped-1cce)
-- [I built GitCat 1.0 to replace Git Extensions for large repositories](https://dev.to/zangjiucheng/i-built-gitcat-10-to-replace-git-extensions-for-large-repositories-1k13)
+- [khunt: SQL Injection to Resident Threat Inside Oracle Database Stealing Credentials with SYSTEM Privileges](https://dev.to/anoymask/khunt-sql-injection-to-resident-threat-inside-oracle-database-stealing-credentials-with-system-431j)
+- [Managing production, preview, and runtimeVersion after introducing EAS Update](https://dev.to/hirodeath/managing-production-preview-and-runtimeversion-after-introducing-eas-update-1k0c)
+- [Two gotchas when your Laravel app shells out to a CLI](https://dev.to/nasrulhazim/two-gotchas-when-your-laravel-app-shells-out-to-a-cli-2n2l)
+- [Dev Log: 2026-08-05 — reverse proxies, email journeys, and a tenant that wasn&#39;t there](https://dev.to/nasrulhazim/dev-log-2026-08-05-reverse-proxies-email-journeys-and-a-tenant-that-wasnt-there-1o9b)
 <!-- BLOG-POST-LIST:END -->
 
