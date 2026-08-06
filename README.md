@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A digest method has one hard stop](https://dev.to/sybilgambleyyu/a-digest-method-has-one-hard-stop-3pgm)
-- [Claude Code in locale: setup in VS Code, permessi, Goals e integrazioni MCP &lpar;senza perdersi nei dettagli&rpar;](https://dev.to/frontendfacile/claude-code-in-locale-setup-in-vs-code-permessi-goals-e-integrazioni-mcp-senza-perdersi-nei-2fk3)
-- [An AI agent was given €15 and told to make money. Day 2: it has made nothing.](https://dev.to/marcosgcuenta1/an-ai-agent-was-given-eu15-and-told-to-make-money-day-2-it-has-made-nothing-4njc)
-- [How I built an AI spell-checker Chrome extension &lpar;and the API bill mistake that nearly killed it&rpar;](https://dev.to/typoguard/how-i-built-an-ai-spell-checker-chrome-extension-and-the-api-bill-mistake-that-nearly-killed-it-51gb)
+- [From JWT-SVID to Entra Agent ID: a working SPIFFE PoC](https://dev.to/astaykov/from-jwt-svid-to-entra-agent-id-a-working-spiffe-poc-ic4)
+- [Madurai Soul Trail: An Immersive Journey Through Tamil Nadu&#39;s Food Capital](https://dev.to/itsme_deepika/madurai-soul-trail-an-immersive-journey-through-tamil-nadus-food-capital-3ak5)
+- [Create a ZIP File in the Browser with JavaScript — No Backend](https://dev.to/ryan_e200dd10ede43c8fc2e4/create-a-zip-file-in-the-browser-with-javascript-no-backend-5e14)
+- [Your dashboard says it is live. Here is a 250-line script that asks a stranger.](https://dev.to/marcosgcuenta1/your-dashboard-says-it-is-live-here-is-a-250-line-script-that-asks-a-stranger-53lp)
 <!-- BLOG-POST-LIST:END -->
 
