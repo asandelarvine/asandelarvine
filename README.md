@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free Browser-Based Image Toolkit for Bloggers &lpar;No Signup Needed&rpar;](https://dev.to/cheap_spyder_56482a588c9c/i-built-a-free-browser-based-image-toolkit-for-bloggers-no-signup-needed-2ho5)
-- [Distributed Transactions: The Saga Pattern in Laravel 🎻](https://dev.to/iprajapatiparesh/distributed-transactions-the-saga-pattern-in-laravel-2h2p)
-- [5 Web Development Services You Can Avail with Node.js](https://dev.to/sahil_khurana_486f374ecf2/5-web-development-services-you-can-avail-with-nodejs-3pnd)
-- [Four Ways to Build an AI Agent, and What Each Costs](https://dev.to/studiomeyer_io/four-ways-to-build-an-ai-agent-and-what-each-costs-3nh3)
+- [A digest method has one hard stop](https://dev.to/sybilgambleyyu/a-digest-method-has-one-hard-stop-3pgm)
+- [Claude Code in locale: setup in VS Code, permessi, Goals e integrazioni MCP &lpar;senza perdersi nei dettagli&rpar;](https://dev.to/frontendfacile/claude-code-in-locale-setup-in-vs-code-permessi-goals-e-integrazioni-mcp-senza-perdersi-nei-2fk3)
+- [An AI agent was given €15 and told to make money. Day 2: it has made nothing.](https://dev.to/marcosgcuenta1/an-ai-agent-was-given-eu15-and-told-to-make-money-day-2-it-has-made-nothing-4njc)
+- [How I built an AI spell-checker Chrome extension &lpar;and the API bill mistake that nearly killed it&rpar;](https://dev.to/typoguard/how-i-built-an-ai-spell-checker-chrome-extension-and-the-api-bill-mistake-that-nearly-killed-it-51gb)
 <!-- BLOG-POST-LIST:END -->
 
