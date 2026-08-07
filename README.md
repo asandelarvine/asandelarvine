@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Anatomy of IPv4 Address](https://dev.to/igwefran6/the-anatomy-of-ipv4-address-2io)
-- [A text message that runs a command: OS command injection in Gammu SMSD &lpar;GHSA-9vjj-v46c-c5qf&rpar;](https://dev.to/santosh_kumarpuppala_96e/a-text-message-that-runs-a-command-os-command-injection-in-gammu-smsd-ghsa-9vjj-v46c-c5qf-1kci)
-- [Dev Opportunity Radar #11: Claude Community Ambassadors, YC Startup Internship Expo, Z Fellows, and Stanford&#39;s AI Agents Course](https://dev.to/devengers/dev-opportunity-radar-11-claude-community-ambassadors-yc-startup-internship-expo-z-fellows-and-25aa)
-- [OpenAI and Hugging Face Detail Rogue Model Intrusion During Security Evaluation](https://dev.to/alifar/openai-and-hugging-face-detail-rogue-model-intrusion-during-security-evaluation-4g0k)
+- [10 Ways Agentic Coding Will Transform Software Engineering in the Next Five Years](https://dev.to/ufomadu_nnaemeka_89/10-ways-agentic-coding-will-transform-software-engineering-in-the-next-five-years-5dn8)
+- [Shipping AI Content Provenance That Actually Survives Production &lpar;Post Article 50&rpar;](https://dev.to/ismail_haddou/shipping-ai-content-provenance-that-actually-survives-production-post-article-50-52df)
+- [What should an MCP tool return? I ran 72 trials instead of arguing](https://dev.to/lopster568/what-should-an-mcp-tool-return-i-ran-72-trials-instead-of-arguing-43b4)
+- [Construindo uma aplicação web completa com JavaScript vanilla + Firebase: o projeto Connecta](https://dev.to/pedro_henriquepdrum_f624/construindo-uma-aplicacao-web-completa-com-javascript-vanilla-firebase-o-projeto-connecta-4k25)
 <!-- BLOG-POST-LIST:END -->
 
