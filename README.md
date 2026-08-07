@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Track Your Brand&#39;s Visibility in ChatGPT, Gemini, Perplexity &amp; Claude &lpar;With Code&rpar;](https://dev.to/krutika_galvankar/how-to-track-your-brands-visibility-in-chatgpt-gemini-perplexity-claude-with-code-published-4ij7)
-- [Mastering LINQ in C#: 12 Practical Examples Every .NET Developer Should Know](https://dev.to/toolbenchapp/mastering-linq-in-c-12-practical-examples-every-net-developer-should-know-id5)
-- [The Hidden Job Market: Why Thousands of Open Roles Never Show Up in Your Job Search](https://dev.to/enigma52/the-hidden-job-market-why-thousands-of-open-roles-never-show-up-in-your-job-search-134p)
-- [Constitutional AI: os princípios éticos que tornam o Claude único](https://dev.to/andr_diasmoreiraprol_b/constitutional-ai-os-principios-eticos-que-tornam-o-claude-unico-1nfe)
+- [Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano](https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl)
+- [I built a headless timeline/Gantt for React — would love some feedback](https://dev.to/kriklivyy22/i-built-a-headless-timelinegantt-for-react-would-love-some-feedback-11da)
+- [How to Crush FAANG Interviews in 3 Months — Like Neo Learning Kung Fu](https://dev.to/timevolt/how-to-crush-faang-interviews-in-3-months-like-neo-learning-kung-fu-cjo)
+- [How I Built and Hosted an AI App Portfolio Using Google AI Studio at 15](https://dev.to/naitik_prajapati/how-i-built-and-hosted-an-ai-app-portfolio-using-google-ai-studio-at-15-ano)
 <!-- BLOG-POST-LIST:END -->
 
