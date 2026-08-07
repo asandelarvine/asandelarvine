@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Your App Look Good When You’re Not a Designer](https://dev.to/imforja/how-to-make-your-app-look-good-when-youre-not-a-designer-4di9)
-- [This is a submission for [Frontend Challenge - Comfort Food Edition, Perfect Landing] 😊](https://dev.to/edmundsparrow/this-is-a-submission-for-frontend-challenge-comfort-food-edition-perfect-landing-1p8c)
-- [4,407 Rockwell PLCs Sit on the Public Internet, 22 in Cities Hit by Water Utility Attacks](https://dev.to/etairos/4407-rockwell-plcs-sit-on-the-public-internet-22-in-cities-hit-by-water-utility-attacks-5337)
-- [Java CMYK to RGB Conversion – Speed Comparison](https://dev.to/idrsolutions/java-cmyk-to-rgb-conversion-speed-comparison-1onl)
+- [Teaching an Audio Model More About Barbados](https://dev.to/hammertoe/teaching-an-audio-model-more-about-barbados-32o2)
+- [How to Set Up Rate Limiting in Nuxt](https://dev.to/sadegh_shaikhi_0549a5c17f/how-to-set-up-rate-limiting-in-nuxt-3lcb)
+- [Three Ways Your Training Data Lies to You &lpar;And None of Them Throw an Error&rpar;](https://dev.to/rickeshtn/three-ways-your-training-data-lies-to-you-and-none-of-them-throw-an-error-4044)
+- [Deploying Qwen3.8 Max as a Task‑Oriented Agent in Python](https://dev.to/robust_true_try/deploying-qwen38-max-as-a-task-oriented-agent-in-python-1c03)
 <!-- BLOG-POST-LIST:END -->
 
