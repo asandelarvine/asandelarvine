@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Bit About Me](https://dev.to/jim-wilson/a-bit-about-me-3o0b)
-- [Build an Internal Assistant Over Confluence and Drive](https://dev.to/multigrid/build-an-internal-assistant-over-confluence-and-drive-26kb)
-- [Building an Eval Set From Scratch](https://dev.to/multigrid/building-an-eval-set-from-scratch-3g7k)
-- [🔥 How We Reached 100/100 Google Lighthouse Score on a Complex SaaS](https://dev.to/chobh1024/how-we-reached-100100-google-lighthouse-score-on-a-complex-saas-3n29)
+- [Don&#39;t Read the Code Your Agent Wrote — Make It Run the Gauntlet](https://dev.to/euk_ela_a3e7ed01aa3f7314e/dont-read-the-code-your-agent-wrote-make-it-run-the-gauntlet-45o)
+- [Embedding Dimensions: Does 3072 Beat 768?](https://dev.to/multigrid/embedding-dimensions-does-3072-beat-768-3833)
+- [The Email Every RAXXO Customer Gets After They Buy](https://dev.to/raxxostudios/the-email-every-raxxo-customer-gets-after-they-buy-18me)
+- [Deduplication at Scale With Embeddings](https://dev.to/multigrid/deduplication-at-scale-with-embeddings-2n5o)
 <!-- BLOG-POST-LIST:END -->
 
