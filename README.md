@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Installing uBlock Origin in Google Chrome: workarounds and limitations &lpar;macOS&rpar;](https://dev.to/itlnx/installing-ublock-origin-in-google-chrome-workarounds-and-limitations-macos-3j93)
-- [Google Brings Gemini Omni Flash to Vids With Prompt-Based Video Editing](https://dev.to/alifar/google-brings-gemini-omni-flash-to-vids-with-prompt-based-video-editing-5gj2)
-- [Fixing Vitest CI Worker Crashes by Switching from jsdom to happy-dom](https://dev.to/janarthanan_soundararajan/fixing-vitest-ci-worker-crashes-by-switching-from-jsdom-to-happy-dom-1h95)
-- [TryHackMe : Infinity Pool Writeup](https://dev.to/exploitnotes/tryhackme-infinity-pool-writeup-49o8)
+- [Bug: cross site cookie restrictions](https://dev.to/ozaharsh95/bug-cross-site-cookie-restrictions-1hd3)
+- [What are Agent Plugins?](https://dev.to/willvelida/what-are-agent-plugins-3bf7)
+- [Build a Team AI Agent from Claude Code with Runbear MCP](https://dev.to/runbear/runbear-mcp-vs-viktor-mcp-a-developers-decision-guide-1mc4)
+- [Galileo OSNMA and HAS: Europe&#39;s GNSS for embedded systems](https://dev.to/pezzullo/galileo-osnma-and-has-europes-gnss-for-embedded-systems-5h5f)
 <!-- BLOG-POST-LIST:END -->
 
