@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Ways Agentic Coding Will Transform Software Engineering in the Next Five Years](https://dev.to/ufomadu_nnaemeka_89/10-ways-agentic-coding-will-transform-software-engineering-in-the-next-five-years-5dn8)
-- [Shipping AI Content Provenance That Actually Survives Production &lpar;Post Article 50&rpar;](https://dev.to/ismail_haddou/shipping-ai-content-provenance-that-actually-survives-production-post-article-50-52df)
-- [What should an MCP tool return? I ran 72 trials instead of arguing](https://dev.to/lopster568/what-should-an-mcp-tool-return-i-ran-72-trials-instead-of-arguing-43b4)
-- [Construindo uma aplicação web completa com JavaScript vanilla + Firebase: o projeto Connecta](https://dev.to/pedro_henriquepdrum_f624/construindo-uma-aplicacao-web-completa-com-javascript-vanilla-firebase-o-projeto-connecta-4k25)
+- [How I Built an AI Content Factory That Sounds Like Me](https://dev.to/alexiskroberson/how-i-built-an-ai-content-factory-that-sounds-like-me-8gc)
+- [Google Adds Notebooks to Gemini, Bringing Source-Backed Projects Into Its AI App](https://dev.to/alifar/google-adds-notebooks-to-gemini-bringing-source-backed-projects-into-its-ai-app-3pnk)
+- [I stopped letting GPT-5 babysit my inbox and the whole workflow got cheaper and better](https://dev.to/lars_winstand/i-stopped-letting-gpt-5-babysit-my-inbox-and-the-whole-workflow-got-cheaper-and-better-2bi5)
+- [Dos formas en que un backtest te miente &lpar;y cómo evitarlas&rpar;](https://dev.to/isazajuancarlos/dos-formas-en-que-un-backtest-te-miente-y-como-evitarlas-4c63)
 <!-- BLOG-POST-LIST:END -->
 
