@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How asyncio Really Works Under the Hood](https://dev.to/turalmu95150474/how-asyncio-really-works-under-the-hood-7b8)
-- [One skill per action looked like the safe boundary](https://dev.to/michaeltruong/one-skill-per-action-looked-like-the-safe-boundary-13pj)
-- [Do you assume or confirm?](https://dev.to/gerardo_leon/do-you-assume-or-confirm-57m3)
-- [Why Context Engineering Is More Important Than Prompt Engineering](https://dev.to/jaideepparashar/why-context-engineering-is-more-important-than-prompt-engineering-3d64)
+- [Claude Code Now Runs Subagents in the Background by Default — What Actually Changed](https://dev.to/alvarito1983/claude-code-now-runs-subagents-in-the-background-by-default-what-actually-changed-54kb)
+- [VizMail: Building a Complete Email API with AI Agents](https://dev.to/ekioo/vizmail-building-a-complete-email-api-with-ai-agents-3b3p)
+- [A regression gate cannot see an already stale signature boundary](https://dev.to/sybilgambleyyu/a-regression-gate-cannot-see-an-already-stale-signature-boundary-cga)
+- [SQLazy: Identify Whether Differences Within Groups Come from Brand or Type Problem Description](https://dev.to/esproc_spl/sqlazy-identify-whether-differences-within-groups-come-from-brand-or-type-problem-description-4hj8)
 <!-- BLOG-POST-LIST:END -->
 
