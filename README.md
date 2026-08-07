@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano](https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl)
-- [I built a headless timeline/Gantt for React — would love some feedback](https://dev.to/kriklivyy22/i-built-a-headless-timelinegantt-for-react-would-love-some-feedback-11da)
-- [How to Crush FAANG Interviews in 3 Months — Like Neo Learning Kung Fu](https://dev.to/timevolt/how-to-crush-faang-interviews-in-3-months-like-neo-learning-kung-fu-cjo)
-- [How I Built and Hosted an AI App Portfolio Using Google AI Studio at 15](https://dev.to/naitik_prajapati/how-i-built-and-hosted-an-ai-app-portfolio-using-google-ai-studio-at-15-ano)
+- [The Anatomy of IPv4 Address](https://dev.to/igwefran6/the-anatomy-of-ipv4-address-2io)
+- [A text message that runs a command: OS command injection in Gammu SMSD &lpar;GHSA-9vjj-v46c-c5qf&rpar;](https://dev.to/santosh_kumarpuppala_96e/a-text-message-that-runs-a-command-os-command-injection-in-gammu-smsd-ghsa-9vjj-v46c-c5qf-1kci)
+- [Dev Opportunity Radar #11: Claude Community Ambassadors, YC Startup Internship Expo, Z Fellows, and Stanford&#39;s AI Agents Course](https://dev.to/devengers/dev-opportunity-radar-11-claude-community-ambassadors-yc-startup-internship-expo-z-fellows-and-25aa)
+- [OpenAI and Hugging Face Detail Rogue Model Intrusion During Security Evaluation](https://dev.to/alifar/openai-and-hugging-face-detail-rogue-model-intrusion-during-security-evaluation-4g0k)
 <!-- BLOG-POST-LIST:END -->
 
