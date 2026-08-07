@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Teaching an Audio Model More About Barbados](https://dev.to/hammertoe/teaching-an-audio-model-more-about-barbados-32o2)
-- [How to Set Up Rate Limiting in Nuxt](https://dev.to/sadegh_shaikhi_0549a5c17f/how-to-set-up-rate-limiting-in-nuxt-3lcb)
-- [Three Ways Your Training Data Lies to You &lpar;And None of Them Throw an Error&rpar;](https://dev.to/rickeshtn/three-ways-your-training-data-lies-to-you-and-none-of-them-throw-an-error-4044)
-- [Deploying Qwen3.8 Max as a Task‑Oriented Agent in Python](https://dev.to/robust_true_try/deploying-qwen38-max-as-a-task-oriented-agent-in-python-1c03)
+- [How to Detect Cross-Tenant Data Leakage in MCP Servers and Multi-Tenant SaaS](https://dev.to/subodhkc/how-to-detect-cross-tenant-data-leakage-in-mcp-servers-and-multi-tenant-saas-2719)
+- [Random Forest Is Horizontal Scaling for Predictions](https://dev.to/nishant_banginwar_80b7dc5/random-forest-is-horizontal-scaling-for-predictions-3dd3)
+- [AI Support Escalation Router: Stop Confident Wrong Replies Before They Send](https://dev.to/jackm-singularity/ai-support-escalation-router-stop-confident-wrong-replies-before-they-send-4ich)
+- [QA-Testing Audio Trimming Workflows Before You Ship a Web Editor](https://dev.to/lizely/qa-testing-audio-trimming-workflows-before-you-ship-a-web-editor-5fio)
 <!-- BLOG-POST-LIST:END -->
 
