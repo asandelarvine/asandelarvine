@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bug: cross site cookie restrictions](https://dev.to/ozaharsh95/bug-cross-site-cookie-restrictions-1hd3)
-- [What are Agent Plugins?](https://dev.to/willvelida/what-are-agent-plugins-3bf7)
-- [Build a Team AI Agent from Claude Code with Runbear MCP](https://dev.to/runbear/runbear-mcp-vs-viktor-mcp-a-developers-decision-guide-1mc4)
-- [Galileo OSNMA and HAS: Europe&#39;s GNSS for embedded systems](https://dev.to/pezzullo/galileo-osnma-and-has-europes-gnss-for-embedded-systems-5h5f)
+- [How to Track Your Brand&#39;s Visibility in ChatGPT, Gemini, Perplexity &amp; Claude &lpar;With Code&rpar;](https://dev.to/krutika_galvankar/how-to-track-your-brands-visibility-in-chatgpt-gemini-perplexity-claude-with-code-published-4ij7)
+- [Mastering LINQ in C#: 12 Practical Examples Every .NET Developer Should Know](https://dev.to/toolbenchapp/mastering-linq-in-c-12-practical-examples-every-net-developer-should-know-id5)
+- [The Hidden Job Market: Why Thousands of Open Roles Never Show Up in Your Job Search](https://dev.to/enigma52/the-hidden-job-market-why-thousands-of-open-roles-never-show-up-in-your-job-search-134p)
+- [Constitutional AI: os princípios éticos que tornam o Claude único](https://dev.to/andr_diasmoreiraprol_b/constitutional-ai-os-principios-eticos-que-tornam-o-claude-unico-1nfe)
 <!-- BLOG-POST-LIST:END -->
 
