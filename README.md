@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in Drug Discovery: What a Model Can Move and What It Cannot](https://dev.to/multigrid/ai-in-drug-discovery-what-a-model-can-move-and-what-it-cannot-2pfn)
-- [Documentation Generation That Doesn&#39;t Restate the Code](https://dev.to/multigrid/documentation-generation-that-doesnt-restate-the-code-nom)
-- [AI Doom and AI Boosterism: Reading Both Critically](https://dev.to/multigrid/ai-doom-and-ai-boosterism-reading-both-critically-5i3)
-- [Disclosure: Telling Users They’re Talking to AI](https://dev.to/multigrid/disclosure-telling-users-theyre-talking-to-ai-1poc)
+- [A Bit About Me](https://dev.to/jim-wilson/a-bit-about-me-3o0b)
+- [Build an Internal Assistant Over Confluence and Drive](https://dev.to/multigrid/build-an-internal-assistant-over-confluence-and-drive-26kb)
+- [Building an Eval Set From Scratch](https://dev.to/multigrid/building-an-eval-set-from-scratch-3g7k)
+- [🔥 How We Reached 100/100 Google Lighthouse Score on a Complex SaaS](https://dev.to/chobh1024/how-we-reached-100100-google-lighthouse-score-on-a-complex-saas-3n29)
 <!-- BLOG-POST-LIST:END -->
 
