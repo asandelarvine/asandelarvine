@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LLD Design Patterns: What Problems Does SOLID Actually Solve?](https://dev.to/saras_growth_space/lld-design-patterns-what-problems-does-solid-actually-solve-3ol8)
-- [Why I Changed My Portfolio Domain from &quot;Kami Presents&quot; to &quot;Kamran Mushtaq&quot;](https://dev.to/kaamipresents/why-i-changed-my-portfolio-domain-from-kami-presents-to-kamran-mushtaq-5bll)
-- [Why We Calculate Astrology Charts Before Asking an LLM to Explain Them](https://dev.to/openfate_ai_8dd87834ba188/why-we-calculate-astrology-charts-before-asking-an-llm-to-explain-them-46c1)
-- [Python](https://dev.to/mahdi2244/python-1g0p)
+- [AI in Drug Discovery: What a Model Can Move and What It Cannot](https://dev.to/multigrid/ai-in-drug-discovery-what-a-model-can-move-and-what-it-cannot-2pfn)
+- [Documentation Generation That Doesn&#39;t Restate the Code](https://dev.to/multigrid/documentation-generation-that-doesnt-restate-the-code-nom)
+- [AI Doom and AI Boosterism: Reading Both Critically](https://dev.to/multigrid/ai-doom-and-ai-boosterism-reading-both-critically-5i3)
+- [Disclosure: Telling Users They’re Talking to AI](https://dev.to/multigrid/disclosure-telling-users-theyre-talking-to-ai-1poc)
 <!-- BLOG-POST-LIST:END -->
 
