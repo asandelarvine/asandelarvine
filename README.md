@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Detect Cross-Tenant Data Leakage in MCP Servers and Multi-Tenant SaaS](https://dev.to/subodhkc/how-to-detect-cross-tenant-data-leakage-in-mcp-servers-and-multi-tenant-saas-2719)
-- [Random Forest Is Horizontal Scaling for Predictions](https://dev.to/nishant_banginwar_80b7dc5/random-forest-is-horizontal-scaling-for-predictions-3dd3)
-- [AI Support Escalation Router: Stop Confident Wrong Replies Before They Send](https://dev.to/jackm-singularity/ai-support-escalation-router-stop-confident-wrong-replies-before-they-send-4ich)
-- [QA-Testing Audio Trimming Workflows Before You Ship a Web Editor](https://dev.to/lizely/qa-testing-audio-trimming-workflows-before-you-ship-a-web-editor-5fio)
+- [How asyncio Really Works Under the Hood](https://dev.to/turalmu95150474/how-asyncio-really-works-under-the-hood-7b8)
+- [One skill per action looked like the safe boundary](https://dev.to/michaeltruong/one-skill-per-action-looked-like-the-safe-boundary-13pj)
+- [Do you assume or confirm?](https://dev.to/gerardo_leon/do-you-assume-or-confirm-57m3)
+- [Why Context Engineering Is More Important Than Prompt Engineering](https://dev.to/jaideepparashar/why-context-engineering-is-more-important-than-prompt-engineering-3d64)
 <!-- BLOG-POST-LIST:END -->
 
