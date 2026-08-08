@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Free, Zero-Dependency YouTube Website Embed &lpar;Self-Hostable PHP/JS&rpar;](https://dev.to/scott_peterson_bf7b8ea3f7/free-zero-dependency-youtube-website-embed-self-hostable-phpjs-338h)
-- [I built a friendlier FFmpeg with 36 verbs and a TUI &lpar;and it&#39;s one line to install&rpar;](https://dev.to/levi_enama_2026/i-built-a-friendlier-ffmpeg-with-36-verbs-and-a-tui-and-its-one-line-to-install-1km7)
-- [Why I Didn’t Build a Custom VPN App: What WireGuard Gave Me and Where the Real Problems Started](https://dev.to/hvpnme/why-i-didnt-build-a-custom-vpn-app-what-wireguard-gave-me-and-where-the-real-problems-started-ak7)
-- [Stop Chasing Symptoms: How We Built an Autonomous Root Cause Analysis Engine in Rust 🦀](https://dev.to/muhammad_lutfimuzaki_/stop-chasing-symptoms-how-we-built-an-autonomous-root-cause-analysis-engine-in-rust-2g8d)
+- [Codeberg banning AI code is not a cult. It&#39;s a boundary.](https://dev.to/adioof/codeberg-banning-ai-code-is-not-a-cult-its-a-boundary-2dk7)
+- [131 Tests, 4 Layers, $00.03/Run: Why I Built My AI Agent Eval Harness First](https://dev.to/elenarevicheva/131-tests-4-layers-0003run-why-i-built-my-ai-agent-eval-harness-first-15o7)
+- [One Key for Claude, GPT, and Gemini: the Gateway Pattern](https://dev.to/devopsdaily/one-key-for-claude-gpt-and-gemini-the-gateway-pattern-1319)
+- [Your companies table is lying to you about when things happened](https://dev.to/corpdigest/your-companies-table-is-lying-to-you-about-when-things-happened-ge3)
 <!-- BLOG-POST-LIST:END -->
 
