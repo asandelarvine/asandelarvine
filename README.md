@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Most Verification Is Just Bigger Classification](https://dev.to/harryfloyd/most-verification-is-just-bigger-classification-42g8)
-- [The Average Is Nobody&#39;s Result](https://dev.to/harryfloyd/the-average-is-nobodys-result-5hln)
-- [Your Robot Coworker Is Still a Pilot](https://dev.to/harryfloyd/your-robot-coworker-is-still-a-pilot-12n1)
-- [Where Your Metrics Fold](https://dev.to/harryfloyd/where-your-metrics-fold-20o)
+- [AI Models Keep Escaping Sandboxes. First OpenAI. Then Anthropic. Now Kimi.](https://dev.to/mohitgeryani/ai-models-keep-escaping-sandboxes-first-openai-then-anthropic-now-kimi-86d)
+- [Launch Day Fire: How I Fixed a &quot;Silent&quot; Production Crash on My Legal AI Infrastructure](https://dev.to/sunverseai/launch-day-fire-how-i-fixed-a-silent-production-crash-on-my-legal-ai-infrastructure-3gi)
+- [I Built The Most Advanced Job Application Tracker](https://dev.to/myogeshchavan97/i-built-the-most-advanced-job-application-tracker-4ddd)
+- [A Practical Guide to Converting Inches, Centimeters, Meters, Feet and Millimeters](https://dev.to/muhammad_asadullah_63d90/how-to-do-length-conversions-in-javascript-without-a-library-gm4)
 <!-- BLOG-POST-LIST:END -->
 
