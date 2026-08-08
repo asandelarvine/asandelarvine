@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [💀 The Most Dangerous Deletions Don&#39;t Break the Build. They Break the Deploy. An AI-Assisted Recovery Story 🤖](https://dev.to/velumal09/the-most-dangerous-deletions-dont-break-the-build-they-break-the-deploy-an-ai-assisted-3bk7)
-- [I Got Sick of Subscription Budget Apps. So I Built My Own With Telegram, Python, and a $0/Month Stack.](https://dev.to/rajesh_mudi/i-got-sick-of-subscription-budget-apps-so-i-built-my-own-with-telegram-python-and-a-0month-14lh)
-- [One bad Kafka record shouldn&#39;t crash a Flink Stateful Functions job](https://dev.to/okazimirov/one-bad-kafka-record-shouldnt-crash-a-flink-stateful-functions-job-117)
-- [Designing a Solvability Gate for 15 Puzzle Implementations](https://dev.to/lizely/designing-a-solvability-gate-for-15-puzzle-implementations-2adb)
+- [When Lighthouse CI maintenance in CI/CD pipelines becomes a second job](https://dev.to/apogeewatcher/when-lighthouse-ci-maintenance-in-cicd-pipelines-becomes-a-second-job-347c)
+- [I built OneToolBox — free browser-based tools for developers](https://dev.to/hassan_ighil_3c031e58433b/show-hn-i-built-onetoolbox-free-browser-based-tools-for-developers-47a1)
+- [Kubernetes Secrets Are Just Base64 Not Encryption. Here&#39;s What That Actually Means](https://dev.to/pjanderson/kubernetes-secrets-are-just-base64-not-encryption-heres-what-that-actually-means-35hi)
+- [This weekend is all about performance tuning &lpar;or attempting to&rpar; my new game before pushing to mobile platforms. Runs great on desktop but I know I can do better on mid to low mobile devices, especially Android.](https://dev.to/peterwitham/this-weekend-is-all-about-performance-tuning-or-attempting-to-my-new-game-before-pushing-to-5a47)
 <!-- BLOG-POST-LIST:END -->
 
