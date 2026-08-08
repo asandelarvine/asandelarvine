@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Teaching Your AI Web Design Some Actual Taste](https://dev.to/lovestaco/teaching-your-ai-web-design-some-actual-taste-4p13)
-- [Ninety Lines of Terraform, One Whole AWS Network](https://dev.to/joseph_davis_ac8d4e74eced/ninety-lines-of-terraform-one-whole-aws-network-3489)
-- [Extending Slugs Across Templates and Entities for Deterministic API Workflows](https://dev.to/homeless-coder/extending-slugs-across-templates-and-entities-for-deterministic-api-workflows-5fm3)
-- [The ₹1 That Costs ₹62,400: Modelling India&#39;s Tax Slabs Without Cliff-Edge Bugs](https://dev.to/monu_kumar/the-1-that-costs-62400-modelling-indias-tax-slabs-without-cliff-edge-bugs-5fgm)
+- [Free, Zero-Dependency YouTube Website Embed &lpar;Self-Hostable PHP/JS&rpar;](https://dev.to/scott_peterson_bf7b8ea3f7/free-zero-dependency-youtube-website-embed-self-hostable-phpjs-338h)
+- [I built a friendlier FFmpeg with 36 verbs and a TUI &lpar;and it&#39;s one line to install&rpar;](https://dev.to/levi_enama_2026/i-built-a-friendlier-ffmpeg-with-36-verbs-and-a-tui-and-its-one-line-to-install-1km7)
+- [Why I Didn’t Build a Custom VPN App: What WireGuard Gave Me and Where the Real Problems Started](https://dev.to/hvpnme/why-i-didnt-build-a-custom-vpn-app-what-wireguard-gave-me-and-where-the-real-problems-started-ak7)
+- [Stop Chasing Symptoms: How We Built an Autonomous Root Cause Analysis Engine in Rust 🦀](https://dev.to/muhammad_lutfimuzaki_/stop-chasing-symptoms-how-we-built-an-autonomous-root-cause-analysis-engine-in-rust-2g8d)
 <!-- BLOG-POST-LIST:END -->
 
