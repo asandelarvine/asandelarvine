@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [# Why I’m Rewriting a PHP Extension in C23, Not C++](https://dev.to/malusev998/why-i-use-c-instead-of-c-for-php-extensions-6g8)
-- [What Is Actually Inside the DOE&#39;s Genesis Open Models Initiative?](https://dev.to/vin-patel/what-is-actually-inside-the-does-genesis-open-models-initiative-1joi)
-- [Redbelly Network Troubleshooting Guide: 22 Common Developer Errors and Their Fixes](https://dev.to/isaac_atunbi_c2ed2489e89c/redbelly-network-troubleshooting-guide-22-common-developer-errors-and-their-fixes-1g26)
-- [Stale infrastructure context is worse than none](https://dev.to/siddharth_pandey_27/stale-infrastructure-context-is-worse-than-none-2npa)
+- [From Cron Jobs to Event-Driven: Migrating Scheduled Tasks to Serverless Functions](https://dev.to/libme/from-cron-jobs-to-event-driven-migrating-scheduled-tasks-to-serverless-functions-4i0a)
+- [Building Autolang: A Scripting Runtime for Lightweight AI-Generated Code](https://dev.to/hoanluong123/building-autolang-a-scripting-runtime-for-lightweight-ai-generated-code-h8j)
+- [Atlas Theorem: How Far Can You Zoom Out?](https://dev.to/iroha1203/atlas-theorem-how-far-can-you-zoom-out-2oih)
+- [The Fastest Way I’ve Found to Build a Solid UI Without a Designer](https://dev.to/imforja/the-fastest-way-ive-found-to-build-a-solid-ui-without-a-designer-o3d)
 <!-- BLOG-POST-LIST:END -->
 
