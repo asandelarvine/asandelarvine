@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Cron Jobs to Event-Driven: Migrating Scheduled Tasks to Serverless Functions](https://dev.to/libme/from-cron-jobs-to-event-driven-migrating-scheduled-tasks-to-serverless-functions-4i0a)
-- [Building Autolang: A Scripting Runtime for Lightweight AI-Generated Code](https://dev.to/hoanluong123/building-autolang-a-scripting-runtime-for-lightweight-ai-generated-code-h8j)
-- [Atlas Theorem: How Far Can You Zoom Out?](https://dev.to/iroha1203/atlas-theorem-how-far-can-you-zoom-out-2oih)
-- [The Fastest Way I’ve Found to Build a Solid UI Without a Designer](https://dev.to/imforja/the-fastest-way-ive-found-to-build-a-solid-ui-without-a-designer-o3d)
+- [Teaching Your AI Web Design Some Actual Taste](https://dev.to/lovestaco/teaching-your-ai-web-design-some-actual-taste-4p13)
+- [Ninety Lines of Terraform, One Whole AWS Network](https://dev.to/joseph_davis_ac8d4e74eced/ninety-lines-of-terraform-one-whole-aws-network-3489)
+- [Extending Slugs Across Templates and Entities for Deterministic API Workflows](https://dev.to/homeless-coder/extending-slugs-across-templates-and-entities-for-deterministic-api-workflows-5fm3)
+- [The ₹1 That Costs ₹62,400: Modelling India&#39;s Tax Slabs Without Cliff-Edge Bugs](https://dev.to/monu_kumar/the-1-that-costs-62400-modelling-indias-tax-slabs-without-cliff-edge-bugs-5fgm)
 <!-- BLOG-POST-LIST:END -->
 
