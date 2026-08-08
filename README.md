@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vox Pupuli Container Statistics](https://dev.to/voxpupuli/vox-pupuli-container-statistics-ph3)
-- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-28fi)
-- [Building CSRF Double-Submit Cookie Protection in PHP Video Admin Panels](https://dev.to/ahmet_gedik778845/building-csrf-double-submit-cookie-protection-in-php-video-admin-panels-5agd)
-- [The People AI Cannot Hear](https://dev.to/rawveg/the-people-ai-cannot-hear-hn2)
+- [How Git Worktrees Improve AI Coding Workflows](https://dev.to/evbermudez/how-git-worktrees-improve-ai-coding-workflows-5afd)
+- [AIOps Agents for Kubernetes Human-in-the-Loop Remediation on GCP](https://dev.to/gde/aiops-agents-for-kubernetes-human-in-the-loop-remediation-on-gcp-4l5i)
+- [I Gave Five AI Systems the Same Architecture Test 10 Times. The Test Became More Interesting Than the Models](https://dev.to/neonalt9/i-gave-five-ai-systems-the-same-architecture-test-10-times-the-test-became-more-interesting-than-572)
+- [Zero Dependency 2026 — Build Real Software With No Packages. Prove It.](https://dev.to/raptorsdev/zero-dependency-2026-build-real-software-with-no-packages-prove-it-hnc)
 <!-- BLOG-POST-LIST:END -->
 
