@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Lighthouse CI maintenance in CI/CD pipelines becomes a second job](https://dev.to/apogeewatcher/when-lighthouse-ci-maintenance-in-cicd-pipelines-becomes-a-second-job-347c)
-- [I built OneToolBox — free browser-based tools for developers](https://dev.to/hassan_ighil_3c031e58433b/show-hn-i-built-onetoolbox-free-browser-based-tools-for-developers-47a1)
-- [Kubernetes Secrets Are Just Base64 Not Encryption. Here&#39;s What That Actually Means](https://dev.to/pjanderson/kubernetes-secrets-are-just-base64-not-encryption-heres-what-that-actually-means-35hi)
-- [This weekend is all about performance tuning &lpar;or attempting to&rpar; my new game before pushing to mobile platforms. Runs great on desktop but I know I can do better on mid to low mobile devices, especially Android.](https://dev.to/peterwitham/this-weekend-is-all-about-performance-tuning-or-attempting-to-my-new-game-before-pushing-to-5a47)
+- [I asked an agent to make a product video. It wrote HTML and rendered an MP4 - Dota Companion](https://dev.to/dhseadev/i-asked-an-agent-to-make-a-product-video-it-wrote-html-and-rendered-an-mp4-dota-companion-1nia)
+- [Stop Treating Web Accessibility &lpar;WCAG&rpar; Like a Software Bug](https://dev.to/mohd_irfan_/-stop-treating-web-accessibility-wcag-22-like-a-software-bug-4ki5)
+- [Building ScamLens AI: My Exploration of Artificial Intelligence in Phishing and Social Engineering Detection](https://dev.to/zain_abuzaid_9f0dd065b56d/building-scamlens-ai-using-artificial-intelligence-to-detect-social-engineering-and-phishing-5874)
+- [I built a full backend-learning platform solo — here&#39;s what I shipped &lpar;and what broke along the way&rpar;](https://dev.to/akashguptasky/i-built-a-full-backend-learning-platform-solo-heres-what-i-shipped-and-what-broke-along-the-way-990)
 <!-- BLOG-POST-LIST:END -->
 
