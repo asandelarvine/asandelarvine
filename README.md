@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Removing AI Tells from Your Writing: A Skill That Turns One Flag into a Permanent Rule](https://dev.to/johnonlee/removing-ai-tells-from-your-writing-a-skill-that-turns-one-flag-into-a-permanent-rule-3fd)
-- [EffCSS hydration: server work, client trust, zero waste](https://dev.to/effnd/effcss-hydration-server-work-client-trust-zero-waste-318m)
-- [I Found the Perfect Software Architecture Course for Senior Developers, and It’s Awesome](https://dev.to/somadevtoo/i-found-the-perfect-software-architecture-course-for-senior-developers-and-its-awesome-2bij)
-- [How I Automate My Freelance Workflow with Python](https://dev.to/caper_dev/how-i-automate-my-freelance-workflow-with-python-28eo)
+- [Vox Pupuli Container Statistics](https://dev.to/voxpupuli/vox-pupuli-container-statistics-ph3)
+- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-28fi)
+- [Building CSRF Double-Submit Cookie Protection in PHP Video Admin Panels](https://dev.to/ahmet_gedik778845/building-csrf-double-submit-cookie-protection-in-php-video-admin-panels-5agd)
+- [The People AI Cannot Hear](https://dev.to/rawveg/the-people-ai-cannot-hear-hn2)
 <!-- BLOG-POST-LIST:END -->
 
