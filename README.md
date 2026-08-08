@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI agent&#39;s UI is mediocre—and here&#39;s how to fix it](https://dev.to/renato_marinho/your-ai-agents-ui-is-mediocre-and-heres-how-to-fix-it-4a3o)
-- [The Headless Workspace: How Antigravity CLI Lowers the Neovim Learning Curve](https://dev.to/alvardev/the-headless-workspace-how-antigravity-cli-lowers-the-neovim-learning-curve-55h5)
-- [How We Evolved a Cultural Recommendation Feed From a Weighted SQL Ranker to a Narrative Affinity Model](https://dev.to/sampseiol1/how-we-evolved-a-cultural-recommendation-feed-from-a-weighted-sql-ranker-to-a-narrative-affinity-10c3)
-- [1. Self-Hosted AI: the LLM concepts you need to run models effectively](https://dev.to/lorena_dvila_5ab5ef35ec6/2-self-hosted-ai-the-llm-concepts-you-need-to-run-models-effectively-1nl1)
+- [Inside Facebook&#39;s News Feed Architecture](https://dev.to/zidane1688/inside-facebooks-news-feed-architecture-10n7)
+- [The RPC said Base was healthy. The first contract read still failed.](https://dev.to/samedaydesk/the-rpc-said-base-was-healthy-the-first-contract-read-still-failed-3fg6)
+- [Building Redoubt Analytics: A Counter-UAS Risk Intelligence Platform](https://dev.to/alfinohatta/building-redoubt-analytics-a-counter-uas-risk-intelligence-platform-4k9l)
+- [Why I Built a Local-First Password Manager Instead of Another Cloud Vault](https://dev.to/pas_add8a682e2caf036/why-i-built-a-local-first-password-manager-instead-of-another-cloud-vault-4gbj)
 <!-- BLOG-POST-LIST:END -->
 
