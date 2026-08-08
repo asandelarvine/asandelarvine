@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside Facebook&#39;s News Feed Architecture](https://dev.to/zidane1688/inside-facebooks-news-feed-architecture-10n7)
-- [The RPC said Base was healthy. The first contract read still failed.](https://dev.to/samedaydesk/the-rpc-said-base-was-healthy-the-first-contract-read-still-failed-3fg6)
-- [Building Redoubt Analytics: A Counter-UAS Risk Intelligence Platform](https://dev.to/alfinohatta/building-redoubt-analytics-a-counter-uas-risk-intelligence-platform-4k9l)
-- [Why I Built a Local-First Password Manager Instead of Another Cloud Vault](https://dev.to/pas_add8a682e2caf036/why-i-built-a-local-first-password-manager-instead-of-another-cloud-vault-4gbj)
+- [Swift Protocols — Opaque Return Types and the Mystery of `some` 🔮](https://dev.to/gamya_m/swift-protocols-opaque-return-types-and-the-mystery-of-some-1dkb)
+- [Spring Boot For Beginner](https://dev.to/suman_naskar_a1784f80bc3a/spring-boot-for-beginner-398j)
+- [Java Spring Boot Logging: Log Levels, Logback, JSON Logs &amp; Production Best Practices](https://dev.to/ayshriv/java-spring-boot-logging-log-levels-logback-json-logs-production-best-practices-3f7o)
+- [Building a Leak-Safe gRPC Frame Decoder on Reactor Netty](https://dev.to/qianwj/building-a-leak-safe-grpc-frame-decoder-on-reactor-netty-po7)
 <!-- BLOG-POST-LIST:END -->
 
