@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Codeberg banning AI code is not a cult. It&#39;s a boundary.](https://dev.to/adioof/codeberg-banning-ai-code-is-not-a-cult-its-a-boundary-2dk7)
-- [131 Tests, 4 Layers, $00.03/Run: Why I Built My AI Agent Eval Harness First](https://dev.to/elenarevicheva/131-tests-4-layers-0003run-why-i-built-my-ai-agent-eval-harness-first-15o7)
-- [One Key for Claude, GPT, and Gemini: the Gateway Pattern](https://dev.to/devopsdaily/one-key-for-claude-gpt-and-gemini-the-gateway-pattern-1319)
-- [Your companies table is lying to you about when things happened](https://dev.to/corpdigest/your-companies-table-is-lying-to-you-about-when-things-happened-ge3)
+- [💀 The Most Dangerous Deletions Don&#39;t Break the Build. They Break the Deploy. An AI-Assisted Recovery Story 🤖](https://dev.to/velumal09/the-most-dangerous-deletions-dont-break-the-build-they-break-the-deploy-an-ai-assisted-3bk7)
+- [I Got Sick of Subscription Budget Apps. So I Built My Own With Telegram, Python, and a $0/Month Stack.](https://dev.to/rajesh_mudi/i-got-sick-of-subscription-budget-apps-so-i-built-my-own-with-telegram-python-and-a-0month-14lh)
+- [One bad Kafka record shouldn&#39;t crash a Flink Stateful Functions job](https://dev.to/okazimirov/one-bad-kafka-record-shouldnt-crash-a-flink-stateful-functions-job-117)
+- [Designing a Solvability Gate for 15 Puzzle Implementations](https://dev.to/lizely/designing-a-solvability-gate-for-15-puzzle-implementations-2adb)
 <!-- BLOG-POST-LIST:END -->
 
