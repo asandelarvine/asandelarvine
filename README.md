@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t Read the Code Your Agent Wrote — Make It Run the Gauntlet](https://dev.to/euk_ela_a3e7ed01aa3f7314e/dont-read-the-code-your-agent-wrote-make-it-run-the-gauntlet-45o)
-- [Embedding Dimensions: Does 3072 Beat 768?](https://dev.to/multigrid/embedding-dimensions-does-3072-beat-768-3833)
-- [The Email Every RAXXO Customer Gets After They Buy](https://dev.to/raxxostudios/the-email-every-raxxo-customer-gets-after-they-buy-18me)
-- [Deduplication at Scale With Embeddings](https://dev.to/multigrid/deduplication-at-scale-with-embeddings-2n5o)
+- [Building a Ride-Share Zone-Balancing Agent with LangGraph — Part 5: Coordinating Two Zones at Once](https://dev.to/ebrahim_arian_37097b72c7e/building-a-ride-share-zone-balancing-agent-with-langgraph-part-5-coordinating-two-zones-at-once-2c17)
+- [Building a Ride-Share Zone-Balancing Agent with LangGraph — Part 4: Letting a Human Step In](https://dev.to/ebrahim_arian_37097b72c7e/building-a-ride-share-zone-balancing-agent-with-langgraph-part-4-letting-a-human-step-in-5die)
+- [Building a Ride-Share Zone-Balancing Agent with LangGraph — Part 3: Giving the Agent Memory](https://dev.to/ebrahim_arian_37097b72c7e/building-a-ride-share-zone-balancing-agent-with-langgraph-part-3-giving-the-agent-memory-obb)
+- [Building a Ride-Share Zone-Balancing Agent with LangGraph — Part 2: Teaching the Agent to Read Ops Notes](https://dev.to/ebrahim_arian_37097b72c7e/building-a-ride-share-zone-balancing-agent-with-langgraph-part-2-teaching-the-agent-to-read-ops-3706)
 <!-- BLOG-POST-LIST:END -->
 
