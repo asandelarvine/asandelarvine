@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Health Data Without Fake Certainty](https://dev.to/codenameone/health-data-without-fake-certainty-fok)
-- [Dastarkhwan: A Taste of Home](https://dev.to/tayyaba_amin56/dastarkhwan-a-taste-of-home-1g2n)
-- [Microsoft 365 Agents SDK vs. Bot Framework: Rebuilding the Same Bot as an Agent](https://dev.to/avinash247/microsoft-365-agents-sdk-vs-bot-framework-rebuilding-the-same-bot-as-an-agent-2f8)
-- [Eight webhook providers, eight different ways to sign a request](https://dev.to/vinkurov_live/eight-webhook-providers-eight-different-ways-to-sign-a-request-3a26)
+- [WeatherNext: DeepMind gana 24 horas de anticipación en huracanes](https://dev.to/lu1tr0n/weathernext-deepmind-gana-24-horas-de-anticipacion-en-huracanes-30bp)
+- [Building an Automated AWS Security Advisor: RAG with AWS Bedrock and OpenSearch Serverless](https://dev.to/lingesh18/building-an-automated-aws-security-advisor-rag-with-aws-bedrock-and-opensearch-serverless-4emg)
+- [Un revisore ha trovato tre criteri WCAG sbagliati nel mio plugin di accessibilità. Sono andato a guardare, e ne ho trovati otto.](https://dev.to/grounded/un-revisore-ha-trovato-tre-criteri-wcag-sbagliati-nel-mio-plugin-di-accessibilita-sono-andato-a-43mk)
+- [Metabase Zero-Day Hits CVSS 10.0: Unauthenticated SQL Injection Gives Full Admin](https://dev.to/etairos/metabase-zero-day-hits-cvss-100-unauthenticated-sql-injection-gives-full-admin-1fi9)
 <!-- BLOG-POST-LIST:END -->
 
