@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Ride-Share Zone-Balancing Agent with LangGraph — Part 5: Coordinating Two Zones at Once](https://dev.to/ebrahim_arian_37097b72c7e/building-a-ride-share-zone-balancing-agent-with-langgraph-part-5-coordinating-two-zones-at-once-2c17)
-- [Building a Ride-Share Zone-Balancing Agent with LangGraph — Part 4: Letting a Human Step In](https://dev.to/ebrahim_arian_37097b72c7e/building-a-ride-share-zone-balancing-agent-with-langgraph-part-4-letting-a-human-step-in-5die)
-- [Building a Ride-Share Zone-Balancing Agent with LangGraph — Part 3: Giving the Agent Memory](https://dev.to/ebrahim_arian_37097b72c7e/building-a-ride-share-zone-balancing-agent-with-langgraph-part-3-giving-the-agent-memory-obb)
-- [Building a Ride-Share Zone-Balancing Agent with LangGraph — Part 2: Teaching the Agent to Read Ops Notes](https://dev.to/ebrahim_arian_37097b72c7e/building-a-ride-share-zone-balancing-agent-with-langgraph-part-2-teaching-the-agent-to-read-ops-3706)
+- [Your AI agent&#39;s UI is mediocre—and here&#39;s how to fix it](https://dev.to/renato_marinho/your-ai-agents-ui-is-mediocre-and-heres-how-to-fix-it-4a3o)
+- [The Headless Workspace: How Antigravity CLI Lowers the Neovim Learning Curve](https://dev.to/alvardev/the-headless-workspace-how-antigravity-cli-lowers-the-neovim-learning-curve-55h5)
+- [How We Evolved a Cultural Recommendation Feed From a Weighted SQL Ranker to a Narrative Affinity Model](https://dev.to/sampseiol1/how-we-evolved-a-cultural-recommendation-feed-from-a-weighted-sql-ranker-to-a-narrative-affinity-10c3)
+- [1. Self-Hosted AI: the LLM concepts you need to run models effectively](https://dev.to/lorena_dvila_5ab5ef35ec6/2-self-hosted-ai-the-llm-concepts-you-need-to-run-models-effectively-1nl1)
 <!-- BLOG-POST-LIST:END -->
 
