@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Models Keep Escaping Sandboxes. First OpenAI. Then Anthropic. Now Kimi.](https://dev.to/mohitgeryani/ai-models-keep-escaping-sandboxes-first-openai-then-anthropic-now-kimi-86d)
-- [Launch Day Fire: How I Fixed a &quot;Silent&quot; Production Crash on My Legal AI Infrastructure](https://dev.to/sunverseai/launch-day-fire-how-i-fixed-a-silent-production-crash-on-my-legal-ai-infrastructure-3gi)
-- [I Built The Most Advanced Job Application Tracker](https://dev.to/myogeshchavan97/i-built-the-most-advanced-job-application-tracker-4ddd)
-- [A Practical Guide to Converting Inches, Centimeters, Meters, Feet and Millimeters](https://dev.to/muhammad_asadullah_63d90/how-to-do-length-conversions-in-javascript-without-a-library-gm4)
+- [Removing AI Tells from Your Writing: A Skill That Turns One Flag into a Permanent Rule](https://dev.to/johnonlee/removing-ai-tells-from-your-writing-a-skill-that-turns-one-flag-into-a-permanent-rule-3fd)
+- [EffCSS hydration: server work, client trust, zero waste](https://dev.to/effnd/effcss-hydration-server-work-client-trust-zero-waste-318m)
+- [I Found the Perfect Software Architecture Course for Senior Developers, and It’s Awesome](https://dev.to/somadevtoo/i-found-the-perfect-software-architecture-course-for-senior-developers-and-its-awesome-2bij)
+- [How I Automate My Freelance Workflow with Python](https://dev.to/caper_dev/how-i-automate-my-freelance-workflow-with-python-28eo)
 <!-- BLOG-POST-LIST:END -->
 
