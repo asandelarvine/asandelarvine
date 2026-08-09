@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Metaverse Failed. Augmented Reality Didn&#39;t.](https://dev.to/sampseiol1/the-metaverse-failed-augmented-reality-didnt-58oc)
-- [The AI Price War Just Changed How I Architect Software, and Most Devs Haven&#39;t Noticed](https://dev.to/sirbrian/the-ai-price-war-just-changed-how-i-architect-software-and-most-devs-havent-noticed-30b7)
-- [The median MCP server costs 3,150 tokens before your agent calls anything](https://dev.to/onlyoneaman/the-median-mcp-server-costs-3150-tokens-before-your-agent-calls-anything-4np3)
-- [I built a small one-time secret sharing app with AdonisJS 6](https://dev.to/oguzhankrcb/i-built-a-small-one-time-secret-sharing-app-with-adonisjs-6-cmj)
+- [The Agent Stack Is Filling In. The Judgment Layer Is Still an Open Problem](https://dev.to/kikashy/the-agent-stack-is-filling-in-the-judgment-layer-is-still-an-open-problem-40g2)
+- [Target Data in GAS](https://dev.to/marko-ue/target-data-in-gas-15cl)
+- [A whiteboard that can&#39;t upload your drawing, because the browser won&#39;t let it](https://dev.to/pop3_zxcv/a-whiteboard-that-cant-upload-your-drawing-because-the-browser-wont-let-it-302f)
+- [Rasa Kenangan — Immersive Scroll Narrative Landing Page](https://dev.to/rexreus/rasa-kenangan-immersive-scroll-narrative-landing-page-1dm0)
 <!-- BLOG-POST-LIST:END -->
 
