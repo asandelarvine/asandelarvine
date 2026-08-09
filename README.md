@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OSINT prompts for ChatGPT and Claude: the circular-reporting screen analysts use, in full](https://dev.to/beeswaxpat/osint-prompts-for-chatgpt-and-claude-the-circular-reporting-screen-analysts-use-in-full-466)
-- [Shopify Replaced Redis With MySQL for Inventory Reservations — and It Scaled Better](https://dev.to/trismegistus/shopify-replaced-redis-with-mysql-for-inventory-reservations-and-it-scaled-better-4ak9)
-- [Weekly Challenge: Uncommon parentheses](https://dev.to/simongreennet/weekly-challenge-uncommon-parentheses-16hf)
-- [🚀 Meet Cruise Language: The Lightweight, AI-Ready Programming Language I Built at 12 Years Old!](https://dev.to/manjas-developer/meet-cruise-language-the-lightweight-ai-ready-programming-language-i-built-at-12-years-old-87e)
+- [Your eval suite passes. Does it actually check anything?](https://dev.to/agentdev9/your-eval-suite-passes-does-it-actually-check-anything-2l5a)
+- [I split a commerce backend into 6 services for a shop with zero users. On purpose.](https://dev.to/danzizhangdev/i-split-a-commerce-backend-into-6-services-for-a-shop-with-zero-users-on-purpose-5133)
+- [The ETF Changed Bitcoin&#39;s Four-Year Cycle, but It Did Not Create a Supercycle](https://dev.to/invisiblehill/the-etf-changed-bitcoins-four-year-cycle-but-it-did-not-create-a-supercycle-5dij)
+- [I built a Python package to diff large data files — here&#39;s why existing tools weren&#39;t enough](https://dev.to/omuniyal/i-built-a-python-package-to-diff-large-data-files-heres-why-existing-tools-werent-enough-199g)
 <!-- BLOG-POST-LIST:END -->
 
