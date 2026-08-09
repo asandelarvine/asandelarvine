@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ghidra internals: Where are my logs ?](https://dev.to/ddupard/ghidra-internals-where-are-my-logs--p3n)
-- [Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1](https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1)
-- [A broken heading hierarchy is an architecture problem, not a markup one](https://dev.to/praiztech/a-broken-heading-hierarchy-is-an-architecture-problem-not-a-markup-one-489n)
-- [Your AI Agent Changed Its Config. Can You Roll It Back Safely?](https://dev.to/zira125/your-ai-agent-changed-its-config-can-you-roll-it-back-safely-4abk)
+- [Postgres Full-Text Search in Production: How to Load-Test the Index and Pin Down Relevance](https://dev.to/libme/postgres-full-text-search-in-production-how-to-load-test-the-index-and-pin-down-relevance-282b)
+- [Claude Code Can&#39;t Draw — This Plugin Borrows Your Codex CLI Login](https://dev.to/euk_ela_a3e7ed01aa3f7314e/claude-code-cant-draw-this-plugin-borrows-your-codex-cli-login-559c)
+- [Architecting Battery-Efficient Geofencing for Android Automation](https://dev.to/haseebthedev0/architecting-battery-efficient-geofencing-for-android-automation-55mo)
+- [Structured Context vs Pixel Context: What Coding Agents Actually Need](https://dev.to/romantsisyk/structured-context-vs-pixel-context-what-coding-agents-actually-need-4fl8)
 <!-- BLOG-POST-LIST:END -->
 
