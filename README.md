@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A 200 response is not a page, and your policy check is grepping an empty shell](https://dev.to/jacksonxly/a-200-response-is-not-a-page-and-your-policy-check-is-grepping-an-empty-shell-3ah1)
-- [Magic Link Audits Without Full URLs](https://dev.to/sophiax99/magic-link-audits-without-full-urls-2d7o)
-- [I built a spend cap for LLM calls. It failed by 4.2x under parallel load.](https://dev.to/burnix/i-built-a-spend-cap-for-llm-calls-it-failed-by-42x-under-parallel-load-2h0c)
-- [Mitigating HTTP Request Smuggling](https://dev.to/aniket28dot/mitigating-http-request-smuggling-be6)
+- [Inside the NEXUS AI App Builder: an agentic full-stack workspace, not a code generator](https://dev.to/sali_ac161a1b71406354896c/inside-the-nexus-ai-app-builder-an-agentic-full-stack-workspace-not-a-code-generator-59cg)
+- [AI Agentic Memory for beginners.](https://dev.to/ponikar/ai-agentic-memory-for-beginners-4lga)
+- [AmaliTech Apprenticeship Program &lpar;AAP&rpar; &lpar;AAP&rpar;](https://dev.to/rukundokevin/amalitech-apprenticeship-program-aap-aap-2ojd)
+- [You&#39;re Not Comparing Models. You&#39;re Comparing Contracts.](https://dev.to/harryfloyd/youre-not-comparing-models-youre-comparing-contracts-647)
 <!-- BLOG-POST-LIST:END -->
 
