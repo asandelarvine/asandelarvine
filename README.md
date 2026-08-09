@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing an LLM Input Layer for Poker Calculators: Verified Math, Unverified Interpretation](https://dev.to/ty215/testing-an-llm-input-layer-for-poker-calculators-verified-math-unverified-interpretation-18ib)
-- [AMD เปิดตัว Instella-MoE-16B-A3B — โมเดล AI ที่เทรนด้วย GPU ของตัวเอง ไม่พึ่ง Nvidia](https://dev.to/sarantoon/amd-epidtaw-instella-moe-16b-a3b-omedl-ai-thiiethrndwy-gpu-khngtaweng-aimphueng-nvidia-4868)
-- [AI โมเดลหลุดออกไปแฮกบริษัทอื่น — OpenAI, Anthropic แล้วตอนนี้ Meta ตามมา](https://dev.to/sarantoon/ai-omedlhludkaipaehkbrisathuuen-openai-anthropic-aelwtnnii-meta-taammaa-3fnb)
-- [Phase 7a — Getting Opinionated: Rules-Based Auto-Categorization &lpar;and a Seam for the AI Later&rpar;](https://dev.to/silentcarry/phase-7a-getting-opinionated-rules-based-auto-categorization-and-a-seam-for-the-ai-later-2cp5)
+- [Add Face Liveness Detection to Any App in 10 Lines of Code &lpar;Free Tier Available&rpar;](https://dev.to/indiesolovibe/add-face-liveness-detection-to-any-app-in-10-lines-of-code-free-tier-available-1h92)
+- [My Self-Evolving AI Agent Kept Passing Its Own Tests. The Code Had Never Run](https://dev.to/stefan_nitu/my-self-evolving-ai-agent-kept-passing-its-own-tests-the-code-had-never-run-3pn)
+- [Microsoft Word 1.1a for Windows Goes Native x64: A Retro Port for the Ages](https://dev.to/kaixintelligence/microsoft-word-11a-for-windows-goes-native-x64-a-retro-port-for-the-ages-8h6)
+- [React Mastery Series – Day 33: React API Architecture – Axios, Fetch, Service Layers, Interceptors &amp; Error Handling](https://dev.to/siva_samanthapudi/react-mastery-series-day-33-react-api-architecture-axios-fetch-service-layers-interceptors-4h07)
 <!-- BLOG-POST-LIST:END -->
 
