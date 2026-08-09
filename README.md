@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built a New NPM Package for Accurate Country, State, and District Data](https://dev.to/abi_thanush_531624f2f0753/why-i-built-a-new-npm-package-for-accurate-country-state-and-district-data-41il)
-- [Downstream started rate-limiting your Node BFF? Here&#39;s the retry layer that fixes it.](https://dev.to/coderhu/downstream-started-rate-limiting-your-node-bff-heres-the-retry-layer-that-fixes-it-2oo6)
-- [hi guys iam new in dev community , i was building personal memory for consumers . So i was wondering where do you guys keep your thoughts and how you find it when you guys needed it just curious](https://dev.to/hitesh_r_bd90a9a7c5a5a833/hi-guys-iam-new-in-dev-community-i-was-building-personal-memory-for-consumers-so-i-was-5f3c)
-- [UCE-8: fitting the world&#39;s living scripts into two bytes](https://dev.to/erdeneochir_sh_e862b1f51/uce-8-fitting-the-worlds-living-scripts-into-two-bytes-102j)
+- [Unit Testing in BlocSignal: The Practical Handbook](https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1)
+- [I Built an AI Coat of Arms Maker for Custom Crests and Fantasy Emblems](https://dev.to/edwardartist/i-built-an-ai-coat-of-arms-maker-for-custom-crests-and-fantasy-emblems-4i4d)
+- [A 50-capability map for governed web crawling and AI agents](https://dev.to/ajnasnb7717/a-50-capability-map-for-governed-web-crawling-and-ai-agents-2c6i)
+- [When is it safe to open the microphone? Building a realtime voice agent on Twilio](https://dev.to/petersoos/when-is-it-safe-to-open-the-microphone-building-a-realtime-voice-agent-on-twilio-3ddo)
 <!-- BLOG-POST-LIST:END -->
 
