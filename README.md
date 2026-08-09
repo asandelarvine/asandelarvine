@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Day Our Web App Took 8 Seconds to Load &lpar;and How We Cut It in Half&rpar;](https://dev.to/frontend_craft/the-day-our-web-app-took-8-seconds-to-load-and-how-we-cut-it-in-half-504c)
-- [DeepSeek&#39;s Flash outpaced its own flagship. The upgrade was post-training, not parameters.](https://dev.to/thegatewayguy/deepseeks-flash-outpaced-its-own-flagship-the-upgrade-was-post-training-not-parameters-333o)
-- [GGUF vs GPTQ vs AWQ: Which Quantization Format Should You Actually Use?](https://dev.to/quantizelab/gguf-vs-gptq-vs-awq-which-quantization-format-should-you-actually-use-5hn9)
-- [Cedar could stop one bad tool call. Dogwood stops bad sequences.](https://dev.to/thegatewayguy/cedar-could-stop-one-bad-tool-call-dogwood-stops-bad-sequences-1jik)
+- [⚡ Stop Mocking Backends: Test Stateful REST &amp; GraphQL APIs Live in Your Browser &lpar;Playground API v4.0&rpar;](https://dev.to/nileshcodehub/stop-mocking-backends-test-stateful-rest-graphql-apis-live-in-your-browser-playground-api-57pa)
+- [Closer look on DynamoDB vector search vs S3 Vectors](https://dev.to/muash10/closer-look-on-dynamodb-vector-search-vs-s3-vectors-14db)
+- [The Hutter Prize measures intelligence better than any OpenAI benchmark](https://dev.to/adioof/the-hutter-prize-measures-intelligence-better-than-any-openai-benchmark-g4n)
+- [Intelligence Is Cheap. Outcomes Are Not.](https://dev.to/davidahmann/intelligence-is-cheap-outcomes-are-not-5ekc)
 <!-- BLOG-POST-LIST:END -->
 
