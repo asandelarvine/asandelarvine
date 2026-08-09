@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [On-Device AI and MCP on Every Port](https://dev.to/codenameone/on-device-ai-and-mcp-on-every-port-9a2)
-- [What I learned building a long-lived AI agent &lpar;the boring version&rpar;](https://dev.to/mansio/what-i-learned-building-a-long-lived-ai-agent-the-boring-version-32p8)
-- [One Event-Loop Turn, One False Redis Capacity Error](https://dev.to/lubuseb/one-event-loop-turn-one-false-redis-capacity-error-3hp3)
-- [Scheduling concurrency](https://dev.to/silvern47/scheduling-concurrency-9bd)
+- [Why I Built a New NPM Package for Accurate Country, State, and District Data](https://dev.to/abi_thanush_531624f2f0753/why-i-built-a-new-npm-package-for-accurate-country-state-and-district-data-41il)
+- [Downstream started rate-limiting your Node BFF? Here&#39;s the retry layer that fixes it.](https://dev.to/coderhu/downstream-started-rate-limiting-your-node-bff-heres-the-retry-layer-that-fixes-it-2oo6)
+- [hi guys iam new in dev community , i was building personal memory for consumers . So i was wondering where do you guys keep your thoughts and how you find it when you guys needed it just curious](https://dev.to/hitesh_r_bd90a9a7c5a5a833/hi-guys-iam-new-in-dev-community-i-was-building-personal-memory-for-consumers-so-i-was-5f3c)
+- [UCE-8: fitting the world&#39;s living scripts into two bytes](https://dev.to/erdeneochir_sh_e862b1f51/uce-8-fitting-the-worlds-living-scripts-into-two-bytes-102j)
 <!-- BLOG-POST-LIST:END -->
 
