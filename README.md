@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Head Mare Breaches TrueConf: From SYSTEM Privileges to Trojanized Legitimate Client Updates](https://dev.to/anoymask/head-mare-breaches-trueconf-from-system-privileges-to-trojanized-legitimate-client-updates-1ke1)
-- [RovoBlast: One-Click Hijacking of Enterprise AI Permissions for Data Exfiltration](https://dev.to/anoymask/rovoblast-one-click-hijacking-of-enterprise-ai-permissions-for-data-exfiltration-48ob)
-- [Your agent loop is teaching the model to cheat](https://dev.to/q00/your-agent-loop-is-teaching-the-model-to-cheat-48oa)
-- [\&quot;Which parts of this are real?\&quot; should be a question with an answer](https://dev.to/nasrulhazim/which-parts-of-this-are-real-should-be-a-question-with-an-answer-2a2j)
+- [OSINT prompts for ChatGPT and Claude: the circular-reporting screen analysts use, in full](https://dev.to/beeswaxpat/osint-prompts-for-chatgpt-and-claude-the-circular-reporting-screen-analysts-use-in-full-466)
+- [Shopify Replaced Redis With MySQL for Inventory Reservations — and It Scaled Better](https://dev.to/trismegistus/shopify-replaced-redis-with-mysql-for-inventory-reservations-and-it-scaled-better-4ak9)
+- [Weekly Challenge: Uncommon parentheses](https://dev.to/simongreennet/weekly-challenge-uncommon-parentheses-16hf)
+- [🚀 Meet Cruise Language: The Lightweight, AI-Ready Programming Language I Built at 12 Years Old!](https://dev.to/manjas-developer/meet-cruise-language-the-lightweight-ai-ready-programming-language-i-built-at-12-years-old-87e)
 <!-- BLOG-POST-LIST:END -->
 
