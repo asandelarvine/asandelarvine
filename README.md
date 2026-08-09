@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your eval suite passes. Does it actually check anything?](https://dev.to/agentdev9/your-eval-suite-passes-does-it-actually-check-anything-2l5a)
-- [I split a commerce backend into 6 services for a shop with zero users. On purpose.](https://dev.to/danzizhangdev/i-split-a-commerce-backend-into-6-services-for-a-shop-with-zero-users-on-purpose-5133)
-- [The ETF Changed Bitcoin&#39;s Four-Year Cycle, but It Did Not Create a Supercycle](https://dev.to/invisiblehill/the-etf-changed-bitcoins-four-year-cycle-but-it-did-not-create-a-supercycle-5dij)
-- [I built a Python package to diff large data files — here&#39;s why existing tools weren&#39;t enough](https://dev.to/omuniyal/i-built-a-python-package-to-diff-large-data-files-heres-why-existing-tools-werent-enough-199g)
+- [Testing an LLM Input Layer for Poker Calculators: Verified Math, Unverified Interpretation](https://dev.to/ty215/testing-an-llm-input-layer-for-poker-calculators-verified-math-unverified-interpretation-18ib)
+- [AMD เปิดตัว Instella-MoE-16B-A3B — โมเดล AI ที่เทรนด้วย GPU ของตัวเอง ไม่พึ่ง Nvidia](https://dev.to/sarantoon/amd-epidtaw-instella-moe-16b-a3b-omedl-ai-thiiethrndwy-gpu-khngtaweng-aimphueng-nvidia-4868)
+- [AI โมเดลหลุดออกไปแฮกบริษัทอื่น — OpenAI, Anthropic แล้วตอนนี้ Meta ตามมา](https://dev.to/sarantoon/ai-omedlhludkaipaehkbrisathuuen-openai-anthropic-aelwtnnii-meta-taammaa-3fnb)
+- [Phase 7a — Getting Opinionated: Rules-Based Auto-Categorization &lpar;and a Seam for the AI Later&rpar;](https://dev.to/silentcarry/phase-7a-getting-opinionated-rules-based-auto-categorization-and-a-seam-for-the-ai-later-2cp5)
 <!-- BLOG-POST-LIST:END -->
 
