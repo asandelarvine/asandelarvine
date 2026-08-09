@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡ Stop Mocking Backends: Test Stateful REST &amp; GraphQL APIs Live in Your Browser &lpar;Playground API v4.0&rpar;](https://dev.to/nileshcodehub/stop-mocking-backends-test-stateful-rest-graphql-apis-live-in-your-browser-playground-api-57pa)
-- [Closer look on DynamoDB vector search vs S3 Vectors](https://dev.to/muash10/closer-look-on-dynamodb-vector-search-vs-s3-vectors-14db)
-- [The Hutter Prize measures intelligence better than any OpenAI benchmark](https://dev.to/adioof/the-hutter-prize-measures-intelligence-better-than-any-openai-benchmark-g4n)
-- [Intelligence Is Cheap. Outcomes Are Not.](https://dev.to/davidahmann/intelligence-is-cheap-outcomes-are-not-5ekc)
+- [A 200 response is not a page, and your policy check is grepping an empty shell](https://dev.to/jacksonxly/a-200-response-is-not-a-page-and-your-policy-check-is-grepping-an-empty-shell-3ah1)
+- [Magic Link Audits Without Full URLs](https://dev.to/sophiax99/magic-link-audits-without-full-urls-2d7o)
+- [I built a spend cap for LLM calls. It failed by 4.2x under parallel load.](https://dev.to/burnix/i-built-a-spend-cap-for-llm-calls-it-failed-by-42x-under-parallel-load-2h0c)
+- [Mitigating HTTP Request Smuggling](https://dev.to/aniket28dot/mitigating-http-request-smuggling-be6)
 <!-- BLOG-POST-LIST:END -->
 
