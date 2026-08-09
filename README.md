@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Startup Infrastructure: $0 Oracle, $12 Groq, $40 BrightData — Real Costs](https://dev.to/elenarevicheva/ai-startup-infrastructure-0-oracle-12-groq-40-brightdata-real-costs-4bn2)
-- [The AI-native junior can&#39;t debug and we&#39;re pretending that&#39;s fine](https://dev.to/adioof/the-ai-native-junior-cant-debug-and-were-pretending-thats-fine-4f8j)
-- [Ahrefs API Units: What 1,100 Calls Actually Cost](https://dev.to/studiomeyer_io/ahrefs-api-units-what-1100-calls-actually-cost-2m35)
-- [Microsoft SC-900: How I Replaced Memorization With Reasoning and Passed in Under a Month](https://dev.to/camruthav/microsoft-sc-900-how-i-replaced-memorization-with-reasoning-and-passed-in-under-a-month-2ddp)
+- [Async-First Doesn’t Mean Async-Only](https://dev.to/tohru_yaginuma_4f041533c6/async-first-doesnt-mean-async-only-ebm)
+- [I tested my security extension against 20 real sites and found three bugs - in my own tool](https://dev.to/bright_asarebediako_a70d/i-tested-my-security-extension-against-20-real-sites-and-found-three-bugs-in-my-own-tool-36nn)
+- [Swapping Across 25 Models With One Line](https://dev.to/devopsdaily/swapping-across-25-models-with-one-line-3je8)
+- [What We Check Before Shipping an LLM Integration to a Client](https://dev.to/lycore/what-we-check-before-shipping-an-llm-integration-to-a-client-39fl)
 <!-- BLOG-POST-LIST:END -->
 
