@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vars and muts &rpar;ruff&lpar;](https://dev.to/tyrkanzyka/vars-and-muts-ruff-2i1l)
-- [Writing to Get Cited by AI Is a Different Skill Than Writing to Rank in Google](https://dev.to/stevensnell/writing-to-get-cited-by-ai-is-a-different-skill-than-writing-to-rank-in-google-44go)
-- [so close to 4k followers on here, currently sitting at 3,973 🥹](https://dev.to/hacksore/so-close-to-4k-followers-on-here-currently-sitting-at-3973-44oo)
-- [Why I Chose NestJS and Never Looked Back](https://dev.to/peacemelodi/why-i-chose-nestjs-and-never-looked-back-1mon)
+- [What Happens When 20,000 People Click the Same Seat](https://dev.to/aboalynx/what-happens-when-20000-people-click-the-same-seat-245n)
+- [Automating End-to-End PR Workflows with Claude Task Master](https://dev.to/developerzai/automating-end-to-end-pr-workflows-with-claude-task-master-3fgh)
+- [Text at 1:1 contrast is not an axe violation. It is incomplete.](https://dev.to/henrique_yuri_f42f2fca47a/text-at-11-contrast-is-not-an-axe-violation-it-is-incomplete-436c)
+- [Is this even a valid card? Zero-shot image classification model in a lambda container](https://dev.to/aws-builders/is-this-even-a-valid-card-zero-shot-image-classification-model-in-a-lambda-container-58oj)
 <!-- BLOG-POST-LIST:END -->
 
