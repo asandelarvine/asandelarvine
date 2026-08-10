@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building APIs: Backend API Concepts And When To Use Them](https://dev.to/towernter/building-apis-backend-api-concepts-and-when-to-use-them-32hh)
-- [Make fail2ban report its bans to a community blacklist](https://dev.to/fcalculator/make-fail2ban-report-its-bans-to-a-community-blacklist-288g)
-- [How to Sync Two Browser Tabs with JavaScript](https://dev.to/certosinolab/how-to-sync-two-browser-tabs-with-javascript-108l)
-- [Background Jobs on Vercel in 2026: Field Notes on waitUntil, Queues, Workflow, and Cron](https://dev.to/ahmed_mahmoud360/background-jobs-on-vercel-in-2026-field-notes-on-waituntil-queues-workflow-and-cron-1l6g)
+- [Zero-Knowledge Age Verification on Midnight: How Compact Enables Private On-Chain Data](https://dev.to/midnight-aliit/zero-knowledge-age-verification-on-midnight-how-compact-enables-private-on-chain-data-139g)
+- [n8n Connects Firecrawl to Bring Real-Time Web Data Into Cloud AI Workflows](https://dev.to/alifar/n8n-connects-firecrawl-to-bring-real-time-web-data-into-cloud-ai-workflows-nab)
+- [I Compared MiniMax H3 Runs from 6GB to 20GB VRAM — Here’s What I Learned](https://dev.to/tf6cool/i-compared-minimax-h3-runs-from-6gb-to-20gb-vram-heres-what-i-learned-2jpj)
+- [How to Build a Production Agent Harness](https://dev.to/hackmamba/how-to-build-a-production-agent-harness-4k7o)
 <!-- BLOG-POST-LIST:END -->
 
