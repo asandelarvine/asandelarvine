@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Voltei ao DEV: o que mudou depois de 25 anos programando](https://dev.to/asllanmaciel/voltei-ao-dev-o-que-mudou-depois-de-25-anos-programando-1ikl)
-- [Polyfills, Shims, and Native Modules: Lessons from Building a React Native Crypto Wallet](https://dev.to/adilmezghouti/polyfills-shims-and-native-modules-lessons-from-building-a-react-native-crypto-wallet-4acc)
-- [Designing an Online Auction / Bidding System](https://dev.to/brawnybytes/designing-an-online-auction-bidding-system-1m2i)
-- [Building a Lightweight Knowledge Base for a Small Team: Migrating from Nextcloud to Cloudreve](https://dev.to/shangyin/building-a-lightweight-knowledge-base-for-a-small-team-migrating-from-nextcloud-to-cloudreve-42fi)
+- [Build A Calculator Using Python](https://dev.to/faith_ondiege_6e7c59f9ac3/build-a-calculator-using-python-2f57)
+- [AI Security Training for Defense Industrial Base Companies](https://dev.to/cgivre/ai-security-training-for-defense-industrial-base-companies-281a)
+- [LangGraph vs CrewAI vs Google ADK: Choosing the Right Agent Architecture for Production AI](https://dev.to/nikhil_ramank_152ca48266/langgraph-vs-crewai-vs-google-adk-choosing-the-right-agent-architecture-for-production-ai-2b3a)
+- [Dynamic Programming: The Avengers Assemble](https://dev.to/timevolt/dynamic-programming-the-avengers-assemble-2e77)
 <!-- BLOG-POST-LIST:END -->
 
