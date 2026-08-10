@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A CVSS 10.0 in Your AI Coding Agent Is Just TOCTOU Wearing a Hoodie](https://dev.to/coridev/a-cvss-100-in-your-ai-coding-agent-is-just-toctou-wearing-a-hoodie-31jj)
-- [Building a Non-Blocking JPG-to-SVG Converter in the Browser with WebAssembly](https://dev.to/chynna_he_0cf22e351a30185/building-a-non-blocking-jpg-to-svg-converter-in-the-browser-with-webassembly-3peg)
-- [ASTC Isn&#39;t Automatically the Right Answer: Mobile Texture Formats for Unity on iOS and Android](https://dev.to/gamedevtoollab/astc-isnt-automatically-the-right-answer-mobile-texture-formats-for-unity-on-ios-and-android-4m5g)
-- [How to Build a Browser-Based Ringtone Editor with the Web Audio API](https://dev.to/athena886/how-to-build-a-browser-based-ringtone-editor-with-the-web-audio-api-3hp4)
+- [Inside DDoS Mitigation: The Methods and Tools That Keep Modern Websites Online](https://dev.to/ddos_expert/inside-ddos-mitigation-the-methods-and-tools-that-keep-modern-websites-online-5900)
+- [What&#39;s New in COPOMO — Customization, Rewards, and Focus Cosmetics](https://dev.to/copomo/whats-new-in-copomo-customization-rewards-and-focus-cosmetics-icc)
+- [Apache Spark for Beginners #1: Why Does Spark Exist?](https://dev.to/sanjeev_kumar_g03/apache-spark-for-beginners-1-why-does-spark-exist-1461)
+- [No LibreOffice, No COM: Three Pure-Python Legacy Office Converters](https://dev.to/corenovalabs/no-libreoffice-no-com-three-pure-python-legacy-office-converters-515o)
 <!-- BLOG-POST-LIST:END -->
 
