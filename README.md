@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Knowledge Age Verification on Midnight: How Compact Enables Private On-Chain Data](https://dev.to/midnight-aliit/zero-knowledge-age-verification-on-midnight-how-compact-enables-private-on-chain-data-139g)
-- [n8n Connects Firecrawl to Bring Real-Time Web Data Into Cloud AI Workflows](https://dev.to/alifar/n8n-connects-firecrawl-to-bring-real-time-web-data-into-cloud-ai-workflows-nab)
-- [I Compared MiniMax H3 Runs from 6GB to 20GB VRAM — Here’s What I Learned](https://dev.to/tf6cool/i-compared-minimax-h3-runs-from-6gb-to-20gb-vram-heres-what-i-learned-2jpj)
-- [How to Build a Production Agent Harness](https://dev.to/hackmamba/how-to-build-a-production-agent-harness-4k7o)
+- [Cómo solucionar el error \&quot;Text content does not match server-rendered HTML\&quot; en Next.js App Router](https://dev.to/erickeduardoramos03/como-solucionar-el-error-text-content-does-not-match-server-rendered-html-en-nextjs-app-router-3905)
+- [Why I Don&#39;t Put Tenant-Specific Validation in My FastAPI Endpoints](https://dev.to/sansk_ya/why-i-dont-put-tenant-specific-validation-in-my-fastapi-endpoints-5e4l)
+- [How SSL Certificates Work: Chains of Trust and Why Yours Expired](https://dev.to/arnavsharma2711/how-ssl-certificates-work-chains-of-trust-and-why-yours-expired-2g1i)
+- [What Happens During a TLS Handshake?](https://dev.to/arnavsharma2711/what-happens-during-a-tls-handshake-1mk7)
 <!-- BLOG-POST-LIST:END -->
 
