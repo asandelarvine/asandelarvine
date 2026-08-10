@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Spec Driven Development: What It Fixes &lpar;and Breaks&rpar;](https://dev.to/mudassirworks/spec-driven-development-what-it-fixes-and-breaks-1co3)
-- [I&#39;m building Kumo, a terminal multiplexer for the AI agent era](https://dev.to/marcrdgz/im-building-kumo-a-terminal-multiplexer-for-the-ai-agent-era-383e)
-- [🚀 Introducing pack.nvim: The Modern UI for Neovim&#39;s Native Package Manager](https://dev.to/igmrrf/introducing-packnvim-the-modern-ui-for-neovims-native-package-manager-eii)
-- [I Built an AI That Tells You How Much Water It Just Drank](https://dev.to/joannamarrie/i-built-an-ai-that-tells-you-how-much-water-it-just-drank-48b1)
+- [Vars and muts &rpar;ruff&lpar;](https://dev.to/tyrkanzyka/vars-and-muts-ruff-2i1l)
+- [Writing to Get Cited by AI Is a Different Skill Than Writing to Rank in Google](https://dev.to/stevensnell/writing-to-get-cited-by-ai-is-a-different-skill-than-writing-to-rank-in-google-44go)
+- [so close to 4k followers on here, currently sitting at 3,973 🥹](https://dev.to/hacksore/so-close-to-4k-followers-on-here-currently-sitting-at-3973-44oo)
+- [Why I Chose NestJS and Never Looked Back](https://dev.to/peacemelodi/why-i-chose-nestjs-and-never-looked-back-1mon)
 <!-- BLOG-POST-LIST:END -->
 
