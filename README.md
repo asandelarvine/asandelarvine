@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build A Calculator Using Python](https://dev.to/faith_ondiege_6e7c59f9ac3/build-a-calculator-using-python-2f57)
-- [AI Security Training for Defense Industrial Base Companies](https://dev.to/cgivre/ai-security-training-for-defense-industrial-base-companies-281a)
-- [LangGraph vs CrewAI vs Google ADK: Choosing the Right Agent Architecture for Production AI](https://dev.to/nikhil_ramank_152ca48266/langgraph-vs-crewai-vs-google-adk-choosing-the-right-agent-architecture-for-production-ai-2b3a)
-- [Dynamic Programming: The Avengers Assemble](https://dev.to/timevolt/dynamic-programming-the-avengers-assemble-2e77)
+- [8051 What does SDCC do part 1 ?](https://dev.to/ddupard/8051-what-does-sdcc-do-part-1--2d1d)
+- [Curate a CMS API into 7 Governed Agent Skills with NodeJS](https://dev.to/nisa_fatima_bcd75fa085b76/curate-a-cms-api-into-7-governed-agent-skills-with-nodejs-1ml6)
+- [Turn a DevOps API into Governed Agent Skills with NodeJS](https://dev.to/nisa_fatima_bcd75fa085b76/turn-a-devops-api-into-governed-agent-skills-with-nodejs-4f05)
+- [The bug report that never left the browser](https://dev.to/jtorchia/the-bug-report-that-never-left-the-browser-k49)
 <!-- BLOG-POST-LIST:END -->
 
