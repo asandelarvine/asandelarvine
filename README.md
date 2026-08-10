@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [8051 What does SDCC do part 1 ?](https://dev.to/ddupard/8051-what-does-sdcc-do-part-1--2d1d)
-- [Curate a CMS API into 7 Governed Agent Skills with NodeJS](https://dev.to/nisa_fatima_bcd75fa085b76/curate-a-cms-api-into-7-governed-agent-skills-with-nodejs-1ml6)
-- [Turn a DevOps API into Governed Agent Skills with NodeJS](https://dev.to/nisa_fatima_bcd75fa085b76/turn-a-devops-api-into-governed-agent-skills-with-nodejs-4f05)
-- [The bug report that never left the browser](https://dev.to/jtorchia/the-bug-report-that-never-left-the-browser-k49)
+- [Spec Driven Development: What It Fixes &lpar;and Breaks&rpar;](https://dev.to/mudassirworks/spec-driven-development-what-it-fixes-and-breaks-1co3)
+- [I&#39;m building Kumo, a terminal multiplexer for the AI agent era](https://dev.to/marcrdgz/im-building-kumo-a-terminal-multiplexer-for-the-ai-agent-era-383e)
+- [🚀 Introducing pack.nvim: The Modern UI for Neovim&#39;s Native Package Manager](https://dev.to/igmrrf/introducing-packnvim-the-modern-ui-for-neovims-native-package-manager-eii)
+- [I Built an AI That Tells You How Much Water It Just Drank](https://dev.to/joannamarrie/i-built-an-ai-that-tells-you-how-much-water-it-just-drank-48b1)
 <!-- BLOG-POST-LIST:END -->
 
