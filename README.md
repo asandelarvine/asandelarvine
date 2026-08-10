@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside DDoS Mitigation: The Methods and Tools That Keep Modern Websites Online](https://dev.to/ddos_expert/inside-ddos-mitigation-the-methods-and-tools-that-keep-modern-websites-online-5900)
-- [What&#39;s New in COPOMO — Customization, Rewards, and Focus Cosmetics](https://dev.to/copomo/whats-new-in-copomo-customization-rewards-and-focus-cosmetics-icc)
-- [Apache Spark for Beginners #1: Why Does Spark Exist?](https://dev.to/sanjeev_kumar_g03/apache-spark-for-beginners-1-why-does-spark-exist-1461)
-- [No LibreOffice, No COM: Three Pure-Python Legacy Office Converters](https://dev.to/corenovalabs/no-libreoffice-no-com-three-pure-python-legacy-office-converters-515o)
+- [Voltei ao DEV: o que mudou depois de 25 anos programando](https://dev.to/asllanmaciel/voltei-ao-dev-o-que-mudou-depois-de-25-anos-programando-1ikl)
+- [Polyfills, Shims, and Native Modules: Lessons from Building a React Native Crypto Wallet](https://dev.to/adilmezghouti/polyfills-shims-and-native-modules-lessons-from-building-a-react-native-crypto-wallet-4acc)
+- [Designing an Online Auction / Bidding System](https://dev.to/brawnybytes/designing-an-online-auction-bidding-system-1m2i)
+- [Building a Lightweight Knowledge Base for a Small Team: Migrating from Nextcloud to Cloudreve](https://dev.to/shangyin/building-a-lightweight-knowledge-base-for-a-small-team-migrating-from-nextcloud-to-cloudreve-42fi)
 <!-- BLOG-POST-LIST:END -->
 
