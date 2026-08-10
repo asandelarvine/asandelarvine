@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We Cut a 190 GB Production Database to 45 GB in One Night. Here&#39;s What We Learned](https://dev.to/vicky_acedia/we-cut-a-190-gb-production-database-to-45-gb-in-one-night-heres-what-we-learned-3kog)
-- [Securing the Software Supply Chain &lpar;SLSA, SBOM, Signing&rpar;](https://dev.to/sri2614/securing-the-software-supply-chain-slsa-sbom-signing-499e)
-- [How I listed my MCP on the official MCP Registery and how you can do yours too ?](https://dev.to/jay_elsheikh_59b14ad67922/how-i-listed-my-mcp-on-the-official-mcp-registery-and-how-you-can-do-yours-too--1lp)
-- [Custom Promise in JS](https://dev.to/sai_swaroopbijinapalli_5/custom-promise-in-js-80)
+- [A CVSS 10.0 in Your AI Coding Agent Is Just TOCTOU Wearing a Hoodie](https://dev.to/coridev/a-cvss-100-in-your-ai-coding-agent-is-just-toctou-wearing-a-hoodie-31jj)
+- [Building a Non-Blocking JPG-to-SVG Converter in the Browser with WebAssembly](https://dev.to/chynna_he_0cf22e351a30185/building-a-non-blocking-jpg-to-svg-converter-in-the-browser-with-webassembly-3peg)
+- [ASTC Isn&#39;t Automatically the Right Answer: Mobile Texture Formats for Unity on iOS and Android](https://dev.to/gamedevtoollab/astc-isnt-automatically-the-right-answer-mobile-texture-formats-for-unity-on-ios-and-android-4m5g)
+- [How to Build a Browser-Based Ringtone Editor with the Web Audio API](https://dev.to/athena886/how-to-build-a-browser-based-ringtone-editor-with-the-web-audio-api-3hp4)
 <!-- BLOG-POST-LIST:END -->
 
