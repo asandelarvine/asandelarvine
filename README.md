@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Log: 2026-08-09 — 72 classes that should have been 8 rows, and a compliance clock](https://dev.to/nasrulhazim/dev-log-2026-08-09-72-classes-that-should-have-been-8-rows-and-a-compliance-clock-25h0)
-- [A driver that quietly does nothing is worse than one that isn&#39;t there](https://dev.to/nasrulhazim/a-driver-that-quietly-does-nothing-is-worse-than-one-that-isnt-there-61m)
-- [How I built an automated Twitter + Telegram whale alert bot for Polymarket](https://dev.to/manpreet_brar_264e408885a/how-i-built-an-automated-twitter-telegram-whale-alert-bot-for-polymarket-1ahp)
-- [I Built a Free AI Screen Recorder That Auto-Edits Your Videos](https://dev.to/gabutskuy/i-built-a-free-ai-screen-recorder-that-auto-edits-your-videos-3gkj)
+- [ATProto for Distributed Systems Engineers: How Bluesky&#39;s Protocol Reimagines Social Infrastructure](https://dev.to/trismegistus/atproto-for-distributed-systems-engineers-how-blueskys-protocol-reimagines-social-infrastructure-25lm)
+- [Linux Practical Set B Solution – Vowels Count &amp; Case Conversion](https://dev.to/teamworkfahad/linux-practical-set-b-solution-vowels-count-case-conversion-j9l)
+- [Resilient UIs: Next.js Error Handling &amp; Observability 🚨](https://dev.to/iprajapatiparesh/resilient-uis-nextjs-error-handling-observability-3nnd)
+- [MCP Resource for LangGraph](https://dev.to/yashwanth_kasi/mcp-resource-for-langgraph-fl4)
 <!-- BLOG-POST-LIST:END -->
 
