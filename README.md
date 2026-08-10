@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Postgres Full-Text Search in Production: How to Load-Test the Index and Pin Down Relevance](https://dev.to/libme/postgres-full-text-search-in-production-how-to-load-test-the-index-and-pin-down-relevance-282b)
-- [Claude Code Can&#39;t Draw — This Plugin Borrows Your Codex CLI Login](https://dev.to/euk_ela_a3e7ed01aa3f7314e/claude-code-cant-draw-this-plugin-borrows-your-codex-cli-login-559c)
-- [Architecting Battery-Efficient Geofencing for Android Automation](https://dev.to/haseebthedev0/architecting-battery-efficient-geofencing-for-android-automation-55mo)
-- [Structured Context vs Pixel Context: What Coding Agents Actually Need](https://dev.to/romantsisyk/structured-context-vs-pixel-context-what-coding-agents-actually-need-4fl8)
+- [Dev Log: 2026-08-09 — 72 classes that should have been 8 rows, and a compliance clock](https://dev.to/nasrulhazim/dev-log-2026-08-09-72-classes-that-should-have-been-8-rows-and-a-compliance-clock-25h0)
+- [A driver that quietly does nothing is worse than one that isn&#39;t there](https://dev.to/nasrulhazim/a-driver-that-quietly-does-nothing-is-worse-than-one-that-isnt-there-61m)
+- [How I built an automated Twitter + Telegram whale alert bot for Polymarket](https://dev.to/manpreet_brar_264e408885a/how-i-built-an-automated-twitter-telegram-whale-alert-bot-for-polymarket-1ahp)
+- [I Built a Free AI Screen Recorder That Auto-Edits Your Videos](https://dev.to/gabutskuy/i-built-a-free-ai-screen-recorder-that-auto-edits-your-videos-3gkj)
 <!-- BLOG-POST-LIST:END -->
 
