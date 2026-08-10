@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens When 20,000 People Click the Same Seat](https://dev.to/aboalynx/what-happens-when-20000-people-click-the-same-seat-245n)
-- [Automating End-to-End PR Workflows with Claude Task Master](https://dev.to/developerzai/automating-end-to-end-pr-workflows-with-claude-task-master-3fgh)
-- [Text at 1:1 contrast is not an axe violation. It is incomplete.](https://dev.to/henrique_yuri_f42f2fca47a/text-at-11-contrast-is-not-an-axe-violation-it-is-incomplete-436c)
-- [Is this even a valid card? Zero-shot image classification model in a lambda container](https://dev.to/aws-builders/is-this-even-a-valid-card-zero-shot-image-classification-model-in-a-lambda-container-58oj)
+- [The Error Message I Rewrite Until a Stranger Understands It](https://dev.to/raxxostudios/the-error-message-i-rewrite-until-a-stranger-understands-it-4960)
+- [Git Like a Jedi: The Force of Clean Commits](https://dev.to/timevolt/git-like-a-jedi-the-force-of-clean-commits-38p6)
+- [Kiro IDE vs Kiro Crew: como estou usando agentes de IA para melhorar meu dia a dia](https://dev.to/guinas/kiro-ide-vs-kiro-crew-como-estou-usando-agentes-de-ia-para-melhorar-meu-dia-a-dia-12fc)
+- [Re-architecting AWS to Proxmox LXC: Saving 70% on Cloud Costs](https://dev.to/mealiclay01/re-architecting-aws-to-proxmox-lxc-saving-70-on-cloud-costs-4pch)
 <!-- BLOG-POST-LIST:END -->
 
