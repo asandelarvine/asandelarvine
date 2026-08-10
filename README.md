@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo solucionar el error \&quot;Text content does not match server-rendered HTML\&quot; en Next.js App Router](https://dev.to/erickeduardoramos03/como-solucionar-el-error-text-content-does-not-match-server-rendered-html-en-nextjs-app-router-3905)
-- [Why I Don&#39;t Put Tenant-Specific Validation in My FastAPI Endpoints](https://dev.to/sansk_ya/why-i-dont-put-tenant-specific-validation-in-my-fastapi-endpoints-5e4l)
-- [How SSL Certificates Work: Chains of Trust and Why Yours Expired](https://dev.to/arnavsharma2711/how-ssl-certificates-work-chains-of-trust-and-why-yours-expired-2g1i)
-- [What Happens During a TLS Handshake?](https://dev.to/arnavsharma2711/what-happens-during-a-tls-handshake-1mk7)
+- [We Cut a 190 GB Production Database to 45 GB in One Night. Here&#39;s What We Learned](https://dev.to/vicky_acedia/we-cut-a-190-gb-production-database-to-45-gb-in-one-night-heres-what-we-learned-3kog)
+- [Securing the Software Supply Chain &lpar;SLSA, SBOM, Signing&rpar;](https://dev.to/sri2614/securing-the-software-supply-chain-slsa-sbom-signing-499e)
+- [How I listed my MCP on the official MCP Registery and how you can do yours too ?](https://dev.to/jay_elsheikh_59b14ad67922/how-i-listed-my-mcp-on-the-official-mcp-registery-and-how-you-can-do-yours-too--1lp)
+- [Custom Promise in JS](https://dev.to/sai_swaroopbijinapalli_5/custom-promise-in-js-80)
 <!-- BLOG-POST-LIST:END -->
 
