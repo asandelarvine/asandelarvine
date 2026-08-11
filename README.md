@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Log: 2026-08-10 — a toast that lied, an enum with a missing case, and a design system that finally has an address](https://dev.to/nasrulhazim/dev-log-2026-08-10-a-toast-that-lied-an-enum-with-a-missing-case-and-a-design-system-that-405j)
-- [&quot;3 skipped&quot; tells the operator nothing](https://dev.to/nasrulhazim/3-skipped-tells-the-operator-nothing-c7i)
-- [7 กฎสำหรับ Self-Improving Agent Loops ที่ AI Engineer ทุกคนควรรู้, Google Cloud เปิดตัว agents-cli](https://dev.to/sarantoon/7-kdsamhrab-self-improving-agent-loops-thii-ai-engineer-thukkhnkhwrruu-google-cloud-epidtaw-agents-cli-o0m)
-- [100 Days of Solana - 2](https://dev.to/ik_8a78062fd65be769dd835/100-days-of-solana-2-160c)
+- [Build a Consent-First Welcome DM With Explicit Ownership](https://dev.to/susiewang/build-a-consent-first-welcome-dm-with-explicit-ownership-4iho)
+- [TryHackMe : The London Bridge writeup](https://dev.to/exploitnotes/tryhackme-the-london-bridge-writeup-3cf4)
+- [From 40 AI Tools to 4: A Practical Framework for Choosing What You Actually Need](https://dev.to/mage0535/from-40-ai-tools-to-4-a-practical-framework-for-choosing-what-you-actually-need-1p13)
+- [It’s Not an Agent Loop. It’s a Helix.](https://dev.to/tposchel/its-not-an-agent-loop-its-a-helix-10kj)
 <!-- BLOG-POST-LIST:END -->
 
