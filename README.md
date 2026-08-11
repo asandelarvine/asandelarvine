@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Forget Total Recall. Give Your AI Agent Selective Memory with OpenSearch.](https://dev.to/jon_handler_9bb3e6b4a2fd0/forget-total-recall-give-your-ai-agent-selective-memory-with-opensearch-2b9a)
-- [The End of Undetectable AI Text? Claude’s New Watermark Explained](https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2)
-- [Representing Music with Code](https://dev.to/aranadedoros/representing-music-with-code-4kbj)
-- [75.8% of failing AI coding runs still say &quot;Done&quot;. Here&#39;s what finally caught mine.](https://dev.to/sjh9714/758-of-failing-ai-coding-runs-still-say-done-heres-what-finally-caught-mine-325c)
+- [Mistral AI Regional Endpoints Bring EU and US Inference Controls to Enterprise Deployments](https://dev.to/alifar/mistral-ai-regional-endpoints-bring-eu-and-us-inference-controls-to-enterprise-deployments-317n)
+- [Compression Is Prediction — and It Explains Why LLMs Actually Work](https://dev.to/trismegistus/compression-is-prediction-and-it-explains-why-llms-actually-work-209e)
+- [QTCC](https://dev.to/joshua_ogunlade_cc523592b/qtcc-3mg2)
+- [Architecting a Low-Power Geofencing Engine for Android](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-for-android-535)
 <!-- BLOG-POST-LIST:END -->
 
