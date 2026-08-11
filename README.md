@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [IP Geolocation Is Wrong — Why VPN Detection Fails 90% Of Us](https://dev.to/onizuka/ip-geolocation-is-wrong-why-vpn-detection-fails-90-of-us-46bh)
-- [5 Ataques Zero-Trust con LLMs que Afectan Tu Seguridad](https://dev.to/angelh/5-ataques-zero-trust-con-llms-que-afectan-tu-seguridad-2jb4)
-- [7 n8n workflows that actually pay for themselves &lpar;from a solo automation agency&rpar;](https://dev.to/ayushopchauhan/7-n8n-workflows-that-actually-pay-for-themselves-from-a-solo-automation-agency-an9)
-- [[Boost]](https://dev.to/marioezquerro/-52j2)
+- [I built a Chrome extension, got 100 installs, and 90% of users left. Here&#39;s what I&#39;m fixing.](https://dev.to/mbilalkhan192003/i-built-a-chrome-extension-got-100-installs-and-90-of-users-left-heres-what-im-fixing-3gmi)
+- [Top Enterprise SCA Tools in 2026: A Developer&#39;s Comparison](https://dev.to/alexcybersmith/top-enterprise-sca-tools-in-2026-a-developers-comparison-3gnb)
+- [I built an AI patient, then spent most of my time stopping it from behaving like AI](https://dev.to/hercules09/i-built-an-ai-patient-then-spent-most-of-my-time-stopping-it-from-behaving-like-ai-54eb)
+- [DynamoDB: GSI, LSI, and related design ideas](https://dev.to/abhijeet_chaudhari_a/dynamodb-gsi-lsi-and-related-design-ideas-3fll)
 <!-- BLOG-POST-LIST:END -->
 
