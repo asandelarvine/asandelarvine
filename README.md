@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an SEO-Friendly Website That People Actually Want to Use](https://dev.to/krishna_kalra_50cca5b6ff4/how-to-build-an-seo-friendly-website-that-people-actually-want-to-use-16k7)
-- [Vada Pav - An Interactive Landing Page for Mumbai&#39;s Favorite Street Food](https://dev.to/tejas164321/vada-pav-an-interactive-landing-page-for-mumbais-favorite-street-food-3eli)
-- [Deploying to Cloudflare Pages from pure Python — no Node, no wrangler](https://dev.to/orix/deploying-to-cloudflare-pages-from-pure-python-no-node-no-wrangler-2ea1)
-- [I Built a PreToolUse Hook to Require Confirmation for Selected Commands—even in Claude Code&#39;s Auto Mode](https://dev.to/miura/i-built-a-pretooluse-hook-to-require-confirmation-for-selected-commands-even-in-claude-codes-auto-2bcn)
+- [Why Use .then&lpar;&rpar; When Async/Await Is Cleaner?](https://dev.to/kenryikegbo/why-use-then-when-asyncawait-is-cleaner-1k11)
+- [The Human Factor of AI and Coding](https://dev.to/aws-builders/the-human-factor-of-ai-and-coding-4148)
+- [&quot;nginx doesn&#39;t run your config top to bottom: two traps with rewrite, try_files, and if&quot;](https://dev.to/shinagawa-web/nginx-doesnt-run-your-config-top-to-bottom-two-traps-with-rewrite-tryfiles-and-if-2hlm)
+- [What Is Data Analysis?](https://dev.to/michaelnocito/what-is-data-analysis-5ggc)
 <!-- BLOG-POST-LIST:END -->
 
