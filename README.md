@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative Engine Optimization Is Growing, but the Panda Parallel Is Not Proven](https://dev.to/alifar/generative-engine-optimization-is-growing-but-the-panda-parallel-is-not-proven-34no)
-- [DFlash Changes What Tokens per Second Means](https://dev.to/pich/dflash-changes-what-tokens-per-second-means-4493)
-- [Apple quietly shipped everything you need to build a real-time translator — so I built one](https://dev.to/toffy/apple-quietly-shipped-everything-you-need-to-build-a-real-time-translator-so-i-built-one-9ce)
-- [The EU AI Act asks AI to identify itself. I checked 30 years of that experiment on my server.](https://dev.to/akashy/the-eu-ai-act-asks-ai-to-identify-itself-i-checked-30-years-of-that-experiment-on-my-server-21bm)
+- [We shipped an MCP server for WhatsApp link generation — no API key required](https://dev.to/inside_dc_pulse/we-shipped-an-mcp-server-for-whatsapp-link-generation-no-api-key-required-g8a)
+- [Should I Raise Venture Capital or Bootstrap?](https://dev.to/ido_barkan/should-i-raise-venture-capital-or-bootstrap-2clo)
+- [Google Expands Gemini 3.5 With Flash, Omni and Spark Across Apps and Enterprise Tools](https://dev.to/alifar/google-expands-gemini-35-with-flash-omni-and-spark-across-apps-and-enterprise-tools-47oc)
+- [The Celery Lifecycle: How a Task Gets Registered, Queued, and Run](https://dev.to/engrmark/the-celery-lifecycle-how-a-task-gets-registered-queued-and-run-5gjb)
 <!-- BLOG-POST-LIST:END -->
 
