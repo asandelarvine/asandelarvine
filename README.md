@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I have 591 pages. Google indexed one. Here&#39;s how I&#39;m debugging it.](https://dev.to/bcrypto/i-have-591-pages-google-indexed-one-heres-how-im-debugging-it-5cel)
-- [The price on my shop page was not the price at checkout](https://dev.to/maxyull/the-price-on-my-shop-page-was-not-the-price-at-checkout-5e2p)
-- [AI Prompts That Actually Save You Hours Every Week](https://dev.to/mr_ho_5662e7842ba776/ai-prompts-that-actually-save-you-hours-every-week-52fm)
-- [ShowDev: I built a bulk HTML-to-Markdown converter that runs entirely in the browser](https://dev.to/cdieck88/showdev-i-built-a-bulk-html-to-markdown-converter-that-runs-entirely-in-the-browser-3p3e)
+- [Generative Engine Optimization Is Growing, but the Panda Parallel Is Not Proven](https://dev.to/alifar/generative-engine-optimization-is-growing-but-the-panda-parallel-is-not-proven-34no)
+- [DFlash Changes What Tokens per Second Means](https://dev.to/pich/dflash-changes-what-tokens-per-second-means-4493)
+- [Apple quietly shipped everything you need to build a real-time translator — so I built one](https://dev.to/toffy/apple-quietly-shipped-everything-you-need-to-build-a-real-time-translator-so-i-built-one-9ce)
+- [The EU AI Act asks AI to identify itself. I checked 30 years of that experiment on my server.](https://dev.to/akashy/the-eu-ai-act-asks-ai-to-identify-itself-i-checked-30-years-of-that-experiment-on-my-server-21bm)
 <!-- BLOG-POST-LIST:END -->
 
