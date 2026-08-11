@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Shipping i18n at Scale Without a Translation Platform](https://dev.to/pack-lightly/shipping-i18n-at-scale-without-a-translation-platform-1k9e)
-- [Why Route Ranking Needs Deterministic Scoring, Not a Language Model](https://dev.to/pack-lightly/why-route-ranking-needs-deterministic-scoring-not-a-language-model-4bjk)
-- [D1 番外：一筆下錯的單，被 AI 說成「只是測試」](https://dev.to/_2ab71a79dd36101e6be89/d1-fan-wai-bi-xia-cuo-de-dan-bei-ai-shuo-cheng-zhi-shi-ce-shi--1jh)
-- [The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database](https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li)
+- [How We Test Mobile Web Performance on Real Android and iPhone Devices](https://dev.to/ujimobile/how-we-test-mobile-web-performance-on-real-android-and-iphone-devices-49o5)
+- [DNS Records Explained: A, AAAA, CNAME, MX, TXT, NS, and SRV Records in Modern Internet Infrastructure](https://dev.to/anik_sikder_313/dns-propagation-explained-why-dns-changes-take-time-and-what-actually-happens-behind-the-scenes-29gm)
+- [Nvidia&#39;s Router Is the Part of Agents Everyone Keeps Rebuilding](https://dev.to/reidmarlow/nvidias-router-is-the-part-of-agents-everyone-keeps-rebuilding-20e1)
+- [A permissive robots.txt is not a licence](https://dev.to/mk023/a-permissive-robotstxt-is-not-a-licence-2m3i)
 <!-- BLOG-POST-LIST:END -->
 
