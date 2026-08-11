@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Chrome extension, got 100 installs, and 90% of users left. Here&#39;s what I&#39;m fixing.](https://dev.to/mbilalkhan192003/i-built-a-chrome-extension-got-100-installs-and-90-of-users-left-heres-what-im-fixing-3gmi)
-- [Top Enterprise SCA Tools in 2026: A Developer&#39;s Comparison](https://dev.to/alexcybersmith/top-enterprise-sca-tools-in-2026-a-developers-comparison-3gnb)
-- [I built an AI patient, then spent most of my time stopping it from behaving like AI](https://dev.to/hercules09/i-built-an-ai-patient-then-spent-most-of-my-time-stopping-it-from-behaving-like-ai-54eb)
-- [DynamoDB: GSI, LSI, and related design ideas](https://dev.to/abhijeet_chaudhari_a/dynamodb-gsi-lsi-and-related-design-ideas-3fll)
+- [How to Build an SEO-Friendly Website That People Actually Want to Use](https://dev.to/krishna_kalra_50cca5b6ff4/how-to-build-an-seo-friendly-website-that-people-actually-want-to-use-16k7)
+- [Vada Pav - An Interactive Landing Page for Mumbai&#39;s Favorite Street Food](https://dev.to/tejas164321/vada-pav-an-interactive-landing-page-for-mumbais-favorite-street-food-3eli)
+- [Deploying to Cloudflare Pages from pure Python — no Node, no wrangler](https://dev.to/orix/deploying-to-cloudflare-pages-from-pure-python-no-node-no-wrangler-2ea1)
+- [I Built a PreToolUse Hook to Require Confirmation for Selected Commands—even in Claude Code&#39;s Auto Mode](https://dev.to/miura/i-built-a-pretooluse-hook-to-require-confirmation-for-selected-commands-even-in-claude-codes-auto-2bcn)
 <!-- BLOG-POST-LIST:END -->
 
