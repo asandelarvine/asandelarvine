@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Use .then&lpar;&rpar; When Async/Await Is Cleaner?](https://dev.to/kenryikegbo/why-use-then-when-asyncawait-is-cleaner-1k11)
-- [The Human Factor of AI and Coding](https://dev.to/aws-builders/the-human-factor-of-ai-and-coding-4148)
-- [&quot;nginx doesn&#39;t run your config top to bottom: two traps with rewrite, try_files, and if&quot;](https://dev.to/shinagawa-web/nginx-doesnt-run-your-config-top-to-bottom-two-traps-with-rewrite-tryfiles-and-if-2hlm)
-- [What Is Data Analysis?](https://dev.to/michaelnocito/what-is-data-analysis-5ggc)
+- [Shipping i18n at Scale Without a Translation Platform](https://dev.to/pack-lightly/shipping-i18n-at-scale-without-a-translation-platform-1k9e)
+- [Why Route Ranking Needs Deterministic Scoring, Not a Language Model](https://dev.to/pack-lightly/why-route-ranking-needs-deterministic-scoring-not-a-language-model-4bjk)
+- [D1 番外：一筆下錯的單，被 AI 說成「只是測試」](https://dev.to/_2ab71a79dd36101e6be89/d1-fan-wai-bi-xia-cuo-de-dan-bei-ai-shuo-cheng-zhi-shi-ce-shi--1jh)
+- [The Accidental DDOS: How a Single React Bracket Triggered 100,000 API Requests and Melted Our Database](https://dev.to/pooja_bhavani/the-accidental-ddos-how-a-single-react-bracket-triggered-100000-api-requests-and-melted-our-36li)
 <!-- BLOG-POST-LIST:END -->
 
