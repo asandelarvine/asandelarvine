@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Test Mobile Web Performance on Real Android and iPhone Devices](https://dev.to/ujimobile/how-we-test-mobile-web-performance-on-real-android-and-iphone-devices-49o5)
-- [DNS Records Explained: A, AAAA, CNAME, MX, TXT, NS, and SRV Records in Modern Internet Infrastructure](https://dev.to/anik_sikder_313/dns-propagation-explained-why-dns-changes-take-time-and-what-actually-happens-behind-the-scenes-29gm)
-- [Nvidia&#39;s Router Is the Part of Agents Everyone Keeps Rebuilding](https://dev.to/reidmarlow/nvidias-router-is-the-part-of-agents-everyone-keeps-rebuilding-20e1)
-- [A permissive robots.txt is not a licence](https://dev.to/mk023/a-permissive-robotstxt-is-not-a-licence-2m3i)
+- [I have 591 pages. Google indexed one. Here&#39;s how I&#39;m debugging it.](https://dev.to/bcrypto/i-have-591-pages-google-indexed-one-heres-how-im-debugging-it-5cel)
+- [The price on my shop page was not the price at checkout](https://dev.to/maxyull/the-price-on-my-shop-page-was-not-the-price-at-checkout-5e2p)
+- [AI Prompts That Actually Save You Hours Every Week](https://dev.to/mr_ho_5662e7842ba776/ai-prompts-that-actually-save-you-hours-every-week-52fm)
+- [ShowDev: I built a bulk HTML-to-Markdown converter that runs entirely in the browser](https://dev.to/cdieck88/showdev-i-built-a-bulk-html-to-markdown-converter-that-runs-entirely-in-the-browser-3p3e)
 <!-- BLOG-POST-LIST:END -->
 
