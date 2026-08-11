@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Error Message I Rewrite Until a Stranger Understands It](https://dev.to/raxxostudios/the-error-message-i-rewrite-until-a-stranger-understands-it-4960)
-- [Git Like a Jedi: The Force of Clean Commits](https://dev.to/timevolt/git-like-a-jedi-the-force-of-clean-commits-38p6)
-- [Kiro IDE vs Kiro Crew: como estou usando agentes de IA para melhorar meu dia a dia](https://dev.to/guinas/kiro-ide-vs-kiro-crew-como-estou-usando-agentes-de-ia-para-melhorar-meu-dia-a-dia-12fc)
-- [Re-architecting AWS to Proxmox LXC: Saving 70% on Cloud Costs](https://dev.to/mealiclay01/re-architecting-aws-to-proxmox-lxc-saving-70-on-cloud-costs-4pch)
+- [Dev Log: 2026-08-10 — a toast that lied, an enum with a missing case, and a design system that finally has an address](https://dev.to/nasrulhazim/dev-log-2026-08-10-a-toast-that-lied-an-enum-with-a-missing-case-and-a-design-system-that-405j)
+- [&quot;3 skipped&quot; tells the operator nothing](https://dev.to/nasrulhazim/3-skipped-tells-the-operator-nothing-c7i)
+- [7 กฎสำหรับ Self-Improving Agent Loops ที่ AI Engineer ทุกคนควรรู้, Google Cloud เปิดตัว agents-cli](https://dev.to/sarantoon/7-kdsamhrab-self-improving-agent-loops-thii-ai-engineer-thukkhnkhwrruu-google-cloud-epidtaw-agents-cli-o0m)
+- [100 Days of Solana - 2](https://dev.to/ik_8a78062fd65be769dd835/100-days-of-solana-2-160c)
 <!-- BLOG-POST-LIST:END -->
 
