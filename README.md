@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Keep logged in to Claude between container builds](https://dev.to/sukkergris/keep-logged-in-to-claude-between-container-builds-430h)
-- [GPT-5.6-Cyber: Daybreak Red, Exclusive Access Security](https://dev.to/gp-ia-blog/gpt-56-cyber-daybreak-red-exclusive-access-security-4h4e)
-- [Docker BuildKit Cache Setup That Actually Speeds Up CI](https://dev.to/oleksandr_kuryzhev_42873f/docker-buildkit-cache-setup-that-actually-speeds-up-ci-44di)
-- [What I learned building a payments page with no payment processor - A free, self-hosted, zero commission donation platform](https://dev.to/shivams136/what-i-learned-building-a-payments-page-with-no-payment-processor-a-free-self-hosted-zero-lne)
+- [IP Geolocation Is Wrong — Why VPN Detection Fails 90% Of Us](https://dev.to/onizuka/ip-geolocation-is-wrong-why-vpn-detection-fails-90-of-us-46bh)
+- [5 Ataques Zero-Trust con LLMs que Afectan Tu Seguridad](https://dev.to/angelh/5-ataques-zero-trust-con-llms-que-afectan-tu-seguridad-2jb4)
+- [7 n8n workflows that actually pay for themselves &lpar;from a solo automation agency&rpar;](https://dev.to/ayushopchauhan/7-n8n-workflows-that-actually-pay-for-themselves-from-a-solo-automation-agency-an9)
+- [[Boost]](https://dev.to/marioezquerro/-52j2)
 <!-- BLOG-POST-LIST:END -->
 
