@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Consent-First Welcome DM With Explicit Ownership](https://dev.to/susiewang/build-a-consent-first-welcome-dm-with-explicit-ownership-4iho)
-- [TryHackMe : The London Bridge writeup](https://dev.to/exploitnotes/tryhackme-the-london-bridge-writeup-3cf4)
-- [From 40 AI Tools to 4: A Practical Framework for Choosing What You Actually Need](https://dev.to/mage0535/from-40-ai-tools-to-4-a-practical-framework-for-choosing-what-you-actually-need-1p13)
-- [It’s Not an Agent Loop. It’s a Helix.](https://dev.to/tposchel/its-not-an-agent-loop-its-a-helix-10kj)
+- [Keep logged in to Claude between container builds](https://dev.to/sukkergris/keep-logged-in-to-claude-between-container-builds-430h)
+- [GPT-5.6-Cyber: Daybreak Red, Exclusive Access Security](https://dev.to/gp-ia-blog/gpt-56-cyber-daybreak-red-exclusive-access-security-4h4e)
+- [Docker BuildKit Cache Setup That Actually Speeds Up CI](https://dev.to/oleksandr_kuryzhev_42873f/docker-buildkit-cache-setup-that-actually-speeds-up-ci-44di)
+- [What I learned building a payments page with no payment processor - A free, self-hosted, zero commission donation platform](https://dev.to/shivams136/what-i-learned-building-a-payments-page-with-no-payment-processor-a-free-self-hosted-zero-lne)
 <!-- BLOG-POST-LIST:END -->
 
