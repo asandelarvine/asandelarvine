@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We shipped an MCP server for WhatsApp link generation — no API key required](https://dev.to/inside_dc_pulse/we-shipped-an-mcp-server-for-whatsapp-link-generation-no-api-key-required-g8a)
-- [Should I Raise Venture Capital or Bootstrap?](https://dev.to/ido_barkan/should-i-raise-venture-capital-or-bootstrap-2clo)
-- [Google Expands Gemini 3.5 With Flash, Omni and Spark Across Apps and Enterprise Tools](https://dev.to/alifar/google-expands-gemini-35-with-flash-omni-and-spark-across-apps-and-enterprise-tools-47oc)
-- [The Celery Lifecycle: How a Task Gets Registered, Queued, and Run](https://dev.to/engrmark/the-celery-lifecycle-how-a-task-gets-registered-queued-and-run-5gjb)
+- [Forget Total Recall. Give Your AI Agent Selective Memory with OpenSearch.](https://dev.to/jon_handler_9bb3e6b4a2fd0/forget-total-recall-give-your-ai-agent-selective-memory-with-opensearch-2b9a)
+- [The End of Undetectable AI Text? Claude’s New Watermark Explained](https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2)
+- [Representing Music with Code](https://dev.to/aranadedoros/representing-music-with-code-4kbj)
+- [75.8% of failing AI coding runs still say &quot;Done&quot;. Here&#39;s what finally caught mine.](https://dev.to/sjh9714/758-of-failing-ai-coding-runs-still-say-done-heres-what-finally-caught-mine-325c)
 <!-- BLOG-POST-LIST:END -->
 
