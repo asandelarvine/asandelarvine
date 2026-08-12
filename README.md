@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I let every AI crawler in. A month later I cannot tell you how many people read me](https://dev.to/mk023/i-let-every-ai-crawler-in-a-month-later-i-cannot-tell-you-how-many-people-read-me-3415)
-- [&quot;I Wired Five Open-Source Tools Into One Command &lpar;Part 1&rpar;: The Report Was All Green, the Game Was Dead&quot;](https://dev.to/dexterlung/i-wired-five-open-source-tools-into-one-command-part-1-the-report-was-all-green-the-game-was-978)
-- [André Dias Moreira Prol: Claude 4 Extended Reasoning for Power Users](https://dev.to/andr_diasmoreiraprol_b/andre-dias-moreira-prol-claude-4-extended-reasoning-for-power-users-agg)
-- [André Dias Moreira Prol: raciocínio estendido do Claude 4 na prática](https://dev.to/andr_diasmoreiraprol_b/andre-dias-moreira-prol-raciocinio-estendido-do-claude-4-na-pratica-4235)
+- [OpenWorkProof Protocol Specification](https://dev.to/dengyier/openworkproof-protocol-specification-3k8e)
+- [The Manifest That Keeps Your AI Agent Honest](https://dev.to/cognous/the-manifest-that-keeps-your-ai-agent-honest-3e97)
+- [I Built a RAG App on My Laptop Without Paying OpenAI a Single Rupee Here&#39;s How](https://dev.to/speaklouder/i-built-a-rag-app-on-my-laptop-without-paying-openai-a-single-rupee-heres-how-4dpc)
+- [The Software Development Life Cycle in the Age of AI Agents](https://dev.to/cpathirage/the-software-development-life-cycle-in-the-age-of-ai-agents-39m6)
 <!-- BLOG-POST-LIST:END -->
 
