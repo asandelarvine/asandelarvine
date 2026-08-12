@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your PBX Software Is Only as Safe as the Ports You Left Open](https://dev.to/tahiralmas/your-pbx-software-is-only-as-safe-as-the-ports-you-left-open-5di8)
-- [Never Ship a Blog Post Without a Featured Image Again](https://dev.to/savage_solutions/never-ship-a-blog-post-without-a-featured-image-again-3ed3)
-- [API Key Management for a Public SaaS API](https://dev.to/iurii_rogulia/api-key-management-for-a-public-saas-api-57bk)
-- [Design API Access Revocation So Users Know What Actually Gets Deleted](https://dev.to/anakin_writers/design-api-access-revocation-so-users-know-what-actually-gets-deleted-31cg)
+- [Building a RAG System From Scratch — Four Components, One Working Pipeline](https://dev.to/rit_the_coder/building-a-rag-system-from-scratch-four-components-one-working-pipeline-5ad8)
+- [Beyond Vector Search: Building Better RAG Retrieval with Hybrid Search and Reranking](https://dev.to/damir-karimov/beyond-vector-search-building-better-rag-retrieval-with-hybrid-search-and-reranking-p0e)
+- [Why Comments Should Explain the Reason, Not Repeat the Decision](https://dev.to/tanya_kamenskih_fae915d43/why-comments-should-explain-the-reason-not-repeat-the-decision-32hg)
+- [The report says verified. Is the change safe to release?](https://dev.to/bigdatasight/the-report-says-verified-is-the-change-safe-to-release-4g96)
 <!-- BLOG-POST-LIST:END -->
 
