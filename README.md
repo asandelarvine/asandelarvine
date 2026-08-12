@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mistral AI Regional Endpoints Bring EU and US Inference Controls to Enterprise Deployments](https://dev.to/alifar/mistral-ai-regional-endpoints-bring-eu-and-us-inference-controls-to-enterprise-deployments-317n)
-- [Compression Is Prediction — and It Explains Why LLMs Actually Work](https://dev.to/trismegistus/compression-is-prediction-and-it-explains-why-llms-actually-work-209e)
-- [QTCC](https://dev.to/joshua_ogunlade_cc523592b/qtcc-3mg2)
-- [Architecting a Low-Power Geofencing Engine for Android](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-for-android-535)
+- [We hit 99.95% on the LoCoMo memory benchmark. Here&#39;s the catch, and why it still matters.](https://dev.to/jon_at_backboardio/we-hit-9995-on-the-locomo-memory-benchmark-heres-the-catch-and-why-it-still-matters-3and)
+- [Our small team just outscored Claude Code and Codex on Terminal-Bench](https://dev.to/jon_at_backboardio/our-small-team-just-outscored-claude-code-and-codex-on-terminal-bench-1lbk)
+- [Your Agent Recovered the Run. Did It Recover the Message?](https://dev.to/zira125/your-agent-recovered-the-run-did-it-recover-the-message-3pnj)
+- [Converting Traditional Chinese to Simplified in PDFs: Why We Ended Up With a &quot;Combined Approach&quot;](https://dev.to/eyanpen/converting-traditional-chinese-to-simplified-in-pdfs-why-we-ended-up-with-a-combined-approach-4ifk)
 <!-- BLOG-POST-LIST:END -->
 
