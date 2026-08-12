@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Much Text There Is to Train On, and How It Is Counted](https://dev.to/multigrid/how-much-text-there-is-to-train-on-and-how-it-is-counted-5df1)
-- [Training Data and Copyright, by Jurisdiction](https://dev.to/multigrid/training-data-and-copyright-by-jurisdiction-4djl)
-- [License Plate Reader Searches Should Require a Warrant — and the Data Says Why](https://dev.to/trismegistus/license-plate-reader-searches-should-require-a-warrant-and-the-data-says-why-2abi)
-- [Toolformer and Learned Tool Use](https://dev.to/multigrid/toolformer-and-learned-tool-use-3i3o)
+- [I Built a Filipino Cooking App That Recommends Food Based on the Weather](https://dev.to/justpres/i-built-a-filipino-cooking-app-that-recommends-food-based-on-the-weather-2e3f)
+- [System Design: A popular cache key expires and 40,000 requests hit your database. How do you fix it?](https://dev.to/gaurav_sharma_c2ef5dd7646/system-design-a-popular-cache-key-expires-and-40000-requests-hit-your-database-how-do-you-fix-it-i3l)
+- [Adding Low-Noise Error Alerts to an Express API with Wotchi](https://dev.to/ivan_kabar_83410b5992cece/adding-low-noise-error-alerts-to-an-express-api-with-wotchi-56o5)
+- [ChatGPT SaaS Citation Studies: What the Evidence Suggests About AI Source Selection](https://dev.to/alifar/chatgpt-saas-citation-studies-what-the-evidence-suggests-about-ai-source-selection-4h26)
 <!-- BLOG-POST-LIST:END -->
 
