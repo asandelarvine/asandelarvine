@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a RAG System From Scratch — Four Components, One Working Pipeline](https://dev.to/rit_the_coder/building-a-rag-system-from-scratch-four-components-one-working-pipeline-5ad8)
-- [Beyond Vector Search: Building Better RAG Retrieval with Hybrid Search and Reranking](https://dev.to/damir-karimov/beyond-vector-search-building-better-rag-retrieval-with-hybrid-search-and-reranking-p0e)
-- [Why Comments Should Explain the Reason, Not Repeat the Decision](https://dev.to/tanya_kamenskih_fae915d43/why-comments-should-explain-the-reason-not-repeat-the-decision-32hg)
-- [The report says verified. Is the change safe to release?](https://dev.to/bigdatasight/the-report-says-verified-is-the-change-safe-to-release-4g96)
+- [I let every AI crawler in. A month later I cannot tell you how many people read me](https://dev.to/mk023/i-let-every-ai-crawler-in-a-month-later-i-cannot-tell-you-how-many-people-read-me-3415)
+- [&quot;I Wired Five Open-Source Tools Into One Command &lpar;Part 1&rpar;: The Report Was All Green, the Game Was Dead&quot;](https://dev.to/dexterlung/i-wired-five-open-source-tools-into-one-command-part-1-the-report-was-all-green-the-game-was-978)
+- [André Dias Moreira Prol: Claude 4 Extended Reasoning for Power Users](https://dev.to/andr_diasmoreiraprol_b/andre-dias-moreira-prol-claude-4-extended-reasoning-for-power-users-agg)
+- [André Dias Moreira Prol: raciocínio estendido do Claude 4 na prática](https://dev.to/andr_diasmoreiraprol_b/andre-dias-moreira-prol-raciocinio-estendido-do-claude-4-na-pratica-4235)
 <!-- BLOG-POST-LIST:END -->
 
