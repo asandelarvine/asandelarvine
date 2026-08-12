@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como o Zabbix pode ajudar no dia a dia de um time de NOC](https://dev.to/guinas/como-o-zabbix-pode-ajudar-no-dia-a-dia-de-um-time-de-noc-1cn9)
-- [AI Model Automates Akkadian Cuneiform Translation, Reducing Reliance on Human Expertise and Time](https://dev.to/natcher/ai-model-automates-akkadian-cuneiform-translation-reducing-reliance-on-human-expertise-and-time-4h9j)
-- [I built JARVIS — a local-first AI assistant you actually own &lpar;macOS + Linux, MIT&rpar;](https://dev.to/christopher_studva_7a1f8e/i-built-jarvis-a-local-first-ai-assistant-you-actually-own-macos-linux-mit-2171)
-- [When My Digital Journal Felt Like a Glass House](https://dev.to/shreyansh_jain/when-my-digital-journal-felt-like-a-glass-house-34cf)
+- [Qwen3.8-Max says it beats GPT-5.6 and Fable 5 at computer use. Here&#39;s my checklist before I believe any open-weights release](https://dev.to/frankchu/qwen38-max-says-it-beats-gpt-56-and-fable-5-at-computer-use-heres-my-checklist-before-i-believe-48h0)
+- [I Ported decimal.js to Go in 72 Hours — and Found 5 Bugs in the Original](https://dev.to/isundram/-i-ported-decimaljs-to-go-in-72-hours-and-found-4-bugs-in-the-original-3k3b)
+- [Turns Out This Is the Reason Our useEffect Often Causes Memory Leaks in React](https://dev.to/javapixastudio/turns-out-this-is-the-reason-our-useeffect-often-causes-memory-leaks-in-react-5fpf)
+- [The Edge Computing Revolution: Securing and Scaling Middleware for Distributed Systems](https://dev.to/tamizuddin/the-edge-computing-revolution-securing-and-scaling-middleware-for-distributed-systems-fem)
 <!-- BLOG-POST-LIST:END -->
 
