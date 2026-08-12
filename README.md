@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Polymarket Trading Bot After TWAP Implemented](https://dev.to/cryptomoonday/how-to-build-a-polymarket-trading-bot-after-twap-implemented-1fc1)
-- [Gating a Merge on an Eval Score in Azure Pipelines](https://dev.to/multigrid/gating-a-merge-on-an-eval-score-in-azure-pipelines-19ai)
-- [Fixing &quot;TooManyRequests&quot; From Azure OpenAI Under Load](https://dev.to/multigrid/fixing-toomanyrequests-from-azure-openai-under-load-34bn)
-- [Authenticating to Azure OpenAI With Managed Identity](https://dev.to/multigrid/authenticating-to-azure-openai-with-managed-identity-36bj)
+- [Batch vs Streaming en Data Engineering: cómo decidir en producción sin romper nada](https://dev.to/agusmazzeo/batch-vs-streaming-en-data-engineering-como-decidir-en-produccion-sin-romper-nada-7p3)
+- [The same dashboard gives me one number I can trust and one I cannot, and I had been reading both](https://dev.to/blueticks/the-same-dashboard-gives-me-one-number-i-can-trust-and-one-i-cannot-and-i-had-been-reading-both-2eab)
+- [Extracting Structured Fields From a Closing Disclosure](https://dev.to/multigrid/extracting-structured-fields-from-a-closing-disclosure-17ci)
+- [Extracting Eligibility Criteria From a Clinical Trial Protocol](https://dev.to/multigrid/extracting-eligibility-criteria-from-a-clinical-trial-protocol-1197)
 <!-- BLOG-POST-LIST:END -->
 
