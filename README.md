@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to migrate Laravel 13 + Next.js to Zero-Downtime VPS Releases](https://dev.to/dineshstack/how-to-migrate-laravel-13-nextjs-to-zero-downtime-vps-releases-17i3)
-- [How Four Color Wheels Work in Video Editing—and How I Built Them in the Browser](https://dev.to/martindelophy/how-four-color-wheels-work-in-video-editing-and-how-i-built-them-in-the-browser-2jfd)
-- [Developers are installing taste: 4 of today&#39;s 7 fastest-rising Claude Code skill searches are design skills](https://dev.to/skillselion/developers-are-installing-taste-4-of-todays-7-fastest-rising-claude-code-skill-searches-are-3mjh)
-- [The Lambda Latency Trap: Why Your “12ms” Go API Can Suddenly Take 800ms](https://dev.to/harsh_8ee3e7db8b88fa3b447/the-lambda-latency-trap-why-your-12ms-go-api-can-suddenly-take-800ms-jhn)
+- [Your PBX Software Is Only as Safe as the Ports You Left Open](https://dev.to/tahiralmas/your-pbx-software-is-only-as-safe-as-the-ports-you-left-open-5di8)
+- [Never Ship a Blog Post Without a Featured Image Again](https://dev.to/savage_solutions/never-ship-a-blog-post-without-a-featured-image-again-3ed3)
+- [API Key Management for a Public SaaS API](https://dev.to/iurii_rogulia/api-key-management-for-a-public-saas-api-57bk)
+- [Design API Access Revocation So Users Know What Actually Gets Deleted](https://dev.to/anakin_writers/design-api-access-revocation-so-users-know-what-actually-gets-deleted-31cg)
 <!-- BLOG-POST-LIST:END -->
 
