@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenWorkProof Protocol Specification](https://dev.to/dengyier/openworkproof-protocol-specification-3k8e)
-- [The Manifest That Keeps Your AI Agent Honest](https://dev.to/cognous/the-manifest-that-keeps-your-ai-agent-honest-3e97)
-- [I Built a RAG App on My Laptop Without Paying OpenAI a Single Rupee Here&#39;s How](https://dev.to/speaklouder/i-built-a-rag-app-on-my-laptop-without-paying-openai-a-single-rupee-heres-how-4dpc)
-- [The Software Development Life Cycle in the Age of AI Agents](https://dev.to/cpathirage/the-software-development-life-cycle-in-the-age-of-ai-agents-39m6)
+- [[Advanced Rust] 2.10. API Design Principles of Constrained Pt.1 - Changing Types](https://dev.to/someb1oody/advanced-rust-210-api-design-principles-of-constrained-pt1-changing-types-4h29)
+- [Truncation Strategies When Your Prompt Won’t Fit](https://dev.to/multigrid/truncation-strategies-when-your-prompt-wont-fit-3kc4)
+- [A Sandbox Got Popped at Black Hat. Nobody Should Be Shocked.](https://dev.to/coridev/a-sandbox-got-popped-at-black-hat-nobody-should-be-shocked-354d)
+- [Turning a Working Prompt Into a Reusable Recipe](https://dev.to/multigrid/turning-a-working-prompt-into-a-reusable-recipe-1nim)
 <!-- BLOG-POST-LIST:END -->
 
