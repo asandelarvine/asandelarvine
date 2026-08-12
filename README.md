@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Batch vs Streaming en Data Engineering: cómo decidir en producción sin romper nada](https://dev.to/agusmazzeo/batch-vs-streaming-en-data-engineering-como-decidir-en-produccion-sin-romper-nada-7p3)
-- [The same dashboard gives me one number I can trust and one I cannot, and I had been reading both](https://dev.to/blueticks/the-same-dashboard-gives-me-one-number-i-can-trust-and-one-i-cannot-and-i-had-been-reading-both-2eab)
-- [Extracting Structured Fields From a Closing Disclosure](https://dev.to/multigrid/extracting-structured-fields-from-a-closing-disclosure-17ci)
-- [Extracting Eligibility Criteria From a Clinical Trial Protocol](https://dev.to/multigrid/extracting-eligibility-criteria-from-a-clinical-trial-protocol-1197)
+- [Dev Log: 2026-08-12 — a 96s suite that became 42s, a capability that wasn&#39;t a scope, and four steps to a passkey](https://dev.to/nasrulhazim/dev-log-2026-08-12-a-96s-suite-that-became-42s-a-capability-that-wasnt-a-scope-and-four-steps-c0a)
+- [I Moved My Discord Bot Off a Paid LLM API. Five Things Broke.](https://dev.to/codepy_1473/i-moved-my-discord-bot-off-a-paid-llm-api-five-things-broke-2ik5)
+- [Detecting Cycles and Loops in a Dependency Graph](https://dev.to/multigrid/detecting-cycles-and-loops-in-a-dependency-graph-2eca)
+- [Nukkad Chat Corner 🍵 | Comfort Food Isn’t a Restaurant — It’s a Thela. That’s Where the Soul Gets Comfort. I Sculpted Mine in CSS.](https://dev.to/khushalsarode/nukkad-chat-corner-comfort-food-isnt-a-restaurant-its-a-thela-thats-where-the-soul-gets-df0)
 <!-- BLOG-POST-LIST:END -->
 
