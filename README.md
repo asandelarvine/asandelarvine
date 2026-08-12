@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Advanced Rust] 2.10. API Design Principles of Constrained Pt.1 - Changing Types](https://dev.to/someb1oody/advanced-rust-210-api-design-principles-of-constrained-pt1-changing-types-4h29)
-- [Truncation Strategies When Your Prompt Won’t Fit](https://dev.to/multigrid/truncation-strategies-when-your-prompt-wont-fit-3kc4)
-- [A Sandbox Got Popped at Black Hat. Nobody Should Be Shocked.](https://dev.to/coridev/a-sandbox-got-popped-at-black-hat-nobody-should-be-shocked-354d)
-- [Turning a Working Prompt Into a Reusable Recipe](https://dev.to/multigrid/turning-a-working-prompt-into-a-reusable-recipe-1nim)
+- [How Much Text There Is to Train On, and How It Is Counted](https://dev.to/multigrid/how-much-text-there-is-to-train-on-and-how-it-is-counted-5df1)
+- [Training Data and Copyright, by Jurisdiction](https://dev.to/multigrid/training-data-and-copyright-by-jurisdiction-4djl)
+- [License Plate Reader Searches Should Require a Warrant — and the Data Says Why](https://dev.to/trismegistus/license-plate-reader-searches-should-require-a-warrant-and-the-data-says-why-2abi)
+- [Toolformer and Learned Tool Use](https://dev.to/multigrid/toolformer-and-learned-tool-use-3i3o)
 <!-- BLOG-POST-LIST:END -->
 
