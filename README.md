@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Filipino Cooking App That Recommends Food Based on the Weather](https://dev.to/justpres/i-built-a-filipino-cooking-app-that-recommends-food-based-on-the-weather-2e3f)
-- [System Design: A popular cache key expires and 40,000 requests hit your database. How do you fix it?](https://dev.to/gaurav_sharma_c2ef5dd7646/system-design-a-popular-cache-key-expires-and-40000-requests-hit-your-database-how-do-you-fix-it-i3l)
-- [Adding Low-Noise Error Alerts to an Express API with Wotchi](https://dev.to/ivan_kabar_83410b5992cece/adding-low-noise-error-alerts-to-an-express-api-with-wotchi-56o5)
-- [ChatGPT SaaS Citation Studies: What the Evidence Suggests About AI Source Selection](https://dev.to/alifar/chatgpt-saas-citation-studies-what-the-evidence-suggests-about-ai-source-selection-4h26)
+- [How to Build a Polymarket Trading Bot After TWAP Implemented](https://dev.to/cryptomoonday/how-to-build-a-polymarket-trading-bot-after-twap-implemented-1fc1)
+- [Gating a Merge on an Eval Score in Azure Pipelines](https://dev.to/multigrid/gating-a-merge-on-an-eval-score-in-azure-pipelines-19ai)
+- [Fixing &quot;TooManyRequests&quot; From Azure OpenAI Under Load](https://dev.to/multigrid/fixing-toomanyrequests-from-azure-openai-under-load-34bn)
+- [Authenticating to Azure OpenAI With Managed Identity](https://dev.to/multigrid/authenticating-to-azure-openai-with-managed-identity-36bj)
 <!-- BLOG-POST-LIST:END -->
 
