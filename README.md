@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We hit 99.95% on the LoCoMo memory benchmark. Here&#39;s the catch, and why it still matters.](https://dev.to/jon_at_backboardio/we-hit-9995-on-the-locomo-memory-benchmark-heres-the-catch-and-why-it-still-matters-3and)
-- [Our small team just outscored Claude Code and Codex on Terminal-Bench](https://dev.to/jon_at_backboardio/our-small-team-just-outscored-claude-code-and-codex-on-terminal-bench-1lbk)
-- [Your Agent Recovered the Run. Did It Recover the Message?](https://dev.to/zira125/your-agent-recovered-the-run-did-it-recover-the-message-3pnj)
-- [Converting Traditional Chinese to Simplified in PDFs: Why We Ended Up With a &quot;Combined Approach&quot;](https://dev.to/eyanpen/converting-traditional-chinese-to-simplified-in-pdfs-why-we-ended-up-with-a-combined-approach-4ifk)
+- [Como o Zabbix pode ajudar no dia a dia de um time de NOC](https://dev.to/guinas/como-o-zabbix-pode-ajudar-no-dia-a-dia-de-um-time-de-noc-1cn9)
+- [AI Model Automates Akkadian Cuneiform Translation, Reducing Reliance on Human Expertise and Time](https://dev.to/natcher/ai-model-automates-akkadian-cuneiform-translation-reducing-reliance-on-human-expertise-and-time-4h9j)
+- [I built JARVIS — a local-first AI assistant you actually own &lpar;macOS + Linux, MIT&rpar;](https://dev.to/christopher_studva_7a1f8e/i-built-jarvis-a-local-first-ai-assistant-you-actually-own-macos-linux-mit-2171)
+- [When My Digital Journal Felt Like a Glass House](https://dev.to/shreyansh_jain/when-my-digital-journal-felt-like-a-glass-house-34cf)
 <!-- BLOG-POST-LIST:END -->
 
