@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Model Catalog Drift Monitor for Chinese AI APIs](https://dev.to/aiwave/build-a-model-catalog-drift-monitor-for-chinese-ai-apis-56e3)
-- [Apache Data Lakehouse Weekly: August 5 - August 12, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-august-5-august-12-2026-2j40)
-- [Why I joined dev.to ???](https://dev.to/ishacodes/why-i-joined-devto--5c63)
-- [Explainable System Design](https://dev.to/meemeealm/explanable-system-design-a0k)
+- [Master Android Sensors with Jetpack Compose](https://dev.to/elsamet/master-android-sensors-with-jetpack-compose-41ck)
+- [How to Track AI Referral Traffic from ChatGPT, Claude, Gemini and Perplexity in GA4 ?](https://dev.to/edwardcalanni/how-to-track-ai-referral-traffic-from-chatgpt-claude-gemini-and-perplexity-in-ga4--13om)
+- [The Model Is Banned From Math](https://dev.to/karanb192/the-model-is-banned-from-math-2a42)
+- [I Built a Canada Product Recalls &amp; Safety Alerts Scraper That Reads Open Government Data](https://dev.to/darksider4all_afa2428f63d0/i-built-a-canada-product-recalls-safety-alerts-scraper-that-reads-open-government-data-3p59)
 <!-- BLOG-POST-LIST:END -->
 
