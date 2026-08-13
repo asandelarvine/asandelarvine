@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Determinism Gap: Why Your Playwright Tests Lie to You &lpar;And a Systems-Engineering Fix&rpar;](https://dev.to/ankitaloni369/the-determinism-gap-why-your-playwright-tests-lie-to-you-and-a-systems-engineering-fix-150b)
-- [Serving Data Cloud Data to CRM-Only Users in Salesforce](https://dev.to/themdmohiuddin/serving-data-cloud-data-to-crm-only-users-in-salesforce-cpi)
-- [The Backup Awakens: A Star Wars Story](https://dev.to/timevolt/the-backup-awakens-a-star-wars-story-1616)
-- [We found a bug that let our test suite write to production. Here&#39;s what we did about it.](https://dev.to/conchaestradamiguelangeldroid/we-found-a-bug-that-let-our-test-suite-write-to-production-heres-what-we-did-about-it-c60)
+- [☁️ Cloud Computing Explained: A Beginner-Friendly Guide to AWS, IaaS, PaaS &amp; SaaS](https://dev.to/poushmita_paul_fddcbe1a2f/cloud-computing-explained-a-beginner-friendly-guide-to-aws-iaas-paas-saas-e1a)
+- [The Store Passed QA. Then Its Best Seller Vanished from Search](https://dev.to/asada_shinsaku_c2847b5/the-store-passed-qa-then-its-best-seller-vanished-from-search-4f5n)
+- [Vim-Fu](https://dev.to/nasr_maswood/vim-fu-3h5p)
+- [A Photo Vault Is Not a Lock Screen](https://dev.to/arkwarden/a-photo-vault-is-not-a-lock-screen-1bdo)
 <!-- BLOG-POST-LIST:END -->
 
