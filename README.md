@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Retail Digital Transformation: What Changes Operationally When Going From Retailer to Platform](https://dev.to/mercur/retail-digital-transformation-what-changes-operationally-when-going-from-retailer-to-platform-382o)
-- [One Prompt Can Make a Game Demo. That Is Not the Same as Making a Game.](https://dev.to/nolanpiercework/one-prompt-can-make-a-game-demo-that-is-not-the-same-as-making-a-game-19en)
-- [GhostSplice Isn&#39;t a Jailbreak, It&#39;s a Reminder That LLMs Can&#39;t Do Access Control](https://dev.to/coridev/ghostsplice-isnt-a-jailbreak-its-a-reminder-that-llms-cant-do-access-control-31po)
-- [Building epilot Apps from your terminal, with a little help from AI agents](https://dev.to/epilot/building-epilot-apps-from-your-terminal-with-a-little-help-from-ai-agents-5caa)
+- [Are You Really Making the Most of Static Code Analysis?](https://dev.to/jeandevbr/are-you-really-making-the-most-of-static-code-analysis-102c)
+- [Sentry Saved Our Users When the API Melted: Fixing a Production-Stopping Schema Drift on CryptoPulse Terminal](https://dev.to/pooja_bhavani/sentry-saved-our-users-when-the-api-melted-fixing-a-production-stopping-schema-drift-on-1l1m)
+- [Designing an Ejar Contract Registration Workflow: From Readiness to Registration](https://dev.to/dra_ali_063a461a14aa6b2/designing-an-ejar-contract-registration-workflow-from-readiness-to-registration-1ceg)
+- [Maltego for Red and Blue Teams: Graph OSINT, Investigation Pivots and AI-Assisted Link Analysis](https://dev.to/mike_anderson_d01f52129fb/maltego-for-red-and-blue-teams-graph-osint-investigation-pivots-and-ai-assisted-link-analysis-4nka)
 <!-- BLOG-POST-LIST:END -->
 
