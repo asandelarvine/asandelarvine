@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Voice Agent with LangChain?](https://dev.to/ciphernutz/how-to-build-a-voice-agent-with-langchain-1cjl)
-- [Automatically scale LXC containers resources on Proxmox hosts](https://dev.to/fabriziosalmi/automatically-scale-lxc-containers-resources-on-proxmox-hosts-3p1n)
-- [Five things I disabled before installing a vendor&#39;s agent runtime](https://dev.to/zackchew/five-things-i-disabled-before-installing-a-vendors-agent-runtime-1djo)
-- [Managed Agent Infrastructure: What Changes When the Runtime Is Handled For You](https://dev.to/basavaraj_sh_1ea7d95f0f2e/managed-agent-infrastructure-what-changes-when-the-runtime-is-handled-for-you-1n8n)
+- [Retail Digital Transformation: What Changes Operationally When Going From Retailer to Platform](https://dev.to/mercur/retail-digital-transformation-what-changes-operationally-when-going-from-retailer-to-platform-382o)
+- [One Prompt Can Make a Game Demo. That Is Not the Same as Making a Game.](https://dev.to/nolanpiercework/one-prompt-can-make-a-game-demo-that-is-not-the-same-as-making-a-game-19en)
+- [GhostSplice Isn&#39;t a Jailbreak, It&#39;s a Reminder That LLMs Can&#39;t Do Access Control](https://dev.to/coridev/ghostsplice-isnt-a-jailbreak-its-a-reminder-that-llms-cant-do-access-control-31po)
+- [Building epilot Apps from your terminal, with a little help from AI agents](https://dev.to/epilot/building-epilot-apps-from-your-terminal-with-a-little-help-from-ai-agents-5caa)
 <!-- BLOG-POST-LIST:END -->
 
