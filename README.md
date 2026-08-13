@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Log: 2026-08-12 — a 96s suite that became 42s, a capability that wasn&#39;t a scope, and four steps to a passkey](https://dev.to/nasrulhazim/dev-log-2026-08-12-a-96s-suite-that-became-42s-a-capability-that-wasnt-a-scope-and-four-steps-c0a)
-- [I Moved My Discord Bot Off a Paid LLM API. Five Things Broke.](https://dev.to/codepy_1473/i-moved-my-discord-bot-off-a-paid-llm-api-five-things-broke-2ik5)
-- [Detecting Cycles and Loops in a Dependency Graph](https://dev.to/multigrid/detecting-cycles-and-loops-in-a-dependency-graph-2eca)
-- [Nukkad Chat Corner 🍵 | Comfort Food Isn’t a Restaurant — It’s a Thela. That’s Where the Soul Gets Comfort. I Sculpted Mine in CSS.](https://dev.to/khushalsarode/nukkad-chat-corner-comfort-food-isnt-a-restaurant-its-a-thela-thats-where-the-soul-gets-df0)
+- [I Built CSS-Like Native UI Animations with Nim and SDL3](https://dev.to/puffball1567/i-built-css-like-native-ui-animations-with-nim-and-sdl3-3jp8)
+- [BIO Baochip/Dabao - FIFO and Events](https://dev.to/danielmx/bio-baochipdabao-fifo-and-events-25jf)
+- [Cloudflare Agents Week Was the Memo: Your Agent Needs a Cloud, Not a Demo](https://dev.to/andrew_otema_6833c25d2ff5/cloudflare-agents-week-was-the-memo-your-agent-needs-a-cloud-not-a-demo-55hl)
+- [Markov Chain, จากสมการร้อยปี สู่จุดกำเนิด Google และ AI ที่เปลี่ยนโลก](https://dev.to/sarantoon/markov-chain-cchaaksmkaarrypii-suucchudkamenid-google-aela-ai-thiiepliiynolk-557)
 <!-- BLOG-POST-LIST:END -->
 
