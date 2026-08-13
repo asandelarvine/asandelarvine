@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP C# SDK Protocol Negotiation: Pin 2026-07-28 When Fallback Is Unsafe](https://dev.to/ssukhpinder/mcp-c-sdk-protocol-negotiation-pin-2026-07-28-when-fallback-is-unsafe-2fhk)
-- [gRPC over a Unix socket, not HTTP: a real IPC tradeoff from a HIPAA-postured edge system](https://dev.to/clintmathews/grpc-over-a-unix-socket-not-http-a-real-ipc-tradeoff-from-a-hipaa-postured-edge-system-4foa)
-- [We measured the &quot;AI review tax&quot; across 5,388 repos. The median repo doesn&#39;t pay one.](https://dev.to/maki_vlach_289e052694eb2e/we-measured-the-ai-review-tax-across-5388-repos-the-median-repo-doesnt-pay-one-1bc1)
-- [The Difference Between Good Code and Bad Code is 5 Minutes](https://dev.to/logical_bytes/the-difference-between-good-code-and-bad-code-is-5-minutes-4a99)
+- [Nmap for Authorized Infrastructure Validation &lpar;Not Hacking&rpar;](https://dev.to/jjoyneriv/nmap-for-authorized-infrastructure-validation-not-hacking-3ne6)
+- [What Building a C++ Benchmarking Suite Taught Me About &quot;Simple&quot; Data Structures](https://dev.to/mendolatech/what-building-a-c-benchmarking-suite-taught-me-about-simple-data-structures-5a94)
+- [Reflecting on 7-8 Years of Career Growth: Adaptability and Continuous Learning Key to Senior Data Engineer Success](https://dev.to/svetlix/reflecting-on-7-8-years-of-career-growth-adaptability-and-continuous-learning-key-to-senior-data-3519)
+- [ChatGPT Work Brings Desktop Automation, Memory and Governance Into the AI Workflow](https://dev.to/alifar/chatgpt-work-brings-desktop-automation-memory-and-governance-into-the-ai-workflow-mp8)
 <!-- BLOG-POST-LIST:END -->
 
