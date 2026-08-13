@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Delete the Event Switch: Runtime Dispatch with dynamic in C#](https://dev.to/hiteshk97/delete-the-event-switch-runtime-dispatch-with-dynamic-in-c-19mk)
-- [WebP vs JPEG: The Honest Photo Format Comparison for 2026](https://dev.to/ahmed_isam_752b775a50fd90/webp-vs-jpeg-the-honest-photo-format-comparison-for-2026-1e0p)
-- [Fintech Reset Mail: Small SaaS Custom-Domain Deliverability, Bounce Lists, and Polling API](https://dev.to/nyxenl29/fintech-reset-mail-small-saas-custom-domain-deliverability-bounce-lists-and-polling-api-777)
-- [Weekly &#39;Game-Changer&#39; Models Burned Me Twice. Now They Earn Production Access Through Gates.](https://dev.to/datacpp_8185/weekly-game-changer-models-burned-me-twice-now-they-earn-production-access-through-gates-30c6)
+- [The Developer Who Put an OS on the Amiga — Tim King &lpar;1947–2026&rpar;](https://dev.to/trismegistus/the-developer-who-put-an-os-on-the-amiga-tim-king-1947-2026-19ci)
+- [Build Wide, Ship Narrow: How AI Changed the Economics of Code Review](https://dev.to/trismegistus/build-wide-ship-narrow-how-ai-changed-the-economics-of-code-review-11p2)
+- [I Built a Visa Photo Tool After Realizing How Complicated “Just a Passport Photo” Can Be](https://dev.to/sandeep_maddheshiya/i-built-a-visa-photo-tool-after-realizing-how-complicated-just-a-passport-photo-can-be-56m4)
+- [TypeScript Intersection Types Done Right: When They Compose Cleanly and When They Silently Lie](https://dev.to/jsmanifest/typescript-intersection-types-done-right-when-they-compose-cleanly-and-when-they-silently-lie-4ed2)
 <!-- BLOG-POST-LIST:END -->
 
