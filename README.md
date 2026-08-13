@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Master Android Sensors with Jetpack Compose](https://dev.to/elsamet/master-android-sensors-with-jetpack-compose-41ck)
-- [How to Track AI Referral Traffic from ChatGPT, Claude, Gemini and Perplexity in GA4 ?](https://dev.to/edwardcalanni/how-to-track-ai-referral-traffic-from-chatgpt-claude-gemini-and-perplexity-in-ga4--13om)
-- [The Model Is Banned From Math](https://dev.to/karanb192/the-model-is-banned-from-math-2a42)
-- [I Built a Canada Product Recalls &amp; Safety Alerts Scraper That Reads Open Government Data](https://dev.to/darksider4all_afa2428f63d0/i-built-a-canada-product-recalls-safety-alerts-scraper-that-reads-open-government-data-3p59)
+- [Letting an AI ask &#39;what shipped in this field this week?&#39;](https://dev.to/rss-atlas/letting-an-ai-ask-what-shipped-in-this-field-this-week-1nk0)
+- [Google Search Console Platform Properties Bring Social and Video Search Data Into View](https://dev.to/alifar/google-search-console-platform-properties-bring-social-and-video-search-data-into-view-1ndl)
+- [The five things I never let my AI do](https://dev.to/pi-maker/the-five-things-i-never-let-my-ai-do-178f)
+- [Tailscale&#39;s 6-Month Hunt for a 16-Year-Old SQLite Bug: A Debugging Playbook for Java Teams](https://dev.to/jamilxt/tailscales-6-month-hunt-for-a-16-year-old-sqlite-bug-a-debugging-playbook-for-java-teams-3dbf)
 <!-- BLOG-POST-LIST:END -->
 
