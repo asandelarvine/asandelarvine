@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built CSS-Like Native UI Animations with Nim and SDL3](https://dev.to/puffball1567/i-built-css-like-native-ui-animations-with-nim-and-sdl3-3jp8)
-- [BIO Baochip/Dabao - FIFO and Events](https://dev.to/danielmx/bio-baochipdabao-fifo-and-events-25jf)
-- [Cloudflare Agents Week Was the Memo: Your Agent Needs a Cloud, Not a Demo](https://dev.to/andrew_otema_6833c25d2ff5/cloudflare-agents-week-was-the-memo-your-agent-needs-a-cloud-not-a-demo-55hl)
-- [Markov Chain, จากสมการร้อยปี สู่จุดกำเนิด Google และ AI ที่เปลี่ยนโลก](https://dev.to/sarantoon/markov-chain-cchaaksmkaarrypii-suucchudkamenid-google-aela-ai-thiiepliiynolk-557)
+- [Delete the Event Switch: Runtime Dispatch with dynamic in C#](https://dev.to/hiteshk97/delete-the-event-switch-runtime-dispatch-with-dynamic-in-c-19mk)
+- [WebP vs JPEG: The Honest Photo Format Comparison for 2026](https://dev.to/ahmed_isam_752b775a50fd90/webp-vs-jpeg-the-honest-photo-format-comparison-for-2026-1e0p)
+- [Fintech Reset Mail: Small SaaS Custom-Domain Deliverability, Bounce Lists, and Polling API](https://dev.to/nyxenl29/fintech-reset-mail-small-saas-custom-domain-deliverability-bounce-lists-and-polling-api-777)
+- [Weekly &#39;Game-Changer&#39; Models Burned Me Twice. Now They Earn Production Access Through Gates.](https://dev.to/datacpp_8185/weekly-game-changer-models-burned-me-twice-now-they-earn-production-access-through-gates-30c6)
 <!-- BLOG-POST-LIST:END -->
 
