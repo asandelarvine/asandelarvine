@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Letting an AI ask &#39;what shipped in this field this week?&#39;](https://dev.to/rss-atlas/letting-an-ai-ask-what-shipped-in-this-field-this-week-1nk0)
-- [Google Search Console Platform Properties Bring Social and Video Search Data Into View](https://dev.to/alifar/google-search-console-platform-properties-bring-social-and-video-search-data-into-view-1ndl)
-- [The five things I never let my AI do](https://dev.to/pi-maker/the-five-things-i-never-let-my-ai-do-178f)
-- [Tailscale&#39;s 6-Month Hunt for a 16-Year-Old SQLite Bug: A Debugging Playbook for Java Teams](https://dev.to/jamilxt/tailscales-6-month-hunt-for-a-16-year-old-sqlite-bug-a-debugging-playbook-for-java-teams-3dbf)
+- [The Determinism Gap: Why Your Playwright Tests Lie to You &lpar;And a Systems-Engineering Fix&rpar;](https://dev.to/ankitaloni369/the-determinism-gap-why-your-playwright-tests-lie-to-you-and-a-systems-engineering-fix-150b)
+- [Serving Data Cloud Data to CRM-Only Users in Salesforce](https://dev.to/themdmohiuddin/serving-data-cloud-data-to-crm-only-users-in-salesforce-cpi)
+- [The Backup Awakens: A Star Wars Story](https://dev.to/timevolt/the-backup-awakens-a-star-wars-story-1616)
+- [We found a bug that let our test suite write to production. Here&#39;s what we did about it.](https://dev.to/conchaestradamiguelangeldroid/we-found-a-bug-that-let-our-test-suite-write-to-production-heres-what-we-did-about-it-c60)
 <!-- BLOG-POST-LIST:END -->
 
