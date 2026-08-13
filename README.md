@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Langfuse for LLM Observability: Tracing Agent Calls Instead of Guessing](https://dev.to/futhgar/langfuse-for-llm-observability-tracing-agent-calls-instead-of-guessing-7h3)
-- [Revisão de código antes do commit: agentes especializados pra cobrir o meu próprio ponto cego entre backend e frontend](https://dev.to/izaaccomze/revisao-de-codigo-antes-do-commit-agentes-especializados-pra-cobrir-o-meu-proprio-ponto-cego-entre-5cpa)
-- [Give your coding agent project memory without paying for it every message](https://dev.to/muhammad_anasbabar_31256/give-your-coding-agent-project-memory-without-paying-for-it-every-message-4nfj)
-- [Your MCP Server Needs a Capability Budget, Not Just Auth](https://dev.to/zira125/your-mcp-server-needs-a-capability-budget-not-just-auth-32p6)
+- [Como documentar soluções para decidir melhor, prever falhas e evoluir sem se perder](https://dev.to/fraanst/como-documentar-solucoes-para-decidir-melhor-prever-falhas-e-evoluir-sem-se-perder-9ng)
+- [Deploying a React App to AWS S3 + CloudFront](https://dev.to/duubemmm/deploying-a-react-app-to-aws-s3-cloudfront-55hn)
+- [An AI Director Made It to the World&#39;s Judging Table. But Not to the Shortlist.](https://dev.to/ghostyai_aionexo/an-ai-director-made-it-to-the-worlds-judging-table-but-not-to-the-shortlist-1a86)
+- [Google Search Console’s Gen AI Reports Redefine How Teams Measure Search Visibility](https://dev.to/alifar/google-search-consoles-gen-ai-reports-redefine-how-teams-measure-search-visibility-2ehh)
 <!-- BLOG-POST-LIST:END -->
 
