@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Nmap for Authorized Infrastructure Validation &lpar;Not Hacking&rpar;](https://dev.to/jjoyneriv/nmap-for-authorized-infrastructure-validation-not-hacking-3ne6)
-- [What Building a C++ Benchmarking Suite Taught Me About &quot;Simple&quot; Data Structures](https://dev.to/mendolatech/what-building-a-c-benchmarking-suite-taught-me-about-simple-data-structures-5a94)
-- [Reflecting on 7-8 Years of Career Growth: Adaptability and Continuous Learning Key to Senior Data Engineer Success](https://dev.to/svetlix/reflecting-on-7-8-years-of-career-growth-adaptability-and-continuous-learning-key-to-senior-data-3519)
-- [ChatGPT Work Brings Desktop Automation, Memory and Governance Into the AI Workflow](https://dev.to/alifar/chatgpt-work-brings-desktop-automation-memory-and-governance-into-the-ai-workflow-mp8)
+- [Langfuse for LLM Observability: Tracing Agent Calls Instead of Guessing](https://dev.to/futhgar/langfuse-for-llm-observability-tracing-agent-calls-instead-of-guessing-7h3)
+- [Revisão de código antes do commit: agentes especializados pra cobrir o meu próprio ponto cego entre backend e frontend](https://dev.to/izaaccomze/revisao-de-codigo-antes-do-commit-agentes-especializados-pra-cobrir-o-meu-proprio-ponto-cego-entre-5cpa)
+- [Give your coding agent project memory without paying for it every message](https://dev.to/muhammad_anasbabar_31256/give-your-coding-agent-project-memory-without-paying-for-it-every-message-4nfj)
+- [Your MCP Server Needs a Capability Budget, Not Just Auth](https://dev.to/zira125/your-mcp-server-needs-a-capability-budget-not-just-auth-32p6)
 <!-- BLOG-POST-LIST:END -->
 
