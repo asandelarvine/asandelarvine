@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I turned my portfolio into an MCP server &lpar;and I&#39;m not a programmer&rpar;](https://dev.to/mansio/i-turned-my-portfolio-into-an-mcp-server-and-im-not-a-programmer-4h0a)
-- [Readability in the age of AI-assisted programming](https://dev.to/alex_netkachov_5306c2df5d/readability-in-the-age-of-ai-assisted-programming-4b35)
-- [AstroScope — when a friend&#39;s challenge became a product used by 800+ people daily. 🔮](https://dev.to/brutalharsh7/astroscope-when-a-friends-challenge-became-a-product-used-by-800-people-daily-483c)
-- [Keeping Your Own Files Straight](https://dev.to/michaelnocito/keeping-your-own-files-straight-ea4)
+- [Pre-launch waitlist tools in 2026, compared](https://dev.to/devin_daymore/pre-launch-waitlist-tools-in-2026-compared-3kp1)
+- [Upgrading Magento 2.4.5 to 2.4.8: Defusing the Tech Debt Time Bomb Before AWS MySQL 8.0 EOL](https://dev.to/vesviet/upgrading-magento-245-to-248-defusing-the-tech-debt-time-bomb-before-aws-mysql-80-eol-39c5)
+- [Why Your LLM Classifier Doesn&#39;t Need the Taxonomy: Hypothetical Classification with Embeddings](https://dev.to/chenyuan20509/why-your-llm-classifier-doesnt-need-the-taxonomy-hypothetical-classification-with-embeddings-387d)
+- [Your App Is Open in 5 Tabs Right Now. Does It Know That?](https://dev.to/supreet_pradhan/your-app-is-open-in-5-tabs-right-now-does-it-know-that-3pje)
 <!-- BLOG-POST-LIST:END -->
 
