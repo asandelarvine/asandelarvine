@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Here&#39;s what being a street-smart coder means](https://dev.to/canro91/heres-what-being-a-street-smart-coder-means-4pgd)
-- [PWC 386 All Your Base Are Belong to Rational Numbers](https://dev.to/boblied/pwc-386-all-your-base-are-belong-to-rational-numbers-g88)
-- [Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo)
-- [Gemini 3.7 Flash Makes Agent Cost the Feature](https://dev.to/reidmarlow/gemini-37-flash-makes-agent-cost-the-feature-33ee)
+- [Build an AI Financial Agent with EODHD&#39;s MCP Server](https://dev.to/kevin_menesesgonzlez/build-an-ai-financial-agent-with-eodhds-mcp-server-4pjc)
+- [Dev Opportunity Radar #12: $10K+ Magnificent Grants, Free CodePath Courses, AI Societal Impact Lab Fellowship, and Interview Prep 101](https://dev.to/devengers/dev-opportunity-radar-12-10k-magnificent-grants-free-codepath-courses-ai-societal-impact-lab-56h5)
+- [this is some thing crazy check this out guys](https://dev.to/beheb92372/this-is-some-thing-crazy-check-this-out-guys-4ill)
+- [AI Governance Framework Search Interest Suggests a New Enterprise Planning Signal](https://dev.to/alifar/ai-governance-framework-search-interest-suggests-a-new-enterprise-planning-signal-26o6)
 <!-- BLOG-POST-LIST:END -->
 
