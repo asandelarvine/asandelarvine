@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como documentar soluções para decidir melhor, prever falhas e evoluir sem se perder](https://dev.to/fraanst/como-documentar-solucoes-para-decidir-melhor-prever-falhas-e-evoluir-sem-se-perder-9ng)
-- [Deploying a React App to AWS S3 + CloudFront](https://dev.to/duubemmm/deploying-a-react-app-to-aws-s3-cloudfront-55hn)
-- [An AI Director Made It to the World&#39;s Judging Table. But Not to the Shortlist.](https://dev.to/ghostyai_aionexo/an-ai-director-made-it-to-the-worlds-judging-table-but-not-to-the-shortlist-1a86)
-- [Google Search Console’s Gen AI Reports Redefine How Teams Measure Search Visibility](https://dev.to/alifar/google-search-consoles-gen-ai-reports-redefine-how-teams-measure-search-visibility-2ehh)
+- [The Heart of .NET: A Deep Dive into the System Namespace](https://dev.to/csadikemre/the-heart-of-net-a-deep-dive-into-the-system-namespace-db0)
+- [OpenAI Foundation Expands Civil Society AI Effort With Grants and New Leadership](https://dev.to/alifar/openai-foundation-expands-civil-society-ai-effort-with-grants-and-new-leadership-46f4)
+- [Join our DEV Weekend Challenge: Dog Days Edition! $1,000 in Prizes Across FIVE Winners. Submissions Due August 17 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-dog-days-edition-1000-in-prizes-across-five-winners-submissions-1g4i)
+- [Nobody audits their OpenAI invoice](https://dev.to/rinava/nobody-audits-their-openai-invoice-2n5i)
 <!-- BLOG-POST-LIST:END -->
 
