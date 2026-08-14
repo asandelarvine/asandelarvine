@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Enable Entire](https://dev.to/entire/how-to-enable-entire-4h9l)
-- [Engineer-to-Engineer: Building a Typing Test That Doesn&#39;t Lie to You](https://dev.to/lizely/engineer-to-engineer-building-a-typing-test-that-doesnt-lie-to-you-5822)
-- [The Reality of Working as a DevOps Engineer in Cameroon](https://dev.to/durrello/the-reality-of-working-as-a-devops-engineer-in-cameroon-1k7l)
-- [DriftGate&lpar;&rpar;: Not just a weekend challenge](https://dev.to/edmundsparrow/driftgate-not-just-a-weekend-challenge-1hd5)
+- [89 nos and not a single line of code](https://dev.to/_jesmoo/89-nos-and-not-a-single-line-of-code-2da2)
+- [25+ useful and commonly used Regular Expressions](https://dev.to/developaaah/25-useful-and-commonly-used-regular-expressions-10d)
+- [Marketplace Cleanup: Queue Push Webhook Endpoint with Public HTTPS Signature Checks](https://dev.to/ethanbrooks111/marketplace-cleanup-queue-push-webhook-endpoint-with-public-https-signature-checks-471m)
+- [Writing evidence-linked docs exposed two missing regression tests](https://dev.to/shikiyusuke/writing-evidence-linked-docs-exposed-two-missing-regression-tests-3524)
 <!-- BLOG-POST-LIST:END -->
 
