@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Heart of .NET: A Deep Dive into the System Namespace](https://dev.to/csadikemre/the-heart-of-net-a-deep-dive-into-the-system-namespace-db0)
-- [OpenAI Foundation Expands Civil Society AI Effort With Grants and New Leadership](https://dev.to/alifar/openai-foundation-expands-civil-society-ai-effort-with-grants-and-new-leadership-46f4)
-- [Join our DEV Weekend Challenge: Dog Days Edition! $1,000 in Prizes Across FIVE Winners. Submissions Due August 17 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-dog-days-edition-1000-in-prizes-across-five-winners-submissions-1g4i)
-- [Nobody audits their OpenAI invoice](https://dev.to/rinava/nobody-audits-their-openai-invoice-2n5i)
+- [Think Offline, Win Online — splitting thought from play in YiBoard](https://dev.to/ahmed_isam_752b775a50fd90/think-offline-win-online-splitting-thought-from-play-in-yiboard-54o0)
+- [Share Your Localhost With Anyone Using Cloudflare Tunnel](https://dev.to/shahbaazx786/share-your-localhost-with-anyone-using-cloudflare-tunnel-5b9g)
+- [Databricks buys Electric to embed local Postgres in AI agents](https://dev.to/vpodk/databricks-buys-electric-to-embed-local-postgres-in-ai-agents-4l3)
+- [Claude Code Assist: How Structured Output Works for Real-World Applications](https://dev.to/dineshgowtham/claude-code-assist-how-structured-output-works-for-real-world-applications-gcc)
 <!-- BLOG-POST-LIST:END -->
 
