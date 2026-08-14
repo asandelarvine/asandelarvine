@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your MCP server didn&#39;t break. The protocol did.](https://dev.to/bazzz/your-mcp-server-didnt-break-the-protocol-did-3abp)
-- [Python Data Model - Part 2: Protocols and Special Methods](https://dev.to/brunotlps/python-data-model-part-2-protocols-and-special-methods-1k60)
-- [جعلنا موقعنا غير قابل للضغط مرتين، ولم يكن الخطأ في الكود](https://dev.to/kouanahesham/jln-mwqn-gyr-qbl-lldgt-mrtyn-wlm-ykn-lkht-fy-lkwd-2h9g)
-- [I built a RAG assistant, then found out my architecture change made it worse](https://dev.to/saftyy/i-built-a-rag-assistant-then-found-out-my-architecture-change-made-it-worse-1n7i)
+- [The Plan and the Worker: Two Open Specifications for Agent Harnesses](https://dev.to/alexmercedcoder/the-plan-and-the-worker-two-open-specifications-for-agent-harnesses-242h)
+- [HydraDB vs Zep: Managed Context Platform vs Programmable Graph Database](https://dev.to/hydra_db_blogs/hydradb-vs-zep-3033)
+- [Building Sluice: QoS-Aware Capacity Governance for Self-Hosted LLM Inference](https://dev.to/vampiriccyborg/building-sluice-qos-aware-capacity-governance-for-self-hosted-llm-inference-13ja)
+- [UCIe 3.0 Chiplet Verification: Turn Runtime Recalibration into a Scenario Matrix](https://dev.to/alpinumblogs/ucie-30-chiplet-verification-turn-runtime-recalibration-into-a-scenario-matrix-4j3o)
 <!-- BLOG-POST-LIST:END -->
 
