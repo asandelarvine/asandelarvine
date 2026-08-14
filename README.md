@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The hidden svg Biome flagged anyway: a noSvgWithoutTitle false positive](https://dev.to/zkasuran/the-hidden-svg-biome-flagged-anyway-a-nosvgwithouttitle-false-positive-51jh)
-- [WebP Images: The Good, the Bad, and When PNG/JPG Still Wins](https://dev.to/ahaconvert_4518ffb5e649d6/webp-images-the-good-the-bad-and-when-pngjpg-still-wins-4cad)
-- [You loved my markdown previewer, so I’m giving it a major upgrade.](https://dev.to/codemaster_121482/you-loved-my-markdown-previewer-so-im-giving-it-a-major-upgrade-4jge)
-- [CSS text-box-trim: The End of Fudging Vertical Padding](https://dev.to/grimicorn/css-text-box-trim-the-end-of-fudging-vertical-padding-4d92)
+- [One tool call, counted twice: a Google GenAI streaming double-dip in Sentry&#39;s JS SDK](https://dev.to/zkasuran/one-tool-call-counted-twice-a-google-genai-streaming-double-dip-in-sentrys-js-sdk-4l4p)
+- [I‘m building a Real-Time Translation Tool for Online Meetings. Here&#39;s What I Learned.](https://dev.to/brucej_b5ec3f2f25b5c/im-building-a-real-time-translation-tool-for-online-meetings-heres-what-i-learned-580a)
+- [mm-gateway: One Provider-Neutral API for Image, Video, and Music Generation](https://dev.to/sloth-os/mm-gateway-one-provider-neutral-api-for-image-video-and-music-generation-2k5h)
+- [Dockerfile na prática - camadas, cache de build e boas práticas](https://dev.to/apsis-cc/dockerfile-na-pratica-camadas-cache-de-build-e-boas-praticas-3n80)
 <!-- BLOG-POST-LIST:END -->
 
