@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Think Offline, Win Online — splitting thought from play in YiBoard](https://dev.to/ahmed_isam_752b775a50fd90/think-offline-win-online-splitting-thought-from-play-in-yiboard-54o0)
-- [Share Your Localhost With Anyone Using Cloudflare Tunnel](https://dev.to/shahbaazx786/share-your-localhost-with-anyone-using-cloudflare-tunnel-5b9g)
-- [Databricks buys Electric to embed local Postgres in AI agents](https://dev.to/vpodk/databricks-buys-electric-to-embed-local-postgres-in-ai-agents-4l3)
-- [Claude Code Assist: How Structured Output Works for Real-World Applications](https://dev.to/dineshgowtham/claude-code-assist-how-structured-output-works-for-real-world-applications-gcc)
+- [Content Security Policy in the Next.js App Router: Field Notes on Nonces, strict-dynamic, and the Middleware That Made Every Page Dynamic](https://dev.to/ahmed_mahmoud360/content-security-policy-in-the-nextjs-app-router-field-notes-on-nonces-strict-dynamic-and-the-16d5)
+- [Ever encountered a race condition bug when fetching data, let&#39;s understand the solution](https://dev.to/javapixastudio/ever-encountered-a-race-condition-bug-when-fetching-data-lets-understand-the-solution-3di7)
+- [Context Windows Are Not Memory](https://dev.to/chillpill_ak/context-windows-are-not-memory-2edn)
+- [SMS, chamada de voz ou app: como escolher o método de 2FA certo pro seu produto](https://dev.to/kairox_940d8228041f8f941b/sms-chamada-de-voz-ou-app-como-escolher-o-metodo-de-2fa-certo-pro-seu-produto-46e0)
 <!-- BLOG-POST-LIST:END -->
 
