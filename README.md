@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Plan and the Worker: Two Open Specifications for Agent Harnesses](https://dev.to/alexmercedcoder/the-plan-and-the-worker-two-open-specifications-for-agent-harnesses-242h)
-- [HydraDB vs Zep: Managed Context Platform vs Programmable Graph Database](https://dev.to/hydra_db_blogs/hydradb-vs-zep-3033)
-- [Building Sluice: QoS-Aware Capacity Governance for Self-Hosted LLM Inference](https://dev.to/vampiriccyborg/building-sluice-qos-aware-capacity-governance-for-self-hosted-llm-inference-13ja)
-- [UCIe 3.0 Chiplet Verification: Turn Runtime Recalibration into a Scenario Matrix](https://dev.to/alpinumblogs/ucie-30-chiplet-verification-turn-runtime-recalibration-into-a-scenario-matrix-4j3o)
+- [AI Referral Traffic Is Small but Growing: What the 1.08% Benchmark Means for Measurement](https://dev.to/alifar/ai-referral-traffic-is-small-but-growing-what-the-108-benchmark-means-for-measurement-10ci)
+- [Run Qwen 3.8 27B Locally: Real GGUF Sizes, the KV Cache Trick, and the Template Trap](https://dev.to/purpledoubled/run-qwen-38-27b-locally-real-gguf-sizes-the-kv-cache-trick-and-the-template-trap-114j)
+- [Let a Free Model Try to Break Your API Before Your Users Do](https://dev.to/codepy_1473/let-a-free-model-try-to-break-your-api-before-your-users-do-539m)
+- [Persistence of Memory, Personality, and Self in AI Agents The Someone That Persists, Session After Session, Across Months](https://dev.to/adoloslabs/persistence-of-memory-personality-and-self-in-ai-agents-the-someone-that-persists-session-after-10kd)
 <!-- BLOG-POST-LIST:END -->
 
