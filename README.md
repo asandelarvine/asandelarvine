@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [One tool call, counted twice: a Google GenAI streaming double-dip in Sentry&#39;s JS SDK](https://dev.to/zkasuran/one-tool-call-counted-twice-a-google-genai-streaming-double-dip-in-sentrys-js-sdk-4l4p)
-- [I‘m building a Real-Time Translation Tool for Online Meetings. Here&#39;s What I Learned.](https://dev.to/brucej_b5ec3f2f25b5c/im-building-a-real-time-translation-tool-for-online-meetings-heres-what-i-learned-580a)
-- [mm-gateway: One Provider-Neutral API for Image, Video, and Music Generation](https://dev.to/sloth-os/mm-gateway-one-provider-neutral-api-for-image-video-and-music-generation-2k5h)
-- [Dockerfile na prática - camadas, cache de build e boas práticas](https://dev.to/apsis-cc/dockerfile-na-pratica-camadas-cache-de-build-e-boas-praticas-3n80)
+- [AI Reading Claims Need Stronger Evidence Before They Shape Enterprise Decisions](https://dev.to/alifar/ai-reading-claims-need-stronger-evidence-before-they-shape-enterprise-decisions-cd1)
+- [The Free-Model Agreement Test for AI Code Generation](https://dev.to/github_7727/the-free-model-agreement-test-for-ai-code-generation-31op)
+- [A Two-Model Regression Harness for Evaluating a New Low-Cost Model Release](https://dev.to/apppro_5726/a-two-model-regression-harness-for-evaluating-a-new-low-cost-model-release-47ga)
+- [Our checker did not catch the wrong number. It enforced it.](https://dev.to/heinrichneb/our-checker-did-not-catch-the-wrong-number-it-enforced-it-3op7)
 <!-- BLOG-POST-LIST:END -->
 
