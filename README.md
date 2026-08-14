@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Referral Traffic Is Small but Growing: What the 1.08% Benchmark Means for Measurement](https://dev.to/alifar/ai-referral-traffic-is-small-but-growing-what-the-108-benchmark-means-for-measurement-10ci)
-- [Run Qwen 3.8 27B Locally: Real GGUF Sizes, the KV Cache Trick, and the Template Trap](https://dev.to/purpledoubled/run-qwen-38-27b-locally-real-gguf-sizes-the-kv-cache-trick-and-the-template-trap-114j)
-- [Let a Free Model Try to Break Your API Before Your Users Do](https://dev.to/codepy_1473/let-a-free-model-try-to-break-your-api-before-your-users-do-539m)
-- [Persistence of Memory, Personality, and Self in AI Agents The Someone That Persists, Session After Session, Across Months](https://dev.to/adoloslabs/persistence-of-memory-personality-and-self-in-ai-agents-the-someone-that-persists-session-after-10kd)
+- [How to Enable Entire](https://dev.to/entire/how-to-enable-entire-4h9l)
+- [Engineer-to-Engineer: Building a Typing Test That Doesn&#39;t Lie to You](https://dev.to/lizely/engineer-to-engineer-building-a-typing-test-that-doesnt-lie-to-you-5822)
+- [The Reality of Working as a DevOps Engineer in Cameroon](https://dev.to/durrello/the-reality-of-working-as-a-devops-engineer-in-cameroon-1k7l)
+- [DriftGate&lpar;&rpar;: Not just a weekend challenge](https://dev.to/edmundsparrow/driftgate-not-just-a-weekend-challenge-1hd5)
 <!-- BLOG-POST-LIST:END -->
 
