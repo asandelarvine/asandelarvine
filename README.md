@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Voice Agent for Bharat: My 10-Day Journey](https://dev.to/ayushshinde13/building-an-ai-voice-agent-for-bharat-my-10-day-journey-f6d)
-- [I Built AnswerTrace . GitHub Discussions Analytics for Your README](https://dev.to/antonisloukis/i-built-answertrace-github-discussions-analytics-for-your-readme-4mno)
-- [Claude Code vs Cursor vs Windsurf in 2026: Which Agentic IDE Actually Ships Production Code](https://dev.to/jsmanifest/claude-code-vs-cursor-vs-windsurf-in-2026-which-agentic-ide-actually-ships-production-code-3maj)
-- [Run Claude Code for FREE on Your Machine Using OpenRouter](https://dev.to/soham_chavan07/run-claude-code-for-free-on-your-machine-using-openrouter-5d1o)
+- [A Diff Autopsy Sheet for Free-Model Changes: Flag Deletions, Churn, and Repo Shape Before Review](https://dev.to/github_7727/a-diff-autopsy-sheet-for-free-model-changes-flag-deletions-churn-and-repo-shape-before-review-2pcm)
+- [Midnight Providers: What They Are, Where They Live, and Why We Use Them](https://dev.to/midnight-aliit/midnight-providers-what-they-are-where-they-live-and-why-we-use-them-2nli)
+- [Discord Giveaway Bot](https://dev.to/musiker15/discord-giveaway-bot-kbd)
+- [Discord Ticket Bot](https://dev.to/musiker15/discord-ticket-bot-4ean)
 <!-- BLOG-POST-LIST:END -->
 
