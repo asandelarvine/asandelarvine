@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Real-Time Collaborative Sheet Music Editor — Here&#39;s What MusicXML and CRDTs Taught Me](https://dev.to/tan-z-tan/i-built-a-real-time-collaborative-sheet-music-editor-heres-what-musicxml-and-crdts-taught-me-1dii)
-- [Building Vidya: An Ultra-Fast Bilingual Voice AI Tutor with Murf Falcon &amp; LiveKit &lpar;10 Days of Voice Agents&rpar;](https://dev.to/stoichotoke/building-vidya-an-ultra-fast-bilingual-voice-ai-tutor-with-murf-falcon-livekit-10-days-of-voice-1fcf)
-- [Gravy Theory: three chickens, one base](https://dev.to/yashksaini/gravy-theory-three-chickens-one-base-25h8)
-- [10 Days to Build a Voice AI Tutor: The Good, The Bad, and The &quot;Why Is It Silent?!&quot;](https://dev.to/satwik_mn/10-days-to-build-a-voice-ai-tutor-the-good-the-bad-and-the-why-is-it-silent-7ii)
+- [Katalon Studio has no native Allure adapter. Here&#39;s how to get one anyway.](https://dev.to/monty_bagati_6651e3b22a36/katalon-studio-has-no-native-allure-adapter-heres-how-to-get-one-anyway-4g8)
+- [Serverless DevOps: When It Wins, When It Doesn&#39;t, and How to Run It](https://dev.to/sherdilcloud/serverless-devops-when-it-wins-when-it-doesnt-and-how-to-run-it-4mck)
+- [Building Arogya Seva: How I Built an Ultra-Low Latency Telehealth Voice AI for Bharat in 10 Days](https://dev.to/viral1998/building-kisanvani-kisaan-vaannii-an-ultra-low-latency-multilingual-voice-agent-for-indian-aoi)
+- [What Building a Food Menu Information Site Taught Me About Simple Web Development](https://dev.to/sophie_kelly_620ae11cbab3/what-building-a-food-menu-information-site-taught-me-about-simple-web-development-360o)
 <!-- BLOG-POST-LIST:END -->
 
