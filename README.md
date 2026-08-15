@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Agentic Coding Revolution: How I Learned to Stop Typing and Start Delegating](https://dev.to/aniruddha_adak/the-agentic-coding-revolution-how-i-learned-to-stop-typing-and-start-delegating-5702)
-- [When I Narrowed My Human Inputs Down to Just Todoist and Discord, the System Started Running Itself](https://dev.to/ebibibi/when-i-narrowed-my-human-inputs-down-to-just-todoist-and-discord-the-system-started-running-itself-51lf)
-- [STAY - Keep the Days You Got](https://dev.to/octanexyz/stay-keep-the-days-you-got-4i4e)
-- [Private AI Inference with Homomorphic Encryption: A Practical Guide to Computing on Encrypted Data](https://dev.to/chenyuan20509/private-ai-inference-with-homomorphic-encryption-a-practical-guide-to-computing-on-encrypted-data-3349)
+- [Five things that break when you move from Jest to Vitest](https://dev.to/msakai/five-things-that-break-when-you-move-from-jest-to-vitest-3g3p)
+- [Google Pay Integration in Flutter with One Button](https://dev.to/mryadavgulshan/google-pay-integration-in-flutter-with-one-button-1kj9)
+- [Archi Semantic Core: Using Archi Models from TypeScript](https://dev.to/continuous-drivenarchitecture/archi-semantic-core-using-archi-models-from-typescript-171n)
+- [Is “leave a Telegram group now, get a way back later” useful — or just an overengineered bookmark?](https://dev.to/jermac/is-leave-a-telegram-group-now-get-a-way-back-later-useful-or-just-an-overengineered-bookmark-1f3p)
 <!-- BLOG-POST-LIST:END -->
 
