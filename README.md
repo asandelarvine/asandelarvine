@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Parse Industrial Code Instead of Embedding It](https://dev.to/nodeblue/why-we-parse-industrial-code-instead-of-embedding-it-5dko)
-- [What I Learned Stealing Ideas from Matt Pocock’s `.agents` Directory](https://dev.to/autorobot/what-i-learned-stealing-ideas-from-matt-pococks-agents-directory-3nbi)
-- [Build a Privacy Filter Before Your AI Agent Remembers User Actions](https://dev.to/jackm-singularity/build-a-privacy-filter-before-your-ai-agent-remembers-user-actions-31fe)
-- [Building Roshni: A Real-Time, Multi-Agent Financial Voice AI for Bharat 🇮🇳](https://dev.to/saptak_roy_950fd751ad80bc/building-roshni-a-real-time-multi-agent-financial-voice-ai-for-bharat-3ao6)
+- [macOS Screen Sharing CVE-2026-65400: Authentication Bypass Leads to Root Access and Monero Miner Installation](https://dev.to/anoymask/macos-screen-sharing-cve-2026-65400-authentication-bypass-leads-to-root-access-and-monero-miner-37kh)
+- [GeoServer jsonArrayContains SQL Injection Zero-Day: Mass Probes Hours After Disclosure, RCE Possible Depending on Configuration](https://dev.to/anoymask/geoserver-jsonarraycontains-sql-injection-zero-day-mass-probes-hours-after-disclosure-rce-159a)
+- [AmnesiaStealer: macOS Infostealer that Hijacks In-Browser Sessions via ClickFix](https://dev.to/anoymask/amnesiastealer-macos-infostealer-that-hijacks-in-browser-sessions-via-clickfix-13fg)
+- [SAP Commerce Cloud CVE-2026-58231: Active Exploit Attempts for Unauthenticated RCE](https://dev.to/anoymask/sap-commerce-cloud-cve-2026-58231-active-exploit-attempts-for-unauthenticated-rce-4ipp)
 <!-- BLOG-POST-LIST:END -->
 
