@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Katalon Studio has no native Allure adapter. Here&#39;s how to get one anyway.](https://dev.to/monty_bagati_6651e3b22a36/katalon-studio-has-no-native-allure-adapter-heres-how-to-get-one-anyway-4g8)
-- [Serverless DevOps: When It Wins, When It Doesn&#39;t, and How to Run It](https://dev.to/sherdilcloud/serverless-devops-when-it-wins-when-it-doesnt-and-how-to-run-it-4mck)
-- [Building Arogya Seva: How I Built an Ultra-Low Latency Telehealth Voice AI for Bharat in 10 Days](https://dev.to/viral1998/building-kisanvani-kisaan-vaannii-an-ultra-low-latency-multilingual-voice-agent-for-indian-aoi)
-- [What Building a Food Menu Information Site Taught Me About Simple Web Development](https://dev.to/sophie_kelly_620ae11cbab3/what-building-a-food-menu-information-site-taught-me-about-simple-web-development-360o)
+- [The Agentic Coding Revolution: How I Learned to Stop Typing and Start Delegating](https://dev.to/aniruddha_adak/the-agentic-coding-revolution-how-i-learned-to-stop-typing-and-start-delegating-5702)
+- [When I Narrowed My Human Inputs Down to Just Todoist and Discord, the System Started Running Itself](https://dev.to/ebibibi/when-i-narrowed-my-human-inputs-down-to-just-todoist-and-discord-the-system-started-running-itself-51lf)
+- [STAY - Keep the Days You Got](https://dev.to/octanexyz/stay-keep-the-days-you-got-4i4e)
+- [Private AI Inference with Homomorphic Encryption: A Practical Guide to Computing on Encrypted Data](https://dev.to/chenyuan20509/private-ai-inference-with-homomorphic-encryption-a-practical-guide-to-computing-on-encrypted-data-3349)
 <!-- BLOG-POST-LIST:END -->
 
