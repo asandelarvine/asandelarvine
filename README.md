@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [macOS Screen Sharing CVE-2026-65400: Authentication Bypass Leads to Root Access and Monero Miner Installation](https://dev.to/anoymask/macos-screen-sharing-cve-2026-65400-authentication-bypass-leads-to-root-access-and-monero-miner-37kh)
-- [GeoServer jsonArrayContains SQL Injection Zero-Day: Mass Probes Hours After Disclosure, RCE Possible Depending on Configuration](https://dev.to/anoymask/geoserver-jsonarraycontains-sql-injection-zero-day-mass-probes-hours-after-disclosure-rce-159a)
-- [AmnesiaStealer: macOS Infostealer that Hijacks In-Browser Sessions via ClickFix](https://dev.to/anoymask/amnesiastealer-macos-infostealer-that-hijacks-in-browser-sessions-via-clickfix-13fg)
-- [SAP Commerce Cloud CVE-2026-58231: Active Exploit Attempts for Unauthenticated RCE](https://dev.to/anoymask/sap-commerce-cloud-cve-2026-58231-active-exploit-attempts-for-unauthenticated-rce-4ipp)
+- [What Building Typing Games Taught Me About Designing Better Web Interactions](https://dev.to/ravindrachitla/what-building-typing-games-taught-me-about-designing-better-web-interactions-50d5)
+- [The value was in nine places and one enum, and the enum was the only one that ran](https://dev.to/lumorakids/the-value-was-in-nine-places-and-one-enum-and-the-enum-was-the-only-one-that-ran-5ck9)
+- [Sehat Sathi: Building a Voice Agent for Health Access in Bharat](https://dev.to/subratgouda/sehat-sathi-building-a-voice-agent-for-health-access-in-bharat-27j4)
+- [Building Vyapar AI: My 10-Day Journey Building an Indian Voice Agent with Murf Falcon](https://dev.to/sudipto_bhadra/building-vyapar-ai-my-10-day-journey-building-an-indian-voice-agent-with-murf-falcon-1fef)
 <!-- BLOG-POST-LIST:END -->
 
