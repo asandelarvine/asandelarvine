@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes: alertas utiles para readiness flapping](https://dev.to/alexcarteruk/kubernetes-alertas-utiles-para-readiness-flapping-1bi1)
-- [IA na descoberta de fármacos: como acelerar do laboratório à clínica](https://dev.to/leojulieta/ia-na-descoberta-de-farmacos-como-acelerar-do-laboratorio-a-clinica-543m)
-- [Building a Custom API Testing Framework Using Playwright and TypeScript](https://dev.to/shefali_qa/building-a-custom-api-testing-framework-using-playwright-and-typescript-56ja)
-- [LioranDB TypeScript Series #6: Secondary Indexes and Full-Text Indexes](https://dev.to/ultrontheai/liorandb-typescript-series-6-secondary-indexes-and-full-text-indexes-2j60)
+- [How the ZIM Master Prompt Solves AI Code Hallucinations for 2D Canvas](https://dev.to/zimlearn/how-the-zim-master-prompt-solves-ai-code-hallucinations-for-2d-canvas-14lb)
+- [Turning your Obsidian notes into a queryable database with Dataview](https://dev.to/stacklinestudio/turning-your-obsidian-notes-into-a-queryable-database-with-dataview-3hn2)
+- [PHP FFI on Apple Silicon: your ioctl call is lying to you](https://dev.to/croustibat44/php-ffi-on-apple-silicon-your-ioctl-call-is-lying-to-you-23kj)
+- [Who&#39;s really winning open models in 2026? It&#39;s not who you think](https://dev.to/thegatewayguy/whos-really-winning-open-models-in-2026-its-not-who-you-think-c11)
 <!-- BLOG-POST-LIST:END -->
 
