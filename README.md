@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How the ZIM Master Prompt Solves AI Code Hallucinations for 2D Canvas](https://dev.to/zimlearn/how-the-zim-master-prompt-solves-ai-code-hallucinations-for-2d-canvas-14lb)
-- [Turning your Obsidian notes into a queryable database with Dataview](https://dev.to/stacklinestudio/turning-your-obsidian-notes-into-a-queryable-database-with-dataview-3hn2)
-- [PHP FFI on Apple Silicon: your ioctl call is lying to you](https://dev.to/croustibat44/php-ffi-on-apple-silicon-your-ioctl-call-is-lying-to-you-23kj)
-- [Who&#39;s really winning open models in 2026? It&#39;s not who you think](https://dev.to/thegatewayguy/whos-really-winning-open-models-in-2026-its-not-who-you-think-c11)
+- [YOUTHTREND-Beyond the group chat](https://dev.to/b_christine/youthtrend-beyond-the-group-chat-18f7)
+- [The Matrix of Tree Traversals: Recursive vs Iterative Explained](https://dev.to/timevolt/the-matrix-of-tree-traversals-recursive-vs-iterative-explained-18a9)
+- [Building a Responsible Health Calculator Portal for Everyday Use](https://dev.to/matheus_cavalcanti_472d93/building-a-responsible-health-calculator-portal-for-everyday-use-3d2b)
+- [Your AI-generated post-mortem is just a fancy way of hiding the truth](https://dev.to/engmanagerdesk/your-ai-generated-post-mortem-is-just-a-fancy-way-of-hiding-the-truth-5b3c)
 <!-- BLOG-POST-LIST:END -->
 
