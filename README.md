@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Midnight Fridge Raid — comfort food isn&#39;t a dish, it&#39;s 2am](https://dev.to/maneesh_thakur_d16c2852fa/midnight-fridge-raid-comfort-food-isnt-a-dish-its-2am-1l04)
-- [The Repository Pattern in NestJS: a collection that happens to live in a database](https://dev.to/chacaponquin/the-repository-pattern-in-nestjs-a-collection-that-happens-to-live-in-a-database-1i1k)
-- [El patrón Repository en NestJS: una colección que, casualmente, vive en una base de datos](https://dev.to/chacaponquin/el-patron-repository-en-nestjs-una-coleccion-que-casualmente-vive-en-una-base-de-datos-2kfd)
-- [I built a WhatsApp/Telegram group directory with zero coding background — here&#39;s the whole, unfiltered story](https://dev.to/aditya_gudapati/i-built-a-whatsapptelegram-group-directory-with-zero-coding-background-heres-the-whole-3037)
+- [Kubernetes: alertas utiles para readiness flapping](https://dev.to/alexcarteruk/kubernetes-alertas-utiles-para-readiness-flapping-1bi1)
+- [IA na descoberta de fármacos: como acelerar do laboratório à clínica](https://dev.to/leojulieta/ia-na-descoberta-de-farmacos-como-acelerar-do-laboratorio-a-clinica-543m)
+- [Building a Custom API Testing Framework Using Playwright and TypeScript](https://dev.to/shefali_qa/building-a-custom-api-testing-framework-using-playwright-and-typescript-56ja)
+- [LioranDB TypeScript Series #6: Secondary Indexes and Full-Text Indexes](https://dev.to/ultrontheai/liorandb-typescript-series-6-secondary-indexes-and-full-text-indexes-2j60)
 <!-- BLOG-POST-LIST:END -->
 
