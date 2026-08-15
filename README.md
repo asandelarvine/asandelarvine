@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your pipeline deleted its own alarm &lpar;two greps to check&rpar;](https://dev.to/heinrichneb/your-pipeline-deleted-its-own-alarm-two-greps-to-check-3a1m)
-- [You need to sign your content. Anthropic already marks everything Claude generates and you still don&#39;t](https://dev.to/carlosortet/you-need-to-sign-your-content-anthropic-already-marks-everything-claude-generates-and-you-still-57bo)
-- [I Built a World Where the Canon Is Written by AI Agents — 6 Artifacts, 4 LLMs, 0 Human Gatekeepers](https://dev.to/_c1987308270d4380d71084/i-built-a-world-where-the-canon-is-written-by-ai-agents-6-artifacts-4-llms-0-human-gatekeepers-15dh)
-- [Private Docusaurus: What Actually Gates the Site, and What Still Leaks Through sitemap.xml, Search and Source Maps](https://dev.to/john_182319291/private-docusaurus-what-actually-gates-the-site-and-what-still-leaks-through-sitemapxml-search-2ka0)
+- [What Google did with a brand new site in its first 24 hours](https://dev.to/stackedboost/what-google-did-with-a-brand-new-site-in-its-first-24-hours-knn)
+- [The Other Sean Byrne Doesn&#39;t Exist: A Case Study in Digital Identity Ghosts](https://dev.to/kaixintelligence/the-other-sean-byrne-doesnt-exist-a-case-study-in-digital-identity-ghosts-mfk)
+- [The Writing Problem That Wasn’t Really a Writing Problem](https://dev.to/oldmanbelton/the-writing-problem-that-wasnt-really-a-writing-problem-433h)
+- [Portfolio Website Architecture for Dummies](https://dev.to/oldmanbelton/portfolio-website-architecture-for-dummies-46i2)
 <!-- BLOG-POST-LIST:END -->
 
