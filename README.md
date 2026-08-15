@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Building Typing Games Taught Me About Designing Better Web Interactions](https://dev.to/ravindrachitla/what-building-typing-games-taught-me-about-designing-better-web-interactions-50d5)
-- [The value was in nine places and one enum, and the enum was the only one that ran](https://dev.to/lumorakids/the-value-was-in-nine-places-and-one-enum-and-the-enum-was-the-only-one-that-ran-5ck9)
-- [Sehat Sathi: Building a Voice Agent for Health Access in Bharat](https://dev.to/subratgouda/sehat-sathi-building-a-voice-agent-for-health-access-in-bharat-27j4)
-- [Building Vyapar AI: My 10-Day Journey Building an Indian Voice Agent with Murf Falcon](https://dev.to/sudipto_bhadra/building-vyapar-ai-my-10-day-journey-building-an-indian-voice-agent-with-murf-falcon-1fef)
+- [A Free Server Caught the GUI Fallback a Model Buried in a CLI](https://dev.to/datacpp_8185/a-free-server-caught-the-gui-fallback-a-model-buried-in-a-cli-70e)
+- [How Ranex Judges AI-Written Code: The Kernel, Explained](https://dev.to/anthonygarces/how-ranex-judges-ai-written-code-the-kernel-explained-3d8)
+- [How Garbage Collection Works: Let&#39;s Build One From Scratch](https://dev.to/aditya_d_sharma/how-garbage-collection-works-lets-build-one-from-scratch-39fh)
+- [Building Samar: My 10-Day Voice AI Agent Journey with Murf Falcon](https://dev.to/raghul_p23itr122_8708ad5/building-samar-my-10-day-voice-ai-agent-journey-with-murf-falcon-41no)
 <!-- BLOG-POST-LIST:END -->
 
