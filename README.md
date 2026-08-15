@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Free Server Caught the GUI Fallback a Model Buried in a CLI](https://dev.to/datacpp_8185/a-free-server-caught-the-gui-fallback-a-model-buried-in-a-cli-70e)
-- [How Ranex Judges AI-Written Code: The Kernel, Explained](https://dev.to/anthonygarces/how-ranex-judges-ai-written-code-the-kernel-explained-3d8)
-- [How Garbage Collection Works: Let&#39;s Build One From Scratch](https://dev.to/aditya_d_sharma/how-garbage-collection-works-lets-build-one-from-scratch-39fh)
-- [Building Samar: My 10-Day Voice AI Agent Journey with Murf Falcon](https://dev.to/raghul_p23itr122_8708ad5/building-samar-my-10-day-voice-ai-agent-journey-with-murf-falcon-41no)
+- [Your pipeline deleted its own alarm &lpar;two greps to check&rpar;](https://dev.to/heinrichneb/your-pipeline-deleted-its-own-alarm-two-greps-to-check-3a1m)
+- [You need to sign your content. Anthropic already marks everything Claude generates and you still don&#39;t](https://dev.to/carlosortet/you-need-to-sign-your-content-anthropic-already-marks-everything-claude-generates-and-you-still-57bo)
+- [I Built a World Where the Canon Is Written by AI Agents — 6 Artifacts, 4 LLMs, 0 Human Gatekeepers](https://dev.to/_c1987308270d4380d71084/i-built-a-world-where-the-canon-is-written-by-ai-agents-6-artifacts-4-llms-0-human-gatekeepers-15dh)
+- [Private Docusaurus: What Actually Gates the Site, and What Still Leaks Through sitemap.xml, Search and Source Maps](https://dev.to/john_182319291/private-docusaurus-what-actually-gates-the-site-and-what-still-leaks-through-sitemapxml-search-2ka0)
 <!-- BLOG-POST-LIST:END -->
 
