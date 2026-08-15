@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Diff Autopsy Sheet for Free-Model Changes: Flag Deletions, Churn, and Repo Shape Before Review](https://dev.to/github_7727/a-diff-autopsy-sheet-for-free-model-changes-flag-deletions-churn-and-repo-shape-before-review-2pcm)
-- [Midnight Providers: What They Are, Where They Live, and Why We Use Them](https://dev.to/midnight-aliit/midnight-providers-what-they-are-where-they-live-and-why-we-use-them-2nli)
-- [Discord Giveaway Bot](https://dev.to/musiker15/discord-giveaway-bot-kbd)
-- [Discord Ticket Bot](https://dev.to/musiker15/discord-ticket-bot-4ean)
+- [I pasted a production JWT into a random website. Then I read their privacy policy.](https://dev.to/zeeshan_imdad_c763729732e/i-got-tired-of-pasting-jwts-into-random-websites-so-i-built-my-own-tools-4hh5)
+- [ArthMitra](https://dev.to/sizico/arthmitra-4l6a)
+- [How I Built an AI Agricultural Advisor That Talks to Indian Farmers — 10 Days of Voice Agents](https://dev.to/satish_boya_3e96fe77e6464/how-i-built-an-ai-agricultural-advisor-that-talks-to-indian-farmers-10-days-of-voice-agents-1ikd)
+- [Why logrotate silently does nothing and how to actually debug it](https://dev.to/schiff_heimlich/why-logrotate-silently-does-nothing-and-how-to-actually-debug-it-2gd)
 <!-- BLOG-POST-LIST:END -->
 
