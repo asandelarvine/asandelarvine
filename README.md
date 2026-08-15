@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Cybersecurity Metric Data Dictionary That Executives Can Actually Trust](https://dev.to/santa412_929884369ea40d9a/how-to-build-a-cybersecurity-metric-data-dictionary-that-executives-can-actually-trust-1f92)
-- [Toast 1: A New Embedding Model That Rivals OpenAI at a Fraction of the Cost](https://dev.to/trismegistus/toast-1-a-new-embedding-model-that-rivals-openai-at-a-fraction-of-the-cost-3k79)
-- [Maximizing Your Claude Code Sessions: 7 Tips from Anthropic&#39;s Own Engineers](https://dev.to/trismegistus/maximizing-your-claude-code-sessions-7-tips-from-anthropics-own-engineers-gg6)
-- [Going Dark: Why Law Enforcement Hacking Is the New Surveillance Frontier](https://dev.to/trismegistus/going-dark-why-law-enforcement-hacking-is-the-new-surveillance-frontier-376a)
+- [A beginner&#39;s guide to the Qwen3.8-27b model by Qwen on Huggingface](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen38-27b-model-by-qwen-on-huggingface-11j9)
+- [Goish: พอร์ตรันไทม์ของ Go ทั้งตัวลงใน no_std Rust](https://dev.to/gophernment/goish-phrtranaithmkhng-go-thangtawlngain-nostd-rust-4g0n)
+- [Supplier Invoice Speech-to-Text: EU Startup Validation Beyond Per-Minute Pricing](https://dev.to/evanshepherd8274/supplier-invoice-speech-to-text-eu-startup-validation-beyond-per-minute-pricing-2h0a)
+- [Feature Flags API: React Polling and Defensive Defaults for Delivery Status](https://dev.to/caderaven6851/feature-flags-api-react-polling-and-defensive-defaults-for-delivery-status-5d8f)
 <!-- BLOG-POST-LIST:END -->
 
