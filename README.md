@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Qwen3.8-27b model by Qwen on Huggingface](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen38-27b-model-by-qwen-on-huggingface-11j9)
-- [Goish: พอร์ตรันไทม์ของ Go ทั้งตัวลงใน no_std Rust](https://dev.to/gophernment/goish-phrtranaithmkhng-go-thangtawlngain-nostd-rust-4g0n)
-- [Supplier Invoice Speech-to-Text: EU Startup Validation Beyond Per-Minute Pricing](https://dev.to/evanshepherd8274/supplier-invoice-speech-to-text-eu-startup-validation-beyond-per-minute-pricing-2h0a)
-- [Feature Flags API: React Polling and Defensive Defaults for Delivery Status](https://dev.to/caderaven6851/feature-flags-api-react-polling-and-defensive-defaults-for-delivery-status-5d8f)
+- [Why We Parse Industrial Code Instead of Embedding It](https://dev.to/nodeblue/why-we-parse-industrial-code-instead-of-embedding-it-5dko)
+- [What I Learned Stealing Ideas from Matt Pocock’s `.agents` Directory](https://dev.to/autorobot/what-i-learned-stealing-ideas-from-matt-pococks-agents-directory-3nbi)
+- [Build a Privacy Filter Before Your AI Agent Remembers User Actions](https://dev.to/jackm-singularity/build-a-privacy-filter-before-your-ai-agent-remembers-user-actions-31fe)
+- [Building Roshni: A Real-Time, Multi-Agent Financial Voice AI for Bharat 🇮🇳](https://dev.to/saptak_roy_950fd751ad80bc/building-roshni-a-real-time-multi-agent-financial-voice-ai-for-bharat-3ao6)
 <!-- BLOG-POST-LIST:END -->
 
