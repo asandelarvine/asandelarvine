@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Five things that break when you move from Jest to Vitest](https://dev.to/msakai/five-things-that-break-when-you-move-from-jest-to-vitest-3g3p)
-- [Google Pay Integration in Flutter with One Button](https://dev.to/mryadavgulshan/google-pay-integration-in-flutter-with-one-button-1kj9)
-- [Archi Semantic Core: Using Archi Models from TypeScript](https://dev.to/continuous-drivenarchitecture/archi-semantic-core-using-archi-models-from-typescript-171n)
-- [Is “leave a Telegram group now, get a way back later” useful — or just an overengineered bookmark?](https://dev.to/jermac/is-leave-a-telegram-group-now-get-a-way-back-later-useful-or-just-an-overengineered-bookmark-1f3p)
+- [Why Data Engineering Is the Oldest Profession in Infrastructure](https://dev.to/turboline_ai_/why-data-engineering-is-the-oldest-profession-in-infrastructure-b9m)
+- [Vector Similarity Search with DuckDB: A Practical Guide to the VSS Extension](https://dev.to/muhammadikhwanfathulloh/vector-similarity-search-with-duckdb-a-practical-guide-to-the-vss-extension-p5c)
+- [Can your verify gate actually fail?](https://dev.to/arti0/can-your-verify-gate-actually-fail-3ib4)
+- [Our First RAG Pipeline Failed on Day One](https://dev.to/amitesh0512/our-first-rag-pipeline-failed-on-day-one-2na5)
 <!-- BLOG-POST-LIST:END -->
 
