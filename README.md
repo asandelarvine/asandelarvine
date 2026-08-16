@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What the browser can actually tell you about your hardware &lpar;and what it can&#39;t&rpar;](https://dev.to/member_2ef2ebd8/what-the-browser-can-actually-tell-you-about-your-hardware-and-what-it-cant-2d2j)
-- [Four patterns that keep my YouTube longform JSON queue from going stale](https://dev.to/morinaga/four-patterns-that-keep-my-youtube-longform-json-queue-from-going-stale-2750)
-- [Code Review From the Terminal and CI, No MCP Client Required](https://dev.to/goodjobwilliam/code-review-from-the-terminal-and-ci-no-mcp-client-required-33jf)
-- [How to Catch a Pine Script Repaint Bug Before It Costs You Real Money](https://dev.to/rezali/how-to-catch-a-pine-script-repaint-bug-before-it-costs-you-real-money-38m4)
+- [😋 I used historical restaurant menus to build a nice landing page](https://dev.to/adriens/i-used-historical-restaurant-menus-to-build-a-nice-landing-page-1hfl)
+- [Day 173 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-173-of-learning-mern-stack-36b5)
+- [Daily Dose of DevOps — What is CI/CD and why it matters](https://dev.to/marco13moo/daily-dose-of-devops-what-is-cicd-and-why-it-matters-3ohj)
+- [Transformer Architecture Basics](https://dev.to/godofgeeks/transformer-architecture-basics-2ep2)
 <!-- BLOG-POST-LIST:END -->
 
