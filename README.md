@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Manual Clicking to Infrastructure as Code: My Terraform &amp; CloudFormation Journey — Like Leveling Up in Zelda](https://dev.to/timevolt/from-manual-clicking-to-infrastructure-as-code-my-terraform-cloudformation-journey-like-47no)
-- [Best IoT Platforms in 2026: Blynk, Virtuino, ThingsBoard, Arduino Cloud &amp; More Compared](https://dev.to/high_tech_reviewer/best-iot-platforms-in-2026-blynk-virtuino-thingsboard-arduino-cloud-more-compared-171c)
-- [Feijoada Anonymous: a support group for people who miss Brazilian food](https://dev.to/phalkmin/feijoada-anonymous-a-support-group-for-people-who-miss-brazilian-food-12e6)
-- [Agent State, Memory &amp; Checkpointing: Three Things That Sound Similar but Aren’t](https://dev.to/mahakfaheem/agent-state-memory-checkpointing-three-things-that-sound-similar-but-arent-5dg9)
+- [I Tested DeepSeek vs Qwen vs Kimi vs GLM — Here&#39;s the Winner](https://dev.to/fiercedash/i-tested-deepseek-vs-qwen-vs-kimi-vs-glm-heres-the-winner-43pa)
+- [Balan Coffee &amp; Roastery — A Slow-Drip Vietnamese Coffee Landing Page](https://dev.to/felixdoit/balan-coffee-roastery-a-slow-drip-vietnamese-coffee-landing-page-33ep)
+- [Graph Engineering Explained: The Missing Fifth Layer of AI Agent Architecture](https://dev.to/shakti_mishra_308e9f36b5d/graph-engineering-explained-the-missing-fifth-layer-of-ai-agent-architecture-5ab)
+- [Escape the Algorithm and Save Time: Build Your Own Feed with AI Automation](https://dev.to/dev_amrwael/escape-the-algorithm-and-save-time-build-your-own-feed-with-ai-automation-11h1)
 <!-- BLOG-POST-LIST:END -->
 
