@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [International Personal Shopping Management Dashboard | PHP &amp; MySQL](https://dev.to/janrosedev/international-personal-shopping-management-dashboard-php-mysql-1191)
-- [How do you unit test an agent skill?](https://dev.to/danielwaltersdev/how-do-you-unit-test-an-agent-skill-1f82)
-- [Building a High-Performance Daily Ledger API: Asynchronous Concurrency &amp; Data Validation with FastAPI](https://dev.to/skyatriya/building-a-high-performance-daily-ledger-api-asynchronous-concurrency-data-validation-with-4f0h)
-- [Dead Auto-Skills Were Padding Every Conversation: A Weekly Curator That Flags at 30 Days and Archives at 90](https://dev.to/bokuwalily/dead-auto-skills-were-padding-every-conversation-a-weekly-curator-that-flags-at-30-days-and-lij)
+- [What the browser can actually tell you about your hardware &lpar;and what it can&#39;t&rpar;](https://dev.to/member_2ef2ebd8/what-the-browser-can-actually-tell-you-about-your-hardware-and-what-it-cant-2d2j)
+- [Four patterns that keep my YouTube longform JSON queue from going stale](https://dev.to/morinaga/four-patterns-that-keep-my-youtube-longform-json-queue-from-going-stale-2750)
+- [Code Review From the Terminal and CI, No MCP Client Required](https://dev.to/goodjobwilliam/code-review-from-the-terminal-and-ci-no-mcp-client-required-33jf)
+- [How to Catch a Pine Script Repaint Bug Before It Costs You Real Money](https://dev.to/rezali/how-to-catch-a-pine-script-repaint-bug-before-it-costs-you-real-money-38m4)
 <!-- BLOG-POST-LIST:END -->
 
