@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Trend: Forbes Solo-Founder AI Playbook](https://dev.to/frederikvonderheyden/trend-forbes-solo-founder-ai-playbook-38fj)
-- [The Introvert with AI Intelligence: How AI Can Turn Deep Thinking into Lightning-Fast Innovation](https://dev.to/ranjancse/the-introvert-with-ai-intelligence-how-ai-can-turn-deep-thinking-into-lightning-fast-innovation-47l2)
-- [I re-scanned the launches I flagged last week — here&#39;s who actually shipped the fixes](https://dev.to/amitfeldman/i-re-scanned-the-launches-i-flagged-last-week-heres-who-actually-shipped-the-fixes-514k)
-- [What&#39;s actually inside an .eml file &lpar;and how to read one without Outlook&rpar;](https://dev.to/caseymarlin/whats-actually-inside-an-eml-file-and-how-to-read-one-without-outlook-3jp1)
+- [Why I Built a Zero-Latency AI Utility Platform Running 100% in the Browser](https://dev.to/sir_lu_62bd118924537f9510/why-i-built-a-zero-latency-ai-utility-platform-running-100-in-the-browser-5fm4)
+- [Building UniFi Reactor: state-driven network automation for my Kubernetes homelab](https://dev.to/robbeverhelst/building-unifi-reactor-state-driven-network-automation-for-my-kubernetes-homelab-4k50)
+- [How Coin Toss Statistics Actually Work: A Developer&#39;s Field Notes on Two-Outcome Generators](https://dev.to/lizely/how-coin-toss-statistics-actually-work-a-developers-field-notes-on-two-outcome-generators-2a38)
+- [I Finally Understood Linux Repositories &lpar;Main, Universe, Restricted &amp; Multiverse&rpar; as a Linux Mint Beginner](https://dev.to/sunilpradhan/i-finally-understood-linux-repositories-main-universe-restricted-multiverse-as-a-linux-mint-5daf)
 <!-- BLOG-POST-LIST:END -->
 
