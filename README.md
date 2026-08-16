@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Doesn&#39;t Need More Memory. It Needs Receipts.](https://dev.to/anasbuilds997/your-ai-agent-doesnt-need-more-memory-it-needs-receipts-1e3m)
-- [Qdrant Recall Inconsistency: It Took 300 Test Runs to Discover the Index Wasn&#39;t Refreshed](https://dev.to/_eb7f2a654e97a60ae9f96e/qdrant-recall-inconsistency-it-took-300-test-runs-to-discover-the-index-wasnt-refreshed-3agf)
-- [The most boring service in the stack](https://dev.to/kayashaolu/the-most-boring-service-in-the-stack-2kim)
-- [I Asked the Same Question to 7 Local LLMs — Speed and Intelligence Didn&#39;t Line Up: DGX Spark Benchmarks](https://dev.to/ebibibi/i-asked-the-same-question-to-7-local-llms-speed-and-intelligence-didnt-line-up-dgx-spark-4mg1)
+- [React useLatest Hook: Read Fresh State in Async Callbacks &lpar;2026&rpar;](https://dev.to/childrentime/react-uselatest-hook-read-fresh-state-in-async-callbacks-2026-24hb)
+- [How I Cut MCP Token Usage by 91% &lpar;and Learned a Humbling Lesson About Tokenizers&rpar;](https://dev.to/mcptokensaver/how-i-cut-mcp-token-usage-by-91-and-learned-a-humbling-lesson-about-tokenizers-5hl1)
+- [The AI revolution that fits on your phone](https://dev.to/dev-into-space/the-ai-revolution-that-fits-on-your-phone-4e44)
+- [Single Agent vs Multi-Agent Systems: When to Split](https://dev.to/mryadavgulshan/single-agent-vs-multi-agent-systems-when-to-split-nbp)
 <!-- BLOG-POST-LIST:END -->
 
