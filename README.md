@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The JavaScript Event Loop, Visualized](https://dev.to/audreyhal/the-javascript-event-loop-visualized-4dp7)
-- [Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸](https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8)
-- [Apple Pay in Flutter: The Easiest Implementation](https://dev.to/mryadavgulshan/apple-pay-in-flutter-the-easiest-implementation-17he)
-- [OAuth Tokens Were Always the Weak Link. AI Agents Just Made It Worse](https://dev.to/coridev/oauth-tokens-were-always-the-weak-link-ai-agents-just-made-it-worse-4dc6)
+- [Yield on cost — the dividend metric DRIP quietly builds](https://dev.to/a353551071/yield-on-cost-the-dividend-metric-drip-quietly-builds-pgm)
+- [Why HEIC breaks every browser-based image tool, and what it costs to fix](https://dev.to/bellsal_b44bf6d/why-heic-breaks-every-browser-based-image-tool-and-what-it-costs-to-fix-5g4g)
+- [An App Generator That Verifies Everything Except Its Parser](https://dev.to/megapixel99/an-app-generator-that-verifies-everything-except-its-parser-42dk)
+- [We treat a missing signature as suspicious. Should we?](https://dev.to/layercall/we-treat-a-missing-signature-as-suspicious-should-we-819)
 <!-- BLOG-POST-LIST:END -->
 
