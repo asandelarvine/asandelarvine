@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React useLatest Hook: Read Fresh State in Async Callbacks &lpar;2026&rpar;](https://dev.to/childrentime/react-uselatest-hook-read-fresh-state-in-async-callbacks-2026-24hb)
-- [How I Cut MCP Token Usage by 91% &lpar;and Learned a Humbling Lesson About Tokenizers&rpar;](https://dev.to/mcptokensaver/how-i-cut-mcp-token-usage-by-91-and-learned-a-humbling-lesson-about-tokenizers-5hl1)
-- [The AI revolution that fits on your phone](https://dev.to/dev-into-space/the-ai-revolution-that-fits-on-your-phone-4e44)
-- [Single Agent vs Multi-Agent Systems: When to Split](https://dev.to/mryadavgulshan/single-agent-vs-multi-agent-systems-when-to-split-nbp)
+- [&quot;Cron &#39;every 2 weeks&#39; doesn&#39;t exist. Here&#39;s the expression that actually works.&quot;](https://dev.to/developer_tech/cron-every-2-weeks-doesnt-exist-heres-the-expression-that-actually-works-2n5)
+- [Demystifying &#39;Cold Starts&#39; in Serverless: Why Your App Sometimes Shivers](https://dev.to/saurav_tb_pandey/demystifying-cold-starts-in-serverless-why-your-app-sometimes-shivers-2db8)
+- [EmpowerAgro: Bringing Real-Time Crop Disease Detection to India’s Smallholder Farmers with Google AI](https://dev.to/ak270704/empoweragro-bringing-real-time-crop-disease-detection-to-indias-smallholder-farmers-with-google-ai-l4d)
+- [I built 59 free browser-based dev tools in vanilla JS — here&#39;s what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-10pa)
 <!-- BLOG-POST-LIST:END -->
 
