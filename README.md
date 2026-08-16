@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Cron &#39;every 2 weeks&#39; doesn&#39;t exist. Here&#39;s the expression that actually works.&quot;](https://dev.to/developer_tech/cron-every-2-weeks-doesnt-exist-heres-the-expression-that-actually-works-2n5)
-- [Demystifying &#39;Cold Starts&#39; in Serverless: Why Your App Sometimes Shivers](https://dev.to/saurav_tb_pandey/demystifying-cold-starts-in-serverless-why-your-app-sometimes-shivers-2db8)
-- [EmpowerAgro: Bringing Real-Time Crop Disease Detection to India’s Smallholder Farmers with Google AI](https://dev.to/ak270704/empoweragro-bringing-real-time-crop-disease-detection-to-indias-smallholder-farmers-with-google-ai-l4d)
-- [I built 59 free browser-based dev tools in vanilla JS — here&#39;s what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-10pa)
+- [International Personal Shopping Management Dashboard | PHP &amp; MySQL](https://dev.to/janrosedev/international-personal-shopping-management-dashboard-php-mysql-1191)
+- [How do you unit test an agent skill?](https://dev.to/danielwaltersdev/how-do-you-unit-test-an-agent-skill-1f82)
+- [Building a High-Performance Daily Ledger API: Asynchronous Concurrency &amp; Data Validation with FastAPI](https://dev.to/skyatriya/building-a-high-performance-daily-ledger-api-asynchronous-concurrency-data-validation-with-4f0h)
+- [Dead Auto-Skills Were Padding Every Conversation: A Weekly Curator That Flags at 30 Days and Archives at 90](https://dev.to/bokuwalily/dead-auto-skills-were-padding-every-conversation-a-weekly-curator-that-flags-at-30-days-and-lij)
 <!-- BLOG-POST-LIST:END -->
 
