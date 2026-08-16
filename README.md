@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Yield on cost — the dividend metric DRIP quietly builds](https://dev.to/a353551071/yield-on-cost-the-dividend-metric-drip-quietly-builds-pgm)
-- [Why HEIC breaks every browser-based image tool, and what it costs to fix](https://dev.to/bellsal_b44bf6d/why-heic-breaks-every-browser-based-image-tool-and-what-it-costs-to-fix-5g4g)
-- [An App Generator That Verifies Everything Except Its Parser](https://dev.to/megapixel99/an-app-generator-that-verifies-everything-except-its-parser-42dk)
-- [We treat a missing signature as suspicious. Should we?](https://dev.to/layercall/we-treat-a-missing-signature-as-suspicious-should-we-819)
+- [[Boost]](https://dev.to/easbarba/-1336)
+- [The Model Didn’t Get Dumber. My Agent Skills Got Stale.](https://dev.to/evbermudez/the-model-didnt-get-dumber-my-agent-skills-got-stale-8cm)
+- [DeepSeek Code: A TUI for working in your terminal with DeepSeek!](https://dev.to/marcelo_maia/deepseek-code-a-tui-for-working-in-your-terminal-with-deepseek-2o4k)
+- [We scanned our own production site and found 8 vulnerabilities. Here’s the list.](https://dev.to/codecrack01/we-scanned-our-own-production-site-and-found-8-vulnerabilities-heres-the-list-5c50)
 <!-- BLOG-POST-LIST:END -->
 
