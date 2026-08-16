@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [😋 I used historical restaurant menus to build a nice landing page](https://dev.to/adriens/i-used-historical-restaurant-menus-to-build-a-nice-landing-page-1hfl)
-- [Day 173 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-173-of-learning-mern-stack-36b5)
-- [Daily Dose of DevOps — What is CI/CD and why it matters](https://dev.to/marco13moo/daily-dose-of-devops-what-is-cicd-and-why-it-matters-3ohj)
-- [Transformer Architecture Basics](https://dev.to/godofgeeks/transformer-architecture-basics-2ep2)
+- [What Happens When an LLM Never Reads Beyond Fifth Grade?](https://dev.to/kaixintelligence/what-happens-when-an-llm-never-reads-beyond-fifth-grade-phj)
+- [Why your CSV diff tool is lying to you &lpar;and how to fix it&rpar;](https://dev.to/dc_c2ad9d5e16/why-your-csv-diff-tool-is-lying-to-you-and-how-to-fix-it-24jm)
+- [Letting an LLM call your APIs without losing sleep](https://dev.to/ranaharoon3222/letting-an-llm-call-your-apis-without-losing-sleep-3fa4)
+- [You Are the Shadow AI Your Security Team Is Worried About](https://dev.to/nodevguy/you-are-the-shadow-ai-your-security-team-is-worried-about-7fa)
 <!-- BLOG-POST-LIST:END -->
 
