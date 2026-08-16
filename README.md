@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Detector That Only Ever Says &quot;Clean&quot; Proves Nothing](https://dev.to/volodymyrkubiria/a-detector-that-only-ever-says-clean-proves-nothing-mii)
-- [CanineIQ - Are You Actually Ready for the Dog You Want?](https://dev.to/an0n99x/canineiq-are-you-actually-ready-for-the-dog-you-want-c88)
-- [We wrote integrations for two marketplaces and skipped the shared interface](https://dev.to/fastogt_team/we-wrote-integrations-for-two-marketplaces-and-skipped-the-shared-interface-ig5)
-- [Part 1: Determining What to Build](https://dev.to/mazenaly256/part-1-choosing-the-idea-3c92)
+- [How I&#39;m Learning AI in Public: My Roadmap](https://dev.to/anushka190921/how-im-learning-ai-in-public-my-roadmap-1988)
+- [i18n sin gettext: traducciones en JSON con claves de punto](https://dev.to/isazajuancarlos/i18n-sin-gettext-traducciones-en-json-con-claves-de-punto-48fd)
+- [The Ultimate Code Review Checklist for Data Validation Frameworks](https://dev.to/shell_qa/the-ultimate-code-review-checklist-for-data-validation-frameworks-4ola)
+- [The problem with the happy path](https://dev.to/w3ndo/the-problem-with-the-happy-path-23e6)
 <!-- BLOG-POST-LIST:END -->
 
