@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Entenda Ponteiros, simples e facil com Go](https://dev.to/lucasdasial/entenda-ponteiros-simples-e-facil-com-go-2nog)
-- [Anonymous pastebins are a spam magnet. I gated mine with proof-of-work instead of logins.](https://dev.to/zekebuilds/anonymous-pastebins-are-a-spam-magnet-i-gated-mine-with-proof-of-work-instead-of-logins-9la)
-- [Frontend DevOps: mi mapa de recursos](https://dev.to/aws-builders/frontend-devops-mi-mapa-de-recursos-1fm7)
-- [ContextMemory v0.1.0-beta: what shipped](https://dev.to/vitorcastro78/contextmemory-v010-beta-what-shipped-4acl)
+- [Your AI Agent Doesn&#39;t Need More Memory. It Needs Receipts.](https://dev.to/anasbuilds997/your-ai-agent-doesnt-need-more-memory-it-needs-receipts-1e3m)
+- [Qdrant Recall Inconsistency: It Took 300 Test Runs to Discover the Index Wasn&#39;t Refreshed](https://dev.to/_eb7f2a654e97a60ae9f96e/qdrant-recall-inconsistency-it-took-300-test-runs-to-discover-the-index-wasnt-refreshed-3agf)
+- [The most boring service in the stack](https://dev.to/kayashaolu/the-most-boring-service-in-the-stack-2kim)
+- [I Asked the Same Question to 7 Local LLMs — Speed and Intelligence Didn&#39;t Line Up: DGX Spark Benchmarks](https://dev.to/ebibibi/i-asked-the-same-question-to-7-local-llms-speed-and-intelligence-didnt-line-up-dgx-spark-4mg1)
 <!-- BLOG-POST-LIST:END -->
 
