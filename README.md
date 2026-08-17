@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned Shipping My First Chrome Extension to the Web Store](https://dev.to/10aburnett/what-i-learned-shipping-my-first-chrome-extension-to-the-web-store-42lb)
-- [QUASAR: How Saliency-Weighted Reconstruction Closes the Loss Floor Gap in LLM Quantization-Aware Training](https://dev.to/prabhakar_chaudhary_7afe4/quasar-how-saliency-weighted-reconstruction-closes-the-loss-floor-gap-in-llm-quantization-aware-5akb)
-- [Overview of the RTOS Kernel Project](https://dev.to/cangulmez/overview-of-the-rtos-kernel-project-lca)
-- [The Ecology of Engineering Teams](https://dev.to/druid628/the-ecology-of-engineering-teams-3jgg)
+- [Authenticated Node.js Web Chatbot Backend Validates Streaming Reviews &lpar;Without an SDK&rpar;](https://dev.to/mitchellcross2134/authenticated-nodejs-web-chatbot-backend-validates-streaming-reviews-without-an-sdk-14bm)
+- [Your Database Said &quot;Success.&quot; Your Message Broker Said &quot;Try Again.&quot;](https://dev.to/kainat_saricioglu/your-database-said-success-your-message-broker-said-try-again-4jaj)
+- [I built SugarTrack: A simple offline blood sugar tracker for Android](https://dev.to/hunzaboy/i-built-sugartrack-a-simple-offline-blood-sugar-tracker-for-android-k45)
+- [Shadow Traffic Is the Only Honest Free Model Evaluation](https://dev.to/kongkong1/shadow-traffic-is-the-only-honest-free-model-evaluation-14ja)
 <!-- BLOG-POST-LIST:END -->
 
