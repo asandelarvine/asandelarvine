@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Authenticated Node.js Web Chatbot Backend Validates Streaming Reviews &lpar;Without an SDK&rpar;](https://dev.to/mitchellcross2134/authenticated-nodejs-web-chatbot-backend-validates-streaming-reviews-without-an-sdk-14bm)
-- [Your Database Said &quot;Success.&quot; Your Message Broker Said &quot;Try Again.&quot;](https://dev.to/kainat_saricioglu/your-database-said-success-your-message-broker-said-try-again-4jaj)
-- [I built SugarTrack: A simple offline blood sugar tracker for Android](https://dev.to/hunzaboy/i-built-sugartrack-a-simple-offline-blood-sugar-tracker-for-android-k45)
-- [Shadow Traffic Is the Only Honest Free Model Evaluation](https://dev.to/kongkong1/shadow-traffic-is-the-only-honest-free-model-evaluation-14ja)
+- [Preventing Duplicate Password-Reset Notifications &lpar;Under SMS Timeout and Retry Pressure&rpar;](https://dev.to/liamfoster1844/preventing-duplicate-password-reset-notifications-under-sms-timeout-and-retry-pressure-50d6)
+- [Cómo integrar un LLM &lpar;Claude o GPT&rpar; en tu aplicación Python](https://dev.to/isazajuancarlos/como-integrar-un-llm-claude-o-gpt-en-tu-aplicacion-python-42gm)
+- [How Python Takes Out Its Own Garbage](https://dev.to/samconibear/how-python-takes-out-its-own-garbage-326a)
+- [Understanding chmod Without Memorizing Numbers](https://dev.to/asepsayyad007/understanding-chmod-without-memorizing-numbers-553h)
 <!-- BLOG-POST-LIST:END -->
 
