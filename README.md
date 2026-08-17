@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Can Find the Failure. Who Decides What the Fix Should Be?](https://dev.to/praiztech/ai-can-find-the-failure-who-decides-what-the-fix-should-be-18o5)
-- [How VIDRAFT Hit 510.58 TPS on Gemma-4: A Deep Dive into &quot;The First Gemma Challenge&quot; Win](https://dev.to/ai_openfree_b23025ef075cf/how-vidraft-hit-51058-tps-on-gemma-4-a-deep-dive-into-the-first-gemma-challenge-win-15j6)
-- [I built a content recommender as a graph, and it found similarities I wasn&#39;t looking for](https://dev.to/mbadr3227sys/i-built-a-content-recommender-as-a-graph-and-it-found-similarities-i-wasnt-looking-for-3kj7)
-- [Shipping Assumptions: A Reliability Stack for AI-Generated Code](https://dev.to/copyleftdev/shipping-assumptions-a-reliability-stack-for-ai-generated-code-3p9f)
+- [How I Built a Browser-Only Bubble Text Generator with SVG and Canvas](https://dev.to/luhw/how-i-built-a-browser-only-bubble-text-generator-with-svg-and-canvas-i65)
+- [Pet-Wallet: Building an Angular 20 Pet Management App with Gemini AI](https://dev.to/griffonknox/pet-wallet-building-an-angular-20-pet-management-app-with-gemini-ai-14j8)
+- [From API to GPU, Week 5: Tensors, the Data Structure Behind Every Model](https://dev.to/dramasamy/from-api-to-gpu-week-5-tensors-the-data-structure-behind-every-model-18gc)
+- [GeekNews Frontend Weekly Deep Dive - 2026-08-17](https://dev.to/ageofclick/geeknews-frontend-weekly-deep-dive-2026-08-17-l5i)
 <!-- BLOG-POST-LIST:END -->
 
