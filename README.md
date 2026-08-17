@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google launches Gemini 3.7 Flash specifically for coding and agents](https://dev.to/ashutosh_maurya/google-launches-gemini-37-flash-specifically-for-coding-and-agents-17m4)
-- [PawSpective: See the World Closer to How Your Dog Sees It](https://dev.to/kernelkain/pawspective-see-the-world-closer-to-how-your-dog-sees-it-2k4g)
-- [Distillation Is a New Engineering Skill — Project Distillation in the Age of AI Agents](https://dev.to/casamia918/distillation-is-a-new-engineering-skill-project-distillation-in-the-age-of-ai-agents-3o44)
-- [Niri Monitors - Mange Connected Monitors](https://dev.to/xwaleedahmad/niri-monitors-mange-connected-monitors-261g)
+- [Why Walk When You Can SKI: Ditching the Type-Wait-Check Loop for Voice Coding](https://dev.to/julie_elis_01325f/why-walk-when-you-can-ski-ditching-the-type-wait-check-loop-for-voice-coding-31b3)
+- [Your agent&#39;s &quot;not done&quot; lies as often as its &quot;done&quot;](https://dev.to/unmannedops/your-agents-not-done-lies-as-often-as-its-done-1ea2)
+- [An Index Suggestion Is a Hypothesis, Not a Patch](https://dev.to/codepy_1473/an-index-suggestion-is-a-hypothesis-not-a-patch-20e4)
+- [A Bad Prompt Will Waste Your Free Model Calls. Lint the Contract First.](https://dev.to/gitlab_3188/a-bad-prompt-will-waste-your-free-model-calls-lint-the-contract-first-16ln)
 <!-- BLOG-POST-LIST:END -->
 
