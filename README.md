@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PawServe: AI Symptom Help, Breed Finder &amp; Real Vet Care in One Place](https://dev.to/m1raclescr1pt/pawserve-ai-symptom-help-breed-finder-real-vet-care-in-one-place-5b1g)
-- [Running three AI models on one local server when your VRAM doesn&#39;t cover all of them](https://dev.to/hannune/running-three-ai-models-on-one-local-server-when-your-vram-doesnt-cover-all-of-them-b7g)
-- [Evooo1Bot: A Multi-Functional Linux Botnet That Turns Compromised Gateways into SOCKS5 Relays, SSH Spreaders, and DDoS Tools](https://dev.to/anoymask/evooo1bot-a-multi-functional-linux-botnet-that-turns-compromised-gateways-into-socks5-relays-ssh-27kg)
-- [React useSessionStorage Hook: Per-Tab State That Survives Reloads &lpar;2026&rpar;](https://dev.to/childrentime/react-usesessionstorage-hook-per-tab-state-that-survives-reloads-2026-1nd3)
+- [Google launches Gemini 3.7 Flash specifically for coding and agents](https://dev.to/ashutosh_maurya/google-launches-gemini-37-flash-specifically-for-coding-and-agents-17m4)
+- [PawSpective: See the World Closer to How Your Dog Sees It](https://dev.to/kernelkain/pawspective-see-the-world-closer-to-how-your-dog-sees-it-2k4g)
+- [Distillation Is a New Engineering Skill — Project Distillation in the Age of AI Agents](https://dev.to/casamia918/distillation-is-a-new-engineering-skill-project-distillation-in-the-age-of-ai-agents-3o44)
+- [Niri Monitors - Mange Connected Monitors](https://dev.to/xwaleedahmad/niri-monitors-mange-connected-monitors-261g)
 <!-- BLOG-POST-LIST:END -->
 
