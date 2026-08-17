@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Bowl Builder Tool for Nawtch, and the Save Button Was Harder Than It Sounds](https://dev.to/uhdallas/i-built-a-bowl-builder-tool-for-nawtch-and-the-save-button-was-harder-than-it-sounds-8g4)
-- [Adding Edges Is Not a Paradigm Shift](https://dev.to/jeelvankhede/adding-edges-is-not-a-paradigm-shift-5135)
-- [Need some help...](https://dev.to/floppysnoot/need-some-help-3bfp)
-- [Aspect Ratio Mismatches in Production: A Frontend Team&#39;s Crop QA Checklist](https://dev.to/lizely/aspect-ratio-mismatches-in-production-a-frontend-teams-crop-qa-checklist-2njb)
+- [Graceful Multi-Tenant Lifecycle: Managing Isolated Containers, Drains, and Deferred Purges in Python](https://dev.to/andriimahalias/graceful-multi-tenant-lifecycle-managing-isolated-containers-drains-and-deferred-purges-in-python-1dk2)
+- [The Most Important Feature of a Legal AI Might Be Knowing When Not to Answer](https://dev.to/jimmyknowslaw/the-most-important-feature-of-a-legal-ai-might-be-knowing-when-not-to-answer-4g0e)
+- [Coding agents got boring the moment we built a really good one.](https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4)
+- [When your best work is behind a login](https://dev.to/57u/when-your-best-work-is-behind-a-login-31ig)
 <!-- BLOG-POST-LIST:END -->
 
