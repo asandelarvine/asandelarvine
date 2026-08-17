@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why WSL2 Is Slow on /mnt/c, and How to Find the Exact Operation Costing You Time](https://dev.to/nomurasan/why-wsl2-is-slow-on-mntc-and-how-to-find-the-exact-operation-costing-you-time-40o7)
-- [GSoC 2026 - Week 11](https://dev.to/harkeerat24/gsoc-2026-week-11-2fj)
-- [AIoT and the Physical World: Turning Connected Data Into Industrial Intelligence](https://dev.to/samra_mahmood_235c878310b/aiot-and-the-physical-world-turning-connected-data-into-industrial-intelligence-31li)
-- [Mastering Salesforce Automation: A Complete Guide to Centralized Test Locators](https://dev.to/shell_qa/mastering-salesforce-automation-a-complete-guide-to-centralized-test-locators-25ln)
+- [ASP.NET Core Output Caching: How to Make Web APIs Faster in .NET](https://dev.to/toolbenchapp/aspnet-core-output-caching-how-to-make-web-apis-faster-in-net-2n8)
+- [When a Vendor You Use Gets Breached: What to Do Next](https://dev.to/sheersafe/when-a-vendor-you-use-gets-breached-what-to-do-next-47nh)
+- [Don&#39;t Trust a New Model&#39;s Benchmarks Until You Run Your Own 30-Minute Smoke Test](https://dev.to/webx_2736/dont-trust-a-new-models-benchmarks-until-you-run-your-own-30-minute-smoke-test-485i)
+- [Unified Secrets Security with GitGuardian and AWS Secrets Manager](https://dev.to/gitguardian/unified-secrets-security-with-gitguardian-and-aws-secrets-manager-416)
 <!-- BLOG-POST-LIST:END -->
 
