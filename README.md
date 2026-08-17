@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Visibility May Start Before Search Volume: A New Framework for Content Strategy](https://dev.to/alifar/ai-visibility-may-start-before-search-volume-a-new-framework-for-content-strategy-im7)
-- [Retry patterns: when you should give up &lpar;and why most code doesn&#39;t&rpar;](https://dev.to/loopandretry/retry-patterns-when-you-should-give-up-and-why-most-code-doesnt-3haa)
-- [Don&#39;t update Compact maps on Midnight Undeployed](https://dev.to/socialprescribing/dont-update-compact-maps-on-midnight-undeployed-35dl)
-- [A Free Model Endpoint Proposed a Build Cleanup. My C++ Executor Required a Dry Run Before Touching State.](https://dev.to/datacpp_8185/a-free-model-endpoint-proposed-a-build-cleanup-my-c-executor-required-a-dry-run-before-touching-4il2)
+- [How to build a Polymarket trading bot &lpar;50ms delay edition&rpar;](https://dev.to/soulcrancerdev/how-to-build-a-polymarket-trading-bot-50ms-delay-edition-20o4)
+- [How to Debug Android Chrome Browser Logs from a Windows Laptop](https://dev.to/naimulkarim/how-to-debug-android-chrome-browser-logs-from-a-windows-laptop-1bib)
+- [Hashing across architectures](https://dev.to/geauxvirtual/hashing-across-architectures-3fb4)
+- [&quot;It works on my machine&quot;](https://dev.to/geauxvirtual/it-works-on-my-machine-741)
 <!-- BLOG-POST-LIST:END -->
 
