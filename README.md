@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What I decided about model cost before I had users.](https://dev.to/yzvirblis/what-i-decided-about-model-cost-before-i-had-users-408e)
-- [The Hardest Part Isn&#39;t AI. It&#39;s Us](https://dev.to/manufosela/the-hardest-part-isnt-ai-its-us-bp9)
-- [Secrets Management for Test Automation: Handling Credentials Locally and in CI/CD Pipelines](https://dev.to/shell_qa/secrets-management-for-test-automation-handling-credentials-locally-and-in-cicd-pipelines-4pg)
-- [Rendering Custom Fonts to a 2048px PNG with Canvas](https://dev.to/hellokai/rendering-custom-fonts-to-a-2048px-png-with-canvas-2c03)
+- [Your Integrity Checks Are Watching the Wrong Layer](https://dev.to/aws-builders/your-integrity-checks-are-watching-the-wrong-layer-31ii)
+- [Why I don’t want AI agents executing code in someone else’s cloud](https://dev.to/030dev/why-i-dont-want-ai-agents-executing-code-in-someone-elses-cloud-flf)
+- [Virtual threads didn&#39;t scale your app. They just moved the crash to your database.](https://dev.to/adioof/virtual-threads-didnt-scale-your-app-they-just-moved-the-crash-to-your-database-p7i)
+- [Stripe Just Bought OpenRouter for $7B+ — and That Is the Most Important AI Story of the Week](https://dev.to/amrree/stripe-just-bought-openrouter-for-7b-and-that-is-the-most-important-ai-story-of-the-week-4kc9)
 <!-- BLOG-POST-LIST:END -->
 
