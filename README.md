@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Preventing Duplicate Password-Reset Notifications &lpar;Under SMS Timeout and Retry Pressure&rpar;](https://dev.to/liamfoster1844/preventing-duplicate-password-reset-notifications-under-sms-timeout-and-retry-pressure-50d6)
-- [Cómo integrar un LLM &lpar;Claude o GPT&rpar; en tu aplicación Python](https://dev.to/isazajuancarlos/como-integrar-un-llm-claude-o-gpt-en-tu-aplicacion-python-42gm)
-- [How Python Takes Out Its Own Garbage](https://dev.to/samconibear/how-python-takes-out-its-own-garbage-326a)
-- [Understanding chmod Without Memorizing Numbers](https://dev.to/asepsayyad007/understanding-chmod-without-memorizing-numbers-553h)
+- [I Built a Bowl Builder Tool for Nawtch, and the Save Button Was Harder Than It Sounds](https://dev.to/uhdallas/i-built-a-bowl-builder-tool-for-nawtch-and-the-save-button-was-harder-than-it-sounds-8g4)
+- [Adding Edges Is Not a Paradigm Shift](https://dev.to/jeelvankhede/adding-edges-is-not-a-paradigm-shift-5135)
+- [Need some help...](https://dev.to/floppysnoot/need-some-help-3bfp)
+- [Aspect Ratio Mismatches in Production: A Frontend Team&#39;s Crop QA Checklist](https://dev.to/lizely/aspect-ratio-mismatches-in-production-a-frontend-teams-crop-qa-checklist-2njb)
 <!-- BLOG-POST-LIST:END -->
 
