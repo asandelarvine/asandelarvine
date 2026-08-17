@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [QH256 in C — A Deterministic 256-Bit State Structure for K501-AIONARC](https://dev.to/k501is/qh256-in-c-a-deterministic-256-bit-state-structure-for-k501-aionarc-3bji)
-- [Memes políticos IA: la nueva arma viral de la campaña 2026](https://dev.to/leojulieta/memes-politicos-ia-la-nueva-arma-viral-de-la-campana-2026-4d75)
-- [Dead code analysis that is allowed to say &quot;I don&#39;t understand this&quot;](https://dev.to/baytcho/dead-code-analysis-that-is-allowed-to-say-i-dont-understand-this-55lh)
-- [Qwen 3.8 27B: Why This Powerful Model Can&#39;t Stop Overthinking &lpar;and How to Fix It&rpar;](https://dev.to/kaixintelligence/qwen-38-27b-why-this-powerful-model-cant-stop-overthinking-and-how-to-fix-it-5dh6)
+- [What I decided about model cost before I had users.](https://dev.to/yzvirblis/what-i-decided-about-model-cost-before-i-had-users-408e)
+- [The Hardest Part Isn&#39;t AI. It&#39;s Us](https://dev.to/manufosela/the-hardest-part-isnt-ai-its-us-bp9)
+- [Secrets Management for Test Automation: Handling Credentials Locally and in CI/CD Pipelines](https://dev.to/shell_qa/secrets-management-for-test-automation-handling-credentials-locally-and-in-cicd-pipelines-4pg)
+- [Rendering Custom Fonts to a 2048px PNG with Canvas](https://dev.to/hellokai/rendering-custom-fonts-to-a-2048px-png-with-canvas-2c03)
 <!-- BLOG-POST-LIST:END -->
 
