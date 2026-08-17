@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Can Copilot Fix Its Own Security Findings? Testing GitHub Agentic Autofix](https://dev.to/pwd9000/can-copilot-fix-its-own-security-findings-testing-github-agentic-autofix-351b)
-- [Iniciando minha jornada em ADS: Configurando o ambiente com Git, VS Code e GitHub](https://dev.to/davidjrpereira/iniciando-minha-jornada-em-ads-configurando-o-ambiente-com-git-vs-code-e-github-2hdh)
-- [What breaks if I delete this file? React tooling can&#39;t answer that.](https://dev.to/linb/what-breaks-if-i-delete-this-file-react-tooling-cant-answer-that-1eom)
-- [Why I Built a Browser-Only Tool Platform &lpar;and What Broke That Rule&rpar;](https://dev.to/amritanshu_gaurav_8c70b9e/why-i-built-a-browser-only-tool-platform-and-what-broke-that-rule-16df)
+- [Algorithmic Patterns: The Ultimate Guide to Sliding Window](https://dev.to/architect_bytes/algorithmic-patterns-the-ultimate-guide-to-sliding-window-33g9)
+- [Network Devices Explained — The Foundation Every Cloud &amp; DevOps Engineer Needs](https://dev.to/tejas_shinkar/network-devices-explained-the-foundation-every-cloud-devops-engineer-needs-218a)
+- [Why I left Warehouse out of our Fabric deployment scope](https://dev.to/vedaforge_eng/why-i-left-warehouse-out-of-our-fabric-deployment-scope-2jca)
+- [The Day I Realized I Wasn&#39;t Building Apps](https://dev.to/ashb4/the-day-i-realized-i-wasnt-building-apps-14fm)
 <!-- BLOG-POST-LIST:END -->
 
