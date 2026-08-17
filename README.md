@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PromptShrink](https://dev.to/heloisapegarcia/promptshrink-5hh0)
-- [The Agent Left the IDE](https://dev.to/prpatel05/the-agent-left-the-ide-39fo)
-- [The Outbox Pattern Is Not Enough](https://dev.to/ramesh-yara/the-outbox-pattern-is-not-enough-28g1)
-- [Architecting a Custom Purple Team Infrastructure Scanner in Go.](https://dev.to/medjahdi/architecting-a-custom-purple-team-infrastructure-scanner-in-go-4oj7)
+- [AI Visibility May Start Before Search Volume: A New Framework for Content Strategy](https://dev.to/alifar/ai-visibility-may-start-before-search-volume-a-new-framework-for-content-strategy-im7)
+- [Retry patterns: when you should give up &lpar;and why most code doesn&#39;t&rpar;](https://dev.to/loopandretry/retry-patterns-when-you-should-give-up-and-why-most-code-doesnt-3haa)
+- [Don&#39;t update Compact maps on Midnight Undeployed](https://dev.to/socialprescribing/dont-update-compact-maps-on-midnight-undeployed-35dl)
+- [A Free Model Endpoint Proposed a Build Cleanup. My C++ Executor Required a Dry Run Before Touching State.](https://dev.to/datacpp_8185/a-free-model-endpoint-proposed-a-build-cleanup-my-c-executor-required-a-dry-run-before-touching-4il2)
 <!-- BLOG-POST-LIST:END -->
 
