@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Integrity Checks Are Watching the Wrong Layer](https://dev.to/aws-builders/your-integrity-checks-are-watching-the-wrong-layer-31ii)
-- [Why I don’t want AI agents executing code in someone else’s cloud](https://dev.to/030dev/why-i-dont-want-ai-agents-executing-code-in-someone-elses-cloud-flf)
-- [Virtual threads didn&#39;t scale your app. They just moved the crash to your database.](https://dev.to/adioof/virtual-threads-didnt-scale-your-app-they-just-moved-the-crash-to-your-database-p7i)
-- [Stripe Just Bought OpenRouter for $7B+ — and That Is the Most Important AI Story of the Week](https://dev.to/amrree/stripe-just-bought-openrouter-for-7b-and-that-is-the-most-important-ai-story-of-the-week-4kc9)
+- [Why WSL2 Is Slow on /mnt/c, and How to Find the Exact Operation Costing You Time](https://dev.to/nomurasan/why-wsl2-is-slow-on-mntc-and-how-to-find-the-exact-operation-costing-you-time-40o7)
+- [GSoC 2026 - Week 11](https://dev.to/harkeerat24/gsoc-2026-week-11-2fj)
+- [AIoT and the Physical World: Turning Connected Data Into Industrial Intelligence](https://dev.to/samra_mahmood_235c878310b/aiot-and-the-physical-world-turning-connected-data-into-industrial-intelligence-31li)
+- [Mastering Salesforce Automation: A Complete Guide to Centralized Test Locators](https://dev.to/shell_qa/mastering-salesforce-automation-a-complete-guide-to-centralized-test-locators-25ln)
 <!-- BLOG-POST-LIST:END -->
 
