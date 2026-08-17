@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Graceful Multi-Tenant Lifecycle: Managing Isolated Containers, Drains, and Deferred Purges in Python](https://dev.to/andriimahalias/graceful-multi-tenant-lifecycle-managing-isolated-containers-drains-and-deferred-purges-in-python-1dk2)
-- [The Most Important Feature of a Legal AI Might Be Knowing When Not to Answer](https://dev.to/jimmyknowslaw/the-most-important-feature-of-a-legal-ai-might-be-knowing-when-not-to-answer-4g0e)
-- [Coding agents got boring the moment we built a really good one.](https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4)
-- [When your best work is behind a login](https://dev.to/57u/when-your-best-work-is-behind-a-login-31ig)
+- [PromptShrink](https://dev.to/heloisapegarcia/promptshrink-5hh0)
+- [The Agent Left the IDE](https://dev.to/prpatel05/the-agent-left-the-ide-39fo)
+- [The Outbox Pattern Is Not Enough](https://dev.to/ramesh-yara/the-outbox-pattern-is-not-enough-28g1)
+- [Architecting a Custom Purple Team Infrastructure Scanner in Go.](https://dev.to/medjahdi/architecting-a-custom-purple-team-infrastructure-scanner-in-go-4oj7)
 <!-- BLOG-POST-LIST:END -->
 
