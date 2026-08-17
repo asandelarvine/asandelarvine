@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ASP.NET Core Output Caching: How to Make Web APIs Faster in .NET](https://dev.to/toolbenchapp/aspnet-core-output-caching-how-to-make-web-apis-faster-in-net-2n8)
-- [When a Vendor You Use Gets Breached: What to Do Next](https://dev.to/sheersafe/when-a-vendor-you-use-gets-breached-what-to-do-next-47nh)
-- [Don&#39;t Trust a New Model&#39;s Benchmarks Until You Run Your Own 30-Minute Smoke Test](https://dev.to/webx_2736/dont-trust-a-new-models-benchmarks-until-you-run-your-own-30-minute-smoke-test-485i)
-- [Unified Secrets Security with GitGuardian and AWS Secrets Manager](https://dev.to/gitguardian/unified-secrets-security-with-gitguardian-and-aws-secrets-manager-416)
+- [The Runbook as Infrastructure](https://dev.to/diyaburman/the-runbook-as-infrastructure-2ilc)
+- [Testing Payment Gateways in Flutter Without Real Money](https://dev.to/mryadavgulshan/testing-payment-gateways-in-flutter-without-real-money-jm)
+- [Claude Code Silently Deleted a User&#39;s Entire Agent-Config Directory — Twice](https://dev.to/ramdai_bista/claude-code-silently-deleted-a-users-entire-agent-config-directory-twice-2fni)
+- [I Built the Ultimate HTTP Interceptor for Angular: 6 Resilience Patterns and RxJS in Practice](https://dev.to/erickg123/i-built-the-ultimate-http-interceptor-for-angular-6-resilience-patterns-and-rxjs-in-practice-1d33)
 <!-- BLOG-POST-LIST:END -->
 
