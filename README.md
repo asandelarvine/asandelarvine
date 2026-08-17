@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Walk When You Can SKI: Ditching the Type-Wait-Check Loop for Voice Coding](https://dev.to/julie_elis_01325f/why-walk-when-you-can-ski-ditching-the-type-wait-check-loop-for-voice-coding-31b3)
-- [Your agent&#39;s &quot;not done&quot; lies as often as its &quot;done&quot;](https://dev.to/unmannedops/your-agents-not-done-lies-as-often-as-its-done-1ea2)
-- [An Index Suggestion Is a Hypothesis, Not a Patch](https://dev.to/codepy_1473/an-index-suggestion-is-a-hypothesis-not-a-patch-20e4)
-- [A Bad Prompt Will Waste Your Free Model Calls. Lint the Contract First.](https://dev.to/gitlab_3188/a-bad-prompt-will-waste-your-free-model-calls-lint-the-contract-first-16ln)
+- [Supabase in Vue Made Simple](https://dev.to/jacobandrewsky/supabase-in-vue-made-simple-akk)
+- [The 7 AI Repositories I Starred This Month](https://dev.to/jaideepparashar/the-7-ai-repositories-i-starred-this-month-4gd7)
+- [Dog Whisperer](https://dev.to/jatin_rawat_80f388e400d36/dog-whisperer-32nf)
+- [Warm Hearth — A Landing Page Built Around One Fire](https://dev.to/mohitsaini2829/warm-hearth-a-landing-page-built-around-one-fire-3ic4)
 <!-- BLOG-POST-LIST:END -->
 
