@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI GPT-5.6 Launch Reshapes Its Model Line With Sol, Terra and Luna](https://dev.to/alifar/openai-gpt-56-launch-reshapes-its-model-line-with-sol-terra-and-luna-2j00)
-- [GPT-4o Mini Fine-Tuning: Evaluation-First Guide](https://dev.to/gateofai/gpt-4o-mini-fine-tuning-evaluation-first-guide-43n6)
-- [D-MO &lpar;Data Micro-Optimizer&rpar;](https://dev.to/omargpax/d-mo-data-micro-optimizer-244f)
-- [The Generated Helper Passed Locally, Then Died in a Clean Container Because It Read a Global I Never Passed](https://dev.to/codepy_1473/the-generated-helper-passed-locally-then-died-in-a-clean-container-because-it-read-a-global-i-1l4l)
+- [Building an AI Insurance Claim Analyzer with RocketRide](https://dev.to/piyarkhatrizx/building-an-ai-insurance-claim-analyzer-with-rocketride-1kne)
+- [The storefronts are coming to Linux: Epic, GOG, and the tipping point](https://dev.to/do_not_test_me/the-storefronts-are-coming-to-linux-epic-gog-and-the-tipping-point-4468)
+- [Your AI-Generated Code Might Not Be Yours](https://dev.to/theaidownside/your-ai-generated-code-might-not-be-yours-5314)
+- [The Problem Isn’t AI. It’s the Pace.](https://dev.to/andresclua/the-problem-isnt-ai-its-the-pace-3p3b)
 <!-- BLOG-POST-LIST:END -->
 
