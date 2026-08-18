@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a Polymarket trading bot &lpar;50ms delay edition&rpar;](https://dev.to/soulcrancerdev/how-to-build-a-polymarket-trading-bot-50ms-delay-edition-20o4)
-- [How to Debug Android Chrome Browser Logs from a Windows Laptop](https://dev.to/naimulkarim/how-to-debug-android-chrome-browser-logs-from-a-windows-laptop-1bib)
-- [Hashing across architectures](https://dev.to/geauxvirtual/hashing-across-architectures-3fb4)
-- [&quot;It works on my machine&quot;](https://dev.to/geauxvirtual/it-works-on-my-machine-741)
+- [Why Strong Google Rankings Do Not Necessarily Translate Into LLM Brand Visibility](https://dev.to/alifar/why-strong-google-rankings-do-not-necessarily-translate-into-llm-brand-visibility-2hb7)
+- [From 30 Minutes to 3 Seconds: Automated LLM Memory Recall Testing with pytest + FAISS](https://dev.to/_eb7f2a654e97a60ae9f96e/from-30-minutes-to-3-seconds-automated-llm-memory-recall-testing-with-pytest-faiss-3f12)
+- [RAG Hallucination Diagnosis: Evidence Gating Beats Embeddings for Ask-Your-Docs Chatbot Answers](https://dev.to/brockfletcher1438/rag-hallucination-diagnosis-evidence-gating-beats-embeddings-for-ask-your-docs-chatbot-answers-18a7)
+- [Meta lança óculos Ray‑Ban com reconhecimento facial: entenda os riscos](https://dev.to/leojulieta/meta-lanca-oculos-ray-ban-com-reconhecimento-facial-entenda-os-riscos-3fll)
 <!-- BLOG-POST-LIST:END -->
 
