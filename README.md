@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I read the docs of 9 WordPress AI search plugins. Three run TF-IDF and four send you a second bill.](https://dev.to/gronrafal/i-read-the-docs-of-9-wordpress-ai-search-plugins-three-run-tf-idf-and-four-send-you-a-second-bill-5812)
-- [Why systemctl --user daemon-reload silently does nothing](https://dev.to/vainamoinen/why-systemctl-user-daemon-reload-silently-does-nothing-4ig9)
-- [There is always another way](https://dev.to/thedumebi/there-is-always-another-way-enl)
-- [Building FindCoffeeMate: A Small MVP That Taught Me Big Lessons](https://dev.to/binaykumardas/building-findcoffeemate-a-small-mvp-that-taught-me-big-lessons-509o)
+- [Moving from AI-Assisted Engineering to AI-Agentic Software Engineering](https://dev.to/sajithv91/moving-from-ai-assisted-engineering-to-ai-agentic-software-engineering-4i2p)
+- [Startup or Enterprise? How to Pick the Right AI API Stack](https://dev.to/rileykim/startup-or-enterprise-how-to-pick-the-right-ai-api-stack-3h8i)
+- [Automating Daily Bluesky Posts with a JSON‑Driven Content Pipeline](https://dev.to/zaerohell/automating-daily-bluesky-posts-with-a-json-driven-content-pipeline-18b2)
+- [Why Go&#39;s encoding/csv Burns 540MB on 5M Rows &lpar;and How I Fixed It&rpar;](https://dev.to/fikrimohammad/why-gos-encodingcsv-burns-540mb-on-5m-rows-and-how-i-fixed-it-4m63)
 <!-- BLOG-POST-LIST:END -->
 
