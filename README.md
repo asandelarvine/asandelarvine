@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Strong Google Rankings Do Not Necessarily Translate Into LLM Brand Visibility](https://dev.to/alifar/why-strong-google-rankings-do-not-necessarily-translate-into-llm-brand-visibility-2hb7)
-- [From 30 Minutes to 3 Seconds: Automated LLM Memory Recall Testing with pytest + FAISS](https://dev.to/_eb7f2a654e97a60ae9f96e/from-30-minutes-to-3-seconds-automated-llm-memory-recall-testing-with-pytest-faiss-3f12)
-- [RAG Hallucination Diagnosis: Evidence Gating Beats Embeddings for Ask-Your-Docs Chatbot Answers](https://dev.to/brockfletcher1438/rag-hallucination-diagnosis-evidence-gating-beats-embeddings-for-ask-your-docs-chatbot-answers-18a7)
-- [Meta lança óculos Ray‑Ban com reconhecimento facial: entenda os riscos](https://dev.to/leojulieta/meta-lanca-oculos-ray-ban-com-reconhecimento-facial-entenda-os-riscos-3fll)
+- [OSI Model Explained — Understanding How Network Communication Works](https://dev.to/tejas_shinkar/osi-model-explained-understanding-how-network-communication-works-kn5)
+- [How Bluesky Draws Its Logo on Screenshots and Why It Matters for Platform Identity](https://dev.to/trismegistus/how-bluesky-draws-its-logo-on-screenshots-and-why-it-matters-for-platform-identity-1kfo)
+- [Why I run speech-to-text locally instead of calling a cloud API](https://dev.to/hannune/why-i-run-speech-to-text-locally-instead-of-calling-a-cloud-api-59j7)
+- [repomapper v0.1.0: guía operativa AGENTS.md para cualquier repositorio](https://dev.to/magopredator/repomapper-v010-guia-operativa-agentsmd-para-cualquier-repositorio-d09)
 <!-- BLOG-POST-LIST:END -->
 
