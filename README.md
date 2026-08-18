@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Lifecycle](https://dev.to/shameer_sh_mg/llm-lifecycle-1gei)
-- [How to Configure Parallel Execution in TestNG vs. Custom Excel Allocator](https://dev.to/shell_qa/how-to-configure-parallel-execution-in-testng-vs-custom-excel-allocator-4lo2)
-- [CDN: How Websites Serve Content Faster Globally](https://dev.to/tanu_priya/cdn-how-websites-serve-content-faster-globally-5ahk)
-- [Vector Search Lands in DynamoDB Natively — Issue #89](https://dev.to/devsignal/vector-search-lands-in-dynamodb-natively-issue-89-3n0c)
+- [How to Build a Scalable IoT Architecture for Telecom Tower Monitoring](https://dev.to/perch_darbinyan_3954e7032/how-to-build-a-scalable-iot-architecture-for-telecom-tower-monitoring-cec)
+- [Go 1.26 iterators turned the simplest language into functional spaghetti](https://dev.to/adioof/go-126-iterators-turned-the-simplest-language-into-functional-spaghetti-5c4h)
+- [One repo, one day: 4 CI guards that were green and blind](https://dev.to/heinrichneb/one-repo-one-day-4-ci-guards-that-were-green-and-blind-oge)
+- [Refactoring the views system in YOUR gift!](https://dev.to/codemaster_121482/refactoring-the-views-system-in-your-gift-4kno)
 <!-- BLOG-POST-LIST:END -->
 
