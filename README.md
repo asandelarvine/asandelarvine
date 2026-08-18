@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT-5.6 Sol Is the Best &#39;Vision&#39; Model OpenAI Ever Released — and Roboflow&#39;s Benchmarks Prove It](https://dev.to/trismegistus/gpt-56-sol-is-the-best-vision-model-openai-ever-released-and-roboflows-benchmarks-prove-it-2h)
-- [A Nation State Just Built a Fake Think Tank to Manipulate AI Chatbots — and It Changes Everything](https://dev.to/trismegistus/a-nation-state-just-built-a-fake-think-tank-to-manipulate-ai-chatbots-and-it-changes-everything-5akl)
-- [My Affiliate Income Spreadsheet: How a Side Hustle Dev Added $500/Month With Zero New Code](https://dev.to/vividbeam/my-affiliate-income-spreadsheet-how-a-side-hustle-dev-added-500month-with-zero-new-code-196k)
-- [Why I Built a 10MB Code Editor in Rust and Tauri](https://dev.to/greatchijioke01/why-i-built-a-10mb-code-editor-in-rust-and-tauri-282a)
+- [LLM Lifecycle](https://dev.to/shameer_sh_mg/llm-lifecycle-1gei)
+- [How to Configure Parallel Execution in TestNG vs. Custom Excel Allocator](https://dev.to/shell_qa/how-to-configure-parallel-execution-in-testng-vs-custom-excel-allocator-4lo2)
+- [CDN: How Websites Serve Content Faster Globally](https://dev.to/tanu_priya/cdn-how-websites-serve-content-faster-globally-5ahk)
+- [Vector Search Lands in DynamoDB Natively — Issue #89](https://dev.to/devsignal/vector-search-lands-in-dynamodb-natively-issue-89-3n0c)
 <!-- BLOG-POST-LIST:END -->
 
