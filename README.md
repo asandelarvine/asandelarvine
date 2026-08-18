@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Polyhost: Why I Built a Reference Stack Instead of a Framework](https://dev.to/sukkergris/polyhost-why-i-built-a-reference-stack-instead-of-a-framework-42hd)
-- [A Practical Guide to Learning AI in 2026: From Zero to Building Real Projects](https://dev.to/hwonhwon_kitty_869/a-practical-guide-to-learning-ai-in-2026-from-zero-to-building-real-projects-1opc)
-- [GPT-5.6 Sol&#39;s &#39;Best Vision Model&#39; Claim Is Roboflow&#39;s, Not OpenAI&#39;s](https://dev.to/vin-patel/gpt-56-sols-best-vision-model-claim-is-roboflows-not-openais-2hoj)
-- [Understanding Main package and arguments passing in Go.](https://dev.to/open_dev/understanding-main-package-and-arguments-passing-in-go-1a94)
+- [When AI Agents Turn on Each Other: Anthropic&#39;s Frontier Red Team Exposes Six Deadly Failure Modes in Multi-Agent Systems](https://dev.to/sanyaduan/when-ai-agents-turn-on-each-other-anthropics-frontier-red-team-exposes-six-deadly-failure-modes-2cfj)
+- [Flutter Streaming UI: How the Typewriter Experience of AI Replies Is Built](https://dev.to/yuelinghuashu/flutter-streaming-ui-how-the-typewriter-experience-of-ai-replies-is-built-371l)
+- [Flock em Wisconsin: Por que 200 cidades removeram as câmeras e o que fazer](https://dev.to/leojulieta/flock-em-wisconsin-por-que-200-cidades-removeram-as-cameras-e-o-que-fazer-374m)
+- [The Most Dangerous File in Your Repo Might Be SECURITY.md](https://dev.to/sonia_bobrik_1939cdddd79d/the-most-dangerous-file-in-your-repo-might-be-securitymd-5e52)
 <!-- BLOG-POST-LIST:END -->
 
