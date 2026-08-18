@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Dose of DevOps — Terraform remote state explained](https://dev.to/marco13moo/daily-dose-of-devops-terraform-remote-state-explained-4bi)
-- [I built a WhatsApp bot to check WiFi balances, and TP-Link&#39;s own API fought me the whole way](https://dev.to/coolbuoy/i-built-a-whatsapp-bot-to-check-wifi-balances-and-tp-links-own-api-fought-me-the-whole-way-4fp8)
-- [I got our API into the Postman network in one evening — and didn&#39;t hand-write a single request](https://dev.to/eugeniya_ivanova_4a58eadc/i-got-our-api-into-the-postman-network-in-one-evening-and-didnt-hand-write-a-single-request-2an6)
-- [How to Build a Cost-Aware AI Model Router for SaaS Workflows](https://dev.to/ascentinnovate/how-to-build-a-cost-aware-ai-model-router-for-saas-workflows-3h06)
+- [GPT-5.6 Sol Is the Best &#39;Vision&#39; Model OpenAI Ever Released — and Roboflow&#39;s Benchmarks Prove It](https://dev.to/trismegistus/gpt-56-sol-is-the-best-vision-model-openai-ever-released-and-roboflows-benchmarks-prove-it-2h)
+- [A Nation State Just Built a Fake Think Tank to Manipulate AI Chatbots — and It Changes Everything](https://dev.to/trismegistus/a-nation-state-just-built-a-fake-think-tank-to-manipulate-ai-chatbots-and-it-changes-everything-5akl)
+- [My Affiliate Income Spreadsheet: How a Side Hustle Dev Added $500/Month With Zero New Code](https://dev.to/vividbeam/my-affiliate-income-spreadsheet-how-a-side-hustle-dev-added-500month-with-zero-new-code-196k)
+- [Why I Built a 10MB Code Editor in Rust and Tauri](https://dev.to/greatchijioke01/why-i-built-a-10mb-code-editor-in-rust-and-tauri-282a)
 <!-- BLOG-POST-LIST:END -->
 
