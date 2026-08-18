@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use the SH-C30L USB-to-CAN Adapter with Arduino UNO and MCP2515](https://dev.to/play_withcircuit_241ef87/how-to-use-the-sh-c30l-usb-to-can-adapter-with-arduino-uno-and-mcp2515-p8n)
-- [Anthropic&#39;s Watermarking Controversy: Who Owns Your AI-Edited Words](https://dev.to/jamilxt/anthropics-watermarking-controversy-who-owns-your-ai-edited-words-l6d)
-- [AI Observability Explained: What It Is and How It Works](https://dev.to/swapnoneel123/ai-observability-explained-what-it-is-and-how-it-works-487)
-- [Mongodb Partitioning](https://dev.to/vincent_couturier_91/mongodb-partitioning-o35)
+- [Daily Dose of DevOps — Terraform remote state explained](https://dev.to/marco13moo/daily-dose-of-devops-terraform-remote-state-explained-4bi)
+- [I built a WhatsApp bot to check WiFi balances, and TP-Link&#39;s own API fought me the whole way](https://dev.to/coolbuoy/i-built-a-whatsapp-bot-to-check-wifi-balances-and-tp-links-own-api-fought-me-the-whole-way-4fp8)
+- [I got our API into the Postman network in one evening — and didn&#39;t hand-write a single request](https://dev.to/eugeniya_ivanova_4a58eadc/i-got-our-api-into-the-postman-network-in-one-evening-and-didnt-hand-write-a-single-request-2an6)
+- [How to Build a Cost-Aware AI Model Router for SaaS Workflows](https://dev.to/ascentinnovate/how-to-build-a-cost-aware-ai-model-router-for-saas-workflows-3h06)
 <!-- BLOG-POST-LIST:END -->
 
