@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Insurance Claim Analyzer with RocketRide](https://dev.to/piyarkhatrizx/building-an-ai-insurance-claim-analyzer-with-rocketride-1kne)
-- [The storefronts are coming to Linux: Epic, GOG, and the tipping point](https://dev.to/do_not_test_me/the-storefronts-are-coming-to-linux-epic-gog-and-the-tipping-point-4468)
-- [Your AI-Generated Code Might Not Be Yours](https://dev.to/theaidownside/your-ai-generated-code-might-not-be-yours-5314)
-- [The Problem Isn’t AI. It’s the Pace.](https://dev.to/andresclua/the-problem-isnt-ai-its-the-pace-3p3b)
+- [An Agent&#39;s Work Isn&#39;t &quot;Done Later&quot; Until You Can Find It Later](https://dev.to/nomurasan/an-agents-work-isnt-done-later-until-you-can-find-it-later-1929)
+- [Building GNOME Apps with Rust, Part 6: Fetching Feeds](https://dev.to/fromthearchitect/building-gnome-apps-with-rust-part-6-fetching-feeds-bjf)
+- [What Google’s Ongoing AI Overviews Testing Means for Recipe Publishers and SEO](https://dev.to/alifar/what-googles-ongoing-ai-overviews-testing-means-for-recipe-publishers-and-seo-30kl)
+- [Taba est devenue une ligne SQL, et ça explique mieux la POO que n&#39;importe quel cours](https://dev.to/souleyman_thiao_5e9e61267/taba-est-devenue-une-ligne-sql-et-ca-explique-mieux-la-poo-que-nimporte-quel-cours-5gg3)
 <!-- BLOG-POST-LIST:END -->
 
