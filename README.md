@@ -79,16 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [New tabs are usually just… blank.
-
-So I built Cosmos, a new-tab workspace with something I haven’t seen done well:
-Developer + Designer widgets. 👨‍💻🎨
-
-Your apps, bookmarks &amp; useful info, right where you start working.
-
-cosmos-newtab.vercel.app](https://dev.to/uiuxsatyam/new-tabs-are-usually-just-blank-so-i-built-cosmos-a-new-tab-workspace-with-something-i-havent-398m)
-- [Multi-Armed Bandit Testing: How It Works and When to Use](https://dev.to/david_sert/multi-armed-bandit-testing-how-it-works-and-when-to-use-1ldd)
-- [When Rider Forgets How to Write Assembly Definitions: My Day-Long Fight With UnityAtoms](https://dev.to/mario_mignemi/the-rider-bug-thats-probably-already-in-your-project-you-just-havent-noticed-yet-2p0c)
-- [How to Choose a Minimum Detectable Effect &lpar;MDE&rpar;](https://dev.to/david_sert/how-to-choose-a-minimum-detectable-effect-mde-2k31)
+- [How to Use the SH-C30L USB-to-CAN Adapter with Arduino UNO and MCP2515](https://dev.to/play_withcircuit_241ef87/how-to-use-the-sh-c30l-usb-to-can-adapter-with-arduino-uno-and-mcp2515-p8n)
+- [Anthropic&#39;s Watermarking Controversy: Who Owns Your AI-Edited Words](https://dev.to/jamilxt/anthropics-watermarking-controversy-who-owns-your-ai-edited-words-l6d)
+- [AI Observability Explained: What It Is and How It Works](https://dev.to/swapnoneel123/ai-observability-explained-what-it-is-and-how-it-works-487)
+- [Mongodb Partitioning](https://dev.to/vincent_couturier_91/mongodb-partitioning-o35)
 <!-- BLOG-POST-LIST:END -->
 
