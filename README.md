@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I audited six token usage trackers. They disagree with each other by 2x to 8x.](https://dev.to/lizhuojunx86/i-audited-six-token-usage-trackers-they-disagree-with-each-other-by-2x-to-8x-2b1h)
-- [I Ran 1,400 WHOIS Lookups. 18 Domains Were Compromised.](https://dev.to/onizuka/i-ran-1400-whois-lookups-18-domains-were-compromised-1cd6)
-- [Read-Only Kubernetes Access for AI Agents: Why &quot;Please Don&#39;t Delete Anything&quot; Isn&#39;t a Security Boundary](https://dev.to/granite-so/read-only-kubernetes-access-for-ai-agents-why-please-dont-delete-anything-isnt-a-security-2cem)
-- [Your Agent&#39;s Personality File Is Fighting Its Rules File](https://dev.to/ramdai_bista/your-agents-personality-file-is-fighting-its-rules-file-1f6i)
+- [I read the docs of 9 WordPress AI search plugins. Three run TF-IDF and four send you a second bill.](https://dev.to/gronrafal/i-read-the-docs-of-9-wordpress-ai-search-plugins-three-run-tf-idf-and-four-send-you-a-second-bill-5812)
+- [Why systemctl --user daemon-reload silently does nothing](https://dev.to/vainamoinen/why-systemctl-user-daemon-reload-silently-does-nothing-4ig9)
+- [There is always another way](https://dev.to/thedumebi/there-is-always-another-way-enl)
+- [Building FindCoffeeMate: A Small MVP That Taught Me Big Lessons](https://dev.to/binaykumardas/building-findcoffeemate-a-small-mvp-that-taught-me-big-lessons-509o)
 <!-- BLOG-POST-LIST:END -->
 
