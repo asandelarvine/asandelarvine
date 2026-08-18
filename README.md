@@ -79,9 +79,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek vs Qwen vs Kimi vs GLM: Which One Should You Use?](https://dev.to/rarenode/deepseek-vs-qwen-vs-kimi-vs-glm-which-one-should-you-use-mhd)
-- [The day our scraper fleet shipped nothing — and the afternoon it shipped three](https://dev.to/devil_scrapes/the-day-our-scraper-fleet-shipped-nothing-and-the-afternoon-it-shipped-three-4jjo)
-- [What on-device should mean for a Mac AI assistant](https://dev.to/sarthakagrawal927/what-on-device-should-mean-for-a-mac-ai-assistant-2bkc)
-- [AI 辅助 i18n：我是怎么把 3 小时翻译压缩到 30 分钟的](https://dev.to/ggg_party_98c7744276773d6/ai-fu-zhu-i18nwo-shi-zen-yao-ba-3-xiao-shi-fan-yi-ya-suo-dao-30-fen-zhong-de-4po3)
+- [New tabs are usually just… blank.
+
+So I built Cosmos, a new-tab workspace with something I haven’t seen done well:
+Developer + Designer widgets. 👨‍💻🎨
+
+Your apps, bookmarks &amp; useful info, right where you start working.
+
+cosmos-newtab.vercel.app](https://dev.to/uiuxsatyam/new-tabs-are-usually-just-blank-so-i-built-cosmos-a-new-tab-workspace-with-something-i-havent-398m)
+- [Multi-Armed Bandit Testing: How It Works and When to Use](https://dev.to/david_sert/multi-armed-bandit-testing-how-it-works-and-when-to-use-1ldd)
+- [When Rider Forgets How to Write Assembly Definitions: My Day-Long Fight With UnityAtoms](https://dev.to/mario_mignemi/the-rider-bug-thats-probably-already-in-your-project-you-just-havent-noticed-yet-2p0c)
+- [How to Choose a Minimum Detectable Effect &lpar;MDE&rpar;](https://dev.to/david_sert/how-to-choose-a-minimum-detectable-effect-mde-2k31)
 <!-- BLOG-POST-LIST:END -->
 
