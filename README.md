@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OSI Model Explained — Understanding How Network Communication Works](https://dev.to/tejas_shinkar/osi-model-explained-understanding-how-network-communication-works-kn5)
-- [How Bluesky Draws Its Logo on Screenshots and Why It Matters for Platform Identity](https://dev.to/trismegistus/how-bluesky-draws-its-logo-on-screenshots-and-why-it-matters-for-platform-identity-1kfo)
-- [Why I run speech-to-text locally instead of calling a cloud API](https://dev.to/hannune/why-i-run-speech-to-text-locally-instead-of-calling-a-cloud-api-59j7)
-- [repomapper v0.1.0: guía operativa AGENTS.md para cualquier repositorio](https://dev.to/magopredator/repomapper-v010-guia-operativa-agentsmd-para-cualquier-repositorio-d09)
+- [Why I Built xAgent](https://dev.to/coffeehc/why-i-built-xagent-2m3o)
+- [I Edited the Task Mid-Flight. The Agent Stopped Instead of Guessing.](https://dev.to/nomurasan/i-edited-the-task-mid-flight-the-agent-stopped-instead-of-guessing-387)
+- [🚀 30 React.js Interview Questions You Should Know Before Your Next Frontend Interview ⚛️](https://dev.to/rashmi_roy_447a69fec6d340/30-reactjs-interview-questions-you-should-know-before-your-next-frontend-interview-1l8l)
+- [Building OopsCalorie: When Your AI Thinks Dinuguan Is Champorado 😂](https://dev.to/chimkennuggyszdev/building-oopscalorie-when-your-ai-thinks-dinuguan-is-champorado-4961)
 <!-- BLOG-POST-LIST:END -->
 
