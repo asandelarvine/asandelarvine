@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Scalable IoT Architecture for Telecom Tower Monitoring](https://dev.to/perch_darbinyan_3954e7032/how-to-build-a-scalable-iot-architecture-for-telecom-tower-monitoring-cec)
-- [Go 1.26 iterators turned the simplest language into functional spaghetti](https://dev.to/adioof/go-126-iterators-turned-the-simplest-language-into-functional-spaghetti-5c4h)
-- [One repo, one day: 4 CI guards that were green and blind](https://dev.to/heinrichneb/one-repo-one-day-4-ci-guards-that-were-green-and-blind-oge)
-- [Refactoring the views system in YOUR gift!](https://dev.to/codemaster_121482/refactoring-the-views-system-in-your-gift-4kno)
+- [Polyhost: Why I Built a Reference Stack Instead of a Framework](https://dev.to/sukkergris/polyhost-why-i-built-a-reference-stack-instead-of-a-framework-42hd)
+- [A Practical Guide to Learning AI in 2026: From Zero to Building Real Projects](https://dev.to/hwonhwon_kitty_869/a-practical-guide-to-learning-ai-in-2026-from-zero-to-building-real-projects-1opc)
+- [GPT-5.6 Sol&#39;s &#39;Best Vision Model&#39; Claim Is Roboflow&#39;s, Not OpenAI&#39;s](https://dev.to/vin-patel/gpt-56-sols-best-vision-model-claim-is-roboflows-not-openais-2hoj)
+- [Understanding Main package and arguments passing in Go.](https://dev.to/open_dev/understanding-main-package-and-arguments-passing-in-go-1a94)
 <!-- BLOG-POST-LIST:END -->
 
