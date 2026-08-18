@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Certo na Teoria, Inútil na Prática: IA, Dívida de Conhecimento e o Sujeito Oculto da Liderança Técnica](https://dev.to/targanski/certo-na-teoria-inutil-na-pratica-ia-divida-de-conhecimento-e-o-sujeito-oculto-da-lideranca-dnk)
-- [Your AI Knows More About You Than You Think](https://dev.to/sairam_suravarapu/your-ai-knows-more-about-you-than-you-think-59l7)
-- [What the GitHub Outage Taught Us About Authentication Retries](https://dev.to/prasadmk/what-the-github-outage-taught-us-about-authentication-retries-1lbn)
-- [Should AI-Generated Code Be Labeled in Your Git History?](https://dev.to/nazar-boyko/should-ai-generated-code-be-labeled-in-your-git-history-4hff)
+- [How to Build an AI Agent That Asks Permission First &lpar;Nuxt + AI SDK 7&rpar;](https://dev.to/aws/how-to-build-an-ai-agent-that-asks-permission-first-nuxt-ai-sdk-7-n42)
+- [Transactions in NestJS and TypeORM without passing the EntityManager around](https://dev.to/josec_gc/transactions-in-nestjs-and-typeorm-without-passing-the-entitymanager-around-1k9h)
+- [Apache Data Lakehouse Weekly: August 10 to 18, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-august-10-to-18-2026-1nf5)
+- [ACNET Audio communication network](https://dev.to/xp_genie/acnet-audio-communication-network-11h7)
 <!-- BLOG-POST-LIST:END -->
 
