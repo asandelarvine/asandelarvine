@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an AI Agent That Asks Permission First &lpar;Nuxt + AI SDK 7&rpar;](https://dev.to/aws/how-to-build-an-ai-agent-that-asks-permission-first-nuxt-ai-sdk-7-n42)
-- [Transactions in NestJS and TypeORM without passing the EntityManager around](https://dev.to/josec_gc/transactions-in-nestjs-and-typeorm-without-passing-the-entitymanager-around-1k9h)
-- [Apache Data Lakehouse Weekly: August 10 to 18, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-august-10-to-18-2026-1nf5)
-- [ACNET Audio communication network](https://dev.to/xp_genie/acnet-audio-communication-network-11h7)
+- [[Showoff] Tired of DependencyProperty boilerplate? I built a Zero-Allocation Source Generator for WPF/MAUI with strict type safety.](https://dev.to/kassyi/showoff-tired-of-dependencyproperty-boilerplate-i-built-a-zero-allocation-source-generator-for-4ik6)
+- [117 Ghost Errors: Anatomy of a Flaky AI Agent](https://dev.to/jula-markova/117-ghost-errors-anatomy-of-a-flaky-ai-agent-9hl)
+- [stripe-python v15 Doesn&#39;t Subclass dict. That One Line Broke My Delivery Script.](https://dev.to/whoffagents/stripe-python-v15-doesnt-subclass-dict-that-one-line-broke-my-delivery-script-1m8m)
+- [2048 Board as a State Machine: Engineering the Tile Grid That Decides Your Next Move](https://dev.to/lizely/2048-board-as-a-state-machine-engineering-the-tile-grid-that-decides-your-next-move-581i)
 <!-- BLOG-POST-LIST:END -->
 
