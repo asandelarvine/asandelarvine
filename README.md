@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Moving from AI-Assisted Engineering to AI-Agentic Software Engineering](https://dev.to/sajithv91/moving-from-ai-assisted-engineering-to-ai-agentic-software-engineering-4i2p)
-- [Startup or Enterprise? How to Pick the Right AI API Stack](https://dev.to/rileykim/startup-or-enterprise-how-to-pick-the-right-ai-api-stack-3h8i)
-- [Automating Daily Bluesky Posts with a JSON‑Driven Content Pipeline](https://dev.to/zaerohell/automating-daily-bluesky-posts-with-a-json-driven-content-pipeline-18b2)
-- [Why Go&#39;s encoding/csv Burns 540MB on 5M Rows &lpar;and How I Fixed It&rpar;](https://dev.to/fikrimohammad/why-gos-encodingcsv-burns-540mb-on-5m-rows-and-how-i-fixed-it-4m63)
+- [The Cheapest AI APIs in 2026: A Bootcamp Grad&#39;s Deep Dive](https://dev.to/swift-logic-io218/the-cheapest-ai-apis-in-2026-a-bootcamp-grads-deep-dive-1ene)
+- [One Lookup Table Turned a Risky Server Migration Into a One-Line Change](https://dev.to/techwithhari/one-lookup-table-turned-a-risky-server-migration-into-a-one-line-change-2mf8)
+- [If you can&#39;t answer &quot;Where do you see yourself in 5 years?&quot; — you&#39;re not broken&quot;](https://dev.to/shinya_saita/if-you-cant-answer-where-do-you-see-yourself-in-5-years-youre-not-broken-57f3)
+- [Google Tests AI Mode Shortcuts in Desktop Search for Images, Files and Brainstorming](https://dev.to/alifar/google-tests-ai-mode-shortcuts-in-desktop-search-for-images-files-and-brainstorming-44jm)
 <!-- BLOG-POST-LIST:END -->
 
