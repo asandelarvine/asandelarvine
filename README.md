@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The CSS Grid vs Flexbox Showdown: A Jedi&#39;s Guide to Layout Mastery](https://dev.to/timevolt/the-css-grid-vs-flexbox-showdown-a-jedis-guide-to-layout-mastery-2eje)
-- [Hi everyone! 👋](https://dev.to/techywilbur/hi-everyone-2hd)
-- [Building a Human-in-the-Loop Autonomous Coding Agent with n8n and Telegram](https://dev.to/anggbchtr/building-a-human-in-the-loop-autonomous-coding-agent-with-n8n-and-telegram-46gp)
-- [Stop Rebuilding Backend Plumbing: Treat It as Code You Own](https://dev.to/codewithnuh/stop-rebuilding-backend-plumbing-treat-it-as-code-you-own-17bj)
+- [AI coding agent usage limits: what actually resets, and when](https://dev.to/sam_novak_574b07811e18495/ai-coding-agent-usage-limits-what-actually-resets-and-when-7h4)
+- [A Practical Workflow for Delegating Software Tasks to AI Agents](https://dev.to/paruyryan/a-practical-workflow-for-delegating-software-tasks-to-ai-agents-4epe)
+- [MCP, Subagents, and Hooks in Claude Code: The Guide I Wish I&#39;d Had](https://dev.to/alvarito1983/mcp-subagents-and-hooks-in-claude-code-the-guide-i-wish-id-had-4gg)
+- [Our Documentation Was Lying. The Model Believed It.](https://dev.to/srdjan_poppovic/our-documentation-was-lying-the-model-believed-it-6n)
 <!-- BLOG-POST-LIST:END -->
 
