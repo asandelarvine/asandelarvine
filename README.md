@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a local-first AI video dubbing pipeline with WhisperX + VoxCPM2](https://dev.to/kadirb4rut/i-built-a-local-first-ai-video-dubbing-pipeline-with-whisperx-voxcpm2-1bek)
-- [Barrel files are the clean-code habit quietly wrecking your bundle](https://dev.to/adioof/barrel-files-are-the-clean-code-habit-quietly-wrecking-your-bundle-1cn6)
-- [Anthropic Hits $65 Billion Revenue Run Rate, Surpassing OpenAI](https://dev.to/hunter_g_50e2ec233acd07b5/anthropic-hits-65-billion-revenue-run-rate-surpassing-openai-36pg)
-- [Google Was Indexing My New Site in Hours. Then I Scaled Too Fast.](https://dev.to/ruishan_yuian_63f1d154/google-was-indexing-my-new-site-in-hours-then-i-scaled-too-fast-4al3)
+- [Your firewall log knows a connection happened and nothing about what it carried](https://dev.to/tiltedlunar123/your-firewall-log-knows-a-connection-happened-and-nothing-about-what-it-carried-5dka)
+- [Building a Vertical Corpus Builder: Clean JSONL Datasets for LLM Fine-Tuning](https://dev.to/darksider4all_afa2428f63d0/building-a-vertical-corpus-builder-clean-jsonl-datasets-for-llm-fine-tuning-2p32)
+- [Building a Change &amp; Alert Engine That Webhooks Any Diff on Any URL](https://dev.to/darksider4all_afa2428f63d0/building-a-change-alert-engine-that-webhooks-any-diff-on-any-url-44ip)
+- [React Portals: How They Work and When to Use Them for Modals and Tooltips](https://dev.to/mspk97/react-portals-how-they-work-and-when-to-use-them-for-modals-and-tooltips-32o4)
 <!-- BLOG-POST-LIST:END -->
 
