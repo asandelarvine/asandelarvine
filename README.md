@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building image &amp; video conversion that never leaves the browser](https://dev.to/ken_lee_fc82a8ce3a147aea6/building-image-video-conversion-that-never-leaves-the-browser-iga)
-- [Dog5pk Presents: dog5pk-production-protocol](https://dev.to/dog5pk/dog5pk-presents-dog5pk-production-protocol-4426)
-- [&quot;Through the Door I Never Saw: A Journey Into Cybersecurity&quot;](https://dev.to/b_castillo_5d07eeba5e756/through-the-door-i-never-saw-a-journey-into-cybersecurity-1eo3)
-- [I built a WordPress site with AI. What should I check before launch?](https://dev.to/nokazehayato/i-built-a-wordpress-site-with-ai-what-should-i-check-before-launch-4dhm)
+- [3 problems I hit connecting an AI agent to financial data &lpar;and how I fixed them&rpar;](https://dev.to/d_edu_eebba6de1155fe/3-problems-i-hit-connecting-an-ai-agent-to-financial-data-and-how-i-fixed-them-ed9)
+- [Notion AI Agents in 2026: What They Can Replace &lpar;and Can&#39;t&rpar;](https://dev.to/abhijeet_singh_4577af3ef9/notion-ai-agents-in-2026-what-they-can-replace-and-cant-3cmb)
+- [Keyword Research Across Countries: Volume, CPC &amp; SEO Difficulty](https://dev.to/carllowman/keyword-research-across-countries-volume-cpc-seo-difficulty-1i78)
+- [Grounding an LLM in real tax data with a public MCP server](https://dev.to/d_edu_eebba6de1155fe/grounding-an-llm-in-real-tax-data-with-a-public-mcp-server-5h58)
 <!-- BLOG-POST-LIST:END -->
 
