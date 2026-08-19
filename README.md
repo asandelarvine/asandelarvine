@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Design AI Workflows With Review Points, Not Blind Automation](https://dev.to/nwhite_systems/i-design-ai-workflows-with-review-points-not-blind-automation-5fik)
-- [Hybrid Delivery Isn&#39;t a Compromise. It&#39;s the Only Honest Answer Most Enterprises Have Left.](https://dev.to/javiercastromdq/hybrid-delivery-isnt-a-compromise-its-the-only-honest-answer-most-enterprises-have-left-1m7j)
-- [How to find a device by its MAC address](https://dev.to/deviceshelf/how-to-find-a-device-by-its-mac-address-34d0)
-- [AI Engineering for Flutter Developers — Building Reliable AI Features in Flutter](https://dev.to/techwithsam/ai-engineering-for-flutter-developers-building-reliable-ai-features-in-flutter-54d8)
+- [60-Second TWAP Settlement on Polymarket: Detailed Impact Analysis](https://dev.to/abrownfox001/60-second-twap-settlement-on-polymarket-detailed-impact-analysis-38nk)
+- [What I Found While Exploring AI-Powered Test Automation](https://dev.to/sri_ramya_1205/what-i-found-while-exploring-ai-powered-test-automation-3hkk)
+- [Appwrite MCP vs Vercel MCP: I benchmarked both](https://dev.to/chiragagg5k/appwrite-mcp-vs-vercel-mcp-i-benchmarked-both-3k3f)
+- [Your contract templates should live in your repo, not in a WYSIWYG editor](https://dev.to/wes_e_fa9b9483d1243c16761/your-contract-templates-should-live-in-your-repo-not-in-a-wysiwyg-editor-10mh)
 <!-- BLOG-POST-LIST:END -->
 
