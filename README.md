@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [3 problems I hit connecting an AI agent to financial data &lpar;and how I fixed them&rpar;](https://dev.to/d_edu_eebba6de1155fe/3-problems-i-hit-connecting-an-ai-agent-to-financial-data-and-how-i-fixed-them-ed9)
-- [Notion AI Agents in 2026: What They Can Replace &lpar;and Can&#39;t&rpar;](https://dev.to/abhijeet_singh_4577af3ef9/notion-ai-agents-in-2026-what-they-can-replace-and-cant-3cmb)
-- [Keyword Research Across Countries: Volume, CPC &amp; SEO Difficulty](https://dev.to/carllowman/keyword-research-across-countries-volume-cpc-seo-difficulty-1i78)
-- [Grounding an LLM in real tax data with a public MCP server](https://dev.to/d_edu_eebba6de1155fe/grounding-an-llm-in-real-tax-data-with-a-public-mcp-server-5h58)
+- [I Built a Self-Healing AI Layer for Odoo — Here&#39;s What Actually Broke](https://dev.to/nida_shafiq_f241afc467f5a/i-built-a-self-healing-ai-layer-for-odoo-heres-what-actually-broke-3m03)
+- [Docker for Beginners: What Actually Happens When You Dockerize an Application?](https://dev.to/malleswari_b/docker-for-beginners-what-actually-happens-when-you-dockerize-an-application-7mh)
+- [Building Your Second Me: A Practical Framework for Encoding Yourself into an AI Agent](https://dev.to/sanyaduan/building-your-second-me-a-practical-framework-for-encoding-yourself-into-an-ai-agent-59kl)
+- [We Built 154 City Landing Pages by Hand. Here Is What Actually Mattered.](https://dev.to/gyeoh/we-built-154-city-landing-pages-by-hand-here-is-what-actually-mattered-5d73)
 <!-- BLOG-POST-LIST:END -->
 
