@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Screenpipe YC S26: Record Workflows to Power AI Agents](https://dev.to/felipejac/screenpipe-yc-s26-record-workflows-to-power-ai-agents-1o5)
-- [Mole: A Deep Research Agent for Your Terminal](https://dev.to/felipejac/mole-a-deep-research-agent-for-your-terminal-45jo)
-- [Mastering Unattended Remote Desktop on Wayland: A Modern DevOps Guide](https://dev.to/lightningdev123/mastering-unattended-remote-desktop-on-wayland-a-modern-devops-guide-22p7)
-- [Checking your A/B test every morning makes it lie to you](https://dev.to/msakai/checking-your-ab-test-every-morning-makes-it-lie-to-you-57nb)
+- [Hyperia 0.17.5 is Released](https://dev.to/kordless/hyperia-0175-is-released-4kk9)
+- [QZ Tray with React: Print Directly from the Browser](https://dev.to/juliusz_kowalewski_ff40e0/qz-tray-with-react-print-directly-from-the-browser-1h39)
+- [Your idempotency test probably cannot fail](https://dev.to/igor_potapenko/your-idempotency-test-probably-cannot-fail-39g0)
+- [Truncated JSON from a streaming model: 21 parsers, 25 truncated cases, 12 score 0/25](https://dev.to/toolkitlabs/truncated-json-from-a-streaming-model-21-parsers-25-truncated-cases-12-score-025-4hfm)
 <!-- BLOG-POST-LIST:END -->
 
