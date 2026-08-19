@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI coding agent usage limits: what actually resets, and when](https://dev.to/sam_novak_574b07811e18495/ai-coding-agent-usage-limits-what-actually-resets-and-when-7h4)
-- [A Practical Workflow for Delegating Software Tasks to AI Agents](https://dev.to/paruyryan/a-practical-workflow-for-delegating-software-tasks-to-ai-agents-4epe)
-- [MCP, Subagents, and Hooks in Claude Code: The Guide I Wish I&#39;d Had](https://dev.to/alvarito1983/mcp-subagents-and-hooks-in-claude-code-the-guide-i-wish-id-had-4gg)
-- [Our Documentation Was Lying. The Model Believed It.](https://dev.to/srdjan_poppovic/our-documentation-was-lying-the-model-believed-it-6n)
+- [European Commission’s 2022 Platform Foresight Study Put Design and Policy in Focus](https://dev.to/alifar/european-commissions-2022-platform-foresight-study-put-design-and-policy-in-focus-cl1)
+- [An AI-Powered Platform for Smarter Investments: Stock Trading Platform](https://dev.to/ishika_nadar_54/an-ai-powered-platform-for-smarter-investments-stock-trading-platform-58j7)
+- [From MySQL to MongoDB in Spring Boot — Everything That Changed in My Code](https://dev.to/sanjayfreak/from-mysql-to-mongodb-in-spring-boot-everything-that-changed-in-my-code-2a09)
+- [Designing Reliable APIs for Production Applications: Lessons From Building Real-World Digital Products](https://dev.to/iyamokuma/designing-reliable-apis-for-production-applications-lessons-from-building-real-world-digital-1dl)
 <!-- BLOG-POST-LIST:END -->
 
