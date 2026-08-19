@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [European Commission’s 2022 Platform Foresight Study Put Design and Policy in Focus](https://dev.to/alifar/european-commissions-2022-platform-foresight-study-put-design-and-policy-in-focus-cl1)
-- [An AI-Powered Platform for Smarter Investments: Stock Trading Platform](https://dev.to/ishika_nadar_54/an-ai-powered-platform-for-smarter-investments-stock-trading-platform-58j7)
-- [From MySQL to MongoDB in Spring Boot — Everything That Changed in My Code](https://dev.to/sanjayfreak/from-mysql-to-mongodb-in-spring-boot-everything-that-changed-in-my-code-2a09)
-- [Designing Reliable APIs for Production Applications: Lessons From Building Real-World Digital Products](https://dev.to/iyamokuma/designing-reliable-apis-for-production-applications-lessons-from-building-real-world-digital-1dl)
+- [I built a local-first AI video dubbing pipeline with WhisperX + VoxCPM2](https://dev.to/kadirb4rut/i-built-a-local-first-ai-video-dubbing-pipeline-with-whisperx-voxcpm2-1bek)
+- [Barrel files are the clean-code habit quietly wrecking your bundle](https://dev.to/adioof/barrel-files-are-the-clean-code-habit-quietly-wrecking-your-bundle-1cn6)
+- [Anthropic Hits $65 Billion Revenue Run Rate, Surpassing OpenAI](https://dev.to/hunter_g_50e2ec233acd07b5/anthropic-hits-65-billion-revenue-run-rate-surpassing-openai-36pg)
+- [Google Was Indexing My New Site in Hours. Then I Scaled Too Fast.](https://dev.to/ruishan_yuian_63f1d154/google-was-indexing-my-new-site-in-hours-then-i-scaled-too-fast-4al3)
 <!-- BLOG-POST-LIST:END -->
 
