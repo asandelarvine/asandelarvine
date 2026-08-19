@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your firewall log knows a connection happened and nothing about what it carried](https://dev.to/tiltedlunar123/your-firewall-log-knows-a-connection-happened-and-nothing-about-what-it-carried-5dka)
-- [Building a Vertical Corpus Builder: Clean JSONL Datasets for LLM Fine-Tuning](https://dev.to/darksider4all_afa2428f63d0/building-a-vertical-corpus-builder-clean-jsonl-datasets-for-llm-fine-tuning-2p32)
-- [Building a Change &amp; Alert Engine That Webhooks Any Diff on Any URL](https://dev.to/darksider4all_afa2428f63d0/building-a-change-alert-engine-that-webhooks-any-diff-on-any-url-44ip)
-- [React Portals: How They Work and When to Use Them for Modals and Tooltips](https://dev.to/mspk97/react-portals-how-they-work-and-when-to-use-them-for-modals-and-tooltips-32o4)
+- [Namecheap closes every auction at 11:00 AM ET. Last-second bidding is a myth.](https://dev.to/markfulton/namecheap-closes-every-auction-at-1100-am-et-last-second-bidding-is-a-myth-3kbl)
+- [GrapheneOS 2027: Premium Phones Get Real‑World Privacy](https://dev.to/leojulieta/grapheneos-2027-premium-phones-get-real-world-privacy-2cfb)
+- [Passing GSoC Midterms](https://dev.to/satwiksps/passing-gsoc-midterms-24kf)
+- [DNS Troubleshooting with dig: The Commands DevOps Engineers Actually Need](https://dev.to/jjoyneriv/dns-troubleshooting-with-dig-the-commands-devops-engineers-actually-need-19b0)
 <!-- BLOG-POST-LIST:END -->
 
