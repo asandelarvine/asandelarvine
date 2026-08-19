@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Self-Healing AI Layer for Odoo — Here&#39;s What Actually Broke](https://dev.to/nida_shafiq_f241afc467f5a/i-built-a-self-healing-ai-layer-for-odoo-heres-what-actually-broke-3m03)
-- [Docker for Beginners: What Actually Happens When You Dockerize an Application?](https://dev.to/malleswari_b/docker-for-beginners-what-actually-happens-when-you-dockerize-an-application-7mh)
-- [Building Your Second Me: A Practical Framework for Encoding Yourself into an AI Agent](https://dev.to/sanyaduan/building-your-second-me-a-practical-framework-for-encoding-yourself-into-an-ai-agent-59kl)
-- [We Built 154 City Landing Pages by Hand. Here Is What Actually Mattered.](https://dev.to/gyeoh/we-built-154-city-landing-pages-by-hand-here-is-what-actually-mattered-5d73)
+- [Python Developer Interview Preparation: What to Practice Beyond Coding](https://dev.to/nishu_singh_0b390dd0e82a6/python-developer-interview-preparation-what-to-practice-beyond-coding-4dni)
+- [Custom Software Development: What I Wish I Knew Before Starting](https://dev.to/wpwebinfotech/custom-software-development-what-i-wish-i-knew-before-starting-3d3j)
+- [How to upload a file over JSON-RPC, when JSON has no type for a file](https://dev.to/otezvikentiy/how-to-upload-a-file-over-json-rpc-when-json-has-no-type-for-a-file-5g76)
+- [How I built an Open Budget Uzbekistan Telegram bot with AI captcha solving](https://dev.to/jahongir_tajiboyev_b806d0/how-i-built-an-open-budget-uzbekistan-telegram-bot-with-ai-captcha-solving-4l3m)
 <!-- BLOG-POST-LIST:END -->
 
