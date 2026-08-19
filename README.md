@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [60-Second TWAP Settlement on Polymarket: Detailed Impact Analysis](https://dev.to/abrownfox001/60-second-twap-settlement-on-polymarket-detailed-impact-analysis-38nk)
-- [What I Found While Exploring AI-Powered Test Automation](https://dev.to/sri_ramya_1205/what-i-found-while-exploring-ai-powered-test-automation-3hkk)
-- [Appwrite MCP vs Vercel MCP: I benchmarked both](https://dev.to/chiragagg5k/appwrite-mcp-vs-vercel-mcp-i-benchmarked-both-3k3f)
-- [Your contract templates should live in your repo, not in a WYSIWYG editor](https://dev.to/wes_e_fa9b9483d1243c16761/your-contract-templates-should-live-in-your-repo-not-in-a-wysiwyg-editor-10mh)
+- [Idle load balancers: the ~$16/month each you forgot to delete&quot;](https://dev.to/jorelfermin/idle-load-balancers-the-16month-each-you-forgot-to-delete-548f)
+- [You Benchmarked the Model. Now Benchmark the Server.](https://dev.to/gitlab_3188/you-benchmarked-the-model-now-benchmark-the-server-4df5)
+- [Opinion: AI Server Changes Need a Fault Drill, Not Just a Rollback Plan](https://dev.to/github_7727/opinion-ai-server-changes-need-a-fault-drill-not-just-a-rollback-plan-48d1)
+- [Case Study: A Free Model Wrote a C++ Tree Hasher. The Reference Oracle Found Three Bugs.](https://dev.to/datacpp_8185/case-study-a-free-model-wrote-a-c-tree-hasher-the-reference-oracle-found-three-bugs-dm1)
 <!-- BLOG-POST-LIST:END -->
 
