@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hyperia 0.17.5 is Released](https://dev.to/kordless/hyperia-0175-is-released-4kk9)
-- [QZ Tray with React: Print Directly from the Browser](https://dev.to/juliusz_kowalewski_ff40e0/qz-tray-with-react-print-directly-from-the-browser-1h39)
-- [Your idempotency test probably cannot fail](https://dev.to/igor_potapenko/your-idempotency-test-probably-cannot-fail-39g0)
-- [Truncated JSON from a streaming model: 21 parsers, 25 truncated cases, 12 score 0/25](https://dev.to/toolkitlabs/truncated-json-from-a-streaming-model-21-parsers-25-truncated-cases-12-score-025-4hfm)
+- [Sandboxed Code Evaluation for AI-Generated Outputs — How I Built SafeCode Arena](https://dev.to/flipslidersand/sandboxed-code-evaluation-for-ai-generated-outputs-how-i-built-safecode-arena-1468)
+- [What Happens When Your AI Feature Fails?](https://dev.to/lukaswalter/what-happens-when-your-ai-feature-fails-4d5e)
+- [Scanning 50,000 WooCommerce Products Without Hitting a PHP Timeout](https://dev.to/arcsviel/scanning-50000-woocommerce-products-without-hitting-a-php-timeout-5fl)
+- [I Deleted kube-proxy with eBPF and My Monitoring Went Completely Dark for 6 Hours](https://dev.to/le_beltagy/i-replaced-kube-proxy-with-ebpf-in-production-and-why-my-monitoring-went-blind-for-6-hours-4ll8)
 <!-- BLOG-POST-LIST:END -->
 
