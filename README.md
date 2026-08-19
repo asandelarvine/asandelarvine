@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An Agent&#39;s Work Isn&#39;t &quot;Done Later&quot; Until You Can Find It Later](https://dev.to/nomurasan/an-agents-work-isnt-done-later-until-you-can-find-it-later-1929)
-- [Building GNOME Apps with Rust, Part 6: Fetching Feeds](https://dev.to/fromthearchitect/building-gnome-apps-with-rust-part-6-fetching-feeds-bjf)
-- [What Google’s Ongoing AI Overviews Testing Means for Recipe Publishers and SEO](https://dev.to/alifar/what-googles-ongoing-ai-overviews-testing-means-for-recipe-publishers-and-seo-30kl)
-- [Taba est devenue une ligne SQL, et ça explique mieux la POO que n&#39;importe quel cours](https://dev.to/souleyman_thiao_5e9e61267/taba-est-devenue-une-ligne-sql-et-ca-explique-mieux-la-poo-que-nimporte-quel-cours-5gg3)
+- [The cp932 crash in the build gate that only happened on Windows — static detection, behavioral testing, and a negative check](https://dev.to/susumun/the-cp932-crash-in-the-build-gate-that-only-happened-on-windows-static-detection-behavioral-mpd)
+- [We scanned a bunch of vibe-coded repos. Here&#39;s what showed up every time.](https://dev.to/gojongo/we-scanned-a-bunch-of-vibe-coded-repos-heres-what-showed-up-every-time-5a5m)
+- [Designing High-Availability Architecture for Google Cloud: Real-World GCP Architect Insights](https://dev.to/packetsnifferben/designing-high-availability-architecture-for-google-cloud-real-world-gcp-architect-insights-4ekd)
+- [Engineering Build Notes #2: When an Idle Kubernetes Cluster Still Couldn&#39;t Consolidate](https://dev.to/damola12345/engineering-build-notes-2-when-an-idle-kubernetes-cluster-still-couldnt-consolidate-1dfj)
 <!-- BLOG-POST-LIST:END -->
 
