@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Portable Agent Skills for OpenCode and Claude Code](https://dev.to/israelsaba/5-portable-agent-skills-for-opencode-and-claude-code-2a30)
-- [Replaying real-time telemetry through a live rendering pipeline, without touching the components](https://dev.to/jaya_chapparam/replaying-real-time-telemetry-through-a-live-rendering-pipeline-without-touching-the-components-4g33)
-- [OpenAI Expands Zero Data Retention Options for Frontier Model Enterprise Workloads](https://dev.to/alifar/openai-expands-zero-data-retention-options-for-frontier-model-enterprise-workloads-bjb)
-- [Imagine Having a Heroku Mobile App](https://dev.to/madalitsonyemba/imagine-having-a-heroku-mobile-appa-27o8)
+- [Google Expands Gemini for Education With Study Notebooks and Adaptive Learning Tools](https://dev.to/alifar/google-expands-gemini-for-education-with-study-notebooks-and-adaptive-learning-tools-5g1b)
+- [Picking the Right Way to Turn JPG Files Into PNG: An Engineer&#39;s Decision Guide](https://dev.to/lizely/picking-the-right-way-to-turn-jpg-files-into-png-an-engineers-decision-guide-3pj8)
+- [The Best Test Automation Tool Is Usually the One That Matches Your Mess](https://dev.to/randomsquirrel802/the-best-test-automation-tool-is-usually-the-one-that-matches-your-mess-54hb)
+- [Google Gemini Adds In-Chat 3D Visualizations, With Enterprise Access Still Limited](https://dev.to/alifar/google-gemini-adds-in-chat-3d-visualizations-with-enterprise-access-still-limited-26a1)
 <!-- BLOG-POST-LIST:END -->
 
