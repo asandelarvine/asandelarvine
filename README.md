@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The cp932 crash in the build gate that only happened on Windows — static detection, behavioral testing, and a negative check](https://dev.to/susumun/the-cp932-crash-in-the-build-gate-that-only-happened-on-windows-static-detection-behavioral-mpd)
-- [We scanned a bunch of vibe-coded repos. Here&#39;s what showed up every time.](https://dev.to/gojongo/we-scanned-a-bunch-of-vibe-coded-repos-heres-what-showed-up-every-time-5a5m)
-- [Designing High-Availability Architecture for Google Cloud: Real-World GCP Architect Insights](https://dev.to/packetsnifferben/designing-high-availability-architecture-for-google-cloud-real-world-gcp-architect-insights-4ekd)
-- [Engineering Build Notes #2: When an Idle Kubernetes Cluster Still Couldn&#39;t Consolidate](https://dev.to/damola12345/engineering-build-notes-2-when-an-idle-kubernetes-cluster-still-couldnt-consolidate-1dfj)
+- [Building image &amp; video conversion that never leaves the browser](https://dev.to/ken_lee_fc82a8ce3a147aea6/building-image-video-conversion-that-never-leaves-the-browser-iga)
+- [Dog5pk Presents: dog5pk-production-protocol](https://dev.to/dog5pk/dog5pk-presents-dog5pk-production-protocol-4426)
+- [&quot;Through the Door I Never Saw: A Journey Into Cybersecurity&quot;](https://dev.to/b_castillo_5d07eeba5e756/through-the-door-i-never-saw-a-journey-into-cybersecurity-1eo3)
+- [I built a WordPress site with AI. What should I check before launch?](https://dev.to/nokazehayato/i-built-a-wordpress-site-with-ai-what-should-i-check-before-launch-4dhm)
 <!-- BLOG-POST-LIST:END -->
 
