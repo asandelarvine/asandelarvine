@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Developer Interview Preparation: What to Practice Beyond Coding](https://dev.to/nishu_singh_0b390dd0e82a6/python-developer-interview-preparation-what-to-practice-beyond-coding-4dni)
-- [Custom Software Development: What I Wish I Knew Before Starting](https://dev.to/wpwebinfotech/custom-software-development-what-i-wish-i-knew-before-starting-3d3j)
-- [How to upload a file over JSON-RPC, when JSON has no type for a file](https://dev.to/otezvikentiy/how-to-upload-a-file-over-json-rpc-when-json-has-no-type-for-a-file-5g76)
-- [How I built an Open Budget Uzbekistan Telegram bot with AI captcha solving](https://dev.to/jahongir_tajiboyev_b806d0/how-i-built-an-open-budget-uzbekistan-telegram-bot-with-ai-captcha-solving-4l3m)
+- [The CSS Grid vs Flexbox Showdown: A Jedi&#39;s Guide to Layout Mastery](https://dev.to/timevolt/the-css-grid-vs-flexbox-showdown-a-jedis-guide-to-layout-mastery-2eje)
+- [Hi everyone! 👋](https://dev.to/techywilbur/hi-everyone-2hd)
+- [Building a Human-in-the-Loop Autonomous Coding Agent with n8n and Telegram](https://dev.to/anggbchtr/building-a-human-in-the-loop-autonomous-coding-agent-with-n8n-and-telegram-46gp)
+- [Stop Rebuilding Backend Plumbing: Treat It as Code You Own](https://dev.to/codewithnuh/stop-rebuilding-backend-plumbing-treat-it-as-code-you-own-17bj)
 <!-- BLOG-POST-LIST:END -->
 
