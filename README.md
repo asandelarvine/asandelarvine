@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Namecheap closes every auction at 11:00 AM ET. Last-second bidding is a myth.](https://dev.to/markfulton/namecheap-closes-every-auction-at-1100-am-et-last-second-bidding-is-a-myth-3kbl)
-- [GrapheneOS 2027: Premium Phones Get Real‑World Privacy](https://dev.to/leojulieta/grapheneos-2027-premium-phones-get-real-world-privacy-2cfb)
-- [Passing GSoC Midterms](https://dev.to/satwiksps/passing-gsoc-midterms-24kf)
-- [DNS Troubleshooting with dig: The Commands DevOps Engineers Actually Need](https://dev.to/jjoyneriv/dns-troubleshooting-with-dig-the-commands-devops-engineers-actually-need-19b0)
+- [Screenpipe YC S26: Record Workflows to Power AI Agents](https://dev.to/felipejac/screenpipe-yc-s26-record-workflows-to-power-ai-agents-1o5)
+- [Mole: A Deep Research Agent for Your Terminal](https://dev.to/felipejac/mole-a-deep-research-agent-for-your-terminal-45jo)
+- [Mastering Unattended Remote Desktop on Wayland: A Modern DevOps Guide](https://dev.to/lightningdev123/mastering-unattended-remote-desktop-on-wayland-a-modern-devops-guide-22p7)
+- [Checking your A/B test every morning makes it lie to you](https://dev.to/msakai/checking-your-ab-test-every-morning-makes-it-lie-to-you-57nb)
 <!-- BLOG-POST-LIST:END -->
 
