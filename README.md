@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Audit Became a Build Step](https://dev.to/henry_dan_81513dd35a2f540/the-audit-became-a-build-step-45je)
-- [Five agent engineering problems, with the numbers behind them](https://dev.to/akashdas/five-agent-engineering-problems-with-the-numbers-behind-them-3ol7)
-- [Day 29: A Pull Request Needs Two People, and Peering Needs Two Routes](https://dev.to/ndcodes/a-pull-request-needs-two-people-and-peering-needs-two-routes-5emj)
-- [How to set up a lightweight SMTP relay for your apps in seconds](https://dev.to/wizard_0ac4371d77f3efd763/how-to-set-up-a-lightweight-smtp-relay-for-your-apps-in-seconds-32l1)
+- [5 Portable Agent Skills for OpenCode and Claude Code](https://dev.to/israelsaba/5-portable-agent-skills-for-opencode-and-claude-code-2a30)
+- [Replaying real-time telemetry through a live rendering pipeline, without touching the components](https://dev.to/jaya_chapparam/replaying-real-time-telemetry-through-a-live-rendering-pipeline-without-touching-the-components-4g33)
+- [OpenAI Expands Zero Data Retention Options for Frontier Model Enterprise Workloads](https://dev.to/alifar/openai-expands-zero-data-retention-options-for-frontier-model-enterprise-workloads-bjb)
+- [Imagine Having a Heroku Mobile App](https://dev.to/madalitsonyemba/imagine-having-a-heroku-mobile-appa-27o8)
 <!-- BLOG-POST-LIST:END -->
 
