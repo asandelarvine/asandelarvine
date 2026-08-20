@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is a Vulnerability, Really? Source, Sink, and Taint](https://dev.to/alimafana/what-is-a-vulnerability-really-source-sink-and-taint-c75)
-- [The error pointed at the GPU. The culprit was the HBA. — a Proxmox passthrough recovery](https://dev.to/jjozzietech/the-error-pointed-at-the-gpu-the-culprit-was-the-hba-a-proxmox-passthrough-recovery-3c33)
-- [Versioning PNG Snapshots Into a PDF Diff Trail You Can Actually Defend](https://dev.to/lizely/versioning-png-snapshots-into-a-pdf-diff-trail-you-can-actually-defend-h52)
-- [OpenAI Uses NVIDIA GB200 NVL72 for Model Training as Rubin Deployments Expand](https://dev.to/alifar/openai-uses-nvidia-gb200-nvl72-for-model-training-as-rubin-deployments-expand-no6)
+- [Why I Built a Zero-Knowledge, Client-Side Encrypted Burning Note App Over the Weekend](https://dev.to/specialagentbreadwinner/why-i-built-a-zero-knowledge-client-side-encrypted-burning-note-app-over-the-weekend-bal)
+- [Buying a phone number is a distributed transaction](https://dev.to/ivanindiv/buying-a-phone-number-is-a-distributed-transaction-2i0h)
+- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/first_name_alice/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-1cp0)
+- [Clean code isn&#39;t what I thought it was](https://dev.to/alekswritescode/clean-code-isnt-what-i-thought-it-was-2akk)
 <!-- BLOG-POST-LIST:END -->
 
