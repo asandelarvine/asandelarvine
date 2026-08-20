@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Money as a data type](https://dev.to/mashhadi/money-as-a-data-type-14pk)
-- [Meet AntigravityCI: The Autonomous AI PR Assistant Powered by Google Gemini 🤖✨](https://dev.to/eclipsethatscool/meet-antigravityci-the-autonomous-ai-pr-assistant-powered-by-google-gemini-4nol)
-- [OAuth2 and OpenID Connect: A Practical Implementation Guide &lpar;2026-08-20 14:33&rpar;](https://dev.to/said_olano/oauth2-and-openid-connect-a-practical-implementation-guide-2026-08-20-1433-3c11)
-- [PostgreSQL Connection String: Supabase, Neon, Railway](https://dev.to/not_varunkv/postgresql-connection-string-explained-supabase-neon-railway-2h7o)
+- [The Midnight wallet SDK changed its npm scope. Here is what to update.](https://dev.to/chaps_grid/the-midnight-wallet-sdk-changed-its-npm-scope-here-is-what-to-update-5gem)
+- [How to Create Your Own Claude Code Skill With SKILL.md](https://dev.to/arthur_luca/how-to-create-your-own-claude-code-skill-with-skillmd-3555)
+- [Puppet Core 9.0 and 8.21 Released: Ruby 4.0, OpenSSL 3.5, Platform Changes, and Security Hardening](https://dev.to/puppet/puppet-core-90-and-821-released-ruby-40-openssl-35-platform-changes-and-security-hardening-4294)
+- [AI Reviewing AI Is Not Review](https://dev.to/tmfrisinger/ai-reviewing-ai-is-not-review-33ik)
 <!-- BLOG-POST-LIST:END -->
 
