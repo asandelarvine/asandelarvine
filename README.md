@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Common Subnetting Mistakes That Break Real Networks](https://dev.to/subnetica/5-common-subnetting-mistakes-that-break-real-networks-4an7)
-- [How I Built a Color Picker That Actually Converts Colors Correctly &lpar;HEX/RGB/HSL&rpar;](https://dev.to/ggwork/how-i-built-a-color-picker-that-actually-converts-colors-correctly-hexrgbhsl-45ga)
-- [Beyond Writing Code: The Core Mindset of a Modern Software Engineer](https://dev.to/md_ujjalhossain/beyond-writing-code-the-core-mindset-of-a-modern-software-engineer-5hno)
-- [Local vs remote MCP servers: which one you actually want](https://dev.to/sam_novak_574b07811e18495/local-vs-remote-mcp-servers-which-one-you-actually-want-3cic)
+- [A screenshot is not enough for a screen-aware Mac assistant](https://dev.to/sarthakagrawal927/a-screenshot-is-not-enough-for-a-screen-aware-mac-assistant-38bm)
+- [The &quot;Press-It-Twice&quot; Problem: Why Idempotency is Your API&#39;s Best Friend](https://dev.to/saurav_tb_pandey/the-press-it-twice-problem-why-idempotency-is-your-apis-best-friend-3j3g)
+- [Your GAN Beauty Effect Needs a Device Budget, Not a Universal “On” Switch](https://dev.to/susiewang/your-gan-beauty-effect-needs-a-device-budget-not-a-universal-on-switch-2njp)
+- [☁️ Cloudera launches a hybrid platform aimed at production agentic AI](https://dev.to/ashutosh_maurya/cloudera-launches-a-hybrid-platform-aimed-at-production-agentic-ai-23b8)
 <!-- BLOG-POST-LIST:END -->
 
