@@ -79,9 +79,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A screenshot is not enough for a screen-aware Mac assistant](https://dev.to/sarthakagrawal927/a-screenshot-is-not-enough-for-a-screen-aware-mac-assistant-38bm)
-- [The &quot;Press-It-Twice&quot; Problem: Why Idempotency is Your API&#39;s Best Friend](https://dev.to/saurav_tb_pandey/the-press-it-twice-problem-why-idempotency-is-your-apis-best-friend-3j3g)
-- [Your GAN Beauty Effect Needs a Device Budget, Not a Universal “On” Switch](https://dev.to/susiewang/your-gan-beauty-effect-needs-a-device-budget-not-a-universal-on-switch-2njp)
-- [☁️ Cloudera launches a hybrid platform aimed at production agentic AI](https://dev.to/ashutosh_maurya/cloudera-launches-a-hybrid-platform-aimed-at-production-agentic-ai-23b8)
+- [Device Tree Ownership Is Moving Up Into Firmware](https://dev.to/raghu_bharadwaj_404e60eb0c/firmware-provided-device-tree-is-a-product-decision-not-a-boot-detail-2jlh)
+- [Running Multiple A/B Tests at Once: When Overlap Is Safe](https://dev.to/david_sert/running-multiple-ab-tests-at-once-when-overlap-is-safe-1dbf)
+- [We Can&#39;t See What You Paste — And That Was a Design Constraint, Not a Slogan](https://dev.to/formatstack_2688dca3303f2/we-cant-see-what-you-paste-and-that-was-a-design-constraint-not-a-slogan-i8j)
+- [startup founder in 2026:
+
+“we&#39;re a lean team of 4”
+
+also the team:
+
+37 agents
+11 cron jobs
+4 MCP servers
+2 databases
+one exhausted human](https://dev.to/ishm6m/startup-founder-in-2026-were-a-lean-team-of-4-also-the-team-37-agents-11-cron-jobs-1paf)
 <!-- BLOG-POST-LIST:END -->
 
