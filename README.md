@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Desenvolvimento de um Conversor de Imagens para ASCII Art em Pyth](https://dev.to/fellof/-desenvolvimento-de-um-conversor-de-imagens-para-ascii-art-em-pyth-9ol)
-- [Making a screenshot PDF searchable — no OCR, because we rendered the page](https://dev.to/petr_savenok/making-a-screenshot-pdf-searchable-no-ocr-because-we-rendered-the-page-2poi)
-- [I built a Markdown editor under 10MB because Obsidian felt too heavy](https://dev.to/martzcode/i-built-a-markdown-editor-under-10mb-because-obsidian-felt-too-heavy-4b90)
-- [Pi4J LED Playground: A Community Resource for Learning Hardware Programming with Java](https://dev.to/igoriot/pi4j-led-playground-a-community-resource-for-learning-hardware-programming-with-java-2ip3)
+- [Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework](https://dev.to/gde/three-clouds-one-brief-what-actually-differs-between-adk-strands-and-agent-framework-2kgc)
+- [Computers Powered By Living Human Brain Cells?](https://dev.to/daniel_possiblekwabi_b57/computers-powered-by-living-human-brain-cells-5e2i)
+- [The Browser Is Filling With Synthetic Fog](https://dev.to/maroneta/the-browser-is-filling-with-synthetic-fog-3bbd)
+- [Radians Are Correct; Turns Are Kind](https://dev.to/maroneta/radians-are-correct-turns-are-kind-4hih)
 <!-- BLOG-POST-LIST:END -->
 
