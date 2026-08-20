@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built a Zero-Knowledge, Client-Side Encrypted Burning Note App Over the Weekend](https://dev.to/specialagentbreadwinner/why-i-built-a-zero-knowledge-client-side-encrypted-burning-note-app-over-the-weekend-bal)
-- [Buying a phone number is a distributed transaction](https://dev.to/ivanindiv/buying-a-phone-number-is-a-distributed-transaction-2i0h)
-- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/first_name_alice/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-1cp0)
-- [Clean code isn&#39;t what I thought it was](https://dev.to/alekswritescode/clean-code-isnt-what-i-thought-it-was-2akk)
+- [How to Plug a Lambda Function into a Legacy Application Without Changing a Single Line of Code](https://dev.to/jeancy/how-to-plug-a-lambda-function-into-a-legacy-application-without-changing-a-single-line-of-code-4bcd)
+- [JAX-RS: Building RESTful Web Services in Java &lpar;2026-08-20 22:15&rpar;](https://dev.to/said_olano/jax-rs-building-restful-web-services-in-java-2026-08-20-2215-1fpd)
+- [Debugging 4 Password Reset Email Failures &lpar;Requests, Domains, Templates, Payloads&rpar;](https://dev.to/hadleyfox8439/debugging-4-password-reset-email-failures-requests-domains-templates-payloads-215d)
+- [Switch AI Models at Runtime on Telnyx Edge Compute](https://dev.to/sonam_50a41a4ced7e6b4f3fa/switch-ai-models-at-runtime-on-telnyx-edge-compute-2ncf)
 <!-- BLOG-POST-LIST:END -->
 
