@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I shipped a plugin with one branch I hadn&#39;t tested — so I built a fallback](https://dev.to/eugeniya_ivanova_4a58eadc/i-shipped-a-plugin-with-one-branch-i-hadnt-tested-so-i-built-a-fallback-lc8)
-- [Windows Brings Out the Rorschach Test in Everyone: Why Your OS Opinion Says More About You Than Microsoft](https://dev.to/kaixintelligence/windows-brings-out-the-rorschach-test-in-everyone-why-your-os-opinion-says-more-about-you-than-2aag)
-- [BlazorMemory 1.0 is out. Ten months, 14 packages, and what I got wrong along the way.](https://dev.to/aftabkh4n/blazormemory-10-is-out-ten-months-14-packages-and-what-i-got-wrong-along-the-way-1548)
-- [I cut small AWS charges by picturing them at 100x scale](https://dev.to/uehara/i-cut-small-aws-charges-by-picturing-them-at-100x-scale-24n7)
+- [Calling a TypeScript Backend Without Integration Code - A Simple Task Tracker with Graftcode](https://dev.to/coderoflagos/calling-a-typescript-backend-without-integration-code-a-simple-task-tracker-with-graftcode-1n7e)
+- [Read-Only by Design: Letting AI Explore Your Database Without the Risk of Writes](https://dev.to/vivekdraxlr/read-only-by-design-letting-ai-explore-your-database-without-the-risk-of-writes-2pmm)
+- [React useEventListener Hook: Type-Safe DOM Events &lpar;2026&rpar;](https://dev.to/childrentime/react-useeventlistener-hook-type-safe-dom-events-2026-5cfi)
+- [Driving DaVinci Resolve&#39;s Free Edition with Claude, From Inside the App](https://dev.to/_leesam_ded8ba7b9a7e/driving-davinci-resolves-free-edition-with-claude-from-inside-the-app-4h19)
 <!-- BLOG-POST-LIST:END -->
 
