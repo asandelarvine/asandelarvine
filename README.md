@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code with any model: three ways to route it &lpar;incl. the 2-minute one&rpar;](https://dev.to/opper/claude-code-with-any-model-three-ways-to-route-it-incl-the-2-minute-one-2md2)
-- [Why We Ship Our Security Webhook Fail-Open](https://dev.to/eaferstl/why-we-ship-our-security-webhook-fail-open-11ap)
-- [Introducing Concilium: A Multi-Model Method for Hard Problems](https://dev.to/raicho_minev_f7f6baf70d35/introducing-concilium-a-multi-model-method-for-hard-problems-jem)
-- [Millions of log lines in PHP, at constant memory](https://dev.to/nessflow_8283f7335b896207/millions-of-log-lines-in-php-at-constant-memory-i7n)
+- [Identity Infrastructure: Why Credentials Are the Layer Directories Don&#39;t Secure](https://dev.to/gitguardian/identity-infrastructure-why-credentials-are-the-layer-directories-dont-secure-21gm)
+- [Building Premium React UI Components with Tailwind CSS and Framer Motion](https://dev.to/headbanger/building-premium-react-ui-components-with-tailwind-css-and-framer-motion-56op)
+- [Finding the One: Moving Averages and RSI Indicators – A Neo’s Guide](https://dev.to/timevolt/finding-the-one-moving-averages-and-rsi-indicators-a-neos-guide-2aop)
+- [How to return to Python without repeating a beginner course](https://dev.to/alfredo_moraleja_bfc6169c/how-to-return-to-python-without-repeating-a-beginner-course-4i3b)
 <!-- BLOG-POST-LIST:END -->
 
