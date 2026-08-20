@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FlashAlpha vs Bloomberg Terminal 2026 - Options Analytics for Quants](https://dev.to/tomasz_dobrowolski_35d32c/flashalpha-vs-bloomberg-terminal-2026-options-analytics-for-quants-1m3l)
-- [Maybe choosing Flutter was the biggest mistake of my life. 😭](https://dev.to/dt14/maybe-choosing-flutter-was-the-biggest-mistake-of-my-life-34pm)
-- [Native AA Delayed, ERC-4337 Gets a Reality Check, EOA Migration Debated, Ethereum Drops Poseidon](https://dev.to/etherspot/native-aa-delayed-erc-4337-gets-a-reality-check-eoa-migration-debated-ethereum-drops-poseidon-200a)
-- [I Handed 41 Tasks to an AI Loop. The Bottleneck Was Judgment, Not Code](https://dev.to/shimo4228/i-handed-41-tasks-to-an-ai-loop-the-bottleneck-was-judgment-not-code-23dp)
+- [Don&#39;t trust model quotes; use anchors instead](https://dev.to/gmhoward9289ops/dont-trust-model-quotes-use-anchors-instead-2ohl)
+- [AI vs CI: Nobody Told the Pipeline](https://dev.to/testingil/ai-vs-ci-nobody-told-the-pipeline-4e88)
+- [How to build a data retention schedule &lpar;without inventing the periods yourself&rpar;](https://dev.to/sanjoy_karmakar_044/how-to-build-a-data-retention-schedule-without-inventing-the-periods-yourself-29i4)
+- [The particle features I stopped hand-rolling](https://dev.to/patilrb/the-particle-features-i-stopped-hand-rolling-1jpd)
 <!-- BLOG-POST-LIST:END -->
 
