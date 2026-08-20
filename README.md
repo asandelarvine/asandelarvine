@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Tile Cache Has No Invalidation, So I Set It to Zero](https://dev.to/srdjan_poppovic/my-tile-cache-has-no-invalidation-so-i-set-it-to-zero-11l0)
-- [FFmpeg-Kit-Extended Upgraded to FFmpeg 9.0.1: New FFmpeg, FFprobe &amp; FFplay Features for Flutter and React Native](https://dev.to/akashskypatel/ffmpeg-kit-extended-upgraded-to-ffmpeg-901-new-ffmpeg-ffprobe-ffplay-features-for-flutter-and-1fgg)
-- [A leveled map of 149 GenAI tools — sorted by concept depth, not hype](https://dev.to/maneesh_thakur_d16c2852fa/a-leveled-map-of-149-genai-tools-sorted-by-concept-depth-not-hype-18ch)
-- [What If AI Is Just Telling You What You Want to Hear?](https://dev.to/dev_hajare_d11ce990734a91/what-if-ai-is-just-telling-you-what-you-want-to-hear-o81)
+- [What Is a Vulnerability, Really? Source, Sink, and Taint](https://dev.to/alimafana/what-is-a-vulnerability-really-source-sink-and-taint-c75)
+- [The error pointed at the GPU. The culprit was the HBA. — a Proxmox passthrough recovery](https://dev.to/jjozzietech/the-error-pointed-at-the-gpu-the-culprit-was-the-hba-a-proxmox-passthrough-recovery-3c33)
+- [Versioning PNG Snapshots Into a PDF Diff Trail You Can Actually Defend](https://dev.to/lizely/versioning-png-snapshots-into-a-pdf-diff-trail-you-can-actually-defend-h52)
+- [OpenAI Uses NVIDIA GB200 NVL72 for Model Training as Rubin Deployments Expand](https://dev.to/alifar/openai-uses-nvidia-gb200-nvl72-for-model-training-as-rubin-deployments-expand-no6)
 <!-- BLOG-POST-LIST:END -->
 
