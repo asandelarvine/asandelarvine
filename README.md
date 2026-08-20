@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t trust model quotes; use anchors instead](https://dev.to/gmhoward9289ops/dont-trust-model-quotes-use-anchors-instead-2ohl)
-- [AI vs CI: Nobody Told the Pipeline](https://dev.to/testingil/ai-vs-ci-nobody-told-the-pipeline-4e88)
-- [How to build a data retention schedule &lpar;without inventing the periods yourself&rpar;](https://dev.to/sanjoy_karmakar_044/how-to-build-a-data-retention-schedule-without-inventing-the-periods-yourself-29i4)
-- [The particle features I stopped hand-rolling](https://dev.to/patilrb/the-particle-features-i-stopped-hand-rolling-1jpd)
+- [Desenvolvimento de um Conversor de Imagens para ASCII Art em Pyth](https://dev.to/fellof/-desenvolvimento-de-um-conversor-de-imagens-para-ascii-art-em-pyth-9ol)
+- [Making a screenshot PDF searchable — no OCR, because we rendered the page](https://dev.to/petr_savenok/making-a-screenshot-pdf-searchable-no-ocr-because-we-rendered-the-page-2poi)
+- [I built a Markdown editor under 10MB because Obsidian felt too heavy](https://dev.to/martzcode/i-built-a-markdown-editor-under-10mb-because-obsidian-felt-too-heavy-4b90)
+- [Pi4J LED Playground: A Community Resource for Learning Hardware Programming with Java](https://dev.to/igoriot/pi4j-led-playground-a-community-resource-for-learning-hardware-programming-with-java-2ip3)
 <!-- BLOG-POST-LIST:END -->
 
