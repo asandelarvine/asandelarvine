@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Midnight wallet SDK changed its npm scope. Here is what to update.](https://dev.to/chaps_grid/the-midnight-wallet-sdk-changed-its-npm-scope-here-is-what-to-update-5gem)
-- [How to Create Your Own Claude Code Skill With SKILL.md](https://dev.to/arthur_luca/how-to-create-your-own-claude-code-skill-with-skillmd-3555)
-- [Puppet Core 9.0 and 8.21 Released: Ruby 4.0, OpenSSL 3.5, Platform Changes, and Security Hardening](https://dev.to/puppet/puppet-core-90-and-821-released-ruby-40-openssl-35-platform-changes-and-security-hardening-4294)
-- [AI Reviewing AI Is Not Review](https://dev.to/tmfrisinger/ai-reviewing-ai-is-not-review-33ik)
+- [Claude Code with any model: three ways to route it &lpar;incl. the 2-minute one&rpar;](https://dev.to/opper/claude-code-with-any-model-three-ways-to-route-it-incl-the-2-minute-one-2md2)
+- [Why We Ship Our Security Webhook Fail-Open](https://dev.to/eaferstl/why-we-ship-our-security-webhook-fail-open-11ap)
+- [Introducing Concilium: A Multi-Model Method for Hard Problems](https://dev.to/raicho_minev_f7f6baf70d35/introducing-concilium-a-multi-model-method-for-hard-problems-jem)
+- [Millions of log lines in PHP, at constant memory](https://dev.to/nessflow_8283f7335b896207/millions-of-log-lines-in-php-at-constant-memory-i7n)
 <!-- BLOG-POST-LIST:END -->
 
