@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Active Exploitation of Windows IKE Extension RCE &lpar;CVE-2026-33824&rpar;](https://dev.to/anoymask/active-exploitation-of-windows-ike-extension-rce-cve-2026-33824-1i2m)
-- [Is Your REST API really a REST API?](https://dev.to/daniel_possiblekwabi_b57/is-your-rest-api-really-a-rest-api-3bbj)
-- [AI-Generated Attack Tools Targeting Siemens S7 PLCs](https://dev.to/anoymask/ai-generated-attack-tools-targeting-siemens-s7-plcs-g63)
-- [We benchmarked an AI agent with vs. without a semantic execution boundary. It cut token load ~63% — and that&#39;s before you count the electricity.](https://dev.to/cristian_barragan_f2f519e/we-benchmarked-an-ai-agent-with-vs-without-a-semantic-execution-boundary-it-cut-token-load-63--118c)
+- [I Built a SaaS. Then I Asked ChatGPT to Recommend It. It Had Never Heard of Me.](https://dev.to/anthony_builds/i-built-a-saas-then-i-asked-chatgpt-to-recommend-it-it-had-never-heard-of-me-1dfc)
+- [HTML, CSS and Bootstrap Interview Questions](https://dev.to/abimanyu_p_9e75124634d2a4/html-css-and-bootstrap-interview-questions-57ed)
+- [Zero Dependencies, 250KB, 486 Tests: What I Learned Building an MCP Client](https://dev.to/mcptokensaver/zero-dependencies-250kb-486-tests-what-i-learned-building-an-mcp-client-439i)
+- [Criei uma linguagem de programação batizada de &quot;RydenScript&quot;](https://dev.to/daniel_saldanhapalhetaa/criei-uma-linguagem-de-programacao-3m9i)
 <!-- BLOG-POST-LIST:END -->
 
