@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a local-first linter for vague release notes](https://dev.to/duanjianming1981del/i-built-a-local-first-linter-for-vague-release-notes-50ln)
-- [Server Infrastructure Analysis](https://dev.to/abisha_berci04/server-infrastructure-analysis-114f)
-- [My AI-Written Test Suite Hit 94% Coverage. Then I Mutated the Code.](https://dev.to/magickong/my-ai-written-test-suite-hit-94-coverage-then-i-mutated-the-code-3k1a)
-- [Setting up an IPv6 only VM](https://dev.to/laurencet/setting-up-an-ipv6-only-vm-2dcl)
+- [I shipped a plugin with one branch I hadn&#39;t tested — so I built a fallback](https://dev.to/eugeniya_ivanova_4a58eadc/i-shipped-a-plugin-with-one-branch-i-hadnt-tested-so-i-built-a-fallback-lc8)
+- [Windows Brings Out the Rorschach Test in Everyone: Why Your OS Opinion Says More About You Than Microsoft](https://dev.to/kaixintelligence/windows-brings-out-the-rorschach-test-in-everyone-why-your-os-opinion-says-more-about-you-than-2aag)
+- [BlazorMemory 1.0 is out. Ten months, 14 packages, and what I got wrong along the way.](https://dev.to/aftabkh4n/blazormemory-10-is-out-ten-months-14-packages-and-what-i-got-wrong-along-the-way-1548)
+- [I cut small AWS charges by picturing them at 100x scale](https://dev.to/uehara/i-cut-small-aws-charges-by-picturing-them-at-100x-scale-24n7)
 <!-- BLOG-POST-LIST:END -->
 
