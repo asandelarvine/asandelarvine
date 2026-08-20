@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Identity Infrastructure: Why Credentials Are the Layer Directories Don&#39;t Secure](https://dev.to/gitguardian/identity-infrastructure-why-credentials-are-the-layer-directories-dont-secure-21gm)
-- [Building Premium React UI Components with Tailwind CSS and Framer Motion](https://dev.to/headbanger/building-premium-react-ui-components-with-tailwind-css-and-framer-motion-56op)
-- [Finding the One: Moving Averages and RSI Indicators – A Neo’s Guide](https://dev.to/timevolt/finding-the-one-moving-averages-and-rsi-indicators-a-neos-guide-2aop)
-- [How to return to Python without repeating a beginner course](https://dev.to/alfredo_moraleja_bfc6169c/how-to-return-to-python-without-repeating-a-beginner-course-4i3b)
+- [Chapter 3 Core System Components and Internal Implementation](https://dev.to/black_shadow_team/chapter-3core-system-components-and-internal-implementation-46dl)
+- [OpenAI Computer History Remains Unavailable in the EEA, UK and Switzerland](https://dev.to/alifar/openai-computer-history-remains-unavailable-in-the-eea-uk-and-switzerland-1lic)
+- [Your agent isn&#39;t reckless. It just can&#39;t see the blast radius.](https://dev.to/rabih_jabr_29/your-agent-isnt-reckless-it-just-cant-see-the-blast-radius-1lkj)
+- [LAB now ships a free Idea Feed: rule-shaped trading ideas, deliberately untested](https://dev.to/gexlive/lab-now-ships-a-free-idea-feed-rule-shaped-trading-ideas-deliberately-untested-3if3)
 <!-- BLOG-POST-LIST:END -->
 
