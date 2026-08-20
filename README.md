@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Calling a TypeScript Backend Without Integration Code - A Simple Task Tracker with Graftcode](https://dev.to/coderoflagos/calling-a-typescript-backend-without-integration-code-a-simple-task-tracker-with-graftcode-1n7e)
-- [Read-Only by Design: Letting AI Explore Your Database Without the Risk of Writes](https://dev.to/vivekdraxlr/read-only-by-design-letting-ai-explore-your-database-without-the-risk-of-writes-2pmm)
-- [React useEventListener Hook: Type-Safe DOM Events &lpar;2026&rpar;](https://dev.to/childrentime/react-useeventlistener-hook-type-safe-dom-events-2026-5cfi)
-- [Driving DaVinci Resolve&#39;s Free Edition with Claude, From Inside the App](https://dev.to/_leesam_ded8ba7b9a7e/driving-davinci-resolves-free-edition-with-claude-from-inside-the-app-4h19)
+- [FlashAlpha vs Bloomberg Terminal 2026 - Options Analytics for Quants](https://dev.to/tomasz_dobrowolski_35d32c/flashalpha-vs-bloomberg-terminal-2026-options-analytics-for-quants-1m3l)
+- [Maybe choosing Flutter was the biggest mistake of my life. 😭](https://dev.to/dt14/maybe-choosing-flutter-was-the-biggest-mistake-of-my-life-34pm)
+- [Native AA Delayed, ERC-4337 Gets a Reality Check, EOA Migration Debated, Ethereum Drops Poseidon](https://dev.to/etherspot/native-aa-delayed-erc-4337-gets-a-reality-check-eoa-migration-debated-ethereum-drops-poseidon-200a)
+- [I Handed 41 Tasks to an AI Loop. The Bottleneck Was Judgment, Not Code](https://dev.to/shimo4228/i-handed-41-tasks-to-an-ai-loop-the-bottleneck-was-judgment-not-code-23dp)
 <!-- BLOG-POST-LIST:END -->
 
