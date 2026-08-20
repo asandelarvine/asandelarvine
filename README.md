@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Scalevise Measures AI Visibility Beyond Rankings With a Repeatable GEO Framework](https://dev.to/alifar/how-scalevise-measures-ai-visibility-beyond-rankings-with-a-repeatable-geo-framework-443o)
-- [Why Critical Content Should Not Depend on Client-Side Rendering](https://dev.to/alifar/why-critical-content-should-not-depend-on-client-side-rendering-1p4a)
-- [Why AI Search SEO Is Shifting Toward Entity Governance and Structured Content](https://dev.to/alifar/why-ai-search-seo-is-shifting-toward-entity-governance-and-structured-content-3jmc)
-- [My Wi-Fi router](https://dev.to/glenw/my-wi-fi-router-1gd4)
+- [Active Exploitation of Windows IKE Extension RCE &lpar;CVE-2026-33824&rpar;](https://dev.to/anoymask/active-exploitation-of-windows-ike-extension-rce-cve-2026-33824-1i2m)
+- [Is Your REST API really a REST API?](https://dev.to/daniel_possiblekwabi_b57/is-your-rest-api-really-a-rest-api-3bbj)
+- [AI-Generated Attack Tools Targeting Siemens S7 PLCs](https://dev.to/anoymask/ai-generated-attack-tools-targeting-siemens-s7-plcs-g63)
+- [We benchmarked an AI agent with vs. without a semantic execution boundary. It cut token load ~63% — and that&#39;s before you count the electricity.](https://dev.to/cristian_barragan_f2f519e/we-benchmarked-an-ai-agent-with-vs-without-a-semantic-execution-boundary-it-cut-token-load-63--118c)
 <!-- BLOG-POST-LIST:END -->
 
