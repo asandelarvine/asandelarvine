@@ -79,19 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Device Tree Ownership Is Moving Up Into Firmware](https://dev.to/raghu_bharadwaj_404e60eb0c/firmware-provided-device-tree-is-a-product-decision-not-a-boot-detail-2jlh)
-- [Running Multiple A/B Tests at Once: When Overlap Is Safe](https://dev.to/david_sert/running-multiple-ab-tests-at-once-when-overlap-is-safe-1dbf)
-- [We Can&#39;t See What You Paste — And That Was a Design Constraint, Not a Slogan](https://dev.to/formatstack_2688dca3303f2/we-cant-see-what-you-paste-and-that-was-a-design-constraint-not-a-slogan-i8j)
-- [startup founder in 2026:
-
-“we&#39;re a lean team of 4”
-
-also the team:
-
-37 agents
-11 cron jobs
-4 MCP servers
-2 databases
-one exhausted human](https://dev.to/ishm6m/startup-founder-in-2026-were-a-lean-team-of-4-also-the-team-37-agents-11-cron-jobs-1paf)
+- [HTTP Caching Explained: max-age, ETag and Why Your Users Still See Last Week&#39;s CSS](https://dev.to/vahid_aghajani_60ce9dbec9/http-caching-explained-max-age-etag-and-why-your-users-still-see-last-weeks-css-nk6)
+- [D8：他猜00919會漲，信心五成，然後整天沒動](https://dev.to/_2ab71a79dd36101e6be89/d8ta-cai-00919hui-zhang-xin-xin-wu-cheng-ran-hou-zheng-tian-mei-dong-4j53)
+- [Physical Server vs Cloud Server: Which Infrastructure Makes More Sense?](https://dev.to/beny_2005/physical-server-vs-cloud-server-which-infrastructure-makes-more-sense-3han)
+- [Switch Icons v0.2.0: A React Icon Library Built for the Icons Developers Actually Need](https://dev.to/howelldevs/switch-icons-v020-a-react-icon-library-built-for-the-icons-developers-actually-need-2g68)
 <!-- BLOG-POST-LIST:END -->
 
