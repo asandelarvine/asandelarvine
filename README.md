@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework](https://dev.to/gde/three-clouds-one-brief-what-actually-differs-between-adk-strands-and-agent-framework-2kgc)
-- [Computers Powered By Living Human Brain Cells?](https://dev.to/daniel_possiblekwabi_b57/computers-powered-by-living-human-brain-cells-5e2i)
-- [The Browser Is Filling With Synthetic Fog](https://dev.to/maroneta/the-browser-is-filling-with-synthetic-fog-3bbd)
-- [Radians Are Correct; Turns Are Kind](https://dev.to/maroneta/radians-are-correct-turns-are-kind-4hih)
+- [Money as a data type](https://dev.to/mashhadi/money-as-a-data-type-14pk)
+- [Meet AntigravityCI: The Autonomous AI PR Assistant Powered by Google Gemini 🤖✨](https://dev.to/eclipsethatscool/meet-antigravityci-the-autonomous-ai-pr-assistant-powered-by-google-gemini-4nol)
+- [OAuth2 and OpenID Connect: A Practical Implementation Guide &lpar;2026-08-20 14:33&rpar;](https://dev.to/said_olano/oauth2-and-openid-connect-a-practical-implementation-guide-2026-08-20-1433-3c11)
+- [PostgreSQL Connection String: Supabase, Neon, Railway](https://dev.to/not_varunkv/postgresql-connection-string-explained-supabase-neon-railway-2h7o)
 <!-- BLOG-POST-LIST:END -->
 
