@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a SaaS. Then I Asked ChatGPT to Recommend It. It Had Never Heard of Me.](https://dev.to/anthony_builds/i-built-a-saas-then-i-asked-chatgpt-to-recommend-it-it-had-never-heard-of-me-1dfc)
-- [HTML, CSS and Bootstrap Interview Questions](https://dev.to/abimanyu_p_9e75124634d2a4/html-css-and-bootstrap-interview-questions-57ed)
-- [Zero Dependencies, 250KB, 486 Tests: What I Learned Building an MCP Client](https://dev.to/mcptokensaver/zero-dependencies-250kb-486-tests-what-i-learned-building-an-mcp-client-439i)
-- [Criei uma linguagem de programação batizada de &quot;RydenScript&quot;](https://dev.to/daniel_saldanhapalhetaa/criei-uma-linguagem-de-programacao-3m9i)
+- [5 Common Subnetting Mistakes That Break Real Networks](https://dev.to/subnetica/5-common-subnetting-mistakes-that-break-real-networks-4an7)
+- [How I Built a Color Picker That Actually Converts Colors Correctly &lpar;HEX/RGB/HSL&rpar;](https://dev.to/ggwork/how-i-built-a-color-picker-that-actually-converts-colors-correctly-hexrgbhsl-45ga)
+- [Beyond Writing Code: The Core Mindset of a Modern Software Engineer](https://dev.to/md_ujjalhossain/beyond-writing-code-the-core-mindset-of-a-modern-software-engineer-5hno)
+- [Local vs remote MCP servers: which one you actually want](https://dev.to/sam_novak_574b07811e18495/local-vs-remote-mcp-servers-which-one-you-actually-want-3cic)
 <!-- BLOG-POST-LIST:END -->
 
