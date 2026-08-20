@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chapter 3 Core System Components and Internal Implementation](https://dev.to/black_shadow_team/chapter-3core-system-components-and-internal-implementation-46dl)
-- [OpenAI Computer History Remains Unavailable in the EEA, UK and Switzerland](https://dev.to/alifar/openai-computer-history-remains-unavailable-in-the-eea-uk-and-switzerland-1lic)
-- [Your agent isn&#39;t reckless. It just can&#39;t see the blast radius.](https://dev.to/rabih_jabr_29/your-agent-isnt-reckless-it-just-cant-see-the-blast-radius-1lkj)
-- [LAB now ships a free Idea Feed: rule-shaped trading ideas, deliberately untested](https://dev.to/gexlive/lab-now-ships-a-free-idea-feed-rule-shaped-trading-ideas-deliberately-untested-3if3)
+- [My Tile Cache Has No Invalidation, So I Set It to Zero](https://dev.to/srdjan_poppovic/my-tile-cache-has-no-invalidation-so-i-set-it-to-zero-11l0)
+- [FFmpeg-Kit-Extended Upgraded to FFmpeg 9.0.1: New FFmpeg, FFprobe &amp; FFplay Features for Flutter and React Native](https://dev.to/akashskypatel/ffmpeg-kit-extended-upgraded-to-ffmpeg-901-new-ffmpeg-ffprobe-ffplay-features-for-flutter-and-1fgg)
+- [A leveled map of 149 GenAI tools — sorted by concept depth, not hype](https://dev.to/maneesh_thakur_d16c2852fa/a-leveled-map-of-149-genai-tools-sorted-by-concept-depth-not-hype-18ch)
+- [What If AI Is Just Telling You What You Want to Hear?](https://dev.to/dev_hajare_d11ce990734a91/what-if-ai-is-just-telling-you-what-you-want-to-hear-o81)
 <!-- BLOG-POST-LIST:END -->
 
