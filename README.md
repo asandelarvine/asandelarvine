@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Git Workflow:Working directory,staging ,commit and push.](https://dev.to/esther_karanja_/understanding-the-git-workflowworking-directorystaging-commit-and-push-2b3j)
-- [n8n vs Python for Automation: When No-Code Wins vs When You Need Code](https://dev.to/samchenreviews/n8n-vs-python-for-automation-when-no-code-wins-vs-when-you-need-code-22c5)
-- [what is rag ai: a no-PhD guide to retrieval-augmented generation](https://dev.to/samchenreviews/what-is-rag-ai-a-no-phd-guide-to-retrieval-augmented-generation-a2g)
-- [How to automate meeting notes with AI - from transcript to assigned tasks](https://dev.to/samchenreviews/how-to-automate-meeting-notes-with-ai-from-transcript-to-assigned-tasks-53b0)
+- [Which SQL Database Should You Install?](https://dev.to/michaelnocito/which-sql-database-should-you-install-1i9n)
+- [NULL in SQL: Why = NULL Finds Nothing and What to Write Instead](https://dev.to/michaelnocito/null-in-sql-why-null-finds-nothing-and-what-to-write-instead-4b64)
+- [Month-over-Month Growth in SQL: LAG, the Growth Formula, and the Traps](https://dev.to/michaelnocito/month-over-month-growth-in-sql-lag-the-growth-formula-and-the-traps-5bnp)
+- [How to Find Duplicate Rows in SQL &lpar;and Decide What Counts as One&rpar;](https://dev.to/michaelnocito/how-to-find-duplicate-rows-in-sql-and-decide-what-counts-as-one-1h9i)
 <!-- BLOG-POST-LIST:END -->
 
