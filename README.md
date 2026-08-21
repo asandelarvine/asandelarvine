@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [is-agentic Scored Promptway 74. Here Is What I Changed](https://dev.to/promptway/is-agentic-scored-promptway-74-here-is-what-i-changed-4if9)
-- [Anyone ever go back to their notetaker outputs and summaries?](https://dev.to/jon_at_backboardio/anyone-ever-go-back-to-their-notetaker-outputs-and-summaries-5bkp)
-- [Security news weekly round-up - 21st August 2026](https://dev.to/ziizium/security-news-weekly-round-up-21st-august-2026-4l44)
-- [UNDERSTANDING THE GIT WORKFLOW](https://dev.to/lynne_chanzu/understanding-the-git-workflow-g2i)
+- [Understanding the Git Workflow:Working directory,staging ,commit and push.](https://dev.to/esther_karanja_/understanding-the-git-workflowworking-directorystaging-commit-and-push-2b3j)
+- [n8n vs Python for Automation: When No-Code Wins vs When You Need Code](https://dev.to/samchenreviews/n8n-vs-python-for-automation-when-no-code-wins-vs-when-you-need-code-22c5)
+- [what is rag ai: a no-PhD guide to retrieval-augmented generation](https://dev.to/samchenreviews/what-is-rag-ai-a-no-phd-guide-to-retrieval-augmented-generation-a2g)
+- [How to automate meeting notes with AI - from transcript to assigned tasks](https://dev.to/samchenreviews/how-to-automate-meeting-notes-with-ai-from-transcript-to-assigned-tasks-53b0)
 <!-- BLOG-POST-LIST:END -->
 
