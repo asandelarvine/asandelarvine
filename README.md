@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust&#39;s async story is still an embarrassment for web APIs](https://dev.to/adioof/rusts-async-story-is-still-an-embarrassment-for-web-apis-1fj7)
-- [Local AI, Cloud GPUs, or APIs? Four Questions to Answer Before Comparing Cost](https://dev.to/gridport/local-ai-cloud-gpus-or-apis-four-questions-to-answer-before-comparing-cost-5fbo)
-- [Improve AI Output with a News Feed: Ground LLM Answers in Live Coverage](https://dev.to/alexperigon/improve-ai-output-with-a-news-feed-ground-llm-answers-in-live-coverage-81i)
-- [Git Playbook: Team-sync and Stable Releases](https://dev.to/denisinvader/git-playbook-team-sync-and-stable-releases-563c)
+- [Can EnvHarness Turn Static Worlds Into Real Agent Training Grounds?](https://dev.to/vin-patel/can-envharness-turn-static-worlds-into-real-agent-training-grounds-1p5p)
+- [Your GitHub Is Not Your Developer Portfolio](https://dev.to/brianyoung/your-github-is-not-your-developer-portfolio-4849)
+- [Day 1 of My First Game Ever. I Asked r/Unity2D What I Was Getting Wrong.](https://dev.to/0xkarthick/day-1-of-my-first-game-ever-i-asked-runity2d-what-i-was-getting-wrong-1jn9)
+- [I Got Called Out by My Senior — and It Taught Me the Real Cost of &quot;AI-First&quot; Coding](https://dev.to/kumaresan02/i-got-called-out-by-my-senior-and-it-taught-me-the-real-cost-of-ai-first-coding-1pg5)
 <!-- BLOG-POST-LIST:END -->
 
