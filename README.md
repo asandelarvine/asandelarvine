@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pythonaibrain-NLP 0.2.0 Is Now on PyPI — A Structured NLU/NLG Architecture for Python](https://dev.to/divyanshusinha136/pythonaibrain-nlp-020-is-now-on-pypi-a-structured-nlunlg-architecture-for-python-45lh)
-- [How I run a full AWS-powered website for less than $1/month](https://dev.to/tomascody-web333/how-i-run-a-full-aws-powered-website-for-less-than-1month-313a)
-- [Multi-Agent Gift Recommendation Engine Powered by Google ADK &amp; Gemini](https://dev.to/inushathathsara/multi-agent-gift-recommendation-engine-powered-by-google-adk-gemini-3669)
-- [Claude Prompt Caching: Why Agent Loops Miss the 20-Block Lookback](https://dev.to/ji_ai/claude-prompt-caching-why-agent-loops-miss-the-20-block-lookback-d36)
+- [Building in Public: My Journey Constructing a Weather App with OpenWeatherMap](https://dev.to/joelezema/building-in-public-my-journey-constructing-a-weather-app-with-openweathermap-48c6)
+- [AI Capex Has Moved Into Credit&#39;s Jurisdiction](https://dev.to/deanlee/ai-capex-has-moved-into-credits-jurisdiction-3h78)
+- [AI Capex Is Turning Into an Infrastructure Bill](https://dev.to/reidmarlow/ai-capex-is-turning-into-an-infrastructure-bill-3mfi)
+- [Sub‑50 ms On‑Device TTS: Instant Voice for Games &amp; Streams](https://dev.to/leojulieta/sub-50-ms-on-device-tts-instant-voice-for-games-streams-5e8)
 <!-- BLOG-POST-LIST:END -->
 
