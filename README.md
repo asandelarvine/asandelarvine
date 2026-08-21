@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Reverse Engineered Hikvision&#39;s APK to Fix Push Notifications on GrapheneOS And Submitted a PR to Fix It For Everyone](https://dev.to/alex9001/i-reverse-engineered-hikvisions-apk-to-fix-push-notifications-on-grapheneos-and-submitted-a-pr-to-2ik2)
-- [What 30 Minutes of Watching Strangers Play My Game Taught Me About Trust](https://dev.to/jacob_miller_6a433a011a83/what-30-minutes-of-watching-strangers-play-my-game-taught-me-about-trust-3p9c)
-- [I Deployed Google&#39;s Online Boutique on AWS EKS — Full Production Setup, Zero App Code Changes](https://dev.to/vijaya_bollu/i-deployed-googles-online-boutique-on-aws-eks-full-production-setup-zero-app-code-changes-4aal)
-- [Polyglot persistence was the mistake. Postgres was always enough.](https://dev.to/adioof/polyglot-persistence-was-the-mistake-postgres-was-always-enough-g41)
+- [The Notification Born out of Love: Building an Adaptive Geofencing Engine for Digital Wallets](https://dev.to/alex_g_aeeb05ba69eee8a4fd/the-notification-born-out-of-love-building-an-adaptive-geofencing-engine-for-digital-wallets-4512)
+- [Outputting Data: Why Sofya Beats Python in Simplicity](https://dev.to/simple_code/outputting-data-why-sofya-beats-python-in-simplicity-47pk)
+- [Your CI Pipeline Is the Most Privileged Machine You Own. You Have Never Scanned It.](https://dev.to/lucky3mc/your-ci-pipeline-is-the-most-privileged-machine-you-own-you-have-never-scanned-it-56cm)
+- [How to Build Real-Time AI Video Workflows with Server-Sent Events and Webhooks](https://dev.to/programmingcentral/how-to-build-real-time-ai-video-workflows-with-server-sent-events-and-webhooks-3h4k)
 <!-- BLOG-POST-LIST:END -->
 
