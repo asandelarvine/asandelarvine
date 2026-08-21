@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We Built Guardrails Against JSON Precision Loss. Then We Found Out Half of Them Weren&#39;t Actually Guarding Anything.](https://dev.to/jacksmith_de/we-built-guardrails-against-json-precision-loss-then-we-found-out-half-of-them-werent-actually-4nk2)
-- [I Brought IdentityServer Back to Life as Open Source &lpar;.NET 8&rpar;](https://dev.to/richard_vquezprez_c356/i-brought-identityserver-back-to-life-as-open-source-net-8-3374)
-- [Two YubiKeys, One Prompt Too Many](https://dev.to/fromthearchitect/two-yubikeys-one-prompt-too-many-d78)
-- [My Wi-Fi networks](https://dev.to/glenw/my-wi-fi-networks-3ee8)
+- [MCP C# SDK Array Tool Outputs: Stop Looking for a `result` Wrapper](https://dev.to/ssukhpinder/mcp-c-sdk-array-tool-outputs-stop-looking-for-a-result-wrapper-452c)
+- [JavaScript Links Can Hide Content From AI Crawlers, a 41-Day Test Shows](https://dev.to/alifar/javascript-links-can-hide-content-from-ai-crawlers-a-41-day-test-shows-34cg)
+- [Writing Mind Maps in Plain Text: An Introduction to the Mind Elixir Text Format](https://dev.to/ssshooter/writing-mind-maps-in-plain-text-an-introduction-to-the-mind-elixir-text-format-1cb8)
+- [RISC-V 32-bit: What does GCC do? &lpar;Part 1&rpar;](https://dev.to/ddupard/risc-v-32-bit-what-does-gcc-do-part-1-1cg9)
 <!-- BLOG-POST-LIST:END -->
 
