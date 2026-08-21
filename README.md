@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [El patrón Criteria en NestJS — lo que un cliente puede pedir es un archivo, no una firma](https://dev.to/chacaponquin/el-patron-criteria-en-nestjs-lo-que-un-cliente-puede-pedir-es-un-archivo-no-una-firma-3jj0)
-- [Rust Crate Tampering: Multi-Stage Info-Stealer Malware Launched via build.rs](https://dev.to/anoymask/rust-crate-tampering-multi-stage-info-stealer-malware-launched-via-buildrs-4fp7)
-- [MLflow CVE-2026-64849: Cloud Credential Theft via Webhook SSRF](https://dev.to/anoymask/mlflow-cve-2026-64849-cloud-credential-theft-via-webhook-ssrf-2j)
-- [UAT-10147 AI-Assisted Intrusion and SPECTRE Malware](https://dev.to/anoymask/uat-10147-ai-assisted-intrusion-and-spectre-malware-3ej)
+- [Building with AI: My Journey Through Hackathons, Cloud, and Real-World Solutions](https://dev.to/srivaishnavikarthikatech/building-with-ai-my-journey-through-hackathons-cloud-and-real-world-solutions-5p1)
+- [The Sloppiest Thing About AI](https://dev.to/oxplot/the-sloppiest-thing-about-ai-15i6)
+- [A backtest that cheats off tomorrow won&#39;t fail code review. So I fired a spike into the future](https://dev.to/jun_uen0/a-backtest-that-cheats-off-tomorrow-wont-fail-code-review-so-i-fired-a-spike-into-the-future-455j)
+- [How We Standardized on Next.js + Supabase to Ship Client Sites Fast at a 2-Person Agency](https://dev.to/locallify/how-we-standardized-on-nextjs-supabase-to-ship-client-sites-fast-at-a-2-person-agency-3hkd)
 <!-- BLOG-POST-LIST:END -->
 
