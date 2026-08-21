@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [PAGI 0.002002: Clarifying How Applications Are Loaded](https://dev.to/jjn1056/pagi-0002002-clarifying-how-applications-are-loaded-4c0f)
-- [MCP servers won&#39;t start on Windows: the &#39;C:\Program&#39; space-in-path fix](https://dev.to/milkyway008/mcp-servers-wont-start-on-windows-the-cprogram-space-in-path-fix-2daa)
-- [How parallel AI agents should talk to each other &lpar;and the bug that proved it&rpar;](https://dev.to/ahmadammar/how-parallel-ai-agents-should-talk-to-each-other-and-the-bug-that-proved-it-2mh1)
-- [8 Shipped Chrome Extensions, 4 Ways to Declare Host Permissions](https://dev.to/k-wada/8-shipped-chrome-extensions-4-ways-to-declare-host-permissions-3n1c)
+- [Pharaohs were the first to achieve ASI.](https://dev.to/wiseai/pharaohs-were-the-first-to-achieve-asi-eid)
+- [Mathematical Equations are Multimodal by default](https://dev.to/wiseai/mathematical-equations-are-multimodal-by-default-53fk)
+- [LLMs are Usefull. LMMs will Break Reality](https://dev.to/wiseai/llms-are-usefull-lmms-will-break-reality-8an)
+- [Christianity Makes Perfect Sense!](https://dev.to/wiseai/christianity-makes-perfect-sense-2e1e)
 <!-- BLOG-POST-LIST:END -->
 
