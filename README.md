@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Pharaohs were the first to achieve ASI.](https://dev.to/wiseai/pharaohs-were-the-first-to-achieve-asi-eid)
-- [Mathematical Equations are Multimodal by default](https://dev.to/wiseai/mathematical-equations-are-multimodal-by-default-53fk)
-- [LLMs are Usefull. LMMs will Break Reality](https://dev.to/wiseai/llms-are-usefull-lmms-will-break-reality-8an)
-- [Christianity Makes Perfect Sense!](https://dev.to/wiseai/christianity-makes-perfect-sense-2e1e)
+- [I Reverse Engineered Hikvision&#39;s APK to Fix Push Notifications on GrapheneOS And Submitted a PR to Fix It For Everyone](https://dev.to/alex9001/i-reverse-engineered-hikvisions-apk-to-fix-push-notifications-on-grapheneos-and-submitted-a-pr-to-2ik2)
+- [What 30 Minutes of Watching Strangers Play My Game Taught Me About Trust](https://dev.to/jacob_miller_6a433a011a83/what-30-minutes-of-watching-strangers-play-my-game-taught-me-about-trust-3p9c)
+- [I Deployed Google&#39;s Online Boutique on AWS EKS — Full Production Setup, Zero App Code Changes](https://dev.to/vijaya_bollu/i-deployed-googles-online-boutique-on-aws-eks-full-production-setup-zero-app-code-changes-4aal)
+- [Polyglot persistence was the mistake. Postgres was always enough.](https://dev.to/adioof/polyglot-persistence-was-the-mistake-postgres-was-always-enough-g41)
 <!-- BLOG-POST-LIST:END -->
 
