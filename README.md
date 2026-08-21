@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Can EnvHarness Turn Static Worlds Into Real Agent Training Grounds?](https://dev.to/vin-patel/can-envharness-turn-static-worlds-into-real-agent-training-grounds-1p5p)
-- [Your GitHub Is Not Your Developer Portfolio](https://dev.to/brianyoung/your-github-is-not-your-developer-portfolio-4849)
-- [Day 1 of My First Game Ever. I Asked r/Unity2D What I Was Getting Wrong.](https://dev.to/0xkarthick/day-1-of-my-first-game-ever-i-asked-runity2d-what-i-was-getting-wrong-1jn9)
-- [I Got Called Out by My Senior — and It Taught Me the Real Cost of &quot;AI-First&quot; Coding](https://dev.to/kumaresan02/i-got-called-out-by-my-senior-and-it-taught-me-the-real-cost-of-ai-first-coding-1pg5)
+- [RAG vs MCP in AI Testing: Stop Treating Them as Competitors](https://dev.to/rahul_sharma_pq/rag-vs-mcp-in-ai-testing-stop-treating-them-as-competitors-bjo)
+- [I Built a Chrome Extension to Track AI Token Usage — Here&#39;s How It Works](https://dev.to/anoop_kumar_63925e275ea06/i-built-a-chrome-extension-to-track-ai-token-usage-heres-how-it-works-1701)
+- [Your RLS Policy Passed Its Test For the Wrong Reason](https://dev.to/dev_encyclopedia/your-rls-policy-passed-its-test-for-the-wrong-reason-2oah)
+- [Iran Doesn&#39;t Need to Mine Hormuz — Your requirements.txt Is Already Rigged](https://dev.to/le_beltagy/iran-doesnt-need-to-mine-hormuz-your-requirementstxt-is-already-rigged-1c55)
 <!-- BLOG-POST-LIST:END -->
 
