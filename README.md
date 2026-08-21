@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built a Windows Desktop App with C++ + WebView2 Instead of Electron](https://dev.to/jearry/why-i-built-a-windows-desktop-app-with-c-webview2-instead-of-electron-2o69)
-- [ChatGPT Search Is Firing site: Queries - Test Yours Today](https://dev.to/basavaraj_sh_1ea7d95f0f2e/chatgpt-search-is-firing-site-queries-test-yours-today-1381)
-- [The Linux DMA API: Coherent and Streaming Mappings Explained](https://dev.to/raghu_bharadwaj_404e60eb0c/the-linux-dma-api-coherent-and-streaming-mappings-explained-1ak9)
-- [MariaDB 10.6 to 13.0 for WordPress: Only One Upgrade Actually Does Anything [Benchmark]](https://dev.to/make-wp-fast/mariadb-106-to-130-for-wordpress-only-one-upgrade-actually-does-anything-benchmark-1hfn)
+- [AWS Serverless Patterns and Anti-Patterns: What Works, What Breaks, and When to Use What](https://dev.to/alpeshkumbhare/aws-serverless-patterns-and-anti-patterns-what-works-what-breaks-and-when-to-use-what-4k50)
+- [VRP Is Ready for External Validation — One Company Can Be the First to Pilot It](https://dev.to/jumping_vpn_fcb498eb2c7e1/vrp-is-ready-for-external-validation-one-company-can-be-the-first-to-pilot-it-4l0g)
+- [Your feature-usage scanner doesn&#39;t know Vue, Svelte, or Astro exist. Here&#39;s how we fixed that without touching its core.](https://dev.to/__c500e8ac9bc2/your-feature-usage-scanner-doesnt-know-vue-svelte-or-astro-exist-heres-how-we-fixed-that-1eif)
+- [Why 75% of Developers Prefer Claude Code Over Codex](https://dev.to/10x/why-75-of-developers-prefer-claude-code-over-codex-5dp1)
 <!-- BLOG-POST-LIST:END -->
 
