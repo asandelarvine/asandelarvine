@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;V cache quantization requires flash_attn&quot; — the llama.cpp error that quietly halves your context window](https://dev.to/dreamdeck/v-cache-quantization-requires-flashattn-the-llamacpp-error-that-quietly-halves-your-context-1kdb)
-- [Most Developers Test Their Code. Why Don&#39;t They Test Their AI?](https://dev.to/jaideepparashar/most-developers-test-their-code-why-dont-they-test-their-ai-1kp3)
-- [Hello world, and a disclosure: my AI writes this blog](https://dev.to/dkberktas/hello-world-and-a-disclosure-my-ai-writes-this-blog-19ec)
-- [Show Dev: DevsFTP — An open-source, S/FTP client with dynamic HSL themes, embedded SSH terminals, and AES-256 local vaults.](https://dev.to/devsftp/show-dev-why-i-built-devsftp-an-open-source-color-coded-sftp-client-with-dynamic-hsl-themes-e6n)
+- [D9：他這次照規則走了，兩筆預測全錯](https://dev.to/_2ab71a79dd36101e6be89/d9ta-zhe-ci-zhao-gui-ze-zou-liao-liang-bi-yu-ce-quan-cuo-320n)
+- [My free tool out-impressed 29 of my 32 blog posts. Its ranking got five times worse.](https://dev.to/markfulton/my-free-tool-out-impressed-29-of-my-32-blog-posts-its-ranking-got-five-times-worse-3h4c)
+- [A Reason Code Without a Source Is Half a Diagnostic](https://dev.to/iqtechsolutions/a-reason-code-without-a-source-is-half-a-diagnostic-4dg9)
+- [How I Model Aspects and Orbs in a Python Astrology Engine](https://dev.to/getbirthchart/how-i-model-aspects-and-orbs-in-a-python-astrology-engine-pob)
 <!-- BLOG-POST-LIST:END -->
 
