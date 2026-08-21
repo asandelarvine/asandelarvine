@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-posting to dev.to without giving away your SEO](https://dev.to/mk023/cross-posting-to-devto-without-giving-away-your-seo-5gd)
-- [Marla to Gaj &lpar;Square Yard&rpar; Conversion: A Simple Tool I Built for My Local Marketplace](https://dev.to/nuran_khan_80733dc4e19f6b/marla-to-gaj-square-yard-conversion-a-simple-tool-i-built-for-my-local-marketplace-5g17)
-- [Your Laravel queue worker count is a guess. Here is the math that replaces it.](https://dev.to/kevariable/your-laravel-queue-worker-count-is-a-guess-here-is-the-math-that-replaces-it-31ba)
-- [ACH Return Codes Explained: R01–R85 and How to Handle Them in Production](https://dev.to/payout_rail/ach-return-codes-explained-r01-r85-and-how-to-handle-them-in-production-34gj)
+- [Why I Built a Windows Desktop App with C++ + WebView2 Instead of Electron](https://dev.to/jearry/why-i-built-a-windows-desktop-app-with-c-webview2-instead-of-electron-2o69)
+- [ChatGPT Search Is Firing site: Queries - Test Yours Today](https://dev.to/basavaraj_sh_1ea7d95f0f2e/chatgpt-search-is-firing-site-queries-test-yours-today-1381)
+- [The Linux DMA API: Coherent and Streaming Mappings Explained](https://dev.to/raghu_bharadwaj_404e60eb0c/the-linux-dma-api-coherent-and-streaming-mappings-explained-1ak9)
+- [MariaDB 10.6 to 13.0 for WordPress: Only One Upgrade Actually Does Anything [Benchmark]](https://dev.to/make-wp-fast/mariadb-106-to-130-for-wordpress-only-one-upgrade-actually-does-anything-benchmark-1hfn)
 <!-- BLOG-POST-LIST:END -->
 
