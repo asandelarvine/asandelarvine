@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG vs MCP in AI Testing: Stop Treating Them as Competitors](https://dev.to/rahul_sharma_pq/rag-vs-mcp-in-ai-testing-stop-treating-them-as-competitors-bjo)
-- [I Built a Chrome Extension to Track AI Token Usage — Here&#39;s How It Works](https://dev.to/anoop_kumar_63925e275ea06/i-built-a-chrome-extension-to-track-ai-token-usage-heres-how-it-works-1701)
-- [Your RLS Policy Passed Its Test For the Wrong Reason](https://dev.to/dev_encyclopedia/your-rls-policy-passed-its-test-for-the-wrong-reason-2oah)
-- [Iran Doesn&#39;t Need to Mine Hormuz — Your requirements.txt Is Already Rigged](https://dev.to/le_beltagy/iran-doesnt-need-to-mine-hormuz-your-requirementstxt-is-already-rigged-1c55)
+- [monkeypatch or mock.patch? One question decides it](https://dev.to/msakai/monkeypatch-or-mockpatch-one-question-decides-it-1bf5)
+- [CI Is Green. What Could Still Go Wrong?](https://dev.to/dulvarn/ci-is-green-what-could-still-go-wrong-4g0k)
+- [What a lost dispute actually costs a Connect platform](https://dev.to/veristria/what-a-lost-dispute-actually-costs-a-connect-platform-5gh2)
+- [Using S3 as Your Disaster Recovery Target: A Practical Guide](https://dev.to/ethan-carter/using-s3-as-your-disaster-recovery-target-a-practical-guide-3f0b)
 <!-- BLOG-POST-LIST:END -->
 
