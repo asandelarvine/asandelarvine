@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Approach Appointment Slot Optimization in Laravel When Services Have Different Durations](https://dev.to/hiajayy/how-i-approach-appointment-slot-optimization-in-laravel-when-services-have-different-durations-5f27)
-- [I Got AWS Credits. So I Built Something for the Community.](https://dev.to/aws-builders/i-got-aws-credits-so-i-built-something-for-the-community-5a85)
-- [Java script c-2 variables](https://dev.to/kavin_k_5b0b0c5a2e4bbf880/java-script-c-2-variables-5bji)
-- [Create React App is Dead. What’s Next? &lpar;Vite vs. Next.js&rpar;](https://dev.to/dixonaws/create-react-app-is-dead-whats-next-vite-vs-nextjs-2608)
+- [The Optimization That Was Too Good: Why Our Push Notifications Only Worked When You Weren&#39;t Looking](https://dev.to/dj29/the-optimization-that-was-too-good-why-our-push-notifications-only-worked-when-you-werent-looking-2f4d)
+- [Problem Engineering: Why Defining the Problem Matters More Than Your Prompt](https://dev.to/billahdotdev/problem-engineering-why-defining-the-problem-matters-more-than-your-prompt-5696)
+- [My Cost Monitor Said $234 When the Real Bill Was $48. Then set -e Made It Go Silent for a Week.](https://dev.to/bokuwalily/my-cost-monitor-said-234-when-the-real-bill-was-48-then-set-e-made-it-go-silent-for-a-week-475j)
+- [Correlation Is Pairwise. Multicollinearity Isn&#39;t.](https://dev.to/mohit_modi_e86a932fb11e61/correlation-is-pairwise-multicollinearity-isnt-2970)
 <!-- BLOG-POST-LIST:END -->
 
