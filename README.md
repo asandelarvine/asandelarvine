@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sharing memory between processes with java.lang.foreign and jextract](https://dev.to/mishmash-io/sharing-memory-between-processes-with-javalangforeign-and-jextract-ch0)
-- [[Aug 17-22] We Swapped GPUs, Then Kept Finding Blind Spots in Our Own Checks](https://dev.to/finaltype/aug-17-22-we-swapped-gpus-then-kept-finding-blind-spots-in-our-own-checks-3j84)
-- [[260817~0822] 그래픽카드를 바꾼 뒤, 검증 도구들의 허점을 연달아 잡았다](https://dev.to/finaltype/2608170822-geuraepigkadeureul-baggun-dwi-geomjeung-dogudeulyi-heojeomeul-yeondala-jabassda-51i1)
-- [How to Get the Parent Domain from a Cross-Origin Iframe in JavaScript &lpar;Without Losing Your Sanity&rpar;](https://dev.to/bored_dev/how-to-get-the-parent-domain-from-a-cross-origin-iframe-in-javascript-without-losing-your-sanity-1885)
+- [Navigating Microsoft Azure Certifications in 2026: Value, Trends, and Blueprint Strategy](https://dev.to/jordancarterdevv/navigating-microsoft-azure-certifications-in-2026-value-trends-and-blueprint-strategy-30k2)
+- [grow-hack: An AI Pipeline That Turns Any GitHub Repo Into Professional Docs in Under a Minute](https://dev.to/ganesh_bora_12e6afdf2c7f0/grow-hack-an-ai-pipeline-that-turns-any-github-repo-into-professional-docs-in-under-a-minute-17f1)
+- [Cómo solucionar el error “Enable JavaScript and cookies to continue”](https://dev.to/erickeduardoramos03/como-solucionar-el-error-enable-javascript-and-cookies-to-continue-l0f)
+- [Similarity isn&#39;t relevance: the hard part of semantic search](https://dev.to/divyakush/similarity-isnt-relevance-the-hard-part-of-semantic-search-4oh)
 <!-- BLOG-POST-LIST:END -->
 
