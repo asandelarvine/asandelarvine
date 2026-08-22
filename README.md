@@ -79,9 +79,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why a 99% Cache Hit Rate Is 10x Faster Than 90% &lpar;Not 9%&rpar;](https://dev.to/dilip_v_p/why-a-99-cache-hit-rate-is-10x-faster-than-90-not-9-32bh)
-- [Understanding Git Workflows](https://dev.to/eduxic/understanding-git-workflows-4i52)
-- [What I learned building a job-description importer that needs a manual fallback](https://dev.to/shortliststudio/what-i-learned-building-a-job-description-importer-that-needs-a-manual-fallback-575m)
-- [The Bug That Kept Coming Back in Framer Motion](https://dev.to/carlosjcastrog/the-bug-that-kept-coming-back-in-framer-motion-2kmh)
+- [AWS EC2 Deployment — Q&amp;A Reference](https://dev.to/goose2585/aws-ec2-deployment-qa-reference-279b)
+- [No LeetCode. No club leadership. No internship on my resume.
+Still got the offer.
+
+I wrote about how that happened — and it involved a semester I almost didn&#39;t recover from.
+
+What actually got your first interview? 👀](https://dev.to/dj29/no-leetcode-no-club-leadership-no-internship-on-my-resume-still-got-the-offer-i-wrote-about-3d3o)
+- [Hello Everyone](https://dev.to/trenton_toenyes_11a9bb45b/hello-everyone-k1b)
+- [RAG explicado: cómo darle a un LLM tu propia información](https://dev.to/isazajuancarlos/rag-explicado-como-darle-a-un-llm-tu-propia-informacion-2a8b)
 <!-- BLOG-POST-LIST:END -->
 
