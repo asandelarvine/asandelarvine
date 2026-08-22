@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Downloading and Running a Kali Linux VM in VirtualBox on Windows](https://dev.to/muneebahmedkhanwriting/downloading-and-running-a-kali-linux-vm-in-virtualbox-on-windows-51hl)
-- [I made a Symfony bundle for masking sensitive data](https://dev.to/alkin/i-made-a-symfony-bundle-for-masking-sensitive-data-3b1f)
-- [My AI visibility score was 78%. Then I fixed how I measured it and it was 25%](https://dev.to/reidify/my-ai-visibility-score-was-78-then-i-fixed-how-i-measured-it-and-it-was-25-4h5b)
-- [GitHub&#39;s Copilot SDK for Java: What Running Agents in Spring Boot Without Frameworks Reveals About Tool Integration](https://dev.to/mech_app_ai/githubs-copilot-sdk-for-java-what-running-agents-in-spring-boot-without-frameworks-reveals-about-282m)
+- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-4i4d)
+- [The 4,000-Token Tax: Auto-Disabling Claude Code Plugins You Haven&#39;t Touched in 30 Days](https://dev.to/bokuwalily/the-4000-token-tax-auto-disabling-claude-code-plugins-you-havent-touched-in-30-days-ac5)
+- [Computer Says Fraud](https://dev.to/rawveg/computer-says-fraud-30f8)
+- [Building a Production AI Platform: Kubernetes, GitOps, IaC, Security, and Observability](https://dev.to/sushyam_nagallapati/building-a-production-ai-platform-kubernetes-gitops-iac-security-and-observability-3732)
 <!-- BLOG-POST-LIST:END -->
 
