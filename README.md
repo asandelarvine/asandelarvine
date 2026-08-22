@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Site list scrolls to top on every delete — fixing the missing keepScroll argument across 6 call sites](https://dev.to/susumun/site-list-scrolls-to-top-on-every-delete-fixing-the-missing-keepscroll-argument-across-6-call-1lki)
-- [PostHog Capture Treats an Epoch Timestamp as Ingestion Time](https://dev.to/aleksuix/posthog-capture-treats-an-epoch-timestamp-as-ingestion-time-2bng)
-- [What is RAG? How Retrieval-Augmented Generation Works](https://dev.to/mryadavgulshan/what-is-rag-how-retrieval-augmented-generation-works-5ebp)
-- [The Hard Part of AI Coding Isn’t Using AI. It’s Knowing When Not to Trust It.](https://dev.to/sizzlebop/the-hard-part-of-ai-coding-isnt-using-ai-its-knowing-when-not-to-trust-it-2mhp)
+- [Kubernetes Basics for DevOps Engineers](https://dev.to/tejas_kp/kubernetes-basics-for-devops-engineers-3ml9)
+- [I pentested my own AI hub and shipped the method, not the map](https://dev.to/mk023/i-pentested-my-own-ai-hub-and-shipped-the-method-not-the-map-4k3n)
+- [FieldOS, Part 1: I Built the Core System and Timed Every Single Hour](https://dev.to/scott_steinmetz/fieldos-part-1-i-built-the-core-system-and-timed-every-single-hour-2ig6)
+- [topowatch: audita el Attack Success Rate de tu workspace contra inyección indirecta](https://dev.to/magopredator/topowatch-audita-el-attack-success-rate-de-tu-workspace-contra-inyeccion-indirecta-2klh)
 <!-- BLOG-POST-LIST:END -->
 
