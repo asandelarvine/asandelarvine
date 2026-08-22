@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop chasing fads. Operate Claude like a startup founder.](https://dev.to/triberoi/stop-chasing-fads-operate-claude-like-a-startup-founder-2l1b)
-- [Building a Custom REST API in WordPress the Right Way](https://dev.to/kai01916/building-a-custom-rest-api-in-wordpress-the-right-way-164m)
-- [Ruby Pathname Moved to Core, Documentation Upgraded](https://dev.to/burdettelamar/ruby-pathname-moved-to-core-documentation-upgraded-3d00)
-- [How I turned Linear into a customer-facing roadmap without adding client seats](https://dev.to/l_dragssinel_b6c789f3c4b/how-i-turned-linear-into-a-customer-facing-roadmap-without-adding-client-seats-3od0)
+- [Punk: Fully Authed](https://dev.to/lnation/punk-fully-authed-3d3g)
+- [Understanding the Git Workflow: Working Directory, Staging, Commit and Push.](https://dev.to/9ichia/understanding-the-git-workflow-working-directory-staging-commit-and-push-226i)
+- [Everyone is hyping Claude Code. I used Google Jules to build and ship a phone tracking app—entirely from my phone on the beach.](https://dev.to/gents_83/everyone-is-hyping-claude-code-i-used-google-jules-to-build-and-ship-a-location-sharing-4o1e)
+- [How I Built a Trading Value Tool for a Game With Constantly Changing Data](https://dev.to/bloxy123/how-i-built-a-trading-value-tool-for-a-game-with-constantly-changing-data-4ick)
 <!-- BLOG-POST-LIST:END -->
 
