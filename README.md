@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Punk: Fully Authed](https://dev.to/lnation/punk-fully-authed-3d3g)
-- [Understanding the Git Workflow: Working Directory, Staging, Commit and Push.](https://dev.to/9ichia/understanding-the-git-workflow-working-directory-staging-commit-and-push-226i)
-- [Everyone is hyping Claude Code. I used Google Jules to build and ship a phone tracking app—entirely from my phone on the beach.](https://dev.to/gents_83/everyone-is-hyping-claude-code-i-used-google-jules-to-build-and-ship-a-location-sharing-4o1e)
-- [How I Built a Trading Value Tool for a Game With Constantly Changing Data](https://dev.to/bloxy123/how-i-built-a-trading-value-tool-for-a-game-with-constantly-changing-data-4ick)
+- [The Rate Floor Doesn&#39;t Exist: Tech Contracting Has Become a Race the Market Never Agreed to Run](https://dev.to/javiercastromdq/the-rate-floor-doesnt-exist-tech-contracting-has-become-a-race-the-market-never-agreed-to-run-480p)
+- [The Meeting You Skipped Was the One That Actually Mattered](https://dev.to/javiercastromdq/the-meeting-you-skipped-was-the-one-that-actually-mattered-3i44)
+- [Hybrid Delivery Is Winning. That Doesn&#39;t Mean You&#39;re Doing It Right.](https://dev.to/javiercastromdq/hybrid-delivery-is-winning-that-doesnt-mean-youre-doing-it-right-476p)
+- [Forms in React : From Inputs to Controlled Components](https://dev.to/silaslelei/forms-in-react-from-inputs-to-controlled-components-2e23)
 <!-- BLOG-POST-LIST:END -->
 
