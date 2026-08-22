@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Microsoft Azure Certifications in 2026: Value, Trends, and Blueprint Strategy](https://dev.to/jordancarterdevv/navigating-microsoft-azure-certifications-in-2026-value-trends-and-blueprint-strategy-30k2)
-- [grow-hack: An AI Pipeline That Turns Any GitHub Repo Into Professional Docs in Under a Minute](https://dev.to/ganesh_bora_12e6afdf2c7f0/grow-hack-an-ai-pipeline-that-turns-any-github-repo-into-professional-docs-in-under-a-minute-17f1)
-- [Cómo solucionar el error “Enable JavaScript and cookies to continue”](https://dev.to/erickeduardoramos03/como-solucionar-el-error-enable-javascript-and-cookies-to-continue-l0f)
-- [Similarity isn&#39;t relevance: the hard part of semantic search](https://dev.to/divyakush/similarity-isnt-relevance-the-hard-part-of-semantic-search-4oh)
+- [Downloading and Running a Kali Linux VM in VirtualBox on Windows](https://dev.to/muneebahmedkhanwriting/downloading-and-running-a-kali-linux-vm-in-virtualbox-on-windows-51hl)
+- [I made a Symfony bundle for masking sensitive data](https://dev.to/alkin/i-made-a-symfony-bundle-for-masking-sensitive-data-3b1f)
+- [My AI visibility score was 78%. Then I fixed how I measured it and it was 25%](https://dev.to/reidify/my-ai-visibility-score-was-78-then-i-fixed-how-i-measured-it-and-it-was-25-4h5b)
+- [GitHub&#39;s Copilot SDK for Java: What Running Agents in Spring Boot Without Frameworks Reveals About Tool Integration](https://dev.to/mech_app_ai/githubs-copilot-sdk-for-java-what-running-agents-in-spring-boot-without-frameworks-reveals-about-282m)
 <!-- BLOG-POST-LIST:END -->
 
