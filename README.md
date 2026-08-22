@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Handwriting Effect on the Web: A Solution Without Static Webfonts](https://dev.to/pavkode/dynamic-handwriting-effect-on-the-web-a-solution-without-static-webfonts-32e9)
-- [Declarative Edge Orchestration: Cloudflare Workers &amp; n8n for SaaS Automation](https://dev.to/mtahir27/declarative-edge-orchestration-cloudflare-workers-n8n-for-saas-automation-ha)
-- [Educational tools deserve production-grade polish](https://dev.to/divyakush/educational-tools-deserve-production-grade-polish-5f86)
-- [Reordering an overflowing job queue does not shrink it. Splitting it does.](https://dev.to/takahiro_hashito_a1f3f0dc/reordering-an-overflowing-job-queue-does-not-shrink-it-splitting-it-does-5131)
+- [Why a 99% Cache Hit Rate Is 10x Faster Than 90% &lpar;Not 9%&rpar;](https://dev.to/dilip_v_p/why-a-99-cache-hit-rate-is-10x-faster-than-90-not-9-32bh)
+- [Understanding Git Workflows](https://dev.to/eduxic/understanding-git-workflows-4i52)
+- [What I learned building a job-description importer that needs a manual fallback](https://dev.to/shortliststudio/what-i-learned-building-a-job-description-importer-that-needs-a-manual-fallback-575m)
+- [The Bug That Kept Coming Back in Framer Motion](https://dev.to/carlosjcastrog/the-bug-that-kept-coming-back-in-framer-motion-2kmh)
 <!-- BLOG-POST-LIST:END -->
 
