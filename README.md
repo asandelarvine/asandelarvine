@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern HTML5 Web Oyun Platformlarında Performans ve Güvenlik Yaklaşımı: Palamut Oyun](https://dev.to/palamutoyun/modern-html5-web-oyun-platformlarinda-performans-ve-guvenlik-yaklasimi-palamut-oyun-1fhj)
-- [Make Retry Idempotency an Invariant Before You Move a Batch Job to a Free Model Endpoint](https://dev.to/robinzzz/make-retry-idempotency-an-invariant-before-you-move-a-batch-job-to-a-free-model-endpoint-ad0)
-- [Rust Build Scripts Executed Malware From a Crate With 245 Million Downloads](https://dev.to/etairos/rust-build-scripts-executed-malware-from-a-crate-with-245-million-downloads-1fog)
-- [field-cage: a local-first alternative for GitHub Actions egress control](https://dev.to/takihito/field-cage-a-local-first-alternative-for-github-actions-egress-control-3agl)
+- [How to Build a Local-Service Site That Can Answer ‘Can You Fix My RV Today?’](https://dev.to/alexshev/how-to-build-a-local-service-site-that-can-answer-can-you-fix-my-rv-today-5ad3)
+- [MY FIRST GITHUB PROJECT](https://dev.to/adrian_mageto/my-first-github-project-268j)
+- [Token Budget Alarm on a Free Server](https://dev.to/devrs_886/token-budget-alarm-on-a-free-server-4679)
+- [Grok Decrypted an Attacker&#39;s Payload Mid-Execution, Then Exfiltrated Your Chat History](https://dev.to/coridev/grok-decrypted-an-attackers-payload-mid-execution-then-exfiltrated-your-chat-history-1f49)
 <!-- BLOG-POST-LIST:END -->
 
