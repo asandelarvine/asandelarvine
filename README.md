@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-4i4d)
-- [The 4,000-Token Tax: Auto-Disabling Claude Code Plugins You Haven&#39;t Touched in 30 Days](https://dev.to/bokuwalily/the-4000-token-tax-auto-disabling-claude-code-plugins-you-havent-touched-in-30-days-ac5)
-- [Computer Says Fraud](https://dev.to/rawveg/computer-says-fraud-30f8)
-- [Building a Production AI Platform: Kubernetes, GitOps, IaC, Security, and Observability](https://dev.to/sushyam_nagallapati/building-a-production-ai-platform-kubernetes-gitops-iac-security-and-observability-3732)
+- [Build a Real-Time Polymarket Order Book Monitor with Python](https://dev.to/xniiinx/build-a-real-time-polymarket-order-book-monitor-with-python-10pf)
+- [How to Check Closed-Source Firmware for Known CVEs &lpar;No Source Code Needed&rpar;](https://dev.to/rockyyy/how-to-check-closed-source-firmware-for-known-cves-no-source-code-needed-a0m)
+- [완전자동매매 시스템에 사람이 직접 개입해야 했던 사례 3가지](https://dev.to/finaltype/wanjeonjadongmaemae-siseuteme-sarami-jigjeob-gaeibhaeya-haessdeon-sarye-3gaji-21c6)
+- [3 Cases Where Fully Automated Trading Still Needed a Human](https://dev.to/finaltype/3-cases-where-fully-automated-trading-still-needed-a-human-5d0d)
 <!-- BLOG-POST-LIST:END -->
 
