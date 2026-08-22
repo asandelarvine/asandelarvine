@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Which SQL Database Should You Install?](https://dev.to/michaelnocito/which-sql-database-should-you-install-1i9n)
-- [NULL in SQL: Why = NULL Finds Nothing and What to Write Instead](https://dev.to/michaelnocito/null-in-sql-why-null-finds-nothing-and-what-to-write-instead-4b64)
-- [Month-over-Month Growth in SQL: LAG, the Growth Formula, and the Traps](https://dev.to/michaelnocito/month-over-month-growth-in-sql-lag-the-growth-formula-and-the-traps-5bnp)
-- [How to Find Duplicate Rows in SQL &lpar;and Decide What Counts as One&rpar;](https://dev.to/michaelnocito/how-to-find-duplicate-rows-in-sql-and-decide-what-counts-as-one-1h9i)
+- [JavaScript Sandbox Escape via Type Confusion in isolated-vm](https://dev.to/anoymask/javascript-sandbox-escape-via-type-confusion-in-isolated-vm-4op9)
+- [We put an AI helper in our course and spent weeks teaching it to say I don&#39;t know](https://dev.to/academy_agineai/we-put-an-ai-helper-in-our-course-and-spent-weeks-teaching-it-to-say-i-dont-know-hfc)
+- [¿La IA está sobrescribiendo tus notas? Tres capas de ownership para proteger tu conocimiento](https://dev.to/macorreag/la-ia-esta-sobrescribiendo-tus-notas-tres-capas-de-ownership-para-proteger-tu-conocimiento-3e3l)
+- [Can We Automate the Work of a Software Engineer? The Story Behind HEALER](https://dev.to/_a9de0f38ed294cfb7e5e/can-we-automate-the-work-of-a-software-engineer-the-story-behind-healer-2mge)
 <!-- BLOG-POST-LIST:END -->
 
