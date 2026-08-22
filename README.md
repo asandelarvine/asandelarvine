@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a GitHub repository intelligence API — here&#39;s what I learned](https://dev.to/kingdavid9999/i-built-a-github-repository-intelligence-api-heres-what-i-learned-14ok)
-- [I Turned the GetBirthChart Astrology Engine Into a Python Package](https://dev.to/getbirthchart/i-turned-the-getbirthchart-astrology-engine-into-a-python-package-1mng)
-- [Solana&#39;s 90% Rent Cut: The Economics of SIMD-0437](https://dev.to/sulimanmukhtar/solanas-90-rent-cut-the-economics-of-simd-0437-g18)
-- [Agent State, Memory &amp; Checkpointing: Where the Boundaries Blur](https://dev.to/mahakfaheem/agent-state-memory-checkpointing-where-the-boundaries-blur-3je8)
+- [Sharing memory between processes with java.lang.foreign and jextract](https://dev.to/mishmash-io/sharing-memory-between-processes-with-javalangforeign-and-jextract-ch0)
+- [[Aug 17-22] We Swapped GPUs, Then Kept Finding Blind Spots in Our Own Checks](https://dev.to/finaltype/aug-17-22-we-swapped-gpus-then-kept-finding-blind-spots-in-our-own-checks-3j84)
+- [[260817~0822] 그래픽카드를 바꾼 뒤, 검증 도구들의 허점을 연달아 잡았다](https://dev.to/finaltype/2608170822-geuraepigkadeureul-baggun-dwi-geomjeung-dogudeulyi-heojeomeul-yeondala-jabassda-51i1)
+- [How to Get the Parent Domain from a Cross-Origin Iframe in JavaScript &lpar;Without Losing Your Sanity&rpar;](https://dev.to/bored_dev/how-to-get-the-parent-domain-from-a-cross-origin-iframe-in-javascript-without-losing-your-sanity-1885)
 <!-- BLOG-POST-LIST:END -->
 
