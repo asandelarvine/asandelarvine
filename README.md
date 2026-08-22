@@ -79,14 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS EC2 Deployment — Q&amp;A Reference](https://dev.to/goose2585/aws-ec2-deployment-qa-reference-279b)
-- [No LeetCode. No club leadership. No internship on my resume.
-Still got the offer.
-
-I wrote about how that happened — and it involved a semester I almost didn&#39;t recover from.
-
-What actually got your first interview? 👀](https://dev.to/dj29/no-leetcode-no-club-leadership-no-internship-on-my-resume-still-got-the-offer-i-wrote-about-3d3o)
-- [Hello Everyone](https://dev.to/trenton_toenyes_11a9bb45b/hello-everyone-k1b)
-- [RAG explicado: cómo darle a un LLM tu propia información](https://dev.to/isazajuancarlos/rag-explicado-como-darle-a-un-llm-tu-propia-informacion-2a8b)
+- [Stop chasing fads. Operate Claude like a startup founder.](https://dev.to/triberoi/stop-chasing-fads-operate-claude-like-a-startup-founder-2l1b)
+- [Building a Custom REST API in WordPress the Right Way](https://dev.to/kai01916/building-a-custom-rest-api-in-wordpress-the-right-way-164m)
+- [Ruby Pathname Moved to Core, Documentation Upgraded](https://dev.to/burdettelamar/ruby-pathname-moved-to-core-documentation-upgraded-3d00)
+- [How I turned Linear into a customer-facing roadmap without adding client seats](https://dev.to/l_dragssinel_b6c789f3c4b/how-i-turned-linear-into-a-customer-facing-roadmap-without-adding-client-seats-3od0)
 <!-- BLOG-POST-LIST:END -->
 
