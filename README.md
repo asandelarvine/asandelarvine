@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/barbz04/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-12po)
-- [Tipping on a Pre-Tax vs Post-Tax Base: A Reference Sheet for Engineers Who Build the Math](https://dev.to/lizely/tipping-on-a-pre-tax-vs-post-tax-base-a-reference-sheet-for-engineers-who-build-the-math-57ad)
-- [Tratando de ser un desarrollador AI First sin vender humo](https://dev.to/dezkareid/tratando-de-ser-un-desarrollador-ai-first-sin-vender-humo-2mbd)
-- [How TecDoc Actually Works: A Developer&#39;s Guide to Automotive Parts Fitment Data](https://dev.to/partwiz_autoparts/how-tecdoc-actually-works-a-developers-guide-to-automotive-parts-fitment-data-5d2a)
+- [How I Decide a RAXXO Tool Needs a Redesign, Not a Patch](https://dev.to/raxxostudios/how-i-decide-a-raxxo-tool-needs-a-redesign-not-a-patch-41bn)
+- [Indexing Like a Jedi: How I Tamed My Database](https://dev.to/timevolt/indexing-like-a-jedi-how-i-tamed-my-database-16p0)
+- [An unlikely experiment](https://dev.to/johnrushwrs/an-unlikely-experiment-1ogp)
+- [I built an open API for Nigeria&#39;s 752 universities, polytechnics, and colleges of education](https://dev.to/devfarouqk/i-built-an-open-api-for-nigerias-752-universities-polytechnics-and-colleges-of-education-2a2p)
 <!-- BLOG-POST-LIST:END -->
 
