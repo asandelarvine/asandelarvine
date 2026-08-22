@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Real-Time Polymarket Order Book Monitor with Python](https://dev.to/xniiinx/build-a-real-time-polymarket-order-book-monitor-with-python-10pf)
-- [How to Check Closed-Source Firmware for Known CVEs &lpar;No Source Code Needed&rpar;](https://dev.to/rockyyy/how-to-check-closed-source-firmware-for-known-cves-no-source-code-needed-a0m)
-- [완전자동매매 시스템에 사람이 직접 개입해야 했던 사례 3가지](https://dev.to/finaltype/wanjeonjadongmaemae-siseuteme-sarami-jigjeob-gaeibhaeya-haessdeon-sarye-3gaji-21c6)
-- [3 Cases Where Fully Automated Trading Still Needed a Human](https://dev.to/finaltype/3-cases-where-fully-automated-trading-still-needed-a-human-5d0d)
+- [App Hardening: One Obfuscation Pipeline Across Every Port](https://dev.to/codenameone/app-hardening-one-obfuscation-pipeline-across-every-port-ani)
+- [Convert Image URL to File in Flutter — Exact Code](https://dev.to/mryadavgulshan/convert-image-url-to-file-in-flutter-exact-code-4cf7)
+- [Job Hunt With a Bot?](https://dev.to/debs_obrien/job-hunt-with-a-bot-56g3)
+- [Compressing an image to an exact file size, in the browser](https://dev.to/textmachine/compressing-an-image-to-an-exact-file-size-in-the-browser-12ha)
 <!-- BLOG-POST-LIST:END -->
 
