@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Local-Service Site That Can Answer ‘Can You Fix My RV Today?’](https://dev.to/alexshev/how-to-build-a-local-service-site-that-can-answer-can-you-fix-my-rv-today-5ad3)
-- [MY FIRST GITHUB PROJECT](https://dev.to/adrian_mageto/my-first-github-project-268j)
-- [Token Budget Alarm on a Free Server](https://dev.to/devrs_886/token-budget-alarm-on-a-free-server-4679)
-- [Grok Decrypted an Attacker&#39;s Payload Mid-Execution, Then Exfiltrated Your Chat History](https://dev.to/coridev/grok-decrypted-an-attackers-payload-mid-execution-then-exfiltrated-your-chat-history-1f49)
+- [Dynamic Handwriting Effect on the Web: A Solution Without Static Webfonts](https://dev.to/pavkode/dynamic-handwriting-effect-on-the-web-a-solution-without-static-webfonts-32e9)
+- [Declarative Edge Orchestration: Cloudflare Workers &amp; n8n for SaaS Automation](https://dev.to/mtahir27/declarative-edge-orchestration-cloudflare-workers-n8n-for-saas-automation-ha)
+- [Educational tools deserve production-grade polish](https://dev.to/divyakush/educational-tools-deserve-production-grade-polish-5f86)
+- [Reordering an overflowing job queue does not shrink it. Splitting it does.](https://dev.to/takahiro_hashito_a1f3f0dc/reordering-an-overflowing-job-queue-does-not-shrink-it-splitting-it-does-5131)
 <!-- BLOG-POST-LIST:END -->
 
