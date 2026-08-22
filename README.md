@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your TTS shortlist is three shortlists, and they barely intersect](https://dev.to/aialleyway/your-tts-shortlist-is-three-shortlists-and-they-barely-intersect-jhf)
-- [From Sandbox to Review Queue: My GSoC 2026 Project with OWASP OWTF](https://dev.to/piyush140104/from-sandbox-to-review-queue-my-gsoc-2026-project-with-owasp-owtf-50dd)
-- [Designing a Reasoning Ledger Record](https://dev.to/kenwalger/designing-a-reasoning-ledger-record-22eo)
-- [The Bug That Hid Behind Its Own Comment: Fixing Inconsistent Inference in astroid](https://dev.to/kartikey_d47d5d0a50247b86/the-bug-that-hid-behind-its-own-comment-fixing-inconsistent-inference-in-astroid-10io)
+- [I built a GitHub repository intelligence API — here&#39;s what I learned](https://dev.to/kingdavid9999/i-built-a-github-repository-intelligence-api-heres-what-i-learned-14ok)
+- [I Turned the GetBirthChart Astrology Engine Into a Python Package](https://dev.to/getbirthchart/i-turned-the-getbirthchart-astrology-engine-into-a-python-package-1mng)
+- [Solana&#39;s 90% Rent Cut: The Economics of SIMD-0437](https://dev.to/sulimanmukhtar/solanas-90-rent-cut-the-economics-of-simd-0437-g18)
+- [Agent State, Memory &amp; Checkpointing: Where the Boundaries Blur](https://dev.to/mahakfaheem/agent-state-memory-checkpointing-where-the-boundaries-blur-3je8)
 <!-- BLOG-POST-LIST:END -->
 
