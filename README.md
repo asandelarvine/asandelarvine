@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Sandbox Escape via Type Confusion in isolated-vm](https://dev.to/anoymask/javascript-sandbox-escape-via-type-confusion-in-isolated-vm-4op9)
-- [We put an AI helper in our course and spent weeks teaching it to say I don&#39;t know](https://dev.to/academy_agineai/we-put-an-ai-helper-in-our-course-and-spent-weeks-teaching-it-to-say-i-dont-know-hfc)
-- [¿La IA está sobrescribiendo tus notas? Tres capas de ownership para proteger tu conocimiento](https://dev.to/macorreag/la-ia-esta-sobrescribiendo-tus-notas-tres-capas-de-ownership-para-proteger-tu-conocimiento-3e3l)
-- [Can We Automate the Work of a Software Engineer? The Story Behind HEALER](https://dev.to/_a9de0f38ed294cfb7e5e/can-we-automate-the-work-of-a-software-engineer-the-story-behind-healer-2mge)
+- [Site list scrolls to top on every delete — fixing the missing keepScroll argument across 6 call sites](https://dev.to/susumun/site-list-scrolls-to-top-on-every-delete-fixing-the-missing-keepscroll-argument-across-6-call-1lki)
+- [PostHog Capture Treats an Epoch Timestamp as Ingestion Time](https://dev.to/aleksuix/posthog-capture-treats-an-epoch-timestamp-as-ingestion-time-2bng)
+- [What is RAG? How Retrieval-Augmented Generation Works](https://dev.to/mryadavgulshan/what-is-rag-how-retrieval-augmented-generation-works-5ebp)
+- [The Hard Part of AI Coding Isn’t Using AI. It’s Knowing When Not to Trust It.](https://dev.to/sizzlebop/the-hard-part-of-ai-coding-isnt-using-ai-its-knowing-when-not-to-trust-it-2mhp)
 <!-- BLOG-POST-LIST:END -->
 
