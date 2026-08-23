@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Offline_SOS_System](https://dev.to/annaraokoduri/offlinesossystem-2bdp)
-- [Jesus Was Right. You Are God and Infinite.](https://dev.to/wiseai/jesus-was-right-you-are-god-and-infinite-6cc)
-- [Rate Limits Cost Me a Whole Night of Work — Here&#39;s the 46-Line Script That Fixed It](https://dev.to/bokuwalily/rate-limits-cost-me-a-whole-night-of-work-heres-the-46-line-script-that-fixed-it-7o3)
-- [How I recorded my first product demo in 54 seconds &lpar;OBS, ffmpeg, openai.fm&rpar;](https://dev.to/serhii_kalyna_730b636889c/how-i-recorded-my-first-product-demo-in-54-seconds-obs-ffmpeg-openaifm-50eg)
+- [My First GitHub Project: From a Local Folder to GitHub Using Git &amp; SSH](https://dev.to/mich2025/my-first-github-project-from-a-local-folder-to-github-using-git-ssh-5gi2)
+- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH.](https://dev.to/gabriel_wainaina_f7281529/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-34jj)
+- [Product Engineering Alignment](https://dev.to/mjodeh/product-engineering-alignment-lj)
+- [Shipping Stock CLIs as Subprocess Instead of Static-Linking SDKs](https://dev.to/jearry/shipping-stock-clis-as-subprocess-instead-of-static-linking-sdks-1jl8)
 <!-- BLOG-POST-LIST:END -->
 
