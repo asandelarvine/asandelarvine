@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why engineers need commercial awareness, not just technical depth](https://dev.to/divyakush/why-engineers-need-commercial-awareness-not-just-technical-depth-3o19)
-- [Keeping Mac work alive without pretending awake means safe](https://dev.to/afterlid/keeping-mac-work-alive-without-pretending-awake-means-safe-4j8m)
-- [Checking Polish companies from code: VAT, KRS, REGON, EU VAT &lpar;REST + Python + MCP&rpar;](https://dev.to/bartoszkuc/checking-polish-companies-from-code-vat-krs-regon-eu-vat-rest-python-mcp-2pkc)
-- [A hackathon is a compression test for how you actually work](https://dev.to/divyakush/a-hackathon-is-a-compression-test-for-how-you-actually-work-cf4)
+- [Seven interview rounds is a confession that your bar is broken](https://dev.to/adioof/seven-interview-rounds-is-a-confession-that-your-bar-is-broken-4ig2)
+- [GSoC 2026 Final Report: Automated Webpack Documentation Pipeline 💫](https://dev.to/moshams272/gsoc-2026-final-report-automated-webpack-documentation-pipeline-472b)
+- [🧐 ECS Express Mode vs Traditional ECS: A Hands-on Comparison with Terraform](https://dev.to/aws-builders/ecs-express-mode-vs-traditional-ecs-a-hands-on-comparison-with-terraform-cnp)
+- [As I said, Alea AIcta est.](https://dev.to/dveb/as-i-said-alea-aicta-est-17i1)
 <!-- BLOG-POST-LIST:END -->
 
