@@ -79,14 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Supply-Chain Worm Wrote Itself Into Claude Code&#39;s Hook Files to Survive Credential Rotation](https://dev.to/ramdai_bista/a-supply-chain-worm-wrote-itself-into-claude-codes-hook-files-to-survive-credential-rotation-5ce4)
-- [From brute force to optimal: leveling up like a Jedi](https://dev.to/timevolt/from-brute-force-to-optimal-leveling-up-like-a-jedi-2be2)
-- [How to Block Disposable Email Signups Without SMTP Verification](https://dev.to/nproejct/how-to-block-disposable-email-signups-without-smtp-verification-1lk8)
-- [No LeetCode. No club leadership. No internship on my resume.
-Still got the offer.
-
-I wrote about how that happened — and honestly, the path was nowhere near what I expected.
-
-What actually got your first interview? 👀](https://dev.to/dj29/no-leetcode-no-club-leadership-no-internship-on-my-resume-still-got-the-offer-i-wrote-about-1f18)
+- [Building a Streaming Pipeline: From a System Design Perspective](https://dev.to/xheghun/building-a-streaming-pipeline-from-a-system-design-perspective-3ofk)
+- [Three Russian Clusters Are Phishing Auth Flows, Not Passwords: OAuth, App Passwords, and WhatsApp Device Linking](https://dev.to/etairos/three-russian-clusters-are-phishing-auth-flows-not-passwords-oauth-app-passwords-and-whatsapp-mi5)
+- [How a Dedup Pass Deleted My Training Curriculum](https://dev.to/megapixel99/how-a-dedup-pass-deleted-my-training-curriculum-kdf)
+- [Unicode Text in JavaScript: How Fancy Text Generators Actually Work](https://dev.to/textstylr/unicode-text-in-javascript-how-fancy-text-generators-actually-work-1p8o)
 <!-- BLOG-POST-LIST:END -->
 
