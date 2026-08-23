@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Decide a RAXXO Tool Needs a Redesign, Not a Patch](https://dev.to/raxxostudios/how-i-decide-a-raxxo-tool-needs-a-redesign-not-a-patch-41bn)
-- [Indexing Like a Jedi: How I Tamed My Database](https://dev.to/timevolt/indexing-like-a-jedi-how-i-tamed-my-database-16p0)
-- [An unlikely experiment](https://dev.to/johnrushwrs/an-unlikely-experiment-1ogp)
-- [I built an open API for Nigeria&#39;s 752 universities, polytechnics, and colleges of education](https://dev.to/devfarouqk/i-built-an-open-api-for-nigerias-752-universities-polytechnics-and-colleges-of-education-2a2p)
+- [Your Agent Loop Is Lying About Being Done: Writing Verifiable Stop Conditions](https://dev.to/shipwithaiio/your-agent-loop-is-lying-about-being-done-writing-verifiable-stop-conditions-270p)
+- [I failed at time management five times. Then I audited where the time actually went.](https://dev.to/hyunho_lee_e4373878e60f62/i-failed-at-time-management-five-times-then-i-audited-where-the-time-actually-went-ode)
+- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH.](https://dev.to/alfred-otuko/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-3lae)
+- [Github Project Workflow: Local Folder - Github](https://dev.to/njenga_allan/github-project-workflow-local-folder-github-10pk)
 <!-- BLOG-POST-LIST:END -->
 
