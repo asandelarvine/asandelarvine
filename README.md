@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Domux: a compact open model for smart-home command understanding at the edge](https://dev.to/sparkllm/domux-a-compact-open-model-for-smart-home-command-understanding-at-the-edge-f8l)
-- [BrunnerCTF : WordPressed to Root Writeup](https://dev.to/exploitnotes/brunnerctf-wordpressed-to-root-writeup-3o62)
-- [What if you don&#39;t have to build a login page again?](https://dev.to/muhammadkholidb/what-if-you-dont-have-to-build-a-login-page-again-36ag)
-- [Knowing When to Use If/Else vs. Switch in JavaScript](https://dev.to/joelezema/knowing-when-to-use-ifelse-vs-switch-in-javascript-3777)
+- [I spent one day smashing three real open source bugs](https://dev.to/aniruddhaadak/i-spent-one-day-smashing-three-real-open-source-bugs-4b74)
+- [Ryker: In-Browser Visual Editor for HTML and Markdown with agent-ready change exports](https://dev.to/gbti/ryker-turn-html-and-markdown-edits-into-agent-ready-change-requests-3o6c)
+- [I Built Blason to Learn Full-Stack Architecture](https://dev.to/monsieur_fotso_2a50cd3d46/i-built-blason-to-learn-full-stack-architecture-fn5)
+- [&quot;The write was acknowledged&quot; means less than you think](https://dev.to/saqibameen86/the-write-was-acknowledged-means-less-than-you-think-4nm8)
 <!-- BLOG-POST-LIST:END -->
 
