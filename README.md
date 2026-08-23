@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ByteByteGo in 2026: Is It Still Worth It for System Design Interview Prep?](https://dev.to/somadevtoo/bytebytego-in-2026-is-it-still-worth-it-for-system-design-interview-prep-2dgn)
-- [Node.js Product Analytics-Style API: 3 Metrics Dashboard Rollback Drills](https://dev.to/wyattsterling5738/nodejs-product-analytics-style-api-3-metrics-dashboard-rollback-drills-54l7)
-- [Azure Integration Services Interview Prep Part 3: Managed Identity, Key Vault, VNet , Private Endpoints, NSGs, RBAC and Token Validation](https://dev.to/manoharij/azure-integration-services-interview-prep-part-3-managed-identity-key-vault-vnet-private-5646)
-- [Level 100: Claude foundations](https://dev.to/kobester_nz/level-100-claude-foundations-16ln)
+- [Two Pieces of Code, Same Answer — Which One Should You Write?](https://dev.to/yuudaikido/two-pieces-of-code-same-answer-which-one-should-you-write-2p43)
+- [De atendimento e logística para a programação.](https://dev.to/gnandes7/de-atendimento-e-logistica-para-a-programacao-1cjj)
+- [No More Midnight Deploys: The Magic of Blue-Green Deployments](https://dev.to/saurav_tb_pandey/no-more-midnight-deploys-the-magic-of-blue-green-deployments-4b29)
+- [Why LLMs Are Bad at Math, Explained Simply](https://dev.to/james_anderson_h/why-llms-are-bad-at-math-explained-simply-3omj)
 <!-- BLOG-POST-LIST:END -->
 
