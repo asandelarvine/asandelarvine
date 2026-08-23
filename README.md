@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessibility remediation is software engineering, not a checklist](https://dev.to/praiztech/accessibility-remediation-is-software-engineering-not-a-checklist-3d64)
-- [You Probably Don&#39;t Need a Server For That](https://dev.to/virtual_texttools_2036eb/you-probably-dont-need-a-server-for-that-4ffi)
-- [We Taught a 230M Language Model to Keep Learning on Android](https://dev.to/ijulin/we-taught-a-230m-language-model-to-keep-learning-on-android-36hl)
-- [My agents kept overwriting each other, so I gave them claims](https://dev.to/alkisyuv/my-agents-kept-overwriting-each-other-so-i-gave-them-claims-2h8k)
+- [How we run five coding agents side by side in one window](https://dev.to/eliseomdq/how-we-run-five-coding-agents-side-by-side-in-one-window-32gf)
+- [I pushed the badBANANA Threat Observatory public](https://dev.to/gnomeman4201/i-pushed-the-badbanana-threat-observatory-public-49e8)
+- [Trusted AI Agent Transactions, Part 4: PingAuthorize Policy Decisions](https://dev.to/darkedges/trusted-ai-agent-transactions-part-4-pingauthorize-policy-decisions-3ik8)
+- [Trusted AI Agent Transactions, Part 3: SPIRE Workload Identity](https://dev.to/darkedges/trusted-ai-agent-transactions-part-3-spire-workload-identity-1gfb)
 <!-- BLOG-POST-LIST:END -->
 
