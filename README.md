@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Find Which WordPress Plugin Actually Generated a Canonical Tag](https://dev.to/floliv/how-to-find-which-wordpress-plugin-actually-generated-a-canonical-tag-238n)
-- [Building a Self-Correcting AI Agent with Reflection Loops in Python](https://dev.to/ayinedjimi-consultants/building-a-self-correcting-ai-agent-with-reflection-loops-in-python-hda)
-- [A Practical Taxonomy for Ecommerce Support Questions](https://dev.to/wukongchat/a-practical-taxonomy-for-ecommerce-support-questions-4gc3)
-- [Designing AI Assistance for Agents, Not Just Automation](https://dev.to/wukongchat/designing-ai-assistance-for-agents-not-just-automation-5b3m)
+- [I built a daily JavaScript puzzle game where a wrong answer physically can&#39;t ship](https://dev.to/ashhwani/i-built-a-daily-javascript-puzzle-game-where-a-wrong-answer-physically-cant-ship-4pih)
+- [I Built Format-on-Save for Everything That Isn&#39;t an Editor](https://dev.to/amartyadev/i-built-format-on-save-for-everything-that-isnt-an-editor-3dpm)
+- [Migrating a 5-year-old React admin app from CRA + Webpack to Vite + SWC — 166 files, 70 days](https://dev.to/prince_panchani_f971a20ec/migrating-a-5-year-old-react-admin-app-from-cra-webpack-to-vite-swc-166-files-70-days-4g6l)
+- [Old Iron Earns More: A Technical Look at RustChain Proof-of-Antiquity](https://dev.to/shamylbm/old-iron-earns-more-a-technical-look-at-rustchain-proof-of-antiquity-1dkf)
 <!-- BLOG-POST-LIST:END -->
 
