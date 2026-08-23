@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Agent Loop Is Lying About Being Done: Writing Verifiable Stop Conditions](https://dev.to/shipwithaiio/your-agent-loop-is-lying-about-being-done-writing-verifiable-stop-conditions-270p)
-- [I failed at time management five times. Then I audited where the time actually went.](https://dev.to/hyunho_lee_e4373878e60f62/i-failed-at-time-management-five-times-then-i-audited-where-the-time-actually-went-ode)
-- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH.](https://dev.to/alfred-otuko/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-3lae)
-- [Github Project Workflow: Local Folder - Github](https://dev.to/njenga_allan/github-project-workflow-local-folder-github-10pk)
+- [ByteByteGo in 2026: Is It Still Worth It for System Design Interview Prep?](https://dev.to/somadevtoo/bytebytego-in-2026-is-it-still-worth-it-for-system-design-interview-prep-2dgn)
+- [Node.js Product Analytics-Style API: 3 Metrics Dashboard Rollback Drills](https://dev.to/wyattsterling5738/nodejs-product-analytics-style-api-3-metrics-dashboard-rollback-drills-54l7)
+- [Azure Integration Services Interview Prep Part 3: Managed Identity, Key Vault, VNet , Private Endpoints, NSGs, RBAC and Token Validation](https://dev.to/manoharij/azure-integration-services-interview-prep-part-3-managed-identity-key-vault-vnet-private-5646)
+- [Level 100: Claude foundations](https://dev.to/kobester_nz/level-100-claude-foundations-16ln)
 <!-- BLOG-POST-LIST:END -->
 
