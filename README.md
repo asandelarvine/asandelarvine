@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My First GitHub Project: From a Local Folder to GitHub Using Git &amp; SSH](https://dev.to/mich2025/my-first-github-project-from-a-local-folder-to-github-using-git-ssh-5gi2)
-- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH.](https://dev.to/gabriel_wainaina_f7281529/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-34jj)
-- [Product Engineering Alignment](https://dev.to/mjodeh/product-engineering-alignment-lj)
-- [Shipping Stock CLIs as Subprocess Instead of Static-Linking SDKs](https://dev.to/jearry/shipping-stock-clis-as-subprocess-instead-of-static-linking-sdks-1jl8)
+- [#Git Workflow](https://dev.to/tkay/git-workflow-543p)
+- [What 166K Clicks Taught Me About Using AI for SEO](https://dev.to/iammofidul/what-166k-clicks-taught-me-about-using-ai-for-seo-1pe6)
+- [From MKDIR to GIT PUSH: What Actually Happens to a Project?](https://dev.to/esther_njihia/from-mkdir-to-git-push-what-actually-happens-to-a-project-1ang)
+- [MCP Security: Threat Model &amp; Hardening Guide &lpar;2026&rpar;](https://dev.to/prabhu_kalyansamal_f743d/-mcp-security-threat-model-hardening-guide-2026--3enn)
 <!-- BLOG-POST-LIST:END -->
 
