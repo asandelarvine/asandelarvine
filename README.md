@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your degree got you the interview. This is why it isn&#39;t getting you the job.](https://dev.to/theworkbehindtheluck/your-degree-got-you-the-interview-this-is-why-it-isnt-getting-you-the-job-30o6)
-- [Mix and Match: One Agent, Three Clouds, One Protocol](https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l)
-- [Mix and Match: Serving an ADK Agent to AWS and Azure](https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f)
-- [Healthtech Welcome Email — 4 API Signals Before Raising Dedicated-Domain Volume](https://dev.to/marcorossi4891/healthtech-welcome-email-4-api-signals-before-raising-dedicated-domain-volume-1jbe)
+- [Building an Open Turkish EV Charging Intent Dataset](https://dev.to/birdircik/building-an-open-turkish-ev-charging-intent-dataset-571p)
+- [.NET 10 NU1015: Fix PackageReference Without Version Restore Failures](https://dev.to/ssukhpinder/net-10-nu1015-fix-packagereference-without-version-restore-failures-4741)
+- [Proof-of-Antiquity vs Proof-of-Stake: Why Hardware Diversity Beats Wealth Concentration](https://dev.to/shamylbm/proof-of-antiquity-vs-proof-of-stake-why-hardware-diversity-beats-wealth-concentration-3528)
+- [How to test your LLM app for prompt injection: promptfoo vs garak vs Giskard vs PyRIT vs sentinel-scan-cli](https://dev.to/ventrova/how-to-test-your-llm-app-for-prompt-injection-promptfoo-vs-garak-vs-giskard-vs-pyrit-vs-2oim)
 <!-- BLOG-POST-LIST:END -->
 
