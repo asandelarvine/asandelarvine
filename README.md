@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [#Git Workflow](https://dev.to/tkay/git-workflow-543p)
-- [What 166K Clicks Taught Me About Using AI for SEO](https://dev.to/iammofidul/what-166k-clicks-taught-me-about-using-ai-for-seo-1pe6)
-- [From MKDIR to GIT PUSH: What Actually Happens to a Project?](https://dev.to/esther_njihia/from-mkdir-to-git-push-what-actually-happens-to-a-project-1ang)
-- [MCP Security: Threat Model &amp; Hardening Guide &lpar;2026&rpar;](https://dev.to/prabhu_kalyansamal_f743d/-mcp-security-threat-model-hardening-guide-2026--3enn)
+- [How to Check a Palindrome in Python](https://dev.to/adhi_sankar_45ccfb9350749/how-to-check-a-palindrome-in-python-4of1)
+- [Iskor Devlog #1 - Learning a Little Bit of Everything](https://dev.to/jedct/iskor-devlog-1-learning-a-little-bit-of-everything-243f)
+- [Test-Driven Development: My Jedi Training](https://dev.to/timevolt/test-driven-development-my-jedi-training-5a1o)
+- [Stop writing the same custom HTTP wrapper in every project](https://dev.to/sovan_kandar_cfc10d231218/stop-writing-the-same-custom-http-wrapper-in-every-project-1gka)
 <!-- BLOG-POST-LIST:END -->
 
