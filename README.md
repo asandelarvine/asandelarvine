@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Pieces of Code, Same Answer — Which One Should You Write?](https://dev.to/yuudaikido/two-pieces-of-code-same-answer-which-one-should-you-write-2p43)
-- [De atendimento e logística para a programação.](https://dev.to/gnandes7/de-atendimento-e-logistica-para-a-programacao-1cjj)
-- [No More Midnight Deploys: The Magic of Blue-Green Deployments](https://dev.to/saurav_tb_pandey/no-more-midnight-deploys-the-magic-of-blue-green-deployments-4b29)
-- [Why LLMs Are Bad at Math, Explained Simply](https://dev.to/james_anderson_h/why-llms-are-bad-at-math-explained-simply-3omj)
+- [Offline_SOS_System](https://dev.to/annaraokoduri/offlinesossystem-2bdp)
+- [Jesus Was Right. You Are God and Infinite.](https://dev.to/wiseai/jesus-was-right-you-are-god-and-infinite-6cc)
+- [Rate Limits Cost Me a Whole Night of Work — Here&#39;s the 46-Line Script That Fixed It](https://dev.to/bokuwalily/rate-limits-cost-me-a-whole-night-of-work-heres-the-46-line-script-that-fixed-it-7o3)
+- [How I recorded my first product demo in 54 seconds &lpar;OBS, ffmpeg, openai.fm&rpar;](https://dev.to/serhii_kalyna_730b636889c/how-i-recorded-my-first-product-demo-in-54-seconds-obs-ffmpeg-openaifm-50eg)
 <!-- BLOG-POST-LIST:END -->
 
