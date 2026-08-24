@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hey DEV! I&#39;m Stefan — TYPO3 dev, and I just launched a page of free browser tools](https://dev.to/stefan_andres_07/hey-dev-im-stefan-typo3-dev-and-i-just-launched-a-page-of-free-browser-tools-4h65)
-- [C++ Tool That Extracts Text From Scrolling Screen Recordings](https://dev.to/plexescor/c-tool-that-extracts-text-from-scrolling-screen-recordings-30f6)
-- [6 Pitfalls of Building a Multilingual Site with Next.js 15: From Query Strings to URL Paths](https://dev.to/utlkit/6-pitfalls-of-building-a-multilingual-site-with-nextjs-15-from-query-strings-to-url-paths-51fh)
-- [Designing Intelligence: From Ad-Hoc Prompts to Enterprise AI Skills](https://dev.to/balagmadhu/designing-intelligence-from-ad-hoc-prompts-to-enterprise-ai-skills-1mmc)
+- [SSE in Go: Your Timeouts Do Not Apply Where You Think](https://dev.to/julesrobineau/sse-in-go-your-timeouts-do-not-apply-where-you-think-3gp8)
+- [Effective Engagement Management in Enterprise Architecture Projects](https://dev.to/chtwilfer/effective-engagement-management-in-enterprise-architecture-projects-3hli)
+- [Day 55: Kubernetes Sidecar Containers](https://dev.to/janak0ff/day-55-kubernetes-sidecar-containers-np2)
+- [Chunking: the most underrated decision in your RAG pipeline](https://dev.to/fetchply/chunking-the-most-underrated-decision-in-your-rag-pipeline-1eg7)
 <!-- BLOG-POST-LIST:END -->
 
