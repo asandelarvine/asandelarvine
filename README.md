@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Vggt-1b-Depth model by Vufinder on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-vggt-1b-depth-model-by-vufinder-on-replicate-2fai)
-- [A beginner&#39;s guide to the Unirig-Ai model by Aaronjmars on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-unirig-ai-model-by-aaronjmars-on-replicate-2mia)
-- [A beginner&#39;s guide to the Sharp-Ml model by Kfarr on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-sharp-ml-model-by-kfarr-on-replicate-15g)
-- [A beginner&#39;s guide to the Titanet-Large model by Adirik on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-titanet-large-model-by-adirik-on-replicate-6h6)
+- [AI&#39;s Worst Failure Mode Isn&#39;t Hallucination](https://dev.to/max_quimby/ais-worst-failure-mode-isnt-hallucination-3oo7)
+- [Your agent bill is a context problem, not a budget problem](https://dev.to/sentraai/your-agent-bill-is-a-context-problem-not-a-budget-problem-4mmo)
+- [Giving back to my favorite Bookmarks manager - making it better for everyone](https://dev.to/iabdsam/giving-back-to-my-favorite-bookmarks-manager-making-it-better-for-everyone-513p)
+- [Build a Mini Engineering Graph With TypeScript and GitHub](https://dev.to/bobbyhalljr/build-a-mini-engineering-graph-with-typescript-and-github-4haj)
 <!-- BLOG-POST-LIST:END -->
 
