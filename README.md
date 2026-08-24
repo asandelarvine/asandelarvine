@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Put an Orange In Your Pulp](https://dev.to/vaiolabs_io/put-an-orange-in-your-pulp-38oo)
-- [Porting a 20-Year-Old Game to Mobile: Lessons from RuneScape](https://dev.to/oceanviewgames/porting-a-20-year-old-game-to-mobile-lessons-from-runescape-1d1a)
-- [I Made Stefan Minchev Defend Every Decision in Our Playwright Framework](https://dev.to/idavidov13/i-made-stefan-minchev-defend-every-decision-in-our-playwright-framework-2dfa)
-- [ESP32: Intro](https://dev.to/janadapelahara/esp32-intro-26om)
+- [How AI Models Are Reshaping Cybersecurity — And Why We&#39;re Not Ready](https://dev.to/musespark/how-ai-models-are-reshaping-cybersecurity-and-why-were-not-ready-5gc8)
+- [Nowhere to Put the Disagreement: What a Memory Store Cannot Tell Your Agent](https://dev.to/izgorodin/nowhere-to-put-the-disagreement-what-a-memory-store-cannot-tell-your-agent-369l)
+- [Understanding the Git Workflow:Working directory,staging ,commit and push.](https://dev.to/njorogekristofa/understanding-the-git-workflowworking-directorystaging-commit-and-push-5d3f)
+- [JWT Authentication in Node.js: A Practical Guide &lpar;with Express&rpar;](https://dev.to/akashguptasky/jwt-authentication-in-nodejs-a-practical-guide-with-express-2341)
 <!-- BLOG-POST-LIST:END -->
 
