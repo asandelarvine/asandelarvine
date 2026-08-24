@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Tailscale Without sudo: The Userspace-Networking Trade-offs Nobody Mentions](https://dev.to/devlog/running-tailscale-without-sudo-the-userspace-networking-trade-offs-nobody-mentions-16a3)
-- [Codex PR Review: Automatic Reviews, Triggers, Review Rules](https://dev.to/johnonlee/codex-pr-review-automatic-reviews-triggers-review-rules-2j59)
-- [Managing ChatGPT Memory: Review, Edit, Delete](https://dev.to/johnonlee/managing-chatgpt-memory-review-edit-delete-1j30)
-- [I turned a 30-second security check into an app you can connect to Claude or ChatGPT](https://dev.to/kacper_35e1f61a8f41c3886b/i-turned-a-30-second-security-check-into-an-app-you-can-connect-to-claude-or-chatgpt-3c4f)
+- [The Evolution of China&#39;s Urban Pilot Assist: From &quot;Exam Cramming&quot; to One-Stage End-to-End](https://dev.to/michael_su_2d935214f6d114/the-evolution-of-chinas-urban-pilot-assist-from-exam-cramming-to-one-stage-end-to-end-5bmn)
+- [EF Core bugs that look like correct code](https://dev.to/kazemmdev/ef-core-bugs-that-look-like-correct-code-51j6)
+- [How to Compress a Photo Under a Specific KB Limit on Android](https://dev.to/ahsanpitafi/how-to-compress-a-photo-under-a-specific-kb-limit-on-android-4a8f)
+- [Building an ASCII Art Generator with AI: The Good, The Bad, and The Figlet](https://dev.to/ggwork/building-an-ascii-art-generator-with-ai-the-good-the-bad-and-the-figlet-3d4h)
 <!-- BLOG-POST-LIST:END -->
 
