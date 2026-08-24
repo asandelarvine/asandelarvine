@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Models Are Reshaping Cybersecurity — And Why We&#39;re Not Ready](https://dev.to/musespark/how-ai-models-are-reshaping-cybersecurity-and-why-were-not-ready-5gc8)
-- [Nowhere to Put the Disagreement: What a Memory Store Cannot Tell Your Agent](https://dev.to/izgorodin/nowhere-to-put-the-disagreement-what-a-memory-store-cannot-tell-your-agent-369l)
-- [Understanding the Git Workflow:Working directory,staging ,commit and push.](https://dev.to/njorogekristofa/understanding-the-git-workflowworking-directorystaging-commit-and-push-5d3f)
-- [JWT Authentication in Node.js: A Practical Guide &lpar;with Express&rpar;](https://dev.to/akashguptasky/jwt-authentication-in-nodejs-a-practical-guide-with-express-2341)
+- [qm Gives Every Employee Their Own Agent Sandbox Instead of One Shared Brain](https://dev.to/renolu/qm-gives-every-employee-their-own-agent-sandbox-instead-of-one-shared-brain-42i3)
+- [The Model Scored 30%. The Harness Scored 100%. Which One Did You Benchmark?](https://dev.to/p0rt/the-model-scored-30-the-harness-scored-100-which-one-did-you-benchmark-3mp4)
+- [AI Isn’t Killing Tech Jobs. But It Is Changing Who Gets Hired. 🤖](https://dev.to/akanksha_sharma/ai-isnt-killing-tech-jobs-but-it-is-changing-who-gets-hired-1430)
+- [The Productivity J-Curve](https://dev.to/diyaburman/the-productivity-j-curve-c4f)
 <!-- BLOG-POST-LIST:END -->
 
