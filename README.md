@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET 10 NU1510 Package Pruning: Fix CI Without Breaking Legacy Targets](https://dev.to/ssukhpinder/net-10-nu1510-package-pruning-fix-ci-without-breaking-legacy-targets-5ggd)
-- [6 Sneaky Ways to Get AI to Actually Finish the Code/Email/Essay Instead of Trailing Off Mid-Sentence](https://dev.to/scobsmett/6-sneaky-ways-to-get-ai-to-actually-finish-the-codeemailessay-instead-of-trailing-off-mid-sentence-253d)
-- [PAGI::Server 0.002007: One Contract, Two Transports](https://dev.to/jjn1056/pagiserver-0002007-one-contract-two-transports-4mce)
-- [You Found the ERROR. The Cause Is in the Lines Before It](https://dev.to/_156a59a8566fe532e165/you-found-the-error-the-cause-is-in-the-lines-before-it-1ij2)
+- [Greedy vs. Non-Greedy Regex: Why the Same Pattern Can Match Differently](https://dev.to/susumun/greedy-vs-non-greedy-regex-why-the-same-pattern-can-match-differently-3eg3)
+- [Can AI Remember What It Sees?](https://dev.to/temiloluwavalentine/can-ai-remember-what-it-sees-3ek7)
+- [I Built NameSnap With Codex: Five Lessons About AI-Generated App Design](https://dev.to/marcusykim/i-built-namesnap-with-codex-five-lessons-about-ai-generated-app-design-491a)
+- [comiCSS #255: Yellow](https://dev.to/alvaromontoro/comicss-255-yellow-1bj)
 <!-- BLOG-POST-LIST:END -->
 
