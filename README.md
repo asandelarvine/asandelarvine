@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How we run five coding agents side by side in one window](https://dev.to/eliseomdq/how-we-run-five-coding-agents-side-by-side-in-one-window-32gf)
-- [I pushed the badBANANA Threat Observatory public](https://dev.to/gnomeman4201/i-pushed-the-badbanana-threat-observatory-public-49e8)
-- [Trusted AI Agent Transactions, Part 4: PingAuthorize Policy Decisions](https://dev.to/darkedges/trusted-ai-agent-transactions-part-4-pingauthorize-policy-decisions-3ik8)
-- [Trusted AI Agent Transactions, Part 3: SPIRE Workload Identity](https://dev.to/darkedges/trusted-ai-agent-transactions-part-3-spire-workload-identity-1gfb)
+- [Xiaomi&#39;s First NAS Launches at 2,699 RMB: An Industrial Designer Looks at Smart Storage Design](https://dev.to/asher_hu_42c5945e09721211/xiaomis-first-nas-launches-at-2699-rmb-an-industrial-designer-looks-at-smart-storage-design-89e)
+- [The Context Packet: The Right Architectural Coding Agents](https://dev.to/majdizlitni/the-context-packet-the-right-architectural-coding-agents-5agc)
+- [It Passed Every Test. That&#39;s Why It Can&#39;t Ship Yet.](https://dev.to/ramses203/it-passed-every-test-thats-why-it-cant-ship-yet-3dnm)
+- [Our AI reviewer invented a request. Our producer retried 245 times.](https://dev.to/gxcafellc/our-ai-reviewer-invented-a-request-our-producer-retried-245-times-465f)
 <!-- BLOG-POST-LIST:END -->
 
