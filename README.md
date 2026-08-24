@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Predictions, August 2026](https://dev.to/keithjmackay/ai-predictions-august-2026-56mk)
-- [ChatGPT and Gemini Rarely Agree on Top Local Businesses, Study Finds](https://dev.to/alifar/chatgpt-and-gemini-rarely-agree-on-top-local-businesses-study-finds-4aog)
-- [Free Endpoints Are a Contract, Not a Gift: A Fit Test for Agent Workloads](https://dev.to/codepro_3283/free-endpoints-are-a-contract-not-a-gift-a-fit-test-for-agent-workloads-2h9c)
-- [Node.js Passwordless Phone Login: SMS OTP Resend Cooldowns and Attempt Caps](https://dev.to/ignatiuscole6932/nodejs-passwordless-phone-login-sms-otp-resend-cooldowns-and-attempt-caps-59b0)
+- [.NET 10 NU1510 Package Pruning: Fix CI Without Breaking Legacy Targets](https://dev.to/ssukhpinder/net-10-nu1510-package-pruning-fix-ci-without-breaking-legacy-targets-5ggd)
+- [6 Sneaky Ways to Get AI to Actually Finish the Code/Email/Essay Instead of Trailing Off Mid-Sentence](https://dev.to/scobsmett/6-sneaky-ways-to-get-ai-to-actually-finish-the-codeemailessay-instead-of-trailing-off-mid-sentence-253d)
+- [PAGI::Server 0.002007: One Contract, Two Transports](https://dev.to/jjn1056/pagiserver-0002007-one-contract-two-transports-4mce)
+- [You Found the ERROR. The Cause Is in the Lines Before It](https://dev.to/_156a59a8566fe532e165/you-found-the-error-the-cause-is-in-the-lines-before-it-1ij2)
 <!-- BLOG-POST-LIST:END -->
 
