@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What our coverage number did not protect](https://dev.to/sovantica/what-our-coverage-number-did-not-protect-2ck2)
-- [How to test document management software with 20 real files](https://dev.to/jun-stoatify/how-to-test-document-management-software-with-20-real-files-32e6)
-- [Android SDK for Robot Battery, Power, and Charging Management](https://dev.to/vmodal_ai/android-sdk-for-robot-battery-power-and-charging-management-1b49)
-- [Hey, I&#39;m new here! Documenting my Java, Spring Boot &amp; Applied AI learning journey 👋](https://dev.to/shreya_karka/hey-im-new-here-documenting-my-java-spring-boot-applied-ai-learning-journey-3i75)
+- [AI Predictions, August 2026](https://dev.to/keithjmackay/ai-predictions-august-2026-56mk)
+- [ChatGPT and Gemini Rarely Agree on Top Local Businesses, Study Finds](https://dev.to/alifar/chatgpt-and-gemini-rarely-agree-on-top-local-businesses-study-finds-4aog)
+- [Free Endpoints Are a Contract, Not a Gift: A Fit Test for Agent Workloads](https://dev.to/codepro_3283/free-endpoints-are-a-contract-not-a-gift-a-fit-test-for-agent-workloads-2h9c)
+- [Node.js Passwordless Phone Login: SMS OTP Resend Cooldowns and Attempt Caps](https://dev.to/ignatiuscole6932/nodejs-passwordless-phone-login-sms-otp-resend-cooldowns-and-attempt-caps-59b0)
 <!-- BLOG-POST-LIST:END -->
 
