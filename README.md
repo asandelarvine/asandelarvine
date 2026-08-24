@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Form Is Not Portable If It Contains Callbacks](https://dev.to/lorenzomuschera/your-form-is-not-portable-if-it-contains-callbacks-52d9)
-- [Static Forms in Astro: Handling Submissions Without a Server](https://dev.to/ekwoster/static-forms-in-astro-handling-submissions-without-a-server-7po)
-- [The Validation Rule That Could Never Fail](https://dev.to/robswierk/the-validation-rule-that-could-never-fail-1505)
-- [reCAPTCHA: It’s Not Just “I’m Not a Robot”](https://dev.to/utteshkumar/recaptcha-its-not-just-im-not-a-robot-25da)
+- [The notification system you didn&#39;t plan to build](https://dev.to/elaanio/the-notification-system-you-didnt-plan-to-build-nl6)
+- [Designing Algorithms That Adapt to Their Input Distribution](https://dev.to/derekmwale/designing-algorithms-that-adapt-to-their-input-distribution-118b)
+- [Why scrolling screenshots fall apart on video feeds](https://dev.to/codnet_softwarecompany_7/why-scrolling-screenshots-fall-apart-on-video-feeds-ad0)
+- [Why Javascript isn&#39;t going anywhere in 2026](https://dev.to/ashikurrahamanahad/why-javascript-isnt-going-anywhere-in-2026-ckf)
 <!-- BLOG-POST-LIST:END -->
 
