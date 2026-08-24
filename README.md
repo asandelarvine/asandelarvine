@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenART Red-Teams Stateful Agents Across 10,000 Evolving Environment Scenarios](https://dev.to/aimodels-fyi/openart-red-teams-stateful-agents-across-10000-evolving-environment-scenarios-2063)
-- [RA-Bench Reveals Why Crisis-Video Deepfake Detectors Fail Across Generators and Social Media](https://dev.to/aimodels-fyi/ra-bench-reveals-why-crisis-video-deepfake-detectors-fail-across-generators-and-social-media-4hok)
-- [VMware Appliance OVF Properties update through CLI](https://dev.to/ashishchorge/vmware-appliance-ovf-properties-update-through-cli-1mh2)
-- [Macaron-V1: Continual Learning with Self-Improvement and Mixture-of-LoRA Adapters](https://dev.to/aimodels-fyi/macaron-v1-continual-learning-with-self-improvement-and-mixture-of-lora-adapters-1c45)
+- [One Project Ate the Shared Free Tier: A Per-Project Quota Pattern for LLM Gateways](https://dev.to/codepro_9661/one-project-ate-the-shared-free-tier-a-per-project-quota-pattern-for-llm-gateways-27i2)
+- [What I Learnt Building UrbanLease &lpar;Draft 1&rpar;](https://dev.to/diya_nagdev/what-i-learnt-building-urbanlease-draft-1-622)
+- [10 Million Free Tokens: A Token-Budget Field Test on a Free Server](https://dev.to/codejs_6920/10-million-free-tokens-a-token-budget-field-test-on-a-free-server-3en6)
+- [Green Tests Can Still Be Dead Tests: Auditing Agent-Generated Suites](https://dev.to/applab_743/green-tests-can-still-be-dead-tests-auditing-agent-generated-suites-5ee0)
 <!-- BLOG-POST-LIST:END -->
 
