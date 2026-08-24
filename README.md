@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Our build wave shipped four scrapers that scraped nothing](https://dev.to/devil_scrapes/our-build-wave-shipped-four-scrapers-that-scraped-nothing-1g67)
-- [How I Cut a 2.1 MB JavaScript Bundle to 890 KB With Claude Code](https://dev.to/yureki_lab/how-i-cut-a-21-mb-javascript-bundle-to-890-kb-with-claude-code-2a0p)
-- [Your evals pass. That doesn&#39;t mean they work.](https://dev.to/ashwin_ugale_102f2abc9cec/your-evals-pass-that-doesnt-mean-they-work-ho7)
-- [Your AI Coding Agent Forgets Everything — Fix It With a Free Obsidian Vault](https://dev.to/secondbrainstarter/your-ai-coding-agent-forgets-everything-fix-it-with-a-free-obsidian-vault-1p0i)
+- [Your Form Is Not Portable If It Contains Callbacks](https://dev.to/lorenzomuschera/your-form-is-not-portable-if-it-contains-callbacks-52d9)
+- [Static Forms in Astro: Handling Submissions Without a Server](https://dev.to/ekwoster/static-forms-in-astro-handling-submissions-without-a-server-7po)
+- [The Validation Rule That Could Never Fail](https://dev.to/robswierk/the-validation-rule-that-could-never-fail-1505)
+- [reCAPTCHA: It’s Not Just “I’m Not a Robot”](https://dev.to/utteshkumar/recaptcha-its-not-just-im-not-a-robot-25da)
 <!-- BLOG-POST-LIST:END -->
 
