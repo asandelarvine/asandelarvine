@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The notification system you didn&#39;t plan to build](https://dev.to/elaanio/the-notification-system-you-didnt-plan-to-build-nl6)
-- [Designing Algorithms That Adapt to Their Input Distribution](https://dev.to/derekmwale/designing-algorithms-that-adapt-to-their-input-distribution-118b)
-- [Why scrolling screenshots fall apart on video feeds](https://dev.to/codnet_softwarecompany_7/why-scrolling-screenshots-fall-apart-on-video-feeds-ad0)
-- [Why Javascript isn&#39;t going anywhere in 2026](https://dev.to/ashikurrahamanahad/why-javascript-isnt-going-anywhere-in-2026-ckf)
+- [I Won a Writing Challenge That I Almost Didn&#39;t Publish!](https://dev.to/fm/i-won-a-writing-challenge-that-i-almost-didnt-publish-2cn0)
+- [Authentication Audit Trails: Correlating Risk Events with Session Lifecycle Actions](https://dev.to/lukasschmidt295/authentication-audit-trails-correlating-risk-events-with-session-lifecycle-actions-31e4)
+- [CMTE v2.0 – Real-time Syntactic Telemetry HUD &amp; Engine Stream](https://dev.to/cognimetrics/cmte-v20-real-time-syntactic-telemetry-hud-engine-stream-2bil)
+- [How to Convert Multi-Page PDFs to High-Res Images Client-Side in Vanilla JS &lpar;Zero Server Uploads&rpar;](https://dev.to/nextgenpdf/how-to-convert-multi-page-pdfs-to-high-res-images-client-side-in-vanilla-js-zero-server-uploads-239h)
 <!-- BLOG-POST-LIST:END -->
 
