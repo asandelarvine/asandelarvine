@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Xiaomi&#39;s First NAS Launches at 2,699 RMB: An Industrial Designer Looks at Smart Storage Design](https://dev.to/asher_hu_42c5945e09721211/xiaomis-first-nas-launches-at-2699-rmb-an-industrial-designer-looks-at-smart-storage-design-89e)
-- [The Context Packet: The Right Architectural Coding Agents](https://dev.to/majdizlitni/the-context-packet-the-right-architectural-coding-agents-5agc)
-- [It Passed Every Test. That&#39;s Why It Can&#39;t Ship Yet.](https://dev.to/ramses203/it-passed-every-test-thats-why-it-cant-ship-yet-3dnm)
-- [Our AI reviewer invented a request. Our producer retried 245 times.](https://dev.to/gxcafellc/our-ai-reviewer-invented-a-request-our-producer-retried-245-times-465f)
+- [A beginner&#39;s guide to the Vggt-1b-Depth model by Vufinder on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-vggt-1b-depth-model-by-vufinder-on-replicate-2fai)
+- [A beginner&#39;s guide to the Unirig-Ai model by Aaronjmars on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-unirig-ai-model-by-aaronjmars-on-replicate-2mia)
+- [A beginner&#39;s guide to the Sharp-Ml model by Kfarr on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-sharp-ml-model-by-kfarr-on-replicate-15g)
+- [A beginner&#39;s guide to the Titanet-Large model by Adirik on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-titanet-large-model-by-adirik-on-replicate-6h6)
 <!-- BLOG-POST-LIST:END -->
 
