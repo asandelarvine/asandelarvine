@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get Your First Front End Developer Job With No Experience](https://dev.to/srdan_borovi_584c6b1d773/how-to-get-your-first-front-end-developer-job-with-no-experience-1p1p)
-- [Password Manager Security Audits: What Independent Reviews Reveal About Top Providers](https://dev.to/yaroslav_k/password-manager-security-audits-what-independent-reviews-reveal-about-top-providers-1j26)
-- [Full-Text Search Still Works. It Just Doesn’t Get You to an Answer](https://dev.to/sanikolaev/full-text-search-still-works-it-just-doesnt-get-you-to-an-answer-1dhd)
-- [New advancements in Generative AI](https://dev.to/g_ghuman_8989/new-advancements-in-generative-ai-18jg)
+- [Put an Orange In Your Pulp](https://dev.to/vaiolabs_io/put-an-orange-in-your-pulp-38oo)
+- [Porting a 20-Year-Old Game to Mobile: Lessons from RuneScape](https://dev.to/oceanviewgames/porting-a-20-year-old-game-to-mobile-lessons-from-runescape-1d1a)
+- [I Made Stefan Minchev Defend Every Decision in Our Playwright Framework](https://dev.to/idavidov13/i-made-stefan-minchev-defend-every-decision-in-our-playwright-framework-2dfa)
+- [ESP32: Intro](https://dev.to/janadapelahara/esp32-intro-26om)
 <!-- BLOG-POST-LIST:END -->
 
