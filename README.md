@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Won a Writing Challenge That I Almost Didn&#39;t Publish!](https://dev.to/fm/i-won-a-writing-challenge-that-i-almost-didnt-publish-2cn0)
-- [Authentication Audit Trails: Correlating Risk Events with Session Lifecycle Actions](https://dev.to/lukasschmidt295/authentication-audit-trails-correlating-risk-events-with-session-lifecycle-actions-31e4)
-- [CMTE v2.0 – Real-time Syntactic Telemetry HUD &amp; Engine Stream](https://dev.to/cognimetrics/cmte-v20-real-time-syntactic-telemetry-hud-engine-stream-2bil)
-- [How to Convert Multi-Page PDFs to High-Res Images Client-Side in Vanilla JS &lpar;Zero Server Uploads&rpar;](https://dev.to/nextgenpdf/how-to-convert-multi-page-pdfs-to-high-res-images-client-side-in-vanilla-js-zero-server-uploads-239h)
+- [OpenART Red-Teams Stateful Agents Across 10,000 Evolving Environment Scenarios](https://dev.to/aimodels-fyi/openart-red-teams-stateful-agents-across-10000-evolving-environment-scenarios-2063)
+- [RA-Bench Reveals Why Crisis-Video Deepfake Detectors Fail Across Generators and Social Media](https://dev.to/aimodels-fyi/ra-bench-reveals-why-crisis-video-deepfake-detectors-fail-across-generators-and-social-media-4hok)
+- [VMware Appliance OVF Properties update through CLI](https://dev.to/ashishchorge/vmware-appliance-ovf-properties-update-through-cli-1mh2)
+- [Macaron-V1: Continual Learning with Self-Improvement and Mixture-of-LoRA Adapters](https://dev.to/aimodels-fyi/macaron-v1-continual-learning-with-self-improvement-and-mixture-of-lora-adapters-1c45)
 <!-- BLOG-POST-LIST:END -->
 
