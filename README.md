@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/fendis/-3ink)
-- [Declarative Automation Bundle: Bind an Existing Lakeflow Job](https://dev.to/oieduardorabelo/declarative-automation-bundle-bind-an-existing-lakeflow-job-54cm)
-- [How to Test AI Agents in Laravel &lpar;Beyond Fakes&rpar;](https://dev.to/aaronlumsden/how-to-test-ai-agents-in-laravel-beyond-fakes-4de0)
-- [Your Torrent Isn&#39;t Downloading From &quot;The Internet&quot;](https://dev.to/tejas_shinkar/your-torrent-isnt-downloading-from-the-internet-42bp)
+- [The M5 Ultra Mac Studio: I Did the Math So You Don&#39;t Have To](https://dev.to/arshtechpro/the-m5-ultra-mac-studio-i-did-the-math-so-you-dont-have-to-2g10)
+- [Benchmark scores are marketing now](https://dev.to/o96a/benchmark-scores-are-marketing-now-369i)
+- [When the Leader Becomes the Bottleneck](https://dev.to/icetique/when-the-leader-becomes-the-bottleneck-1a08)
+- [I&#39;m building an open-source, Pix-inspired instant-payment foundation in Rust - and it needs contributors](https://dev.to/andrewsarr/im-building-an-open-source-pix-inspired-instant-payment-foundation-in-rust-and-it-needs-33cl)
 <!-- BLOG-POST-LIST:END -->
 
