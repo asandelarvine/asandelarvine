@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Phonebook: a Storybook-style preview gallery for SwiftUI and Compose, built for agents](https://dev.to/orelzion/phonebook-a-storybook-style-preview-gallery-for-swiftui-and-compose-built-for-agents-6g9)
-- [How I Built a Bulk Image Converter That Runs Entirely in Your Browser](https://dev.to/muhayminbinmehmood/how-i-built-a-bulk-image-converter-that-runs-entirely-in-your-browser-1be0)
-- [OpenAI’s Jalapeño Inference Chip Could Reshape the Economics of Serving AI](https://dev.to/alifar/openais-jalapeno-inference-chip-could-reshape-the-economics-of-serving-ai-n6k)
-- [NFSFU234 Open Source Day: Three Tools, One Scope](https://dev.to/nforshifu234dev/nfsfu234-open-source-day-three-tools-one-scope-1j7e)
+- [From community review to a shipped security hardening with Codex](https://dev.to/oitydobcrypto/from-community-review-to-a-shipped-security-hardening-with-codex-3g1p)
+- [Why Is Bad Software Okay?](https://dev.to/nmiller15/why-is-bad-software-okay-3i9c)
+- [MyAnimeList-Module &lpar;NPM&rpar;](https://dev.to/nyxprojects/myanimelist-module-npm-3ef4)
+- [MVP que evolui: 7 decisões técnicas antes da primeira linha de código](https://dev.to/mestresdaweb/mvp-que-evolui-7-decisoes-tecnicas-antes-da-primeira-linha-de-codigo-1pa0)
 <!-- BLOG-POST-LIST:END -->
 
