@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Rewrites Meta Descriptions Often: What SMBs Should Do to Protect CTR](https://dev.to/alifar/google-rewrites-meta-descriptions-often-what-smbs-should-do-to-protect-ctr-57ao)
-- [Transforme PowerPoint em Vídeo IA em 20s: Guia WAN‑3.0](https://dev.to/leojulieta/transforme-powerpoint-em-video-ia-em-20s-guia-wan-30-3d75)
-- [Per-user two-factor auth in CakePHP with CakeDC/Users &lpar;opt-in, one method&rpar;](https://dev.to/viniciusbig/per-user-two-factor-auth-in-cakephp-with-cakedcusers-opt-in-one-method-4n6d)
-- [I built a free image and video hosting tool after Imgur blocked the UK](https://dev.to/danielbankss/i-built-a-free-image-and-video-hosting-tool-after-imgur-blocked-the-uk-29na)
+- [DevOps Lab: CI/CD Deployment to AWS ECS](https://dev.to/jumptotech/devops-lab-cicd-deployment-to-aws-ecs-166p)
+- [Looking for advice: Best patterns for automating Supabase edge workflows in a React/Capacitor app](https://dev.to/adream_e_e0c901e40c61a1bd/looking-for-advice-best-patterns-for-automating-supabase-edge-workflows-in-a-reactcapacitor-app-1197)
+- [Someone Can Get an SSL Certificate for Your Domain. CT Logs Are How You Find Out.](https://dev.to/merlonix/someone-can-get-an-ssl-certificate-for-your-domain-ct-logs-are-how-you-find-out-43nf)
+- [LLM Memory vs Context Window: The Gap Nobody Explains](https://dev.to/mryadavgulshan/llm-memory-vs-context-window-the-gap-nobody-explains-1mk6)
 <!-- BLOG-POST-LIST:END -->
 
