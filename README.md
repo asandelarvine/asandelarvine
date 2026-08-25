@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Nightly Drift Checks: Catch a Free Model&#39;s Behavior Change Before Your Users Do](https://dev.to/aiio_8140/nightly-drift-checks-catch-a-free-models-behavior-change-before-your-users-do-315i)
-- [Your AI Coding Agent Doesn&#39;t Have a Junior-Developer Problem. It Has an Amnesia Problem.](https://dev.to/alex-zaporozhan/your-ai-coding-agent-doesnt-have-a-junior-developer-problem-it-has-an-amnesia-problem-b58)
-- [Polymarket Paper Trading Bot: Build One in Python](https://dev.to/soulcrancerdev/polymarket-paper-trading-bot-build-one-in-python-3k5o)
-- [Building a Data Trust Score Engine on Google Cloud with BigQuery, Data Catalog &amp; Vertex AI](https://dev.to/shuvojit_kar_04070501sk12/building-a-data-trust-score-engine-on-google-cloud-with-bigquery-data-catalog-vertex-ai-4g6e)
+- [I Ran a Week of Real Open Source Work on Ox Alpha, the Internet&#39;s Mystery Free Coding Model](https://dev.to/aniruddhaadak/i-ran-a-week-of-real-open-source-work-on-ox-alpha-the-internets-mystery-free-coding-model-1lbo)
+- [5 AI Infrastructure Layers That Decide Whether Your Shopify Store Gets Cited in 2026](https://dev.to/pramendray/5-ai-infrastructure-layers-that-decide-whether-your-shopify-store-gets-cited-in-2026-2229)
+- [The cleanest way to keep your compliance‑AI out of the EU AI Act high‑risk class: AI proposes, a human approves and signs](https://dev.to/priya_nair_ree/the-cleanest-way-to-keep-your-compliance-ai-out-of-the-eu-ai-act-high-risk-class-ai-proposes-a-96k)
+- [Building a Read-Only Cloudflare Worker AI Security Console](https://dev.to/mike_anderson_d01f52129fb/building-a-read-only-cloudflare-worker-ai-security-console-4ica)
 <!-- BLOG-POST-LIST:END -->
 
