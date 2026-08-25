@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When the self-improving agent almost lost the host&#39;s work: a postmortem](https://dev.to/pm25coder/when-the-self-improving-agent-almost-lost-the-hosts-work-a-postmortem-2079)
-- [What Hair-Care Apps Can Learn From Personalization and Recommendation Systems](https://dev.to/voice_ofwomenleaders_6d/what-hair-care-apps-can-learn-from-personalization-and-recommendation-systems-3f0d)
-- [Daily Dose of DevOps — Kubernetes readiness vs liveness probes](https://dev.to/marco13moo/daily-dose-of-devops-kubernetes-readiness-vs-liveness-probes-17ij)
-- [Turning a flat-lay photo into an on-model shot with two prompt segments](https://dev.to/xiaodong_zhang_bd8dc835b3/turning-a-flat-lay-photo-into-an-on-model-shot-with-two-prompt-segments-48ff)
+- [Your Detection Rules Have Ten Years of Windows Logic and Zero Lines for a Stolen IAM Key](https://dev.to/rockyyy/your-detection-rules-have-ten-years-of-windows-logic-and-zero-lines-for-a-stolen-iam-key-1daj)
+- [How we detect a bad Capacitor OTA and roll it back in 10 seconds](https://dev.to/capgo_app/how-we-detect-a-bad-capacitor-ota-and-roll-it-back-in-10-seconds-84)
+- [One Dead Container Stopped nginx From Starting At All](https://dev.to/srdjan_poppovic/one-dead-container-stopped-nginx-from-starting-at-all-44h2)
+- [What It Takes to Run an AI Video Editor Locally in the Browser](https://dev.to/martindelophy/what-it-takes-to-run-an-ai-video-editor-locally-in-the-browser-103g)
 <!-- BLOG-POST-LIST:END -->
 
