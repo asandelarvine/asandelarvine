@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Git Workflow: Working Directory, Staging, Commit and Push](https://dev.to/javan_p_962641807facd5030/understanding-the-git-workflow-working-directory-staging-commit-and-push-14hc)
-- [Node.js Moderation Control: Large Volume User Content Through Batch LLM Triage](https://dev.to/oswaldjohansson6946/nodejs-moderation-control-large-volume-user-content-through-batch-llm-triage-2nn0)
-- [Supercharging Your Daily Dev Workflow with GitHub Copilot: From Jira to JUnit](https://dev.to/shubhamp23/supercharging-your-daily-dev-workflow-with-github-copilot-from-jira-to-junit-fc7)
-- [Multi-tenant Angular deployments: CloudFront vs Cloudflare Pages](https://dev.to/darell/multi-tenant-angular-deployments-cloudfront-vs-cloudflare-pages-2pil)
+- [mcp-tool-sanitizer v0.1.0: Making the MCP approval-view match the bytes the model gets](https://dev.to/magopredator/mcp-tool-sanitizer-v010-making-the-mcp-approval-view-match-the-bytes-the-model-gets-17i5)
+- [Auto-Seed Admin Controls: Building Governance for an AI Training Pipeline](https://dev.to/humzakt/auto-seed-admin-controls-building-governance-for-an-ai-training-pipeline-22c4)
+- [One Source of Truth for Aspect Ratio: Retrofitting 16:9 Into a Portrait-Only Pipeline](https://dev.to/humzakt/one-source-of-truth-for-aspect-ratio-retrofitting-169-into-a-portrait-only-pipeline-5bh3)
+- [Authenticated Isn’t Authorized: The AI Code Review Bug That Looks Secure](https://dev.to/raithlin/authenticated-isnt-authorized-the-ai-code-review-bug-that-looks-secure-507m)
 <!-- BLOG-POST-LIST:END -->
 
