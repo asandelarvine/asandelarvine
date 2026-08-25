@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From community review to a shipped security hardening with Codex](https://dev.to/oitydobcrypto/from-community-review-to-a-shipped-security-hardening-with-codex-3g1p)
-- [Why Is Bad Software Okay?](https://dev.to/nmiller15/why-is-bad-software-okay-3i9c)
-- [MyAnimeList-Module &lpar;NPM&rpar;](https://dev.to/nyxprojects/myanimelist-module-npm-3ef4)
-- [MVP que evolui: 7 decisões técnicas antes da primeira linha de código](https://dev.to/mestresdaweb/mvp-que-evolui-7-decisoes-tecnicas-antes-da-primeira-linha-de-codigo-1pa0)
+- [Inside a Suspected Fake CoinDesk Podcast Funnel Targeting Web3 Founders](https://dev.to/frantzgs/inside-a-suspected-fake-coindesk-podcast-funnel-targeting-web3-founders-3k43)
+- [Your Agent Pipeline&#39;s Review Gate Should Be Code, Not a Prompt Convention](https://dev.to/ammarti/your-agent-pipelines-review-gate-should-be-code-not-a-prompt-convention-4pem)
+- [🩺 Building RadScan AI: Autonomous Multimodal Radiology Triage on GCP Cloud Run &amp; Vertex AI](https://dev.to/sahil_5273/building-radscan-ai-autonomous-multimodal-radiology-triage-on-gcp-cloud-run-vertex-ai-42d0)
+- [Barcode Workflows: Choosing Between Manual, Spreadsheet, and Online Tooling](https://dev.to/lizely/barcode-workflows-choosing-between-manual-spreadsheet-and-online-tooling-3cij)
 <!-- BLOG-POST-LIST:END -->
 
