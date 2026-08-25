@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Modeling three markets &lpar;BR / US / Crypto&rpar; with one rebalancing engine](https://dev.to/diegocard117/modeling-three-markets-br-us-crypto-with-one-rebalancing-engine-4jkd)
-- [Make your writing easier to read without AI](https://dev.to/drew_gallagher_0785c86b20/make-your-writing-easier-to-read-without-ai-iag)
-- [Your RAG Demo Works Because Someone Picked the Documents](https://dev.to/nabeelbaghoor/your-rag-demo-works-because-someone-picked-the-documents-3980)
-- [GitHub Copilot Premium Requests: Allowances, Multipliers, Billing, and What Replaced Them](https://dev.to/rebeca_vb/github-copilot-premium-requests-allowances-multipliers-billing-and-what-replaced-them-d3p)
+- [DevsFTP s/FTP Client for Windows &amp; Linux](https://dev.to/devsftp/devsftp-sftp-client-for-windows-linux-3jfl)
+- [Introducing Crypts and Commits](https://dev.to/thebraindonor/introducing-crypts-and-commits-3igo)
+- [AI-Driven Discovery &amp; Quantum ESPRESSO DFT Validation for 0 GPa Room-Temp Superconductor Candidate &lpar;C2H2B6Be&rpar;](https://dev.to/tsagi/ai-driven-discovery-quantum-espresso-dft-validation-for-0-gpa-room-temp-superconductor-candidate-5hjn)
+- [Your Proxy Is in Germany. The Rest of Your Client Isn&#39;t.](https://dev.to/roamproxy/your-proxy-is-in-germany-the-rest-of-your-client-isnt-208b)
 <!-- BLOG-POST-LIST:END -->
 
