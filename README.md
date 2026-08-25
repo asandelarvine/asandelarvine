@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Detection Rules Have Ten Years of Windows Logic and Zero Lines for a Stolen IAM Key](https://dev.to/rockyyy/your-detection-rules-have-ten-years-of-windows-logic-and-zero-lines-for-a-stolen-iam-key-1daj)
-- [How we detect a bad Capacitor OTA and roll it back in 10 seconds](https://dev.to/capgo_app/how-we-detect-a-bad-capacitor-ota-and-roll-it-back-in-10-seconds-84)
-- [One Dead Container Stopped nginx From Starting At All](https://dev.to/srdjan_poppovic/one-dead-container-stopped-nginx-from-starting-at-all-44h2)
-- [What It Takes to Run an AI Video Editor Locally in the Browser](https://dev.to/martindelophy/what-it-takes-to-run-an-ai-video-editor-locally-in-the-browser-103g)
+- [Nightly Drift Checks: Catch a Free Model&#39;s Behavior Change Before Your Users Do](https://dev.to/aiio_8140/nightly-drift-checks-catch-a-free-models-behavior-change-before-your-users-do-315i)
+- [Your AI Coding Agent Doesn&#39;t Have a Junior-Developer Problem. It Has an Amnesia Problem.](https://dev.to/alex-zaporozhan/your-ai-coding-agent-doesnt-have-a-junior-developer-problem-it-has-an-amnesia-problem-b58)
+- [Polymarket Paper Trading Bot: Build One in Python](https://dev.to/soulcrancerdev/polymarket-paper-trading-bot-build-one-in-python-3k5o)
+- [Building a Data Trust Score Engine on Google Cloud with BigQuery, Data Catalog &amp; Vertex AI](https://dev.to/shuvojit_kar_04070501sk12/building-a-data-trust-score-engine-on-google-cloud-with-bigquery-data-catalog-vertex-ai-4g6e)
 <!-- BLOG-POST-LIST:END -->
 
