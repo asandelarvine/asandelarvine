@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I open-sourced a UI kit - then went looking for everything I got wrong about it](https://dev.to/mikhail_kokoulin_d39d37a5/i-open-sourced-a-ui-kit-then-went-looking-for-everything-i-got-wrong-about-it-4m72)
-- [D11：他昨天新增的規則，今天第一次上場就給出相反的解釋](https://dev.to/_2ab71a79dd36101e6be89/d11ta-zuo-tian-xin-zeng-de-gui-ze-jin-tian-di-ci-shang-chang-jiu-gei-chu-xiang-fan-de-jie-shi-147h)
-- [Building A Prompt Template That Works Without You In The Room](https://dev.to/faraz_farhan_83ed23a154a2/building-a-prompt-template-that-works-without-you-in-the-room-10ia)
-- [OpenCode Memory Internals](https://dev.to/antonio_zhu_e726fd856cd86/opencode-memory-internals-2p8g)
+- [When the self-improving agent almost lost the host&#39;s work: a postmortem](https://dev.to/pm25coder/when-the-self-improving-agent-almost-lost-the-hosts-work-a-postmortem-2079)
+- [What Hair-Care Apps Can Learn From Personalization and Recommendation Systems](https://dev.to/voice_ofwomenleaders_6d/what-hair-care-apps-can-learn-from-personalization-and-recommendation-systems-3f0d)
+- [Daily Dose of DevOps — Kubernetes readiness vs liveness probes](https://dev.to/marco13moo/daily-dose-of-devops-kubernetes-readiness-vs-liveness-probes-17ij)
+- [Turning a flat-lay photo into an on-model shot with two prompt segments](https://dev.to/xiaodong_zhang_bd8dc835b3/turning-a-flat-lay-photo-into-an-on-model-shot-with-two-prompt-segments-48ff)
 <!-- BLOG-POST-LIST:END -->
 
