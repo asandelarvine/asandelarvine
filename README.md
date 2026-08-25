@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Qwen 27B na Q3 kvantizaci napsal WebGL hlavu od nuly](https://dev.to/petr_baloun/qwen-27b-na-q3-kvantizaci-napsal-webgl-hlavu-od-nuly-126k)
-- [Authorize Can&#39;t See Your Data](https://dev.to/kazemmdev/authorize-cant-see-your-data-47pc)
-- [Why Your OpenAPI Spec Isn&#39;t Enough for AI Agents](https://dev.to/spread2009/why-your-openapi-spec-isnt-enough-for-ai-agents-3cpe)
-- [I audited 99 resume templates for contrast. Nine rendered the candidate&#39;s name invisible.](https://dev.to/thedolceway/i-audited-99-resume-templates-for-contrast-nine-rendered-the-candidates-name-invisible-hom)
+- [Building a local video search CLI with ffmpeg and OpenCLIP](https://dev.to/harry_xu_74d04f7a971995d5/building-a-local-video-search-cli-with-ffmpeg-and-openclip-3a5g)
+- [How not to use sub-agents!](https://dev.to/atul_joshi_f/how-not-to-use-sub-agents-1p38)
+- [Auto-provisioning hundreds of softphones: what actually has to happen under the hood](https://dev.to/johnw007/auto-provisioning-hundreds-of-softphones-what-actually-has-to-happen-under-the-hood-h1c)
+- [Build a Local RAG Chatbot for Trading Research Using Ollama + Termux &lpar;Zero API Cost&rpar;](https://dev.to/shaktitiwari/build-a-local-rag-chatbot-for-trading-research-using-ollama-termux-zero-api-cost-5df4)
 <!-- BLOG-POST-LIST:END -->
 
