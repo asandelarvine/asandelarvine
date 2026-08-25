@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a local video search CLI with ffmpeg and OpenCLIP](https://dev.to/harry_xu_74d04f7a971995d5/building-a-local-video-search-cli-with-ffmpeg-and-openclip-3a5g)
-- [How not to use sub-agents!](https://dev.to/atul_joshi_f/how-not-to-use-sub-agents-1p38)
-- [Auto-provisioning hundreds of softphones: what actually has to happen under the hood](https://dev.to/johnw007/auto-provisioning-hundreds-of-softphones-what-actually-has-to-happen-under-the-hood-h1c)
-- [Build a Local RAG Chatbot for Trading Research Using Ollama + Termux &lpar;Zero API Cost&rpar;](https://dev.to/shaktitiwari/build-a-local-rag-chatbot-for-trading-research-using-ollama-termux-zero-api-cost-5df4)
+- [[Boost]](https://dev.to/fendis/-3ink)
+- [Declarative Automation Bundle: Bind an Existing Lakeflow Job](https://dev.to/oieduardorabelo/declarative-automation-bundle-bind-an-existing-lakeflow-job-54cm)
+- [How to Test AI Agents in Laravel &lpar;Beyond Fakes&rpar;](https://dev.to/aaronlumsden/how-to-test-ai-agents-in-laravel-beyond-fakes-4de0)
+- [Your Torrent Isn&#39;t Downloading From &quot;The Internet&quot;](https://dev.to/tejas_shinkar/your-torrent-isnt-downloading-from-the-internet-42bp)
 <!-- BLOG-POST-LIST:END -->
 
