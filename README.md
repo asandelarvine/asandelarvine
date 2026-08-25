@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Ran a Week of Real Open Source Work on Ox Alpha, the Internet&#39;s Mystery Free Coding Model](https://dev.to/aniruddhaadak/i-ran-a-week-of-real-open-source-work-on-ox-alpha-the-internets-mystery-free-coding-model-1lbo)
-- [5 AI Infrastructure Layers That Decide Whether Your Shopify Store Gets Cited in 2026](https://dev.to/pramendray/5-ai-infrastructure-layers-that-decide-whether-your-shopify-store-gets-cited-in-2026-2229)
-- [The cleanest way to keep your compliance‑AI out of the EU AI Act high‑risk class: AI proposes, a human approves and signs](https://dev.to/priya_nair_ree/the-cleanest-way-to-keep-your-compliance-ai-out-of-the-eu-ai-act-high-risk-class-ai-proposes-a-96k)
-- [Building a Read-Only Cloudflare Worker AI Security Console](https://dev.to/mike_anderson_d01f52129fb/building-a-read-only-cloudflare-worker-ai-security-console-4ica)
+- [Qwen 27B na Q3 kvantizaci napsal WebGL hlavu od nuly](https://dev.to/petr_baloun/qwen-27b-na-q3-kvantizaci-napsal-webgl-hlavu-od-nuly-126k)
+- [Authorize Can&#39;t See Your Data](https://dev.to/kazemmdev/authorize-cant-see-your-data-47pc)
+- [Why Your OpenAPI Spec Isn&#39;t Enough for AI Agents](https://dev.to/spread2009/why-your-openapi-spec-isnt-enough-for-ai-agents-3cpe)
+- [I audited 99 resume templates for contrast. Nine rendered the candidate&#39;s name invisible.](https://dev.to/thedolceway/i-audited-99-resume-templates-for-contrast-nine-rendered-the-candidates-name-invisible-hom)
 <!-- BLOG-POST-LIST:END -->
 
