@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Lab: CI/CD Deployment to AWS ECS](https://dev.to/jumptotech/devops-lab-cicd-deployment-to-aws-ecs-166p)
-- [Looking for advice: Best patterns for automating Supabase edge workflows in a React/Capacitor app](https://dev.to/adream_e_e0c901e40c61a1bd/looking-for-advice-best-patterns-for-automating-supabase-edge-workflows-in-a-reactcapacitor-app-1197)
-- [Someone Can Get an SSL Certificate for Your Domain. CT Logs Are How You Find Out.](https://dev.to/merlonix/someone-can-get-an-ssl-certificate-for-your-domain-ct-logs-are-how-you-find-out-43nf)
-- [LLM Memory vs Context Window: The Gap Nobody Explains](https://dev.to/mryadavgulshan/llm-memory-vs-context-window-the-gap-nobody-explains-1mk6)
+- [I built a free tool to help people choose a local AI model that fits their computer](https://dev.to/device_terra_75f370007e96/i-built-a-free-tool-to-help-people-choose-a-local-ai-model-that-fits-their-computer-5cb)
+- [KVM SR-IOV: intel_iommu=on is not SR-IOV until you create VFs](https://dev.to/sunshoutkernel/kvm-sr-iov-inteliommuon-is-not-sr-iov-until-you-create-vfs-2fbh)
+- [My Beginner’s Guide to Git, SSH, and Git Bash to GitHub](https://dev.to/gidii_keter/my-beginners-guide-to-git-ssh-and-git-bash-to-github-371l)
+- [What belongs in a coding-agent verification evidence bundle?](https://dev.to/sarthakagrawal927/what-belongs-in-a-coding-agent-verification-evidence-bundle-4402)
 <!-- BLOG-POST-LIST:END -->
 
