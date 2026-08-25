@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Access to Parent Properties in Deeply Nested Class Hierarchies Without Passing Entire Objects](https://dev.to/pavkode/simplifying-access-to-parent-properties-in-deeply-nested-class-hierarchies-without-passing-entire-3l9k)
-- [Vue&#39;s Vapor Mode Is Almost Here. Writing Browser Games With No Framework Taught Me Why It Matters](https://dev.to/gabbrowick/vues-vapor-mode-is-almost-here-writing-browser-games-with-no-framework-taught-me-why-it-matters-5gak)
-- [I Set Up a Fake Internet to Catch a Trojan: Analyzing FlexenseActivator.exe](https://dev.to/almahmudkhalif/i-set-up-a-fake-internet-to-catch-a-trojan-analyzing-flexenseactivatorexe-1bj1)
-- [Guaranteed vs Fallible: How Midnight Actually Commits State and Fees](https://dev.to/midnight-aliit/guaranteed-vs-fallible-how-midnight-actually-commits-state-and-fees-23fc)
+- [Phonebook: a Storybook-style preview gallery for SwiftUI and Compose, built for agents](https://dev.to/orelzion/phonebook-a-storybook-style-preview-gallery-for-swiftui-and-compose-built-for-agents-6g9)
+- [How I Built a Bulk Image Converter That Runs Entirely in Your Browser](https://dev.to/muhayminbinmehmood/how-i-built-a-bulk-image-converter-that-runs-entirely-in-your-browser-1be0)
+- [OpenAI’s Jalapeño Inference Chip Could Reshape the Economics of Serving AI](https://dev.to/alifar/openais-jalapeno-inference-chip-could-reshape-the-economics-of-serving-ai-n6k)
+- [NFSFU234 Open Source Day: Three Tools, One Scope](https://dev.to/nforshifu234dev/nfsfu234-open-source-day-three-tools-one-scope-1j7e)
 <!-- BLOG-POST-LIST:END -->
 
