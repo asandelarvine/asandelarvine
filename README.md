@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a free tool to help people choose a local AI model that fits their computer](https://dev.to/device_terra_75f370007e96/i-built-a-free-tool-to-help-people-choose-a-local-ai-model-that-fits-their-computer-5cb)
-- [KVM SR-IOV: intel_iommu=on is not SR-IOV until you create VFs](https://dev.to/sunshoutkernel/kvm-sr-iov-inteliommuon-is-not-sr-iov-until-you-create-vfs-2fbh)
-- [My Beginner’s Guide to Git, SSH, and Git Bash to GitHub](https://dev.to/gidii_keter/my-beginners-guide-to-git-ssh-and-git-bash-to-github-371l)
-- [What belongs in a coding-agent verification evidence bundle?](https://dev.to/sarthakagrawal927/what-belongs-in-a-coding-agent-verification-evidence-bundle-4402)
+- [MiniMax H3 VRAM requirements and real render times, consolidated from 20 threads](https://dev.to/lee_315dd1e13420e63e2b813/minimax-h3-vram-requirements-and-real-render-times-consolidated-from-20-threads-3k1n)
+- [Zero-Budget Release Notes: A Case Study in Free-Tier LLM Automation](https://dev.to/aiio_6471/zero-budget-release-notes-a-case-study-in-free-tier-llm-automation-1a88)
+- [Web Performance on a Budget: Bundle Size, API Limits, and Database Indexes](https://dev.to/apeder/web-performance-on-a-budget-bundle-size-api-limits-and-database-indexes-44c6)
+- [Token Forensics: A Self-Hosted Observatory for Every Model Call](https://dev.to/airs_6907/token-forensics-a-self-hosted-observatory-for-every-model-call-7hd)
 <!-- BLOG-POST-LIST:END -->
 
