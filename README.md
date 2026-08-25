@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon, Temu, and AliExpress already have visual search. Desktop just hides it.](https://dev.to/fgiust/amazon-temu-and-aliexpress-already-have-visual-search-desktop-just-hides-it-336b)
-- [My Nand2Tetris Journey #2 - Building Basic Chips And ALU](https://dev.to/rondo/my-nand2tetris-journey-2-building-basic-chips-and-alu-ahh)
-- [Your Users Experience Your Backend Too.](https://dev.to/hilda_enyioko/your-users-experience-your-backend-too-cb0)
-- [React Form Backends Compared: Serverless Functions vs. Form-as-a-Service](https://dev.to/ekwoster/react-form-backends-compared-serverless-functions-vs-form-as-a-service-ap6)
+- [Simplifying Access to Parent Properties in Deeply Nested Class Hierarchies Without Passing Entire Objects](https://dev.to/pavkode/simplifying-access-to-parent-properties-in-deeply-nested-class-hierarchies-without-passing-entire-3l9k)
+- [Vue&#39;s Vapor Mode Is Almost Here. Writing Browser Games With No Framework Taught Me Why It Matters](https://dev.to/gabbrowick/vues-vapor-mode-is-almost-here-writing-browser-games-with-no-framework-taught-me-why-it-matters-5gak)
+- [I Set Up a Fake Internet to Catch a Trojan: Analyzing FlexenseActivator.exe](https://dev.to/almahmudkhalif/i-set-up-a-fake-internet-to-catch-a-trojan-analyzing-flexenseactivatorexe-1bj1)
+- [Guaranteed vs Fallible: How Midnight Actually Commits State and Fees](https://dev.to/midnight-aliit/guaranteed-vs-fallible-how-midnight-actually-commits-state-and-fees-23fc)
 <!-- BLOG-POST-LIST:END -->
 
