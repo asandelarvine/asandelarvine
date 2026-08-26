@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Copilot&#39;s Code Review Cannot Block Your Merge. It Says So in the Docs.](https://dev.to/ugliai/copilots-code-review-cannot-block-your-merge-it-says-so-in-the-docs-hfm)
-- [The fuss with running a code ONLY once in React.js &lpar;after page load&rpar;](https://dev.to/midnqp/the-fuss-with-running-a-code-only-once-in-reactjs-after-page-load-jo7)
-- [AI Cut Korean Herbal Medicine Prep Time from 300 Minutes to 5 - But the Smart Part Is What It Didn&#39;t Touch: the Korean Medicine Doctor&#39;s Judgment](https://dev.to/judy_miranttie/ai-cut-korean-herbal-medicine-prep-time-from-300-minutes-to-5-but-the-smart-part-is-what-it-1hlc)
-- [Even Cloudflare Is Now Issuing Wallets to AI - The &#39;Spending Cap&#39; Everyone&#39;s Racing to Build Is What Actually Makes AI Safe to Spend Money](https://dev.to/judy_miranttie/even-cloudflare-is-now-issuing-wallets-to-ai-the-spending-cap-everyones-racing-to-build-is-4opm)
+- [Vector Database vs Knowledge Graph: Choosing Your LLM Store](https://dev.to/mryadavgulshan/vector-database-vs-knowledge-graph-choosing-your-llm-store-4me5)
+- [Ten ai automations businesses pay for and How to Build Them](https://dev.to/samchenreviews/ten-ai-automations-businesses-pay-for-and-how-to-build-them-40ij)
+- [How to Automate Invoicing and Stop Chasing Payments](https://dev.to/samchenreviews/how-to-automate-invoicing-and-stop-chasing-payments-2dka)
+- [how to make faceless youtube shorts with ai](https://dev.to/samchenreviews/how-to-make-faceless-youtube-shorts-with-ai-1o3k)
 <!-- BLOG-POST-LIST:END -->
 
