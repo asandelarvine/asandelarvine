@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing an AI Evidence Gateway: Durable WAL, Portable MMR Proofs, and Bounded Formal Checks](https://dev.to/luna_ia/designing-an-ai-evidence-gateway-durable-wal-portable-mmr-proofs-and-bounded-formal-checks-40pm)
-- [The 2 a.m. AI interview is how companies stopped interviewing back](https://dev.to/adioof/the-2-am-ai-interview-is-how-companies-stopped-interviewing-back-24p4)
-- [Your local RAG isn&#39;t slow — it re-reads every document on every question](https://dev.to/dreamdeck/your-local-rag-isnt-slow-it-re-reads-every-document-on-every-question-18jg)
-- [How Many Builds Can Run at Once on One VPS](https://dev.to/gorkemyildirim/how-many-builds-can-run-at-once-on-one-vps-21h6)
+- [What I gave up to run Spring static analysis in a browser](https://dev.to/brahamshakti/what-i-gave-up-to-run-spring-static-analysis-in-a-browser-6f8)
+- [A Free AI Tier Is an Architecture. Review It Like One.](https://dev.to/codepro_4664/a-free-ai-tier-is-an-architecture-review-it-like-one-23fp)
+- [Free Tokens, Real Queues: Measure What Your LLM Calls Actually Cost](https://dev.to/hackrs_3352/free-tokens-real-queues-measure-what-your-llm-calls-actually-cost-1k4i)
+- [3 Things I Learned Building a Smart Contract Project with Foundry](https://dev.to/alinasirlou/3-things-i-learned-building-a-smart-contract-project-with-foundry-21he)
 <!-- BLOG-POST-LIST:END -->
 
