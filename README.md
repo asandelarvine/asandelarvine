@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Load Balancing: How Backend Systems Handle Millions of Requests](https://dev.to/juma_evans_34e389ef539266/load-balancing-how-backend-systems-handle-millions-of-requests-4i1b)
-- [10 EF Core Performance Mistakes That Ship to Production](https://dev.to/majdizlitni/10-ef-core-performance-mistakes-that-ship-to-production-1gpc)
-- [My Journey from Full-Stack Engineering to AI-First FDE](https://dev.to/prakashtank/my-journey-from-full-stack-engineering-to-ai-first-fde-25j0)
-- [Environment Variables Done Right &lpar;and Safe&rpar;](https://dev.to/binaryjournal/environment-variables-done-right-and-safe-18e9)
+- [Mutation Testing as a Merge Gate for Agent-Written Tests](https://dev.to/datacpp_8185/mutation-testing-as-a-merge-gate-for-agent-written-tests-5gie)
+- [OCI Log Retention Validation: Moving Load Balancer Logs to Object Storage with Connector Hub](https://dev.to/arnold_infant/oci-log-retention-validation-moving-load-balancer-logs-to-object-storage-with-connector-hub-2hja)
+- [The Docs Draft Pipeline: What an AI May Write and What You Must Own](https://dev.to/github_7727/the-docs-draft-pipeline-what-an-ai-may-write-and-what-you-must-own-4km1)
+- [Google Expands Gemini Into an Agent Platform for Building and Running Business AI](https://dev.to/alifar/google-expands-gemini-into-an-agent-platform-for-building-and-running-business-ai-19nf)
 <!-- BLOG-POST-LIST:END -->
 
