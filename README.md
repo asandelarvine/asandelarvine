@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mutation Testing as a Merge Gate for Agent-Written Tests](https://dev.to/datacpp_8185/mutation-testing-as-a-merge-gate-for-agent-written-tests-5gie)
-- [OCI Log Retention Validation: Moving Load Balancer Logs to Object Storage with Connector Hub](https://dev.to/arnold_infant/oci-log-retention-validation-moving-load-balancer-logs-to-object-storage-with-connector-hub-2hja)
-- [The Docs Draft Pipeline: What an AI May Write and What You Must Own](https://dev.to/github_7727/the-docs-draft-pipeline-what-an-ai-may-write-and-what-you-must-own-4km1)
-- [Google Expands Gemini Into an Agent Platform for Building and Running Business AI](https://dev.to/alifar/google-expands-gemini-into-an-agent-platform-for-building-and-running-business-ai-19nf)
+- [Node.js Worker Troubleshooting: Background Queue Retry Exhaustion](https://dev.to/brennthorn8571/nodejs-worker-troubleshooting-background-queue-retry-exhaustion-504f)
+- [Agents Should Be Durable, Not Long-Lived](https://dev.to/soasme/agents-should-be-durable-not-long-lived-205e)
+- [How I Built an SEO-Optimized Portfolio with Next.js 16](https://dev.to/hasnainabdi/how-i-built-an-seo-optimized-portfolio-with-nextjs-16-2e51)
+- [The Wire](https://dev.to/davidevlops/the-wire-3if1)
 <!-- BLOG-POST-LIST:END -->
 
