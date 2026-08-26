@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Keycloak: A Deep Dive into Open Source Identity and Access Management &lpar;2026-08-26 14:42&rpar;](https://dev.to/said_olano/keycloak-a-deep-dive-into-open-source-identity-and-access-management-2026-08-26-1442-4g8o)
-- [Building a Unix Shell from First Principles in Rust](https://dev.to/shinjiito/building-a-unix-shell-from-first-principles-in-rust-35ek)
-- [One Runtime, Two Programs That Have Nothing in Common](https://dev.to/mbelhadi/one-runtime-two-programs-that-have-nothing-in-common-4l8l)
-- [Stop Copying Your CLAUDE.md Between Projects](https://dev.to/elleryfamilia/stop-copying-your-claudemd-between-projects-4ji7)
+- [Load Balancing: How Backend Systems Handle Millions of Requests](https://dev.to/juma_evans_34e389ef539266/load-balancing-how-backend-systems-handle-millions-of-requests-4i1b)
+- [10 EF Core Performance Mistakes That Ship to Production](https://dev.to/majdizlitni/10-ef-core-performance-mistakes-that-ship-to-production-1gpc)
+- [My Journey from Full-Stack Engineering to AI-First FDE](https://dev.to/prakashtank/my-journey-from-full-stack-engineering-to-ai-first-fde-25j0)
+- [Environment Variables Done Right &lpar;and Safe&rpar;](https://dev.to/binaryjournal/environment-variables-done-right-and-safe-18e9)
 <!-- BLOG-POST-LIST:END -->
 
