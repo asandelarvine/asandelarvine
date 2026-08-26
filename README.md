@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vector Database vs Knowledge Graph: Choosing Your LLM Store](https://dev.to/mryadavgulshan/vector-database-vs-knowledge-graph-choosing-your-llm-store-4me5)
-- [Ten ai automations businesses pay for and How to Build Them](https://dev.to/samchenreviews/ten-ai-automations-businesses-pay-for-and-how-to-build-them-40ij)
-- [How to Automate Invoicing and Stop Chasing Payments](https://dev.to/samchenreviews/how-to-automate-invoicing-and-stop-chasing-payments-2dka)
-- [how to make faceless youtube shorts with ai](https://dev.to/samchenreviews/how-to-make-faceless-youtube-shorts-with-ai-1o3k)
+- [While AI Is Thinking](https://dev.to/isurogi/while-ai-is-thinking-5e3b)
+- [Node.js Express Production Logging for Property Incidents &lpar;Hosted API Evidence Rules&rpar;](https://dev.to/philemonshaw8453/nodejs-express-production-logging-for-property-incidents-hosted-api-evidence-rules-22g)
+- [How We Built a YouTube SEO Pipeline with AI Agents](https://dev.to/xxxn3m3s1sxxx/how-we-built-a-youtube-seo-pipeline-with-ai-agents-4ldn)
+- [Recursion Demystified](https://dev.to/polyvexr/recursion-demystified-255f)
 <!-- BLOG-POST-LIST:END -->
 
