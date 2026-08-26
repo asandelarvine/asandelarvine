@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [While AI Is Thinking](https://dev.to/isurogi/while-ai-is-thinking-5e3b)
-- [Node.js Express Production Logging for Property Incidents &lpar;Hosted API Evidence Rules&rpar;](https://dev.to/philemonshaw8453/nodejs-express-production-logging-for-property-incidents-hosted-api-evidence-rules-22g)
-- [How We Built a YouTube SEO Pipeline with AI Agents](https://dev.to/xxxn3m3s1sxxx/how-we-built-a-youtube-seo-pipeline-with-ai-agents-4ldn)
-- [Recursion Demystified](https://dev.to/polyvexr/recursion-demystified-255f)
+- [两家实验室的算力垄断之路：Dylan Patel 详解 AI 经济学](https://dev.to/cognitalk/two-labs-will-control-most-of-the-worlds-compute-dylan-patel-on-ai-economics-28i)
+- [Needle 2: the 14 MB agentic model, tested properly](https://dev.to/cognitalk/needle-2-the-14-mb-agentic-model-tested-properly-4869)
+- [Cloudflare Adds One-Click Login Gate for Internally Built Apps](https://dev.to/mikefluff/cloudflare-adds-one-click-login-gate-for-internally-built-apps-1l1o)
+- [[Boost]](https://dev.to/copyleftdev/-1ijk)
 <!-- BLOG-POST-LIST:END -->
 
