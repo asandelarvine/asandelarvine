@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MEU COMEÇO NA ÁREA DA TECNOLOGIA](https://dev.to/jose_neto/meu-comeco-na-area-da-tecnologia-3fm9)
-- [Observability Stack: Prometheus, Node Exporter &amp; Grafana](https://dev.to/nishant_bhardwaj_9135ba51/observability-stack-prometheus-node-exporter-grafana-2j3o)
-- [A Vote About Bots Is Really a Vote About Trust](https://dev.to/maroneta/a-vote-about-bots-is-really-a-vote-about-trust-f3k)
-- [What Lowercasing Taught Me About Trusting Strings](https://dev.to/maroneta/what-lowercasing-taught-me-about-trusting-strings-3mdi)
+- [I built BulkImgConvert: compress, resize, crop &amp; convert images 100% in your browser](https://dev.to/zakirez/i-built-bulkimgconvert-compress-resize-crop-convert-images-100-in-your-browser-3ida)
+- [Meet Nitya — My AI Assistant 🤖](https://dev.to/keyur_bhatiya/meet-nitya-my-ai-assistant-5j8)
+- [I just killed hallucinations on my 2 bit Qwen3.8 27B](https://dev.to/montydrief/i-just-killed-hallucinations-on-my-2-bit-qwen38-27b-1hj1)
+- [That category sidebar on every shopping site? You can build it in pure Python](https://dev.to/priyasundaram/that-category-sidebar-on-every-shopping-site-you-can-build-it-in-pure-python-49n6)
 <!-- BLOG-POST-LIST:END -->
 
