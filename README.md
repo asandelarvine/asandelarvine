@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Automated QA KPI Dashboard for Playwright &amp; BDD Pipelines](https://dev.to/she11_qa/building-an-automated-qa-kpi-dashboard-for-playwright-bdd-pipelines-31p7)
-- [Portfolio Update, I Guess](https://dev.to/adamthedeveloper/portfolio-update-i-guess-4ob3)
-- [A year of coding by talking: what I gained and what I lost](https://dev.to/tacckim/a-year-of-coding-by-talking-what-i-gained-and-what-i-lost-1p15)
-- [I built plugins for three editors. Everywhere, you&#39;re a guest in someone else&#39;s house](https://dev.to/eugeniya_ivanova_4a58eadc/i-built-plugins-for-three-editors-everywhere-youre-a-guest-in-someone-elses-house-34ck)
+- [When Building an AI Agent, the Journey Matters as Much as the Destination](https://dev.to/rajkundalia/when-building-an-ai-agent-the-journey-matters-as-much-as-the-destination-124d)
+- [Building an Agent That Turns DataHub Metadata Into Airflow DAGs](https://dev.to/mark2k4/building-an-agent-that-turns-datahub-metadata-into-airflow-dags-gkk)
+- [Ethical AI and Bias Detection](https://dev.to/godofgeeks/ethical-ai-and-bias-detection-3c68)
+- [Our Post-Mortem Was So Good We Never Fixed the Bug](https://dev.to/vibeagentmaking/our-post-mortem-was-so-good-we-never-fixed-the-bug-2cff)
 <!-- BLOG-POST-LIST:END -->
 
