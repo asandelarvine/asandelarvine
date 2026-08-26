@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built BulkImgConvert: compress, resize, crop &amp; convert images 100% in your browser](https://dev.to/zakirez/i-built-bulkimgconvert-compress-resize-crop-convert-images-100-in-your-browser-3ida)
-- [Meet Nitya — My AI Assistant 🤖](https://dev.to/keyur_bhatiya/meet-nitya-my-ai-assistant-5j8)
-- [I just killed hallucinations on my 2 bit Qwen3.8 27B](https://dev.to/montydrief/i-just-killed-hallucinations-on-my-2-bit-qwen38-27b-1hj1)
-- [That category sidebar on every shopping site? You can build it in pure Python](https://dev.to/priyasundaram/that-category-sidebar-on-every-shopping-site-you-can-build-it-in-pure-python-49n6)
+- [Keycloak: A Deep Dive into Open Source Identity and Access Management &lpar;2026-08-26 14:42&rpar;](https://dev.to/said_olano/keycloak-a-deep-dive-into-open-source-identity-and-access-management-2026-08-26-1442-4g8o)
+- [Building a Unix Shell from First Principles in Rust](https://dev.to/shinjiito/building-a-unix-shell-from-first-principles-in-rust-35ek)
+- [One Runtime, Two Programs That Have Nothing in Common](https://dev.to/mbelhadi/one-runtime-two-programs-that-have-nothing-in-common-4l8l)
+- [Stop Copying Your CLAUDE.md Between Projects](https://dev.to/elleryfamilia/stop-copying-your-claudemd-between-projects-4ji7)
 <!-- BLOG-POST-LIST:END -->
 
