@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My Cloud Run Multi-Agent Fleet Passed Its Demo. The Architecture Was Still Wrong.](https://dev.to/dannwaneri/my-cloud-run-multi-agent-fleet-passed-its-demo-the-architecture-was-still-wrong-1p)
-- [I Read 25 Release Pipelines Looking for One Bug. Four Had It.](https://dev.to/wahib_el_khadiri_0/i-read-25-release-pipelines-looking-for-one-bug-four-had-it-3n9e)
-- [Your AI Eval Has a Blind Spot. You Built It.](https://dev.to/sara_mo/your-ai-eval-has-a-blind-spot-you-built-it-2n08)
-- [情報が増えたときの整理を考える—シソーラス・タクソノミー・オントロジー](https://dev.to/lateen-sail/qing-bao-gazeng-etatokinozheng-li-wokao-eru-sisorasutakusonomiontorozi-27ad)
+- [Designing an AI Evidence Gateway: Durable WAL, Portable MMR Proofs, and Bounded Formal Checks](https://dev.to/luna_ia/designing-an-ai-evidence-gateway-durable-wal-portable-mmr-proofs-and-bounded-formal-checks-40pm)
+- [The 2 a.m. AI interview is how companies stopped interviewing back](https://dev.to/adioof/the-2-am-ai-interview-is-how-companies-stopped-interviewing-back-24p4)
+- [Your local RAG isn&#39;t slow — it re-reads every document on every question](https://dev.to/dreamdeck/your-local-rag-isnt-slow-it-re-reads-every-document-on-every-question-18jg)
+- [How Many Builds Can Run at Once on One VPS](https://dev.to/gorkemyildirim/how-many-builds-can-run-at-once-on-one-vps-21h6)
 <!-- BLOG-POST-LIST:END -->
 
