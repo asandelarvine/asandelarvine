@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Simple Developer Environment Checker with Python](https://dev.to/arthur_luca/build-a-simple-developer-environment-checker-with-python-542e)
-- [OpenAI&#39;s data center chief left. Why builders should care](https://dev.to/induwara_ashinsana_9e4d5b/openais-data-center-chief-left-why-builders-should-care-3l3n)
-- [Nuxt server routes with Hono RPC-style type safety, no rewrite](https://dev.to/yoshinoriishii/nuxt-server-routes-with-hono-rpc-style-type-safety-no-rewrite-205k)
-- [Determinism Is a Feature](https://dev.to/pierrelaurentmedori/determinism-is-a-feature-3kb9)
+- [My Cloud Run Multi-Agent Fleet Passed Its Demo. The Architecture Was Still Wrong.](https://dev.to/dannwaneri/my-cloud-run-multi-agent-fleet-passed-its-demo-the-architecture-was-still-wrong-1p)
+- [I Read 25 Release Pipelines Looking for One Bug. Four Had It.](https://dev.to/wahib_el_khadiri_0/i-read-25-release-pipelines-looking-for-one-bug-four-had-it-3n9e)
+- [Your AI Eval Has a Blind Spot. You Built It.](https://dev.to/sara_mo/your-ai-eval-has-a-blind-spot-you-built-it-2n08)
+- [情報が増えたときの整理を考える—シソーラス・タクソノミー・オントロジー](https://dev.to/lateen-sail/qing-bao-gazeng-etatokinozheng-li-wokao-eru-sisorasutakusonomiontorozi-27ad)
 <!-- BLOG-POST-LIST:END -->
 
