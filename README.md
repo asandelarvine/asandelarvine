@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Building an AI Agent, the Journey Matters as Much as the Destination](https://dev.to/rajkundalia/when-building-an-ai-agent-the-journey-matters-as-much-as-the-destination-124d)
-- [Building an Agent That Turns DataHub Metadata Into Airflow DAGs](https://dev.to/mark2k4/building-an-agent-that-turns-datahub-metadata-into-airflow-dags-gkk)
-- [Ethical AI and Bias Detection](https://dev.to/godofgeeks/ethical-ai-and-bias-detection-3c68)
-- [Our Post-Mortem Was So Good We Never Fixed the Bug](https://dev.to/vibeagentmaking/our-post-mortem-was-so-good-we-never-fixed-the-bug-2cff)
+- [Build a Simple Developer Environment Checker with Python](https://dev.to/arthur_luca/build-a-simple-developer-environment-checker-with-python-542e)
+- [OpenAI&#39;s data center chief left. Why builders should care](https://dev.to/induwara_ashinsana_9e4d5b/openais-data-center-chief-left-why-builders-should-care-3l3n)
+- [Nuxt server routes with Hono RPC-style type safety, no rewrite](https://dev.to/yoshinoriishii/nuxt-server-routes-with-hono-rpc-style-type-safety-no-rewrite-205k)
+- [Determinism Is a Feature](https://dev.to/pierrelaurentmedori/determinism-is-a-feature-3kb9)
 <!-- BLOG-POST-LIST:END -->
 
