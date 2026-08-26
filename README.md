@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What I gave up to run Spring static analysis in a browser](https://dev.to/brahamshakti/what-i-gave-up-to-run-spring-static-analysis-in-a-browser-6f8)
-- [A Free AI Tier Is an Architecture. Review It Like One.](https://dev.to/codepro_4664/a-free-ai-tier-is-an-architecture-review-it-like-one-23fp)
-- [Free Tokens, Real Queues: Measure What Your LLM Calls Actually Cost](https://dev.to/hackrs_3352/free-tokens-real-queues-measure-what-your-llm-calls-actually-cost-1k4i)
-- [3 Things I Learned Building a Smart Contract Project with Foundry](https://dev.to/alinasirlou/3-things-i-learned-building-a-smart-contract-project-with-foundry-21he)
+- [MEU COMEÇO NA ÁREA DA TECNOLOGIA](https://dev.to/jose_neto/meu-comeco-na-area-da-tecnologia-3fm9)
+- [Observability Stack: Prometheus, Node Exporter &amp; Grafana](https://dev.to/nishant_bhardwaj_9135ba51/observability-stack-prometheus-node-exporter-grafana-2j3o)
+- [A Vote About Bots Is Really a Vote About Trust](https://dev.to/maroneta/a-vote-about-bots-is-really-a-vote-about-trust-f3k)
+- [What Lowercasing Taught Me About Trusting Strings](https://dev.to/maroneta/what-lowercasing-taught-me-about-trusting-strings-3mdi)
 <!-- BLOG-POST-LIST:END -->
 
