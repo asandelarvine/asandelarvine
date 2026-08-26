@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [两家实验室的算力垄断之路：Dylan Patel 详解 AI 经济学](https://dev.to/cognitalk/two-labs-will-control-most-of-the-worlds-compute-dylan-patel-on-ai-economics-28i)
-- [Needle 2: the 14 MB agentic model, tested properly](https://dev.to/cognitalk/needle-2-the-14-mb-agentic-model-tested-properly-4869)
-- [Cloudflare Adds One-Click Login Gate for Internally Built Apps](https://dev.to/mikefluff/cloudflare-adds-one-click-login-gate-for-internally-built-apps-1l1o)
-- [[Boost]](https://dev.to/copyleftdev/-1ijk)
+- [Building an Automated QA KPI Dashboard for Playwright &amp; BDD Pipelines](https://dev.to/she11_qa/building-an-automated-qa-kpi-dashboard-for-playwright-bdd-pipelines-31p7)
+- [Portfolio Update, I Guess](https://dev.to/adamthedeveloper/portfolio-update-i-guess-4ob3)
+- [A year of coding by talking: what I gained and what I lost](https://dev.to/tacckim/a-year-of-coding-by-talking-what-i-gained-and-what-i-lost-1p15)
+- [I built plugins for three editors. Everywhere, you&#39;re a guest in someone else&#39;s house](https://dev.to/eugeniya_ivanova_4a58eadc/i-built-plugins-for-three-editors-everywhere-youre-a-guest-in-someone-elses-house-34ck)
 <!-- BLOG-POST-LIST:END -->
 
