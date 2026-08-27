@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Six contracts that pass EXTCODESIZE&lpar;owner&rpar; &gt; 0 and still withdraw their order](https://dev.to/edycutjong/six-contracts-that-pass-extcodesizeowner-0-and-still-withdraw-their-order-11e0)
-- [[Go in Practice] Writing Modern Go with AI: Testing JetBrains go-modern-guidelines and Refactoring a 1,039-line main.go](https://dev.to/gde/go-in-practice-writing-modern-go-with-ai-testing-jetbrains-go-modern-guidelines-and-refactoring-151o)
-- [UI Resilience: React State Machine Architecture ⚙️](https://dev.to/iprajapatiparesh/ui-resilience-react-state-machine-architecture-418h)
-- [I Published Skills to 5 AI Marketplaces in One Week — Here&#39;s the Brutal Automation Ceiling Test](https://dev.to/felixwang007/i-published-skills-to-5-ai-marketplaces-in-one-week-heres-the-brutal-automation-ceiling-test-8gh)
+- [VectorAI DB Doesn&#39;t Embed Your Text, and That&#39;s the Point](https://dev.to/gerimate/vectorai-db-doesnt-embed-your-text-and-thats-the-point-3n34)
+- [I Built a CLI to Answer One Question: What Will This Change Break?](https://dev.to/albz/i-built-a-cli-to-answer-one-question-what-will-this-change-break-114o)
+- [Grok&#39;s Zero-Click Chat Leak: When Encrypted Text Becomes a Trusted Instruction](https://dev.to/coridev/groks-zero-click-chat-leak-when-encrypted-text-becomes-a-trusted-instruction-5h6d)
+- [How I Set Up Claude to Actually Work Like My Pair Programmer](https://dev.to/rahuls24/how-i-set-up-claude-to-actually-work-like-my-pair-programmer-42f8)
 <!-- BLOG-POST-LIST:END -->
 
