@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Worker Troubleshooting: Background Queue Retry Exhaustion](https://dev.to/brennthorn8571/nodejs-worker-troubleshooting-background-queue-retry-exhaustion-504f)
-- [Agents Should Be Durable, Not Long-Lived](https://dev.to/soasme/agents-should-be-durable-not-long-lived-205e)
-- [How I Built an SEO-Optimized Portfolio with Next.js 16](https://dev.to/hasnainabdi/how-i-built-an-seo-optimized-portfolio-with-nextjs-16-2e51)
-- [The Wire](https://dev.to/davidevlops/the-wire-3if1)
+- [Six contracts that pass EXTCODESIZE&lpar;owner&rpar; &gt; 0 and still withdraw their order](https://dev.to/edycutjong/six-contracts-that-pass-extcodesizeowner-0-and-still-withdraw-their-order-11e0)
+- [[Go in Practice] Writing Modern Go with AI: Testing JetBrains go-modern-guidelines and Refactoring a 1,039-line main.go](https://dev.to/gde/go-in-practice-writing-modern-go-with-ai-testing-jetbrains-go-modern-guidelines-and-refactoring-151o)
+- [UI Resilience: React State Machine Architecture ⚙️](https://dev.to/iprajapatiparesh/ui-resilience-react-state-machine-architecture-418h)
+- [I Published Skills to 5 AI Marketplaces in One Week — Here&#39;s the Brutal Automation Ceiling Test](https://dev.to/felixwang007/i-published-skills-to-5-ai-marketplaces-in-one-week-heres-the-brutal-automation-ceiling-test-8gh)
 <!-- BLOG-POST-LIST:END -->
 
