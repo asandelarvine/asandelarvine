@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [VectorAI DB Doesn&#39;t Embed Your Text, and That&#39;s the Point](https://dev.to/gerimate/vectorai-db-doesnt-embed-your-text-and-thats-the-point-3n34)
-- [I Built a CLI to Answer One Question: What Will This Change Break?](https://dev.to/albz/i-built-a-cli-to-answer-one-question-what-will-this-change-break-114o)
-- [Grok&#39;s Zero-Click Chat Leak: When Encrypted Text Becomes a Trusted Instruction](https://dev.to/coridev/groks-zero-click-chat-leak-when-encrypted-text-becomes-a-trusted-instruction-5h6d)
-- [How I Set Up Claude to Actually Work Like My Pair Programmer](https://dev.to/rahuls24/how-i-set-up-claude-to-actually-work-like-my-pair-programmer-42f8)
+- [PaperCut Zero-Day: Why &#39;Boring&#39; Internal Apps Get Hit First](https://dev.to/sheersafe/papercut-zero-day-why-boring-internal-apps-get-hit-first-34c9)
+- [Database Performance for Developers: Indexing, Query Plans, and the Queries That Don&#39;t Scale](https://dev.to/apeder/database-performance-for-developers-indexing-query-plans-and-the-queries-that-dont-scale-472e)
+- [Google Lens Nears 20 Billion Monthly Searches: What Visual Search Means for SEO](https://dev.to/alifar/google-lens-nears-20-billion-monthly-searches-what-visual-search-means-for-seo-ofm)
+- [I was solving agent portability at the wrong boundary](https://dev.to/michaeltruong/i-was-solving-agent-portability-at-the-wrong-boundary-1406)
 <!-- BLOG-POST-LIST:END -->
 
