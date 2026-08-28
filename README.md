@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From 0 to Google&#39;s First Page: How We Scaled Our Web Traffic +266% in One Week 🚀](https://dev.to/kevingarzao/from-0-to-googles-first-page-how-we-scaled-our-web-traffic-266-in-one-week-3idc)
-- [Creating and Managing Virtual Machine Images and Scale Sets in Azure: A Step-by-Step Guide](https://dev.to/sudaisib/creating-and-managing-virtual-machine-images-and-scale-sets-in-azure-a-step-by-step-guide-2a6o)
-- [NoWreck v0.12.0 — Provider Consolidation + Scan Caching](https://dev.to/astralxvoid/nowreck-v0120-provider-consolidation-scan-caching-49ne)
-- [I Tested My Own Method Four Times. Its Strongest Claim Never Passed.](https://dev.to/mspro3210/i-tested-my-own-method-four-times-its-strongest-claim-never-passed-5djp)
+- [Why UNIQUE&lpar;event_id&rpar; Is the Double-Charge Defense Your Agent Rail Can&#39;t Skip](https://dev.to/sam_hiotis_117598dbfa3ac2/why-uniqueeventid-is-the-double-charge-defense-your-agent-rail-cant-skip-5df0)
+- [LuaDB: A pure Lua embeddable SQL database for game save files, state tracking, and cloud sync](https://dev.to/cold_war/luadb-a-pure-lua-embeddable-sql-database-for-game-save-files-state-tracking-and-cloud-sync-l0p)
+- [Comparing pricing models across four WordPress maintenance tools — what the shape of a price reveals about cost structure](https://dev.to/susumun/comparing-pricing-models-across-four-wordpress-maintenance-tools-what-the-shape-of-a-price-4711)
+- [The Neo Fermi/Wilson AI Paradox](https://dev.to/regis-ud/the-neo-fermiwilson-ai-paradox-3oln)
 <!-- BLOG-POST-LIST:END -->
 
