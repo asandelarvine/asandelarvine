@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Launching vizcrush: Three Beliefs My Benchmarks Killed](https://dev.to/debugdiary1/launching-vizcrush-three-beliefs-my-benchmarks-killed-2kf0)
-- [Airflow Scheduling: Assets vs. Cron | Which One Should You Use?](https://dev.to/guilherme_daros/airflow-scheduling-assets-vs-cron-which-one-should-you-use-2gjd)
-- [The State of Conversational AI in 2026, measured](https://dev.to/phwizard/the-state-of-conversational-ai-in-2026-measured-2gp2)
-- [[Boost]](https://dev.to/psycho_gopher/-3ld7)
+- [Human-Aligned Decision Transformers for satellite anomaly response operations for extreme data sparsity scenarios](https://dev.to/rikinptl/human-aligned-decision-transformers-for-satellite-anomaly-response-operations-for-extreme-data-40o6)
+- [How to Send Form Submissions to Notion Automatically Without Zapier](https://dev.to/allenarduino/how-to-send-form-submissionsto-notion-automatically-withoutzapier-56co)
+- [ROBOTICS IS MORE THAN HARDWARE AND EMBEDDED SYSTEMS](https://dev.to/vontek/robotics-is-more-than-hardware-and-embedded-systems-2cpl)
+- [PAGI: What happens to a Send in Flight?](https://dev.to/jjn1056/wpens-to-a-send-in-flightpolishing-pagis-disconnect-contract-1n34)
 <!-- BLOG-POST-LIST:END -->
 
