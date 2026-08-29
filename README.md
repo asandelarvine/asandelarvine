@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Subqueries vs CTEs: Query Optimizer Internals &amp; Memory Spooling Explained](https://dev.to/arpitmbangre/subqueries-vs-ctes-query-optimizer-internals-memory-spooling-explained-4mlm)
-- [Building a Client-Side Byte to String Decoder with Unicode Support](https://dev.to/hoangvibecode/building-a-client-side-byte-to-string-decoder-with-unicode-support-35n)
-- [okf-guard: A Security Layer for Open Knowledge Format &lpar;OKF&rpar; Pipelines](https://dev.to/darshan_buddhdev/catching-prompt-injection-before-it-enters-a-trusted-knowledge-base-5hf4)
-- [LeetCode ~ first 30 Hard problems, with solutions](https://dev.to/aniruddha_adak/leetcode-first-30-hard-problems-with-solutions-2ioe)
+- [How to Set Up DuckDB &lpar;Run SQL on a CSV With No Import Step&rpar;](https://dev.to/michaelnocito/how-to-set-up-duckdb-run-sql-on-a-csv-with-no-import-step-16nk)
+- [The Pipeline Worked. Then the Research Outgrew It.](https://dev.to/daemonic01/the-pipeline-worked-then-the-research-outgrew-it-pk4)
+- [pandas read_csv: Your First DataFrame, and What It Guessed](https://dev.to/michaelnocito/pandas-readcsv-your-first-dataframe-and-what-it-guessed-icm)
+- [pandas pct_change and cumsum: Percent Change and Running Totals](https://dev.to/michaelnocito/pandas-pctchange-and-cumsum-percent-change-and-running-totals-5ca1)
 <!-- BLOG-POST-LIST:END -->
 
