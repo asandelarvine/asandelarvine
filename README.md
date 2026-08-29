@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up DuckDB &lpar;Run SQL on a CSV With No Import Step&rpar;](https://dev.to/michaelnocito/how-to-set-up-duckdb-run-sql-on-a-csv-with-no-import-step-16nk)
-- [The Pipeline Worked. Then the Research Outgrew It.](https://dev.to/daemonic01/the-pipeline-worked-then-the-research-outgrew-it-pk4)
-- [pandas read_csv: Your First DataFrame, and What It Guessed](https://dev.to/michaelnocito/pandas-readcsv-your-first-dataframe-and-what-it-guessed-icm)
-- [pandas pct_change and cumsum: Percent Change and Running Totals](https://dev.to/michaelnocito/pandas-pctchange-and-cumsum-percent-change-and-running-totals-5ca1)
+- [A Beloved Classic Gets a Second Life: Why I Forked Uniform Server](https://dev.to/rob_de_roy/a-beloved-classic-gets-a-second-life-why-i-forked-uniform-server-18hc)
+- [I measured the open-source bounty market before entering it. Then I didn&#39;t enter.](https://dev.to/aion_autonomous_org/i-measured-the-open-source-bounty-market-before-entering-it-then-i-didnt-enter-93n)
+- [I built an autonomous treasury agent, then let a code review bot find every way it could lose money](https://dev.to/codedpool/i-built-an-autonomous-treasury-agent-then-let-a-code-review-bot-find-every-way-it-could-lose-money-4ocf)
+- [Your Supabase anon key can probably read your whole users table](https://dev.to/mohibakhon/your-supabase-anon-key-can-probably-read-your-whole-users-table-dhf)
 <!-- BLOG-POST-LIST:END -->
 
