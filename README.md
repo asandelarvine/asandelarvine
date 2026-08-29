@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why UNIQUE&lpar;event_id&rpar; Is the Double-Charge Defense Your Agent Rail Can&#39;t Skip](https://dev.to/sam_hiotis_117598dbfa3ac2/why-uniqueeventid-is-the-double-charge-defense-your-agent-rail-cant-skip-5df0)
-- [LuaDB: A pure Lua embeddable SQL database for game save files, state tracking, and cloud sync](https://dev.to/cold_war/luadb-a-pure-lua-embeddable-sql-database-for-game-save-files-state-tracking-and-cloud-sync-l0p)
-- [Comparing pricing models across four WordPress maintenance tools — what the shape of a price reveals about cost structure](https://dev.to/susumun/comparing-pricing-models-across-four-wordpress-maintenance-tools-what-the-shape-of-a-price-4711)
-- [The Neo Fermi/Wilson AI Paradox](https://dev.to/regis-ud/the-neo-fermiwilson-ai-paradox-3oln)
+- [Subqueries vs CTEs: Query Optimizer Internals &amp; Memory Spooling Explained](https://dev.to/arpitmbangre/subqueries-vs-ctes-query-optimizer-internals-memory-spooling-explained-4mlm)
+- [Building a Client-Side Byte to String Decoder with Unicode Support](https://dev.to/hoangvibecode/building-a-client-side-byte-to-string-decoder-with-unicode-support-35n)
+- [okf-guard: A Security Layer for Open Knowledge Format &lpar;OKF&rpar; Pipelines](https://dev.to/darshan_buddhdev/catching-prompt-injection-before-it-enters-a-trusted-knowledge-base-5hf4)
+- [LeetCode ~ first 30 Hard problems, with solutions](https://dev.to/aniruddha_adak/leetcode-first-30-hard-problems-with-solutions-2ioe)
 <!-- BLOG-POST-LIST:END -->
 
