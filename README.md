@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beloved Classic Gets a Second Life: Why I Forked Uniform Server](https://dev.to/rob_de_roy/a-beloved-classic-gets-a-second-life-why-i-forked-uniform-server-18hc)
-- [I measured the open-source bounty market before entering it. Then I didn&#39;t enter.](https://dev.to/aion_autonomous_org/i-measured-the-open-source-bounty-market-before-entering-it-then-i-didnt-enter-93n)
-- [I built an autonomous treasury agent, then let a code review bot find every way it could lose money](https://dev.to/codedpool/i-built-an-autonomous-treasury-agent-then-let-a-code-review-bot-find-every-way-it-could-lose-money-4ocf)
-- [Your Supabase anon key can probably read your whole users table](https://dev.to/mohibakhon/your-supabase-anon-key-can-probably-read-your-whole-users-table-dhf)
+- [Launching vizcrush: Three Beliefs My Benchmarks Killed](https://dev.to/debugdiary1/launching-vizcrush-three-beliefs-my-benchmarks-killed-2kf0)
+- [Airflow Scheduling: Assets vs. Cron | Which One Should You Use?](https://dev.to/guilherme_daros/airflow-scheduling-assets-vs-cron-which-one-should-you-use-2gjd)
+- [The State of Conversational AI in 2026, measured](https://dev.to/phwizard/the-state-of-conversational-ai-in-2026-measured-2gp2)
+- [[Boost]](https://dev.to/psycho_gopher/-3ld7)
 <!-- BLOG-POST-LIST:END -->
 
