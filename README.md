@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Human-Aligned Decision Transformers for satellite anomaly response operations for extreme data sparsity scenarios](https://dev.to/rikinptl/human-aligned-decision-transformers-for-satellite-anomaly-response-operations-for-extreme-data-40o6)
-- [How to Send Form Submissions to Notion Automatically Without Zapier](https://dev.to/allenarduino/how-to-send-form-submissionsto-notion-automatically-withoutzapier-56co)
-- [ROBOTICS IS MORE THAN HARDWARE AND EMBEDDED SYSTEMS](https://dev.to/vontek/robotics-is-more-than-hardware-and-embedded-systems-2cpl)
-- [PAGI: What happens to a Send in Flight?](https://dev.to/jjn1056/wpens-to-a-send-in-flightpolishing-pagis-disconnect-contract-1n34)
+- [Oracle Manipulation Risk Report: Bybit](https://dev.to/dannydoes_2abdf9c/oracle-manipulation-risk-report-bybit-4j8e)
+- [Best Object Storage for Private Image Thumbnails and Signed Links in Node.js](https://dev.to/zanesterling7589/best-object-storage-for-private-image-thumbnails-and-signed-links-in-nodejs-465c)
+- [Your models agreed with each other. They were agreeing with themselves.](https://dev.to/ilya_mozerov_867dbdd91feb/your-models-agreed-with-each-other-they-were-agreeing-with-themselves-3jb0)
+- [Stop Guessing Your App&#39;s Resource Requirements](https://dev.to/mfdilawar/stop-guessing-your-apps-resource-requirements-5a34)
 <!-- BLOG-POST-LIST:END -->
 
