@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Oracle Manipulation Risk Report: Bybit](https://dev.to/dannydoes_2abdf9c/oracle-manipulation-risk-report-bybit-4j8e)
-- [Best Object Storage for Private Image Thumbnails and Signed Links in Node.js](https://dev.to/zanesterling7589/best-object-storage-for-private-image-thumbnails-and-signed-links-in-nodejs-465c)
-- [Your models agreed with each other. They were agreeing with themselves.](https://dev.to/ilya_mozerov_867dbdd91feb/your-models-agreed-with-each-other-they-were-agreeing-with-themselves-3jb0)
-- [Stop Guessing Your App&#39;s Resource Requirements](https://dev.to/mfdilawar/stop-guessing-your-apps-resource-requirements-5a34)
+- [Overcoming Imposter Syndrome in My First MLH Hackathon](https://dev.to/juanita_mumbi_25179d5689f/overcoming-imposter-syndrome-in-my-first-mlh-hackathon-1836)
+- [5 Practical Performance Tweaks That Actually Sped Up Our Web App](https://dev.to/alextaylar12/5-practical-performance-tweaks-that-actually-sped-up-our-web-app-4d93)
+- [Verdict: Evidence-First Agent Harness for Reproducible Bug Fixes](https://dev.to/mech_app_ai/verdict-evidence-first-agent-harness-for-reproducible-bug-fixes-flk)
+- [Persona-Execution Separation: Why Governed AI Agents Need Two Trust Domains](https://dev.to/mech_app_ai/persona-execution-separation-why-governed-ai-agents-need-two-trust-domains-1dic)
 <!-- BLOG-POST-LIST:END -->
 
