@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Overcoming Imposter Syndrome in My First MLH Hackathon](https://dev.to/juanita_mumbi_25179d5689f/overcoming-imposter-syndrome-in-my-first-mlh-hackathon-1836)
-- [5 Practical Performance Tweaks That Actually Sped Up Our Web App](https://dev.to/alextaylar12/5-practical-performance-tweaks-that-actually-sped-up-our-web-app-4d93)
-- [Verdict: Evidence-First Agent Harness for Reproducible Bug Fixes](https://dev.to/mech_app_ai/verdict-evidence-first-agent-harness-for-reproducible-bug-fixes-flk)
-- [Persona-Execution Separation: Why Governed AI Agents Need Two Trust Domains](https://dev.to/mech_app_ai/persona-execution-separation-why-governed-ai-agents-need-two-trust-domains-1dic)
+- [7 Common Flow Designer Challenges in ServiceNow and How to Handle Them](https://dev.to/vigo_1508/7-common-flow-designer-challenges-in-servicenow-and-how-to-handle-them-28g6)
+- [A Delivery Label Is Not a Fulfillment Model](https://dev.to/xiuai-lab/a-delivery-label-is-not-a-fulfillment-model-5b8)
+- [Scanned Claims PDF Intake in 2026 &lpar;Privacy, Retention, and Signing Evidence&rpar;](https://dev.to/ephraimpierce7934/scanned-claims-pdf-intake-in-2026-privacy-retention-and-signing-evidence-15jg)
+- [Help wanted: validate a React KPI Scorecard SPFx sample in SharePoint Online](https://dev.to/vystartasv/help-wanted-validate-a-react-kpi-scorecard-spfx-sample-in-sharepoint-online-4ml9)
 <!-- BLOG-POST-LIST:END -->
 
