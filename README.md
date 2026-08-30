@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Common Flow Designer Challenges in ServiceNow and How to Handle Them](https://dev.to/vigo_1508/7-common-flow-designer-challenges-in-servicenow-and-how-to-handle-them-28g6)
-- [A Delivery Label Is Not a Fulfillment Model](https://dev.to/xiuai-lab/a-delivery-label-is-not-a-fulfillment-model-5b8)
-- [Scanned Claims PDF Intake in 2026 &lpar;Privacy, Retention, and Signing Evidence&rpar;](https://dev.to/ephraimpierce7934/scanned-claims-pdf-intake-in-2026-privacy-retention-and-signing-evidence-15jg)
-- [Help wanted: validate a React KPI Scorecard SPFx sample in SharePoint Online](https://dev.to/vystartasv/help-wanted-validate-a-react-kpi-scorecard-spfx-sample-in-sharepoint-online-4ml9)
+- [Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure](https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m)
+- [Tell Me About You](https://dev.to/kenielzep97/tell-me-about-you-1hi4)
+- [Decoding an Amortization Schedule: How to Audit a Mortgage Calculator&#39;s Output Row by Row](https://dev.to/lizely/decoding-an-amortization-schedule-how-to-audit-a-mortgage-calculators-output-row-by-row-41c1)
+- [The guardrails that matter are code, not prompts](https://dev.to/blockintel/the-guardrails-that-matter-are-code-not-prompts-1ii8)
 <!-- BLOG-POST-LIST:END -->
 
