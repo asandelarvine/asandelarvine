@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure](https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m)
-- [Tell Me About You](https://dev.to/kenielzep97/tell-me-about-you-1hi4)
-- [Decoding an Amortization Schedule: How to Audit a Mortgage Calculator&#39;s Output Row by Row](https://dev.to/lizely/decoding-an-amortization-schedule-how-to-audit-a-mortgage-calculators-output-row-by-row-41c1)
-- [The guardrails that matter are code, not prompts](https://dev.to/blockintel/the-guardrails-that-matter-are-code-not-prompts-1ii8)
+- [Macula - An Ecosystem for Mesh-native Computing](https://dev.to/rgfaber/an-ecosystem-for-mesh-native-computing-4f8l)
+- [Pixel Patrol: a GDPR watchdog whose main job is staying quiet](https://dev.to/thatmike1/pixel-patrol-a-gdpr-watchdog-whose-main-job-is-staying-quiet-l51)
+- [I Reverse Engineered Nothing Earbuds to Build a Native Linux App](https://dev.to/oneydef/i-reverse-engineered-nothing-earbuds-to-build-a-native-linux-app-55an)
+- [[Boost]](https://dev.to/raymiles94/-59da)
 <!-- BLOG-POST-LIST:END -->
 
