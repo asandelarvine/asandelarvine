@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Google ADK TypeScript Agents Without Chasing Sentences](https://dev.to/raju_dandigam/testing-google-adk-typescript-agents-without-chasing-sentences-3d25)
-- [Fourteen Speaker Encoders Heard the Same Voice. Their Error Rates Differed Five-Fold.](https://dev.to/bedvibe_studios/fourteen-speaker-encoders-heard-the-same-voice-their-error-rates-differed-five-fold-1pmn)
-- [QuEra Automates Quantum Laser Maintenance with Anthropic AI](https://dev.to/vpodk/quera-automates-quantum-laser-maintenance-with-anthropic-ai-1ehd)
-- [I Built GoleTalk — A Somali-First Social Platform Built for the Somali Internet 🇸🇴](https://dev.to/yaskahaaji/i-built-goletalk-a-somali-first-social-platform-built-for-the-somali-internet-3jg3)
+- [Archify: A Verifiable Architecture Diagramming Skill for AI Coding Agents](https://dev.to/terminalchai/archify-a-verifiable-architecture-diagramming-skill-for-ai-coding-agents-2ogc)
+- [The wait queue is just a channel: building a small distributed lock server in Go](https://dev.to/freakmaxi/the-wait-queue-is-just-a-channel-building-a-small-distributed-lock-server-in-go-4p01)
+- [Badger: An E-Ink Badge I Use For Conferences](https://dev.to/hacksore/badger-an-e-ink-badge-i-use-for-conferences-2jmh)
+- [How I tested Row Level Security before shipping a SaaS starter kit &lpar;so one user can&#39;t see another&#39;s data&rpar;](https://dev.to/flocirica/how-i-tested-row-level-security-before-shipping-a-saas-starter-kit-so-one-user-cant-see-anothers-3c6o)
 <!-- BLOG-POST-LIST:END -->
 
