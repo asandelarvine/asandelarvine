@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I faked a real-time opponent on shared hosting with zero background processes](https://dev.to/ecom_solutions_04a07df036/how-i-faked-a-real-time-opponent-on-shared-hosting-with-zero-background-processes-9n4)
-- [Talk to Your Medical History: Building a Personal EHR RAG with Milvus and Unstructured.io 🩺](https://dev.to/wellallytech/talk-to-your-medical-history-building-a-personal-ehr-rag-with-milvus-and-unstructuredio-17lm)
-- [Getting Started with Excel for Data Analytics: From Basics to Data Cleaning](https://dev.to/felix_omayo_95e7e6dafed3b/getting-started-with-excel-for-data-analytics-from-basics-to-data-cleaning-15pj)
-- [Android Developer Verification hits Brazil on September 30](https://dev.to/aoligama/android-developer-verification-hits-brazil-on-september-30-1856)
+- [I Built a Retry Library Because I Kept Losing Failed API Calls](https://dev.to/aubaid_farroukh_882b5ec05/i-built-a-retry-library-because-i-kept-losing-failed-api-calls-3gn3)
+- [Delta E is a distance, not a score](https://dev.to/deland/delta-e-is-a-distance-not-a-score-68b)
+- [My LLM Critic Flip-Flops on Every Run. That&#39;s Fine — Because a Frozenset Decides What&#39;s Fatal.](https://dev.to/debashish_ghosal/my-llm-critic-flip-flops-on-every-run-thats-fine-because-a-frozenset-decides-whats-fatal-4ep9)
+- [Async Svelte: Using await Directly in Your Components](https://dev.to/grimicorn/async-svelte-using-await-directly-in-your-components-1bgf)
 <!-- BLOG-POST-LIST:END -->
 
