@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Retry Library Because I Kept Losing Failed API Calls](https://dev.to/aubaid_farroukh_882b5ec05/i-built-a-retry-library-because-i-kept-losing-failed-api-calls-3gn3)
-- [Delta E is a distance, not a score](https://dev.to/deland/delta-e-is-a-distance-not-a-score-68b)
-- [My LLM Critic Flip-Flops on Every Run. That&#39;s Fine — Because a Frozenset Decides What&#39;s Fatal.](https://dev.to/debashish_ghosal/my-llm-critic-flip-flops-on-every-run-thats-fine-because-a-frozenset-decides-whats-fatal-4ep9)
-- [Async Svelte: Using await Directly in Your Components](https://dev.to/grimicorn/async-svelte-using-await-directly-in-your-components-1bgf)
+- [Testing Google ADK TypeScript Agents Without Chasing Sentences](https://dev.to/raju_dandigam/testing-google-adk-typescript-agents-without-chasing-sentences-3d25)
+- [Fourteen Speaker Encoders Heard the Same Voice. Their Error Rates Differed Five-Fold.](https://dev.to/bedvibe_studios/fourteen-speaker-encoders-heard-the-same-voice-their-error-rates-differed-five-fold-1pmn)
+- [QuEra Automates Quantum Laser Maintenance with Anthropic AI](https://dev.to/vpodk/quera-automates-quantum-laser-maintenance-with-anthropic-ai-1ehd)
+- [I Built GoleTalk — A Somali-First Social Platform Built for the Somali Internet 🇸🇴](https://dev.to/yaskahaaji/i-built-goletalk-a-somali-first-social-platform-built-for-the-somali-internet-3jg3)
 <!-- BLOG-POST-LIST:END -->
 
