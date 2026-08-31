@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Macula - An Ecosystem for Mesh-native Computing](https://dev.to/rgfaber/an-ecosystem-for-mesh-native-computing-4f8l)
-- [Pixel Patrol: a GDPR watchdog whose main job is staying quiet](https://dev.to/thatmike1/pixel-patrol-a-gdpr-watchdog-whose-main-job-is-staying-quiet-l51)
-- [I Reverse Engineered Nothing Earbuds to Build a Native Linux App](https://dev.to/oneydef/i-reverse-engineered-nothing-earbuds-to-build-a-native-linux-app-55an)
-- [[Boost]](https://dev.to/raymiles94/-59da)
+- [How I faked a real-time opponent on shared hosting with zero background processes](https://dev.to/ecom_solutions_04a07df036/how-i-faked-a-real-time-opponent-on-shared-hosting-with-zero-background-processes-9n4)
+- [Talk to Your Medical History: Building a Personal EHR RAG with Milvus and Unstructured.io 🩺](https://dev.to/wellallytech/talk-to-your-medical-history-building-a-personal-ehr-rag-with-milvus-and-unstructuredio-17lm)
+- [Getting Started with Excel for Data Analytics: From Basics to Data Cleaning](https://dev.to/felix_omayo_95e7e6dafed3b/getting-started-with-excel-for-data-analytics-from-basics-to-data-cleaning-15pj)
+- [Android Developer Verification hits Brazil on September 30](https://dev.to/aoligama/android-developer-verification-hits-brazil-on-september-30-1856)
 <!-- BLOG-POST-LIST:END -->
 
