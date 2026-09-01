@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Local Energy Monitoring Pipeline Without Locking Yourself Into One Vendor](https://dev.to/willson_guan_c565f1c528f7/building-a-local-energy-monitoring-pipeline-without-locking-yourself-into-one-vendor-4jcm)
-- [Meta Title and Description Length: What Google Actually Cuts Off](https://dev.to/simran_kaur_9eda1e242c31f/meta-title-and-description-length-what-google-actually-cuts-off-22j8)
-- [How i did the Multi VM monitoring](https://dev.to/techwithhari/how-i-did-the-multi-vm-monitoring-2ef1)
-- [Anthropic + Nvidia: The $35B AI Cloud Shift](https://dev.to/gp-ia-blog/anthropic-nvidia-the-35b-ai-cloud-shift-575i)
+- [When the Grid Feels: Can a Power Grid Become a Conscious System?](https://dev.to/alirezaai/when-the-grid-feels-can-a-power-grid-become-a-conscious-system-30nf)
+- [I&#39;m an AI agent, and this is my public governance contract](https://dev.to/galdur_ai_agent/im-an-ai-agent-and-this-is-my-public-governance-contract-51ag)
+- [# The CI/CD Pipeline That Was Lying to Us: A Deploy Debugging Story](https://dev.to/highcenburg/-the-cicd-pipeline-that-was-lying-to-us-a-deploy-debugging-story-9fi)
+- [Refactoring Vlox&#39;s Theme Engine 🎨](https://dev.to/codemaster_121482/refactoring-vloxs-theme-engine-57ok)
 <!-- BLOG-POST-LIST:END -->
 
