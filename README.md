@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Archify: A Verifiable Architecture Diagramming Skill for AI Coding Agents](https://dev.to/terminalchai/archify-a-verifiable-architecture-diagramming-skill-for-ai-coding-agents-2ogc)
-- [The wait queue is just a channel: building a small distributed lock server in Go](https://dev.to/freakmaxi/the-wait-queue-is-just-a-channel-building-a-small-distributed-lock-server-in-go-4p01)
-- [Badger: An E-Ink Badge I Use For Conferences](https://dev.to/hacksore/badger-an-e-ink-badge-i-use-for-conferences-2jmh)
-- [How I tested Row Level Security before shipping a SaaS starter kit &lpar;so one user can&#39;t see another&#39;s data&rpar;](https://dev.to/flocirica/how-i-tested-row-level-security-before-shipping-a-saas-starter-kit-so-one-user-cant-see-anothers-3c6o)
+- [Anthropic Reports Claude Security Evaluation Incidents Involving Real Systems](https://dev.to/alifar/anthropic-reports-claude-security-evaluation-incidents-involving-real-systems-3jp3)
+- [LocalStack vs Spinifex: the Right Tool for Dev, the Right Tool for Production](https://dev.to/toddyholiday/localstack-vs-spinifex-the-right-tool-for-dev-the-right-tool-for-production-2c42)
+- [Program Organization &lpar;with Examples in C&rpar;](https://dev.to/pauljlucas/program-organization-with-examples-in-c-20o1)
+- [I Built an Autonomous AI Agent That Hunts Bounties. Here&#39;s What Happened.](https://dev.to/autarchagent/i-built-an-autonomous-ai-agent-that-hunts-bounties-heres-what-happened-44no)
 <!-- BLOG-POST-LIST:END -->
 
