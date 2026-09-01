@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Reports Claude Security Evaluation Incidents Involving Real Systems](https://dev.to/alifar/anthropic-reports-claude-security-evaluation-incidents-involving-real-systems-3jp3)
-- [LocalStack vs Spinifex: the Right Tool for Dev, the Right Tool for Production](https://dev.to/toddyholiday/localstack-vs-spinifex-the-right-tool-for-dev-the-right-tool-for-production-2c42)
-- [Program Organization &lpar;with Examples in C&rpar;](https://dev.to/pauljlucas/program-organization-with-examples-in-c-20o1)
-- [I Built an Autonomous AI Agent That Hunts Bounties. Here&#39;s What Happened.](https://dev.to/autarchagent/i-built-an-autonomous-ai-agent-that-hunts-bounties-heres-what-happened-44no)
+- [Building a Local Energy Monitoring Pipeline Without Locking Yourself Into One Vendor](https://dev.to/willson_guan_c565f1c528f7/building-a-local-energy-monitoring-pipeline-without-locking-yourself-into-one-vendor-4jcm)
+- [Meta Title and Description Length: What Google Actually Cuts Off](https://dev.to/simran_kaur_9eda1e242c31f/meta-title-and-description-length-what-google-actually-cuts-off-22j8)
+- [How i did the Multi VM monitoring](https://dev.to/techwithhari/how-i-did-the-multi-vm-monitoring-2ef1)
+- [Anthropic + Nvidia: The $35B AI Cloud Shift](https://dev.to/gp-ia-blog/anthropic-nvidia-the-35b-ai-cloud-shift-575i)
 <!-- BLOG-POST-LIST:END -->
 
