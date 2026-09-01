@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside the Puffin File Format](https://dev.to/alexmercedcoder/inside-the-puffin-file-format-p21)
-- [OpenAI Prism Launches a GPT-5.2 Workspace for Scientific and LaTeX Writing](https://dev.to/alifar/openai-prism-launches-a-gpt-52-workspace-for-scientific-and-latex-writing-1o5j)
-- [I Built a Next.js Auth Boilerplate That Saves Developers Two to Four Weeks of Setup Time](https://dev.to/allenarduino/i-built-a-nextjs-auth-boilerplate-that-saves-developers-two-to-four-weeks-of-setup-time-2m3j)
-- [Measuring the Tea Break](https://dev.to/aws-builders/measuring-the-tea-break-55hf)
+- [I invented a word and I&#39;m racing to make it rank](https://dev.to/venkatesh_b_31f6c5c032613/i-invented-a-word-and-im-racing-to-make-it-rank-427e)
+- [10 MCP Servers Worth Adding to Your AI Coding Workflow in 2026](https://dev.to/erikch/10-mcp-servers-worth-adding-to-your-ai-coding-workflow-in-2026-1j1m)
+- [Four Ways a Batch Runner Can Believe It Already Finished](https://dev.to/jula-markova/four-ways-a-batch-runner-can-believe-it-already-finished-4kcd)
+- [USPTO trademark data is free and painful — we are demand-testing a watch API before building it](https://dev.to/estrechoia/uspto-trademark-data-is-free-and-painful-we-are-demand-testing-a-watch-api-before-building-it-4bne)
 <!-- BLOG-POST-LIST:END -->
 
