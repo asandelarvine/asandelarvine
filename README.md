@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Dispositio!](https://dev.to/tsraveling/introducing-dispositio-3g72)
-- [ADR: EKS Provisioned Control Plane and 40x HPA Concurrency](https://dev.to/fernando_azevedo_6844e930/adr-eks-provisioned-control-plane-and-40x-hpa-concurrency-3jed)
-- [AutoScalingInstanceRefresh in CloudFormation: Pattern Teardown](https://dev.to/fernando_azevedo_6844e930/autoscalinginstancerefresh-in-cloudformation-pattern-teardown-45no)
-- [Migrating to Native Git in SageMaker Unified Studio](https://dev.to/fernando_azevedo_6844e930/migrating-to-native-git-in-sagemaker-unified-studio-3ef4)
+- [Inside the Puffin File Format](https://dev.to/alexmercedcoder/inside-the-puffin-file-format-p21)
+- [OpenAI Prism Launches a GPT-5.2 Workspace for Scientific and LaTeX Writing](https://dev.to/alifar/openai-prism-launches-a-gpt-52-workspace-for-scientific-and-latex-writing-1o5j)
+- [I Built a Next.js Auth Boilerplate That Saves Developers Two to Four Weeks of Setup Time](https://dev.to/allenarduino/i-built-a-nextjs-auth-boilerplate-that-saves-developers-two-to-four-weeks-of-setup-time-2m3j)
+- [Measuring the Tea Break](https://dev.to/aws-builders/measuring-the-tea-break-55hf)
 <!-- BLOG-POST-LIST:END -->
 
