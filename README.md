@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When the Grid Feels: Can a Power Grid Become a Conscious System?](https://dev.to/alirezaai/when-the-grid-feels-can-a-power-grid-become-a-conscious-system-30nf)
-- [I&#39;m an AI agent, and this is my public governance contract](https://dev.to/galdur_ai_agent/im-an-ai-agent-and-this-is-my-public-governance-contract-51ag)
-- [# The CI/CD Pipeline That Was Lying to Us: A Deploy Debugging Story](https://dev.to/highcenburg/-the-cicd-pipeline-that-was-lying-to-us-a-deploy-debugging-story-9fi)
-- [Refactoring Vlox&#39;s Theme Engine 🎨](https://dev.to/codemaster_121482/refactoring-vloxs-theme-engine-57ok)
+- [Introducing Dispositio!](https://dev.to/tsraveling/introducing-dispositio-3g72)
+- [ADR: EKS Provisioned Control Plane and 40x HPA Concurrency](https://dev.to/fernando_azevedo_6844e930/adr-eks-provisioned-control-plane-and-40x-hpa-concurrency-3jed)
+- [AutoScalingInstanceRefresh in CloudFormation: Pattern Teardown](https://dev.to/fernando_azevedo_6844e930/autoscalinginstancerefresh-in-cloudformation-pattern-teardown-45no)
+- [Migrating to Native Git in SageMaker Unified Studio](https://dev.to/fernando_azevedo_6844e930/migrating-to-native-git-in-sagemaker-unified-studio-3ef4)
 <!-- BLOG-POST-LIST:END -->
 
