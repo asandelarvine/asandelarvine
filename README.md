@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Undo almost never proves what it undid](https://dev.to/mahirhir/undo-almost-never-proves-what-it-undid-15c)
-- [I Let GitHub Copilot CLI Read a Failed AI-Agent Trace—Here’s What It Found](https://dev.to/raajaryan/i-let-github-copilot-cli-read-a-failed-ai-agent-trace-heres-what-it-found-2cl3)
-- [WebFPGA + TinyML: IA en el navegador en microsegundos con una USB de $35](https://dev.to/leojulieta/webfpga-tinyml-ia-en-el-navegador-en-microsegundos-con-una-usb-de-35-1b8i)
-- [Part 4: Understanding Probability in Data Science](https://dev.to/sharonnyabuto/part-4-understanding-probability-in-data-science-235n)
+- [The Last Time I Googled an Error Message](https://dev.to/tejas164321/the-last-time-i-googled-an-error-message-5fph)
+- [My Actors worked fine until an AI agent called them](https://dev.to/apify/my-actors-worked-fine-until-an-ai-agent-called-them-4b2k)
+- [What Was on This Machine? Answering the Blast Radius Question After a Laptop Compromise](https://dev.to/gitguardian/what-was-on-this-machine-answering-the-blast-radius-question-after-a-laptop-compromise-5hk)
+- [OAuth 2.0, OpenID Connect, and a Browser SPA: How Identity Server and SPA App Talk](https://dev.to/chelsaysomething/oauth-20-openid-connect-and-a-browser-spa-how-identity-server-and-spa-app-talk-54a8)
 <!-- BLOG-POST-LIST:END -->
 
