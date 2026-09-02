@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Shopify flash sale zamanı yükü necə idarə edir?](https://dev.to/camal1o/shopify-flash-sale-zamani-yuku-nec-idar-edir-3f86)
-- [Accessible and Functional Quantity Spinbutton Pattern](https://dev.to/micaavigliano/accessible-and-functional-quantity-spinbutton-pattern-1945)
-- [Every run said pass while the pipeline was quietly getting worse](https://dev.to/unmannedops/every-run-said-pass-while-the-pipeline-was-quietly-getting-worse-592b)
-- [Why &quot;tests passed&quot; is the wrong question for an AI coding agent](https://dev.to/elirangodov/why-tests-passed-is-the-wrong-question-for-an-ai-coding-agent-4h76)
+- [SEO Priorities for 2027: Building Visibility Across AI Answers, SERPs and Communities](https://dev.to/alifar/seo-priorities-for-2027-building-visibility-across-ai-answers-serps-and-communities-24kd)
+- [Bypassing ChatGPT’s Open-Source Model Security Restrictions for Agentic Hacking](https://dev.to/raxis/bypassing-chatgpts-open-source-model-security-restrictions-for-agentic-hacking-5173)
+- [RL 1: Biological foundations and the &quot;Law of Effect&quot; &lpar;1898– 1949&rpar;](https://dev.to/mitanshgor/rl-1-biological-foundations-and-the-law-of-effect-1898-1949-1a9f)
+- [Your CI is green and your pipeline produced nothing](https://dev.to/provedone/your-ci-is-green-and-your-pipeline-produced-nothing-213o)
 <!-- BLOG-POST-LIST:END -->
 
