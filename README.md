@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js + Prettier + Husky setup](https://dev.to/extinctsion/nextjs-prettier-husky-setup-31h2)
-- [Oracle Database: A Deep Dive into the Enterprise RDBMS &lpar;2026-09-02 17:35&rpar;](https://dev.to/said_olano/oracle-database-a-deep-dive-into-the-enterprise-rdbms-2026-09-02-1735-54bi)
-- [Loss Landscapes of LLMs: The Map Beneath Gradient Descent](https://dev.to/shrsv/loss-landscapes-of-llms-the-map-beneath-gradient-descent-e5b)
-- [Designing a Webhook Delivery System for 10 Million Events a Day](https://dev.to/lovestaco/designing-a-webhook-delivery-system-for-10-million-events-a-day-2p5d)
+- [Shopify flash sale zamanı yükü necə idarə edir?](https://dev.to/camal1o/shopify-flash-sale-zamani-yuku-nec-idar-edir-3f86)
+- [Accessible and Functional Quantity Spinbutton Pattern](https://dev.to/micaavigliano/accessible-and-functional-quantity-spinbutton-pattern-1945)
+- [Every run said pass while the pipeline was quietly getting worse](https://dev.to/unmannedops/every-run-said-pass-while-the-pipeline-was-quietly-getting-worse-592b)
+- [Why &quot;tests passed&quot; is the wrong question for an AI coding agent](https://dev.to/elirangodov/why-tests-passed-is-the-wrong-question-for-an-ai-coding-agent-4h76)
 <!-- BLOG-POST-LIST:END -->
 
