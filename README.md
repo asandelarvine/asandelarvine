@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS SAP-C03 and DVA-C03: What We Know So Far &lpar;GenAI and Agents Are In&rpar;](https://dev.to/maruchin_tech_555/aws-sap-c03-and-dva-c03-what-we-know-so-far-genai-and-agents-are-in-40li)
-- [The Production AI Checklist That Nobody Publishes.](https://dev.to/aibughunter/the-production-ai-checklist-that-nobody-publishes-2jjn)
-- [You dismiss reminders. You don&#39;t ignore a pet.](https://dev.to/alexander_slatina/you-dismiss-remindersyou-dont-ignore-a-pet-2lbj)
-- [A Node.js SaaS App Field Guide to Lean KPI Telemetry and Hosted Dashboards](https://dev.to/felixhoffmann556/a-nodejs-saas-app-field-guide-to-lean-kpi-telemetry-and-hosted-dashboards-1d6o)
+- [Undo almost never proves what it undid](https://dev.to/mahirhir/undo-almost-never-proves-what-it-undid-15c)
+- [I Let GitHub Copilot CLI Read a Failed AI-Agent Trace—Here’s What It Found](https://dev.to/raajaryan/i-let-github-copilot-cli-read-a-failed-ai-agent-trace-heres-what-it-found-2cl3)
+- [WebFPGA + TinyML: IA en el navegador en microsegundos con una USB de $35](https://dev.to/leojulieta/webfpga-tinyml-ia-en-el-navegador-en-microsegundos-con-una-usb-de-35-1b8i)
+- [Part 4: Understanding Probability in Data Science](https://dev.to/sharonnyabuto/part-4-understanding-probability-in-data-science-235n)
 <!-- BLOG-POST-LIST:END -->
 
