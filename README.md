@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Last Time I Googled an Error Message](https://dev.to/tejas164321/the-last-time-i-googled-an-error-message-5fph)
-- [My Actors worked fine until an AI agent called them](https://dev.to/apify/my-actors-worked-fine-until-an-ai-agent-called-them-4b2k)
-- [What Was on This Machine? Answering the Blast Radius Question After a Laptop Compromise](https://dev.to/gitguardian/what-was-on-this-machine-answering-the-blast-radius-question-after-a-laptop-compromise-5hk)
-- [OAuth 2.0, OpenID Connect, and a Browser SPA: How Identity Server and SPA App Talk](https://dev.to/chelsaysomething/oauth-20-openid-connect-and-a-browser-spa-how-identity-server-and-spa-app-talk-54a8)
+- [Next.js + Prettier + Husky setup](https://dev.to/extinctsion/nextjs-prettier-husky-setup-31h2)
+- [Oracle Database: A Deep Dive into the Enterprise RDBMS &lpar;2026-09-02 17:35&rpar;](https://dev.to/said_olano/oracle-database-a-deep-dive-into-the-enterprise-rdbms-2026-09-02-1735-54bi)
+- [Loss Landscapes of LLMs: The Map Beneath Gradient Descent](https://dev.to/shrsv/loss-landscapes-of-llms-the-map-beneath-gradient-descent-e5b)
+- [Designing a Webhook Delivery System for 10 Million Events a Day](https://dev.to/lovestaco/designing-a-webhook-delivery-system-for-10-million-events-a-day-2p5d)
 <!-- BLOG-POST-LIST:END -->
 
