@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I invented a word and I&#39;m racing to make it rank](https://dev.to/venkatesh_b_31f6c5c032613/i-invented-a-word-and-im-racing-to-make-it-rank-427e)
-- [10 MCP Servers Worth Adding to Your AI Coding Workflow in 2026](https://dev.to/erikch/10-mcp-servers-worth-adding-to-your-ai-coding-workflow-in-2026-1j1m)
-- [Four Ways a Batch Runner Can Believe It Already Finished](https://dev.to/jula-markova/four-ways-a-batch-runner-can-believe-it-already-finished-4kcd)
-- [USPTO trademark data is free and painful — we are demand-testing a watch API before building it](https://dev.to/estrechoia/uspto-trademark-data-is-free-and-painful-we-are-demand-testing-a-watch-api-before-building-it-4bne)
+- [AWS SAP-C03 and DVA-C03: What We Know So Far &lpar;GenAI and Agents Are In&rpar;](https://dev.to/maruchin_tech_555/aws-sap-c03-and-dva-c03-what-we-know-so-far-genai-and-agents-are-in-40li)
+- [The Production AI Checklist That Nobody Publishes.](https://dev.to/aibughunter/the-production-ai-checklist-that-nobody-publishes-2jjn)
+- [You dismiss reminders. You don&#39;t ignore a pet.](https://dev.to/alexander_slatina/you-dismiss-remindersyou-dont-ignore-a-pet-2lbj)
+- [A Node.js SaaS App Field Guide to Lean KPI Telemetry and Hosted Dashboards](https://dev.to/felixhoffmann556/a-nodejs-saas-app-field-guide-to-lean-kpi-telemetry-and-hosted-dashboards-1d6o)
 <!-- BLOG-POST-LIST:END -->
 
