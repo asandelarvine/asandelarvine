@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini 3.8 Flash เทียบกับ 3.7 Flash: เปลี่ยนไปแค่ไหน คุ้มค่าที่จะอัปเกรดไหม](https://dev.to/thanawat_wonchai/gemini-38-flash-ethiiybkab-37-flash-epliiynaipaekhaihn-khumkhaathiicchaapekrdaihm-2894)
-- [Gemini 3.8 Flash vs 3.7 Flash : Nouveautés et faut-il mettre à jour ?](https://dev.to/antoine_laurentt/gemini-38-flash-vs-37-flash-nouveautes-et-faut-il-mettre-a-jour--56ce)
-- [AWS Secrets Management: Secrets Manager vs Parameter Store vs KMS — The Complete Decision Guide](https://dev.to/alpeshkumbhare/aws-secrets-management-secrets-manager-vs-parameter-store-vs-kms-the-complete-decision-guide-3j71)
-- [เจมิไน 3.8 แฟลช: เปรียบเทียบระดับการคิด ต่ำ ปานกลาง สูง พร้อมเหตุผลที่ระดับ Minimal หายไป](https://dev.to/thanawat_wonchai/ecchmiain-38-aeflch-epriiybethiiybradabkaarkhid-tam-paanklaang-suung-phrmehtuphlthiiradab-minimal-haayaip-2p2n)
+- [Production repository conventions for AI coding agents: a working contract](https://dev.to/davekurian/production-repository-conventions-for-ai-coding-agents-a-working-contract-141j)
+- [A document pipeline in 30 lines, running in a browser tab](https://dev.to/mykola_melnyk_ml/a-document-pipeline-in-30-lines-running-in-a-browser-tab-112c)
+- [When Agentic Workloads Break the PaaS Assumptions](https://dev.to/steefjan_wiggers_34a415b/when-agentic-workloads-break-the-paas-assumptions-4a28)
+- [Same-Prompt Green Is Not a Gate: Five Eval Myths](https://dev.to/gitlab_3188/same-prompt-green-is-not-a-gate-five-eval-myths-lfl)
 <!-- BLOG-POST-LIST:END -->
 
