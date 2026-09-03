@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Taming Flutter Infinite Scroll &lpar;Part 2&rpar;: Turning ScrollController into a Reactive State Machine with CubitSignalMixin](https://dev.to/gde/taming-flutter-infinite-scroll-part-2-turning-scrollcontroller-into-a-reactive-state-machine-cgh)
-- [Spring Batch: Processing Large Data Volumes Efficiently &lpar;2026-09-03 17:31&rpar;](https://dev.to/said_olano/spring-batch-processing-large-data-volumes-efficiently-2026-09-03-1731-33kc)
-- [The await That Silently Breaks navigator.clipboard.writeText&lpar;&rpar;](https://dev.to/parsajiravand/the-await-that-silently-breaks-navigatorclipboardwritetext-10oe)
-- [Installing GPT4All, an Open-Source Chatbot Application for Running LLMs](https://dev.to/vultr/installing-gpt4all-an-open-source-chatbot-application-for-running-llms-38dk)
+- [DaaC: The Lost XaaC Nobody Talks About](https://dev.to/hatamabolghasemi/daac-the-lost-xaac-nobody-talks-about-1b77)
+- [I set up my first Docker SBX kit, and here&#39;s how I did it](https://dev.to/yhary_arias/i-set-up-my-first-docker-sbx-kit-and-heres-how-i-did-it-b9a)
+- [5 Reasons to Switch From Google Analytics in 2026](https://dev.to/zenovay/5-reasons-to-switch-from-google-analytics-in-2026-1019)
+- [Your Observability Bill Is a Codebase Nobody Reviews](https://dev.to/nishant_arora/your-observability-bill-is-a-codebase-nobody-reviews-3827)
 <!-- BLOG-POST-LIST:END -->
 
