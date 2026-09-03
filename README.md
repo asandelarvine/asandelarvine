@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DaaC: The Lost XaaC Nobody Talks About](https://dev.to/hatamabolghasemi/daac-the-lost-xaac-nobody-talks-about-1b77)
-- [I set up my first Docker SBX kit, and here&#39;s how I did it](https://dev.to/yhary_arias/i-set-up-my-first-docker-sbx-kit-and-heres-how-i-did-it-b9a)
-- [5 Reasons to Switch From Google Analytics in 2026](https://dev.to/zenovay/5-reasons-to-switch-from-google-analytics-in-2026-1019)
-- [Your Observability Bill Is a Codebase Nobody Reviews](https://dev.to/nishant_arora/your-observability-bill-is-a-codebase-nobody-reviews-3827)
+- [One does not simply @Inject in TPF](https://dev.to/mbarcia/stop-inject-lm5)
+- [How to Change Themes with the Operating System in a Qt App](https://dev.to/professortom/how-to-change-themes-with-the-operating-system-in-a-qt-app-27nf)
+- [500+ коммитов за пять месяцев: как я в одиночку запустил RetroPoint](https://dev.to/wildtuna/500-kommitov-za-piat-miesiatsiev-kak-ia-v-odinochku-zapustil-retropoint-43m4)
+- [MLOps for Developers: Deploying, Monitoring, and Optimizing Machine Learning Models](https://dev.to/apeder/mlops-for-developers-deploying-monitoring-and-optimizing-machine-learning-models-2hli)
 <!-- BLOG-POST-LIST:END -->
 
