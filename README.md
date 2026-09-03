@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Production repository conventions for AI coding agents: a working contract](https://dev.to/davekurian/production-repository-conventions-for-ai-coding-agents-a-working-contract-141j)
-- [A document pipeline in 30 lines, running in a browser tab](https://dev.to/mykola_melnyk_ml/a-document-pipeline-in-30-lines-running-in-a-browser-tab-112c)
-- [When Agentic Workloads Break the PaaS Assumptions](https://dev.to/steefjan_wiggers_34a415b/when-agentic-workloads-break-the-paas-assumptions-4a28)
-- [Same-Prompt Green Is Not a Gate: Five Eval Myths](https://dev.to/gitlab_3188/same-prompt-green-is-not-a-gate-five-eval-myths-lfl)
+- [Taming Flutter Infinite Scroll &lpar;Part 2&rpar;: Turning ScrollController into a Reactive State Machine with CubitSignalMixin](https://dev.to/gde/taming-flutter-infinite-scroll-part-2-turning-scrollcontroller-into-a-reactive-state-machine-cgh)
+- [Spring Batch: Processing Large Data Volumes Efficiently &lpar;2026-09-03 17:31&rpar;](https://dev.to/said_olano/spring-batch-processing-large-data-volumes-efficiently-2026-09-03-1731-33kc)
+- [The await That Silently Breaks navigator.clipboard.writeText&lpar;&rpar;](https://dev.to/parsajiravand/the-await-that-silently-breaks-navigatorclipboardwritetext-10oe)
+- [Installing GPT4All, an Open-Source Chatbot Application for Running LLMs](https://dev.to/vultr/installing-gpt4all-an-open-source-chatbot-application-for-running-llms-38dk)
 <!-- BLOG-POST-LIST:END -->
 
