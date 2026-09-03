@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SEO Priorities for 2027: Building Visibility Across AI Answers, SERPs and Communities](https://dev.to/alifar/seo-priorities-for-2027-building-visibility-across-ai-answers-serps-and-communities-24kd)
-- [Bypassing ChatGPT’s Open-Source Model Security Restrictions for Agentic Hacking](https://dev.to/raxis/bypassing-chatgpts-open-source-model-security-restrictions-for-agentic-hacking-5173)
-- [RL 1: Biological foundations and the &quot;Law of Effect&quot; &lpar;1898– 1949&rpar;](https://dev.to/mitanshgor/rl-1-biological-foundations-and-the-law-of-effect-1898-1949-1a9f)
-- [Your CI is green and your pipeline produced nothing](https://dev.to/provedone/your-ci-is-green-and-your-pipeline-produced-nothing-213o)
+- [Scope, not effort: how engineer promotions actually get decided](https://dev.to/ginocorp_industries/scope-not-effort-how-engineer-promotions-actually-get-decided-4jp2)
+- [I Ran git reset --hard in the Wrong Window](https://dev.to/rbonweb/i-ran-git-reset-hard-in-the-wrong-window-2ihd)
+- [Nine categories: how engineering manager interviews actually get scored](https://dev.to/ginocorp_industries/nine-categories-how-engineering-manager-interviews-actually-get-scored-19kn)
+- [Solving the Background Verification Bottleneck for enterprises: Inside BGVerifyIQ](https://dev.to/harsh_trivedi/solving-the-background-verification-bottleneck-for-enterprises-inside-bgverifyiq-l94)
 <!-- BLOG-POST-LIST:END -->
 
