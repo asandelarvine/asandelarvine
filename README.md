@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scope, not effort: how engineer promotions actually get decided](https://dev.to/ginocorp_industries/scope-not-effort-how-engineer-promotions-actually-get-decided-4jp2)
-- [I Ran git reset --hard in the Wrong Window](https://dev.to/rbonweb/i-ran-git-reset-hard-in-the-wrong-window-2ihd)
-- [Nine categories: how engineering manager interviews actually get scored](https://dev.to/ginocorp_industries/nine-categories-how-engineering-manager-interviews-actually-get-scored-19kn)
-- [Solving the Background Verification Bottleneck for enterprises: Inside BGVerifyIQ](https://dev.to/harsh_trivedi/solving-the-background-verification-bottleneck-for-enterprises-inside-bgverifyiq-l94)
+- [Gemini 3.8 Flash เทียบกับ 3.7 Flash: เปลี่ยนไปแค่ไหน คุ้มค่าที่จะอัปเกรดไหม](https://dev.to/thanawat_wonchai/gemini-38-flash-ethiiybkab-37-flash-epliiynaipaekhaihn-khumkhaathiicchaapekrdaihm-2894)
+- [Gemini 3.8 Flash vs 3.7 Flash : Nouveautés et faut-il mettre à jour ?](https://dev.to/antoine_laurentt/gemini-38-flash-vs-37-flash-nouveautes-et-faut-il-mettre-a-jour--56ce)
+- [AWS Secrets Management: Secrets Manager vs Parameter Store vs KMS — The Complete Decision Guide](https://dev.to/alpeshkumbhare/aws-secrets-management-secrets-manager-vs-parameter-store-vs-kms-the-complete-decision-guide-3j71)
+- [เจมิไน 3.8 แฟลช: เปรียบเทียบระดับการคิด ต่ำ ปานกลาง สูง พร้อมเหตุผลที่ระดับ Minimal หายไป](https://dev.to/thanawat_wonchai/ecchmiain-38-aeflch-epriiybethiiybradabkaarkhid-tam-paanklaang-suung-phrmehtuphlthiiradab-minimal-haayaip-2p2n)
 <!-- BLOG-POST-LIST:END -->
 
