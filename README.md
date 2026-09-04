@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [One does not simply @Inject in TPF](https://dev.to/mbarcia/stop-inject-lm5)
-- [How to Change Themes with the Operating System in a Qt App](https://dev.to/professortom/how-to-change-themes-with-the-operating-system-in-a-qt-app-27nf)
-- [500+ коммитов за пять месяцев: как я в одиночку запустил RetroPoint](https://dev.to/wildtuna/500-kommitov-za-piat-miesiatsiev-kak-ia-v-odinochku-zapustil-retropoint-43m4)
-- [MLOps for Developers: Deploying, Monitoring, and Optimizing Machine Learning Models](https://dev.to/apeder/mlops-for-developers-deploying-monitoring-and-optimizing-machine-learning-models-2hli)
+- [Protótipos: como a herança realmente funciona no JavaScript](https://dev.to/rohyer/prototipos-como-a-heranca-realmente-funciona-no-javascript-4f9o)
+- [Python PDF Archiving: 5 Checks for Fidelity, Latency, Privacy, and Retention](https://dev.to/ignazcole6453/python-pdf-archiving-5-checks-for-fidelity-latency-privacy-and-retention-4e2b)
+- [Password Reset Email Deliverability for Custom Domain Provider &lpar;and Bounce Evidence Limits&rpar;](https://dev.to/ethanbrooks1486/password-reset-email-deliverability-for-custom-domain-provider-and-bounce-evidence-limits-dm8)
+- [What I learned building an enemy state machine in Godot 4](https://dev.to/saltmire/what-i-learned-building-an-enemy-state-machine-in-godot-4-2h3d)
 <!-- BLOG-POST-LIST:END -->
 
