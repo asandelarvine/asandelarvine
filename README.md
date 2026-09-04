@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Protótipos: como a herança realmente funciona no JavaScript](https://dev.to/rohyer/prototipos-como-a-heranca-realmente-funciona-no-javascript-4f9o)
-- [Python PDF Archiving: 5 Checks for Fidelity, Latency, Privacy, and Retention](https://dev.to/ignazcole6453/python-pdf-archiving-5-checks-for-fidelity-latency-privacy-and-retention-4e2b)
-- [Password Reset Email Deliverability for Custom Domain Provider &lpar;and Bounce Evidence Limits&rpar;](https://dev.to/ethanbrooks1486/password-reset-email-deliverability-for-custom-domain-provider-and-bounce-evidence-limits-dm8)
-- [What I learned building an enemy state machine in Godot 4](https://dev.to/saltmire/what-i-learned-building-an-enemy-state-machine-in-godot-4-2h3d)
+- [Show Dev: CloudStack Directory – Curated Open-Source Tools &amp; Docker Compose Guides](https://dev.to/liamkwok/show-dev-cloudstack-directory-curated-open-source-tools-docker-compose-guides-35md)
+- [🌟 Generosity Matchmaker: AI-Powered Community Giving &amp; Charity Companion](https://dev.to/hizba_31d77c41803163b8ff0/generosity-matchmaker-ai-powered-community-giving-charity-companion-1mn6)
+- [Stratagems #28: Mark Built a Ladder. The AI Climbed to the Top.](https://dev.to/xulingfeng/stratagems-28-mark-built-a-ladder-the-ai-climbed-to-the-top-1fm0)
+- [What 1,135 agent-written pull requests taught me about reviewing AI code](https://dev.to/john_problems_/what-1135-agent-written-pull-requests-taught-me-about-reviewing-ai-code-593j)
 <!-- BLOG-POST-LIST:END -->
 
