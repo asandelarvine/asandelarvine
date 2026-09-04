@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SegWit: Why we needed it](https://dev.to/ayoazeez26/segwit-why-we-needed-it-18g8)
-- [Krishna Janmashtami for Techies](https://dev.to/rjshree/krishna-janmashtami-for-techies-3onn)
-- [Measuring the Multi-Agent Fork Tax](https://dev.to/mech_app_ai/measuring-the-multi-agent-fork-tax-7g7)
-- [HydraFusion: How GitHub Routes Coding Tasks Across Multiple Models to Match Frontier Performance at Lower Cost](https://dev.to/mech_app_ai/hydrafusion-how-github-routes-coding-tasks-across-multiple-models-to-match-frontier-performance-at-5ba8)
+- [SEO Priorities for 2027: Why Earned Authority Matters More Than Link Volume](https://dev.to/alifar/seo-priorities-for-2027-why-earned-authority-matters-more-than-link-volume-25ki)
+- [ShrekOS in two diagrams: giving an agent exactly one folder and one hostname](https://dev.to/the_leon_odor/shrekos-in-two-diagrams-giving-an-agent-exactly-one-folder-and-one-hostname-d11)
+- [Reddit Ranks for 166 Million Keywords: What the Data Means for Content Strategy](https://dev.to/alifar/reddit-ranks-for-166-million-keywords-what-the-data-means-for-content-strategy-5go5)
+- [From Default to Detection: My First Dive Into SIEM Tuning and Threat Detection](https://dev.to/foxtrot-cs/from-default-to-detection-my-first-dive-into-siem-tuning-and-threat-detection-264n)
 <!-- BLOG-POST-LIST:END -->
 
