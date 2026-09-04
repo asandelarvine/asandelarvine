@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Queue Depth Is the Real Cloud Trigger: A Secret-Class Overflow Router](https://dev.to/codepro_9661/queue-depth-is-the-real-cloud-trigger-a-secret-class-overflow-router-4cob)
-- [Fail-Open Defaults in Agent PRs: A Provenance Review](https://dev.to/codejs_6920/fail-open-defaults-in-agent-prs-a-provenance-review-42o0)
-- [JSON to String Conversion: The Edge Cases That Actually Bite in Production](https://dev.to/99tools/json-to-string-conversion-the-edge-cases-that-actually-bite-in-production-9fo)
-- [Vanilla Disintegrate — Modern and Impressive Animations for the Web](https://dev.to/uvarov-frontend/vanilla-disintegrate-modern-particle-effects-for-the-web-3bhd)
+- [SegWit: Why we needed it](https://dev.to/ayoazeez26/segwit-why-we-needed-it-18g8)
+- [Krishna Janmashtami for Techies](https://dev.to/rjshree/krishna-janmashtami-for-techies-3onn)
+- [Measuring the Multi-Agent Fork Tax](https://dev.to/mech_app_ai/measuring-the-multi-agent-fork-tax-7g7)
+- [HydraFusion: How GitHub Routes Coding Tasks Across Multiple Models to Match Frontier Performance at Lower Cost](https://dev.to/mech_app_ai/hydrafusion-how-github-routes-coding-tasks-across-multiple-models-to-match-frontier-performance-at-5ba8)
 <!-- BLOG-POST-LIST:END -->
 
