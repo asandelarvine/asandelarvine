@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Show Dev: CloudStack Directory – Curated Open-Source Tools &amp; Docker Compose Guides](https://dev.to/liamkwok/show-dev-cloudstack-directory-curated-open-source-tools-docker-compose-guides-35md)
-- [🌟 Generosity Matchmaker: AI-Powered Community Giving &amp; Charity Companion](https://dev.to/hizba_31d77c41803163b8ff0/generosity-matchmaker-ai-powered-community-giving-charity-companion-1mn6)
-- [Stratagems #28: Mark Built a Ladder. The AI Climbed to the Top.](https://dev.to/xulingfeng/stratagems-28-mark-built-a-ladder-the-ai-climbed-to-the-top-1fm0)
-- [What 1,135 agent-written pull requests taught me about reviewing AI code](https://dev.to/john_problems_/what-1135-agent-written-pull-requests-taught-me-about-reviewing-ai-code-593j)
+- [Cómo solucionar el error \&quot;Enable JavaScript and cookies to continue\&quot;](https://dev.to/erickeduardoramos03/como-solucionar-el-error-enable-javascript-and-cookies-to-continue-4e2n)
+- [Fair Queue for a Shared Free AI Server: 5-Dev Postmortem](https://dev.to/bytepro_1774/fair-queue-for-a-shared-free-ai-server-5-dev-postmortem-1lh4)
+- [Opinion: AI Patch Acceptance Is a Vanity Metric — Revert Rate Is the Truth](https://dev.to/github_7727/opinion-ai-patch-acceptance-is-a-vanity-metric-revert-rate-is-the-truth-1cl8)
+- [Beyond the Bug: Unpacking the &#39;Copy Link&#39; Glitch in GitHub PRs and Its Impact on Developer Productivity](https://dev.to/devactivity/beyond-the-bug-unpacking-the-copy-link-glitch-in-github-prs-and-its-impact-on-developer-59oc)
 <!-- BLOG-POST-LIST:END -->
 
