@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo solucionar el error \&quot;Enable JavaScript and cookies to continue\&quot;](https://dev.to/erickeduardoramos03/como-solucionar-el-error-enable-javascript-and-cookies-to-continue-4e2n)
-- [Fair Queue for a Shared Free AI Server: 5-Dev Postmortem](https://dev.to/bytepro_1774/fair-queue-for-a-shared-free-ai-server-5-dev-postmortem-1lh4)
-- [Opinion: AI Patch Acceptance Is a Vanity Metric — Revert Rate Is the Truth](https://dev.to/github_7727/opinion-ai-patch-acceptance-is-a-vanity-metric-revert-rate-is-the-truth-1cl8)
-- [Beyond the Bug: Unpacking the &#39;Copy Link&#39; Glitch in GitHub PRs and Its Impact on Developer Productivity](https://dev.to/devactivity/beyond-the-bug-unpacking-the-copy-link-glitch-in-github-prs-and-its-impact-on-developer-59oc)
+- [Queue Depth Is the Real Cloud Trigger: A Secret-Class Overflow Router](https://dev.to/codepro_9661/queue-depth-is-the-real-cloud-trigger-a-secret-class-overflow-router-4cob)
+- [Fail-Open Defaults in Agent PRs: A Provenance Review](https://dev.to/codejs_6920/fail-open-defaults-in-agent-prs-a-provenance-review-42o0)
+- [JSON to String Conversion: The Edge Cases That Actually Bite in Production](https://dev.to/99tools/json-to-string-conversion-the-edge-cases-that-actually-bite-in-production-9fo)
+- [Vanilla Disintegrate — Modern and Impressive Animations for the Web](https://dev.to/uvarov-frontend/vanilla-disintegrate-modern-particle-effects-for-the-web-3bhd)
 <!-- BLOG-POST-LIST:END -->
 
