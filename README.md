@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT-6 Astra e la settimana in cui l’AI ha cambiato ritmo: cosa significa per chi sviluppa](https://dev.to/frontendfacile/gpt-6-astra-e-la-settimana-in-cui-lai-ha-cambiato-ritmo-cosa-significa-per-chi-sviluppa-3ia6)
-- [Source-Bound Docs: Models Restate Files, Humans Own Promises](https://dev.to/github_7727/source-bound-docs-models-restate-files-humans-own-promises-gec)
-- [BrowserSkill: Let AI Use Your Already-Logged-In Browser, Without Interrupting You](https://dev.to/sun_young_517829fc09d0c05/browserskill-let-ai-use-your-already-logged-in-browser-without-interrupting-you-gg)
-- [Hash the Output Tree Before You Extract One Helper](https://dev.to/hackrs_6393/hash-the-output-tree-before-you-extract-one-helper-204o)
+- [I built PadForward because sometimes you just need a pad](https://dev.to/ujja/i-built-padforward-because-sometimes-you-just-need-a-pad-1ljl)
+- [The Dealership Charges $180/hr for This, I Do It With an ESP32](https://dev.to/numbpill3d/the-dealership-charges-180hr-for-this-i-do-it-with-an-esp32-off)
+- [I automated Dependabot PR cleanup — and drew a hard line on what NOT to automate](https://dev.to/sunnydachs/i-automated-dependabot-pr-cleanup-and-drew-a-hard-line-on-what-not-to-automate-4jm1)
+- [Node.js Security Essentials: The Checklist I Use in Production](https://dev.to/mryadavgulshan/nodejs-security-essentials-the-checklist-i-use-in-production-13k0)
 <!-- BLOG-POST-LIST:END -->
 
