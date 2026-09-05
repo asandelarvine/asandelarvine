@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Day Our Ad Campaigns Went to Zero and an AI Agent Found It in Minutes](https://dev.to/serz/the-day-our-ad-campaigns-went-to-zero-and-an-ai-agent-found-it-in-minutes-473f)
-- [Frontier LLM prices didn&#39;t move for 5 months. In August, they moved three times, and one lab tripled its rate.](https://dev.to/romans/frontier-llm-prices-didnt-move-for-5-months-in-august-they-moved-three-times-and-one-lab-ln5)
-- [OpenAI Launches GPT-6 Astra With Computer Use Tools and Broad Platform Rollout](https://dev.to/alifar/openai-launches-gpt-6-astra-with-computer-use-tools-and-broad-platform-rollout-43fl)
-- [Fifty seconds for half a megabyte: the optimisation that fixed the constant, not the order](https://dev.to/isazajuancarlos/fifty-seconds-for-half-a-megabyte-the-optimisation-that-fixed-the-constant-not-the-order-2afe)
+- [When Confidence Lies: Engineering Uncertainty-Aware AI Control Loops for High-Stakes Production Systems](https://dev.to/ali_kiani_78/when-confidence-lies-engineering-uncertainty-aware-ai-control-loops-for-high-stakes-production-3mon)
+- [Nvidia PAIR enables local AI cluster construction](https://dev.to/vpodk/nvidia-pair-enables-local-ai-cluster-construction-54h3)
+- [How do you architect a Playwright test to verify atomic transaction rollback across UI and API state?](https://dev.to/styrow_dev/how-do-you-architect-a-playwright-test-to-verify-atomic-transaction-rollback-across-ui-and-api-24h)
+- [Demystifying LLM Context Windows: How AI Memory Works &lpar;and Why It Fails&rpar;](https://dev.to/iar01/demystifying-llm-context-windows-how-ai-memory-works-and-why-it-fails-khd)
 <!-- BLOG-POST-LIST:END -->
 
