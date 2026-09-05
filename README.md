@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Confidence Lies: Engineering Uncertainty-Aware AI Control Loops for High-Stakes Production Systems](https://dev.to/ali_kiani_78/when-confidence-lies-engineering-uncertainty-aware-ai-control-loops-for-high-stakes-production-3mon)
-- [Nvidia PAIR enables local AI cluster construction](https://dev.to/vpodk/nvidia-pair-enables-local-ai-cluster-construction-54h3)
-- [How do you architect a Playwright test to verify atomic transaction rollback across UI and API state?](https://dev.to/styrow_dev/how-do-you-architect-a-playwright-test-to-verify-atomic-transaction-rollback-across-ui-and-api-24h)
-- [Demystifying LLM Context Windows: How AI Memory Works &lpar;and Why It Fails&rpar;](https://dev.to/iar01/demystifying-llm-context-windows-how-ai-memory-works-and-why-it-fails-khd)
+- [Introducing TaxUI: A Modern Declarative HTML &amp; CSS Framework with Zero JavaScript](https://dev.to/tax_nam_60edf0e0cea4a321f/introducing-taxui-a-modern-declarative-html-css-framework-with-zero-javascript-482a)
+- [I measured what my 11 Actors cost to run. The 96x spread was mostly one config field.](https://dev.to/apify/i-measured-what-my-11-actors-cost-to-run-the-96x-spread-was-mostly-one-config-field-hoj)
+- [Scrolling to an Index in a Flutter Lazy List, Without Building Everything Above It](https://dev.to/devshakib/scrolling-to-an-index-in-a-flutter-lazy-list-without-building-everything-above-it-7o9)
+- [10 Developer Tools That Can Save You Time Every Day](https://dev.to/shubham_shobhit_eb6e05323/10-developer-tools-that-can-save-you-time-every-d-544n)
 <!-- BLOG-POST-LIST:END -->
 
