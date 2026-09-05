@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built PadForward because sometimes you just need a pad](https://dev.to/ujja/i-built-padforward-because-sometimes-you-just-need-a-pad-1ljl)
-- [The Dealership Charges $180/hr for This, I Do It With an ESP32](https://dev.to/numbpill3d/the-dealership-charges-180hr-for-this-i-do-it-with-an-esp32-off)
-- [I automated Dependabot PR cleanup — and drew a hard line on what NOT to automate](https://dev.to/sunnydachs/i-automated-dependabot-pr-cleanup-and-drew-a-hard-line-on-what-not-to-automate-4jm1)
-- [Node.js Security Essentials: The Checklist I Use in Production](https://dev.to/mryadavgulshan/nodejs-security-essentials-the-checklist-i-use-in-production-13k0)
+- [Deploying an Agent Substrate Actor After ActorTemplate Left Kubernetes](https://dev.to/thenjdevopsguy/deploying-an-agent-substrate-actor-after-actortemplate-left-kubernetes-mcn)
+- [Crypto-shredding does not delete anything from your old backups](https://dev.to/vebat/crypto-shredding-does-not-delete-anything-from-your-old-backups-po1)
+- [How to Solve a Month-over-Month Churn SQL Interview Question](https://dev.to/rahmanfrr/how-to-solve-a-month-over-month-churn-sql-interview-question-1abo)
+- [Autonomous Agents Need Proof, Not Promises: The Evidence Ladder Behind WitnessOS](https://dev.to/narko4u/autonomous-agents-need-proof-not-promises-the-evidence-ladder-behind-witnessos-8h8)
 <!-- BLOG-POST-LIST:END -->
 
