@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SEO Priorities for 2027: Why Earned Authority Matters More Than Link Volume](https://dev.to/alifar/seo-priorities-for-2027-why-earned-authority-matters-more-than-link-volume-25ki)
-- [ShrekOS in two diagrams: giving an agent exactly one folder and one hostname](https://dev.to/the_leon_odor/shrekos-in-two-diagrams-giving-an-agent-exactly-one-folder-and-one-hostname-d11)
-- [Reddit Ranks for 166 Million Keywords: What the Data Means for Content Strategy](https://dev.to/alifar/reddit-ranks-for-166-million-keywords-what-the-data-means-for-content-strategy-5go5)
-- [From Default to Detection: My First Dive Into SIEM Tuning and Threat Detection](https://dev.to/foxtrot-cs/from-default-to-detection-my-first-dive-into-siem-tuning-and-threat-detection-264n)
+- [OpenAI Rolls Out GPT-6 Astra and Astra Pro Across ChatGPT, API, and Cloud Platforms](https://dev.to/alifar/openai-rolls-out-gpt-6-astra-and-astra-pro-across-chatgpt-api-and-cloud-platforms-194b)
+- [บทวิเคราะห์ paper &#39;Agentic Software&#39;, วิชาที่เกิดใหม่เมื่อ agent เข้ามาแทนที่โค้ด](https://dev.to/sarantoon/bthwiekhraaah-paper-agentic-software-wichaathiiekidaihmemuue-agent-ekhaamaaaethnthiiokhd-58p7)
+- [ช่องว่าง 0.3% แต่ราคาต่าง 2 เท่า, อ่านตาราง Terminal-Bench 4.0 ให้เป็น](https://dev.to/sarantoon/chngwaang-03-aetraakhaataang-2-ethaa-aantaaraang-terminal-bench-40-aihepn-467f)
+- [เมื่อ Benchmark โกหกคุณ, SWE-Bench ProMax กับคะแนนจริงที่โมเดลเก่งสุดทำได้แค่ 41.2%](https://dev.to/sarantoon/emuue-benchmark-okhkkhun-swe-bench-promax-kabkhaaenncchringthiiomedlekngsudthamaidaekh-412-1fl5)
 <!-- BLOG-POST-LIST:END -->
 
