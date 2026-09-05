@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Tools for Automating Marketing Graphics in 2026](https://dev.to/mukul_sharma/the-best-tools-for-automating-marketing-graphics-in-2026-5d2p)
-- [Every Greedy Metric Said the Model Was Improving. Then pass@64 Fell From 0.83 to 0.19](https://dev.to/howcani_howcani_77e786a89/every-greedy-metric-said-the-model-was-improving-then-pass64-fell-from-083-to-019-5epl)
-- [Why Do Japanese Train Drivers Keep Pointing at Things?](https://dev.to/amrishkhan05/why-do-japanese-train-drivers-keep-pointing-at-things-272b)
-- [Who really owns this code? A git blame sampler you can run in one command](https://dev.to/efe_genc/who-really-owns-this-code-a-git-blame-sampler-you-can-run-in-one-command-3ph1)
+- [GPT-6 Astra e la settimana in cui l’AI ha cambiato ritmo: cosa significa per chi sviluppa](https://dev.to/frontendfacile/gpt-6-astra-e-la-settimana-in-cui-lai-ha-cambiato-ritmo-cosa-significa-per-chi-sviluppa-3ia6)
+- [Source-Bound Docs: Models Restate Files, Humans Own Promises](https://dev.to/github_7727/source-bound-docs-models-restate-files-humans-own-promises-gec)
+- [BrowserSkill: Let AI Use Your Already-Logged-In Browser, Without Interrupting You](https://dev.to/sun_young_517829fc09d0c05/browserskill-let-ai-use-your-already-logged-in-browser-without-interrupting-you-gg)
+- [Hash the Output Tree Before You Extract One Helper](https://dev.to/hackrs_6393/hash-the-output-tree-before-you-extract-one-helper-204o)
 <!-- BLOG-POST-LIST:END -->
 
