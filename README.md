@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Rolls Out GPT-6 Astra and Astra Pro Across ChatGPT, API, and Cloud Platforms](https://dev.to/alifar/openai-rolls-out-gpt-6-astra-and-astra-pro-across-chatgpt-api-and-cloud-platforms-194b)
-- [บทวิเคราะห์ paper &#39;Agentic Software&#39;, วิชาที่เกิดใหม่เมื่อ agent เข้ามาแทนที่โค้ด](https://dev.to/sarantoon/bthwiekhraaah-paper-agentic-software-wichaathiiekidaihmemuue-agent-ekhaamaaaethnthiiokhd-58p7)
-- [ช่องว่าง 0.3% แต่ราคาต่าง 2 เท่า, อ่านตาราง Terminal-Bench 4.0 ให้เป็น](https://dev.to/sarantoon/chngwaang-03-aetraakhaataang-2-ethaa-aantaaraang-terminal-bench-40-aihepn-467f)
-- [เมื่อ Benchmark โกหกคุณ, SWE-Bench ProMax กับคะแนนจริงที่โมเดลเก่งสุดทำได้แค่ 41.2%](https://dev.to/sarantoon/emuue-benchmark-okhkkhun-swe-bench-promax-kabkhaaenncchringthiiomedlekngsudthamaidaekh-412-1fl5)
+- [The Best Tools for Automating Marketing Graphics in 2026](https://dev.to/mukul_sharma/the-best-tools-for-automating-marketing-graphics-in-2026-5d2p)
+- [Every Greedy Metric Said the Model Was Improving. Then pass@64 Fell From 0.83 to 0.19](https://dev.to/howcani_howcani_77e786a89/every-greedy-metric-said-the-model-was-improving-then-pass64-fell-from-083-to-019-5epl)
+- [Why Do Japanese Train Drivers Keep Pointing at Things?](https://dev.to/amrishkhan05/why-do-japanese-train-drivers-keep-pointing-at-things-272b)
+- [Who really owns this code? A git blame sampler you can run in one command](https://dev.to/efe_genc/who-really-owns-this-code-a-git-blame-sampler-you-can-run-in-one-command-3ph1)
 <!-- BLOG-POST-LIST:END -->
 
