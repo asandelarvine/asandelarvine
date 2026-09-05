@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying an Agent Substrate Actor After ActorTemplate Left Kubernetes](https://dev.to/thenjdevopsguy/deploying-an-agent-substrate-actor-after-actortemplate-left-kubernetes-mcn)
-- [Crypto-shredding does not delete anything from your old backups](https://dev.to/vebat/crypto-shredding-does-not-delete-anything-from-your-old-backups-po1)
-- [How to Solve a Month-over-Month Churn SQL Interview Question](https://dev.to/rahmanfrr/how-to-solve-a-month-over-month-churn-sql-interview-question-1abo)
-- [Autonomous Agents Need Proof, Not Promises: The Evidence Ladder Behind WitnessOS](https://dev.to/narko4u/autonomous-agents-need-proof-not-promises-the-evidence-ladder-behind-witnessos-8h8)
+- [The Day Our Ad Campaigns Went to Zero and an AI Agent Found It in Minutes](https://dev.to/serz/the-day-our-ad-campaigns-went-to-zero-and-an-ai-agent-found-it-in-minutes-473f)
+- [Frontier LLM prices didn&#39;t move for 5 months. In August, they moved three times, and one lab tripled its rate.](https://dev.to/romans/frontier-llm-prices-didnt-move-for-5-months-in-august-they-moved-three-times-and-one-lab-ln5)
+- [OpenAI Launches GPT-6 Astra With Computer Use Tools and Broad Platform Rollout](https://dev.to/alifar/openai-launches-gpt-6-astra-with-computer-use-tools-and-broad-platform-rollout-43fl)
+- [Fifty seconds for half a megabyte: the optimisation that fixed the constant, not the order](https://dev.to/isazajuancarlos/fifty-seconds-for-half-a-megabyte-the-optimisation-that-fixed-the-constant-not-the-order-2afe)
 <!-- BLOG-POST-LIST:END -->
 
