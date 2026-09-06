@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Exit code 0 is a lie: 7 ways my unattended automation silently did nothing](https://dev.to/youfuhsu/exit-code-0-is-a-lie-7-ways-my-unattended-automation-silently-did-nothing-501j)
-- [Catch Bad Validation Tags at Compile Time with checkerlint](https://dev.to/onurcinar/catch-bad-validation-tags-at-compile-time-with-checkerlint-2iaa)
-- [Open-source tool: Practical experience in converting large quantities of SQL code syntax : &#39;PIVOT&#39; function rewrite &lpar;Case 1&rpar;](https://dev.to/zgl20053779/open-source-tool-practical-experience-in-converting-large-quantities-of-sql-code-syntax-pivot-1lk)
-- [99.7% Rejected in 84ms: Why I Stopped Making the Generator Smarter](https://dev.to/hidetzu/997-rejected-in-84ms-why-i-stopped-making-the-generator-smarter-5em0)
+- [The Next RAG Problem Isn’t Retrieval — It’s Knowing When Not to Retrieve](https://dev.to/hosseinhezami/the-next-rag-problem-isnt-retrieval-its-knowing-when-not-to-retrieve-1a21)
+- [Agent Toolkit for AWS in Practice &lpar;1&rpar; - Claude Code](https://dev.to/haowen_huang/agent-toolkit-for-aws-in-practice-1-claude-code-pi8)
+- [RAG vs Memory vs Tools: What Information Should an AI Agent Actually Store?](https://dev.to/hosseinhezami/rag-vs-memory-vs-tools-what-information-should-an-ai-agent-actually-store-1k31)
+- [n8n: When AI Writes the Workflow, Who Reviews the Workflow?](https://dev.to/hosseinhezami/n8n-when-ai-writes-the-workflow-who-reviews-the-workflow-g22)
 <!-- BLOG-POST-LIST:END -->
 
