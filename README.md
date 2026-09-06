@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The app speaks 19 languages: tiered i18n and the AI translation pipeline](https://dev.to/hokagedemehin/the-app-speaks-19-languages-tiered-i18n-and-the-ai-translation-pipeline-14)
-- [Stop Calling It Technical Debt !](https://dev.to/endouakulu/stop-calling-it-technical-debt--321g)
-- [How to Run a Free AI Coding Assistant Locally with VS Code, opencode, and LM Studio](https://dev.to/aravindagn/how-to-run-a-free-ai-coding-assistant-locally-with-vs-code-opencode-and-lm-studio-3c1c)
-- [Can You Replace ChatGPT Plus With Free AI Tools? I Built a 30-Day AI Stack](https://dev.to/shweta_mishra_b3c97874de9/can-you-replace-chatgpt-plus-with-free-ai-tools-i-built-a-30-day-ai-stack-1lpi)
+- [When Power Costs Rise, Data Centers Need to Know Where Every Megawatt Is Going](https://dev.to/da-li-at-pl/when-power-costs-rise-data-centers-need-to-know-where-every-megawatt-is-going-1hn0)
+- [Review Agent PRs for Silent Interface Drift](https://dev.to/codejs_6920/review-agent-prs-for-silent-interface-drift-pej)
+- [Devbox: Portable and Isolated Development Environments](https://dev.to/w4ls3n/devbox-portable-and-isolated-development-environments-ael)
+- [The hashCode&lpar;&rpar;-to-Array-Index Bug Almost Everyone Writes Once](https://dev.to/gaurav_tyagi_4d2a33837e04/the-hashcode-to-array-index-bug-almost-everyone-writes-once-4leg)
 <!-- BLOG-POST-LIST:END -->
 
