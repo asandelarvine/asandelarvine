@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Rewrote Four Services in Go](https://dev.to/medampudi/why-i-rewrote-four-services-in-go-2i0p)
-- [Cloud Cost Management: Your Bill Is a Product Metric](https://dev.to/medampudi/cloud-cost-management-your-bill-is-a-product-metric-l3h)
-- [The S3 Cost Optimization Playbook](https://dev.to/medampudi/the-s3-cost-optimization-playbook-a48)
-- [AWS Savings Plans vs Reserved Instances: Which to Buy](https://dev.to/medampudi/aws-savings-plans-vs-reserved-instances-which-to-buy-pge)
+- [The app speaks 19 languages: tiered i18n and the AI translation pipeline](https://dev.to/hokagedemehin/the-app-speaks-19-languages-tiered-i18n-and-the-ai-translation-pipeline-14)
+- [Stop Calling It Technical Debt !](https://dev.to/endouakulu/stop-calling-it-technical-debt--321g)
+- [How to Run a Free AI Coding Assistant Locally with VS Code, opencode, and LM Studio](https://dev.to/aravindagn/how-to-run-a-free-ai-coding-assistant-locally-with-vs-code-opencode-and-lm-studio-3c1c)
+- [Can You Replace ChatGPT Plus With Free AI Tools? I Built a 30-Day AI Stack](https://dev.to/shweta_mishra_b3c97874de9/can-you-replace-chatgpt-plus-with-free-ai-tools-i-built-a-30-day-ai-stack-1lpi)
 <!-- BLOG-POST-LIST:END -->
 
