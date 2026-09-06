@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Contract Boundary to Error Boundary: Structuring API Error Handling in a TypeScript Frontend](https://dev.to/rrealmrezarajabi/from-contract-boundary-to-error-boundary-structuring-api-error-handling-in-a-typescript-frontend-40h0)
-- [Implementing AI Streaming Responses with JSON Lines Chunked Communication Instead of SSE](https://dev.to/tilfin/implementing-ai-streaming-responses-with-json-lines-chunked-communication-instead-of-sse-3la9)
-- [The Antenna That Wouldn&#39;t Stop Growing](https://dev.to/yannklein/the-antenna-that-wouldnt-stop-growing-43jk)
-- [Building a Real-Time Price Anomaly Detector with Python, SerpApi, and Robust Statistics](https://dev.to/ssebina_charles_01/building-a-real-time-price-anomaly-detector-with-python-serpapi-and-robust-statistics-4aoj)
+- [Why I Rewrote Four Services in Go](https://dev.to/medampudi/why-i-rewrote-four-services-in-go-2i0p)
+- [Cloud Cost Management: Your Bill Is a Product Metric](https://dev.to/medampudi/cloud-cost-management-your-bill-is-a-product-metric-l3h)
+- [The S3 Cost Optimization Playbook](https://dev.to/medampudi/the-s3-cost-optimization-playbook-a48)
+- [AWS Savings Plans vs Reserved Instances: Which to Buy](https://dev.to/medampudi/aws-savings-plans-vs-reserved-instances-which-to-buy-pge)
 <!-- BLOG-POST-LIST:END -->
 
