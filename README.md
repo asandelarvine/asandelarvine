@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Power Costs Rise, Data Centers Need to Know Where Every Megawatt Is Going](https://dev.to/da-li-at-pl/when-power-costs-rise-data-centers-need-to-know-where-every-megawatt-is-going-1hn0)
-- [Review Agent PRs for Silent Interface Drift](https://dev.to/codejs_6920/review-agent-prs-for-silent-interface-drift-pej)
-- [Devbox: Portable and Isolated Development Environments](https://dev.to/w4ls3n/devbox-portable-and-isolated-development-environments-ael)
-- [The hashCode&lpar;&rpar;-to-Array-Index Bug Almost Everyone Writes Once](https://dev.to/gaurav_tyagi_4d2a33837e04/the-hashcode-to-array-index-bug-almost-everyone-writes-once-4leg)
+- [chrome-bridge: let any AI agent drive your real logged-in Chrome](https://dev.to/siropkin/chrome-bridge-let-any-ai-agent-drive-your-real-logged-in-chrome-b5n)
+- [From Messy CSV to Clean Dashboard: What I Learned Building My First Power BI + Google Analytics Dashboard &lpar;Part 1&rpar;](https://dev.to/bushra_shaikh_19/from-messy-csv-to-clean-dashboard-what-i-learned-building-my-first-power-bi-google-analytics-2k9l)
+- [Somebody asked for help. Nobody came.](https://dev.to/yannvr/somebody-asked-for-help-nobody-came-5c7i)
+- [Building Adaptive AI Agents](https://dev.to/biomathcode/building-adaptive-ai-agents-495m)
 <!-- BLOG-POST-LIST:END -->
 
