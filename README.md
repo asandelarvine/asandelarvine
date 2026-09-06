@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing TaxUI: A Modern Declarative HTML &amp; CSS Framework with Zero JavaScript](https://dev.to/tax_nam_60edf0e0cea4a321f/introducing-taxui-a-modern-declarative-html-css-framework-with-zero-javascript-482a)
-- [I measured what my 11 Actors cost to run. The 96x spread was mostly one config field.](https://dev.to/apify/i-measured-what-my-11-actors-cost-to-run-the-96x-spread-was-mostly-one-config-field-hoj)
-- [Scrolling to an Index in a Flutter Lazy List, Without Building Everything Above It](https://dev.to/devshakib/scrolling-to-an-index-in-a-flutter-lazy-list-without-building-everything-above-it-7o9)
-- [10 Developer Tools That Can Save You Time Every Day](https://dev.to/shubham_shobhit_eb6e05323/10-developer-tools-that-can-save-you-time-every-d-544n)
+- [Exit code 0 is a lie: 7 ways my unattended automation silently did nothing](https://dev.to/youfuhsu/exit-code-0-is-a-lie-7-ways-my-unattended-automation-silently-did-nothing-501j)
+- [Catch Bad Validation Tags at Compile Time with checkerlint](https://dev.to/onurcinar/catch-bad-validation-tags-at-compile-time-with-checkerlint-2iaa)
+- [Open-source tool: Practical experience in converting large quantities of SQL code syntax : &#39;PIVOT&#39; function rewrite &lpar;Case 1&rpar;](https://dev.to/zgl20053779/open-source-tool-practical-experience-in-converting-large-quantities-of-sql-code-syntax-pivot-1lk)
+- [99.7% Rejected in 84ms: Why I Stopped Making the Generator Smarter](https://dev.to/hidetzu/997-rejected-in-84ms-why-i-stopped-making-the-generator-smarter-5em0)
 <!-- BLOG-POST-LIST:END -->
 
