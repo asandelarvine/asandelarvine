@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Next RAG Problem Isn’t Retrieval — It’s Knowing When Not to Retrieve](https://dev.to/hosseinhezami/the-next-rag-problem-isnt-retrieval-its-knowing-when-not-to-retrieve-1a21)
-- [Agent Toolkit for AWS in Practice &lpar;1&rpar; - Claude Code](https://dev.to/haowen_huang/agent-toolkit-for-aws-in-practice-1-claude-code-pi8)
-- [RAG vs Memory vs Tools: What Information Should an AI Agent Actually Store?](https://dev.to/hosseinhezami/rag-vs-memory-vs-tools-what-information-should-an-ai-agent-actually-store-1k31)
-- [n8n: When AI Writes the Workflow, Who Reviews the Workflow?](https://dev.to/hosseinhezami/n8n-when-ai-writes-the-workflow-who-reviews-the-workflow-g22)
+- [From Contract Boundary to Error Boundary: Structuring API Error Handling in a TypeScript Frontend](https://dev.to/rrealmrezarajabi/from-contract-boundary-to-error-boundary-structuring-api-error-handling-in-a-typescript-frontend-40h0)
+- [Implementing AI Streaming Responses with JSON Lines Chunked Communication Instead of SSE](https://dev.to/tilfin/implementing-ai-streaming-responses-with-json-lines-chunked-communication-instead-of-sse-3la9)
+- [The Antenna That Wouldn&#39;t Stop Growing](https://dev.to/yannklein/the-antenna-that-wouldnt-stop-growing-43jk)
+- [Building a Real-Time Price Anomaly Detector with Python, SerpApi, and Robust Statistics](https://dev.to/ssebina_charles_01/building-a-real-time-price-anomaly-detector-with-python-serpapi-and-robust-statistics-4aoj)
 <!-- BLOG-POST-LIST:END -->
 
