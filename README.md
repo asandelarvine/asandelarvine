@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [chrome-bridge: let any AI agent drive your real logged-in Chrome](https://dev.to/siropkin/chrome-bridge-let-any-ai-agent-drive-your-real-logged-in-chrome-b5n)
-- [From Messy CSV to Clean Dashboard: What I Learned Building My First Power BI + Google Analytics Dashboard &lpar;Part 1&rpar;](https://dev.to/bushra_shaikh_19/from-messy-csv-to-clean-dashboard-what-i-learned-building-my-first-power-bi-google-analytics-2k9l)
-- [Somebody asked for help. Nobody came.](https://dev.to/yannvr/somebody-asked-for-help-nobody-came-5c7i)
-- [Building Adaptive AI Agents](https://dev.to/biomathcode/building-adaptive-ai-agents-495m)
+- [I tried removing burned-in text from videos with VideoDetext](https://dev.to/drift_boss_a434be123b673d/i-tried-removing-burned-in-text-from-videos-with-videodetext-kb9)
+- [From AI Solutions to Shared Knowledge: Building an MCP for the Community](https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk)
+- [Charitas Clew: Bureaucracy is heavy. Let&#39;s build the counterweight with Google AI.](https://dev.to/earlgreyhot1701d/charitas-clew-bureaucracy-is-heavy-lets-build-the-counterweight-with-google-ai-1p5k)
+- [This is how I added an in-browser auto captions feature to my YouTube Shorts converter web application using Whisper AI and ffmpeg.wasm](https://dev.to/dhritich20baruah/this-is-how-i-added-an-in-browser-auto-captions-feature-to-my-youtube-shorts-converter-web-41o0)
 <!-- BLOG-POST-LIST:END -->
 
