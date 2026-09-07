@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [**Python Distributions and Their Impact on Data Science**](https://dev.to/mark_glemba_962f6bc8a12dd/python-distributions-and-their-impact-on-data-science-2g5h)
-- [A Complete Guide to Writing Dockerfiles from Beginner to Production](https://dev.to/ragibcs/a-complete-guide-to-writing-dockerfiles-from-beginner-to-production-3hc7)
-- [Ten questions to answer before you route production traffic through someone else&#39;s LLM endpoint](https://dev.to/seven7763/ten-questions-to-answer-before-you-route-production-traffic-through-someone-elses-llm-endpoint-oml)
-- [How I Made My React Website Load Faster by Fixing Images](https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d)
+- [How to Get Your Resume Past an ATS in 2026](https://dev.to/rebel_studios/how-to-get-your-resume-past-an-ats-in-2026-3225)
+- [Building an Imitation Learning Pipeline for Robotic Manipulation](https://dev.to/vmodal_ai/building-an-imitation-learning-pipeline-for-robotic-manipulation-4flk)
+- [Capturing Human Demonstrations for Imitation Learning](https://dev.to/vmodal_ai/capturing-human-demonstrations-for-imitation-learning-2l1l)
+- [Building a Robot Teleoperation System for Data Collection](https://dev.to/vmodal_ai/building-a-robot-teleoperation-system-for-data-collection-5cd7)
 <!-- BLOG-POST-LIST:END -->
 
