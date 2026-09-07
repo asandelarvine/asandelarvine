@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Keeping Photo Editor Previews and Exports in Sync with TypeScript and Sharp](https://dev.to/west_dcaaa3a98181e80af749/keeping-photo-editor-previews-and-exports-in-sync-with-typescript-and-sharp-gil)
-- [Three OSS Release Changes This Week That Actually Change Something](https://dev.to/anthonygarces/three-oss-release-changes-this-week-that-actually-change-something-eon)
-- [Before You Adopt a New Repository: Six Checks Beyond Stars](https://dev.to/anthonygarces/before-you-adopt-a-new-repository-six-checks-beyond-stars-41i0)
-- [How to Import Excel Data into Python](https://dev.to/codingco/how-to-import-excel-data-into-python-5ec)
+- [No Meme Monday](https://dev.to/ben/no-meme-monday-56l5)
+- [Eleven Free Homelab Tools for the Questions Guides Skip](https://dev.to/josh_hall_b54941047f33661/eleven-free-homelab-tools-for-the-questions-guides-skip-203l)
+- [Three PHP-FPM failure modes and how to actually diagnose them](https://dev.to/zadro/three-php-fpm-failure-modes-and-how-to-actually-diagnose-them-2mc0)
+- [Stopwatch First: Local Work or a Remote Hop](https://dev.to/gitjs_8094/stopwatch-first-local-work-or-a-remote-hop-fa1)
 <!-- BLOG-POST-LIST:END -->
 
