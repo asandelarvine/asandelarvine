@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [No Meme Monday](https://dev.to/ben/no-meme-monday-56l5)
-- [Eleven Free Homelab Tools for the Questions Guides Skip](https://dev.to/josh_hall_b54941047f33661/eleven-free-homelab-tools-for-the-questions-guides-skip-203l)
-- [Three PHP-FPM failure modes and how to actually diagnose them](https://dev.to/zadro/three-php-fpm-failure-modes-and-how-to-actually-diagnose-them-2mc0)
-- [Stopwatch First: Local Work or a Remote Hop](https://dev.to/gitjs_8094/stopwatch-first-local-work-or-a-remote-hop-fa1)
+- [**Python Distributions and Their Impact on Data Science**](https://dev.to/mark_glemba_962f6bc8a12dd/python-distributions-and-their-impact-on-data-science-2g5h)
+- [A Complete Guide to Writing Dockerfiles from Beginner to Production](https://dev.to/ragibcs/a-complete-guide-to-writing-dockerfiles-from-beginner-to-production-3hc7)
+- [Ten questions to answer before you route production traffic through someone else&#39;s LLM endpoint](https://dev.to/seven7763/ten-questions-to-answer-before-you-route-production-traffic-through-someone-elses-llm-endpoint-oml)
+- [How I Made My React Website Load Faster by Fixing Images](https://dev.to/jaimin_patel/how-i-made-my-react-website-load-faster-by-fixing-images-2n1d)
 <!-- BLOG-POST-LIST:END -->
 
