@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get Your Resume Past an ATS in 2026](https://dev.to/rebel_studios/how-to-get-your-resume-past-an-ats-in-2026-3225)
-- [Building an Imitation Learning Pipeline for Robotic Manipulation](https://dev.to/vmodal_ai/building-an-imitation-learning-pipeline-for-robotic-manipulation-4flk)
-- [Capturing Human Demonstrations for Imitation Learning](https://dev.to/vmodal_ai/capturing-human-demonstrations-for-imitation-learning-2l1l)
-- [Building a Robot Teleoperation System for Data Collection](https://dev.to/vmodal_ai/building-a-robot-teleoperation-system-for-data-collection-5cd7)
+- [Full-Stack Architecture Patterns That Actually Survive Production](https://dev.to/webmatrixlabnz/full-stack-architecture-patterns-that-actually-survive-production-30en)
+- [VeraCrypt Done Right: The Practical Guide That Prevents Lockouts, Data Loss, and False Confidence](https://dev.to/saqvareli/veracrypt-done-right-the-practical-guide-that-prevents-lockouts-data-loss-and-false-confidence-118c)
+- [Tencent EdgeOne Makers: My Technical Review and Best Practices for Website Deployment](https://dev.to/noviyanti_rj_bb0a6e48ab7/tencent-edgeone-makers-my-technical-review-and-best-practices-for-website-deployment-53md)
+- [A Small, Checkable Test for AI Memory Systems](https://dev.to/yadu989/a-small-checkable-test-for-ai-memory-systems-e1h)
 <!-- BLOG-POST-LIST:END -->
 
