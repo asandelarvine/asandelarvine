@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Python Development: A Step-by-Step Guide to Using Poetry](https://dev.to/frorning/navigating-python-development-a-step-by-step-guide-to-using-poetry-14n3)
-- [Prompt engineering vs fine-tuning: which one do you need?](https://dev.to/tyler007/prompt-engineering-vs-fine-tuning-which-one-do-you-need-9n)
-- [How to nest a drawer inside bottom tabs without fighting gestures in Expo Router](https://dev.to/expo/how-to-nest-a-drawer-inside-bottom-tabs-without-fighting-gestures-in-expo-router-4aba)
-- [Zero Dependencies Sounds Easy Until You Have to Build Everything Yourself](https://dev.to/zunairah_k/zero-dependencies-sounds-easy-until-you-have-to-build-everything-yourself-5cnm)
+- [OpenAI can&#39;t rule out that it stole its most recent breakthrough](https://dev.to/jon_at_backboardio/openai-cant-rule-out-that-it-stole-its-most-recent-breakthrough-12d2)
+- [Building My Own Technical Interview Practice Repository](https://dev.to/johanngaviria/building-my-own-technical-interview-practice-repository-24m3)
+- [Does an LSP help a coding agent?](https://dev.to/scott_raisbeck_24ea5fbc1e/does-an-lsp-help-a-coding-agent-4a6f)
+- [Getting Started with Excel for Data Analytics: From Basics to Data Cleaning.](https://dev.to/vivian_wawira_fd491c80596/getting-started-with-excel-for-data-analytics-from-basics-to-data-cleaning-1ida)
 <!-- BLOG-POST-LIST:END -->
 
