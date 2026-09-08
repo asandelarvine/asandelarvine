@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Full-Stack Architecture Patterns That Actually Survive Production](https://dev.to/webmatrixlabnz/full-stack-architecture-patterns-that-actually-survive-production-30en)
-- [VeraCrypt Done Right: The Practical Guide That Prevents Lockouts, Data Loss, and False Confidence](https://dev.to/saqvareli/veracrypt-done-right-the-practical-guide-that-prevents-lockouts-data-loss-and-false-confidence-118c)
-- [Tencent EdgeOne Makers: My Technical Review and Best Practices for Website Deployment](https://dev.to/noviyanti_rj_bb0a6e48ab7/tencent-edgeone-makers-my-technical-review-and-best-practices-for-website-deployment-53md)
-- [A Small, Checkable Test for AI Memory Systems](https://dev.to/yadu989/a-small-checkable-test-for-ai-memory-systems-e1h)
+- [Silence Is Not Agreement](https://dev.to/asael_shinder_9f53bdca840/silence-is-not-agreement-1inp)
+- [We Picked the Region Because It Was the Default in the Dropdown](https://dev.to/serguey_shinder_4ab9b87b1/we-picked-the-region-because-it-was-the-default-in-the-dropdown-5b4a)
+- [Interactive AI Eval Dashboards with Data Studio](https://dev.to/googleai/interactive-ai-eval-dashboards-with-data-studio-1kl9)
+- [Vine Copulas: Why Everything Falls Together When the Market Crashes](https://dev.to/fengyugbt/vine-copulas-why-everything-falls-together-when-the-market-crashes-p81)
 <!-- BLOG-POST-LIST:END -->
 
