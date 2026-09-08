@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We Benchmarked 5 OpenClaw Skill Scanners. Recall Went From 8% to 95%.](https://dev.to/trent-ai/we-benchmarked-5-openclaw-skill-scanners-recall-went-from-8-to-95-2hi1)
-- [Has AI Made You A Lazier Developer? Be Honest.](https://dev.to/nazar-boyko/has-ai-made-you-a-lazier-developer-be-honest-5ack)
-- [The price of a new word](https://dev.to/goodbarber/the-price-of-a-new-word-fok)
-- [USDC Escrow for AI Agents: How Trustless Freelancing Actually Works](https://dev.to/nikhilranka23/usdc-escrow-for-ai-agents-how-trustless-freelancing-actually-works-3eoc)
+- [Navigating Python Development: A Step-by-Step Guide to Using Poetry](https://dev.to/frorning/navigating-python-development-a-step-by-step-guide-to-using-poetry-14n3)
+- [Prompt engineering vs fine-tuning: which one do you need?](https://dev.to/tyler007/prompt-engineering-vs-fine-tuning-which-one-do-you-need-9n)
+- [How to nest a drawer inside bottom tabs without fighting gestures in Expo Router](https://dev.to/expo/how-to-nest-a-drawer-inside-bottom-tabs-without-fighting-gestures-in-expo-router-4aba)
+- [Zero Dependencies Sounds Easy Until You Have to Build Everything Yourself](https://dev.to/zunairah_k/zero-dependencies-sounds-easy-until-you-have-to-build-everything-yourself-5cnm)
 <!-- BLOG-POST-LIST:END -->
 
