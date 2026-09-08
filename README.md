@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI can&#39;t rule out that it stole its most recent breakthrough](https://dev.to/jon_at_backboardio/openai-cant-rule-out-that-it-stole-its-most-recent-breakthrough-12d2)
-- [Building My Own Technical Interview Practice Repository](https://dev.to/johanngaviria/building-my-own-technical-interview-practice-repository-24m3)
-- [Does an LSP help a coding agent?](https://dev.to/scott_raisbeck_24ea5fbc1e/does-an-lsp-help-a-coding-agent-4a6f)
-- [Getting Started with Excel for Data Analytics: From Basics to Data Cleaning.](https://dev.to/vivian_wawira_fd491c80596/getting-started-with-excel-for-data-analytics-from-basics-to-data-cleaning-1ida)
+- [ted and curlRAT: North Korean Linux Surveillance Toolkit Hiding Inside HAProxy](https://dev.to/anoymask/ted-and-curlrat-north-korean-linux-surveillance-toolkit-hiding-inside-haproxy-27ch)
+- [Senior React Quiz: Stale Closures or Automatic Batching? 🧠](https://dev.to/vitalyobolensky/senior-react-quiz-stale-closures-or-automatic-batching-39fb)
+- [BigBear 2.0: Microsoft 365 AiTM Phishing and Session Theft](https://dev.to/anoymask/bigbear-20-microsoft-365-aitm-phishing-and-session-theft-34jn)
+- [HTB - Funnel](https://dev.to/zkrnvkf/htb-funnel-4bmn)
 <!-- BLOG-POST-LIST:END -->
 
