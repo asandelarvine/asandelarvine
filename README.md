@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Silence Is Not Agreement](https://dev.to/asael_shinder_9f53bdca840/silence-is-not-agreement-1inp)
-- [We Picked the Region Because It Was the Default in the Dropdown](https://dev.to/serguey_shinder_4ab9b87b1/we-picked-the-region-because-it-was-the-default-in-the-dropdown-5b4a)
-- [Interactive AI Eval Dashboards with Data Studio](https://dev.to/googleai/interactive-ai-eval-dashboards-with-data-studio-1kl9)
-- [Vine Copulas: Why Everything Falls Together When the Market Crashes](https://dev.to/fengyugbt/vine-copulas-why-everything-falls-together-when-the-market-crashes-p81)
+- [We Benchmarked 5 OpenClaw Skill Scanners. Recall Went From 8% to 95%.](https://dev.to/trent-ai/we-benchmarked-5-openclaw-skill-scanners-recall-went-from-8-to-95-2hi1)
+- [Has AI Made You A Lazier Developer? Be Honest.](https://dev.to/nazar-boyko/has-ai-made-you-a-lazier-developer-be-honest-5ack)
+- [The price of a new word](https://dev.to/goodbarber/the-price-of-a-new-word-fok)
+- [USDC Escrow for AI Agents: How Trustless Freelancing Actually Works](https://dev.to/nikhilranka23/usdc-escrow-for-ai-agents-how-trustless-freelancing-actually-works-3eoc)
 <!-- BLOG-POST-LIST:END -->
 
