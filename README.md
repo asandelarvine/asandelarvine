@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Ditched React for our school marketplace app 👇 Bundle: &lt;50KB. Load time on a $80 Android: 320ms. Story + architecture breakdown here #DEVCommunity #webdev](https://dev.to/juna_go15/ditched-react-for-our-school-marketplace-app-bundle-50kb-load-time-on-a-80-android-320ms-1dnl)
-- [FMZ Web3 in Practice — Riding the Robinhood Chain Wave: Build a Uniswap V4 New Pool Radar Step by Step](https://dev.to/quant001/fmz-web3-in-practice-riding-the-robinhood-chain-wave-build-a-uniswap-v4-new-pool-radar-step-by-5io)
-- [Designing a smart code diff without replacing the line diff](https://dev.to/martingruner/designing-a-smart-code-diff-without-replacing-the-line-diff-5h7o)
-- [Converting TSV to YAML: A Guide to Reliable Data Serialization](https://dev.to/kandz/converting-tsv-to-yaml-a-guide-to-reliable-data-serialization-113j)
+- [Integrating APIs Seamlessly in Flutter — My Battle-Tested Pattern](https://dev.to/mryadavgulshan/integrating-apis-seamlessly-in-flutter-my-battle-tested-pattern-34nd)
+- [My OSS Projects: AngleSharp](https://dev.to/florianrappl/my-oss-projects-anglesharp-3b8j)
+- [A Practical JSON Minification Workflow for Web Developers](https://dev.to/julien_fourel/a-practical-json-minification-workflow-for-web-developers-2e01)
+- [We Thought It Was a Cache Bug. It Was Actually a Stale Clone.](https://dev.to/altuntasgokcer/we-thought-it-was-a-cache-bug-it-was-actually-a-stale-clone-4076)
 <!-- BLOG-POST-LIST:END -->
 
