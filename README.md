@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Google Stores a Planet: The GFS, Explained](https://dev.to/lovestaco/how-google-stores-a-planet-the-gfs-explained-1fcp)
-- [The Automation Validation Tax: Why Trusting Automation Never Becomes Free](https://dev.to/ntctech/the-automation-validation-tax-why-trusting-automation-never-becomes-free-457b)
-- [The Retrieval Stack Nobody Shows You: Chunking, Reranking, Filtering, and Context](https://dev.to/hosseinhezami/the-retrieval-stack-nobody-shows-you-chunking-reranking-filtering-and-context-45hk)
-- [When RAG Gets Bigger, Accuracy Doesn&#39;t Always Get Better](https://dev.to/hosseinhezami/when-rag-gets-bigger-accuracy-doesnt-always-get-better-10o)
+- [Local models are actually good now - playing with Qwen3.8-27B](https://dev.to/billiem/local-models-are-actually-good-now-playing-with-qwen38-27b-3kce)
+- [The AWS EBS Snapshot Cleanup Pitfalls Nobody Warns You About](https://dev.to/sharmavarun/the-aws-ebs-snapshot-cleanup-pitfalls-nobody-warns-you-about-3m7l)
+- [Getting Started with Excel for Data Analytics: From Basics to Data Cleaning](https://dev.to/dokun/getting-started-with-excel-for-data-analytics-from-basics-to-data-cleaning-2c0l)
+- [Designing a Delivery Model That Scales With You: Governance, Traceability, Security, Automation, Testing, and Promotions](https://dev.to/shahbazalishahid/designing-a-delivery-model-that-scales-with-you-governance-traceability-security-automation-mhc)
 <!-- BLOG-POST-LIST:END -->
 
