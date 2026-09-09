@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ted and curlRAT: North Korean Linux Surveillance Toolkit Hiding Inside HAProxy](https://dev.to/anoymask/ted-and-curlrat-north-korean-linux-surveillance-toolkit-hiding-inside-haproxy-27ch)
-- [Senior React Quiz: Stale Closures or Automatic Batching? 🧠](https://dev.to/vitalyobolensky/senior-react-quiz-stale-closures-or-automatic-batching-39fb)
-- [BigBear 2.0: Microsoft 365 AiTM Phishing and Session Theft](https://dev.to/anoymask/bigbear-20-microsoft-365-aitm-phishing-and-session-theft-34jn)
-- [HTB - Funnel](https://dev.to/zkrnvkf/htb-funnel-4bmn)
+- [Designing Spoiler Controls and Evidence Labels for a Horror Game Wiki](https://dev.to/zakoxiaoyumao0621/designing-spoiler-controls-and-evidence-labels-for-a-horror-game-wiki-1ake)
+- [From OpenSpec to AIDLC: How I Improved My Team&#39;s AI Code Quality](https://dev.to/qtalen/from-openspec-to-aidlc-how-i-improved-my-teams-ai-code-quality-3mn2)
+- [Designing Game Wiki Guides Around Dependencies: A Big Ambitions Example](https://dev.to/xiaoyumao0621/designing-game-wiki-guides-around-dependencies-a-big-ambitions-example-15pb)
+- [Fail-open is the default failure mode of agent hooks](https://dev.to/trimkeep/fail-open-is-the-default-failure-mode-of-agent-hooks-30a3)
 <!-- BLOG-POST-LIST:END -->
 
