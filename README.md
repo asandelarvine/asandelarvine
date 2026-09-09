@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating APIs Seamlessly in Flutter — My Battle-Tested Pattern](https://dev.to/mryadavgulshan/integrating-apis-seamlessly-in-flutter-my-battle-tested-pattern-34nd)
-- [My OSS Projects: AngleSharp](https://dev.to/florianrappl/my-oss-projects-anglesharp-3b8j)
-- [A Practical JSON Minification Workflow for Web Developers](https://dev.to/julien_fourel/a-practical-json-minification-workflow-for-web-developers-2e01)
-- [We Thought It Was a Cache Bug. It Was Actually a Stale Clone.](https://dev.to/altuntasgokcer/we-thought-it-was-a-cache-bug-it-was-actually-a-stale-clone-4076)
+- [How Google Stores a Planet: The GFS, Explained](https://dev.to/lovestaco/how-google-stores-a-planet-the-gfs-explained-1fcp)
+- [The Automation Validation Tax: Why Trusting Automation Never Becomes Free](https://dev.to/ntctech/the-automation-validation-tax-why-trusting-automation-never-becomes-free-457b)
+- [The Retrieval Stack Nobody Shows You: Chunking, Reranking, Filtering, and Context](https://dev.to/hosseinhezami/the-retrieval-stack-nobody-shows-you-chunking-reranking-filtering-and-context-45hk)
+- [When RAG Gets Bigger, Accuracy Doesn&#39;t Always Get Better](https://dev.to/hosseinhezami/when-rag-gets-bigger-accuracy-doesnt-always-get-better-10o)
 <!-- BLOG-POST-LIST:END -->
 
