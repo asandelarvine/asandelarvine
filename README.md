@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Local models are actually good now - playing with Qwen3.8-27B](https://dev.to/billiem/local-models-are-actually-good-now-playing-with-qwen38-27b-3kce)
-- [The AWS EBS Snapshot Cleanup Pitfalls Nobody Warns You About](https://dev.to/sharmavarun/the-aws-ebs-snapshot-cleanup-pitfalls-nobody-warns-you-about-3m7l)
-- [Getting Started with Excel for Data Analytics: From Basics to Data Cleaning](https://dev.to/dokun/getting-started-with-excel-for-data-analytics-from-basics-to-data-cleaning-2c0l)
-- [Designing a Delivery Model That Scales With You: Governance, Traceability, Security, Automation, Testing, and Promotions](https://dev.to/shahbazalishahid/designing-a-delivery-model-that-scales-with-you-governance-traceability-security-automation-mhc)
+- [I pulled all 680 x402 services and counted the payments: Solana does 74% of the measured transactions](https://dev.to/pennyforgehq/i-pulled-all-680-x402-services-and-counted-the-payments-solana-does-74-of-the-measured-1d4h)
+- [Google Lyria 3.5 Brings Music Controls and Templates to Gemini Creators](https://dev.to/alifar/google-lyria-35-brings-music-controls-and-templates-to-gemini-creators-5202)
+- [What is an integrated servomotor? &lpar;And when you actually want one&rpar;](https://dev.to/gearotons/what-is-an-integrated-servomotor-and-when-you-actually-want-one-3hhi)
+- [ChatGPT Tops 50 Million Consumer Subscribers, Clarifying Demand for Paid AI](https://dev.to/alifar/chatgpt-tops-50-million-consumer-subscribers-clarifying-demand-for-paid-ai-40p3)
 <!-- BLOG-POST-LIST:END -->
 
