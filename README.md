@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Used to Think Hiring More People Was the Answer](https://dev.to/ayush_singh_/i-used-to-think-hiring-more-people-was-the-answer-k9h)
-- [nginx will proxy the new HTTP QUERY method. It will never cache one.](https://dev.to/remdore/nginx-will-proxy-the-new-http-query-method-it-will-never-cache-one-3f8i)
-- [count&lpar;&rpar; on a prefetched relation is free. filter&lpar;&rpar; costs a query per row.](https://dev.to/syrian963/count-on-a-prefetched-relation-is-free-filter-costs-a-query-per-row-4acm)
-- [How long has it been since you last wrote code?](https://dev.to/brucej_b5ec3f2f25b5c/how-long-has-it-been-since-you-last-wrote-code-2773)
+- [Run AI Code Reviews for the Cost of a $5 VPS — No Per-Seat SaaS Required](https://dev.to/tom_seidel_d47bb467039516/run-ai-code-reviews-for-the-cost-of-a-5-vps-no-per-seat-saas-required-54jp)
+- [Self-hosting AnythingLLM: the three settings that decide whether your workspaces survive a redeploy](https://dev.to/greatsage_sh/self-hosting-anythingllm-the-three-settings-that-decide-whether-your-workspaces-survive-a-redeploy-3kik)
+- [561/2006 Tells You When to Stop. It Doesn&#39;t Tell You If the Bay Is Free.](https://dev.to/road511/5612006-tells-you-when-to-stop-it-doesnt-tell-you-if-the-bay-is-free-15dj)
+- [Two Release Notes per Release: One for Users, One for Future Me](https://dev.to/mashi_mashi_3092153ef1ab5/two-release-notes-per-release-one-for-users-one-for-future-me-2o69)
 <!-- BLOG-POST-LIST:END -->
 
