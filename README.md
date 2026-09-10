@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Provider LLM Router, or How I Got Tired of Forgetting Which API Format I Had To Use](https://dev.to/wolfnom/multi-provider-llm-router-or-how-i-got-tired-of-forgetting-which-api-format-i-had-to-use-lk3)
-- [You probably do not need 264 AI agents](https://dev.to/softwaresausage/you-probably-do-not-need-264-ai-agents-1e9n)
-- [How to Assign Seller Login OTP Templates: SMS and Email Delivery Governance](https://dev.to/yvessterling6854/how-to-assign-seller-login-otp-templates-sms-and-email-delivery-governance-2828)
-- [AI Orchestration for Enterprise .NET Applications: Scaling Intelligent Agents with Azure](https://dev.to/amitesh0512/ai-orchestration-for-enterprise-net-applications-scaling-intelligent-agents-with-azure-3635)
+- [I Used to Think Hiring More People Was the Answer](https://dev.to/ayush_singh_/i-used-to-think-hiring-more-people-was-the-answer-k9h)
+- [nginx will proxy the new HTTP QUERY method. It will never cache one.](https://dev.to/remdore/nginx-will-proxy-the-new-http-query-method-it-will-never-cache-one-3f8i)
+- [count&lpar;&rpar; on a prefetched relation is free. filter&lpar;&rpar; costs a query per row.](https://dev.to/syrian963/count-on-a-prefetched-relation-is-free-filter-costs-a-query-per-row-4acm)
+- [How long has it been since you last wrote code?](https://dev.to/brucej_b5ec3f2f25b5c/how-long-has-it-been-since-you-last-wrote-code-2773)
 <!-- BLOG-POST-LIST:END -->
 
