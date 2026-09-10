@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The .NET Options pattern: a practical field guide](https://dev.to/y_ustsinovich/the-net-options-pattern-a-practical-field-guide-35on)
-- [How I built one open-source SQL workspace for five database engines](https://dev.to/cccadet/how-i-built-one-open-source-sql-workspace-for-five-database-engines-d38)
-- [From Freelancing to Building My Own SaaS: What Building Adowise Taught Me](https://dev.to/codewithaltaf/from-freelancing-to-building-my-own-saas-what-building-adowise-taught-me-153f)
-- [I built a dashboard that watches cron jobs, SSL certs, and domain expiry so I don&#39;t find out from a client](https://dev.to/nandu_ss_/i-built-a-dashboard-that-watches-cron-jobs-ssl-certs-and-domain-expiry-so-i-dont-find-out-from-a-1o11)
+- [Building a Vision-Language Robot with Jetson + ROS 2](https://dev.to/vmodal_ai/building-a-vision-language-robot-with-jetson-ros-2-1cba)
+- [Edge LLMs on NVIDIA Jetson: Building an AI Assistant for Robots](https://dev.to/vmodal_ai/edge-llms-on-nvidia-jetson-building-an-ai-assistant-for-robots-5h6d)
+- [Building a Person-Following Robot with Jetson, YOLO and ROS 2](https://dev.to/vmodal_ai/building-a-person-following-robot-with-jetson-yolo-and-ros-2-5flk)
+- [Learning Web Development Is Easier When You Build Real Projects](https://dev.to/webprims/learning-web-development-is-easier-when-you-build-real-projects-1apf)
 <!-- BLOG-POST-LIST:END -->
 
