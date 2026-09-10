@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Run AI Code Reviews for the Cost of a $5 VPS — No Per-Seat SaaS Required](https://dev.to/tom_seidel_d47bb467039516/run-ai-code-reviews-for-the-cost-of-a-5-vps-no-per-seat-saas-required-54jp)
-- [Self-hosting AnythingLLM: the three settings that decide whether your workspaces survive a redeploy](https://dev.to/greatsage_sh/self-hosting-anythingllm-the-three-settings-that-decide-whether-your-workspaces-survive-a-redeploy-3kik)
-- [561/2006 Tells You When to Stop. It Doesn&#39;t Tell You If the Bay Is Free.](https://dev.to/road511/5612006-tells-you-when-to-stop-it-doesnt-tell-you-if-the-bay-is-free-15dj)
-- [Two Release Notes per Release: One for Users, One for Future Me](https://dev.to/mashi_mashi_3092153ef1ab5/two-release-notes-per-release-one-for-users-one-for-future-me-2o69)
+- [The .NET Options pattern: a practical field guide](https://dev.to/y_ustsinovich/the-net-options-pattern-a-practical-field-guide-35on)
+- [How I built one open-source SQL workspace for five database engines](https://dev.to/cccadet/how-i-built-one-open-source-sql-workspace-for-five-database-engines-d38)
+- [From Freelancing to Building My Own SaaS: What Building Adowise Taught Me](https://dev.to/codewithaltaf/from-freelancing-to-building-my-own-saas-what-building-adowise-taught-me-153f)
+- [I built a dashboard that watches cron jobs, SSL certs, and domain expiry so I don&#39;t find out from a client](https://dev.to/nandu_ss_/i-built-a-dashboard-that-watches-cron-jobs-ssl-certs-and-domain-expiry-so-i-dont-find-out-from-a-1o11)
 <!-- BLOG-POST-LIST:END -->
 
