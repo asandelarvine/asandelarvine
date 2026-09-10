@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Vision-Language Robot with Jetson + ROS 2](https://dev.to/vmodal_ai/building-a-vision-language-robot-with-jetson-ros-2-1cba)
-- [Edge LLMs on NVIDIA Jetson: Building an AI Assistant for Robots](https://dev.to/vmodal_ai/edge-llms-on-nvidia-jetson-building-an-ai-assistant-for-robots-5h6d)
-- [Building a Person-Following Robot with Jetson, YOLO and ROS 2](https://dev.to/vmodal_ai/building-a-person-following-robot-with-jetson-yolo-and-ros-2-5flk)
-- [Learning Web Development Is Easier When You Build Real Projects](https://dev.to/webprims/learning-web-development-is-easier-when-you-build-real-projects-1apf)
+- [From &quot;show me your code&quot; to &quot;show me your idea&quot;](https://dev.to/zxpmail/from-show-me-your-code-to-show-me-your-idea-30kk)
+- [J&#39;ai procastiné Docker pendant un mois... Voici ce qui m&#39;a débloquée](https://dev.to/audreysiewe14droid/jai-procastine-docker-pendant-un-mois-voici-ce-qui-ma-debloquee-1cdj)
+- [[Boost]](https://dev.to/techwithsam/-ake)
+- [Automate Flutter Releases with Shorebird + GitHub Actions &lpar;Skip App Store Review&rpar;](https://dev.to/techwithsam/automate-flutter-releases-with-shorebird-github-actions-skip-app-store-review-2j1l)
 <!-- BLOG-POST-LIST:END -->
 
