@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I pulled all 680 x402 services and counted the payments: Solana does 74% of the measured transactions](https://dev.to/pennyforgehq/i-pulled-all-680-x402-services-and-counted-the-payments-solana-does-74-of-the-measured-1d4h)
-- [Google Lyria 3.5 Brings Music Controls and Templates to Gemini Creators](https://dev.to/alifar/google-lyria-35-brings-music-controls-and-templates-to-gemini-creators-5202)
-- [What is an integrated servomotor? &lpar;And when you actually want one&rpar;](https://dev.to/gearotons/what-is-an-integrated-servomotor-and-when-you-actually-want-one-3hhi)
-- [ChatGPT Tops 50 Million Consumer Subscribers, Clarifying Demand for Paid AI](https://dev.to/alifar/chatgpt-tops-50-million-consumer-subscribers-clarifying-demand-for-paid-ai-40p3)
+- [Multi-Provider LLM Router, or How I Got Tired of Forgetting Which API Format I Had To Use](https://dev.to/wolfnom/multi-provider-llm-router-or-how-i-got-tired-of-forgetting-which-api-format-i-had-to-use-lk3)
+- [You probably do not need 264 AI agents](https://dev.to/softwaresausage/you-probably-do-not-need-264-ai-agents-1e9n)
+- [How to Assign Seller Login OTP Templates: SMS and Email Delivery Governance](https://dev.to/yvessterling6854/how-to-assign-seller-login-otp-templates-sms-and-email-delivery-governance-2828)
+- [AI Orchestration for Enterprise .NET Applications: Scaling Intelligent Agents with Azure](https://dev.to/amitesh0512/ai-orchestration-for-enterprise-net-applications-scaling-intelligent-agents-with-azure-3635)
 <!-- BLOG-POST-LIST:END -->
 
