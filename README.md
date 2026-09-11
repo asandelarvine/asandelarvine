@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Built anything cool with AI lately?](https://dev.to/alexgeorgiev17/built-anything-cool-with-ai-lately-3djb)
-- [Building an AI-Powered Multiplayer Quiz Platform Without a Traditional Backend](https://dev.to/jeswin_madona/building-an-ai-powered-multiplayer-quiz-platform-without-a-traditional-backend-5ke)
-- [Why Most Solopreneurs Quit Before Their Business Has a Chance](https://dev.to/ravindrachitla/why-most-solopreneurs-quit-before-their-business-has-a-chance-5b02)
-- [Designing a Cross-Border Airport Transfer Checklist as Structured Data](https://dev.to/gavin_gui_262bf3b223662cd/designing-a-cross-border-airport-transfer-checklist-as-structured-data-34o8)
+- [DDoSing the Human in an AI Agentic System](https://dev.to/trent-ai/ddosing-the-human-in-an-ai-agentic-system-2mah)
+- [Resilient HTTP Retry Strategies: 3 Real Bug Patterns Found Auditing Retry Logic Across 18 Scrapers](https://dev.to/stefanoseggio/resilient-http-retry-strategies-3-real-bug-patterns-found-auditing-retry-logic-across-18-scrapers-1gd3)
+- [AZ-104 vs AZ-305: admin vs architect &lpar;responsibilities, mindset, deliverables&rpar;](https://dev.to/borisgigovic/az-104-vs-az-305-admin-vs-architect-responsibilities-mindset-deliverables-5980)
+- [Your browser tab as a backend](https://dev.to/ibr0r/your-browser-tab-as-a-backend-1cai)
 <!-- BLOG-POST-LIST:END -->
 
