@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Think Developers Are Building Too Much Software](https://dev.to/jaideepparashar/i-think-developers-are-building-too-much-software-1l1i)
-- [Reject Agent Patches That Shrink the Property Seed Corpus](https://dev.to/datacpp_8185/reject-agent-patches-that-shrink-the-property-seed-corpus-1fl9)
-- [Ataqué mi propio servidor con Kali Linux — así lo agarró Wazuh, paso a paso](https://dev.to/ruizz16/ataque-mi-propio-servidor-con-kali-linux-asi-lo-agarro-wazuh-paso-a-paso-1c94)
-- [Staged OTA rollouts catch bad Expo updates before everyone gets them](https://dev.to/davekurian/staged-ota-rollouts-catch-bad-expo-updates-before-everyone-gets-them-4cil)
+- [Built anything cool with AI lately?](https://dev.to/alexgeorgiev17/built-anything-cool-with-ai-lately-3djb)
+- [Building an AI-Powered Multiplayer Quiz Platform Without a Traditional Backend](https://dev.to/jeswin_madona/building-an-ai-powered-multiplayer-quiz-platform-without-a-traditional-backend-5ke)
+- [Why Most Solopreneurs Quit Before Their Business Has a Chance](https://dev.to/ravindrachitla/why-most-solopreneurs-quit-before-their-business-has-a-chance-5b02)
+- [Designing a Cross-Border Airport Transfer Checklist as Structured Data](https://dev.to/gavin_gui_262bf3b223662cd/designing-a-cross-border-airport-transfer-checklist-as-structured-data-34o8)
 <!-- BLOG-POST-LIST:END -->
 
