@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Freeze the Error Contract Before One except Change](https://dev.to/hackrs_6393/freeze-the-error-contract-before-one-except-change-4b8b)
-- [NovelAI V5 on Opus: usage limits, the 2026-09-21 subscription Anlas reset, and the api.novelai.net to image.novelai.net move](https://dev.to/ilan_kim/novelai-v5-on-opus-usage-limits-the-2026-09-21-subscription-anlas-reset-and-the-apinovelainet-567l)
-- [Top 4 Local LLM Inference Engines for Developer Workstations in 2026](https://dev.to/roberts_jakuko_fbc04cb38/top-4-local-llm-inference-engines-for-developer-workstations-in-2026-30dn)
-- [Top 5 Open-Source Self-Hosted Developer Tools for 2026 Infrastructure](https://dev.to/roberts_jakuko_fbc04cb38/top-5-open-source-self-hosted-developer-tools-for-2026-infrastructure-3doj)
+- [Building a Pi-hole Home Lab From an Old PC : Why](https://dev.to/ghchattaouibit/building-a-pi-hole-home-lab-from-an-old-pc-why-29h2)
+- [Great News for the Rust Community: A New Server-Driven UI Technology in Rust](https://dev.to/elanatframework/great-news-for-the-rust-community-a-new-server-driven-ui-technology-in-rust-4eo8)
+- [How Uber Knows Your Driver Is 7 Minutes Away](https://dev.to/lovestaco/how-uber-knows-your-driver-is-7-minutes-away-ao3)
+- [I Spent 3 Months Testing Every AI Automation Framework](https://dev.to/gabriel_omarbergmann_786/i-spent-3-months-testing-every-ai-automation-framework-ep7)
 <!-- BLOG-POST-LIST:END -->
 
