@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DDoSing the Human in an AI Agentic System](https://dev.to/trent-ai/ddosing-the-human-in-an-ai-agentic-system-2mah)
-- [Resilient HTTP Retry Strategies: 3 Real Bug Patterns Found Auditing Retry Logic Across 18 Scrapers](https://dev.to/stefanoseggio/resilient-http-retry-strategies-3-real-bug-patterns-found-auditing-retry-logic-across-18-scrapers-1gd3)
-- [AZ-104 vs AZ-305: admin vs architect &lpar;responsibilities, mindset, deliverables&rpar;](https://dev.to/borisgigovic/az-104-vs-az-305-admin-vs-architect-responsibilities-mindset-deliverables-5980)
-- [Your browser tab as a backend](https://dev.to/ibr0r/your-browser-tab-as-a-backend-1cai)
+- [Freeze the Error Contract Before One except Change](https://dev.to/hackrs_6393/freeze-the-error-contract-before-one-except-change-4b8b)
+- [NovelAI V5 on Opus: usage limits, the 2026-09-21 subscription Anlas reset, and the api.novelai.net to image.novelai.net move](https://dev.to/ilan_kim/novelai-v5-on-opus-usage-limits-the-2026-09-21-subscription-anlas-reset-and-the-apinovelainet-567l)
+- [Top 4 Local LLM Inference Engines for Developer Workstations in 2026](https://dev.to/roberts_jakuko_fbc04cb38/top-4-local-llm-inference-engines-for-developer-workstations-in-2026-30dn)
+- [Top 5 Open-Source Self-Hosted Developer Tools for 2026 Infrastructure](https://dev.to/roberts_jakuko_fbc04cb38/top-5-open-source-self-hosted-developer-tools-for-2026-infrastructure-3doj)
 <!-- BLOG-POST-LIST:END -->
 
