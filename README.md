@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Pi-hole Home Lab From an Old PC : Why](https://dev.to/ghchattaouibit/building-a-pi-hole-home-lab-from-an-old-pc-why-29h2)
-- [Great News for the Rust Community: A New Server-Driven UI Technology in Rust](https://dev.to/elanatframework/great-news-for-the-rust-community-a-new-server-driven-ui-technology-in-rust-4eo8)
-- [How Uber Knows Your Driver Is 7 Minutes Away](https://dev.to/lovestaco/how-uber-knows-your-driver-is-7-minutes-away-ao3)
-- [I Spent 3 Months Testing Every AI Automation Framework](https://dev.to/gabriel_omarbergmann_786/i-spent-3-months-testing-every-ai-automation-framework-ep7)
+- [Anatomy of a skill](https://dev.to/lisandro_reinoso_d12ac7b9/anatomy-of-a-skill-295g)
+- [🏗️ Backend for Frontend &lpar;BFF&rpar; – o padrão que salvou meus microsserviços &lpar;e minha sanidade&rpar;](https://dev.to/fabiothomazrocha/backend-for-frontend-bff-o-padrao-que-salvou-meus-microsservicos-e-minha-sanidade-555p)
+- [Docker Bake in Practice — Part 1: From Bash Scripts to Declarative Builds](https://dev.to/gde/docker-bake-in-practice-part-1-from-bash-scripts-to-declarative-builds-3pak)
+- [GPT-5.6 Sol Runs Quantum Chip Calibration at MIT Through Codex](https://dev.to/alifar/gpt-56-sol-runs-quantum-chip-calibration-at-mit-through-codex-4e0e)
 <!-- BLOG-POST-LIST:END -->
 
