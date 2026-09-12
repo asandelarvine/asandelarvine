@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Coding Agent Changed. The Engineering Method Stayed in the Repository.](https://dev.to/frederik_schmittel/the-coding-agent-changed-the-engineering-method-stayed-in-the-repository-5ag1)
-- [I Built a Hands-Free AI Harness for Migrating Legacy Tests](https://dev.to/harikrishnavshetty/i-built-a-hands-free-ai-harness-for-migrating-legacy-tests-3pab)
-- [Your LLM bill isn&#39;t a mystery, it&#39;s a missing layer](https://dev.to/alessandro_pignati/your-llm-bill-isnt-a-mystery-its-a-missing-layer-4d3n)
-- [How to Debug Python Code You Didn&#39;t Write](https://dev.to/srdan_borovi_584c6b1d773/how-to-debug-python-code-you-didnt-write-5a01)
+- [My privacy scan found 412 leaks. 374 of them were one line of my own tooling.](https://dev.to/mahirhir/my-privacy-scan-found-412-leaks-374-of-them-were-one-line-of-my-own-tooling-bba)
+- [Lost job &amp; whole industry but save life &lpar;I hope&rpar;](https://dev.to/dk2233/lost-job-whole-industry-but-save-life-i-hope-1ooi)
+- [The Serverless Supercomputer: Generating 1 Million AI Briefings for $48](https://dev.to/dhananjay_lakkawar/the-serverless-supercomputer-generating-1-million-ai-briefings-for-48-4mmn)
+- [I Built an AI Tool That Extracts Tech Stacks from YouTube Videos](https://dev.to/wgeorgeassistantia/i-built-an-ai-tool-that-extracts-tech-stacks-from-youtube-videos-1520)
 <!-- BLOG-POST-LIST:END -->
 
