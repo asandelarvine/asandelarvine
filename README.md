@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ThonburianTTS vs OmniVoice vs ElevenLabs: Which Thai TTS Sounds Most Human?](https://dev.to/sarantoon/thonburiantts-vs-omnivoice-vs-elevenlabs-which-thai-tts-sounds-most-human-2op0)
-- [I built 59 free browser-based dev tools in vanilla JS — here&#39;s what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-27ih)
-- [Page count is the wrong unit for estimating a PDF-to-text job](https://dev.to/shu_jing_915fa287b22539ad/page-count-is-the-wrong-unit-for-estimating-a-pdf-to-text-job-5f82)
-- [I treated publishing as a queue. The queue lied.](https://dev.to/simple_memo/i-treated-publishing-as-a-queue-the-queue-lied-2d2j)
+- [Lazygit&#39;s M Key Hides Four Merge Options — Here&#39;s the Git History Each One Leaves Behind](https://dev.to/kamon-shellcraft/lazygits-m-key-hides-four-merge-options-heres-the-git-history-each-one-leaves-behind-4pg)
+- [Building Pune Pulse: a real-time 3D digital twin with an IDM/MOBIL traffic engine](https://dev.to/buildkaro/building-pune-pulse-a-real-time-3d-digital-twin-with-an-idmmobil-traffic-engine-50k2)
+- [How to run a provably fair giveaway in 10 lines of code](https://dev.to/liju_james_7f3bac292319b2/how-to-run-a-provably-fair-giveaway-in-10-lines-of-code-51e)
+- [TrustED Moves Privacy Preserving Data Sharing Into Real World European Pilots](https://dev.to/alifar/trusted-moves-privacy-preserving-data-sharing-into-real-world-european-pilots-2457)
 <!-- BLOG-POST-LIST:END -->
 
