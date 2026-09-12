@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My privacy scan found 412 leaks. 374 of them were one line of my own tooling.](https://dev.to/mahirhir/my-privacy-scan-found-412-leaks-374-of-them-were-one-line-of-my-own-tooling-bba)
-- [Lost job &amp; whole industry but save life &lpar;I hope&rpar;](https://dev.to/dk2233/lost-job-whole-industry-but-save-life-i-hope-1ooi)
-- [The Serverless Supercomputer: Generating 1 Million AI Briefings for $48](https://dev.to/dhananjay_lakkawar/the-serverless-supercomputer-generating-1-million-ai-briefings-for-48-4mmn)
-- [I Built an AI Tool That Extracts Tech Stacks from YouTube Videos](https://dev.to/wgeorgeassistantia/i-built-an-ai-tool-that-extracts-tech-stacks-from-youtube-videos-1520)
+- [I ran my scanner against 5 real CVEs. It missed 4. Then I reverted my own fix.](https://dev.to/balbaks/i-ran-my-scanner-against-5-real-cves-it-missed-4-then-i-reverted-my-own-fix-4dhk)
+- [AI Won’t Fix a Broken Business Process](https://dev.to/ikilic/ai-wont-fix-a-broken-business-process-3ma0)
+- [Running a nested Proxmox homelab and Docker development on the same Windows machine](https://dev.to/yahavtz/running-a-nested-proxmox-homelab-and-docker-development-on-the-same-windows-machine-44c8)
+- [Droid ASC: A High-Performance Tool for Android Reverse Engineering and Vulnerability Discovery](https://dev.to/excalibra/droid-asc-a-high-performance-tool-for-android-reverse-engineering-and-vulnerability-discovery-1ci9)
 <!-- BLOG-POST-LIST:END -->
 
