@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo armé un Pit Wall con AWS IoT Core &lpar;y por qué este patrón sirve para cualquier industria&rpar;](https://dev.to/alvarongg/como-arme-un-pit-wall-con-aws-iot-core-y-por-que-este-patron-sirve-para-cualquier-industria-4lo1)
-- [GPT-6 Astra Is Not Just a Smarter Model. It Is a Computer Operator.](https://dev.to/suraj_khaitan_f893c243958/gpt-6-astra-is-not-just-a-smarter-model-it-is-a-computer-operator-2c40)
-- [Reproducing PROFINET in the Lab: Discovery, AR Establishment, and Cyclic RT Boundaries](https://dev.to/null_saint/reproducing-profinet-in-the-lab-discovery-ar-establishment-and-cyclic-rt-boundaries-3oi0)
-- [Stop Trusting the App: Enforcing Append-Only at the Database Layer](https://dev.to/gentlyding/stop-trusting-the-app-enforcing-append-only-at-the-database-layer-36om)
+- [ThonburianTTS vs OmniVoice vs ElevenLabs: Which Thai TTS Sounds Most Human?](https://dev.to/sarantoon/thonburiantts-vs-omnivoice-vs-elevenlabs-which-thai-tts-sounds-most-human-2op0)
+- [I built 59 free browser-based dev tools in vanilla JS — here&#39;s what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-27ih)
+- [Page count is the wrong unit for estimating a PDF-to-text job](https://dev.to/shu_jing_915fa287b22539ad/page-count-is-the-wrong-unit-for-estimating-a-pdf-to-text-job-5f82)
+- [I treated publishing as a queue. The queue lied.](https://dev.to/simple_memo/i-treated-publishing-as-a-queue-the-queue-lied-2d2j)
 <!-- BLOG-POST-LIST:END -->
 
