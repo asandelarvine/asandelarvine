@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lazygit&#39;s M Key Hides Four Merge Options — Here&#39;s the Git History Each One Leaves Behind](https://dev.to/kamon-shellcraft/lazygits-m-key-hides-four-merge-options-heres-the-git-history-each-one-leaves-behind-4pg)
-- [Building Pune Pulse: a real-time 3D digital twin with an IDM/MOBIL traffic engine](https://dev.to/buildkaro/building-pune-pulse-a-real-time-3d-digital-twin-with-an-idmmobil-traffic-engine-50k2)
-- [How to run a provably fair giveaway in 10 lines of code](https://dev.to/liju_james_7f3bac292319b2/how-to-run-a-provably-fair-giveaway-in-10-lines-of-code-51e)
-- [TrustED Moves Privacy Preserving Data Sharing Into Real World European Pilots](https://dev.to/alifar/trusted-moves-privacy-preserving-data-sharing-into-real-world-european-pilots-2457)
+- [The Coding Agent Changed. The Engineering Method Stayed in the Repository.](https://dev.to/frederik_schmittel/the-coding-agent-changed-the-engineering-method-stayed-in-the-repository-5ag1)
+- [I Built a Hands-Free AI Harness for Migrating Legacy Tests](https://dev.to/harikrishnavshetty/i-built-a-hands-free-ai-harness-for-migrating-legacy-tests-3pab)
+- [Your LLM bill isn&#39;t a mystery, it&#39;s a missing layer](https://dev.to/alessandro_pignati/your-llm-bill-isnt-a-mystery-its-a-missing-layer-4d3n)
+- [How to Debug Python Code You Didn&#39;t Write](https://dev.to/srdan_borovi_584c6b1d773/how-to-debug-python-code-you-didnt-write-5a01)
 <!-- BLOG-POST-LIST:END -->
 
