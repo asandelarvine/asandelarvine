@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Anatomy of a skill](https://dev.to/lisandro_reinoso_d12ac7b9/anatomy-of-a-skill-295g)
-- [🏗️ Backend for Frontend &lpar;BFF&rpar; – o padrão que salvou meus microsserviços &lpar;e minha sanidade&rpar;](https://dev.to/fabiothomazrocha/backend-for-frontend-bff-o-padrao-que-salvou-meus-microsservicos-e-minha-sanidade-555p)
-- [Docker Bake in Practice — Part 1: From Bash Scripts to Declarative Builds](https://dev.to/gde/docker-bake-in-practice-part-1-from-bash-scripts-to-declarative-builds-3pak)
-- [GPT-5.6 Sol Runs Quantum Chip Calibration at MIT Through Codex](https://dev.to/alifar/gpt-56-sol-runs-quantum-chip-calibration-at-mit-through-codex-4e0e)
+- [Cómo armé un Pit Wall con AWS IoT Core &lpar;y por qué este patrón sirve para cualquier industria&rpar;](https://dev.to/alvarongg/como-arme-un-pit-wall-con-aws-iot-core-y-por-que-este-patron-sirve-para-cualquier-industria-4lo1)
+- [GPT-6 Astra Is Not Just a Smarter Model. It Is a Computer Operator.](https://dev.to/suraj_khaitan_f893c243958/gpt-6-astra-is-not-just-a-smarter-model-it-is-a-computer-operator-2c40)
+- [Reproducing PROFINET in the Lab: Discovery, AR Establishment, and Cyclic RT Boundaries](https://dev.to/null_saint/reproducing-profinet-in-the-lab-discovery-ar-establishment-and-cyclic-rt-boundaries-3oi0)
+- [Stop Trusting the App: Enforcing Append-Only at the Database Layer](https://dev.to/gentlyding/stop-trusting-the-app-enforcing-append-only-at-the-database-layer-36om)
 <!-- BLOG-POST-LIST:END -->
 
