@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your LLM cost estimate is wrong above 200,000 tokens](https://dev.to/llmwaves/your-llm-cost-estimate-is-wrong-above-200000-tokens-26ck)
-- [I made an alternative to the archived filebrowser](https://dev.to/skidoodle/i-made-an-alternative-to-the-archived-filebrowser-29l6)
-- [Your AI Agent Has No Colleagues](https://dev.to/fuyuki0/your-ai-agent-has-no-colleagues-514b)
-- [Construindo um Pipeline de Processamento de Pedidos com o Padrão Chain of Responsibility em Java](https://dev.to/xdherick/construindo-um-pipeline-de-processamento-de-pedidos-com-o-padrao-chain-of-responsibility-em-java-510g)
+- [Harden &amp; Lockdown RKE2 Cluster with a 4-Layer DevSecOps Stack](https://dev.to/ezejioforog/harden-lockdown-rke2-cluster-with-a-4-layer-devsecops-stack-iop)
+- [No Server, No Backend, Just Blazor WebAssembly Doing Semantic Search](https://dev.to/j_sakamoto/no-server-no-backend-just-blazor-webassembly-doing-semantic-search-bl4)
+- [ราคา cache hit 0.003 ดอลลาร์ ที่เปลี่ยนวิธีเทียบโมเดลทั้งตลาด](https://dev.to/sarantoon/raakhaa-cache-hit-0003-dllaar-thiiepliiynwithiiethiiybomedlthangtlaad-3ff5)
+- [From Projects to Products in the AI Age: Why Ownership Matters More When Prototypes Are Free](https://dev.to/debashish_ghosal/from-projects-to-products-in-the-ai-age-why-ownership-matters-more-when-prototypes-are-free-3d0k)
 <!-- BLOG-POST-LIST:END -->
 
