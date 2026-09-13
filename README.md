@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Repository Agent-Security Gap Study — v2h baseline](https://dev.to/jackymencz/repository-agent-security-gap-study-v2h-baseline-52f5)
-- [Hacking VaultGate: Three Paths to One Flag](https://dev.to/__94802c1f2b15/hacking-vaultgate-three-paths-to-one-flag-3mge)
-- [Power BI Technical Article: Data Modelling, Relationships &amp; Joins](https://dev.to/sam_manox/power-bi-technical-article-data-modelling-relationships-joins-4l1d)
-- [Repository Agent-Security Gap Study — v2](https://dev.to/jackymencz/repository-agent-security-gap-study-v2-5g3)
+- [ESLint took 4.4s to lint Vue&#39;s core. oxlint took 0.24s. Then I turned on the type-aware rules.](https://dev.to/remdore/eslint-took-44s-to-lint-vues-core-oxlint-took-024s-then-i-turned-on-the-type-aware-rules-1fao)
+- [A deprecated value has to live somewhere, and widening the set was the wrong somewhere](https://dev.to/mahirhir/a-deprecated-value-has-to-live-somewhere-and-widening-the-set-was-the-wrong-somewhere-4kh8)
+- [Bot Detection False Positives: How to Actually Test Accuracy](https://dev.to/webdecoy/bot-detection-false-positives-how-to-actually-test-accuracy-d1o)
+- [AI Agent Authentication in 2026: Web Bot Auth, ARD &amp; OAuth](https://dev.to/webdecoy/ai-agent-authentication-in-2026-web-bot-auth-ard-oauth-247)
 <!-- BLOG-POST-LIST:END -->
 
