@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I ran my scanner against 5 real CVEs. It missed 4. Then I reverted my own fix.](https://dev.to/balbaks/i-ran-my-scanner-against-5-real-cves-it-missed-4-then-i-reverted-my-own-fix-4dhk)
-- [AI Won’t Fix a Broken Business Process](https://dev.to/ikilic/ai-wont-fix-a-broken-business-process-3ma0)
-- [Running a nested Proxmox homelab and Docker development on the same Windows machine](https://dev.to/yahavtz/running-a-nested-proxmox-homelab-and-docker-development-on-the-same-windows-machine-44c8)
-- [Droid ASC: A High-Performance Tool for Android Reverse Engineering and Vulnerability Discovery](https://dev.to/excalibra/droid-asc-a-high-performance-tool-for-android-reverse-engineering-and-vulnerability-discovery-1ci9)
+- [I recorded my Kubernetes AI agent failing, on purpose](https://dev.to/mskazemi/i-recorded-my-kubernetes-ai-agent-failing-on-purpose-1ib2)
+- [I rebuilt my failed chat app from scratch, here&#39;s what changed &lpar;GrowsChat&rpar;](https://dev.to/behan05/i-rebuilt-my-failed-chat-app-from-scratch-heres-what-changed-growschat-h0p)
+- [Amodei, Altman and Musk agree on one thing: slow the frontier down](https://dev.to/chovy/amodei-altman-and-musk-agree-on-one-thing-slow-the-frontier-down-2p9g)
+- [The RubyGems agent attack is a coding-agent benchmark nobody writes](https://dev.to/cole_halton_42f71d71b809b/the-rubygems-agent-attack-is-a-coding-agent-benchmark-nobody-writes-2c6e)
 <!-- BLOG-POST-LIST:END -->
 
