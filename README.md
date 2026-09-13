@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineering Build Notes #3: When 200Gi Was More Storage Than the Nodes Needed](https://dev.to/damola12345/engineering-build-notes-3-when-200gi-was-more-storage-than-the-nodes-needed-f9k)
-- [Why Your React Hotfix Isn&#39;t Reaching Users - And How to Fix It with Nginx](https://dev.to/ashim_sapkota_89bffa22087/why-your-react-hotfix-isnt-reaching-users-and-how-to-fix-it-with-nginx-2h0m)
-- [The Physical Limits of AI: GPU Exhaustion, The 151M Token Heist, and The 38GW Power Wall](https://dev.to/hksoldev/the-physical-limits-of-ai-gpu-exhaustion-the-151m-token-heist-and-the-38gw-power-wall-1id1)
-- [React `startTransition` Without `useTransition`: The Standalone API Teams Keep Overlooking in Concurrent Mode](https://dev.to/jsmanifest/react-starttransition-without-usetransition-the-standalone-api-teams-keep-overlooking-in-1lgp)
+- [Repository Agent-Security Gap Study — v2h baseline](https://dev.to/jackymencz/repository-agent-security-gap-study-v2h-baseline-52f5)
+- [Hacking VaultGate: Three Paths to One Flag](https://dev.to/__94802c1f2b15/hacking-vaultgate-three-paths-to-one-flag-3mge)
+- [Power BI Technical Article: Data Modelling, Relationships &amp; Joins](https://dev.to/sam_manox/power-bi-technical-article-data-modelling-relationships-joins-4l1d)
+- [Repository Agent-Security Gap Study — v2](https://dev.to/jackymencz/repository-agent-security-gap-study-v2-5g3)
 <!-- BLOG-POST-LIST:END -->
 
