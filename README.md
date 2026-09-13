@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My progress was 0.5% or 7.3%, depending on which denominator the report used](https://dev.to/mahirhir/my-progress-was-05-or-73-depending-on-which-denominator-the-report-used-1p8e)
-- [Recursive self-improvement คืออะไร ทำไม AI สร้าง AI ถึงน่ากังวลที่สุด](https://dev.to/sarantoon/recursive-self-improvement-khuueaair-thamaim-ai-sraang-ai-thuengnaakangwlthiisud-35bi)
-- [Linux Mint Keyboard Shortcuts Every Beginner Should Know](https://dev.to/sunilpradhan/linux-mint-keyboard-shortcuts-every-beginner-should-know-574o)
-- [Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs](https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5)
+- [Your LLM cost estimate is wrong above 200,000 tokens](https://dev.to/llmwaves/your-llm-cost-estimate-is-wrong-above-200000-tokens-26ck)
+- [I made an alternative to the archived filebrowser](https://dev.to/skidoodle/i-made-an-alternative-to-the-archived-filebrowser-29l6)
+- [Your AI Agent Has No Colleagues](https://dev.to/fuyuki0/your-ai-agent-has-no-colleagues-514b)
+- [Construindo um Pipeline de Processamento de Pedidos com o Padrão Chain of Responsibility em Java](https://dev.to/xdherick/construindo-um-pipeline-de-processamento-de-pedidos-com-o-padrao-chain-of-responsibility-em-java-510g)
 <!-- BLOG-POST-LIST:END -->
 
