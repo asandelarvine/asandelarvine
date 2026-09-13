@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ESLint took 4.4s to lint Vue&#39;s core. oxlint took 0.24s. Then I turned on the type-aware rules.](https://dev.to/remdore/eslint-took-44s-to-lint-vues-core-oxlint-took-024s-then-i-turned-on-the-type-aware-rules-1fao)
-- [A deprecated value has to live somewhere, and widening the set was the wrong somewhere](https://dev.to/mahirhir/a-deprecated-value-has-to-live-somewhere-and-widening-the-set-was-the-wrong-somewhere-4kh8)
-- [Bot Detection False Positives: How to Actually Test Accuracy](https://dev.to/webdecoy/bot-detection-false-positives-how-to-actually-test-accuracy-d1o)
-- [AI Agent Authentication in 2026: Web Bot Auth, ARD &amp; OAuth](https://dev.to/webdecoy/ai-agent-authentication-in-2026-web-bot-auth-ard-oauth-247)
+- [My progress was 0.5% or 7.3%, depending on which denominator the report used](https://dev.to/mahirhir/my-progress-was-05-or-73-depending-on-which-denominator-the-report-used-1p8e)
+- [Recursive self-improvement คืออะไร ทำไม AI สร้าง AI ถึงน่ากังวลที่สุด](https://dev.to/sarantoon/recursive-self-improvement-khuueaair-thamaim-ai-sraang-ai-thuengnaakangwlthiisud-35bi)
+- [Linux Mint Keyboard Shortcuts Every Beginner Should Know](https://dev.to/sunilpradhan/linux-mint-keyboard-shortcuts-every-beginner-should-know-574o)
+- [Nano Banana 2 Lite, Revisited: MCP 2.0, the New Interactions API, and Three Agent CLIs](https://dev.to/gde/nano-banana-2-lite-revisited-mcp-20-the-new-interactions-api-and-three-agent-clis-37g5)
 <!-- BLOG-POST-LIST:END -->
 
