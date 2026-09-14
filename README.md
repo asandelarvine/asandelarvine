@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why the ATS says you’re “missing” keywords your resume clearly has](https://dev.to/rebel_studios/why-the-ats-says-youre-missing-keywords-your-resume-clearly-has-5c10)
-- [Ada Loves Code: Bringing Poetical Science and Human Warmth to Open Source](https://dev.to/mike_cramblett_7050830f0c/ada-loves-code-bringing-poetical-science-and-human-warmth-to-open-source-51og)
-- [Introducing vibewalking](https://dev.to/bhirbec/introducing-vibewalking-4mi6)
-- [API Valid, Interface Invalid: A Boundary Failure in Title Generation](https://dev.to/cortia/api-valid-interface-invalid-a-boundary-failure-in-title-generation-3926)
+- [Reading an IMS voice call out of a GTP-only 5G capture](https://dev.to/eventhelix/reading-an-ims-voice-call-out-of-a-gtp-only-5g-capture-iek)
+- [42 commits em uma sessão e eu não revisei nenhum](https://dev.to/asouza/42-commits-em-uma-sessao-e-eu-nao-revisei-nenhum-3984)
+- [Made a free toolkit For Web Scraping](https://dev.to/metcoreb/made-a-free-toolkit-for-web-scraping-562e)
+- [The Monday unlock checklist: fail-closed before your agents fan out](https://dev.to/stackyardweekstart_e0996/the-monday-unlock-checklist-fail-closed-before-your-agents-fan-out-2m3l)
 <!-- BLOG-POST-LIST:END -->
 
