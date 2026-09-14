@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The browser-training speedup was a curve, not one headline number](https://dev.to/sarthakagrawal927/the-browser-training-speedup-was-a-curve-not-one-headline-number-5a8a)
-- [A SaaS Landing Page Checklist for Your First Launch](https://dev.to/urielbitton/a-saas-landing-page-checklist-for-your-first-launch-12b8)
-- [Endpoint management and virtual desktop admins who are considering Azure NetApp Files &lpar;ANF&rpar; as the profile storage location for AVD](https://dev.to/kojiyamada3095/endpoint-management-and-virtual-desktop-admins-who-are-considering-azure-netapp-files-anf-as-the-1j0o)
-- [How I ended up with a 2.9 kB GZip reactive UI engine that runs from a static file](https://dev.to/erlanggasatriasource/how-i-ended-up-with-a-29-kb-gzip-reactive-ui-engine-that-runs-from-a-static-file-1l3e)
+- [Docker Images vs Containers, Explained](https://dev.to/shubham_sharma_94/docker-images-vs-containers-explained-2o0)
+- [Fix: Permission Denied on the Docker Daemon Socket](https://dev.to/shubham_sharma_94/fix-permission-denied-on-the-docker-daemon-socket-2jol)
+- [How I Cleaned Messy HR Dataset Using PostgreSQL: A Step-by-Step Guide](https://dev.to/arapzruto/how-i-cleaned-messy-hr-dataset-using-postgresql-a-step-by-step-guide-5255)
+- [llama.cpp vs Ollama in 2026: Which Runtime Should You Run?](https://dev.to/rosgluk/llamacpp-vs-ollama-in-2026-which-runtime-should-you-run-4k7f)
 <!-- BLOG-POST-LIST:END -->
 
