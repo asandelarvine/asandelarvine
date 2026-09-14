@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Five Requests in Fifteen Seconds From One Status Bar Item](https://dev.to/devshakib/five-requests-in-fifteen-seconds-from-one-status-bar-item-4kgh)
-- [Track SaaS Signups in GA4 Without Counting Every Click](https://dev.to/urielbitton/track-saas-signups-in-ga4-without-counting-every-click-138h)
-- [How to Build an AI Customer Support Chatbot &lpar;and Make It Upsell&rpar;](https://dev.to/samchenreviews/how-to-build-an-ai-customer-support-chatbot-and-make-it-upsell-48ea)
-- [Building an AI Document Intelligence System: Architecture, LangChain, and Production Lessons](https://dev.to/ramesh_s_a8f0867d239e927c/building-an-ai-document-intelligence-system-architecture-langchain-and-production-lessons-563f)
+- [Why the ATS says you’re “missing” keywords your resume clearly has](https://dev.to/rebel_studios/why-the-ats-says-youre-missing-keywords-your-resume-clearly-has-5c10)
+- [Ada Loves Code: Bringing Poetical Science and Human Warmth to Open Source](https://dev.to/mike_cramblett_7050830f0c/ada-loves-code-bringing-poetical-science-and-human-warmth-to-open-source-51og)
+- [Introducing vibewalking](https://dev.to/bhirbec/introducing-vibewalking-4mi6)
+- [API Valid, Interface Invalid: A Boundary Failure in Title Generation](https://dev.to/cortia/api-valid-interface-invalid-a-boundary-failure-in-title-generation-3926)
 <!-- BLOG-POST-LIST:END -->
 
