@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Harden &amp; Lockdown RKE2 Cluster with a 4-Layer DevSecOps Stack](https://dev.to/ezejioforog/harden-lockdown-rke2-cluster-with-a-4-layer-devsecops-stack-iop)
-- [No Server, No Backend, Just Blazor WebAssembly Doing Semantic Search](https://dev.to/j_sakamoto/no-server-no-backend-just-blazor-webassembly-doing-semantic-search-bl4)
-- [ราคา cache hit 0.003 ดอลลาร์ ที่เปลี่ยนวิธีเทียบโมเดลทั้งตลาด](https://dev.to/sarantoon/raakhaa-cache-hit-0003-dllaar-thiiepliiynwithiiethiiybomedlthangtlaad-3ff5)
-- [From Projects to Products in the AI Age: Why Ownership Matters More When Prototypes Are Free](https://dev.to/debashish_ghosal/from-projects-to-products-in-the-ai-age-why-ownership-matters-more-when-prototypes-are-free-3d0k)
+- [The browser-training speedup was a curve, not one headline number](https://dev.to/sarthakagrawal927/the-browser-training-speedup-was-a-curve-not-one-headline-number-5a8a)
+- [A SaaS Landing Page Checklist for Your First Launch](https://dev.to/urielbitton/a-saas-landing-page-checklist-for-your-first-launch-12b8)
+- [Endpoint management and virtual desktop admins who are considering Azure NetApp Files &lpar;ANF&rpar; as the profile storage location for AVD](https://dev.to/kojiyamada3095/endpoint-management-and-virtual-desktop-admins-who-are-considering-azure-netapp-files-anf-as-the-1j0o)
+- [How I ended up with a 2.9 kB GZip reactive UI engine that runs from a static file](https://dev.to/erlanggasatriasource/how-i-ended-up-with-a-29-kb-gzip-reactive-ui-engine-that-runs-from-a-static-file-1l3e)
 <!-- BLOG-POST-LIST:END -->
 
