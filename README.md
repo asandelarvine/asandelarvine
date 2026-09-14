@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Images vs Containers, Explained](https://dev.to/shubham_sharma_94/docker-images-vs-containers-explained-2o0)
-- [Fix: Permission Denied on the Docker Daemon Socket](https://dev.to/shubham_sharma_94/fix-permission-denied-on-the-docker-daemon-socket-2jol)
-- [How I Cleaned Messy HR Dataset Using PostgreSQL: A Step-by-Step Guide](https://dev.to/arapzruto/how-i-cleaned-messy-hr-dataset-using-postgresql-a-step-by-step-guide-5255)
-- [llama.cpp vs Ollama in 2026: Which Runtime Should You Run?](https://dev.to/rosgluk/llamacpp-vs-ollama-in-2026-which-runtime-should-you-run-4k7f)
+- [Five Requests in Fifteen Seconds From One Status Bar Item](https://dev.to/devshakib/five-requests-in-fifteen-seconds-from-one-status-bar-item-4kgh)
+- [Track SaaS Signups in GA4 Without Counting Every Click](https://dev.to/urielbitton/track-saas-signups-in-ga4-without-counting-every-click-138h)
+- [How to Build an AI Customer Support Chatbot &lpar;and Make It Upsell&rpar;](https://dev.to/samchenreviews/how-to-build-an-ai-customer-support-chatbot-and-make-it-upsell-48ea)
+- [Building an AI Document Intelligence System: Architecture, LangChain, and Production Lessons](https://dev.to/ramesh_s_a8f0867d239e927c/building-an-ai-document-intelligence-system-architecture-langchain-and-production-lessons-563f)
 <!-- BLOG-POST-LIST:END -->
 
