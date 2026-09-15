@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reading an IMS voice call out of a GTP-only 5G capture](https://dev.to/eventhelix/reading-an-ims-voice-call-out-of-a-gtp-only-5g-capture-iek)
-- [42 commits em uma sessão e eu não revisei nenhum](https://dev.to/asouza/42-commits-em-uma-sessao-e-eu-nao-revisei-nenhum-3984)
-- [Made a free toolkit For Web Scraping](https://dev.to/metcoreb/made-a-free-toolkit-for-web-scraping-562e)
-- [The Monday unlock checklist: fail-closed before your agents fan out](https://dev.to/stackyardweekstart_e0996/the-monday-unlock-checklist-fail-closed-before-your-agents-fan-out-2m3l)
+- [I got tired of manually checking the same things before every WordPress handoff, so I built a plugin](https://dev.to/nokazehayato/i-got-tired-of-manually-checking-the-same-things-before-every-wordpress-handoff-so-i-built-a-plugin-1g4p)
+- [The Paycheck Math to Run Before You Resign](https://dev.to/li_5408/the-paycheck-math-to-run-before-you-resign-11am)
+- [The Leak That Won&#39;t Die: How We Broke Python&#39;s tempfile](https://dev.to/flude_team/the-leak-that-wont-die-how-we-broke-pythons-tempfile-95o)
+- [What Is Cursor Origin? The Git Host Built for AI Agents &lpar;2026&rpar;](https://dev.to/shaam_ai/what-is-cursor-origin-the-git-host-built-for-ai-agents-2026-439j)
 <!-- BLOG-POST-LIST:END -->
 
