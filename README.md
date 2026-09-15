@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of manually checking the same things before every WordPress handoff, so I built a plugin](https://dev.to/nokazehayato/i-got-tired-of-manually-checking-the-same-things-before-every-wordpress-handoff-so-i-built-a-plugin-1g4p)
-- [The Paycheck Math to Run Before You Resign](https://dev.to/li_5408/the-paycheck-math-to-run-before-you-resign-11am)
-- [The Leak That Won&#39;t Die: How We Broke Python&#39;s tempfile](https://dev.to/flude_team/the-leak-that-wont-die-how-we-broke-pythons-tempfile-95o)
-- [What Is Cursor Origin? The Git Host Built for AI Agents &lpar;2026&rpar;](https://dev.to/shaam_ai/what-is-cursor-origin-the-git-host-built-for-ai-agents-2026-439j)
+- [Firestore Bills You Per Document, Not Per Query — Design Accordingly](https://dev.to/toyama0919/firestore-bills-you-per-document-not-per-query-design-accordingly-1j1j)
+- [Shopify Just Left React Native for Native Code. Here&#39;s What That Actually Means for Mobile Developers](https://dev.to/muhammad_harisbaig_1268d/shopify-just-left-react-native-for-native-code-heres-what-that-actually-means-for-mobile-23bc)
+- [Stop AI Coding Assistants from Drifting Off Your Architecture](https://dev.to/sapan_mozammel/stop-ai-coding-assistants-from-drifting-off-your-architecture-led)
+- [My first thingy on github](https://dev.to/sparklehoofspoofie/my-first-thingy-on-github-12gi)
 <!-- BLOG-POST-LIST:END -->
 
