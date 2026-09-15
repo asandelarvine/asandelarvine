@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Standup Is Now Automated. The Team Is Slowly Forgetting How to Think Together.](https://dev.to/javiercastromdq/the-standup-is-now-automated-the-team-is-slowly-forgetting-how-to-think-together-586j)
-- [Isolating Multi‑Tenant Email Cron Jobs in a Next.js/Node Monorepo](https://dev.to/zaerohell/isolating-multi-tenant-email-cron-jobs-in-a-nextjsnode-monorepo-mle)
-- [What If a Transformer Never Had to Forget? Meet the Recurrent Looped Transformer &lpar;RLT&rpar;](https://dev.to/neha_maurya/what-if-a-transformer-never-had-to-forget-meet-the-recurrent-looped-transformer-rlt-43oh)
-- [From Spreadsheets to a Self-Hosted Mini-ERP: Building an Inventory System with an AI Layer](https://dev.to/giusseppemarinelly/from-spreadsheets-to-a-self-hosted-mini-erp-building-an-inventory-system-with-an-ai-layer-1e8k)
+- [Protect Kubernetes Services with OAuth2 Proxy, Gateway API, Traefik, and Pocket ID](https://dev.to/alikhil/protect-kubernetes-services-with-oauth2-proxy-gateway-api-traefik-and-pocket-id-35mo)
+- [SetrixDB: a set engine in Go — exact set intersection over IDs &lpar;and where it loses&rpar;](https://dev.to/tgosoul/setrixdb-a-set-engine-in-go-exact-set-intersection-over-ids-and-where-it-loses-39dm)
+- [SetrixDB: motor de conjuntos em Go — interseção exata sobre IDs &lpar;e onde ele perde&rpar;](https://dev.to/tgosoul/setrixdb-motor-de-conjuntos-em-go-intersecao-exata-sobre-ids-e-onde-ele-perde-dic)
+- [I&#39;m Learning to Code — But I’m Learning Alone.”](https://dev.to/shabani_hamidu_8cb7f48c9a/im-learning-to-code-but-im-learning-alone-4nd1)
 <!-- BLOG-POST-LIST:END -->
 
