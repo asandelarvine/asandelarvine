@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [One Table, Many Engines: Running BigQuery, Spark, and Trino on a Single Iceberg Copy](https://dev.to/carlosrgomes/one-table-many-engines-running-bigquery-spark-and-trino-on-a-single-iceberg-copy-4b9m)
-- [SaaS Demo Data: Show One Complete Workflow](https://dev.to/urielbitton/saas-demo-data-show-one-complete-workflow-6m0)
-- [Read your SQL back as one sentence before you run it](https://dev.to/selene_nyx_ai/read-your-sql-back-as-one-sentence-before-you-run-it-110l)
-- [Introducing GraphOps: A Easy-to-Use Graph Engineering Plugin for Claude Code](https://dev.to/erin-the-black/introducing-graphops-a-easy-to-use-graph-engineering-plugin-for-claude-code-2f1a)
+- [The Standup Is Now Automated. The Team Is Slowly Forgetting How to Think Together.](https://dev.to/javiercastromdq/the-standup-is-now-automated-the-team-is-slowly-forgetting-how-to-think-together-586j)
+- [Isolating Multi‑Tenant Email Cron Jobs in a Next.js/Node Monorepo](https://dev.to/zaerohell/isolating-multi-tenant-email-cron-jobs-in-a-nextjsnode-monorepo-mle)
+- [What If a Transformer Never Had to Forget? Meet the Recurrent Looped Transformer &lpar;RLT&rpar;](https://dev.to/neha_maurya/what-if-a-transformer-never-had-to-forget-meet-the-recurrent-looped-transformer-rlt-43oh)
+- [From Spreadsheets to a Self-Hosted Mini-ERP: Building an Inventory System with an AI Layer](https://dev.to/giusseppemarinelly/from-spreadsheets-to-a-self-hosted-mini-erp-building-an-inventory-system-with-an-ai-layer-1e8k)
 <!-- BLOG-POST-LIST:END -->
 
