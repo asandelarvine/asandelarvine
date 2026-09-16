@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ELT with Dataform on Google Cloud](https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9)
-- [Scraping Adversarial Municipal Portals: A Permit Pipeline That Knows When It Failed](https://dev.to/andrewmaury/scraping-adversarial-municipal-portals-a-permit-pipeline-that-knows-when-it-failed-pie)
-- [Building a Stock Token Trading Bot on Robinhood Chain with TypeScript](https://dev.to/borntoup/building-a-stock-token-trading-bot-on-robinhood-chain-with-typescript-ejf)
-- [Form avanzati con Filament 5: relazioni, repeater e wizard](https://dev.to/dev_iadicola/form-avanzati-con-filament-5-relazioni-repeater-e-wizard-22pa)
+- [Demystifying SSH Key Management and Security Inside Windows Subsystem for Linux &lpar;WSL&rpar;](https://dev.to/davjesse/demystifying-ssh-key-management-and-security-inside-windows-subsystem-for-linux-wsl-2ldm)
+- [CetinLM: Breaking the Billion-Dollar AI Infrastructure Myth](https://dev.to/hyperroxsi/cetinlm-breaking-the-billion-dollar-ai-infrastructure-myth-2imc)
+- [How to Test a UPS: Charge Is Not Health](https://dev.to/techfuelhq/how-to-test-a-ups-charge-is-not-health-nb4)
+- [How to use libvmaf_cuda on Windows: an easy-to-follow guide &lpar;WSL2 + Docker + NVIDIA&rpar;](https://dev.to/rtagl/-how-to-use-libvmafcuda-on-windows-an-easy-to-follow-guide-wsl2-docker-nvidia-59mc)
 <!-- BLOG-POST-LIST:END -->
 
