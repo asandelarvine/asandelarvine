@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Summaries drift. Facts should not.](https://dev.to/jones_chen_592558a62a5c44/summaries-drift-facts-should-not-2f3e)
-- [Four Iceberg Tools, Three Agent Frameworks: What Ports, and What Doesn&#39;t](https://dev.to/gde/four-iceberg-tools-three-agent-frameworks-what-ports-and-what-doesnt-2i9m)
-- [Building Answer Lineage for Enterprise Data Agents](https://dev.to/arisyn/building-answer-lineage-for-enterprise-data-agents-5cai)
-- [‘Gotten Lazy’: A Week of Users Watching Their AI Do Less](https://dev.to/theaidownside/gotten-lazy-a-week-of-users-watching-their-ai-do-less-3494)
+- [I Measured 27,257 MCP Connections. The p90 Session Waits 35s.](https://dev.to/achiya-automation/i-measured-27257-mcp-connections-the-p90-session-waits-35s-55dp)
+- [How to Tailor a Resume to a Job Description in 20 Minutes](https://dev.to/resuhive/how-to-tailor-a-resume-to-a-job-description-in-20-minutes-1do8)
+- [Swapping implementations from the command line](https://dev.to/mauvilsa/swapping-implementations-from-the-command-line-20oh)
+- [Three Questions to Answer Before You Ship an Agent UI](https://dev.to/blove/three-questions-to-answer-before-you-ship-an-agent-ui-2ief)
 <!-- BLOG-POST-LIST:END -->
 
