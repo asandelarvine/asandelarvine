@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Website Was Seen 116,181 Times and Clicked 9 Times. Here&#39;s What Search Engines and AI Systems Are Actually Doing.](https://dev.to/edo911/your-website-was-seen-116181-times-and-clicked-9-times-heres-what-search-engines-and-ai-systems-435d)
-- [Building a Zero-Dependency Cyberpunk AI Prompt Widget for Website Sidebars &lpar;Full Source Code&rpar;](https://dev.to/dev_alex_matrix/building-a-zero-dependency-cyberpunk-ai-prompt-widget-for-website-sidebars-full-source-code-23aa)
-- [Docker](https://dev.to/nithu_varshini_/docker-268h)
-- [Are you still managing customer data across spreadsheets, emails, and multiple tools can be challenging.](https://dev.to/ayan_softwarers/are-you-still-managing-customer-data-across-spreadsheets-emails-and-multiple-tools-can-be-cn2)
+- [ELT with Dataform on Google Cloud](https://dev.to/gde/elt-with-dataform-on-google-cloud-kc9)
+- [Scraping Adversarial Municipal Portals: A Permit Pipeline That Knows When It Failed](https://dev.to/andrewmaury/scraping-adversarial-municipal-portals-a-permit-pipeline-that-knows-when-it-failed-pie)
+- [Building a Stock Token Trading Bot on Robinhood Chain with TypeScript](https://dev.to/borntoup/building-a-stock-token-trading-bot-on-robinhood-chain-with-typescript-ejf)
+- [Form avanzati con Filament 5: relazioni, repeater e wizard](https://dev.to/dev_iadicola/form-avanzati-con-filament-5-relazioni-repeater-e-wizard-22pa)
 <!-- BLOG-POST-LIST:END -->
 
