@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Protect Kubernetes Services with OAuth2 Proxy, Gateway API, Traefik, and Pocket ID](https://dev.to/alikhil/protect-kubernetes-services-with-oauth2-proxy-gateway-api-traefik-and-pocket-id-35mo)
-- [SetrixDB: a set engine in Go — exact set intersection over IDs &lpar;and where it loses&rpar;](https://dev.to/tgosoul/setrixdb-a-set-engine-in-go-exact-set-intersection-over-ids-and-where-it-loses-39dm)
-- [SetrixDB: motor de conjuntos em Go — interseção exata sobre IDs &lpar;e onde ele perde&rpar;](https://dev.to/tgosoul/setrixdb-motor-de-conjuntos-em-go-intersecao-exata-sobre-ids-e-onde-ele-perde-dic)
-- [I&#39;m Learning to Code — But I’m Learning Alone.”](https://dev.to/shabani_hamidu_8cb7f48c9a/im-learning-to-code-but-im-learning-alone-4nd1)
+- [Summaries drift. Facts should not.](https://dev.to/jones_chen_592558a62a5c44/summaries-drift-facts-should-not-2f3e)
+- [Four Iceberg Tools, Three Agent Frameworks: What Ports, and What Doesn&#39;t](https://dev.to/gde/four-iceberg-tools-three-agent-frameworks-what-ports-and-what-doesnt-2i9m)
+- [Building Answer Lineage for Enterprise Data Agents](https://dev.to/arisyn/building-answer-lineage-for-enterprise-data-agents-5cai)
+- [‘Gotten Lazy’: A Week of Users Watching Their AI Do Less](https://dev.to/theaidownside/gotten-lazy-a-week-of-users-watching-their-ai-do-less-3494)
 <!-- BLOG-POST-LIST:END -->
 
