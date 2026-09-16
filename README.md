@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Measured 27,257 MCP Connections. The p90 Session Waits 35s.](https://dev.to/achiya-automation/i-measured-27257-mcp-connections-the-p90-session-waits-35s-55dp)
-- [How to Tailor a Resume to a Job Description in 20 Minutes](https://dev.to/resuhive/how-to-tailor-a-resume-to-a-job-description-in-20-minutes-1do8)
-- [Swapping implementations from the command line](https://dev.to/mauvilsa/swapping-implementations-from-the-command-line-20oh)
-- [Three Questions to Answer Before You Ship an Agent UI](https://dev.to/blove/three-questions-to-answer-before-you-ship-an-agent-ui-2ief)
+- [Your Website Was Seen 116,181 Times and Clicked 9 Times. Here&#39;s What Search Engines and AI Systems Are Actually Doing.](https://dev.to/edo911/your-website-was-seen-116181-times-and-clicked-9-times-heres-what-search-engines-and-ai-systems-435d)
+- [Building a Zero-Dependency Cyberpunk AI Prompt Widget for Website Sidebars &lpar;Full Source Code&rpar;](https://dev.to/dev_alex_matrix/building-a-zero-dependency-cyberpunk-ai-prompt-widget-for-website-sidebars-full-source-code-23aa)
+- [Docker](https://dev.to/nithu_varshini_/docker-268h)
+- [Are you still managing customer data across spreadsheets, emails, and multiple tools can be challenging.](https://dev.to/ayan_softwarers/are-you-still-managing-customer-data-across-spreadsheets-emails-and-multiple-tools-can-be-cn2)
 <!-- BLOG-POST-LIST:END -->
 
