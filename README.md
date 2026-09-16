@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying SSH Key Management and Security Inside Windows Subsystem for Linux &lpar;WSL&rpar;](https://dev.to/davjesse/demystifying-ssh-key-management-and-security-inside-windows-subsystem-for-linux-wsl-2ldm)
-- [CetinLM: Breaking the Billion-Dollar AI Infrastructure Myth](https://dev.to/hyperroxsi/cetinlm-breaking-the-billion-dollar-ai-infrastructure-myth-2imc)
-- [How to Test a UPS: Charge Is Not Health](https://dev.to/techfuelhq/how-to-test-a-ups-charge-is-not-health-nb4)
-- [How to use libvmaf_cuda on Windows: an easy-to-follow guide &lpar;WSL2 + Docker + NVIDIA&rpar;](https://dev.to/rtagl/-how-to-use-libvmafcuda-on-windows-an-easy-to-follow-guide-wsl2-docker-nvidia-59mc)
+- [Generative AI automates quantum optimization circuit design](https://dev.to/vpodk/generative-ai-automates-quantum-optimization-circuit-design-2h69)
+- [I Gave a Simulated Connectome External Memory. Then I Killed the Brain.](https://dev.to/constant_itis/i-gave-a-simulated-connectome-external-memory-then-i-killed-the-brain-175)
+- [Looking back at what confused me a few weeks ago reminds me that I am learning. I’m trying to focus less on “am I good enough yet?” and more on “did I learn something today?” That feels a lot healthier 😌🙂](https://dev.to/mikachu/looking-back-at-what-confused-me-a-few-weeks-ago-reminds-me-that-i-am-learning-im-trying-to-focus-4ln8)
+- [I Said Install ffmpeg. I Did Not Say Rewrite My Machine.](https://dev.to/constant_itis/i-said-install-ffmpeg-i-did-not-say-rewrite-my-machine-57an)
 <!-- BLOG-POST-LIST:END -->
 
