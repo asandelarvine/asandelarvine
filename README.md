@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Overviews Are Not the Only Reason Organic Clicks Fall: A Smarter SEO Budget](https://dev.to/alifar/ai-overviews-are-not-the-only-reason-organic-clicks-fall-a-smarter-seo-budget-15i)
-- [Green Coverage, Broken Inverse: A Round-Trip Gate for Agent Patches](https://dev.to/datacpp_8185/green-coverage-broken-inverse-a-round-trip-gate-for-agent-patches-40hd)
-- [Google Warns DMA Search Changes Could Reshape Visibility for European Businesses](https://dev.to/alifar/google-warns-dma-search-changes-could-reshape-visibility-for-european-businesses-3k8i)
-- [Hybrid Delivery Isn&#39;t a Compromise. It&#39;s the Strategy You Were Pretending Wasn&#39;t Happening.](https://dev.to/javiercastromdq/hybrid-delivery-isnt-a-compromise-its-the-strategy-you-were-pretending-wasnt-happening-16oa)
+- [Deploying Cloud-Native Apps with Azure Container Apps](https://dev.to/rdgmh/deploying-cloud-native-apps-with-azure-container-apps-1bm9)
+- [GitHub Release to Zenodo DOI](https://dev.to/dmytronasyrov/github-release-to-zenodo-doi-265f)
+- [Configuring and Migrating to Azure Database for PostgreSQL](https://dev.to/rdgmh/configuring-and-migrating-to-azure-database-for-postgresql-446j)
+- [Building AI-Powered Applications with Azure Database for PostgreSQL](https://dev.to/rdgmh/building-ai-powered-applications-with-azure-database-for-postgresql-40pi)
 <!-- BLOG-POST-LIST:END -->
 
