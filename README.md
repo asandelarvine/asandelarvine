@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Cloud-Native Apps with Azure Container Apps](https://dev.to/rdgmh/deploying-cloud-native-apps-with-azure-container-apps-1bm9)
-- [GitHub Release to Zenodo DOI](https://dev.to/dmytronasyrov/github-release-to-zenodo-doi-265f)
-- [Configuring and Migrating to Azure Database for PostgreSQL](https://dev.to/rdgmh/configuring-and-migrating-to-azure-database-for-postgresql-446j)
-- [Building AI-Powered Applications with Azure Database for PostgreSQL](https://dev.to/rdgmh/building-ai-powered-applications-with-azure-database-for-postgresql-40pi)
+- [Soul in Motion — 6:16 PM | 2026-09-17](https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-616-pm-2026-09-17-2m1i)
+- [Google Dorking in 2026: A Practical Guide to Advanced Google Search](https://dev.to/kuldeep_gade/google-dorking-in-2026-a-practical-guide-to-advanced-google-search-142o)
+- [Automating Android Play Store Releases, Part 2: Wrong Track &amp; Broken YAML](https://dev.to/cynthizo/automating-android-play-store-releases-part-2-wrong-track-broken-yaml-3559)
+- [Cleaning and Structuring Excel Data for Reliable SQL INSERTs](https://dev.to/datasort/cleaning-and-structuring-excel-data-for-reliable-sql-inserts-1jo2)
 <!-- BLOG-POST-LIST:END -->
 
