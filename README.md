@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RDS vs DynamoDB: How I Think About Choosing an AWS Database](https://dev.to/sahinur/rds-vs-dynamodb-how-i-think-about-choosing-an-aws-database-7eh)
-- [Backend Development in 2026 - Technologies, Costs, UK Hiring](https://dev.to/mecanik-dev/backend-development-in-2026-technologies-costs-uk-hiring-2jpi)
-- [🚀 bro.js v2.4.5 – Next.js Adapter &amp; AI‑First DX](https://dev.to/yass1n/brojs-v245-nextjs-adapter-ai-first-dx-5fl2)
-- [WINDOW FUNCTIONS](https://dev.to/super_b8c82b4153dee9fab1c/window-functions-im4)
+- [Google Search Console’s June 2026 Indexing Data Gap: What Website Owners Should Do](https://dev.to/alifar/google-search-consoles-june-2026-indexing-data-gap-what-website-owners-should-do-2nmp)
+- [5 Best LLM Routing Tools in 2026: Architectures, Latency, and Trade-Offs](https://dev.to/moussa62/5-best-llm-routing-tools-in-2026-architectures-latency-and-trade-offs-2hgl)
+- [Attaching a Runner: The DevOps Term Nobody Explains Until It Costs You](https://dev.to/bathonspidey/attaching-a-runner-the-devops-term-nobody-explains-until-it-costs-you-1h5c)
+- [Top LLM Routing Tools in 2026: Architectures, Benchmarks, and Production Trade-Offs](https://dev.to/artem42/top-llm-routing-tools-in-2026-architectures-benchmarks-and-production-trade-offs-ife)
 <!-- BLOG-POST-LIST:END -->
 
