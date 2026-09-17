@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Soul in Motion — 6:16 PM | 2026-09-17](https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-616-pm-2026-09-17-2m1i)
-- [Google Dorking in 2026: A Practical Guide to Advanced Google Search](https://dev.to/kuldeep_gade/google-dorking-in-2026-a-practical-guide-to-advanced-google-search-142o)
-- [Automating Android Play Store Releases, Part 2: Wrong Track &amp; Broken YAML](https://dev.to/cynthizo/automating-android-play-store-releases-part-2-wrong-track-broken-yaml-3559)
-- [Cleaning and Structuring Excel Data for Reliable SQL INSERTs](https://dev.to/datasort/cleaning-and-structuring-excel-data-for-reliable-sql-inserts-1jo2)
+- [RDS vs DynamoDB: How I Think About Choosing an AWS Database](https://dev.to/sahinur/rds-vs-dynamodb-how-i-think-about-choosing-an-aws-database-7eh)
+- [Backend Development in 2026 - Technologies, Costs, UK Hiring](https://dev.to/mecanik-dev/backend-development-in-2026-technologies-costs-uk-hiring-2jpi)
+- [🚀 bro.js v2.4.5 – Next.js Adapter &amp; AI‑First DX](https://dev.to/yass1n/brojs-v245-nextjs-adapter-ai-first-dx-5fl2)
+- [WINDOW FUNCTIONS](https://dev.to/super_b8c82b4153dee9fab1c/window-functions-im4)
 <!-- BLOG-POST-LIST:END -->
 
