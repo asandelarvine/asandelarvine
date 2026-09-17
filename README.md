@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative AI automates quantum optimization circuit design](https://dev.to/vpodk/generative-ai-automates-quantum-optimization-circuit-design-2h69)
-- [I Gave a Simulated Connectome External Memory. Then I Killed the Brain.](https://dev.to/constant_itis/i-gave-a-simulated-connectome-external-memory-then-i-killed-the-brain-175)
-- [Looking back at what confused me a few weeks ago reminds me that I am learning. I’m trying to focus less on “am I good enough yet?” and more on “did I learn something today?” That feels a lot healthier 😌🙂](https://dev.to/mikachu/looking-back-at-what-confused-me-a-few-weeks-ago-reminds-me-that-i-am-learning-im-trying-to-focus-4ln8)
-- [I Said Install ffmpeg. I Did Not Say Rewrite My Machine.](https://dev.to/constant_itis/i-said-install-ffmpeg-i-did-not-say-rewrite-my-machine-57an)
+- [AI Overviews Are Not the Only Reason Organic Clicks Fall: A Smarter SEO Budget](https://dev.to/alifar/ai-overviews-are-not-the-only-reason-organic-clicks-fall-a-smarter-seo-budget-15i)
+- [Green Coverage, Broken Inverse: A Round-Trip Gate for Agent Patches](https://dev.to/datacpp_8185/green-coverage-broken-inverse-a-round-trip-gate-for-agent-patches-40hd)
+- [Google Warns DMA Search Changes Could Reshape Visibility for European Businesses](https://dev.to/alifar/google-warns-dma-search-changes-could-reshape-visibility-for-european-businesses-3k8i)
+- [Hybrid Delivery Isn&#39;t a Compromise. It&#39;s the Strategy You Were Pretending Wasn&#39;t Happening.](https://dev.to/javiercastromdq/hybrid-delivery-isnt-a-compromise-its-the-strategy-you-were-pretending-wasnt-happening-16oa)
 <!-- BLOG-POST-LIST:END -->
 
