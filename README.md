@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Releases Open-Source Bloom and Petri for AI Behavior Auditing](https://dev.to/alifar/anthropic-releases-open-source-bloom-and-petri-for-ai-behavior-auditing-28ap)
-- [15 launchd Jobs and One Quota Circuit Breaker: Deciding What to Re-run Once the Circuit Closes](https://dev.to/bokuwalily/15-launchd-jobs-and-one-quota-circuit-breaker-deciding-what-to-re-run-once-the-circuit-closes-3f95)
-- [DeskKit available now!](https://dev.to/mrparcelain/deskkit-available-now-2kkk)
-- [LLM - Day 5 - RAG a Intro](https://dev.to/technonotes/llm-day-5-rag-a-intro-31p3)
+- [MCP in Microsoft Foundry: The Toolbox Pattern for Trustworthy Tool Calling](https://dev.to/monuminu/mcp-in-microsoft-foundry-the-toolbox-pattern-for-trustworthy-tool-calling-2mn9)
+- [Laravel vs Symfony in 2026: An Architectural Breakdown for Backend Engineers](https://dev.to/sajusun/laravel-vs-symfony-in-2026-an-architectural-breakdown-for-backend-engineers-4m54)
+- [Same Sticker Price, 45% Cheaper: The AI Bill Trick Nobody Explains to Small Businesses](https://dev.to/tm_gunderson_9cff63a7ba/same-sticker-price-45-cheaper-the-ai-bill-trick-nobody-explains-to-small-businesses-1b4m)
+- [About Me](https://dev.to/kervsthehacker/about-me-5814)
 <!-- BLOG-POST-LIST:END -->
 
