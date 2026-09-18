@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Has Too Many Permissions: A Practical Guide to Not Getting Burned](https://dev.to/mikachu/your-ai-agent-has-too-many-permissions-a-practical-guide-to-not-getting-burned-2nin)
-- [What if your Python database code didn&#39;t care which database you used?](https://dev.to/joshtom/what-if-your-python-database-code-didnt-care-which-database-you-used-4001)
-- [The People Who Understand Our Oldest Systems Retire Before It Does](https://dev.to/serguey_shinder_4ab9b87b1/the-people-who-understand-our-oldest-systems-retire-before-it-does-2gak)
-- [The Navier–Stokes Problem Has Survived for a Century. Did AI Find Something New?](https://dev.to/tushar_vashishth_45ef7ac3/the-navier-stokes-problem-has-survived-for-a-century-did-ai-find-something-new-4nca)
+- [Razor Syntax Fundamentals: Rendering the Task Tracker](https://dev.to/manoharij/razor-syntax-fundamentals-rendering-the-task-tracker-34o7)
+- [From Obsidian Vault to AI-Powered Knowledge Graph in Minutes](https://dev.to/chaoscypherinc/from-obsidian-vault-to-ai-powered-knowledge-graph-in-minutes-2dm1)
+- [Your coding agent remembers more than MEMORY.md — so I built a local inspector for it](https://dev.to/hailneed/your-coding-agent-remembers-more-than-memorymd-so-i-built-a-local-inspector-for-it-1c39)
+- [Event driven systems: Webhook vs EventBridge-style API vs Event Sourcing vs CQRS](https://dev.to/rai_shiv/event-driven-systems-webhook-vs-eventbridge-style-api-vs-event-sourcing-vs-cqrs-3gib)
 <!-- BLOG-POST-LIST:END -->
 
