@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Razor Syntax Fundamentals: Rendering the Task Tracker](https://dev.to/manoharij/razor-syntax-fundamentals-rendering-the-task-tracker-34o7)
-- [From Obsidian Vault to AI-Powered Knowledge Graph in Minutes](https://dev.to/chaoscypherinc/from-obsidian-vault-to-ai-powered-knowledge-graph-in-minutes-2dm1)
-- [Your coding agent remembers more than MEMORY.md — so I built a local inspector for it](https://dev.to/hailneed/your-coding-agent-remembers-more-than-memorymd-so-i-built-a-local-inspector-for-it-1c39)
-- [Event driven systems: Webhook vs EventBridge-style API vs Event Sourcing vs CQRS](https://dev.to/rai_shiv/event-driven-systems-webhook-vs-eventbridge-style-api-vs-event-sourcing-vs-cqrs-3gib)
+- [From Java 8 to Java 25: the language you think you know no longer exists](https://dev.to/gaston_herrlein_3baa4d62e/from-java-8-to-java-25-the-language-you-think-you-know-no-longer-exists-4ocg)
+- [CSS Position Property - Beginner level](https://dev.to/mvarshith/css-position-property-beginner-level-1dbn)
+- [💻 A Full-Fledged Trading Engine for the Node.js Ecosystem](https://dev.to/tripolskypetr/a-full-fledged-trading-engine-for-the-nodejs-ecosystem-36pj)
+- [uv Python cheatsheet: what changed in 0.12 and what still trips you up](https://dev.to/extractdata/uv-python-cheatsheet-what-changed-in-012-and-what-still-trips-you-up-5b38)
 <!-- BLOG-POST-LIST:END -->
 
