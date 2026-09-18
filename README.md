@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP in Microsoft Foundry: The Toolbox Pattern for Trustworthy Tool Calling](https://dev.to/monuminu/mcp-in-microsoft-foundry-the-toolbox-pattern-for-trustworthy-tool-calling-2mn9)
-- [Laravel vs Symfony in 2026: An Architectural Breakdown for Backend Engineers](https://dev.to/sajusun/laravel-vs-symfony-in-2026-an-architectural-breakdown-for-backend-engineers-4m54)
-- [Same Sticker Price, 45% Cheaper: The AI Bill Trick Nobody Explains to Small Businesses](https://dev.to/tm_gunderson_9cff63a7ba/same-sticker-price-45-cheaper-the-ai-bill-trick-nobody-explains-to-small-businesses-1b4m)
-- [About Me](https://dev.to/kervsthehacker/about-me-5814)
+- [Your AI Agent Has Too Many Permissions: A Practical Guide to Not Getting Burned](https://dev.to/mikachu/your-ai-agent-has-too-many-permissions-a-practical-guide-to-not-getting-burned-2nin)
+- [What if your Python database code didn&#39;t care which database you used?](https://dev.to/joshtom/what-if-your-python-database-code-didnt-care-which-database-you-used-4001)
+- [The People Who Understand Our Oldest Systems Retire Before It Does](https://dev.to/serguey_shinder_4ab9b87b1/the-people-who-understand-our-oldest-systems-retire-before-it-does-2gak)
+- [The Navier–Stokes Problem Has Survived for a Century. Did AI Find Something New?](https://dev.to/tushar_vashishth_45ef7ac3/the-navier-stokes-problem-has-survived-for-a-century-did-ai-find-something-new-4nca)
 <!-- BLOG-POST-LIST:END -->
 
