@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From Java 8 to Java 25: the language you think you know no longer exists](https://dev.to/gaston_herrlein_3baa4d62e/from-java-8-to-java-25-the-language-you-think-you-know-no-longer-exists-4ocg)
-- [CSS Position Property - Beginner level](https://dev.to/mvarshith/css-position-property-beginner-level-1dbn)
-- [💻 A Full-Fledged Trading Engine for the Node.js Ecosystem](https://dev.to/tripolskypetr/a-full-fledged-trading-engine-for-the-nodejs-ecosystem-36pj)
-- [uv Python cheatsheet: what changed in 0.12 and what still trips you up](https://dev.to/extractdata/uv-python-cheatsheet-what-changed-in-012-and-what-still-trips-you-up-5b38)
+- [Expose Crypto KAT Runners as MCP Tools Instead of Pasting Hex](https://dev.to/infracore/expose-crypto-kat-runners-as-mcp-tools-instead-of-pasting-hex-122l)
+- [The shell one-liners everyone pastes but nobody explains](https://dev.to/aurelionakamura/the-shell-one-liners-everyone-pastes-but-nobody-explains-2f53)
+- [A test that has never failed is a claim, not evidence](https://dev.to/arnauferma/a-test-that-has-never-failed-is-a-claim-not-evidence-56ao)
+- [Shipping a multilingual Flutter AI therapist: Gemini first, Claude as fallback](https://dev.to/safespaceapp/shipping-a-multilingual-flutter-ai-therapist-gemini-first-claude-as-fallback-34fd)
 <!-- BLOG-POST-LIST:END -->
 
