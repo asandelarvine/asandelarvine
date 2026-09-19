@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Choking-Under-Pressure Detector for Athletes — No AI, No Sports Psych API](https://dev.to/473185670/i-built-a-choking-under-pressure-detector-for-athletes-no-ai-no-sports-psych-api-4cke)
-- [Learning AWS as a Java developer: where I&#39;m starting and why](https://dev.to/raschad/learning-aws-as-a-java-developer-where-im-starting-and-why-56kf)
-- [The New CSS Property I Wish Existed Years Ago](https://dev.to/web_dev-usman/the-new-css-property-i-wish-existed-years-ago-1n20)
-- [I Built a Free Scientific Calculator With a Real Natural Math Display &lpar;No Signup&rpar;](https://dev.to/sadhana_builds/i-built-a-free-scientific-calculator-with-a-real-natural-math-display-no-signup-1gnp)
+- [Flutter OTA Updates with Shorebird](https://dev.to/rshnkunwar/flutter-ota-updates-with-shorebird-2fo3)
+- [I built a unique ID generator that&#39;s ~60% faster than nanoid](https://dev.to/spmaxwell7/i-built-a-unique-id-generator-thats-60-faster-than-nanoid-1aan)
+- [My Journey in Python: Week 1 with Akwannya Hub Skill Pod &lpar;Cohort 1&rpar;](https://dev.to/el1107/my-journey-in-python-week-1-with-akwannya-hub-skill-pod-cohort-1-19l6)
+- [Your Cypress Retry Passed - But the Test Is Still Telling You Something](https://dev.to/raju_dandigam/your-cypress-retry-passed-but-the-test-is-still-telling-you-something-37hf)
 <!-- BLOG-POST-LIST:END -->
 
