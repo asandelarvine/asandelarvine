@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Expose Crypto KAT Runners as MCP Tools Instead of Pasting Hex](https://dev.to/infracore/expose-crypto-kat-runners-as-mcp-tools-instead-of-pasting-hex-122l)
-- [The shell one-liners everyone pastes but nobody explains](https://dev.to/aurelionakamura/the-shell-one-liners-everyone-pastes-but-nobody-explains-2f53)
-- [A test that has never failed is a claim, not evidence](https://dev.to/arnauferma/a-test-that-has-never-failed-is-a-claim-not-evidence-56ao)
-- [Shipping a multilingual Flutter AI therapist: Gemini first, Claude as fallback](https://dev.to/safespaceapp/shipping-a-multilingual-flutter-ai-therapist-gemini-first-claude-as-fallback-34fd)
+- [Senior Engineering is Not Making Code Work. It&#39;s Deciding How It Fails.](https://dev.to/tarikmostafa_abohagar_c01/senior-engineering-is-not-making-code-work-its-deciding-how-it-fails-112d)
+- [The quiet DoS bug in Cisco&#39;s email gateway hardening release](https://dev.to/jeffreyciend/the-quiet-dos-bug-in-ciscos-email-gateway-hardening-release-33pg)
+- [Vendor Concentration Risk Explained Through Warm Second Provider Invoice Reconciliation Drills](https://dev.to/ferdinandblake3517/vendor-concentration-risk-explained-through-warm-second-provider-invoice-reconciliation-drills-234l)
+- [Job-Hunting With a Resume That Doesn&#39;t Look Like a Resume](https://dev.to/mikachu/job-hunting-with-a-resume-that-doesnt-look-like-a-resume-4emi)
 <!-- BLOG-POST-LIST:END -->
 
