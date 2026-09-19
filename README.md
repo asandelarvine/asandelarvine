@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter OTA Updates with Shorebird](https://dev.to/rshnkunwar/flutter-ota-updates-with-shorebird-2fo3)
-- [I built a unique ID generator that&#39;s ~60% faster than nanoid](https://dev.to/spmaxwell7/i-built-a-unique-id-generator-thats-60-faster-than-nanoid-1aan)
-- [My Journey in Python: Week 1 with Akwannya Hub Skill Pod &lpar;Cohort 1&rpar;](https://dev.to/el1107/my-journey-in-python-week-1-with-akwannya-hub-skill-pod-cohort-1-19l6)
-- [Your Cypress Retry Passed - But the Test Is Still Telling You Something](https://dev.to/raju_dandigam/your-cypress-retry-passed-but-the-test-is-still-telling-you-something-37hf)
+- [I open-sourced 3 small Node utilities I pulled out of building an edtech platform](https://dev.to/ram_chandragiri/i-open-sourced-3-small-node-utilities-i-pulled-out-of-building-an-edtech-platform-28jd)
+- [500 programmatic pages, 15 days live — here are all the numbers, including the 6 clicks](https://dev.to/quantumcxaishipit/500-programmatic-pages-15-days-live-here-are-all-the-numbers-including-the-6-clicks-47m1)
+- [Scry: Congestion Pricing as Agent Rate-Limiting Infrastructure](https://dev.to/mech_app_ai/scry-congestion-pricing-as-agent-rate-limiting-infrastructure-1gfo)
+- [The Database I Deleted: Migrating an Agentic RAG App to AWS Serverless #3](https://dev.to/dmitriy_trunov_9a09a497b1/the-database-i-deleted-migrating-an-agentic-rag-app-to-aws-serverless-3-k0d)
 <!-- BLOG-POST-LIST:END -->
 
