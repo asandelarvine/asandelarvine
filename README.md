@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I open-sourced 3 small Node utilities I pulled out of building an edtech platform](https://dev.to/ram_chandragiri/i-open-sourced-3-small-node-utilities-i-pulled-out-of-building-an-edtech-platform-28jd)
-- [500 programmatic pages, 15 days live — here are all the numbers, including the 6 clicks](https://dev.to/quantumcxaishipit/500-programmatic-pages-15-days-live-here-are-all-the-numbers-including-the-6-clicks-47m1)
-- [Scry: Congestion Pricing as Agent Rate-Limiting Infrastructure](https://dev.to/mech_app_ai/scry-congestion-pricing-as-agent-rate-limiting-infrastructure-1gfo)
-- [The Database I Deleted: Migrating an Agentic RAG App to AWS Serverless #3](https://dev.to/dmitriy_trunov_9a09a497b1/the-database-i-deleted-migrating-an-agentic-rag-app-to-aws-serverless-3-k0d)
+- [I&#39;m an architect. I built an AI agent that draws - and outputs IFC models](https://dev.to/axidesk/im-an-architect-i-built-an-ai-agent-that-draws-and-outputs-ifc-models-1j08)
+- [From KEV to Exposure: Mapping the September 2026 Batch to Measurable Services](https://dev.to/kozhevniko/from-kev-to-exposure-mapping-the-september-2026-batch-to-measurable-services-4nco)
+- [We Reinvented OOP by Making a Sandwich &lpar;Before Writing Any Code&rpar;](https://dev.to/blessloaded/we-reinvented-oop-by-making-a-sandwich-before-writing-any-code-19hb)
+- [How to Detect and Fix Node.js Memory Leaks in Production &lpar;Step-by-Step Guide&rpar;](https://dev.to/mohamedbouhachimi/how-to-detect-and-fix-nodejs-memory-leaks-in-production-step-by-step-guide-48fm)
 <!-- BLOG-POST-LIST:END -->
 
