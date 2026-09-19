@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How TOTP Authenticator Apps Work?](https://dev.to/biswasprasana001/how-totp-authenticator-apps-work-19bg)
-- [Gemini 4 หลุด แต่ paper ที่ Google เพิ่งตีพิมพ์ตรวจสอบได้ทุกตัวเลข](https://dev.to/sarantoon/gemini-4-hlud-aet-paper-thii-google-ephingtiiphimphtrwcchsbaidthuktawelkh-21m0)
-- [Nostra Finance $3.5M Exploit: How an 8,000x Oracle Pump Drained a Starknet Money Market](https://dev.to/qanzhi111/nostra-finance-35m-exploit-how-an-8000x-oracle-pump-drained-a-starknet-money-market-2h2l)
-- [I&#39;m building a scripting language for whiteboard animations](https://dev.to/laakri/im-building-a-scripting-language-for-whiteboard-animations-21gb)
+- [I Built a Choking-Under-Pressure Detector for Athletes — No AI, No Sports Psych API](https://dev.to/473185670/i-built-a-choking-under-pressure-detector-for-athletes-no-ai-no-sports-psych-api-4cke)
+- [Learning AWS as a Java developer: where I&#39;m starting and why](https://dev.to/raschad/learning-aws-as-a-java-developer-where-im-starting-and-why-56kf)
+- [The New CSS Property I Wish Existed Years Ago](https://dev.to/web_dev-usman/the-new-css-property-i-wish-existed-years-ago-1n20)
+- [I Built a Free Scientific Calculator With a Real Natural Math Display &lpar;No Signup&rpar;](https://dev.to/sadhana_builds/i-built-a-free-scientific-calculator-with-a-real-natural-math-display-no-signup-1gnp)
 <!-- BLOG-POST-LIST:END -->
 
