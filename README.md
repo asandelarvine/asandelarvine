@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Senior Engineering is Not Making Code Work. It&#39;s Deciding How It Fails.](https://dev.to/tarikmostafa_abohagar_c01/senior-engineering-is-not-making-code-work-its-deciding-how-it-fails-112d)
-- [The quiet DoS bug in Cisco&#39;s email gateway hardening release](https://dev.to/jeffreyciend/the-quiet-dos-bug-in-ciscos-email-gateway-hardening-release-33pg)
-- [Vendor Concentration Risk Explained Through Warm Second Provider Invoice Reconciliation Drills](https://dev.to/ferdinandblake3517/vendor-concentration-risk-explained-through-warm-second-provider-invoice-reconciliation-drills-234l)
-- [Job-Hunting With a Resume That Doesn&#39;t Look Like a Resume](https://dev.to/mikachu/job-hunting-with-a-resume-that-doesnt-look-like-a-resume-4emi)
+- [Transitive dependencies explained: why a package you never installed can still break your build](https://dev.to/rushabh5000/transitive-dependencies-explained-why-a-package-you-never-installed-can-still-break-your-build-6hn)
+- [How Symmetric Encryption &lpar;Fernet&rpar; Keeps Local Credentials Safe on Disk](https://dev.to/susumun/how-symmetric-encryption-fernet-keeps-local-credentials-safe-on-disk-38bk)
+- [What Math Actually Buys You: Optimizing a Rock-Paper-Scissors Game in C](https://dev.to/david_essien/what-math-actually-buys-you-optimizing-a-rock-paper-scissors-game-in-c-hnp)
+- [How to Verify Self-Hosted LLM Tool Specs Before Building](https://dev.to/forgedgoods/how-to-verify-self-hosted-llm-tool-specs-before-building-242d)
 <!-- BLOG-POST-LIST:END -->
 
