@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Built CLI to make $20 AI coding normal again](https://dev.to/malgatyuvraj_10/built-cli-to-make-20-ai-coding-normal-again-58jl)
-- [A Short Code Tour Helps AI Find the Right Files](https://dev.to/xiaobei/a-short-code-tour-helps-ai-find-the-right-files-5d8c)
-- [netcup VPS 1000 G12 benchmarked: how fast is it really?](https://dev.to/serverkueche/netcup-vps-1000-g12-benchmarked-how-fast-is-it-really-5689)
-- [HitKeep: self-host privacy-friendly web analytics](https://dev.to/serverkueche/hitkeep-self-host-privacy-friendly-web-analytics-5f11)
+- [Why React &amp; Next.js Users Get `ChunkLoadError` After Deployment — And How to Fix It](https://dev.to/abanoubkerols/why-react-nextjs-users-get-chunkloaderror-after-deployment-and-how-to-fix-it-5f87)
+- [Week 14 of #100DaysOfCode: Completing JUnit 5 and Starting a New Portfolio](https://dev.to/onatade_abdulmajeed/week-14-of-100daysofcode-completing-junit-5-and-starting-a-new-portfolio-4eeb)
+- [O mesmo pedido chegou quatro vezes. O SQS não estava errado](https://dev.to/rodolfocoding/o-mesmo-pedido-chegou-quatro-vezes-o-sqs-nao-estava-errado-211m)
+- [Finally Teaching Python to Think 🐍](https://dev.to/nelly_gitonga/-im-finally-teaching-python-to-think-7dk)
 <!-- BLOG-POST-LIST:END -->
 
