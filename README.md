@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Window Functions vs Aggregate Functions in SQL: A Beginner-Friendly Guide](https://dev.to/joseph_mwangi_3ae1f57a132/window-functions-vs-aggregate-functions-in-sql-a-beginner-friendly-guide-i72)
-- [Traditional Coding vs Agentic Coding: The Flow State Problem](https://dev.to/bradtraversy/traditional-coding-vs-agentic-coding-the-flow-state-problem-57p5)
-- [Kubernetes - Day - 02 - PID/Signals/Mount](https://dev.to/technonotes/kubernetes-day-02-pidsignalsmount-3345)
-- [I taught my shell to stop me *before* I run `rm -rf /`](https://dev.to/aurelionakamura/i-taught-my-shell-to-stop-me-before-i-run-rm-rf--2j9k)
+- [Built CLI to make $20 AI coding normal again](https://dev.to/malgatyuvraj_10/built-cli-to-make-20-ai-coding-normal-again-58jl)
+- [A Short Code Tour Helps AI Find the Right Files](https://dev.to/xiaobei/a-short-code-tour-helps-ai-find-the-right-files-5d8c)
+- [netcup VPS 1000 G12 benchmarked: how fast is it really?](https://dev.to/serverkueche/netcup-vps-1000-g12-benchmarked-how-fast-is-it-really-5689)
+- [HitKeep: self-host privacy-friendly web analytics](https://dev.to/serverkueche/hitkeep-self-host-privacy-friendly-web-analytics-5f11)
 <!-- BLOG-POST-LIST:END -->
 
