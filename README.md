@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m an architect. I built an AI agent that draws - and outputs IFC models](https://dev.to/axidesk/im-an-architect-i-built-an-ai-agent-that-draws-and-outputs-ifc-models-1j08)
-- [From KEV to Exposure: Mapping the September 2026 Batch to Measurable Services](https://dev.to/kozhevniko/from-kev-to-exposure-mapping-the-september-2026-batch-to-measurable-services-4nco)
-- [We Reinvented OOP by Making a Sandwich &lpar;Before Writing Any Code&rpar;](https://dev.to/blessloaded/we-reinvented-oop-by-making-a-sandwich-before-writing-any-code-19hb)
-- [How to Detect and Fix Node.js Memory Leaks in Production &lpar;Step-by-Step Guide&rpar;](https://dev.to/mohamedbouhachimi/how-to-detect-and-fix-nodejs-memory-leaks-in-production-step-by-step-guide-48fm)
+- [Why AI Writes Need Risk Tiers: The R0-R5 Tool Risk Model](https://dev.to/rain6fish/why-ai-writes-need-risk-tiers-the-r0-r5-tool-risk-model-105k)
+- [The Gemini breakout verdict has to come from the boundary, not the model&#39;s mouth](https://dev.to/cole_halton_42f71d71b809b/the-gemini-breakout-verdict-has-to-come-from-the-boundary-not-the-models-mouth-k62)
+- [A code review benchmark that isn&#39;t the vendor ranking itself](https://dev.to/tessainsley/a-code-review-benchmark-that-isnt-the-vendor-ranking-itself-4jp6)
+- [The Gemini breakout is a judge problem, not a jailbreak problem](https://dev.to/cole_halton_42f71d71b809b/the-gemini-breakout-is-a-judge-problem-not-a-jailbreak-problem-3b4)
 <!-- BLOG-POST-LIST:END -->
 
