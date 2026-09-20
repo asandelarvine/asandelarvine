@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Fully Client-Side QR Code Generator &lpar;And Why I Avoided a Backend&rpar;](https://dev.to/saazone_studio/how-i-built-a-fully-client-side-qr-code-generator-and-why-i-avoided-a-backend-4oee)
-- [Cronflower: run a DAG workflow across your cluster, instead of chaining cron jobs](https://dev.to/paganini2008/stop-chaining-cron-jobs-run-a-dag-workflow-across-your-cluster-1ibi)
-- [AWS Step Functions vs Camunda for Sagas: Two Orchestrators, Different Blast Radii](https://dev.to/andriiboyko/aws-step-functions-vs-camunda-for-sagas-two-orchestrators-different-blast-radii-4l7l)
-- [Cronflower: turn a Spring Boot app into a distributed cron cluster](https://dev.to/paganini2008/turn-a-spring-boot-app-into-a-distributed-cron-cluster-3pd0)
+- [Window Functions vs Aggregate Functions in SQL: A Beginner-Friendly Guide](https://dev.to/joseph_mwangi_3ae1f57a132/window-functions-vs-aggregate-functions-in-sql-a-beginner-friendly-guide-i72)
+- [Traditional Coding vs Agentic Coding: The Flow State Problem](https://dev.to/bradtraversy/traditional-coding-vs-agentic-coding-the-flow-state-problem-57p5)
+- [Kubernetes - Day - 02 - PID/Signals/Mount](https://dev.to/technonotes/kubernetes-day-02-pidsignalsmount-3345)
+- [I taught my shell to stop me *before* I run `rm -rf /`](https://dev.to/aurelionakamura/i-taught-my-shell-to-stop-me-before-i-run-rm-rf--2j9k)
 <!-- BLOG-POST-LIST:END -->
 
