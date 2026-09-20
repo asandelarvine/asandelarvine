@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why React &amp; Next.js Users Get `ChunkLoadError` After Deployment — And How to Fix It](https://dev.to/abanoubkerols/why-react-nextjs-users-get-chunkloaderror-after-deployment-and-how-to-fix-it-5f87)
-- [Week 14 of #100DaysOfCode: Completing JUnit 5 and Starting a New Portfolio](https://dev.to/onatade_abdulmajeed/week-14-of-100daysofcode-completing-junit-5-and-starting-a-new-portfolio-4eeb)
-- [O mesmo pedido chegou quatro vezes. O SQS não estava errado](https://dev.to/rodolfocoding/o-mesmo-pedido-chegou-quatro-vezes-o-sqs-nao-estava-errado-211m)
-- [Finally Teaching Python to Think 🐍](https://dev.to/nelly_gitonga/-im-finally-teaching-python-to-think-7dk)
+- [Why I Ditched Pomodoro for the 50/10 Protocol &lpar;And How It Fixed My Deep Work&rpar;](https://dev.to/silentruntime/why-i-ditched-pomodoro-for-the-5010-protocol-and-how-it-fixed-my-deep-work-16ml)
+- [What If AI Works Too Well?](https://dev.to/ewanderson_flaviano/what-if-ai-works-too-well-3dkl)
+- [Semantic Versioning &lpar;SemVer&rpar;: Why Version Numbers Have Three Parts](https://dev.to/susumun/semantic-versioning-semver-why-version-numbers-have-three-parts-1f74)
+- [WebRTC at Scale](https://dev.to/karanpratapsingh/webrtc-at-scale-2di1)
 <!-- BLOG-POST-LIST:END -->
 
