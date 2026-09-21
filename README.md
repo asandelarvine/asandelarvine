@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Ditched Pomodoro for the 50/10 Protocol &lpar;And How It Fixed My Deep Work&rpar;](https://dev.to/silentruntime/why-i-ditched-pomodoro-for-the-5010-protocol-and-how-it-fixed-my-deep-work-16ml)
-- [What If AI Works Too Well?](https://dev.to/ewanderson_flaviano/what-if-ai-works-too-well-3dkl)
-- [Semantic Versioning &lpar;SemVer&rpar;: Why Version Numbers Have Three Parts](https://dev.to/susumun/semantic-versioning-semver-why-version-numbers-have-three-parts-1f74)
-- [WebRTC at Scale](https://dev.to/karanpratapsingh/webrtc-at-scale-2di1)
+- [Regex Testers Can Freeze the Browser: Safer Testing with Timeouts](https://dev.to/toolexo/regex-testers-can-freeze-the-browser-safer-testing-with-timeouts-e0d)
+- [The AI Liability Fight Nobody Wants](https://dev.to/max_quimby/the-ai-liability-fight-nobody-wants-3kk1)
+- [Layered Abuse Control for Self-Hosted Laravel Admins](https://dev.to/maniruzzamanakash/layered-abuse-control-for-self-hosted-laravel-admins-43bp)
+- [Day 15 — Caching ও Redis — শুধু Cache না, এটা আরও অনেক কিছু](https://dev.to/mislam-dev/day-15-caching-o-redis-shudhu-cache-naa-ettaa-aaro-anek-kichu-ak8)
 <!-- BLOG-POST-LIST:END -->
 
