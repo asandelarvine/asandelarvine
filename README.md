@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Backpack Wallet Review 2026:Is It Worth Using?](https://dev.to/ayomide_oladipo_c4c1c6f15/backpack-wallet-review-2026is-it-worth-using-4ljg)
-- [i created fukurama.com - ai frontend made for iterative work](https://dev.to/bnn1/i-created-fukuramacom-ai-frontend-made-for-iterative-work-59e2)
-- [We didn&#39;t make the models smarter. We built the thing that catches them confidently wrong — and it caught us too.](https://dev.to/bryanw/we-didnt-make-the-models-smarter-we-built-the-thing-that-catches-them-confidently-wrong-and-it-3og3)
-- [You Expect Corolla Pricing but Ordered Lamborghini Options — What a Bad WordPress Job Taught Me About Discounts](https://dev.to/mhk_sameera/you-expect-corolla-pricing-but-ordered-lamborghini-options-what-a-bad-wordpress-job-taught-me-2o6n)
+- [Why AI hasn’t replaced software engineers, and won’t](https://dev.to/heyabdullahbruh/why-ai-hasnt-replaced-software-engineers-and-wont-2cpj)
+- [When Is a Library Ready for Version 1.0?](https://dev.to/stinklewinks/when-is-a-library-ready-for-version-10-32cg)
+- [What Makes a Good Resume? Asking for a friend!](https://dev.to/francistrdev/what-makes-a-good-resume-asking-for-a-friend-7nc)
+- [Custom Password Reset Email API Selection — Auth Template Ownership Without Webhooks](https://dev.to/ulyssesblack2385/custom-password-reset-email-api-selection-auth-template-ownership-without-webhooks-13j0)
 <!-- BLOG-POST-LIST:END -->
 
