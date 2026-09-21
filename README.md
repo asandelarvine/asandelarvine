@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI hasn’t replaced software engineers, and won’t](https://dev.to/heyabdullahbruh/why-ai-hasnt-replaced-software-engineers-and-wont-2cpj)
-- [When Is a Library Ready for Version 1.0?](https://dev.to/stinklewinks/when-is-a-library-ready-for-version-10-32cg)
-- [What Makes a Good Resume? Asking for a friend!](https://dev.to/francistrdev/what-makes-a-good-resume-asking-for-a-friend-7nc)
-- [Custom Password Reset Email API Selection — Auth Template Ownership Without Webhooks](https://dev.to/ulyssesblack2385/custom-password-reset-email-api-selection-auth-template-ownership-without-webhooks-13j0)
+- [Real Talk: You Don&#39;t Miss Engineering. You Miss Typing](https://dev.to/georgekobaidze/real-talk-you-dont-miss-engineering-you-miss-typing-1bc3)
+- [Your Self-Hosted AI Stack Just Landed on CISA&#39;s Exploited Vulnerabilities List](https://dev.to/numbpill3d/your-self-hosted-ai-stack-just-landed-on-cisas-exploited-vulnerabilities-list-iel)
+- [What It Actually Costs to Serve a 1M-Token Model in Production](https://dev.to/digitalocean/what-it-actually-costs-to-serve-a-1m-token-model-in-production-4f0k)
+- [Infostealers Are Selling Your Claude and ChatGPT Sessions for $5 on Telegram](https://dev.to/numbpill3d/infostealers-are-selling-your-claude-and-chatgpt-sessions-for-5-on-telegram-fp0)
 <!-- BLOG-POST-LIST:END -->
 
