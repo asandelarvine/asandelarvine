@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Regex Testers Can Freeze the Browser: Safer Testing with Timeouts](https://dev.to/toolexo/regex-testers-can-freeze-the-browser-safer-testing-with-timeouts-e0d)
-- [The AI Liability Fight Nobody Wants](https://dev.to/max_quimby/the-ai-liability-fight-nobody-wants-3kk1)
-- [Layered Abuse Control for Self-Hosted Laravel Admins](https://dev.to/maniruzzamanakash/layered-abuse-control-for-self-hosted-laravel-admins-43bp)
-- [Day 15 — Caching ও Redis — শুধু Cache না, এটা আরও অনেক কিছু](https://dev.to/mislam-dev/day-15-caching-o-redis-shudhu-cache-naa-ettaa-aaro-anek-kichu-ak8)
+- [Backpack Wallet Review 2026:Is It Worth Using?](https://dev.to/ayomide_oladipo_c4c1c6f15/backpack-wallet-review-2026is-it-worth-using-4ljg)
+- [i created fukurama.com - ai frontend made for iterative work](https://dev.to/bnn1/i-created-fukuramacom-ai-frontend-made-for-iterative-work-59e2)
+- [We didn&#39;t make the models smarter. We built the thing that catches them confidently wrong — and it caught us too.](https://dev.to/bryanw/we-didnt-make-the-models-smarter-we-built-the-thing-that-catches-them-confidently-wrong-and-it-3og3)
+- [You Expect Corolla Pricing but Ordered Lamborghini Options — What a Bad WordPress Job Taught Me About Discounts](https://dev.to/mhk_sameera/you-expect-corolla-pricing-but-ordered-lamborghini-options-what-a-bad-wordpress-job-taught-me-2o6n)
 <!-- BLOG-POST-LIST:END -->
 
