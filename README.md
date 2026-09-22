@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SHOULD I BE SCARED OF AI OR NOT ?](https://dev.to/rupak2/should-i-be-scared-of-ai-or-not--elk)
-- [I built a Magic rules agent, then tried to prove it wasn&#39;t guessing](https://dev.to/joshua_gutierrez/i-built-a-magic-rules-agent-then-tried-to-prove-it-wasnt-guessing-d4n)
-- [I Wrote the Code This Time. Does It Count If the Answer Was Wrong?](https://dev.to/earlgreyhot1701d/i-wrote-the-code-this-time-does-it-count-if-the-answer-was-wrong-1f2k)
-- [Constraints say how it should be; the gate proves it actually is](https://dev.to/derekwang85/constraints-say-how-it-should-be-the-gate-proves-it-actually-is-jio)
+- [8 of my AI agent&#39;s 30 test calls failed. Every one was my fault.](https://dev.to/rizkynandapr/8-of-my-ai-agents-30-test-calls-failed-every-one-was-my-fault-3kff)
+- [One Belief Per Fact: Building Agent Memory for Users Who Change Their Minds](https://dev.to/nasiko_labs/one-belief-per-fact-building-agent-memory-for-users-who-change-their-minds-19i5)
+- [The SDLC is dead. Long live the AI-DLC!?](https://dev.to/dmitriy_trunov_9a09a497b1/the-sdlc-is-dead-long-live-the-ai-dlc-34bi)
+- [MFA en entornos empresariales: correo, VPN y cuentas administrativas](https://dev.to/lol_pc_403e63441a8e910a6d/mfa-en-entornos-empresariales-correo-vpn-y-cuentas-administrativas-3b2p)
 <!-- BLOG-POST-LIST:END -->
 
