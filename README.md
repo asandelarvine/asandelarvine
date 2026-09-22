@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [8 of my AI agent&#39;s 30 test calls failed. Every one was my fault.](https://dev.to/rizkynandapr/8-of-my-ai-agents-30-test-calls-failed-every-one-was-my-fault-3kff)
-- [One Belief Per Fact: Building Agent Memory for Users Who Change Their Minds](https://dev.to/nasiko_labs/one-belief-per-fact-building-agent-memory-for-users-who-change-their-minds-19i5)
-- [The SDLC is dead. Long live the AI-DLC!?](https://dev.to/dmitriy_trunov_9a09a497b1/the-sdlc-is-dead-long-live-the-ai-dlc-34bi)
-- [MFA en entornos empresariales: correo, VPN y cuentas administrativas](https://dev.to/lol_pc_403e63441a8e910a6d/mfa-en-entornos-empresariales-correo-vpn-y-cuentas-administrativas-3b2p)
+- [What to Instrument, Test, Monitor Before Shipping a Support Chatbot](https://dev.to/vasyl_popovych_37a71efb3d/what-to-instrument-test-monitor-before-shipping-a-support-chatbot-42ea)
+- [Treat Client Timeout as an In-Doubt Lease Before You Replay Shared Tool Calls](https://dev.to/robinzzz/treat-client-timeout-as-an-in-doubt-lease-before-you-replay-shared-tool-calls-25fg)
+- [Your AI had questions. It answered them in the code.](https://dev.to/knopfdruck/your-ai-had-questions-it-answered-them-in-the-code-1jo3)
+- [OpenSparrow v3.8: Roadmap &lpar;Gantt&rpar; module and new style grid](https://dev.to/wrobeltomasz/opensparrow-v38-roadmap-gantt-module-and-new-style-grid-4mei)
 <!-- BLOG-POST-LIST:END -->
 
