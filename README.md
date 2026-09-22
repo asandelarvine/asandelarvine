@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Operators: The Basics You Need to Know](https://dev.to/soubhagya_dash/javascript-operators-the-basics-you-need-to-know-352k)
-- [Silent Saves: How JPA Persists Your Changes Without You Asking](https://dev.to/satyaki_saha_367d015583da/silent-saves-how-jpa-persists-your-changes-without-you-asking-4iii)
-- [Build Interactive Web Pages with TypeScript and WebForms Core](https://dev.to/elanatframework/build-interactive-web-pages-with-typescript-and-webforms-core-46dm)
-- [&quot;You&#39;ve Reached Your Limit&quot;: What Nine AI Services Don&#39;t Say About Their Free Plans](https://dev.to/socialawy/youve-reached-your-limit-what-nine-ai-services-dont-say-about-their-free-plans-2chm)
+- [AI Is Making Code Cheap. Verification Is Becoming the Expensive Part](https://dev.to/aniketdev7/ai-is-making-code-cheap-verification-is-becoming-the-expensive-part-3kdk)
+- [The Leftover Hard Parts](https://dev.to/kate_astrid/the-leftover-hard-parts-28ka)
+- [The Hard Part of an OpenTelemetry Logs Bridge Wasn&#39;t Encoding](https://dev.to/admilsoncossa/the-hard-part-of-an-opentelemetry-logs-bridge-wasnt-encoding-29j1)
+- [Rust WebAssembly with WebForms Core 2.1](https://dev.to/elanatframework/rust-webassembly-with-webforms-core-21-3jj9)
 <!-- BLOG-POST-LIST:END -->
 
