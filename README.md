@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [rekuiper 0.500: Moving the Engine Hot Path to RAM and Finding its Exact Physical Limits &lpar;up to 200k msg/s&rpar;](https://dev.to/ankurpaan/rekuiper-0500-moving-the-engine-hot-path-to-ram-and-finding-its-exact-physical-limits-up-to-200k-53di)
-- [How I Built Secret-Scrub: A Zero-Dependency Pre-Commit Secret Scanner with Shannon Entropy Analysis](https://dev.to/mahdyarmonfared/how-i-built-secret-scrub-a-zero-dependency-pre-commit-secret-scanner-with-shannon-entropy-analysis-5ea2)
-- [How I Built QuickShare-QR: Share Files from Terminal to Phone via Instant ASCII QR Codes](https://dev.to/mahdyarmonfared/how-i-built-quickshare-qr-share-files-from-terminal-to-phone-via-instant-ascii-qr-codes-1llb)
-- [Gemini Notebook Expands Its Workspace, but Artifact Organization Is Still Undocumented](https://dev.to/alifar/gemini-notebook-expands-its-workspace-but-artifact-organization-is-still-undocumented-2em9)
+- [SHOULD I BE SCARED OF AI OR NOT ?](https://dev.to/rupak2/should-i-be-scared-of-ai-or-not--elk)
+- [I built a Magic rules agent, then tried to prove it wasn&#39;t guessing](https://dev.to/joshua_gutierrez/i-built-a-magic-rules-agent-then-tried-to-prove-it-wasnt-guessing-d4n)
+- [I Wrote the Code This Time. Does It Count If the Answer Was Wrong?](https://dev.to/earlgreyhot1701d/i-wrote-the-code-this-time-does-it-count-if-the-answer-was-wrong-1f2k)
+- [Constraints say how it should be; the gate proves it actually is](https://dev.to/derekwang85/constraints-say-how-it-should-be-the-gate-proves-it-actually-is-jio)
 <!-- BLOG-POST-LIST:END -->
 
