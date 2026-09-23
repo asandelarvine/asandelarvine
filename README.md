@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [React and its features](https://dev.to/jaisurya/react-and-its-features-27a3)
-- [Claude Opus 5.5 vs Opus 5: Same Answers, Half the Output Tokens](https://dev.to/synthorai/claude-opus-55-vs-opus-5-same-answers-half-the-output-tokens-114d)
-- [Your Artifact Registry Is a Two-Way Channel for Agents](https://dev.to/webofmike/your-artifact-registry-is-a-two-way-channel-for-agents-3p4)
-- [RRSI: How Regularization Stops Agent Harnesses from Overfitting Their Own Benchmarks](https://dev.to/prabhakar_chaudhary_7afe4/rrsi-how-regularization-stops-agent-harnesses-from-overfitting-their-own-benchmarks-5aim)
+- [K3S](https://dev.to/vcaunegre/k3s-2jdp)
+- [My crypto backtest had a sharpe of 13.4. Then I added trading costs](https://dev.to/pavel_kkkkazantsev/my-crypto-backtest-had-a-sharpe-of-134-then-i-added-trading-costs-5718)
+- [Google Gemini Enterprise Connects With Linear for AI-Assisted Issue Workflows](https://dev.to/alifar/google-gemini-enterprise-connects-with-linear-for-ai-assisted-issue-workflows-3hlp)
+- [Ramen 2026.09.1: A New UI](https://dev.to/owenburns/ramen-2026091-a-new-ui-3k9p)
 <!-- BLOG-POST-LIST:END -->
 
