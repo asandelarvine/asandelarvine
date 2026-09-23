@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Is Making Code Cheap. Verification Is Becoming the Expensive Part](https://dev.to/aniketdev7/ai-is-making-code-cheap-verification-is-becoming-the-expensive-part-3kdk)
-- [The Leftover Hard Parts](https://dev.to/kate_astrid/the-leftover-hard-parts-28ka)
-- [The Hard Part of an OpenTelemetry Logs Bridge Wasn&#39;t Encoding](https://dev.to/admilsoncossa/the-hard-part-of-an-opentelemetry-logs-bridge-wasnt-encoding-29j1)
-- [Rust WebAssembly with WebForms Core 2.1](https://dev.to/elanatframework/rust-webassembly-with-webforms-core-21-3jj9)
+- [We nearly charged our own buyers twice for rows they&#39;d already paid for](https://dev.to/fetchsmith/we-nearly-charged-our-own-buyers-twice-for-rows-theyd-already-paid-for-1pde)
+- [Authorization holds expire before you think they will](https://dev.to/payneteasy/authorization-holds-expire-before-you-think-they-will-3gei)
+- [Landlock LSM: App-Sandboxing im Kernel ohne Root](https://dev.to/uhltak/landlock-lsm-app-sandboxing-im-kernel-ohne-root-4p86)
+- [CVE-2026-94127: What F5 BIG-IP Operators Need to Know About the Exploited APM Flaw](https://dev.to/jeffreyciend/cve-2026-94127-what-f5-big-ip-operators-need-to-know-about-the-exploited-apm-flaw-hpi)
 <!-- BLOG-POST-LIST:END -->
 
