@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Practical SEO for Developers: Content Ops and Geo Targeting Made Simple](https://dev.to/ntty/practical-seo-for-developers-content-ops-and-geo-targeting-made-simple-45n5)
-- [Jour 5/100 · 60 minutes](https://dev.to/sarahanjou/jour-4100-60-minutes-4bk)
-- [My CI hadn&#39;t run a single one of those tests in two months and stayed green the whole time](https://dev.to/juanauriti/my-ci-hadnt-run-a-single-one-of-those-tests-in-two-months-and-stayed-green-the-whole-time-n15)
-- [My OSS Projects: Piral](https://dev.to/florianrappl/my-oss-projects-piral-2856)
+- [React and its features](https://dev.to/jaisurya/react-and-its-features-27a3)
+- [Claude Opus 5.5 vs Opus 5: Same Answers, Half the Output Tokens](https://dev.to/synthorai/claude-opus-55-vs-opus-5-same-answers-half-the-output-tokens-114d)
+- [Your Artifact Registry Is a Two-Way Channel for Agents](https://dev.to/webofmike/your-artifact-registry-is-a-two-way-channel-for-agents-3p4)
+- [RRSI: How Regularization Stops Agent Harnesses from Overfitting Their Own Benchmarks](https://dev.to/prabhakar_chaudhary_7afe4/rrsi-how-regularization-stops-agent-harnesses-from-overfitting-their-own-benchmarks-5aim)
 <!-- BLOG-POST-LIST:END -->
 
