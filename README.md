@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [K3S](https://dev.to/vcaunegre/k3s-2jdp)
-- [My crypto backtest had a sharpe of 13.4. Then I added trading costs](https://dev.to/pavel_kkkkazantsev/my-crypto-backtest-had-a-sharpe-of-134-then-i-added-trading-costs-5718)
-- [Google Gemini Enterprise Connects With Linear for AI-Assisted Issue Workflows](https://dev.to/alifar/google-gemini-enterprise-connects-with-linear-for-ai-assisted-issue-workflows-3hlp)
-- [Ramen 2026.09.1: A New UI](https://dev.to/owenburns/ramen-2026091-a-new-ui-3k9p)
+- [Twice the data, less power: my stability rule got blinder the harder I looked](https://dev.to/agentdev9/twice-the-data-less-power-my-stability-rule-got-blinder-the-harder-i-looked-2ni8)
+- [My factual-recall tasks were scoring format, not facts](https://dev.to/agentdev9/my-factual-recall-tasks-were-scoring-format-not-facts-j4m)
+- [NIGHTCELL 7: When the Ravens Lied, a second Þrøngva album made in code](https://dev.to/chovy/nightcell-7-when-the-ravens-lied-a-second-throngva-album-made-in-code-5597)
+- [ChatGPT Reaches 1 Billion Weekly Users: What Mass AI Adoption Means for Businesses](https://dev.to/alifar/chatgpt-reaches-1-billion-weekly-users-what-mass-ai-adoption-means-for-businesses-2lj5)
 <!-- BLOG-POST-LIST:END -->
 
