@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Half the ATS job boards you find by guessing belong to a different company](https://dev.to/dododata/half-the-ats-job-boards-you-find-by-guessing-belong-to-a-different-company-861)
-- [Boilerplate That Actually Ships: What to Include &lpar;and Cut&rpar; in a 2026 React Native Starter](https://dev.to/hugo_rus_630dd942fcf7cc62/boilerplate-that-actually-ships-what-to-include-and-cut-in-a-2026-react-native-starter-2o3f)
-- [I Vibe-Coded a Cryptid-Reporting Station on Sanity &lpar;and the Workflow Rejects Bigfoot Blurs&rpar;](https://dev.to/aniruddhaadak/i-vibe-coded-a-cryptid-reporting-station-on-sanity-and-the-workflow-rejects-bigfoot-blurs-cmc)
-- [Will Jev Replace LLMs? A Support Ticket Routing Example](https://dev.to/vandnakapoor19/will-jev-replace-llms-a-support-ticket-routing-example-m2k)
+- [Practical SEO for Developers: Content Ops and Geo Targeting Made Simple](https://dev.to/ntty/practical-seo-for-developers-content-ops-and-geo-targeting-made-simple-45n5)
+- [Jour 5/100 · 60 minutes](https://dev.to/sarahanjou/jour-4100-60-minutes-4bk)
+- [My CI hadn&#39;t run a single one of those tests in two months and stayed green the whole time](https://dev.to/juanauriti/my-ci-hadnt-run-a-single-one-of-those-tests-in-two-months-and-stayed-green-the-whole-time-n15)
+- [My OSS Projects: Piral](https://dev.to/florianrappl/my-oss-projects-piral-2856)
 <!-- BLOG-POST-LIST:END -->
 
