@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Twice the data, less power: my stability rule got blinder the harder I looked](https://dev.to/agentdev9/twice-the-data-less-power-my-stability-rule-got-blinder-the-harder-i-looked-2ni8)
-- [My factual-recall tasks were scoring format, not facts](https://dev.to/agentdev9/my-factual-recall-tasks-were-scoring-format-not-facts-j4m)
-- [NIGHTCELL 7: When the Ravens Lied, a second Þrøngva album made in code](https://dev.to/chovy/nightcell-7-when-the-ravens-lied-a-second-throngva-album-made-in-code-5597)
-- [ChatGPT Reaches 1 Billion Weekly Users: What Mass AI Adoption Means for Businesses](https://dev.to/alifar/chatgpt-reaches-1-billion-weekly-users-what-mass-ai-adoption-means-for-businesses-2lj5)
+- [Why Most Type-Safe Validation Fails in Production &lpar;And How JEV Fixes It&rpar;](https://dev.to/plastikelectrik/why-most-type-safe-validation-fails-in-production-and-how-jev-fixes-it-4b9o)
+- [Claude Opus 5.5: 40% cheaper, frontier-grade performance](https://dev.to/devsignal/claude-opus-55-40-cheaper-frontier-grade-performance-5df6)
+- [Free AWS, Azure and GCP architecture icons as SVG](https://dev.to/thegdsks/free-aws-azure-and-gcp-architecture-icons-as-svg-hn8)
+- [DAY 3 - SAGA Design Pattern](https://dev.to/technonotes/day-3-saga-design-pattern-59lh)
 <!-- BLOG-POST-LIST:END -->
 
