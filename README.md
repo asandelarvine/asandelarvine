@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Generative Engine Optimization &lpar;GEO&rpar;: SEO for the AI Era](https://dev.to/techmitten2/the-ultimate-guide-to-generative-engine-optimization-geo-seo-for-the-ai-era-550f)
-- [&quot;You improved&quot; is a statistical claim, and on eight attempts it is usually false](https://dev.to/daniel_pertu/you-improved-is-a-statistical-claim-and-on-eight-attempts-it-is-usually-false-2m6h)
-- [Building an Agentic Fraud Investigation Agent with TigerGraph](https://dev.to/roan911/building-an-agentic-fraud-investigation-agent-with-tigergraph-aec)
-- [One media query fixed every email on mobile, because every row is a direct child](https://dev.to/daniel_pertu/one-media-query-fixed-every-email-on-mobile-because-every-row-is-a-direct-child-c1l)
+- [Chapter 6 — Make Feature Lifecycle Intentional with Null, Reset, and Destroy](https://dev.to/sdux-vault/chapter-6-make-feature-lifecycle-intentional-with-null-reset-and-destroy-4obl)
+- [Block the Agent Patch Until a Second Process Replays the Witness](https://dev.to/datacpp_8185/block-the-agent-patch-until-a-second-process-replays-the-witness-3ipl)
+- [Building Better Random Choice Experiences With a Spin Wheel](https://dev.to/vps_hosting_fc66ae4d1c19d/building-better-random-choice-experiences-with-a-spin-wheel-5fdk)
+- [Chunking: Getting the First Cut Right](https://dev.to/sekharendu_dey/chunking-getting-the-first-cut-right-pbc)
 <!-- BLOG-POST-LIST:END -->
 
