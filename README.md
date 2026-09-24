@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Most Type-Safe Validation Fails in Production &lpar;And How JEV Fixes It&rpar;](https://dev.to/plastikelectrik/why-most-type-safe-validation-fails-in-production-and-how-jev-fixes-it-4b9o)
-- [Claude Opus 5.5: 40% cheaper, frontier-grade performance](https://dev.to/devsignal/claude-opus-55-40-cheaper-frontier-grade-performance-5df6)
-- [Free AWS, Azure and GCP architecture icons as SVG](https://dev.to/thegdsks/free-aws-azure-and-gcp-architecture-icons-as-svg-hn8)
-- [DAY 3 - SAGA Design Pattern](https://dev.to/technonotes/day-3-saga-design-pattern-59lh)
+- [The Ultimate Guide to Generative Engine Optimization &lpar;GEO&rpar;: SEO for the AI Era](https://dev.to/techmitten2/the-ultimate-guide-to-generative-engine-optimization-geo-seo-for-the-ai-era-550f)
+- [&quot;You improved&quot; is a statistical claim, and on eight attempts it is usually false](https://dev.to/daniel_pertu/you-improved-is-a-statistical-claim-and-on-eight-attempts-it-is-usually-false-2m6h)
+- [Building an Agentic Fraud Investigation Agent with TigerGraph](https://dev.to/roan911/building-an-agentic-fraud-investigation-agent-with-tigergraph-aec)
+- [One media query fixed every email on mobile, because every row is a direct child](https://dev.to/daniel_pertu/one-media-query-fixed-every-email-on-mobile-because-every-row-is-a-direct-child-c1l)
 <!-- BLOG-POST-LIST:END -->
 
