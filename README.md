@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Schopenhauer in the Standup: 7 Rules to Neutralize a Toxic Boss](https://dev.to/dmitryame/schopenhauer-in-the-standup-7-rules-to-neutralize-a-toxic-boss-4kb8)
-- [Treat Free-Server Eval as a Shadow Protocol Before It Shares a Write Key](https://dev.to/robinzzz/treat-free-server-eval-as-a-shadow-protocol-before-it-shares-a-write-key-6m0)
-- [MCP Observability: How to Trace Every Tool Call in Production](https://dev.to/rupa_tiwari_dd308948d710f/mcp-observability-how-to-trace-every-tool-call-in-production-21cp)
-- [How DNS Actually Works: A Practical Guide for Engineers](https://dev.to/rakshyak/how-dns-actually-works-a-practical-guide-for-engineers-dd9)
+- [SFT vs. RL: What Changes Inside the Model?](https://dev.to/g_factor/sft-vs-rl-what-changes-inside-the-model-30ho)
+- [What I Learned Building Reliable Android Reminders](https://dev.to/cleanlabs/what-i-learned-building-reliable-android-reminders-92j)
+- [The Web2App Funnel Where Users Pay on the Web and Open the iOS App Already Logged In, Even Before It&#39;s Installed](https://dev.to/utkarsh4517/the-web2app-funnel-where-users-pay-on-the-web-and-open-the-ios-app-already-logged-in-even-before-456f)
+- [نجات سرور لینوکس پس از تعویض IP: از خاموشی کامل SSH تا روتینگ 32/ با کنسول VNC](https://dev.to/dalroot/njt-srwr-lynwkhs-ps-z-twyd-ip-z-khmwshy-khml-ssh-t-rwtyng-32-b-khnswl-vnc-o4l)
 <!-- BLOG-POST-LIST:END -->
 
