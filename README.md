@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Chapter 6 — Make Feature Lifecycle Intentional with Null, Reset, and Destroy](https://dev.to/sdux-vault/chapter-6-make-feature-lifecycle-intentional-with-null-reset-and-destroy-4obl)
-- [Block the Agent Patch Until a Second Process Replays the Witness](https://dev.to/datacpp_8185/block-the-agent-patch-until-a-second-process-replays-the-witness-3ipl)
-- [Building Better Random Choice Experiences With a Spin Wheel](https://dev.to/vps_hosting_fc66ae4d1c19d/building-better-random-choice-experiences-with-a-spin-wheel-5fdk)
-- [Chunking: Getting the First Cut Right](https://dev.to/sekharendu_dey/chunking-getting-the-first-cut-right-pbc)
+- [Schopenhauer in the Standup: 7 Rules to Neutralize a Toxic Boss](https://dev.to/dmitryame/schopenhauer-in-the-standup-7-rules-to-neutralize-a-toxic-boss-4kb8)
+- [Treat Free-Server Eval as a Shadow Protocol Before It Shares a Write Key](https://dev.to/robinzzz/treat-free-server-eval-as-a-shadow-protocol-before-it-shares-a-write-key-6m0)
+- [MCP Observability: How to Trace Every Tool Call in Production](https://dev.to/rupa_tiwari_dd308948d710f/mcp-observability-how-to-trace-every-tool-call-in-production-21cp)
+- [How DNS Actually Works: A Practical Guide for Engineers](https://dev.to/rakshyak/how-dns-actually-works-a-practical-guide-for-engineers-dd9)
 <!-- BLOG-POST-LIST:END -->
 
