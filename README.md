@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Logistics Hostname Broke After Adding an Alias &lpar;DNS Cutover Constraint&rpar;](https://dev.to/quintonshaw1483/logistics-hostname-broke-after-adding-an-alias-dns-cutover-constraint-elp)
-- [132,158 Observable Magento Stores: Sizing the Population Exposed in the StyleSmuggler Window](https://dev.to/kozhevniko/132158-observable-magento-stores-sizing-the-population-exposed-in-the-stylesmuggler-window-56i7)
-- [n8n and NVIDIA NemoClaw to Demonstrate Governed AI Agent Actions at GTC Berlin 2026](https://dev.to/alifar/n8n-and-nvidia-nemoclaw-to-demonstrate-governed-ai-agent-actions-at-gtc-berlin-2026-30il)
-- [Claude Opus 5.5 vs GPT-6 Sol: The September 2026 AI Price War, Explained](https://dev.to/huzdev224/claude-opus-55-vs-gpt-6-sol-the-september-2026-ai-price-war-explained-2hia)
+- [ExpoStacker EP001 — pipeline de publicação auditada em 10+ redes](https://dev.to/luiz_felipeferro_4565c28/-expostacker-ep001-pipeline-de-publicacao-auditada-20fo)
+- [The Playwright Pie in the Sky: Solving for CI Blindspots in Microfrontend Architecture in a Crunch](https://dev.to/jordonkloiber/the-playwright-pie-in-the-sky-solving-for-ci-blindspots-in-microfrontend-architecture-in-a-crunch-3lhj)
+- [GitHub Student Developer Pack: What You Can Get as a Student](https://dev.to/ramiroquintana/github-student-developer-pack-what-you-can-get-as-a-student-4pj1)
+- [Same app. Same taps. Why does one feel premium?](https://dev.to/vatana7/same-app-same-taps-why-does-one-feel-premium-4l08)
 <!-- BLOG-POST-LIST:END -->
 
