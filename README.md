@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ExpoStacker EP001 — pipeline de publicação auditada em 10+ redes](https://dev.to/luiz_felipeferro_4565c28/-expostacker-ep001-pipeline-de-publicacao-auditada-20fo)
-- [The Playwright Pie in the Sky: Solving for CI Blindspots in Microfrontend Architecture in a Crunch](https://dev.to/jordonkloiber/the-playwright-pie-in-the-sky-solving-for-ci-blindspots-in-microfrontend-architecture-in-a-crunch-3lhj)
-- [GitHub Student Developer Pack: What You Can Get as a Student](https://dev.to/ramiroquintana/github-student-developer-pack-what-you-can-get-as-a-student-4pj1)
-- [Same app. Same taps. Why does one feel premium?](https://dev.to/vatana7/same-app-same-taps-why-does-one-feel-premium-4l08)
+- [What breaks when AI apps go live](https://dev.to/gemmein/what-breaks-when-ai-apps-go-live-5db3)
+- [Gemini Notebook Adds Live Voice Conversations and Mobile Audio Recording Tools](https://dev.to/alifar/gemini-notebook-adds-live-voice-conversations-and-mobile-audio-recording-tools-18lh)
+- [Gemma 4 on Amazon SageMaker: QAT Weights Decode 2.05x Faster Than bf16 on One L4](https://dev.to/aws-builders/gemma-4-on-amazon-sagemaker-qat-weights-decode-205x-faster-than-bf16-on-one-l4-318m)
+- [AI Agents vs Traditional Automation: What&#39;s Actually Different for Security](https://dev.to/dharani2d/ai-agents-vs-traditional-automation-whats-actually-different-for-security-3n1l)
 <!-- BLOG-POST-LIST:END -->
 
