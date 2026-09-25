@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Discovers a CRISPR-Like Enzyme System Called ART](https://dev.to/raxxostudios/claude-discovers-a-crispr-like-enzyme-system-called-art-377b)
-- [Building Zyg0s: An Autonomous, Explainable Fraud Investigation Agent Powered by TigerGraph Savanna Cloud &amp; MCP](https://dev.to/vanshdeo/building-zyg0s-an-autonomous-explainable-fraud-investigation-agent-powered-by-tigergraph-savanna-34ki)
-- [AI answers are easy to get but expensive to read — a CLI that filters them down](https://dev.to/sunnydachs/ai-answers-are-easy-to-get-but-expensive-to-read-a-cli-that-filters-them-down-224k)
-- [The Agent Did It: Containing an AI That Acts Before You Approve.](https://dev.to/goodpa/the-agent-did-it-containing-an-ai-that-acts-before-you-approve-2moj)
+- [The Cloud Snippet Box I Paid for, Deleted, and Replaced With 6 Commands](https://dev.to/ke_jia_24bb2f9f84f14f728a/the-cloud-snippet-box-i-paid-for-deleted-and-replaced-with-6-commands-44b9)
+- [One message we could not parse stopped four hours of dispatches](https://dev.to/sergey_shinder_ab2d943365/one-message-we-could-not-parse-stopped-four-hours-of-dispatches-h75)
+- [Card Decline Codes: Visa vs Mastercard Retry Rules](https://dev.to/tomwangcn/card-decline-codes-visa-vs-mastercard-retry-rules-pe9)
+- [Your Build Time Is Choosing What You Think About](https://dev.to/sergueyasaelshinder/your-build-time-is-choosing-what-you-think-about-4p67)
 <!-- BLOG-POST-LIST:END -->
 
