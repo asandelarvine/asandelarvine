@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SFT vs. RL: What Changes Inside the Model?](https://dev.to/g_factor/sft-vs-rl-what-changes-inside-the-model-30ho)
-- [What I Learned Building Reliable Android Reminders](https://dev.to/cleanlabs/what-i-learned-building-reliable-android-reminders-92j)
-- [The Web2App Funnel Where Users Pay on the Web and Open the iOS App Already Logged In, Even Before It&#39;s Installed](https://dev.to/utkarsh4517/the-web2app-funnel-where-users-pay-on-the-web-and-open-the-ios-app-already-logged-in-even-before-456f)
-- [نجات سرور لینوکس پس از تعویض IP: از خاموشی کامل SSH تا روتینگ 32/ با کنسول VNC](https://dev.to/dalroot/njt-srwr-lynwkhs-ps-z-twyd-ip-z-khmwshy-khml-ssh-t-rwtyng-32-b-khnswl-vnc-o4l)
+- [Claude Discovers a CRISPR-Like Enzyme System Called ART](https://dev.to/raxxostudios/claude-discovers-a-crispr-like-enzyme-system-called-art-377b)
+- [Building Zyg0s: An Autonomous, Explainable Fraud Investigation Agent Powered by TigerGraph Savanna Cloud &amp; MCP](https://dev.to/vanshdeo/building-zyg0s-an-autonomous-explainable-fraud-investigation-agent-powered-by-tigergraph-savanna-34ki)
+- [AI answers are easy to get but expensive to read — a CLI that filters them down](https://dev.to/sunnydachs/ai-answers-are-easy-to-get-but-expensive-to-read-a-cli-that-filters-them-down-224k)
+- [The Agent Did It: Containing an AI That Acts Before You Approve.](https://dev.to/goodpa/the-agent-did-it-containing-an-ai-that-acts-before-you-approve-2moj)
 <!-- BLOG-POST-LIST:END -->
 
