@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cloud Snippet Box I Paid for, Deleted, and Replaced With 6 Commands](https://dev.to/ke_jia_24bb2f9f84f14f728a/the-cloud-snippet-box-i-paid-for-deleted-and-replaced-with-6-commands-44b9)
-- [One message we could not parse stopped four hours of dispatches](https://dev.to/sergey_shinder_ab2d943365/one-message-we-could-not-parse-stopped-four-hours-of-dispatches-h75)
-- [Card Decline Codes: Visa vs Mastercard Retry Rules](https://dev.to/tomwangcn/card-decline-codes-visa-vs-mastercard-retry-rules-pe9)
-- [Your Build Time Is Choosing What You Think About](https://dev.to/sergueyasaelshinder/your-build-time-is-choosing-what-you-think-about-4p67)
+- [Logistics Hostname Broke After Adding an Alias &lpar;DNS Cutover Constraint&rpar;](https://dev.to/quintonshaw1483/logistics-hostname-broke-after-adding-an-alias-dns-cutover-constraint-elp)
+- [132,158 Observable Magento Stores: Sizing the Population Exposed in the StyleSmuggler Window](https://dev.to/kozhevniko/132158-observable-magento-stores-sizing-the-population-exposed-in-the-stylesmuggler-window-56i7)
+- [n8n and NVIDIA NemoClaw to Demonstrate Governed AI Agent Actions at GTC Berlin 2026](https://dev.to/alifar/n8n-and-nvidia-nemoclaw-to-demonstrate-governed-ai-agent-actions-at-gtc-berlin-2026-30il)
+- [Claude Opus 5.5 vs GPT-6 Sol: The September 2026 AI Price War, Explained](https://dev.to/huzdev224/claude-opus-55-vs-gpt-6-sol-the-september-2026-ai-price-war-explained-2hia)
 <!-- BLOG-POST-LIST:END -->
 
