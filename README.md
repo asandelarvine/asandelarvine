@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Actually Learn New Skills &lpar;No Tutorial Required&rpar;](https://dev.to/sheships/how-i-actually-learn-new-skills-no-tutorial-required-3iia)
-- [Your PNG quality slider does nothing — I measured canvas.toBlob&lpar;&rpar; for PNG, JPEG and WebP](https://dev.to/sharefun2023/your-png-quality-slider-does-nothing-i-measured-canvastoblob-for-png-jpeg-and-webp-7l2)
-- [Epoll vs Select vs Poll: How the Linux Kernel Actually Handles 100k Concurrent Connections](https://dev.to/syed_anzar/epoll-vs-select-vs-poll-how-the-linux-kernel-actually-handles-100k-concurrent-connections-3o89)
-- [How Aider works under the hood](https://dev.to/masihmoafi/how-aider-works-under-the-hood-3ik7)
+- [A website list is not a contact list: designing a reviewable extraction pipeline](https://dev.to/nicedayup/a-website-list-is-not-a-contact-list-designing-a-reviewable-extraction-pipeline-4g6b)
+- [Resize Hundreds of Images Offline](https://dev.to/polygonewild/resize-hundreds-of-images-offline-1940)
+- [Building a C++ File Encryptor: Practical Cryptography &amp; File I/O for Beginners](https://dev.to/jui_antigravity_1707/building-a-c-file-encryptor-practical-cryptography-file-io-for-beginners-40e3)
+- [Large SQS and SNS messages in Kotlin: the extended client pattern without Java baggage](https://dev.to/christophsens/large-sqs-and-sns-messages-in-kotlin-the-extended-client-pattern-without-java-baggage-l9d)
 <!-- BLOG-POST-LIST:END -->
 
