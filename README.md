@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How ACME HTTP-01 and DNS-01 Challenges Work Internally](https://dev.to/michaelcarter09/how-acme-http-01-and-dns-01-challenges-work-internally-4bdf)
-- [How to Decode a JWT Safely &lpar;Without Sending It to a Server&rpar;](https://dev.to/pulkitgovrani/how-to-decode-a-jwt-safely-without-sending-it-to-a-server-ki2)
-- [What a Cron Expression Actually Means &lpar;With Examples&rpar;](https://dev.to/pulkitgovrani/what-a-cron-expression-actually-means-with-examples-4kcl)
-- [Why You Should Remove EXIF Data Before Sharing Photos](https://dev.to/pulkitgovrani/why-you-should-remove-exif-data-before-sharing-photos-1a1e)
+- [How I Actually Learn New Skills &lpar;No Tutorial Required&rpar;](https://dev.to/sheships/how-i-actually-learn-new-skills-no-tutorial-required-3iia)
+- [Your PNG quality slider does nothing — I measured canvas.toBlob&lpar;&rpar; for PNG, JPEG and WebP](https://dev.to/sharefun2023/your-png-quality-slider-does-nothing-i-measured-canvastoblob-for-png-jpeg-and-webp-7l2)
+- [Epoll vs Select vs Poll: How the Linux Kernel Actually Handles 100k Concurrent Connections](https://dev.to/syed_anzar/epoll-vs-select-vs-poll-how-the-linux-kernel-actually-handles-100k-concurrent-connections-3o89)
+- [How Aider works under the hood](https://dev.to/masihmoafi/how-aider-works-under-the-hood-3ik7)
 <!-- BLOG-POST-LIST:END -->
 
