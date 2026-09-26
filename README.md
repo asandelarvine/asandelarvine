@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unknown&quot; was the right third value. It is not enough on its own.](https://dev.to/vereos/unknown-was-the-right-third-value-it-is-not-enough-on-its-own-pnl)
-- [Your AI Vendor Just Became a Supply-Chain Risk](https://dev.to/goodpa/your-ai-vendor-just-became-a-supply-chain-risk-21c1)
-- [Building FoxyInvoice — Chapter 11: Reach — SEO, AI crawlers, and being the machine-readable answer](https://dev.to/seolith/building-foxyinvoice-chapter-11-reach-seo-ai-crawlers-and-being-the-machine-readable-answer-24on)
-- [I built a to-do app that hatches creatures because I couldn&#39;t make myself do anything](https://dev.to/island_dev/i-built-a-to-do-app-that-hatches-creatures-because-i-couldnt-make-myself-do-anything-4ac9)
+- [How ACME HTTP-01 and DNS-01 Challenges Work Internally](https://dev.to/michaelcarter09/how-acme-http-01-and-dns-01-challenges-work-internally-4bdf)
+- [How to Decode a JWT Safely &lpar;Without Sending It to a Server&rpar;](https://dev.to/pulkitgovrani/how-to-decode-a-jwt-safely-without-sending-it-to-a-server-ki2)
+- [What a Cron Expression Actually Means &lpar;With Examples&rpar;](https://dev.to/pulkitgovrani/what-a-cron-expression-actually-means-with-examples-4kcl)
+- [Why You Should Remove EXIF Data Before Sharing Photos](https://dev.to/pulkitgovrani/why-you-should-remove-exif-data-before-sharing-photos-1a1e)
 <!-- BLOG-POST-LIST:END -->
 
