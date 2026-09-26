@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What breaks when AI apps go live](https://dev.to/gemmein/what-breaks-when-ai-apps-go-live-5db3)
-- [Gemini Notebook Adds Live Voice Conversations and Mobile Audio Recording Tools](https://dev.to/alifar/gemini-notebook-adds-live-voice-conversations-and-mobile-audio-recording-tools-18lh)
-- [Gemma 4 on Amazon SageMaker: QAT Weights Decode 2.05x Faster Than bf16 on One L4](https://dev.to/aws-builders/gemma-4-on-amazon-sagemaker-qat-weights-decode-205x-faster-than-bf16-on-one-l4-318m)
-- [AI Agents vs Traditional Automation: What&#39;s Actually Different for Security](https://dev.to/dharani2d/ai-agents-vs-traditional-automation-whats-actually-different-for-security-3n1l)
+- [&quot;Unknown&quot; was the right third value. It is not enough on its own.](https://dev.to/vereos/unknown-was-the-right-third-value-it-is-not-enough-on-its-own-pnl)
+- [Your AI Vendor Just Became a Supply-Chain Risk](https://dev.to/goodpa/your-ai-vendor-just-became-a-supply-chain-risk-21c1)
+- [Building FoxyInvoice — Chapter 11: Reach — SEO, AI crawlers, and being the machine-readable answer](https://dev.to/seolith/building-foxyinvoice-chapter-11-reach-seo-ai-crawlers-and-being-the-machine-readable-answer-24on)
+- [I built a to-do app that hatches creatures because I couldn&#39;t make myself do anything](https://dev.to/island_dev/i-built-a-to-do-app-that-hatches-creatures-because-i-couldnt-make-myself-do-anything-4ac9)
 <!-- BLOG-POST-LIST:END -->
 
