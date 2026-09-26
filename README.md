@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I’m building **Cerbère-AG**, a security evidence layer for AI agents.](https://dev.to/christopher_dikesa/im-building-cerbere-ag-a-security-evidence-layer-for-ai-agents-fgh)
-- [Kram: A Tiny macOS Tool for Taming Chaotic Folders](https://dev.to/adisng/kram-a-tiny-macos-tool-for-taming-chaotic-folders-3d0n)
-- [Como proteger sua aplicação frontend contra ataques CSRF](https://dev.to/lucasfpds/como-proteger-sua-aplicacao-frontend-contra-ataques-csrf-1iip)
-- [Day 4 - LLM - Tool Calling](https://dev.to/technonotes/day-4-llm-tool-calling-i9p)
+- [My GitHub Activity Graph Went Offline—So I Made It Static](https://dev.to/alizaminj/my-github-activity-graph-went-offline-so-i-made-it-static-4he0)
+- [Best Local AI Models for Mac by RAM &lpar;8GB–128GB&rpar;](https://dev.to/aifeed_space/best-local-ai-models-for-mac-by-ram-8gb-to-128gb-4g1g)
+- [Transferencia columnar zero-copy: Apache Arrow se une a ClickHouse en Python.](https://dev.to/william_rodriguez_65a5898/transferencia-columnar-zero-copy-apache-arrow-se-une-a-clickhouse-en-python-cn5)
+- [AI Powered Git Commit Assistant](https://dev.to/bijaydas/ai-powered-git-commit-assistant-4l9)
 <!-- BLOG-POST-LIST:END -->
 
