@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A website list is not a contact list: designing a reviewable extraction pipeline](https://dev.to/nicedayup/a-website-list-is-not-a-contact-list-designing-a-reviewable-extraction-pipeline-4g6b)
-- [Resize Hundreds of Images Offline](https://dev.to/polygonewild/resize-hundreds-of-images-offline-1940)
-- [Building a C++ File Encryptor: Practical Cryptography &amp; File I/O for Beginners](https://dev.to/jui_antigravity_1707/building-a-c-file-encryptor-practical-cryptography-file-io-for-beginners-40e3)
-- [Large SQS and SNS messages in Kotlin: the extended client pattern without Java baggage](https://dev.to/christophsens/large-sqs-and-sns-messages-in-kotlin-the-extended-client-pattern-without-java-baggage-l9d)
+- [I’m building **Cerbère-AG**, a security evidence layer for AI agents.](https://dev.to/christopher_dikesa/im-building-cerbere-ag-a-security-evidence-layer-for-ai-agents-fgh)
+- [Kram: A Tiny macOS Tool for Taming Chaotic Folders](https://dev.to/adisng/kram-a-tiny-macos-tool-for-taming-chaotic-folders-3d0n)
+- [Como proteger sua aplicação frontend contra ataques CSRF](https://dev.to/lucasfpds/como-proteger-sua-aplicacao-frontend-contra-ataques-csrf-1iip)
+- [Day 4 - LLM - Tool Calling](https://dev.to/technonotes/day-4-llm-tool-calling-i9p)
 <!-- BLOG-POST-LIST:END -->
 
