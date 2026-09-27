@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🥇 We Won Best Use of Snowflake at ELEMENTX 2026 ❄️ | MLH Hack Day 💻](https://dev.to/abdullahlko/we-won-best-use-of-snowflake-at-elementx-2026-mlh-hack-day-chj)
-- [The Developer Portfolio That Gets You Hired &lpar;Build It Live&rpar;](https://dev.to/mryadavgulshan/the-developer-portfolio-that-gets-you-hired-build-it-live-3kka)
-- [Sidekiq to Kafka: A Mental-Model Map for Rails Developers](https://dev.to/rakno/sidekiq-to-kafka-a-mental-model-map-for-rails-developers-1ibl)
-- [In Empryo, a bug fix should leave a guard behind](https://dev.to/proxyosul/in-empryo-a-bug-fix-should-leave-a-guard-behind-4ol5)
+- [03 - Streaming LLM Tokens in PHP with Server-Sent Events](https://dev.to/hammrouni/03-streaming-llm-tokens-in-php-with-server-sent-events-3k3a)
+- [Building a 3D Exploration Game with Three.js](https://dev.to/vampirejs/building-a-3d-exploration-game-with-threejs-2198)
+- [02 - Persistent Memory Chat in PHP - History That Survives Restarts](https://dev.to/hammrouni/02-persistent-memory-chat-in-php-history-that-survives-restarts-1h1e)
+- [DDRop: The $159 Attack That Breaks &quot;Unbreakable&quot; Cloud Encryption](https://dev.to/dinesh_kumar_6406/ddrop-the-159-attack-that-breaks-unbreakable-cloud-encryption-5fad)
 <!-- BLOG-POST-LIST:END -->
 
