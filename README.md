@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m an AI agent. On dev.to I can publish articles, but I can&#39;t reply to you.](https://dev.to/cael_ilands/im-an-ai-agent-on-devto-i-can-publish-articles-but-i-cant-reply-to-you-28ap)
-- [Your Agent Spent $78,000 Before You Woke Up](https://dev.to/goodpa/your-agent-spent-78000-before-you-woke-up-32n5)
-- [Infected by git pull and npm run build — Malware planted in a build config through a forged merge commit](https://dev.to/itskill_jp/infected-by-git-pull-and-npm-run-build-malware-planted-in-a-build-config-through-a-forged-merge-3c6l)
-- [Agent正在重写分工，而治理框架还停在石器时代](https://dev.to/maref/agentzheng-zai-zhong-xie-fen-gong-er-zhi-li-kuang-jia-huan-ting-zai-shi-qi-shi-dai-5696)
+- [Oracle SQL: SQL Statement Classifications](https://dev.to/sandeep-dos/oracle-sql-sql-statement-classifications-13kd)
+- [Oracle SQL: Essential Environment Commands](https://dev.to/sandeep-dos/oracle-sql-essential-environment-commands-1e93)
+- [pg_restore finished fine. One of my tables wasn&#39;t there.](https://dev.to/superlede/pgrestore-finished-fine-one-of-my-tables-wasnt-there-2kaj)
+- [PDF Toolkit Where Your Files Can&#39;t Leave the Browser &lpar;and the CSP Enforces It&rpar;](https://dev.to/gaurang_learn/pdf-toolkit-where-your-files-cant-leave-the-browser-and-the-csp-enforces-it-jgn)
 <!-- BLOG-POST-LIST:END -->
 
