@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Oracle SQL: SQL Statement Classifications](https://dev.to/sandeep-dos/oracle-sql-sql-statement-classifications-13kd)
-- [Oracle SQL: Essential Environment Commands](https://dev.to/sandeep-dos/oracle-sql-essential-environment-commands-1e93)
-- [pg_restore finished fine. One of my tables wasn&#39;t there.](https://dev.to/superlede/pgrestore-finished-fine-one-of-my-tables-wasnt-there-2kaj)
-- [PDF Toolkit Where Your Files Can&#39;t Leave the Browser &lpar;and the CSP Enforces It&rpar;](https://dev.to/gaurang_learn/pdf-toolkit-where-your-files-cant-leave-the-browser-and-the-csp-enforces-it-jgn)
+- [🥇 We Won Best Use of Snowflake at ELEMENTX 2026 ❄️ | MLH Hack Day 💻](https://dev.to/abdullahlko/we-won-best-use-of-snowflake-at-elementx-2026-mlh-hack-day-chj)
+- [The Developer Portfolio That Gets You Hired &lpar;Build It Live&rpar;](https://dev.to/mryadavgulshan/the-developer-portfolio-that-gets-you-hired-build-it-live-3kka)
+- [Sidekiq to Kafka: A Mental-Model Map for Rails Developers](https://dev.to/rakno/sidekiq-to-kafka-a-mental-model-map-for-rails-developers-1ibl)
+- [In Empryo, a bug fix should leave a guard behind](https://dev.to/proxyosul/in-empryo-a-bug-fix-should-leave-a-guard-behind-4ol5)
 <!-- BLOG-POST-LIST:END -->
 
