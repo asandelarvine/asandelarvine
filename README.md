@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [03 - Streaming LLM Tokens in PHP with Server-Sent Events](https://dev.to/hammrouni/03-streaming-llm-tokens-in-php-with-server-sent-events-3k3a)
-- [Building a 3D Exploration Game with Three.js](https://dev.to/vampirejs/building-a-3d-exploration-game-with-threejs-2198)
-- [02 - Persistent Memory Chat in PHP - History That Survives Restarts](https://dev.to/hammrouni/02-persistent-memory-chat-in-php-history-that-survives-restarts-1h1e)
-- [DDRop: The $159 Attack That Breaks &quot;Unbreakable&quot; Cloud Encryption](https://dev.to/dinesh_kumar_6406/ddrop-the-159-attack-that-breaks-unbreakable-cloud-encryption-5fad)
+- [Type &#39;frio na barriga&#39; and get the same sourced answer as &#39;butterflies in my stomach&#39;](https://dev.to/leo_pechnicki/type-frio-na-barriga-and-get-the-same-sourced-answer-as-butterflies-in-my-stomach-efn)
+- [Built a multi-player banking system](https://dev.to/mr_venom/built-a-multi-player-banking-system-4e9g)
+- [Power BI Data Modelling, Relationships and Joins: A Practical Guide to Building Effective BI Models](https://dev.to/samuelmwaurandungu/power-bi-data-modelling-relationships-and-joins-a-practical-guide-to-building-effective-bi-models-5g9)
+- [ScriptC: Vercel&#39;s Experimental Native TypeScript Compiler](https://dev.to/terminalchai/scriptc-vercels-experimental-native-typescript-compiler-e8c)
 <!-- BLOG-POST-LIST:END -->
 
