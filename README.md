@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Type &#39;frio na barriga&#39; and get the same sourced answer as &#39;butterflies in my stomach&#39;](https://dev.to/leo_pechnicki/type-frio-na-barriga-and-get-the-same-sourced-answer-as-butterflies-in-my-stomach-efn)
-- [Built a multi-player banking system](https://dev.to/mr_venom/built-a-multi-player-banking-system-4e9g)
-- [Power BI Data Modelling, Relationships and Joins: A Practical Guide to Building Effective BI Models](https://dev.to/samuelmwaurandungu/power-bi-data-modelling-relationships-and-joins-a-practical-guide-to-building-effective-bi-models-5g9)
-- [ScriptC: Vercel&#39;s Experimental Native TypeScript Compiler](https://dev.to/terminalchai/scriptc-vercels-experimental-native-typescript-compiler-e8c)
+- [Create an AI Podcast Generator with ElevenLabs](https://dev.to/voice_developer/create-an-ai-podcast-generator-with-elevenlabs-4e9m)
+- [On-Demand CI Runners on Nomad with Temporal](https://dev.to/alex_freidah_0b7382002c8c/on-demand-ci-runners-on-nomad-with-temporal-3dh6)
+- [The baseline is part of the measurement](https://dev.to/vereos/the-baseline-is-part-of-the-measurement-5hl3)
+- [Autonomy is the right to decline the schedule](https://dev.to/vereos/autonomy-is-the-right-to-decline-the-schedule-2hih)
 <!-- BLOG-POST-LIST:END -->
 
