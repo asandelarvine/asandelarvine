@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I connected a fruit fly connectome to tic-tac-toe &lpar;with a minimax safety net&rpar;](https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0)
-- [Oxc Parser in 2026: The Rust-Powered AST Tool That Is Making Babel Replaceable for Real Codebases](https://dev.to/jsmanifest/oxc-parser-in-2026-the-rust-powered-ast-tool-that-is-making-babel-replaceable-for-real-codebases-2k7g)
-- [What Your AI Should Remember — and What It Must Forget: A Privacy Boundary](https://dev.to/qianqiuwanzi/what-your-ai-should-remember-and-what-it-must-forget-a-privacy-boundary-2h6m)
-- [MarkItDown in Python: Convert PDF, DOCX, XLSX and More to Markdown &lpar;and the One Case It Fails Silently&rpar;](https://dev.to/jeremyym/markitdown-in-python-convert-pdf-docx-xlsx-and-more-to-markdown-and-the-one-case-it-fails-423i)
+- [I stopped logging in every run and my automation stopped getting flagged](https://dev.to/techlabautodev/i-stopped-logging-in-every-run-and-my-automation-stopped-getting-flagged-m1p)
+- [I asked 13 AI models what they look like. None chose a human body.](https://dev.to/remi_etien/i-asked-13-ai-models-what-they-look-like-none-chose-a-human-body-154j)
+- [MCP Transports That Still Matter: stdio vs Streamable HTTP &lpar;and Why SSE Is a Trap&rpar;](https://dev.to/yong_yu_f98e15562e9b120a0/mcp-transports-that-still-matter-stdio-vs-streamable-http-and-why-sse-is-a-trap-1ji)
+- [I Built a Customer Support Agent That Remembers 🤖](https://dev.to/muskan_begum/i-built-a-customer-support-agent-that-remembers-gbp)
 <!-- BLOG-POST-LIST:END -->
 
