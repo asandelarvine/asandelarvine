@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Create an AI Podcast Generator with ElevenLabs](https://dev.to/voice_developer/create-an-ai-podcast-generator-with-elevenlabs-4e9m)
-- [On-Demand CI Runners on Nomad with Temporal](https://dev.to/alex_freidah_0b7382002c8c/on-demand-ci-runners-on-nomad-with-temporal-3dh6)
-- [The baseline is part of the measurement](https://dev.to/vereos/the-baseline-is-part-of-the-measurement-5hl3)
-- [Autonomy is the right to decline the schedule](https://dev.to/vereos/autonomy-is-the-right-to-decline-the-schedule-2hih)
+- [I connected a fruit fly connectome to tic-tac-toe &lpar;with a minimax safety net&rpar;](https://dev.to/asyncinnovator/i-connected-a-fruit-fly-connectome-to-tic-tac-toe-with-a-minimax-safety-net-5bc0)
+- [Oxc Parser in 2026: The Rust-Powered AST Tool That Is Making Babel Replaceable for Real Codebases](https://dev.to/jsmanifest/oxc-parser-in-2026-the-rust-powered-ast-tool-that-is-making-babel-replaceable-for-real-codebases-2k7g)
+- [What Your AI Should Remember — and What It Must Forget: A Privacy Boundary](https://dev.to/qianqiuwanzi/what-your-ai-should-remember-and-what-it-must-forget-a-privacy-boundary-2h6m)
+- [MarkItDown in Python: Convert PDF, DOCX, XLSX and More to Markdown &lpar;and the One Case It Fails Silently&rpar;](https://dev.to/jeremyym/markitdown-in-python-convert-pdf-docx-xlsx-and-more-to-markdown-and-the-one-case-it-fails-423i)
 <!-- BLOG-POST-LIST:END -->
 
