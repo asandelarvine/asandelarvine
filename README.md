@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I stopped logging in every run and my automation stopped getting flagged](https://dev.to/techlabautodev/i-stopped-logging-in-every-run-and-my-automation-stopped-getting-flagged-m1p)
-- [I asked 13 AI models what they look like. None chose a human body.](https://dev.to/remi_etien/i-asked-13-ai-models-what-they-look-like-none-chose-a-human-body-154j)
-- [MCP Transports That Still Matter: stdio vs Streamable HTTP &lpar;and Why SSE Is a Trap&rpar;](https://dev.to/yong_yu_f98e15562e9b120a0/mcp-transports-that-still-matter-stdio-vs-streamable-http-and-why-sse-is-a-trap-1ji)
-- [I Built a Customer Support Agent That Remembers 🤖](https://dev.to/muskan_begum/i-built-a-customer-support-agent-that-remembers-gbp)
+- [Designing a Location Data Model That Works as a Single Source of Truth](https://dev.to/hello_nakama_f89fb103e925/designing-a-location-data-model-that-works-as-a-single-source-of-truth-5396)
+- [Why my agent returns zero memories for new vendors](https://dev.to/pavani_praharshitha_9ef49/why-my-agent-returns-zero-memories-for-new-vendors-3h93)
+- [I shipped a themeable component. It ignored every theme.](https://dev.to/juandagarcia/i-shipped-a-themeable-component-it-ignored-every-theme-5doh)
+- [Why my agent returns zero memories for new vendors](https://dev.to/hasini_aedlapalli_112f66b/why-my-agent-returns-zero-memories-for-new-vendors-48od)
 <!-- BLOG-POST-LIST:END -->
 
