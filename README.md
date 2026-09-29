@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ResolveIQ.AI: Building an AI Customer Support Agent That Actually Remembers](https://dev.to/vinay_vadlakonda_e4dc05c2/resolveiqai-building-an-ai-customer-support-agent-that-actually-remembers-4af2)
-- [DocSemantic: catching API spec drift in CI before your customers do](https://dev.to/docsemantic/docsemantic-catching-api-spec-drift-in-ci-before-your-customers-do-21ah)
-- [What was your win this week?](https://dev.to/amzi_smith_dcf6ed9560d191/what-was-your-win-this-week-3e7e)
-- [How to Use Gemini Nano in a Capacitor App](https://dev.to/capawesome/how-to-use-gemini-nano-in-a-capacitor-app-5fgf)
+- [TypeScript Email Fixtures Need One Owner](https://dev.to/ryanlee91/typescript-email-fixtures-need-one-owner-ooc)
+- [I Asked AI to Improve My Resume. It Started Asking Me for Numbers Instead.](https://dev.to/hram/i-asked-ai-to-improve-my-resume-it-started-asking-me-for-numbers-instead-5bem)
+- [Will your dependencies run on Cloudflare Workers? Check before you deploy](https://dev.to/godofweb/will-your-dependencies-run-on-cloudflare-workers-check-before-you-deploy-3eb4)
+- [A Property Inquiry Agent with React, MCP, and Hybrid RAG](https://dev.to/srnux/a-property-inquiry-agent-with-react-mcp-and-hybrid-rag-34cb)
 <!-- BLOG-POST-LIST:END -->
 
