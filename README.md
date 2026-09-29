@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [onnxruntime-web numThreads silently falls back to 1 without COOP/COEP &lpar;6318 ms vs 2133 ms&rpar;](https://dev.to/iterandum/onnxruntime-web-numthreads-silently-falls-back-to-1-without-coopcoep-6318-ms-vs-2133-ms-8i2)
-- [ForgeCMS: a CMS without a database, and our users decide what gets built next](https://dev.to/artanidos/forgecms-a-cms-without-a-database-and-our-users-decide-what-gets-built-next-5ghj)
-- [The 8B Local Model Was Worse Than the 4B One](https://dev.to/toddsullivan/the-8b-local-model-was-worse-than-the-4b-one-47h0)
-- [Five bugs that only exist in a reverse proxy &lpar;and the Rust that fixed them&rpar;](https://dev.to/bunty9/five-bugs-that-only-exist-in-a-reverse-proxy-and-the-rust-that-fixed-them-7gn)
+- [ResolveIQ.AI: Building an AI Customer Support Agent That Actually Remembers](https://dev.to/vinay_vadlakonda_e4dc05c2/resolveiqai-building-an-ai-customer-support-agent-that-actually-remembers-4af2)
+- [DocSemantic: catching API spec drift in CI before your customers do](https://dev.to/docsemantic/docsemantic-catching-api-spec-drift-in-ci-before-your-customers-do-21ah)
+- [What was your win this week?](https://dev.to/amzi_smith_dcf6ed9560d191/what-was-your-win-this-week-3e7e)
+- [How to Use Gemini Nano in a Capacitor App](https://dev.to/capawesome/how-to-use-gemini-nano-in-a-capacitor-app-5fgf)
 <!-- BLOG-POST-LIST:END -->
 
