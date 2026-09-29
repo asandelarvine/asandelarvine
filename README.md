@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Location Data Model That Works as a Single Source of Truth](https://dev.to/hello_nakama_f89fb103e925/designing-a-location-data-model-that-works-as-a-single-source-of-truth-5396)
-- [Why my agent returns zero memories for new vendors](https://dev.to/pavani_praharshitha_9ef49/why-my-agent-returns-zero-memories-for-new-vendors-3h93)
-- [I shipped a themeable component. It ignored every theme.](https://dev.to/juandagarcia/i-shipped-a-themeable-component-it-ignored-every-theme-5doh)
-- [Why my agent returns zero memories for new vendors](https://dev.to/hasini_aedlapalli_112f66b/why-my-agent-returns-zero-memories-for-new-vendors-48od)
+- [Everything as Code: The Infrastructure Revolution Transforming Modern Engineering](https://dev.to/said_olano/everything-as-code-the-infrastructure-revolution-transforming-modern-engineering-24jd)
+- [A decision that survives the process: a small Selvedge walkthrough](https://dev.to/masondelan/a-decision-that-survives-the-process-a-small-selvedge-walkthrough-4epo)
+- [MemoryDesk: Building an AI Customer Support Agent with Presistent Memory](https://dev.to/safwan_akram_f0dd7144d825/memorydesk-building-an-ai-customer-support-agent-with-presistent-memory-omn)
+- [Building CodeMind: An AI Code Review Agent With Persistent Memory](https://dev.to/prudhvi_duvvu_927640052d1/building-codemind-an-ai-code-review-agent-with-persistent-memory-39h4)
 <!-- BLOG-POST-LIST:END -->
 
