@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything as Code: The Infrastructure Revolution Transforming Modern Engineering](https://dev.to/said_olano/everything-as-code-the-infrastructure-revolution-transforming-modern-engineering-24jd)
-- [A decision that survives the process: a small Selvedge walkthrough](https://dev.to/masondelan/a-decision-that-survives-the-process-a-small-selvedge-walkthrough-4epo)
-- [MemoryDesk: Building an AI Customer Support Agent with Presistent Memory](https://dev.to/safwan_akram_f0dd7144d825/memorydesk-building-an-ai-customer-support-agent-with-presistent-memory-omn)
-- [Building CodeMind: An AI Code Review Agent With Persistent Memory](https://dev.to/prudhvi_duvvu_927640052d1/building-codemind-an-ai-code-review-agent-with-persistent-memory-39h4)
+- [onnxruntime-web numThreads silently falls back to 1 without COOP/COEP &lpar;6318 ms vs 2133 ms&rpar;](https://dev.to/iterandum/onnxruntime-web-numthreads-silently-falls-back-to-1-without-coopcoep-6318-ms-vs-2133-ms-8i2)
+- [ForgeCMS: a CMS without a database, and our users decide what gets built next](https://dev.to/artanidos/forgecms-a-cms-without-a-database-and-our-users-decide-what-gets-built-next-5ghj)
+- [The 8B Local Model Was Worse Than the 4B One](https://dev.to/toddsullivan/the-8b-local-model-was-worse-than-the-4b-one-47h0)
+- [Five bugs that only exist in a reverse proxy &lpar;and the Rust that fixed them&rpar;](https://dev.to/bunty9/five-bugs-that-only-exist-in-a-reverse-proxy-and-the-rust-that-fixed-them-7gn)
 <!-- BLOG-POST-LIST:END -->
 
