@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How SIMD works in Mojo](https://dev.to/envitab/how-simd-works-in-mojo-2lfd)
-- [Why Does HPC Need InfiniBand?](https://dev.to/zubairakbar/why-does-hpc-need-infiniband-2c9e)
-- [What&#39;s calling your Fastify API?](https://dev.to/webdecoy/whats-calling-your-fastify-api-3kfh)
-- [Cloudflare May Be Blocking Googlebot On Your Site, And robots.txt Will Not Tell You](https://dev.to/rankcli/cloudflare-may-be-blocking-googlebot-on-your-site-and-robotstxt-will-not-tell-you-3i5h)
+- [How to Write Text That Sounds Great When Spoken by AI](https://dev.to/voice_developer/how-to-write-text-that-sounds-great-when-spoken-by-ai-4ika)
+- [Novastart](https://dev.to/novastart/novastart-h8b)
+- [How to add ads to a Flutter app in 5 minutes](https://dev.to/adpluga/how-to-add-ads-to-a-flutter-app-in-5-minutes-5d70)
+- [Building Verifiable Knowledge in MyZubster: From Stable Evidence IDs to Proof v3](https://dev.to/n4k48/building-verifiable-knowledge-in-myzubster-from-stable-evidence-ids-to-proof-v3-kob)
 <!-- BLOG-POST-LIST:END -->
 
