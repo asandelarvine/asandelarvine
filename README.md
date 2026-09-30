@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Helm Explained: Stop Managing Dozens of YAML Files Manually](https://dev.to/yash_sonawane25/kubernetes-helm-explained-stop-managing-dozens-of-yaml-files-manually-p16)
-- [One C# renderer for every social image: job cards in Arabic and French with GDI+](https://dev.to/wadifainfo/one-c-renderer-for-every-social-image-job-cards-in-arabic-and-french-with-gdi-530f)
-- [Build an AI Email Lead Follow-Up Workflow with n8n, OpenAI &amp; Gmail](https://dev.to/hashim_khan_cb87a5b9a3613/build-an-ai-email-lead-follow-up-workflow-with-n8n-openai-gmail-2dk3)
-- [Your AI Finished the Ticket. Why Is the Feature Still Wrong?](https://dev.to/yura_solovey/your-ai-finished-the-ticket-why-is-the-feature-still-wrong-24c1)
+- [How SIMD works in Mojo](https://dev.to/envitab/how-simd-works-in-mojo-2lfd)
+- [Why Does HPC Need InfiniBand?](https://dev.to/zubairakbar/why-does-hpc-need-infiniband-2c9e)
+- [What&#39;s calling your Fastify API?](https://dev.to/webdecoy/whats-calling-your-fastify-api-3kfh)
+- [Cloudflare May Be Blocking Googlebot On Your Site, And robots.txt Will Not Tell You](https://dev.to/rankcli/cloudflare-may-be-blocking-googlebot-on-your-site-and-robotstxt-will-not-tell-you-3i5h)
 <!-- BLOG-POST-LIST:END -->
 
