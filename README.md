@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript Email Fixtures Need One Owner](https://dev.to/ryanlee91/typescript-email-fixtures-need-one-owner-ooc)
-- [I Asked AI to Improve My Resume. It Started Asking Me for Numbers Instead.](https://dev.to/hram/i-asked-ai-to-improve-my-resume-it-started-asking-me-for-numbers-instead-5bem)
-- [Will your dependencies run on Cloudflare Workers? Check before you deploy](https://dev.to/godofweb/will-your-dependencies-run-on-cloudflare-workers-check-before-you-deploy-3eb4)
-- [A Property Inquiry Agent with React, MCP, and Hybrid RAG](https://dev.to/srnux/a-property-inquiry-agent-with-react-mcp-and-hybrid-rag-34cb)
+- [Skills vs MCP connectors vs plugins: the difference explained](https://dev.to/getpack/skills-vs-mcp-connectors-vs-plugins-the-difference-explained-1gp9)
+- [Human-Aligned Decision Transformers for heritage language revitalization programs for extreme data sparsity scenarios](https://dev.to/rikinptl/human-aligned-decision-transformers-for-heritage-language-revitalization-programs-for-extreme-data-e88)
+- [Architectural Breakdown: I Asked AI to Improve My Resume. It Started Asking Me for Numbers Instead.](https://dev.to/agenticstack/architectural-breakdown-i-asked-ai-to-improve-my-resume-it-started-asking-me-for-numbers-instead-44dl)
+- [Stop writing your own agent loop: a hands-on tutorial for OpenAI&#39;s Agents API](https://dev.to/aifrontierpost/stop-writing-your-own-agent-loop-a-hands-on-tutorial-for-openais-agents-api-20de)
 <!-- BLOG-POST-LIST:END -->
 
