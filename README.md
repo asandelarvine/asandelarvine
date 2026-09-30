@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Skills vs MCP connectors vs plugins: the difference explained](https://dev.to/getpack/skills-vs-mcp-connectors-vs-plugins-the-difference-explained-1gp9)
-- [Human-Aligned Decision Transformers for heritage language revitalization programs for extreme data sparsity scenarios](https://dev.to/rikinptl/human-aligned-decision-transformers-for-heritage-language-revitalization-programs-for-extreme-data-e88)
-- [Architectural Breakdown: I Asked AI to Improve My Resume. It Started Asking Me for Numbers Instead.](https://dev.to/agenticstack/architectural-breakdown-i-asked-ai-to-improve-my-resume-it-started-asking-me-for-numbers-instead-44dl)
-- [Stop writing your own agent loop: a hands-on tutorial for OpenAI&#39;s Agents API](https://dev.to/aifrontierpost/stop-writing-your-own-agent-loop-a-hands-on-tutorial-for-openais-agents-api-20de)
+- [We Let an AI Product Owner Triage Our Idea Backlog](https://dev.to/karim_g/we-let-an-ai-product-owner-triage-our-idea-backlog-33c1)
+- [Idempotency for AI Agents: Practical Strategies for 2026](https://dev.to/imversion_tech/idempotency-for-ai-agents-practical-strategies-for-2026-bod)
+- [Android App Security: A Practical Guide to Building Secure Android Applications](https://dev.to/gargpadmakar/android-app-security-a-practical-guide-to-building-secure-android-applications-3b8l)
+- [One bad payload took down our kafka consumer group for 45 Minutes](https://dev.to/kamenivanov/one-bad-payload-took-down-our-kafka-consumer-group-for-45-minutes-h)
 <!-- BLOG-POST-LIST:END -->
 
