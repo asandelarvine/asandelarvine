@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write Text That Sounds Great When Spoken by AI](https://dev.to/voice_developer/how-to-write-text-that-sounds-great-when-spoken-by-ai-4ika)
-- [Novastart](https://dev.to/novastart/novastart-h8b)
-- [How to add ads to a Flutter app in 5 minutes](https://dev.to/adpluga/how-to-add-ads-to-a-flutter-app-in-5-minutes-5d70)
-- [Building Verifiable Knowledge in MyZubster: From Stable Evidence IDs to Proof v3](https://dev.to/n4k48/building-verifiable-knowledge-in-myzubster-from-stable-evidence-ids-to-proof-v3-kob)
+- [Constitutional Engineering: What Two Days of a Three-Copy Word List Taught Me About Agent Governance](https://dev.to/maref/constitutional-engineering-what-two-days-of-a-three-copy-word-list-taught-me-about-agent-governance-447g)
+- [Finding the sentence that made an AI agent misbehave](https://dev.to/rehan_mohammed_5b7a1ad99e/finding-the-sentence-that-made-an-ai-agent-misbehave-30f7)
+- [Find every Shopify, WordPress and HubSpot site in a lead list: tech stack lookup with evidence in Python](https://dev.to/siftwright/find-every-shopify-wordpress-and-hubspot-site-in-a-lead-list-tech-stack-lookup-with-evidence-in-4oi5)
+- [Architecting a Low-Power Geofencing Engine: Lessons from Battery Optimization](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-lessons-from-battery-optimization-3g02)
 <!-- BLOG-POST-LIST:END -->
 
