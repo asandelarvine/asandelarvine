@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The agent had authority when it started. That was not enough.](https://dev.to/sara_mo/the-agent-had-authority-when-it-started-that-was-not-enough-2f34)
-- [Maintain a VPN Access Inventory Without Turning It into a Secret Store](https://dev.to/m_montazeri/maintain-a-vpn-access-inventory-without-turning-it-into-a-secret-store-4a1c)
-- [Designing a Governed AI Control Plane for Asia Marketing with Databricks Unity Gateway - Hong Kong Databricks FSI Community Day 2026](https://dev.to/martindd/designing-a-governed-ai-control-plane-for-asia-marketing-with-databricks-unity-gateway-hong-kong-joj)
-- [A Near Miss Is a Design Decision, Not Just a Collision Check](https://dev.to/kfiradut/a-near-miss-is-a-design-decision-not-just-a-collision-check-14ab)
+- [How Small Feedback Loops Make Product Decisions Lighter](https://dev.to/rishita_sharma_b0aa1ff81a/how-small-feedback-loops-make-product-decisions-lighter-3a50)
+- [I ran six coding agents on seven local models, 30 times each](https://dev.to/gsirigu/i-ran-six-coding-agents-on-seven-local-models-30-times-each-2m82)
+- [&quot;From Localhost to Live URL: The Zero-Friction Guide to Vercel and Custom Domains&quot;](https://dev.to/suman_chaitanya_402c1444f/from-localhost-to-live-url-the-zero-friction-guide-to-vercel-and-custom-domains-50op)
+- [Simple TCP Client in Python](https://dev.to/raghavvram_johnson/simple-tcp-client-in-python-1k8)
 <!-- BLOG-POST-LIST:END -->
 
