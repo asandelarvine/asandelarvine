@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Small Feedback Loops Make Product Decisions Lighter](https://dev.to/rishita_sharma_b0aa1ff81a/how-small-feedback-loops-make-product-decisions-lighter-3a50)
-- [I ran six coding agents on seven local models, 30 times each](https://dev.to/gsirigu/i-ran-six-coding-agents-on-seven-local-models-30-times-each-2m82)
-- [&quot;From Localhost to Live URL: The Zero-Friction Guide to Vercel and Custom Domains&quot;](https://dev.to/suman_chaitanya_402c1444f/from-localhost-to-live-url-the-zero-friction-guide-to-vercel-and-custom-domains-50op)
-- [Simple TCP Client in Python](https://dev.to/raghavvram_johnson/simple-tcp-client-in-python-1k8)
+- [Hacktoberfest 2026 DEV Challenges: Five Challenges, One Prompt, a New Theme Every Week](https://dev.to/devteam/hacktoberfest-2026-dev-challenges-five-challenges-one-prompt-a-new-theme-every-week-1e54)
+- [How to Stop Runaway LLM Agent Loops from Draining Your Credit Card](https://dev.to/aliyunazeer07/how-to-stop-runaway-llm-agent-loops-from-draining-your-credit-card-196b)
+- [O que realmente acontece quando você digita dotnet run?](https://dev.to/bea_tavernaro/o-que-realmente-acontece-quando-voce-digita-dotnet-run-f8h)
+- [Avatar Crop Cuts Off Heads — Debug Smart Framing Through Upload Alerts](https://dev.to/frosty45/avatar-crop-cuts-off-heads-debug-smart-framing-through-upload-alerts-1o43)
 <!-- BLOG-POST-LIST:END -->
 
