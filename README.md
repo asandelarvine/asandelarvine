@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Constitutional Engineering: What Two Days of a Three-Copy Word List Taught Me About Agent Governance](https://dev.to/maref/constitutional-engineering-what-two-days-of-a-three-copy-word-list-taught-me-about-agent-governance-447g)
-- [Finding the sentence that made an AI agent misbehave](https://dev.to/rehan_mohammed_5b7a1ad99e/finding-the-sentence-that-made-an-ai-agent-misbehave-30f7)
-- [Find every Shopify, WordPress and HubSpot site in a lead list: tech stack lookup with evidence in Python](https://dev.to/siftwright/find-every-shopify-wordpress-and-hubspot-site-in-a-lead-list-tech-stack-lookup-with-evidence-in-4oi5)
-- [Architecting a Low-Power Geofencing Engine: Lessons from Battery Optimization](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-lessons-from-battery-optimization-3g02)
+- [The agent had authority when it started. That was not enough.](https://dev.to/sara_mo/the-agent-had-authority-when-it-started-that-was-not-enough-2f34)
+- [Maintain a VPN Access Inventory Without Turning It into a Secret Store](https://dev.to/m_montazeri/maintain-a-vpn-access-inventory-without-turning-it-into-a-secret-store-4a1c)
+- [Designing a Governed AI Control Plane for Asia Marketing with Databricks Unity Gateway - Hong Kong Databricks FSI Community Day 2026](https://dev.to/martindd/designing-a-governed-ai-control-plane-for-asia-marketing-with-databricks-unity-gateway-hong-kong-joj)
+- [A Near Miss Is a Design Decision, Not Just a Collision Check](https://dev.to/kfiradut/a-near-miss-is-a-design-decision-not-just-a-collision-check-14ab)
 <!-- BLOG-POST-LIST:END -->
 
