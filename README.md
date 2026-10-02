@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Our own forwarder was laundering spam past Gmail, and the fix flags rather than drops](https://dev.to/daniel_pertu/our-own-forwarder-was-laundering-spam-past-gmail-and-the-fix-flags-rather-than-drops-4a12)
-- [What a progressive JPEG shows with only 10% of its bytes](https://dev.to/token111/what-a-progressive-jpeg-shows-with-only-10-of-its-bytes-4220)
-- [监管加速落地，AI Agent「合规红利」窗口正在关闭——一份审计链路的工程观察](https://dev.to/maref/jian-guan-jia-su-luo-di-ai-agenthe-gui-hong-li-chuang-kou-zheng-zai-guan-bi-fen-shen-ji-lian-lu-de-gong-cheng-guan-cha-38f3)
-- [pkg-topic-fantasy-elf-森林里的安全协议-1786975392-6](https://dev.to/maref/pkg-topic-fantasy-elf-sen-lin-li-de-an-quan-xie-yi-1786975392-6-2n57)
+- [Postgres Multi-Tenancy: Row-Level Security, tenant_id Filters, or a Schema per Tenant?](https://dev.to/libme/postgres-multi-tenancy-row-level-security-tenantid-filters-or-a-schema-per-tenant-11j9)
+- [Grading piano timing in the browser with Web MIDI](https://dev.to/tiltedlunar123/grading-piano-timing-in-the-browser-with-web-midi-90g)
+- [Sample Article_User Stories in Agile: How to Write Effective User Stories](https://dev.to/neha_tripathi_08/sample-articleuser-stories-in-agile-how-to-write-effective-user-stories-2h43)
+- [Designing an Event-Driven IoT Architecture for Real-Time Smart Venue Data](https://dev.to/growthmuse831/designing-an-event-driven-iot-architecture-for-real-time-smart-venue-data-2hpa)
 <!-- BLOG-POST-LIST:END -->
 
