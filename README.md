@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacktoberfest 2026 DEV Challenges: Five Challenges, One Prompt, a New Theme Every Week](https://dev.to/devteam/hacktoberfest-2026-dev-challenges-five-challenges-one-prompt-a-new-theme-every-week-1e54)
-- [How to Stop Runaway LLM Agent Loops from Draining Your Credit Card](https://dev.to/aliyunazeer07/how-to-stop-runaway-llm-agent-loops-from-draining-your-credit-card-196b)
-- [O que realmente acontece quando você digita dotnet run?](https://dev.to/bea_tavernaro/o-que-realmente-acontece-quando-voce-digita-dotnet-run-f8h)
-- [Avatar Crop Cuts Off Heads — Debug Smart Framing Through Upload Alerts](https://dev.to/frosty45/avatar-crop-cuts-off-heads-debug-smart-framing-through-upload-alerts-1o43)
+- [CVE-2026-67401 Analysis — cPanel &amp; WHM EmailTrack SQL Injection, From Mail Account to Root](https://dev.to/guidance_white/cve-2026-67401-analysis-cpanel-whm-emailtrack-sql-injection-from-mail-account-to-root-3e45)
+- [Processing video in the browser without ffmpeg.wasm: WebCodecs + MediaBunny, 95s 9s](https://dev.to/sharksevenro/processing-video-in-the-browser-without-ffmpegwasm-webcodecs-mediabunny-95s-9s-34p)
+- [I Analyzed 2,315 Wordle Answers to Find the Best Starting Words](https://dev.to/michaelbrooks20760ux/i-analyzed-2315-wordle-answers-to-find-the-best-starting-words-4kg3)
+- [Silent Cron Runs: A Backend Metrics Dashboard Beyond API Failures](https://dev.to/jaxmonroe3187/silent-cron-runs-a-backend-metrics-dashboard-beyond-api-failures-1bgf)
 <!-- BLOG-POST-LIST:END -->
 
