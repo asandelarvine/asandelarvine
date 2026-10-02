@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Postgres Multi-Tenancy: Row-Level Security, tenant_id Filters, or a Schema per Tenant?](https://dev.to/libme/postgres-multi-tenancy-row-level-security-tenantid-filters-or-a-schema-per-tenant-11j9)
-- [Grading piano timing in the browser with Web MIDI](https://dev.to/tiltedlunar123/grading-piano-timing-in-the-browser-with-web-midi-90g)
-- [Sample Article_User Stories in Agile: How to Write Effective User Stories](https://dev.to/neha_tripathi_08/sample-articleuser-stories-in-agile-how-to-write-effective-user-stories-2h43)
-- [Designing an Event-Driven IoT Architecture for Real-Time Smart Venue Data](https://dev.to/growthmuse831/designing-an-event-driven-iot-architecture-for-real-time-smart-venue-data-2hpa)
+- [Cloudflare Launched Clef. Let&#39;s Build a Tiny Decision Gate in TypeScript.](https://dev.to/bobbyhalljr/cloudflare-launched-clef-lets-build-a-tiny-decision-gate-in-typescript-can)
+- [Por que os assistentes de IA ainda erram tanto &lpar;e o que fazer sobre isso&rpar;](https://dev.to/aws/por-que-os-assistentes-de-ia-ainda-erram-tanto-e-o-que-fazer-sobre-isso-4n00)
+- [Write Markdown Once, Publish It Everywhere: dev.to, Medium, AWS Builder Center and LinkedIn](https://dev.to/aws-builders/write-markdown-once-publish-it-everywhere-devto-medium-aws-builder-center-and-linkedin-kbl)
+- [Write Markdown Once, Publish It Everywhere: dev.to, Medium, AWS Builder Center and LinkedIn](https://dev.to/gde/write-markdown-once-publish-it-everywhere-devto-medium-aws-builder-center-and-linkedin-np4)
 <!-- BLOG-POST-LIST:END -->
 
