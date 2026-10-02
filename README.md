@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-67401 Analysis — cPanel &amp; WHM EmailTrack SQL Injection, From Mail Account to Root](https://dev.to/guidance_white/cve-2026-67401-analysis-cpanel-whm-emailtrack-sql-injection-from-mail-account-to-root-3e45)
-- [Processing video in the browser without ffmpeg.wasm: WebCodecs + MediaBunny, 95s 9s](https://dev.to/sharksevenro/processing-video-in-the-browser-without-ffmpegwasm-webcodecs-mediabunny-95s-9s-34p)
-- [I Analyzed 2,315 Wordle Answers to Find the Best Starting Words](https://dev.to/michaelbrooks20760ux/i-analyzed-2315-wordle-answers-to-find-the-best-starting-words-4kg3)
-- [Silent Cron Runs: A Backend Metrics Dashboard Beyond API Failures](https://dev.to/jaxmonroe3187/silent-cron-runs-a-backend-metrics-dashboard-beyond-api-failures-1bgf)
+- [Our own forwarder was laundering spam past Gmail, and the fix flags rather than drops](https://dev.to/daniel_pertu/our-own-forwarder-was-laundering-spam-past-gmail-and-the-fix-flags-rather-than-drops-4a12)
+- [What a progressive JPEG shows with only 10% of its bytes](https://dev.to/token111/what-a-progressive-jpeg-shows-with-only-10-of-its-bytes-4220)
+- [监管加速落地，AI Agent「合规红利」窗口正在关闭——一份审计链路的工程观察](https://dev.to/maref/jian-guan-jia-su-luo-di-ai-agenthe-gui-hong-li-chuang-kou-zheng-zai-guan-bi-fen-shen-ji-lian-lu-de-gong-cheng-guan-cha-38f3)
+- [pkg-topic-fantasy-elf-森林里的安全协议-1786975392-6](https://dev.to/maref/pkg-topic-fantasy-elf-sen-lin-li-de-an-quan-xie-yi-1786975392-6-2n57)
 <!-- BLOG-POST-LIST:END -->
 
