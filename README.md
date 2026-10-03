@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Code Review Paradox: Redefining Quality in the Era of AI Agents &amp; Hacktoberfest 2026](https://dev.to/tamizuddin/the-code-review-paradox-redefining-quality-in-the-era-of-ai-agents-hacktoberfest-2026-28b9)
-- [Relocating High-Performance Server to Networking Closet for Improved Setup and Functionality](https://dev.to/elenbit/relocating-high-performance-server-to-networking-closet-for-improved-setup-and-functionality-36da)
-- [E-Governance for Vernacular India: Moving from Lexical to Sparse-Vector Hybrid Search](https://dev.to/zobo_07/e-governance-for-vernacular-india-moving-from-lexical-to-sparse-vector-hybrid-search-2ec)
-- [Architectural Breakdown: Road to State Machines IV - But How Do We Let Data Influence Transitions Wi](https://dev.to/agenticstack/architectural-breakdown-road-to-state-machines-iv-but-how-do-we-let-data-influence-transitions-wi-l93)
+- [Handling Legal Document Metadata and File Integrity in Cross-Border Civil Registration Workflows](https://dev.to/diogoheleno/handling-legal-document-metadata-and-file-integrity-in-cross-border-civil-registration-workflows-3988)
+- [Building a Zero-Trust Faculty Recruitment Agent &amp; AI Triage Pipeline with Sanity CMS &amp; Gemini published](https://dev.to/kaushik_patil_b20f74fe212/building-a-zero-trust-faculty-recruitment-agent-ai-triage-pipeline-with-sanity-cms-gemini-g11)
+- [Structured Outputs for AI-Generated Financial Models: Schemas Before Spreadsheets](https://dev.to/feasibilityproaiai/structured-outputs-for-ai-generated-financial-models-schemas-before-spreadsheets-3e0h)
+- [Why SOP Templates Beat Blank Docs for Small Businesses](https://dev.to/victordisouza39/why-sop-templates-beat-blank-docs-for-small-businesses-1c3g)
 <!-- BLOG-POST-LIST:END -->
 
