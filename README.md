@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Much RAM Do You Actually Need for a Proxmox Home Server?](https://dev.to/vosik__/how-much-ram-do-you-actually-need-for-a-proxmox-home-server-27a5)
-- [Marimo Notebooks: Self-Hostable Solution for Secure Team Collaboration and Management](https://dev.to/romdevin/marimo-notebooks-self-hostable-solution-for-secure-team-collaboration-and-management-1d3p)
-- [Notas desde el Pase: Cada menú apuntaba a la misma fila](https://dev.to/ortizfranklindev/notas-desde-el-pase-cada-menu-apuntaba-a-la-misma-fila-30hm)
-- [Why I killed the $9 pack and priced per lookup at $0.10](https://dev.to/tigeropswin/why-i-killed-the-9-pack-and-priced-per-lookup-at-010-32mj)
+- [DeepSeek 4.1: MoE de 256 Especialistas, MTP-4x e DualPipe 2.0](https://dev.to/ricardofriba/deepseek-41-moe-de-256-especialistas-mtp-4x-e-dualpipe-20-5b2b)
+- [Fundamentals of redis&lpar;caching&rpar;, why we use REDIS? or origin of it](https://dev.to/coderahul1/fundamentals-of-rediscaching-why-we-use-redis-or-origin-of-it-5cil)
+- [CLAUDE.md: what it is, what to put in it, and examples](https://dev.to/forrestzhang/claudemd-what-it-is-what-to-put-in-it-and-examples-3ng6)
+- [Scenario testing for REST APIs: writing user-journey tests from OpenAPI](https://dev.to/jeff_pdc/scenario-testing-for-rest-apis-writing-user-journey-tests-from-openapi-f2l)
 <!-- BLOG-POST-LIST:END -->
 
