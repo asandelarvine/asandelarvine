@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Legal Document Metadata and File Integrity in Cross-Border Civil Registration Workflows](https://dev.to/diogoheleno/handling-legal-document-metadata-and-file-integrity-in-cross-border-civil-registration-workflows-3988)
-- [Building a Zero-Trust Faculty Recruitment Agent &amp; AI Triage Pipeline with Sanity CMS &amp; Gemini published](https://dev.to/kaushik_patil_b20f74fe212/building-a-zero-trust-faculty-recruitment-agent-ai-triage-pipeline-with-sanity-cms-gemini-g11)
-- [Structured Outputs for AI-Generated Financial Models: Schemas Before Spreadsheets](https://dev.to/feasibilityproaiai/structured-outputs-for-ai-generated-financial-models-schemas-before-spreadsheets-3e0h)
-- [Why SOP Templates Beat Blank Docs for Small Businesses](https://dev.to/victordisouza39/why-sop-templates-beat-blank-docs-for-small-businesses-1c3g)
+- [How Much RAM Do You Actually Need for a Proxmox Home Server?](https://dev.to/vosik__/how-much-ram-do-you-actually-need-for-a-proxmox-home-server-27a5)
+- [Marimo Notebooks: Self-Hostable Solution for Secure Team Collaboration and Management](https://dev.to/romdevin/marimo-notebooks-self-hostable-solution-for-secure-team-collaboration-and-management-1d3p)
+- [Notas desde el Pase: Cada menú apuntaba a la misma fila](https://dev.to/ortizfranklindev/notas-desde-el-pase-cada-menu-apuntaba-a-la-misma-fila-30hm)
+- [Why I killed the $9 pack and priced per lookup at $0.10](https://dev.to/tigeropswin/why-i-killed-the-9-pack-and-priced-per-lookup-at-010-32mj)
 <!-- BLOG-POST-LIST:END -->
 
