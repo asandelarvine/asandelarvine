@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Launched Clef. Let&#39;s Build a Tiny Decision Gate in TypeScript.](https://dev.to/bobbyhalljr/cloudflare-launched-clef-lets-build-a-tiny-decision-gate-in-typescript-can)
-- [Por que os assistentes de IA ainda erram tanto &lpar;e o que fazer sobre isso&rpar;](https://dev.to/aws/por-que-os-assistentes-de-ia-ainda-erram-tanto-e-o-que-fazer-sobre-isso-4n00)
-- [Write Markdown Once, Publish It Everywhere: dev.to, Medium, AWS Builder Center and LinkedIn](https://dev.to/aws-builders/write-markdown-once-publish-it-everywhere-devto-medium-aws-builder-center-and-linkedin-kbl)
-- [Write Markdown Once, Publish It Everywhere: dev.to, Medium, AWS Builder Center and LinkedIn](https://dev.to/gde/write-markdown-once-publish-it-everywhere-devto-medium-aws-builder-center-and-linkedin-np4)
+- [The Code Review Paradox: Redefining Quality in the Era of AI Agents &amp; Hacktoberfest 2026](https://dev.to/tamizuddin/the-code-review-paradox-redefining-quality-in-the-era-of-ai-agents-hacktoberfest-2026-28b9)
+- [Relocating High-Performance Server to Networking Closet for Improved Setup and Functionality](https://dev.to/elenbit/relocating-high-performance-server-to-networking-closet-for-improved-setup-and-functionality-36da)
+- [E-Governance for Vernacular India: Moving from Lexical to Sparse-Vector Hybrid Search](https://dev.to/zobo_07/e-governance-for-vernacular-india-moving-from-lexical-to-sparse-vector-hybrid-search-2ec)
+- [Architectural Breakdown: Road to State Machines IV - But How Do We Let Data Influence Transitions Wi](https://dev.to/agenticstack/architectural-breakdown-road-to-state-machines-iv-but-how-do-we-let-data-influence-transitions-wi-l93)
 <!-- BLOG-POST-LIST:END -->
 
