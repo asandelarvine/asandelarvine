@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hiding the table is not enough. Your LLM can still see the salary column.](https://dev.to/ashish_sinha_5241c7673d93/hiding-the-table-is-not-enough-your-llm-can-still-see-the-salary-column-12ne)
-- [Nightly Pipeline Reconstruction — Serverless Polling Windows for Error Tracking API Timeouts](https://dev.to/lunarbreeze4173085/nightly-pipeline-reconstruction-serverless-polling-windows-for-error-tracking-api-timeouts-2a1a)
-- [📺 What happens when you let autonomous AI agents run a 24/7 television network?](https://dev.to/cholorine/what-happens-when-you-let-autonomous-ai-agents-run-a-247-television-network-36en)
-- [FTL: propone aislar contenedores como una VM](https://dev.to/lu1tr0n/ftl-propone-aislar-contenedores-como-una-vm-5flf)
+- [MCP Security in Practice: Prompt Injection, Least Privilege, and Audit Logs](https://dev.to/jeff_pdc/mcp-security-in-practice-prompt-injection-least-privilege-and-audit-logs-3k41)
+- [Weekly Website Highlight: A Social Network That Deletes Yesterday](https://dev.to/base31/weekly-website-highlight-a-social-network-that-deletes-yesterday-4oop)
+- [Canvas doesn&#39;t wrap text — my OG image generator painted titles off the 1200px edge](https://dev.to/imapphelp/canvas-doesnt-wrap-text-my-og-image-generator-painted-titles-off-the-1200px-edge-21jp)
+- [AI agent architecture: model, harness and intent](https://dev.to/irr123456/ai-agent-architecture-model-harness-and-intent-3018)
 <!-- BLOG-POST-LIST:END -->
 
