@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Taskflow Local: I rebuilt my task manager for a friend who just wants to say what needs to be done](https://dev.to/s_srinivasan/taskflow-local-i-rebuilt-my-task-manager-for-a-friend-who-just-wants-to-say-what-needs-to-be-done-1kpo)
-- [Beyond the First Answer: When Retrieval Becomes Investigation](https://dev.to/ruchita_nimkar_fb6fcaab1f/beyond-the-first-answer-when-retrieval-becomes-investigation-1hn4)
-- [PlanB: An AI That Challenges Your Plan Before Reality Does](https://dev.to/itsdevcode/planb-an-ai-that-challenges-your-plan-before-reality-does-4gc2)
-- [How 3,000 people ended up sending cat cards](https://dev.to/arbrahimbadsa/how-3000-people-ended-up-sending-cat-cards-4m37)
+- [How to get a list of Confluence pages with owners and dates](https://dev.to/mikhailklimenko/how-to-get-a-list-of-confluence-pages-with-owners-and-dates-3k6k)
+- [Starting Nusku: a continuous profiler for Linux, built in Zig, no shortcuts](https://dev.to/aliamerj/starting-nusku-a-continuous-profiler-for-linux-built-in-zig-no-shortcuts-13na)
+- [Implementing Reviewable Named Transformations Across a Property Management App](https://dev.to/evanshepherd8274/implementing-reviewable-named-transformations-across-a-property-management-app-4jik)
+- [A timeout is not a failed webhook: reconcile before you retry](https://dev.to/danielautomatedco/a-timeout-is-not-a-failed-webhook-reconcile-before-you-retry-26ll)
 <!-- BLOG-POST-LIST:END -->
 
