@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP Security in Practice: Prompt Injection, Least Privilege, and Audit Logs](https://dev.to/jeff_pdc/mcp-security-in-practice-prompt-injection-least-privilege-and-audit-logs-3k41)
-- [Weekly Website Highlight: A Social Network That Deletes Yesterday](https://dev.to/base31/weekly-website-highlight-a-social-network-that-deletes-yesterday-4oop)
-- [Canvas doesn&#39;t wrap text — my OG image generator painted titles off the 1200px edge](https://dev.to/imapphelp/canvas-doesnt-wrap-text-my-og-image-generator-painted-titles-off-the-1200px-edge-21jp)
-- [AI agent architecture: model, harness and intent](https://dev.to/irr123456/ai-agent-architecture-model-harness-and-intent-3018)
+- [A customer maintenance form in Uniface 10, part 1 - from an empty IDE to working CRUD on SQLite](https://dev.to/f345345dfg/a-customer-maintenance-form-in-uniface-10-part-1-from-an-empty-ide-to-working-crud-on-sqlite-58kj)
+- [PCIe lanes, not GPU VRAM, is the spec that kills your homelab GPU plan](https://dev.to/sindabad764/pcie-lanes-not-gpu-vram-is-the-spec-that-kills-your-homelab-gpu-plan-3h9f)
+- [**Respaldo y recuperación de MySQL con Railway Aiven y GitHub Actions**](https://dev.to/stevie_geraldmarcaaguil/respaldo-y-recuperacion-de-mysql-con-railway-aiven-y-github-actions-44o6)
+- [Zapier vs Make in 2026: Which Automation Tool Is Worth the Credits?](https://dev.to/stimlau/zapier-vs-make-in-2026-which-automation-tool-is-worth-the-credits-4bj1)
 <!-- BLOG-POST-LIST:END -->
 
