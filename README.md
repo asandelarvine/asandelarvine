@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A customer maintenance form in Uniface 10, part 1 - from an empty IDE to working CRUD on SQLite](https://dev.to/f345345dfg/a-customer-maintenance-form-in-uniface-10-part-1-from-an-empty-ide-to-working-crud-on-sqlite-58kj)
-- [PCIe lanes, not GPU VRAM, is the spec that kills your homelab GPU plan](https://dev.to/sindabad764/pcie-lanes-not-gpu-vram-is-the-spec-that-kills-your-homelab-gpu-plan-3h9f)
-- [**Respaldo y recuperación de MySQL con Railway Aiven y GitHub Actions**](https://dev.to/stevie_geraldmarcaaguil/respaldo-y-recuperacion-de-mysql-con-railway-aiven-y-github-actions-44o6)
-- [Zapier vs Make in 2026: Which Automation Tool Is Worth the Credits?](https://dev.to/stimlau/zapier-vs-make-in-2026-which-automation-tool-is-worth-the-credits-4bj1)
+- [Notion AI Pricing Explained: Is the Add-On Worth It in 2026?](https://dev.to/stimlau/notion-ai-pricing-explained-is-the-add-on-worth-it-in-2026-7hh)
+- [Jev by TypeSafe AI: the hype, reactions, and two-week clone war](https://dev.to/dishant0406/jev-by-typesafe-ai-the-hype-reactions-and-two-week-clone-war-132f)
+- [ChronoGraph: An Autonomous Breaking-Change Sentinel Powered by Sanity Context](https://dev.to/sundas_naeem_6f4864a7c69d/chronograph-an-autonomous-breaking-change-sentinel-powered-by-sanity-context-1db0)
+- [Step-up MFA, attenuation, and what&#39;s honestly not done](https://dev.to/darkedges/step-up-mfa-attenuation-and-whats-honestly-not-done-27h5)
 <!-- BLOG-POST-LIST:END -->
 
