@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Notion AI Pricing Explained: Is the Add-On Worth It in 2026?](https://dev.to/stimlau/notion-ai-pricing-explained-is-the-add-on-worth-it-in-2026-7hh)
-- [Jev by TypeSafe AI: the hype, reactions, and two-week clone war](https://dev.to/dishant0406/jev-by-typesafe-ai-the-hype-reactions-and-two-week-clone-war-132f)
-- [ChronoGraph: An Autonomous Breaking-Change Sentinel Powered by Sanity Context](https://dev.to/sundas_naeem_6f4864a7c69d/chronograph-an-autonomous-breaking-change-sentinel-powered-by-sanity-context-1db0)
-- [Step-up MFA, attenuation, and what&#39;s honestly not done](https://dev.to/darkedges/step-up-mfa-attenuation-and-whats-honestly-not-done-27h5)
+- [Taskflow Local: I rebuilt my task manager for a friend who just wants to say what needs to be done](https://dev.to/s_srinivasan/taskflow-local-i-rebuilt-my-task-manager-for-a-friend-who-just-wants-to-say-what-needs-to-be-done-1kpo)
+- [Beyond the First Answer: When Retrieval Becomes Investigation](https://dev.to/ruchita_nimkar_fb6fcaab1f/beyond-the-first-answer-when-retrieval-becomes-investigation-1hn4)
+- [PlanB: An AI That Challenges Your Plan Before Reality Does](https://dev.to/itsdevcode/planb-an-ai-that-challenges-your-plan-before-reality-does-4gc2)
+- [How 3,000 people ended up sending cat cards](https://dev.to/arbrahimbadsa/how-3000-people-ended-up-sending-cat-cards-4m37)
 <!-- BLOG-POST-LIST:END -->
 
