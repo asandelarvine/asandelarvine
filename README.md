@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to get a list of Confluence pages with owners and dates](https://dev.to/mikhailklimenko/how-to-get-a-list-of-confluence-pages-with-owners-and-dates-3k6k)
-- [Starting Nusku: a continuous profiler for Linux, built in Zig, no shortcuts](https://dev.to/aliamerj/starting-nusku-a-continuous-profiler-for-linux-built-in-zig-no-shortcuts-13na)
-- [Implementing Reviewable Named Transformations Across a Property Management App](https://dev.to/evanshepherd8274/implementing-reviewable-named-transformations-across-a-property-management-app-4jik)
-- [A timeout is not a failed webhook: reconcile before you retry](https://dev.to/danielautomatedco/a-timeout-is-not-a-failed-webhook-reconcile-before-you-retry-26ll)
+- [We stopped trusting our model&#39;s citations, so we check them in code](https://dev.to/2sdtechnologiesdotcom/we-stopped-trusting-our-models-citations-so-we-check-them-in-code-3j0a)
+- [ScsDriver vs RaiDrive — Real Local Disk Mount Windows WebDAV Comparison 2026](https://dev.to/scsoi/scsdriver-vs-raidrive-real-local-disk-mount-windows-webdav-comparison-2026-1h68)
+- [A session table in market time, with no look-ahead: the 60 lines that do it](https://dev.to/ssapable/a-session-table-in-market-time-with-no-look-ahead-the-60-lines-that-do-it-1b3c)
+- [n8n Dynamics: The Engineer’s Edge in CRM Automation](https://dev.to/kevin_jang_200b10826b3a5d/n8n-dynamics-the-engineers-edge-in-crm-automation-1fc1)
 <!-- BLOG-POST-LIST:END -->
 
