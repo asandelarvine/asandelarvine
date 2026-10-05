@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Who Changed My Site Property? The OutSystems Service Center Trick You Should Know](https://dev.to/engkerollosadel/who-changed-my-site-property-the-outsystems-service-center-trick-you-should-know-5aep)
-- [Woodpecker CI at 1,831 Titles and 2 Application Fingerprints: What a Narrow Signature Gap Means](https://dev.to/bianliang/woodpecker-ci-at-1831-titles-and-2-application-fingerprints-what-a-narrow-signature-gap-means-1bo2)
-- [Bug fixing as System Stabilization Engineering](https://dev.to/josemariairiarte/bug-fixing-as-system-stabilization-engineering-4fo0)
-- [Building and using MCP servers: 4 things I learned](https://dev.to/dave8172/building-and-using-mcp-servers-4-things-i-learned-4agj)
+- [Better Uptime Monitoring for Small SaaS API and Cron Healthchecks](https://dev.to/echof76/better-uptime-monitoring-for-small-saas-api-and-cron-healthchecks-1d29)
+- [LLM gateway on-call: the 4 incidents that actually happen](https://dev.to/zerokdevops/llm-gateway-on-call-the-4-incidents-that-actually-happen-4755)
+- [mcpward is now on Github Actions Marketplace](https://dev.to/tsvetang2/mcpward-is-now-on-github-actions-marketplace-1a92)
+- [Postgres Let Two Rows Through a Unique Index: The glibc Collation Trap After an OS Upgrade](https://dev.to/libme/postgres-let-two-rows-through-a-unique-index-the-glibc-collation-trap-after-an-os-upgrade-3ad6)
 <!-- BLOG-POST-LIST:END -->
 
