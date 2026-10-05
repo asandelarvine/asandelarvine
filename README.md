@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [My project - Persista](https://dev.to/yjamdade49/my-project-persista-29g6)
-- [Genetic Result Is Awful. I Built a Private Explainer That Runs on Your Laptop](https://dev.to/masteryug/genetic-result-is-awful-i-built-a-private-explainer-that-runs-on-your-laptop-319)
-- [CodeRecall - Explain My Own Code to Me&lpar;Local AI for a friend&#39;s Forgotten Repos&rpar;](https://dev.to/ishitaaa/coderecall-explain-my-own-code-to-melocal-ai-for-a-friends-forgotten-repos-1544)
-- [WanderMate](https://dev.to/asrx13/wandermate-2nph)
+- [Who Changed My Site Property? The OutSystems Service Center Trick You Should Know](https://dev.to/engkerollosadel/who-changed-my-site-property-the-outsystems-service-center-trick-you-should-know-5aep)
+- [Woodpecker CI at 1,831 Titles and 2 Application Fingerprints: What a Narrow Signature Gap Means](https://dev.to/bianliang/woodpecker-ci-at-1831-titles-and-2-application-fingerprints-what-a-narrow-signature-gap-means-1bo2)
+- [Bug fixing as System Stabilization Engineering](https://dev.to/josemariairiarte/bug-fixing-as-system-stabilization-engineering-4fo0)
+- [Building and using MCP servers: 4 things I learned](https://dev.to/dave8172/building-and-using-mcp-servers-4-things-i-learned-4agj)
 <!-- BLOG-POST-LIST:END -->
 
