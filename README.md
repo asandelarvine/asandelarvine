@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [We stopped trusting our model&#39;s citations, so we check them in code](https://dev.to/2sdtechnologiesdotcom/we-stopped-trusting-our-models-citations-so-we-check-them-in-code-3j0a)
-- [ScsDriver vs RaiDrive — Real Local Disk Mount Windows WebDAV Comparison 2026](https://dev.to/scsoi/scsdriver-vs-raidrive-real-local-disk-mount-windows-webdav-comparison-2026-1h68)
-- [A session table in market time, with no look-ahead: the 60 lines that do it](https://dev.to/ssapable/a-session-table-in-market-time-with-no-look-ahead-the-60-lines-that-do-it-1b3c)
-- [n8n Dynamics: The Engineer’s Edge in CRM Automation](https://dev.to/kevin_jang_200b10826b3a5d/n8n-dynamics-the-engineers-edge-in-crm-automation-1fc1)
+- [My project - Persista](https://dev.to/yjamdade49/my-project-persista-29g6)
+- [Genetic Result Is Awful. I Built a Private Explainer That Runs on Your Laptop](https://dev.to/masteryug/genetic-result-is-awful-i-built-a-private-explainer-that-runs-on-your-laptop-319)
+- [CodeRecall - Explain My Own Code to Me&lpar;Local AI for a friend&#39;s Forgotten Repos&rpar;](https://dev.to/ishitaaa/coderecall-explain-my-own-code-to-melocal-ai-for-a-friends-forgotten-repos-1544)
+- [WanderMate](https://dev.to/asrx13/wandermate-2nph)
 <!-- BLOG-POST-LIST:END -->
 
