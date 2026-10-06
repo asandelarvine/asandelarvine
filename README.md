@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Vanam by Mahaveer Varma](https://dev.to/mahaveervarmavegiraju/vanam-by-mahaveer-varma-b1d)
-- [Citrix NetScaler CVE-2026-88771 and CVE-2026-88772: two edge RCE flaws attacked before a fix existed](https://dev.to/jeffreyciend/citrix-netscaler-cve-2026-88771-and-cve-2026-88772-two-edge-rce-flaws-attacked-before-a-fix-existed-1og6)
-- [OpenCode Model Router: per-agent model fallback chains with a local web UI](https://dev.to/sertdisk/opencode-model-router-per-agent-model-fallback-chains-with-a-local-web-ui-4n23)
-- [Como funciona a memória de um agente de IA &lpar;e o que acontece quando ela esquece do jeito errado&rpar;](https://dev.to/devtheusp/como-funciona-a-memoria-de-um-agente-de-ia-e-o-que-acontece-quando-ela-esquece-do-jeito-errado-1hp)
+- [Lo que aprendí buscando tarifas y condiciones dentro de un producto fintech](https://dev.to/marcobellini/lo-que-aprendi-buscando-tarifas-y-condiciones-dentro-de-un-producto-fintech-5)
+- [Local Kubernetes Development with Tilt: Fast Inner Loop](https://dev.to/aroua_kaboubi_82466ca9a52/local-kubernetes-development-with-tilt-fast-inner-loop-597f)
+- [Best AI Lip Sync Tools for Creating Realistic Videos](https://dev.to/divyesh_jeenam/best-ai-lip-sync-tools-for-creating-realistic-videos-ngj)
+- [เราแกะโค้ด OpenHuman agent harness ตัวใหม่ที่ทวีตอ้างว่าชนะ OpenClaw](https://dev.to/sarantoon/eraaaekaokhd-openhuman-agent-harness-tawaihmthiithwiitaangwaachna-openclaw-2j3l)
 <!-- BLOG-POST-LIST:END -->
 
