@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lo que aprendí buscando tarifas y condiciones dentro de un producto fintech](https://dev.to/marcobellini/lo-que-aprendi-buscando-tarifas-y-condiciones-dentro-de-un-producto-fintech-5)
-- [Local Kubernetes Development with Tilt: Fast Inner Loop](https://dev.to/aroua_kaboubi_82466ca9a52/local-kubernetes-development-with-tilt-fast-inner-loop-597f)
-- [Best AI Lip Sync Tools for Creating Realistic Videos](https://dev.to/divyesh_jeenam/best-ai-lip-sync-tools-for-creating-realistic-videos-ngj)
-- [เราแกะโค้ด OpenHuman agent harness ตัวใหม่ที่ทวีตอ้างว่าชนะ OpenClaw](https://dev.to/sarantoon/eraaaekaokhd-openhuman-agent-harness-tawaihmthiithwiitaangwaachna-openclaw-2j3l)
+- [Your IMAP script stopped logging in: XOAUTH2 for Gmail and Microsoft 365](https://dev.to/mahirhir/your-imap-script-stopped-logging-in-xoauth2-for-gmail-and-microsoft-365-5480)
+- [How to Make Passive Income as a UI/UX Designer: 10 Practical Ways](https://dev.to/rowan_merc/how-to-make-passive-income-as-a-uiux-designer-10-practical-ways-35p7)
+- [Ephemeral sandbox vs persistent machine: what an AI agent keeps between runs](https://dev.to/burrowbox/ephemeral-sandbox-vs-persistent-machine-what-an-ai-agent-keeps-between-runs-a46)
+- [How to Set Up SSH Keys and Turn Off Password Login](https://dev.to/vpspioneer/how-to-set-up-ssh-keys-and-turn-off-password-login-4m5)
 <!-- BLOG-POST-LIST:END -->
 
