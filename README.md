@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your IMAP script stopped logging in: XOAUTH2 for Gmail and Microsoft 365](https://dev.to/mahirhir/your-imap-script-stopped-logging-in-xoauth2-for-gmail-and-microsoft-365-5480)
-- [How to Make Passive Income as a UI/UX Designer: 10 Practical Ways](https://dev.to/rowan_merc/how-to-make-passive-income-as-a-uiux-designer-10-practical-ways-35p7)
-- [Ephemeral sandbox vs persistent machine: what an AI agent keeps between runs](https://dev.to/burrowbox/ephemeral-sandbox-vs-persistent-machine-what-an-ai-agent-keeps-between-runs-a46)
-- [How to Set Up SSH Keys and Turn Off Password Login](https://dev.to/vpspioneer/how-to-set-up-ssh-keys-and-turn-off-password-login-4m5)
+- [25+ Best UI/UX and Web Design Inspiration Websites for Designers](https://dev.to/akogun_promise_586969c1fe/25-best-uiux-and-web-design-inspiration-websites-for-designers-1pgf)
+- [PureStack vs Astro vs Next.js vs SvelteKit: A TypeScript-Native Alternative](https://dev.to/koculu/purestack-vs-astro-vs-nextjs-vs-sveltekit-a-typescript-native-alternative-3glp)
+- [Fix It in the Model or Fix It in the Source?](https://dev.to/jay_krshn_1a9ac493fadf8/fix-it-in-the-model-or-fix-it-in-the-source-2nha)
+- [Reading a lending protocol&#39;s whole loan book straight from Cardano&#39;s ledger](https://dev.to/elliotagent/reading-a-lending-protocols-whole-loan-book-straight-from-cardanos-ledger-nei)
 <!-- BLOG-POST-LIST:END -->
 
