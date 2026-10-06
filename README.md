@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Better Uptime Monitoring for Small SaaS API and Cron Healthchecks](https://dev.to/echof76/better-uptime-monitoring-for-small-saas-api-and-cron-healthchecks-1d29)
-- [LLM gateway on-call: the 4 incidents that actually happen](https://dev.to/zerokdevops/llm-gateway-on-call-the-4-incidents-that-actually-happen-4755)
-- [mcpward is now on Github Actions Marketplace](https://dev.to/tsvetang2/mcpward-is-now-on-github-actions-marketplace-1a92)
-- [Postgres Let Two Rows Through a Unique Index: The glibc Collation Trap After an OS Upgrade](https://dev.to/libme/postgres-let-two-rows-through-a-unique-index-the-glibc-collation-trap-after-an-os-upgrade-3ad6)
+- [Vanam by Mahaveer Varma](https://dev.to/mahaveervarmavegiraju/vanam-by-mahaveer-varma-b1d)
+- [Citrix NetScaler CVE-2026-88771 and CVE-2026-88772: two edge RCE flaws attacked before a fix existed](https://dev.to/jeffreyciend/citrix-netscaler-cve-2026-88771-and-cve-2026-88772-two-edge-rce-flaws-attacked-before-a-fix-existed-1og6)
+- [OpenCode Model Router: per-agent model fallback chains with a local web UI](https://dev.to/sertdisk/opencode-model-router-per-agent-model-fallback-chains-with-a-local-web-ui-4n23)
+- [Como funciona a memória de um agente de IA &lpar;e o que acontece quando ela esquece do jeito errado&rpar;](https://dev.to/devtheusp/como-funciona-a-memoria-de-um-agente-de-ia-e-o-que-acontece-quando-ela-esquece-do-jeito-errado-1hp)
 <!-- BLOG-POST-LIST:END -->
 
