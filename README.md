@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [2026 Error Tracking vs Uptime Monitoring: Cron Heartbeat Evidence for Storefronts](https://dev.to/paswkeria/2026-error-tracking-vs-uptime-monitoring-cron-heartbeat-evidence-for-storefronts-j3f)
-- [The Data Layer: What You Don&#39;t Own Can Testify Against You](https://dev.to/goodpa/the-data-layer-what-you-dont-own-can-testify-against-you-34en)
-- [Getting Started with Seedance MCP in Cursor](https://dev.to/germey/getting-started-with-seedance-mcp-in-cursor-25c1)
-- [Sovereign Runtime: The Model You Can Actually Run Is the Model You Own](https://dev.to/goodpa/sovereign-runtime-the-model-you-can-actually-run-is-the-model-you-own-2n1i)
+- [nice one opensource](https://dev.to/solovyov808/nice-one-opensource-336b)
+- [nice one](https://dev.to/kowalczyk31665/nice-one-4e2b)
+- [Single-Flight Request Coalescing for Identical VIN Lookups](https://dev.to/vin_lookup_8dbd4710f77e9e/single-flight-request-coalescing-for-identical-vin-lookups-4d3p)
+- [The model knew the rule. It still used last week&#39;s offset.](https://dev.to/hugo_valer_79d0d94e00804b/the-model-knew-the-rule-it-still-used-last-weeks-offset-584m)
 <!-- BLOG-POST-LIST:END -->
 
