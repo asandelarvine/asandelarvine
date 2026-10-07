@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [nice one opensource](https://dev.to/solovyov808/nice-one-opensource-336b)
-- [nice one](https://dev.to/kowalczyk31665/nice-one-4e2b)
-- [Single-Flight Request Coalescing for Identical VIN Lookups](https://dev.to/vin_lookup_8dbd4710f77e9e/single-flight-request-coalescing-for-identical-vin-lookups-4d3p)
-- [The model knew the rule. It still used last week&#39;s offset.](https://dev.to/hugo_valer_79d0d94e00804b/the-model-knew-the-rule-it-still-used-last-weeks-offset-584m)
+- [Brunch Gem: Isolated Development Environments for Git Branches and Worktrees](https://dev.to/ciembor/brunch-gem-isolated-development-environments-for-git-branches-and-worktrees-4n38)
+- [Advanced System Architecture: Designing Multi-Tenant Event-Driven Queues with Fair-Share Scheduling](https://dev.to/usman_khan_io/advanced-system-architecture-designing-multi-tenant-event-driven-queues-with-fair-share-scheduling-1hjn)
+- [Your plan says &lpar;known after apply&rpar;. OpenTofu 1.13 lets you talk back](https://dev.to/kashif_manzer/your-plan-says-known-after-apply-opentofu-113-lets-you-talk-back-17hf)
+- [How to Blur Playing Videos on Android in React Native &lpar;Without Skia or Workarounds&rpar;](https://dev.to/nguyn_ngcduy_266304752/how-to-blur-playing-videos-on-android-in-react-native-without-skia-or-workarounds-40d8)
 <!-- BLOG-POST-LIST:END -->
 
