@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [RepoShelf says &quot;Hello World&quot;](https://dev.to/sparx1981/reposhelf-says-hello-world-17ka)
-- [Workshop: Cap a Shared Lab Hour With a Session Envelope in 75 Minutes](https://dev.to/gitgo_1900/workshop-cap-a-shared-lab-hour-with-a-session-envelope-in-75-minutes-5b56)
-- [One Model Call Per Delivery With a File Outbox](https://dev.to/hackcpp_3619/one-model-call-per-delivery-with-a-file-outbox-3o9l)
-- [Construyendo el Sistema Nervioso de la IA: Node.js, Inversión de Control y el verdadero reto de los Agentes Autónomos](https://dev.to/davidsnm/construyendo-el-sistema-nervioso-de-la-ia-nodejs-inversion-de-control-y-el-verdadero-reto-de-los-4p75)
+- [Why my from-scratch Japanese LLM says &quot;That sounds tough&quot; to good news](https://dev.to/keito118/why-my-from-scratch-japanese-llm-says-that-sounds-tough-to-good-news-3k15)
+- [I planned a walk in 60 seconds, then walked for two hours &lpar;open-weight AI, no GPU&rpar;](https://dev.to/ramantiw45/i-planned-a-walk-in-60-seconds-then-walked-for-two-hours-open-weight-ai-no-gpu-248o)
+- [🌿 I Built TouchGrass AI — An AI That Wants You to Use Your Phone Less](https://dev.to/sanjana_jha_bed43d0288644/i-built-touchgrass-ai-an-ai-that-wants-you-to-use-your-phone-less-g6i)
+- [NQT Saathi: An Offline Hinglish Prep Buddy I Built for My Friend](https://dev.to/init4saurabh/nqt-saathi-an-offline-hinglish-prep-buddy-i-built-for-my-friend-3op9)
 <!-- BLOG-POST-LIST:END -->
 
