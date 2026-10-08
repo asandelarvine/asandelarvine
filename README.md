@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Análisis de seguridad de TestGenAI con ESLint Security y GitHub Actions](https://dev.to/milton_h_107ce42c1ba76290/analisis-de-seguridad-de-testgenai-con-eslint-security-y-github-actions-50p7)
-- [Feature Flag Pricing for Small SaaS: Self-Hosted vs Managed Rollbacks](https://dev.to/brennancross2167/feature-flag-pricing-for-small-saas-self-hosted-vs-managed-rollbacks-1o47)
-- [Bridging the Gap: Enhancing Frontend Skills for Backend Developers Through Design and Structure Understanding](https://dev.to/serbyte/bridging-the-gap-enhancing-frontend-skills-for-backend-developers-through-design-and-structure-19f6)
-- [How Token Snipers and Bundled Wallets Work — and How Anti-Sniper Fair Launches Fight Back](https://dev.to/memeswap/how-token-snipers-and-bundled-wallets-work-and-how-anti-sniper-fair-launches-fight-back-4786)
+- [RepoShelf says &quot;Hello World&quot;](https://dev.to/sparx1981/reposhelf-says-hello-world-17ka)
+- [Workshop: Cap a Shared Lab Hour With a Session Envelope in 75 Minutes](https://dev.to/gitgo_1900/workshop-cap-a-shared-lab-hour-with-a-session-envelope-in-75-minutes-5b56)
+- [One Model Call Per Delivery With a File Outbox](https://dev.to/hackcpp_3619/one-model-call-per-delivery-with-a-file-outbox-3o9l)
+- [Construyendo el Sistema Nervioso de la IA: Node.js, Inversión de Control y el verdadero reto de los Agentes Autónomos](https://dev.to/davidsnm/construyendo-el-sistema-nervioso-de-la-ia-nodejs-inversion-de-control-y-el-verdadero-reto-de-los-4p75)
 <!-- BLOG-POST-LIST:END -->
 
