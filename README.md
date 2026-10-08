@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The 20 most popular MCP servers, scanned: what&#39;s actually in their tool descriptions](https://dev.to/pennyforgehq/the-20-most-popular-mcp-servers-scanned-whats-actually-in-their-tool-descriptions-14cj)
-- [AlphaCode: The Free MIT AI Coding Agent Built in Rust](https://dev.to/unfiltered_anshul/alphacode-the-free-mit-ai-coding-agent-built-in-rust-21po)
-- [TouchGrass AI: Local AI that gets you outside](https://dev.to/mdarifulhaque/touchgrass-ai-local-ai-that-gets-you-outside-41ja)
-- [Polymarket Probability Forecasting Bot: From Market Price to Fair Value](https://dev.to/xniiinx/polymarket-probability-forecasting-bot-from-market-price-to-fair-value-2gc5)
+- [Análisis de seguridad de TestGenAI con ESLint Security y GitHub Actions](https://dev.to/milton_h_107ce42c1ba76290/analisis-de-seguridad-de-testgenai-con-eslint-security-y-github-actions-50p7)
+- [Feature Flag Pricing for Small SaaS: Self-Hosted vs Managed Rollbacks](https://dev.to/brennancross2167/feature-flag-pricing-for-small-saas-self-hosted-vs-managed-rollbacks-1o47)
+- [Bridging the Gap: Enhancing Frontend Skills for Backend Developers Through Design and Structure Understanding](https://dev.to/serbyte/bridging-the-gap-enhancing-frontend-skills-for-backend-developers-through-design-and-structure-19f6)
+- [How Token Snipers and Bundled Wallets Work — and How Anti-Sniper Fair Launches Fight Back](https://dev.to/memeswap/how-token-snipers-and-bundled-wallets-work-and-how-anti-sniper-fair-launches-fight-back-4786)
 <!-- BLOG-POST-LIST:END -->
 
