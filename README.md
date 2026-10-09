@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Rotating vs sticky residential proxy sessions: how to choose, with Python examples](https://dev.to/shifter_io/rotating-vs-sticky-residential-proxy-sessions-how-to-choose-with-python-examples-6aa)
-- [The AWS savings nobody can touch: legacy systems](https://dev.to/vlad_z_16b6320e21f32bee0d/the-aws-savings-nobody-can-touch-legacy-systems-2h2j)
-- [scaffold-skill-marketplace &lpar;a claude skill for claude skills&rpar;](https://dev.to/emalia/scaffold-skill-marketplace-a-claude-skill-for-claude-skills-1idg)
-- [I shipped 9 products and got 0 sales. The README Buy link was the first suspect.](https://dev.to/renev3408/i-shipped-9-products-and-got-0-sales-the-readme-buy-link-was-the-first-suspect-309l)
+- [Lease-Scoped Replay Sheets for Agent-Patch Property Checks](https://dev.to/datacpp_8185/lease-scoped-replay-sheets-for-agent-patch-property-checks-2apn)
+- [Password Reset Email Deliverability Setup: Node.js Evidence for Logistics Attachments](https://dev.to/nicodemuschristensen2675/password-reset-email-deliverability-setup-nodejs-evidence-for-logistics-attachments-m17)
+- [Optimizing AI-Powered Debugging for Kubernetes Production Incidents: Strategies and Best Practices](https://dev.to/alitron/optimizing-ai-powered-debugging-for-kubernetes-production-incidents-strategies-and-best-practices-4jl7)
+- [The release that OOM-killed its own compiler](https://dev.to/phpboyscout/the-release-that-oom-killed-its-own-compiler-3bhi)
 <!-- BLOG-POST-LIST:END -->
 
