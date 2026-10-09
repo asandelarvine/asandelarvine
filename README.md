@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Lease-Scoped Replay Sheets for Agent-Patch Property Checks](https://dev.to/datacpp_8185/lease-scoped-replay-sheets-for-agent-patch-property-checks-2apn)
-- [Password Reset Email Deliverability Setup: Node.js Evidence for Logistics Attachments](https://dev.to/nicodemuschristensen2675/password-reset-email-deliverability-setup-nodejs-evidence-for-logistics-attachments-m17)
-- [Optimizing AI-Powered Debugging for Kubernetes Production Incidents: Strategies and Best Practices](https://dev.to/alitron/optimizing-ai-powered-debugging-for-kubernetes-production-incidents-strategies-and-best-practices-4jl7)
-- [The release that OOM-killed its own compiler](https://dev.to/phpboyscout/the-release-that-oom-killed-its-own-compiler-3bhi)
+- [I analyzed [12,347] love letters without opening a single one](https://dev.to/lemon_73f3c115c7e8d01229b/i-analyzed-12347-love-letters-without-opening-a-single-one-55ff)
+- [Six Questions to Ask Before Adding an AI Router to Your App](https://dev.to/leung_steven_4493b7ade1a5/six-questions-to-ask-before-adding-an-ai-router-to-your-app-4d4a)
+- [Your API Works in cURL. Why Does the Browser Reject It?](https://dev.to/jeff_pdc/your-api-works-in-curl-why-does-the-browser-reject-it-5g80)
+- [My Scheduled Job Died With &#39;Operation not permitted&#39; — The File Was Fine, the Process Wasn&#39;t](https://dev.to/samhartley_dev/my-scheduled-job-died-with-operation-not-permitted-the-file-was-fine-the-process-wasnt-2g5k)
 <!-- BLOG-POST-LIST:END -->
 
