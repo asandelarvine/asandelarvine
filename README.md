@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I analyzed [12,347] love letters without opening a single one](https://dev.to/lemon_73f3c115c7e8d01229b/i-analyzed-12347-love-letters-without-opening-a-single-one-55ff)
-- [Six Questions to Ask Before Adding an AI Router to Your App](https://dev.to/leung_steven_4493b7ade1a5/six-questions-to-ask-before-adding-an-ai-router-to-your-app-4d4a)
-- [Your API Works in cURL. Why Does the Browser Reject It?](https://dev.to/jeff_pdc/your-api-works-in-curl-why-does-the-browser-reject-it-5g80)
-- [My Scheduled Job Died With &#39;Operation not permitted&#39; — The File Was Fine, the Process Wasn&#39;t](https://dev.to/samhartley_dev/my-scheduled-job-died-with-operation-not-permitted-the-file-was-fine-the-process-wasnt-2g5k)
+- [umux v1.7.5: the switch that keeps the machine awake](https://dev.to/crystalstudio/umux-v175-the-switch-that-keeps-the-machine-awake-25k2)
+- [The sim writes the story — an unedited 11-minute session of a milsim RTT](https://dev.to/javimosch/the-sim-writes-the-story-an-unedited-11-minute-session-of-a-milsim-rtt-dhp)
+- [Java 25 Memory Model: The Concurrency Rules Every Java Engineer Thinks They Know - Until Production Proves Otherwise](https://dev.to/anujkumar2/java-25-memory-model-the-concurrency-rules-every-java-engineer-thinks-they-know-until-production-1ge3)
+- [Hyper3D Hand Stand Review 2026: A Watertight Mesh Isn&#39;t a Fit Test](https://dev.to/gretaholt/hyper3d-hand-stand-review-2026-a-watertight-mesh-isnt-a-fit-test-5hcd)
 <!-- BLOG-POST-LIST:END -->
 
