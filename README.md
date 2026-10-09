@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [umux v1.7.5: the switch that keeps the machine awake](https://dev.to/crystalstudio/umux-v175-the-switch-that-keeps-the-machine-awake-25k2)
-- [The sim writes the story — an unedited 11-minute session of a milsim RTT](https://dev.to/javimosch/the-sim-writes-the-story-an-unedited-11-minute-session-of-a-milsim-rtt-dhp)
-- [Java 25 Memory Model: The Concurrency Rules Every Java Engineer Thinks They Know - Until Production Proves Otherwise](https://dev.to/anujkumar2/java-25-memory-model-the-concurrency-rules-every-java-engineer-thinks-they-know-until-production-1ge3)
-- [Hyper3D Hand Stand Review 2026: A Watertight Mesh Isn&#39;t a Fit Test](https://dev.to/gretaholt/hyper3d-hand-stand-review-2026-a-watertight-mesh-isnt-a-fit-test-5hcd)
+- [Tailwind CSS](https://dev.to/yuripeixinho/tailwind-css-37gk)
+- [Integrating ElevenLabs with Next.js: Step-by-Step Guide](https://dev.to/voice_developer/integrating-elevenlabs-with-nextjs-step-by-step-guide-2i58)
+- [Google Maps now shows petrol and diesel prices in the UK](https://dev.to/hacksgr/google-maps-now-shows-petrol-and-diesel-prices-in-the-uk-3eil)
+- [Express Error Tracking: How to Integrate Pino and Winston with Request Correlation](https://dev.to/celthyrdusk7341/express-error-tracking-how-to-integrate-pino-and-winston-with-request-correlation-18g2)
 <!-- BLOG-POST-LIST:END -->
 
