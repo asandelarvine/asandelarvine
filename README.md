@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Explainable Causal Reinforcement Learning for circular manufacturing supply chains with inverse simulation verification](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-circular-manufacturing-supply-chains-with-inverse-4fh9)
-- [Jim — Accessible Converter, an open-source WordPress plugin for converting documents quickly](https://dev.to/maycristina/jim-accessible-converter-an-open-source-wordpress-plugin-for-converting-documents-quickly-5h7i)
-- [HSBC and Ant Digital Put AI Agents on Tokenized Deposits — But Who Judges Each Payment?](https://dev.to/scriptmasterlabs01/hsbc-and-ant-digital-put-ai-agents-on-tokenized-deposits-but-who-judges-each-payment-2ola)
-- [Anthropic Commits to Regular Model Behavior Reports Beyond System Cards](https://dev.to/alifar/anthropic-commits-to-regular-model-behavior-reports-beyond-system-cards-1id3)
+- [🌿 Touch Grass AI: Offline Outdoor Companion &amp; Open-Source Species Identifier](https://dev.to/pruthvirajg25/touch-grass-ai-offline-outdoor-companion-open-source-species-identifier-4k83)
+- [AstroCast — The Celestial Window &lpar;Hacktoberfest Week 1: Touch Grass&rpar;](https://dev.to/titasmahato/astrocast-the-celestial-window-hacktoberfest-week-1-touch-grass-3j9d)
+- [5 Simple GitLab CI/CD Pipeline Optimizations to Speed Up Your Builds](https://dev.to/hrlpavan/5-simple-gitlab-cicd-pipeline-optimizations-to-speed-up-your-builds-3oai)
+- [Grass Bingo: a daily nature card your phone checks offline, with an open-weight model](https://dev.to/anandb71/grass-bingo-a-daily-nature-card-your-phone-checks-offline-with-an-open-weight-model-1l9g)
 <!-- BLOG-POST-LIST:END -->
 
