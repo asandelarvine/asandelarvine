@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent&#39;s Kill Switch Returns a Boolean. That&#39;s the Bug &lpar;Python Circuit Breaker&rpar;](https://dev.to/robat_das_3c6e956212f6408/your-ai-agents-kill-switch-returns-a-boolean-thats-the-bug-python-circuit-breaker-4anp)
-- [Almost half the sites we audited have an llms.txt. We read all 59](https://dev.to/kaustavbasak/almost-half-the-sites-we-audited-have-an-llmstxt-we-read-all-59-11ji)
-- [Probe Loopback First. Leave the Ticket Unwritten If /health Lies.](https://dev.to/aiio_8140/probe-loopback-first-leave-the-ticket-unwritten-if-health-lies-4b23)
-- [Mi detector estaba ciego en 1.029 de 6.309 líneas y sus tres pruebas seguían en verde](https://dev.to/isazajuancarlos/mi-detector-estaba-ciego-en-1029-de-6309-lineas-y-sus-tres-pruebas-seguian-en-verde-4glh)
+- [I built a bingo card you can&#39;t fill from your desk](https://dev.to/vanshajpoonia/i-built-a-bingo-card-you-cant-fill-from-your-desk-332g)
+- [There is no Red Tomb: making a 1B model write walking quests without making things up](https://dev.to/vanshaj/there-is-no-red-tomb-making-a-1b-model-write-walking-quests-without-making-things-up-4p4b)
+- [Odoo 19 Odoo 20 Migration Notes &amp; Fixes](https://dev.to/thezahids/odoo-19-odoo-20-migration-notes-fixes-h6g)
+- [Removing Duplicates from a Simple Dynamic Array for C](https://dev.to/pauljlucas/removing-duplicates-from-a-simple-dynamic-array-for-c-1mlg)
 <!-- BLOG-POST-LIST:END -->
 
