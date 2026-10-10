@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Tailwind CSS](https://dev.to/yuripeixinho/tailwind-css-37gk)
-- [Integrating ElevenLabs with Next.js: Step-by-Step Guide](https://dev.to/voice_developer/integrating-elevenlabs-with-nextjs-step-by-step-guide-2i58)
-- [Google Maps now shows petrol and diesel prices in the UK](https://dev.to/hacksgr/google-maps-now-shows-petrol-and-diesel-prices-in-the-uk-3eil)
-- [Express Error Tracking: How to Integrate Pino and Winston with Request Correlation](https://dev.to/celthyrdusk7341/express-error-tracking-how-to-integrate-pino-and-winston-with-request-correlation-18g2)
+- [Explainable Causal Reinforcement Learning for circular manufacturing supply chains with inverse simulation verification](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-circular-manufacturing-supply-chains-with-inverse-4fh9)
+- [Jim — Accessible Converter, an open-source WordPress plugin for converting documents quickly](https://dev.to/maycristina/jim-accessible-converter-an-open-source-wordpress-plugin-for-converting-documents-quickly-5h7i)
+- [HSBC and Ant Digital Put AI Agents on Tokenized Deposits — But Who Judges Each Payment?](https://dev.to/scriptmasterlabs01/hsbc-and-ant-digital-put-ai-agents-on-tokenized-deposits-but-who-judges-each-payment-2ola)
+- [Anthropic Commits to Regular Model Behavior Reports Beyond System Cards](https://dev.to/alifar/anthropic-commits-to-regular-model-behavior-reports-beyond-system-cards-1id3)
 <!-- BLOG-POST-LIST:END -->
 
