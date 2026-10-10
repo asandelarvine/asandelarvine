@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌿 Touch Grass AI: Offline Outdoor Companion &amp; Open-Source Species Identifier](https://dev.to/pruthvirajg25/touch-grass-ai-offline-outdoor-companion-open-source-species-identifier-4k83)
-- [AstroCast — The Celestial Window &lpar;Hacktoberfest Week 1: Touch Grass&rpar;](https://dev.to/titasmahato/astrocast-the-celestial-window-hacktoberfest-week-1-touch-grass-3j9d)
-- [5 Simple GitLab CI/CD Pipeline Optimizations to Speed Up Your Builds](https://dev.to/hrlpavan/5-simple-gitlab-cicd-pipeline-optimizations-to-speed-up-your-builds-3oai)
-- [Grass Bingo: a daily nature card your phone checks offline, with an open-weight model](https://dev.to/anandb71/grass-bingo-a-daily-nature-card-your-phone-checks-offline-with-an-open-weight-model-1l9g)
+- [the BirdNET](https://dev.to/sriram007/the-birdnet-3p0d)
+- [Building SynBio Studio: an IDE for programming biology &lpar;BioScript, Rust LSP, SBOL&rpar;](https://dev.to/jorgeguillem/building-synbio-studio-an-ide-for-programming-biology-bioscript-rust-lsp-sbol-1he8)
+- [Your Data Pipeline Passes Every Check While Your LLM Quietly Degrades](https://dev.to/aiexplore369zoho/your-data-pipeline-passes-every-check-while-your-llm-quietly-degrades-5310)
+- [Is AI-Assisted Work Cheaper? A Five-Day Cost Estimate](https://dev.to/moruku36/is-ai-assisted-work-cheaper-a-five-day-cost-estimate-28m)
 <!-- BLOG-POST-LIST:END -->
 
