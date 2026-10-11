@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get Your Current Location with JavaScript](https://dev.to/echoluoluo/how-to-get-your-current-location-with-javascript-5gl3)
-- [Copilot CLI เลือกโมเดล AI ในเครื่องได้แล้ว แถมแซนด์บ็อกซ์ GA: มีช่องไหนที่ยังต้องระวัง?](https://dev.to/sarantoon/copilot-cli-eluuekomedl-ai-ainekhruuengaidaelw-aethmaechndbkch-ga-miichngaihnthiiyangtngrawang-36k4)
-- [Archivey just launched on GitHub !](https://dev.to/ryanchengo/archivey-just-launched-on-github--909)
-- [Ten things that go wrong when you build with a team of AI agents &lpar;part 1&rpar;](https://dev.to/theducttapeio/ten-things-that-go-wrong-when-you-build-with-a-team-of-ai-agents-part-1-dho)
+- [13 Repos Keep a Credential in Web Storage. Seven Are Governments.](https://dev.to/ofri-peretz/13-repos-keep-a-credential-in-web-storage-seven-are-governments-20be)
+- [Adventure Generator — Real-World Cooperative Multiplayer Quests Powered by Open-Source AI](https://dev.to/arshdev16/adventure-generator-real-world-cooperative-multiplayer-quests-powered-by-open-source-ai-52ao)
+- [TrailSafe: How Open-Source AI Rescues Solo Hikers When Cell Signal Dies 🏔️](https://dev.to/kakeroth/trailsafe-how-open-source-ai-rescues-solo-hikers-when-cell-signal-dies-229p)
+- [Running Workout Plan Generator — A Personal Fitness Coach Built in Python](https://dev.to/kim257223/running-workout-plan-generator-a-personal-fitness-coach-built-in-python-5ae8)
 <!-- BLOG-POST-LIST:END -->
 
