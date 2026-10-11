@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [13 Repos Keep a Credential in Web Storage. Seven Are Governments.](https://dev.to/ofri-peretz/13-repos-keep-a-credential-in-web-storage-seven-are-governments-20be)
-- [Adventure Generator — Real-World Cooperative Multiplayer Quests Powered by Open-Source AI](https://dev.to/arshdev16/adventure-generator-real-world-cooperative-multiplayer-quests-powered-by-open-source-ai-52ao)
-- [TrailSafe: How Open-Source AI Rescues Solo Hikers When Cell Signal Dies 🏔️](https://dev.to/kakeroth/trailsafe-how-open-source-ai-rescues-solo-hikers-when-cell-signal-dies-229p)
-- [Running Workout Plan Generator — A Personal Fitness Coach Built in Python](https://dev.to/kim257223/running-workout-plan-generator-a-personal-fitness-coach-built-in-python-5ae8)
+- [Meet WLKR Labs: free software, useful technology, biblical purpose](https://dev.to/wlkrlabs/meet-wlkr-labs-free-software-useful-technology-biblical-purpose-28p3)
+- [How do you stop an AI agent from overspending on GPUs?](https://dev.to/viswaretas_kotra/how-do-you-stop-an-ai-agent-from-overspending-on-gpus-25cp)
+- [Nakshatra: Stargazing in Total Darkness &lpar;Because Phone Screens Blind Your Eyes&rpar;](https://dev.to/nonebut_ak/nakshatra-stargazing-in-total-darkness-because-phone-screens-blind-your-eyes-3g93)
+- [I Made Custom Crosshairs for Risk of Rain 2 &lpar;Free on GitHub&rpar;](https://dev.to/watchcobbler/i-made-custom-crosshairs-for-risk-of-rain-2-free-on-github-1hd0)
 <!-- BLOG-POST-LIST:END -->
 
