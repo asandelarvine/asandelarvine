@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a bingo card you can&#39;t fill from your desk](https://dev.to/vanshajpoonia/i-built-a-bingo-card-you-cant-fill-from-your-desk-332g)
-- [There is no Red Tomb: making a 1B model write walking quests without making things up](https://dev.to/vanshaj/there-is-no-red-tomb-making-a-1b-model-write-walking-quests-without-making-things-up-4p4b)
-- [Odoo 19 Odoo 20 Migration Notes &amp; Fixes](https://dev.to/thezahids/odoo-19-odoo-20-migration-notes-fixes-h6g)
-- [Removing Duplicates from a Simple Dynamic Array for C](https://dev.to/pauljlucas/removing-duplicates-from-a-simple-dynamic-array-for-c-1mlg)
+- [How to Get Your Current Location with JavaScript](https://dev.to/echoluoluo/how-to-get-your-current-location-with-javascript-5gl3)
+- [Copilot CLI เลือกโมเดล AI ในเครื่องได้แล้ว แถมแซนด์บ็อกซ์ GA: มีช่องไหนที่ยังต้องระวัง?](https://dev.to/sarantoon/copilot-cli-eluuekomedl-ai-ainekhruuengaidaelw-aethmaechndbkch-ga-miichngaihnthiiyangtngrawang-36k4)
+- [Archivey just launched on GitHub !](https://dev.to/ryanchengo/archivey-just-launched-on-github--909)
+- [Ten things that go wrong when you build with a team of AI agents &lpar;part 1&rpar;](https://dev.to/theducttapeio/ten-things-that-go-wrong-when-you-build-with-a-team-of-ai-agents-part-1-dho)
 <!-- BLOG-POST-LIST:END -->
 
