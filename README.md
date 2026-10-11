@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet WLKR Labs: free software, useful technology, biblical purpose](https://dev.to/wlkrlabs/meet-wlkr-labs-free-software-useful-technology-biblical-purpose-28p3)
-- [How do you stop an AI agent from overspending on GPUs?](https://dev.to/viswaretas_kotra/how-do-you-stop-an-ai-agent-from-overspending-on-gpus-25cp)
-- [Nakshatra: Stargazing in Total Darkness &lpar;Because Phone Screens Blind Your Eyes&rpar;](https://dev.to/nonebut_ak/nakshatra-stargazing-in-total-darkness-because-phone-screens-blind-your-eyes-3g93)
-- [I Made Custom Crosshairs for Risk of Rain 2 &lpar;Free on GitHub&rpar;](https://dev.to/watchcobbler/i-made-custom-crosshairs-for-risk-of-rain-2-free-on-github-1hd0)
+- [A diary that writes itself after your walk &lpar;Gemma running on my laptop&rpar;](https://dev.to/itsnazaretdev/a-diary-that-writes-itself-after-your-walk-gemma-running-on-my-laptop-314c)
+- [CVE-2026-80381: IBM Guardium Data Protection SQL Injection Vulnerability &lpar;CVSS 9.8&rpar; — Analysis &amp; Mitigation](https://dev.to/iamfaizanakhtar/cve-2026-80381-ibm-guardium-data-protection-sql-injection-vulnerability-cvss-98-analysis--168a)
+- [I Replaced 5 Paid SaaS Tools With One Free PWA](https://dev.to/shahzaib11/i-replaced-5-paid-saas-tools-with-one-free-pwa-3ejc)
+- [A Token Stream Needs a Quiet Buffer, Not an Assertive Live Bubble](https://dev.to/babycat/a-token-stream-needs-a-quiet-buffer-not-an-assertive-live-bubble-32o1)
 <!-- BLOG-POST-LIST:END -->
 
