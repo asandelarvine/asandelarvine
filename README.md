@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I vibe coded a Trail Bingo tailored to your Location and Season](https://dev.to/sarojpaudel/i-vibe-coded-a-trail-bingo-tailored-to-your-location-and-season-3kg8)
-- [We replayed failed payouts after the provider had forgotten them](https://dev.to/sergey_shinder_ab2d943365/we-replayed-failed-payouts-after-the-provider-had-forgotten-them-90c)
-- [The Gardening Assistant: Using Open-Weight AI to Get Out of the House 🌱](https://dev.to/dakaufeeboii/the-gardening-assistant-using-open-weight-ai-to-get-out-of-the-house-2f52)
-- [A Supplier Changed Its Case From Twelve Bottles to Ten and We Found Out Three Times](https://dev.to/serguey_shinder_4ab9b87b1/a-supplier-changed-its-case-from-twelve-bottles-to-ten-and-we-found-out-three-times-3gjl)
+- [Your AI Coding Agents Are Filling Up Your Disk. Here’s How to Clean Up Safely](https://dev.to/auliamnaufal/your-ai-coding-agents-are-filling-up-your-disk-heres-how-to-clean-up-safely-2a43)
+- [Why Finding a PDF on Android Can Be Harder Than Saving It](https://dev.to/tsidevstudio01/why-finding-a-pdf-on-android-can-be-harder-than-saving-it-14a1)
+- [Building AI Agents with LangGraph: From Fundamentals to Production](https://dev.to/ipsphil_digital/building-ai-agents-with-langgraph-from-fundamentals-to-production-1cbl)
+- [OpenImmersive Translator: The Open-Source Alternative to Immersive Translate](https://dev.to/lunadevx/openimmersive-translator-the-open-source-alternative-to-immersive-translate-1ojh)
 <!-- BLOG-POST-LIST:END -->
 
