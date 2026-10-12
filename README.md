@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A diary that writes itself after your walk &lpar;Gemma running on my laptop&rpar;](https://dev.to/itsnazaretdev/a-diary-that-writes-itself-after-your-walk-gemma-running-on-my-laptop-314c)
-- [CVE-2026-80381: IBM Guardium Data Protection SQL Injection Vulnerability &lpar;CVSS 9.8&rpar; — Analysis &amp; Mitigation](https://dev.to/iamfaizanakhtar/cve-2026-80381-ibm-guardium-data-protection-sql-injection-vulnerability-cvss-98-analysis--168a)
-- [I Replaced 5 Paid SaaS Tools With One Free PWA](https://dev.to/shahzaib11/i-replaced-5-paid-saas-tools-with-one-free-pwa-3ejc)
-- [A Token Stream Needs a Quiet Buffer, Not an Assertive Live Bubble](https://dev.to/babycat/a-token-stream-needs-a-quiet-buffer-not-an-assertive-live-bubble-32o1)
+- [Brute-Force R&amp;D: Cheap Exploration and Multi-Agent Judgment](https://dev.to/faliye/brute-force-rd-cheap-exploration-and-multi-agent-judgment-2o2h)
+- [Name it, then look up: a field guide where the phone&#39;s job ends after one photo](https://dev.to/esimuda/name-it-then-look-up-a-field-guide-where-the-phones-job-ends-after-one-photo-3bbi)
+- [Self-Supervised Temporal Pattern Mining for coastal climate resilience planning for extreme data sparsity scenarios](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-coastal-climate-resilience-planning-for-extreme-data-1fpa)
+- [Android&#39;s external/ libraries: hunting n-days in code that upstream already fixed](https://dev.to/malwaredante/androids-external-libraries-hunting-n-days-in-code-that-upstream-already-fixed-159l)
 <!-- BLOG-POST-LIST:END -->
 
