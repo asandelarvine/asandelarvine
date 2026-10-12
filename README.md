@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Brute-Force R&amp;D: Cheap Exploration and Multi-Agent Judgment](https://dev.to/faliye/brute-force-rd-cheap-exploration-and-multi-agent-judgment-2o2h)
-- [Name it, then look up: a field guide where the phone&#39;s job ends after one photo](https://dev.to/esimuda/name-it-then-look-up-a-field-guide-where-the-phones-job-ends-after-one-photo-3bbi)
-- [Self-Supervised Temporal Pattern Mining for coastal climate resilience planning for extreme data sparsity scenarios](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-coastal-climate-resilience-planning-for-extreme-data-1fpa)
-- [Android&#39;s external/ libraries: hunting n-days in code that upstream already fixed](https://dev.to/malwaredante/androids-external-libraries-hunting-n-days-in-code-that-upstream-already-fixed-159l)
+- [I vibe coded a Trail Bingo tailored to your Location and Season](https://dev.to/sarojpaudel/i-vibe-coded-a-trail-bingo-tailored-to-your-location-and-season-3kg8)
+- [We replayed failed payouts after the provider had forgotten them](https://dev.to/sergey_shinder_ab2d943365/we-replayed-failed-payouts-after-the-provider-had-forgotten-them-90c)
+- [The Gardening Assistant: Using Open-Weight AI to Get Out of the House 🌱](https://dev.to/dakaufeeboii/the-gardening-assistant-using-open-weight-ai-to-get-out-of-the-house-2f52)
+- [A Supplier Changed Its Case From Twelve Bottles to Ten and We Found Out Three Times](https://dev.to/serguey_shinder_4ab9b87b1/a-supplier-changed-its-case-from-twelve-bottles-to-ten-and-we-found-out-three-times-3gjl)
 <!-- BLOG-POST-LIST:END -->
 
