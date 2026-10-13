@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Coding Agents Are Filling Up Your Disk. Here’s How to Clean Up Safely](https://dev.to/auliamnaufal/your-ai-coding-agents-are-filling-up-your-disk-heres-how-to-clean-up-safely-2a43)
-- [Why Finding a PDF on Android Can Be Harder Than Saving It](https://dev.to/tsidevstudio01/why-finding-a-pdf-on-android-can-be-harder-than-saving-it-14a1)
-- [Building AI Agents with LangGraph: From Fundamentals to Production](https://dev.to/ipsphil_digital/building-ai-agents-with-langgraph-from-fundamentals-to-production-1cbl)
-- [OpenImmersive Translator: The Open-Source Alternative to Immersive Translate](https://dev.to/lunadevx/openimmersive-translator-the-open-source-alternative-to-immersive-translate-1ojh)
+- [Review an Agent PR That Fetches Model-Named Docs URLs](https://dev.to/codejs_6920/review-an-agent-pr-that-fetches-model-named-docs-urls-38bb)
+- [Crossmint&#39;s Toolkit Picks How to Pay. Nothing Scores Whether to Pay.](https://dev.to/scriptmasterlabs01/crossmints-toolkit-picks-how-to-pay-nothing-scores-whether-to-pay-219k)
+- [Ten Lines That Fix Proxy Rotation in a Web-Scraping Platform &lpar;issue assignment PR, in 2 hours&rpar;](https://dev.to/yuhehe/ten-lines-that-fix-proxy-rotation-in-a-web-scraping-platform-issue-assignment-pr-in-2-hours-53aj)
+- [10 Curated PMP Mistakes That Drop Paid Filters and Kill Fill](https://dev.to/aleksuix/10-curated-pmp-mistakes-that-drop-paid-filters-and-kill-fill-366e)
 <!-- BLOG-POST-LIST:END -->
 
