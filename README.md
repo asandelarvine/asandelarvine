@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Two ways into Bees: describe the job, or point it at your files](https://dev.to/beesbot/two-ways-into-bees-describe-the-job-or-point-it-at-your-files-hhg)
-- [Guía práctica: cómo instalar un APK en Android sin meter la pata](https://dev.to/espacioapks55/guia-practica-como-instalar-un-apk-en-android-sin-meter-la-pata-j4c)
-- [DEVLEDGER](https://dev.to/sainandi12/devledger-148c)
-- [I Replaced My Productivity Apps with 10 Free Browser Tools &lpar;No Sign-Up, No Backend&rpar;](https://dev.to/md_shohan_102187760726951/i-replaced-my-productivity-apps-with-10-free-browser-tools-no-sign-up-no-backend-3ee)
+- [Mastering Regular Expressions: From Basics to Advanced Patterns](https://dev.to/ukasha_mahir_84eeb71db239/mastering-regular-expressions-from-basics-to-advanced-patterns-1cch)
+- [My referral codes are just user IDs. The hard part was the order transaction.](https://dev.to/statureai/my-referral-codes-are-just-user-ids-the-hard-part-was-the-order-transaction-10p3)
+- [Mastering TypeScript: From Zero to Hero in Modern Web Development](https://dev.to/ukasha_mahir_84eeb71db239/mastering-typescript-from-zero-to-hero-in-modern-web-development-13ii)
+- [My German links unfurl in English, and I decided that&#39;s OK &lpar;for now&rpar;](https://dev.to/statureai/my-german-links-unfurl-in-english-and-i-decided-thats-ok-for-now-1143)
 <!-- BLOG-POST-LIST:END -->
 
