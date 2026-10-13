@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Training FLUX.2 and Kolors LoRAs on a space dataset](https://dev.to/khadimhussain/training-flux2-and-kolors-loras-on-a-space-dataset-3p2p)
-- [Grade A Office Space in Noida: A Tech Lead’s Checklist](https://dev.to/realestate26/grade-a-office-space-in-noida-a-tech-leads-checklist-9bc)
-- [KubeSense: A Private, Local-First AI DevOps Assistant](https://dev.to/joydeep_banik_a25a3b3aef3/kubesense-a-private-local-first-ai-devops-assistant-4fn2)
-- [Building Your First PC: A Practical Roadmap](https://dev.to/futureaitechx/building-your-first-pc-a-practical-roadmap-4ee0)
+- [Two ways into Bees: describe the job, or point it at your files](https://dev.to/beesbot/two-ways-into-bees-describe-the-job-or-point-it-at-your-files-hhg)
+- [Guía práctica: cómo instalar un APK en Android sin meter la pata](https://dev.to/espacioapks55/guia-practica-como-instalar-un-apk-en-android-sin-meter-la-pata-j4c)
+- [DEVLEDGER](https://dev.to/sainandi12/devledger-148c)
+- [I Replaced My Productivity Apps with 10 Free Browser Tools &lpar;No Sign-Up, No Backend&rpar;](https://dev.to/md_shohan_102187760726951/i-replaced-my-productivity-apps-with-10-free-browser-tools-no-sign-up-no-backend-3ee)
 <!-- BLOG-POST-LIST:END -->
 
