@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Review an Agent PR That Fetches Model-Named Docs URLs](https://dev.to/codejs_6920/review-an-agent-pr-that-fetches-model-named-docs-urls-38bb)
-- [Crossmint&#39;s Toolkit Picks How to Pay. Nothing Scores Whether to Pay.](https://dev.to/scriptmasterlabs01/crossmints-toolkit-picks-how-to-pay-nothing-scores-whether-to-pay-219k)
-- [Ten Lines That Fix Proxy Rotation in a Web-Scraping Platform &lpar;issue assignment PR, in 2 hours&rpar;](https://dev.to/yuhehe/ten-lines-that-fix-proxy-rotation-in-a-web-scraping-platform-issue-assignment-pr-in-2-hours-53aj)
-- [10 Curated PMP Mistakes That Drop Paid Filters and Kill Fill](https://dev.to/aleksuix/10-curated-pmp-mistakes-that-drop-paid-filters-and-kill-fill-366e)
+- [Training FLUX.2 and Kolors LoRAs on a space dataset](https://dev.to/khadimhussain/training-flux2-and-kolors-loras-on-a-space-dataset-3p2p)
+- [Grade A Office Space in Noida: A Tech Lead’s Checklist](https://dev.to/realestate26/grade-a-office-space-in-noida-a-tech-leads-checklist-9bc)
+- [KubeSense: A Private, Local-First AI DevOps Assistant](https://dev.to/joydeep_banik_a25a3b3aef3/kubesense-a-private-local-first-ai-devops-assistant-4fn2)
+- [Building Your First PC: A Practical Roadmap](https://dev.to/futureaitechx/building-your-first-pc-a-practical-roadmap-4ee0)
 <!-- BLOG-POST-LIST:END -->
 
