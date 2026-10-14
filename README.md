@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [ScopeNote: a local AI second look before a freelance quote](https://dev.to/kokoaskr1/scopenote-a-local-ai-second-look-before-a-freelance-quote-1e57)
-- [CachePulse: Next-Generation Predictive Invalidation and Telemetry Engine for Distributed Caching Layers](https://dev.to/alessio99xx/cachepulse-next-generation-predictive-invalidation-and-telemetry-engine-for-distributed-caching-1ieh)
-- [An 83-Page Teardown of 11 Coding Agents: Three Findings, Two Hands-On Checks, One Expired Constant](https://dev.to/lum_evaluator/an-83-page-teardown-of-11-coding-agents-three-findings-two-hands-on-checks-one-expired-constant-5hha)
-- [Context::Vars: Perl variables with context scope](https://dev.to/lnation/contextvars-perl-variables-with-context-scope-12oi)
+- [Git Like a Ninja: Advanced Branching &amp; Automation Techniques](https://dev.to/ukasha_mahir_84eeb71db239/git-like-a-ninja-advanced-branching-automation-techniques-27h5)
+- [Beyond JSX: Modern Patterns for Building Scalable React Apps](https://dev.to/ukasha_mahir_84eeb71db239/beyond-jsx-modern-patterns-for-building-scalable-react-apps-46h)
+- [Beyond Oasis — The 1994 Genesis Action-RPG That Turned Four Spirits Into a Second Party](https://dev.to/retrorom/beyond-oasis-the-1994-genesis-action-rpg-that-turned-four-spirits-into-a-second-party-jm1)
+- [[Boost]](https://dev.to/rudratosh/-2kei)
 <!-- BLOG-POST-LIST:END -->
 
