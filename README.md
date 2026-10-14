@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Most &quot;WBS tools&quot; are secretly Gantt editors — I built a board for real Work Breakdown Structures](https://dev.to/cuculhart/most-wbs-tools-are-secretly-gantt-editors-i-built-a-board-for-real-work-breakdown-structures-3id)
-- [SLX OrbitLab: satellite mission software with F Prime and Basilisk](https://dev.to/pezzullo/slx-orbitlab-satellite-mission-software-with-f-prime-and-basilisk-3dp6)
-- [Why encryption-at-rest doesn&#39;t protect your S3 bucket](https://dev.to/bala_paranj_059d338e44e7e/why-encryption-at-rest-doesnt-protect-your-s3-bucket-3p7k)
-- [How to Build a Solana Indexer: Streams, Backfill, Decoding and Reconciliation](https://dev.to/orbitflarerpc/how-to-build-a-solana-indexer-streams-backfill-decoding-and-reconciliation-3h1c)
+- [ScopeNote: a local AI second look before a freelance quote](https://dev.to/kokoaskr1/scopenote-a-local-ai-second-look-before-a-freelance-quote-1e57)
+- [CachePulse: Next-Generation Predictive Invalidation and Telemetry Engine for Distributed Caching Layers](https://dev.to/alessio99xx/cachepulse-next-generation-predictive-invalidation-and-telemetry-engine-for-distributed-caching-1ieh)
+- [An 83-Page Teardown of 11 Coding Agents: Three Findings, Two Hands-On Checks, One Expired Constant](https://dev.to/lum_evaluator/an-83-page-teardown-of-11-coding-agents-three-findings-two-hands-on-checks-one-expired-constant-5hha)
+- [Context::Vars: Perl variables with context scope](https://dev.to/lnation/contextvars-perl-variables-with-context-scope-12oi)
 <!-- BLOG-POST-LIST:END -->
 
