@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Regular Expressions: From Basics to Advanced Patterns](https://dev.to/ukasha_mahir_84eeb71db239/mastering-regular-expressions-from-basics-to-advanced-patterns-1cch)
-- [My referral codes are just user IDs. The hard part was the order transaction.](https://dev.to/statureai/my-referral-codes-are-just-user-ids-the-hard-part-was-the-order-transaction-10p3)
-- [Mastering TypeScript: From Zero to Hero in Modern Web Development](https://dev.to/ukasha_mahir_84eeb71db239/mastering-typescript-from-zero-to-hero-in-modern-web-development-13ii)
-- [My German links unfurl in English, and I decided that&#39;s OK &lpar;for now&rpar;](https://dev.to/statureai/my-german-links-unfurl-in-english-and-i-decided-thats-ok-for-now-1143)
+- [Three things to check after a coding agent changes your code](https://dev.to/bomtobe_orke/three-things-to-check-after-a-coding-agent-changes-your-code-7bh)
+- [Back up your ChatGPT, Claude and Gemini history as Markdown for Obsidian](https://dev.to/hexloomlabs/back-up-your-chatgpt-claude-and-gemini-history-as-markdown-for-obsidian-1o7i)
+- [Day 19: Using JSON.stringify&lpar;&rpar; and JSON.parse&lpar;&rpar; in My E-Commerce Project 🛒](https://dev.to/saravanan_cn_183fcba7cc7a/day-19-using-jsonstringify-and-jsonparse-in-my-e-commerce-project-c5o)
+- [Is that 24/7 webcam actually live? Two pulls, not one frame](https://dev.to/topazilands/is-that-247-webcam-actually-live-two-pulls-not-one-frame-3ij1)
 <!-- BLOG-POST-LIST:END -->
 
