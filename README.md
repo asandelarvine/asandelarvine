@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Python mutable default arguments: why your list keeps growing &lpar;tested examples&rpar;](https://dev.to/techvani_ai/python-mutable-default-arguments-why-your-list-keeps-growing-tested-examples-j38)
-- [Protocol Upgrade Compatibility Review: Compound V3](https://dev.to/dannydoes_2abdf9c/protocol-upgrade-compatibility-review-compound-v3-2np6)
-- [TryHackMe 50 labs compromised](https://dev.to/evpex/tryhackme-50-labs-compromised-3pam)
-- [Industrial Machine Monitoring: Key Parameters to Track for Better Production](https://dev.to/yogiengineering/industrial-machine-monitoring-key-parameters-to-track-for-better-production-35dl)
+- [Most &quot;WBS tools&quot; are secretly Gantt editors — I built a board for real Work Breakdown Structures](https://dev.to/cuculhart/most-wbs-tools-are-secretly-gantt-editors-i-built-a-board-for-real-work-breakdown-structures-3id)
+- [SLX OrbitLab: satellite mission software with F Prime and Basilisk](https://dev.to/pezzullo/slx-orbitlab-satellite-mission-software-with-f-prime-and-basilisk-3dp6)
+- [Why encryption-at-rest doesn&#39;t protect your S3 bucket](https://dev.to/bala_paranj_059d338e44e7e/why-encryption-at-rest-doesnt-protect-your-s3-bucket-3p7k)
+- [How to Build a Solana Indexer: Streams, Backfill, Decoding and Reconciliation](https://dev.to/orbitflarerpc/how-to-build-a-solana-indexer-streams-backfill-decoding-and-reconciliation-3h1c)
 <!-- BLOG-POST-LIST:END -->
 
