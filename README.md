@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Three things to check after a coding agent changes your code](https://dev.to/bomtobe_orke/three-things-to-check-after-a-coding-agent-changes-your-code-7bh)
-- [Back up your ChatGPT, Claude and Gemini history as Markdown for Obsidian](https://dev.to/hexloomlabs/back-up-your-chatgpt-claude-and-gemini-history-as-markdown-for-obsidian-1o7i)
-- [Day 19: Using JSON.stringify&lpar;&rpar; and JSON.parse&lpar;&rpar; in My E-Commerce Project 🛒](https://dev.to/saravanan_cn_183fcba7cc7a/day-19-using-jsonstringify-and-jsonparse-in-my-e-commerce-project-c5o)
-- [Is that 24/7 webcam actually live? Two pulls, not one frame](https://dev.to/topazilands/is-that-247-webcam-actually-live-two-pulls-not-one-frame-3ij1)
+- [Python mutable default arguments: why your list keeps growing &lpar;tested examples&rpar;](https://dev.to/techvani_ai/python-mutable-default-arguments-why-your-list-keeps-growing-tested-examples-j38)
+- [Protocol Upgrade Compatibility Review: Compound V3](https://dev.to/dannydoes_2abdf9c/protocol-upgrade-compatibility-review-compound-v3-2np6)
+- [TryHackMe 50 labs compromised](https://dev.to/evpex/tryhackme-50-labs-compromised-3pam)
+- [Industrial Machine Monitoring: Key Parameters to Track for Better Production](https://dev.to/yogiengineering/industrial-machine-monitoring-key-parameters-to-track-for-better-production-35dl)
 <!-- BLOG-POST-LIST:END -->
 
