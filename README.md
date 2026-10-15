@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What Testers Should Actually Do During the 14 Days](https://dev.to/vmzavas/what-testers-should-actually-do-during-the-14-days-4bie)
-- [You Want Your Manager to Pay for a Tool](https://dev.to/asael_shinder_9f53bdca840/you-want-your-manager-to-pay-for-a-tool-27ee)
-- [FrameTrellis v1.1.0: Clip Duplication, Title Overlays, and Headless Rendering](https://dev.to/sanskarcodes/frametrellis-v110-clip-duplication-title-overlays-and-headless-rendering-hg5)
-- [Your Login Code Assumes Every User Has a Password](https://dev.to/sergueyasaelshinder/your-login-code-assumes-every-user-has-a-password-2g2k)
+- [Make Token Spend an Invariant Before a Preemptible Free Tier Replays Your Eval Batch](https://dev.to/robinzzz/make-token-spend-an-invariant-before-a-preemptible-free-tier-replays-your-eval-batch-52e7)
+- [7 Supabase RLS Mistakes That Leak Data in Expo Apps &lpar;and the SQL to Fix Them&rpar;](https://dev.to/chris_fa_8fca9f4ba09d963/7-supabase-rls-mistakes-that-leak-data-in-expo-apps-and-the-sql-to-fix-them-4696)
+- [Build a Free-Tier Preflight Gate Before Your CLI Trusts a Hosted Model](https://dev.to/rivera123/build-a-free-tier-preflight-gate-before-your-cli-trusts-a-hosted-model-3cfc)
+- [Claude Code usage limits on Mac: quota vs token counts](https://dev.to/aiusagetracker/claude-code-usage-limits-on-mac-quota-vs-token-counts-276n)
 <!-- BLOG-POST-LIST:END -->
 
