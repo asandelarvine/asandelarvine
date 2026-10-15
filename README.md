@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Make Token Spend an Invariant Before a Preemptible Free Tier Replays Your Eval Batch](https://dev.to/robinzzz/make-token-spend-an-invariant-before-a-preemptible-free-tier-replays-your-eval-batch-52e7)
-- [7 Supabase RLS Mistakes That Leak Data in Expo Apps &lpar;and the SQL to Fix Them&rpar;](https://dev.to/chris_fa_8fca9f4ba09d963/7-supabase-rls-mistakes-that-leak-data-in-expo-apps-and-the-sql-to-fix-them-4696)
-- [Build a Free-Tier Preflight Gate Before Your CLI Trusts a Hosted Model](https://dev.to/rivera123/build-a-free-tier-preflight-gate-before-your-cli-trusts-a-hosted-model-3cfc)
-- [Claude Code usage limits on Mac: quota vs token counts](https://dev.to/aiusagetracker/claude-code-usage-limits-on-mac-quota-vs-token-counts-276n)
+- [&quot;Fingerprint, iris, or voice: which biometric fails first, and why fusion saves you&quot;](https://dev.to/martins808/fingerprint-iris-or-voice-which-biometric-fails-first-and-why-fusion-saves-you-dnf)
+- [How to Track Freelance Clients and Invoices in One Spreadsheet](https://dev.to/agentrunagency/how-to-track-freelance-clients-and-invoices-in-one-spreadsheet-25ge)
+- [Making PyTorch &amp; Local ML Work on Modest Hardware: Lessons from a 4GB/8GB Laptop GPU](https://dev.to/theclairvoyantbeing/making-pytorch-local-ml-work-on-modest-hardware-lessons-from-a-4gb8gb-laptop-gpu-5hn6)
+- [FlapJax buyback receipts &lpar;Oct 12–13&rpar;: re-derived from BNB Smart Chain](https://dev.to/imapphelp/flapjax-buyback-receipts-oct-12-13-re-derived-from-bnb-smart-chain-39gf)
 <!-- BLOG-POST-LIST:END -->
 
