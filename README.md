@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deleting a user&#39;s data from backups: crypto-shredding with one key per person](https://dev.to/lingikaushikreddy/deleting-a-users-data-from-backups-crypto-shredding-with-one-key-per-person-36e9)
-- [Settlement: a village strategy game where you can see why every agent did what it did](https://dev.to/lingikaushikreddy/settlement-a-village-strategy-game-where-you-can-see-why-every-agent-did-what-it-did-dg6)
-- [ElevenLabs + Twilio: Building Voice Call Applications](https://dev.to/voice_developer/elevenlabs-twilio-building-voice-call-applications-3l31)
-- [Your voice agent sounds right. Did it place the right order?](https://dev.to/lingikaushikreddy/your-voice-agent-sounds-right-did-it-place-the-right-order-55i8)
+- [What Testers Should Actually Do During the 14 Days](https://dev.to/vmzavas/what-testers-should-actually-do-during-the-14-days-4bie)
+- [You Want Your Manager to Pay for a Tool](https://dev.to/asael_shinder_9f53bdca840/you-want-your-manager-to-pay-for-a-tool-27ee)
+- [FrameTrellis v1.1.0: Clip Duplication, Title Overlays, and Headless Rendering](https://dev.to/sanskarcodes/frametrellis-v110-clip-duplication-title-overlays-and-headless-rendering-hg5)
+- [Your Login Code Assumes Every User Has a Password](https://dev.to/sergueyasaelshinder/your-login-code-assumes-every-user-has-a-password-2g2k)
 <!-- BLOG-POST-LIST:END -->
 
