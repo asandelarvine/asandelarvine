@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Fingerprint, iris, or voice: which biometric fails first, and why fusion saves you&quot;](https://dev.to/martins808/fingerprint-iris-or-voice-which-biometric-fails-first-and-why-fusion-saves-you-dnf)
-- [How to Track Freelance Clients and Invoices in One Spreadsheet](https://dev.to/agentrunagency/how-to-track-freelance-clients-and-invoices-in-one-spreadsheet-25ge)
-- [Making PyTorch &amp; Local ML Work on Modest Hardware: Lessons from a 4GB/8GB Laptop GPU](https://dev.to/theclairvoyantbeing/making-pytorch-local-ml-work-on-modest-hardware-lessons-from-a-4gb8gb-laptop-gpu-5hn6)
-- [FlapJax buyback receipts &lpar;Oct 12–13&rpar;: re-derived from BNB Smart Chain](https://dev.to/imapphelp/flapjax-buyback-receipts-oct-12-13-re-derived-from-bnb-smart-chain-39gf)
+- [DeepSeek&#39;s API Was Partly Down for 4h52m. It&#39;s Refunding a Week of Spend as Credit](https://dev.to/gabrielanhaia/deepseeks-api-was-partly-down-for-4h52m-its-refunding-a-week-of-spend-as-credit-3p6j)
+- [Claude Code vs Codex CLI: 18 Commands and Flags Side by Side](https://dev.to/gabrielanhaia/claude-code-vs-codex-cli-18-commands-and-flags-side-by-side-1335)
+- [Parallel Coding Agents Leave 9 Kinds of Junk on Your Disk. The Commands That Clear It](https://dev.to/gabrielanhaia/parallel-coding-agents-leave-9-kinds-of-junk-on-your-disk-the-commands-that-clear-it-47ol)
+- [&quot;Best Trading Psychology Tools in 2026: Edgewonk vs FX Replay vs Holdy Lab&quot;](https://dev.to/holdylab/best-trading-psychology-tools-in-2026-edgewonk-vs-fx-replay-vs-holdy-lab-1l29)
 <!-- BLOG-POST-LIST:END -->
 
