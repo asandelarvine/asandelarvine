@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Like a Ninja: Advanced Branching &amp; Automation Techniques](https://dev.to/ukasha_mahir_84eeb71db239/git-like-a-ninja-advanced-branching-automation-techniques-27h5)
-- [Beyond JSX: Modern Patterns for Building Scalable React Apps](https://dev.to/ukasha_mahir_84eeb71db239/beyond-jsx-modern-patterns-for-building-scalable-react-apps-46h)
-- [Beyond Oasis — The 1994 Genesis Action-RPG That Turned Four Spirits Into a Second Party](https://dev.to/retrorom/beyond-oasis-the-1994-genesis-action-rpg-that-turned-four-spirits-into-a-second-party-jm1)
-- [[Boost]](https://dev.to/rudratosh/-2kei)
+- [Deleting a user&#39;s data from backups: crypto-shredding with one key per person](https://dev.to/lingikaushikreddy/deleting-a-users-data-from-backups-crypto-shredding-with-one-key-per-person-36e9)
+- [Settlement: a village strategy game where you can see why every agent did what it did](https://dev.to/lingikaushikreddy/settlement-a-village-strategy-game-where-you-can-see-why-every-agent-did-what-it-did-dg6)
+- [ElevenLabs + Twilio: Building Voice Call Applications](https://dev.to/voice_developer/elevenlabs-twilio-building-voice-call-applications-3l31)
+- [Your voice agent sounds right. Did it place the right order?](https://dev.to/lingikaushikreddy/your-voice-agent-sounds-right-did-it-place-the-right-order-55i8)
 <!-- BLOG-POST-LIST:END -->
 
