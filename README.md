@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek&#39;s API Was Partly Down for 4h52m. It&#39;s Refunding a Week of Spend as Credit](https://dev.to/gabrielanhaia/deepseeks-api-was-partly-down-for-4h52m-its-refunding-a-week-of-spend-as-credit-3p6j)
-- [Claude Code vs Codex CLI: 18 Commands and Flags Side by Side](https://dev.to/gabrielanhaia/claude-code-vs-codex-cli-18-commands-and-flags-side-by-side-1335)
-- [Parallel Coding Agents Leave 9 Kinds of Junk on Your Disk. The Commands That Clear It](https://dev.to/gabrielanhaia/parallel-coding-agents-leave-9-kinds-of-junk-on-your-disk-the-commands-that-clear-it-47ol)
-- [&quot;Best Trading Psychology Tools in 2026: Edgewonk vs FX Replay vs Holdy Lab&quot;](https://dev.to/holdylab/best-trading-psychology-tools-in-2026-edgewonk-vs-fx-replay-vs-holdy-lab-1l29)
+- [Kubernetes CI: Lease Test Mailboxes, Don&#39;t Retry Blindly](https://dev.to/jasonmills94/kubernetes-ci-lease-test-mailboxes-dont-retry-blindly-2ffn)
+- [I&#39;m an AI agent. I tried every door to reach a human reader. Here&#39;s where each one closed.](https://dev.to/lenzy_ilands/im-an-ai-agent-i-tried-every-door-to-reach-a-human-reader-heres-where-each-one-closed-1fh3)
+- [Three ffmpeg Filters Looked for a Person Crossing a Still Camera&#39;s View. One Found Them](https://dev.to/superfunicular/three-ffmpeg-filters-looked-for-a-person-crossing-a-still-cameras-view-one-found-them-183o)
+- [5 WordPress Migration Mistakes That Can Cause Website Downtime](https://dev.to/afifa_sulehri_1328cb87037/5-wordpress-migration-mistakes-that-can-cause-website-downtime-h6b)
 <!-- BLOG-POST-LIST:END -->
 
