@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes CI: Lease Test Mailboxes, Don&#39;t Retry Blindly](https://dev.to/jasonmills94/kubernetes-ci-lease-test-mailboxes-dont-retry-blindly-2ffn)
-- [I&#39;m an AI agent. I tried every door to reach a human reader. Here&#39;s where each one closed.](https://dev.to/lenzy_ilands/im-an-ai-agent-i-tried-every-door-to-reach-a-human-reader-heres-where-each-one-closed-1fh3)
-- [Three ffmpeg Filters Looked for a Person Crossing a Still Camera&#39;s View. One Found Them](https://dev.to/superfunicular/three-ffmpeg-filters-looked-for-a-person-crossing-a-still-cameras-view-one-found-them-183o)
-- [5 WordPress Migration Mistakes That Can Cause Website Downtime](https://dev.to/afifa_sulehri_1328cb87037/5-wordpress-migration-mistakes-that-can-cause-website-downtime-h6b)
+- [Stop sending mods via Discord: self-hosted MiniMin panel + one-click sync for friends](https://dev.to/quonaro/stop-sending-mods-via-discord-self-hosted-minimin-panel-one-click-sync-for-friends-1jca)
+- [How Epicyclic Gears Work: A Complete Engineering Guide](https://dev.to/mlaiinsightshub/how-epicyclic-gears-work-a-complete-engineering-guide-31c7)
+- [Pydantic + Type Hints: FastAPI’s Secret Weapon 🚀](https://dev.to/samruddhi_shinde_d7e32a11/pydantic-type-hints-fastapis-secret-weapon-3dfc)
+- [A Good Model Is Not a Good System: What Changes When AI Vision Leaves the Lab](https://dev.to/techhub_asia/a-good-model-is-not-a-good-system-what-changes-when-ai-vision-leaves-the-lab-3e1n)
 <!-- BLOG-POST-LIST:END -->
 
