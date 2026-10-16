@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop sending mods via Discord: self-hosted MiniMin panel + one-click sync for friends](https://dev.to/quonaro/stop-sending-mods-via-discord-self-hosted-minimin-panel-one-click-sync-for-friends-1jca)
-- [How Epicyclic Gears Work: A Complete Engineering Guide](https://dev.to/mlaiinsightshub/how-epicyclic-gears-work-a-complete-engineering-guide-31c7)
-- [Pydantic + Type Hints: FastAPI’s Secret Weapon 🚀](https://dev.to/samruddhi_shinde_d7e32a11/pydantic-type-hints-fastapis-secret-weapon-3dfc)
-- [A Good Model Is Not a Good System: What Changes When AI Vision Leaves the Lab](https://dev.to/techhub_asia/a-good-model-is-not-a-good-system-what-changes-when-ai-vision-leaves-the-lab-3e1n)
+- [Les 6 fonctionnalités de Claude qui changent vraiment la donne](https://dev.to/rayane_tchakiguewe_bc9e08/les-6-fonctionnalites-de-claude-qui-changent-vraiment-la-donne-1f0d)
+- [Vision Pro 2: Guia rápido para devs e negócios](https://dev.to/leojulieta/vision-pro-2-guia-rapido-para-devs-e-negocios-2jbg)
+- [Vision Pro 2 Unveiled: Essential Dev Insights &amp; Specs](https://dev.to/leojulieta/vision-pro-2-unveiled-essential-dev-insights-specs-30dc)
+- [Car Dealer Local SEO Checklist: What to Check Each Month](https://dev.to/nancy_06243871abfbcfd3e26/car-dealer-local-seo-checklist-what-to-check-each-month-3c0f)
 <!-- BLOG-POST-LIST:END -->
 
