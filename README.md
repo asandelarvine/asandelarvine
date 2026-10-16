@@ -79,9 +79,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Engineering and Daily Calculations with OmniCalc Hub ⚙️🚀](https://dev.to/mudasir_rehman_1c53004357/streamlining-engineering-and-daily-calculations-with-omnicalc-hub-4a9n)
-- [A check before an AI agent pays, a watch after it, and a record anyone can verify &lpar;in shadow, measured first&rpar; published: false](https://dev.to/agenticfinancegraph/a-check-before-an-ai-agent-pays-a-watch-after-it-and-a-record-anyone-can-verify-in-shadow-1b9a)
-- [The GPU Repatriation Blueprint: When Private Clusters Beat Cloud Hyperscalers](https://dev.to/asifmiqbal/the-gpu-repatriation-blueprint-when-private-clusters-beat-cloud-hyperscalers-8l9)
-- [Multi-Currency Wallets Without Losing Auditability](https://dev.to/parksontano/multi-currency-wallets-without-losing-auditability-ckh)
+- [Have you ever wondered how an AI knows what you told it in another chat?
+How it picks up an old conversation a week later, exactly where you left off?
+Or how it seems to get to know you a little better over time?
+Maybe I can help you answer these questions](https://dev.to/leopold2/have-you-ever-wondered-how-an-ai-knows-what-you-told-it-in-another-chat-how-it-picks-up-an-old-309n)
+- [Audits by OAB, BCB and TCU](https://dev.to/beanstechbr/audits-by-oab-bcb-and-tcu-57b5)
+- [Immutable audit trail](https://dev.to/beanstechbr/immutable-audit-trail-59fo)
+- [Fleet Chat Rooms — One Filtering Channel or Per-Room Isolation](https://dev.to/ashtonblake6879/fleet-chat-rooms-one-filtering-channel-or-per-room-isolation-1pb2)
 <!-- BLOG-POST-LIST:END -->
 
