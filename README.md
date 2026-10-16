@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mercor: solo 208 de 923 ocupaciones con cobertura real de IA](https://dev.to/lu1tr0n/mercor-solo-208-de-923-ocupaciones-con-cobertura-real-de-ia-10c8)
-- [Build a Reproducible Local Agent Tool with ArcLM &lpar;No GPU Required&rpar;](https://dev.to/ahmadaldibo/build-a-reproducible-local-agent-tool-with-arclm-no-gpu-required-46kl)
-- [No Laptop, No Lab: How Destawell&#39;s Founder Got on Google&#39;s Bug Hunters List](https://dev.to/destawell/no-laptop-no-lab-how-destawells-founder-got-on-googles-bug-hunters-list-7ki)
-- [From Vibe-Coded to Trusted: One Agent Through Build, Scale, Govern and Optimize on Gemini Enterprise Agent Platform](https://dev.to/gde/from-vibe-coded-to-trusted-one-agent-through-build-scale-govern-and-optimize-on-gemini-4np1)
+- [Building a RAG assistant that says “I don’t know”: evaluation, security and a $0 deployment](https://dev.to/pabscueto/building-a-rag-assistant-that-says-i-dont-know-evaluation-security-and-a-0-deployment-28lm)
+- [How I stopped babysitting late-night releases](https://dev.to/piyush_soni_74c459572e149/how-i-stopped-babysitting-late-night-releases-4ko4)
+- [简单是复杂的结果](https://dev.to/kn_wangkn_3678dc4e70c96c4/jian-dan-shi-fu-za-de-jie-guo-1no0)
+- [Building FlakyDetector 0.2.2: Why Test Reliability Needs Evidence, Not Just a Score](https://dev.to/artem7898/building-flakydetector-022-why-test-reliability-needs-evidence-not-just-a-score-5043)
 <!-- BLOG-POST-LIST:END -->
 
