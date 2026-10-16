@@ -79,12 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Have you ever wondered how an AI knows what you told it in another chat?
-How it picks up an old conversation a week later, exactly where you left off?
-Or how it seems to get to know you a little better over time?
-Maybe I can help you answer these questions](https://dev.to/leopold2/have-you-ever-wondered-how-an-ai-knows-what-you-told-it-in-another-chat-how-it-picks-up-an-old-309n)
-- [Audits by OAB, BCB and TCU](https://dev.to/beanstechbr/audits-by-oab-bcb-and-tcu-57b5)
-- [Immutable audit trail](https://dev.to/beanstechbr/immutable-audit-trail-59fo)
-- [Fleet Chat Rooms — One Filtering Channel or Per-Room Isolation](https://dev.to/ashtonblake6879/fleet-chat-rooms-one-filtering-channel-or-per-room-isolation-1pb2)
+- [Mercor: solo 208 de 923 ocupaciones con cobertura real de IA](https://dev.to/lu1tr0n/mercor-solo-208-de-923-ocupaciones-con-cobertura-real-de-ia-10c8)
+- [Build a Reproducible Local Agent Tool with ArcLM &lpar;No GPU Required&rpar;](https://dev.to/ahmadaldibo/build-a-reproducible-local-agent-tool-with-arclm-no-gpu-required-46kl)
+- [No Laptop, No Lab: How Destawell&#39;s Founder Got on Google&#39;s Bug Hunters List](https://dev.to/destawell/no-laptop-no-lab-how-destawells-founder-got-on-googles-bug-hunters-list-7ki)
+- [From Vibe-Coded to Trusted: One Agent Through Build, Scale, Govern and Optimize on Gemini Enterprise Agent Platform](https://dev.to/gde/from-vibe-coded-to-trusted-one-agent-through-build-scale-govern-and-optimize-on-gemini-4np1)
 <!-- BLOG-POST-LIST:END -->
 
