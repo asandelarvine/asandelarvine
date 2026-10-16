@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Les 6 fonctionnalités de Claude qui changent vraiment la donne](https://dev.to/rayane_tchakiguewe_bc9e08/les-6-fonctionnalites-de-claude-qui-changent-vraiment-la-donne-1f0d)
-- [Vision Pro 2: Guia rápido para devs e negócios](https://dev.to/leojulieta/vision-pro-2-guia-rapido-para-devs-e-negocios-2jbg)
-- [Vision Pro 2 Unveiled: Essential Dev Insights &amp; Specs](https://dev.to/leojulieta/vision-pro-2-unveiled-essential-dev-insights-specs-30dc)
-- [Car Dealer Local SEO Checklist: What to Check Each Month](https://dev.to/nancy_06243871abfbcfd3e26/car-dealer-local-seo-checklist-what-to-check-each-month-3c0f)
+- [Streamlining Engineering and Daily Calculations with OmniCalc Hub ⚙️🚀](https://dev.to/mudasir_rehman_1c53004357/streamlining-engineering-and-daily-calculations-with-omnicalc-hub-4a9n)
+- [A check before an AI agent pays, a watch after it, and a record anyone can verify &lpar;in shadow, measured first&rpar; published: false](https://dev.to/agenticfinancegraph/a-check-before-an-ai-agent-pays-a-watch-after-it-and-a-record-anyone-can-verify-in-shadow-1b9a)
+- [The GPU Repatriation Blueprint: When Private Clusters Beat Cloud Hyperscalers](https://dev.to/asifmiqbal/the-gpu-repatriation-blueprint-when-private-clusters-beat-cloud-hyperscalers-8l9)
+- [Multi-Currency Wallets Without Losing Auditability](https://dev.to/parksontano/multi-currency-wallets-without-losing-auditability-ckh)
 <!-- BLOG-POST-LIST:END -->
 
