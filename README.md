@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a RAG assistant that says “I don’t know”: evaluation, security and a $0 deployment](https://dev.to/pabscueto/building-a-rag-assistant-that-says-i-dont-know-evaluation-security-and-a-0-deployment-28lm)
-- [How I stopped babysitting late-night releases](https://dev.to/piyush_soni_74c459572e149/how-i-stopped-babysitting-late-night-releases-4ko4)
-- [简单是复杂的结果](https://dev.to/kn_wangkn_3678dc4e70c96c4/jian-dan-shi-fu-za-de-jie-guo-1no0)
-- [Building FlakyDetector 0.2.2: Why Test Reliability Needs Evidence, Not Just a Score](https://dev.to/artem7898/building-flakydetector-022-why-test-reliability-needs-evidence-not-just-a-score-5043)
+- [Realtime Publish Alone Cannot Deliver Chat Room Notifications After Disconnects](https://dev.to/elvrythn486209/realtime-publish-alone-cannot-deliver-chat-room-notifications-after-disconnects-1mcg)
+- [Building an exposure register from measurement data](https://dev.to/onaeiuspkz/building-an-exposure-register-from-measurement-data-36gg)
+- [Debugging Vector Embeddings in .NET: Common Outage Causes](https://dev.to/amitesh0512/debugging-vector-embeddings-in-net-common-outage-causes-1moo)
+- [99 Cold Emails, 0 Replies — Our Outreach Numbers So Far](https://dev.to/lichris/99-cold-emails-0-replies-our-outreach-numbers-so-far-m2d)
 <!-- BLOG-POST-LIST:END -->
 
