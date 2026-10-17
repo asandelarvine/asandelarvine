@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Realtime Publish Alone Cannot Deliver Chat Room Notifications After Disconnects](https://dev.to/elvrythn486209/realtime-publish-alone-cannot-deliver-chat-room-notifications-after-disconnects-1mcg)
-- [Building an exposure register from measurement data](https://dev.to/onaeiuspkz/building-an-exposure-register-from-measurement-data-36gg)
-- [Debugging Vector Embeddings in .NET: Common Outage Causes](https://dev.to/amitesh0512/debugging-vector-embeddings-in-net-common-outage-causes-1moo)
-- [99 Cold Emails, 0 Replies — Our Outreach Numbers So Far](https://dev.to/lichris/99-cold-emails-0-replies-our-outreach-numbers-so-far-m2d)
+- [How to Test If Your DDoS Protection Actually Works &lpar;Before an Attacker Shows You&rpar;](https://dev.to/zerodawnipstress/how-to-test-if-your-ddos-protection-actually-works-before-an-attacker-shows-you-5782)
+- [A Passed options Dict: How PyJWT&#39;s decode&lpar;&rpar; Silently Rewrote a Caller&#39;s Configuration](https://dev.to/jeffreyciend/a-passed-options-dict-how-pyjwts-decode-silently-rewrote-a-callers-configuration-49gn)
+- [How to Verify a “Free Forever” AI Tier Before You Rely on It](https://dev.to/kaviyarasu-viswanath/how-to-verify-a-free-forever-ai-tier-before-you-rely-on-it-4p0c)
+- [Llmspeed: Benchmark rápido de LLMs com latência, throughput e TCO](https://dev.to/leojulieta/llmspeed-benchmark-rapido-de-llms-com-latencia-throughput-e-tco-2cok)
 <!-- BLOG-POST-LIST:END -->
 
