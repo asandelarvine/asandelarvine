@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Deviens le détective du code ! 🕵️](https://dev.to/coddyrun/deviens-le-detective-du-code--5b86)
-- [Why Your AI Automation Estimate Is Probably Wrong](https://dev.to/eugene_starikov/why-your-ai-automation-estimate-is-probably-wrong-4h1n)
-- [Running NVIDIA&#39;s new 120B Nemotron-3.5-Super on an 8 GB GPU — skipping the zeros, and finding the real bottleneck](https://dev.to/helgard_orlm/running-nvidias-new-120b-nemotron-35-super-on-an-8-gb-gpu-skipping-the-zeros-and-finding-the-44o4)
-- [I sent the fixes. A month later, none of them have merged.](https://dev.to/rehansanjay/i-sent-the-fixes-a-month-later-none-of-them-have-merged-2geb)
+- [The Ethics of Voice Cloning: What Developers Should Know](https://dev.to/voice_developer/the-ethics-of-voice-cloning-what-developers-should-know-1e6i)
+- [I changed one parameter and the median moved 10x](https://dev.to/sam_compsapi/i-changed-one-parameter-and-the-median-moved-10x-1kam)
+- [google-trends-api dailyTrends returning 404? Get Google&#39;s trending searches from Node.js or Python](https://dev.to/hiver/google-trends-api-dailytrends-returning-404-get-googles-trending-searches-from-nodejs-or-python-1hic)
+- [Why You Should Keep a Decision Log &lpar;and a Simple Format to Start With&rpar;](https://dev.to/freetierkits/why-you-should-keep-a-decision-log-and-a-simple-format-to-start-with-467m)
 <!-- BLOG-POST-LIST:END -->
 
