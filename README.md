@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Test If Your DDoS Protection Actually Works &lpar;Before an Attacker Shows You&rpar;](https://dev.to/zerodawnipstress/how-to-test-if-your-ddos-protection-actually-works-before-an-attacker-shows-you-5782)
-- [A Passed options Dict: How PyJWT&#39;s decode&lpar;&rpar; Silently Rewrote a Caller&#39;s Configuration](https://dev.to/jeffreyciend/a-passed-options-dict-how-pyjwts-decode-silently-rewrote-a-callers-configuration-49gn)
-- [How to Verify a “Free Forever” AI Tier Before You Rely on It](https://dev.to/kaviyarasu-viswanath/how-to-verify-a-free-forever-ai-tier-before-you-rely-on-it-4p0c)
-- [Llmspeed: Benchmark rápido de LLMs com latência, throughput e TCO](https://dev.to/leojulieta/llmspeed-benchmark-rapido-de-llms-com-latencia-throughput-e-tco-2cok)
+- [Deviens le détective du code ! 🕵️](https://dev.to/coddyrun/deviens-le-detective-du-code--5b86)
+- [Why Your AI Automation Estimate Is Probably Wrong](https://dev.to/eugene_starikov/why-your-ai-automation-estimate-is-probably-wrong-4h1n)
+- [Running NVIDIA&#39;s new 120B Nemotron-3.5-Super on an 8 GB GPU — skipping the zeros, and finding the real bottleneck](https://dev.to/helgard_orlm/running-nvidias-new-120b-nemotron-35-super-on-an-8-gb-gpu-skipping-the-zeros-and-finding-the-44o4)
+- [I sent the fixes. A month later, none of them have merged.](https://dev.to/rehansanjay/i-sent-the-fixes-a-month-later-none-of-them-have-merged-2geb)
 <!-- BLOG-POST-LIST:END -->
 
