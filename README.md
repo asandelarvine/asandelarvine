@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ethics of Voice Cloning: What Developers Should Know](https://dev.to/voice_developer/the-ethics-of-voice-cloning-what-developers-should-know-1e6i)
-- [I changed one parameter and the median moved 10x](https://dev.to/sam_compsapi/i-changed-one-parameter-and-the-median-moved-10x-1kam)
-- [google-trends-api dailyTrends returning 404? Get Google&#39;s trending searches from Node.js or Python](https://dev.to/hiver/google-trends-api-dailytrends-returning-404-get-googles-trending-searches-from-nodejs-or-python-1hic)
-- [Why You Should Keep a Decision Log &lpar;and a Simple Format to Start With&rpar;](https://dev.to/freetierkits/why-you-should-keep-a-decision-log-and-a-simple-format-to-start-with-467m)
+- [Your fraud analyst sees rows. Fraud is a shape.](https://dev.to/sk_saddam_5cfd61d6612b97/your-fraud-analyst-sees-rows-fraud-is-a-shape-51o8)
+- [MemoTune: turn lyrics or ideas into full AI songs](https://dev.to/alvy_mixstudio/memotune-turn-lyrics-or-ideas-into-full-ai-songs-1bjb)
+- [Sprite Flow: AI sprite generator for 2D game animations](https://dev.to/alvy_mixstudio/sprite-flow-ai-sprite-generator-for-2d-game-animations-2g5n)
+- [MenuGlot: Offline AI Menu Maker for Local Restaurants](https://dev.to/sarvadnya_sonje_f5007623b/menuglot-offline-ai-menu-maker-for-local-restaurants-gn1)
 <!-- BLOG-POST-LIST:END -->
 
