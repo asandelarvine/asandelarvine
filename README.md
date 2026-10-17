@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your fraud analyst sees rows. Fraud is a shape.](https://dev.to/sk_saddam_5cfd61d6612b97/your-fraud-analyst-sees-rows-fraud-is-a-shape-51o8)
-- [MemoTune: turn lyrics or ideas into full AI songs](https://dev.to/alvy_mixstudio/memotune-turn-lyrics-or-ideas-into-full-ai-songs-1bjb)
-- [Sprite Flow: AI sprite generator for 2D game animations](https://dev.to/alvy_mixstudio/sprite-flow-ai-sprite-generator-for-2d-game-animations-2g5n)
-- [MenuGlot: Offline AI Menu Maker for Local Restaurants](https://dev.to/sarvadnya_sonje_f5007623b/menuglot-offline-ai-menu-maker-for-local-restaurants-gn1)
+- [OpenCode Told 1.4% of Console Users to Revoke Their OpenAI and Anthropic Keys](https://dev.to/gabrielanhaia/opencode-told-14-of-console-users-to-revoke-their-openai-and-anthropic-keys-561)
+- [The Hidden Cost of AI Hype: Why Your Setup Matters More Than the Model &lpar;A FinOps Post-Mortem&rpar;](https://dev.to/jsb-securedme/the-hidden-cost-of-ai-hype-why-your-setup-matters-more-than-the-model-a-finops-post-mortem-1hgd)
+- [Your Discovery Example Is a Promise — We Replayed 1,602 of Ours to Check](https://dev.to/minia2a/your-discovery-example-is-a-promise-we-replayed-1602-of-ours-to-check-3n15)
+- [A mail forwarding rule is persistence that survives a password reset](https://dev.to/onaeiuspkz/a-mail-forwarding-rule-is-persistence-that-survives-a-password-reset-1do1)
 <!-- BLOG-POST-LIST:END -->
 
