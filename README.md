@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Embed Query for Top-K Vector Search with Metadata Filter](https://dev.to/knutberg8412/nodejs-embed-query-for-top-k-vector-search-with-metadata-filter-445i)
-- [FAQ: Streaming Tokens Is Not Faster Generation — Four Questions, One Stopwatch Test](https://dev.to/gitlab_3188/faq-streaming-tokens-is-not-faster-generation-four-questions-one-stopwatch-test-k20)
-- [Title: Smart Invoice AI: private, local bookkeeping for freelancers](https://dev.to/qadeer_durrani_a2a561ac96/title-smart-invoice-ai-private-local-bookkeeping-for-freelancers-1nhf)
-- [I Built MenuLingo So You Never Have to Guess What’s in Your Food Again](https://dev.to/derangedsaturnian/i-built-menulingo-so-you-never-have-to-guess-whats-in-your-food-again-5h77)
+- [Your Domain Is Public. But Do You Know What It Reveals? A Practical Security Assessment Guide](https://dev.to/rohan_singhrajput_39e0fa/your-domain-is-public-but-do-you-know-what-it-reveals-a-practical-security-assessment-guide-3792)
+- [Your safety check is the outage: cost-aware backoff for governed tool calls](https://dev.to/dekita/your-safety-check-is-the-outage-cost-aware-backoff-for-governed-tool-calls-3ia4)
+- [Your x402 paywall answers 402 forever, and your facilitator is why](https://dev.to/innerozma/your-x402-paywall-answers-402-forever-and-your-facilitator-is-why-13of)
+- [AI Chargeback Disputes: How Small Ecommerce Stores Automate Evidence and Win](https://dev.to/veduis/ai-chargeback-disputes-how-small-ecommerce-stores-automate-evidence-and-win-bhc)
 <!-- BLOG-POST-LIST:END -->
 
