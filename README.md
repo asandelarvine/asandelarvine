@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js SMS Alert API: 3 Template Ownership Rules for Home Security SaaS](https://dev.to/eliasfischer8351/nodejs-sms-alert-api-3-template-ownership-rules-for-home-security-saas-1h0f)
-- [Can AI Agents Access Your HR and Payroll Data Safely? 329 Tools Counted, 54 Write/Delete](https://dev.to/scriptmasterlabs01/can-ai-agents-access-your-hr-and-payroll-data-safely-329-tools-counted-54-writedelete-41n5)
-- [Why AI Agents Fail: Pattern Matching Beats Reasoning Scaffolds](https://dev.to/yanoai/why-ai-agents-fail-pattern-matching-beats-reasoning-scaffolds-38am)
-- [From 1,459 Views to Zero Sales: One Week of Raw Funnel Numbers, Nothing Rounded](https://dev.to/yuhehe/from-1459-views-to-zero-sales-one-week-of-raw-funnel-numbers-nothing-rounded-1n89)
+- [Someone just starting out looking for feedback](https://dev.to/uwerelikewhat/someone-just-starting-out-looking-for-feedback-54gf)
+- [I built an in-browser search engine that finds the exact function to fix a bug](https://dev.to/lazeez/i-built-an-in-browser-search-engine-that-finds-the-exact-function-to-fix-a-bug-1efg)
+- [I got tired of &quot;can you see my screen?&quot; so I built a shared reading room for documents](https://dev.to/indiemaker/i-got-tired-of-can-you-see-my-screen-so-i-built-a-shared-reading-room-for-documents-32d9)
+- [Folio: Organize your files using AI on-device](https://dev.to/aravindsathesh/folio-organize-your-files-using-ai-on-device-3421)
 <!-- BLOG-POST-LIST:END -->
 
