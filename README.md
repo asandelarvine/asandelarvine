@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a 10-Case Eval Set for Your AI Agent and Run It on Every Change](https://dev.to/promptmaster/build-a-10-case-eval-set-for-your-ai-agent-and-run-it-on-every-change-4fpl)
-- [Our marketing pages never read your session, so the header guesses from a cookie with useSyncExternalStore](https://dev.to/daniel_pertu/our-marketing-pages-never-read-your-session-so-the-header-guesses-from-a-cookie-with-1odk)
-- [One .web.tsx in the whole app, and it is 196 lines of stack navigator that no phone will ever run](https://dev.to/daniel_pertu/one-webtsx-in-the-whole-app-and-it-is-196-lines-of-stack-navigator-that-no-phone-will-ever-run-he0)
-- [📊 Et si les données du recrutement répondaient à nos questions ?](https://dev.to/elodie_tran_data/et-si-les-donnees-du-recrutement-repondaient-a-nos-questions--1d5o)
+- [Frontend Testing: Confidence Without Brittleness](https://dev.to/sri2614/frontend-testing-confidence-without-brittleness-43cp)
+- [We built FalkorDB a company brain from its own GitHub. It knew things they may not.](https://dev.to/chethan_vasthaw/we-built-falkordb-a-company-brain-from-its-own-github-it-knew-things-they-may-not-47h8)
+- [How not to use AI. Student Version :&rpar;](https://dev.to/theerej_c/how-not-to-use-ai-student-version--20b2)
+- [Can a QAT 12B Fit an 8 GB GPU? Gemma 4 12B on an RTX 3050](https://dev.to/gde/can-a-qat-12b-fit-an-8-gb-gpu-gemma-4-12b-on-an-rtx-3050-1267)
 <!-- BLOG-POST-LIST:END -->
 
