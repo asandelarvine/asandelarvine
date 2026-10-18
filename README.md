@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Testing: Confidence Without Brittleness](https://dev.to/sri2614/frontend-testing-confidence-without-brittleness-43cp)
-- [We built FalkorDB a company brain from its own GitHub. It knew things they may not.](https://dev.to/chethan_vasthaw/we-built-falkordb-a-company-brain-from-its-own-github-it-knew-things-they-may-not-47h8)
-- [How not to use AI. Student Version :&rpar;](https://dev.to/theerej_c/how-not-to-use-ai-student-version--20b2)
-- [Can a QAT 12B Fit an 8 GB GPU? Gemma 4 12B on an RTX 3050](https://dev.to/gde/can-a-qat-12b-fit-an-8-gb-gpu-gemma-4-12b-on-an-rtx-3050-1267)
+- [Node.js Embed Query for Top-K Vector Search with Metadata Filter](https://dev.to/knutberg8412/nodejs-embed-query-for-top-k-vector-search-with-metadata-filter-445i)
+- [FAQ: Streaming Tokens Is Not Faster Generation — Four Questions, One Stopwatch Test](https://dev.to/gitlab_3188/faq-streaming-tokens-is-not-faster-generation-four-questions-one-stopwatch-test-k20)
+- [Title: Smart Invoice AI: private, local bookkeeping for freelancers](https://dev.to/qadeer_durrani_a2a561ac96/title-smart-invoice-ai-private-local-bookkeeping-for-freelancers-1nhf)
+- [I Built MenuLingo So You Never Have to Guess What’s in Your Food Again](https://dev.to/derangedsaturnian/i-built-menulingo-so-you-never-have-to-guess-whats-in-your-food-again-5h77)
 <!-- BLOG-POST-LIST:END -->
 
