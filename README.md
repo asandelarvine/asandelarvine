@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenCode Told 1.4% of Console Users to Revoke Their OpenAI and Anthropic Keys](https://dev.to/gabrielanhaia/opencode-told-14-of-console-users-to-revoke-their-openai-and-anthropic-keys-561)
-- [The Hidden Cost of AI Hype: Why Your Setup Matters More Than the Model &lpar;A FinOps Post-Mortem&rpar;](https://dev.to/jsb-securedme/the-hidden-cost-of-ai-hype-why-your-setup-matters-more-than-the-model-a-finops-post-mortem-1hgd)
-- [Your Discovery Example Is a Promise — We Replayed 1,602 of Ours to Check](https://dev.to/minia2a/your-discovery-example-is-a-promise-we-replayed-1602-of-ours-to-check-3n15)
-- [A mail forwarding rule is persistence that survives a password reset](https://dev.to/onaeiuspkz/a-mail-forwarding-rule-is-persistence-that-survives-a-password-reset-1do1)
+- [Node.js SMS Alert API: 3 Template Ownership Rules for Home Security SaaS](https://dev.to/eliasfischer8351/nodejs-sms-alert-api-3-template-ownership-rules-for-home-security-saas-1h0f)
+- [Can AI Agents Access Your HR and Payroll Data Safely? 329 Tools Counted, 54 Write/Delete](https://dev.to/scriptmasterlabs01/can-ai-agents-access-your-hr-and-payroll-data-safely-329-tools-counted-54-writedelete-41n5)
+- [Why AI Agents Fail: Pattern Matching Beats Reasoning Scaffolds](https://dev.to/yanoai/why-ai-agents-fail-pattern-matching-beats-reasoning-scaffolds-38am)
+- [From 1,459 Views to Zero Sales: One Week of Raw Funnel Numbers, Nothing Rounded](https://dev.to/yuhehe/from-1459-views-to-zero-sales-one-week-of-raw-funnel-numbers-nothing-rounded-1n89)
 <!-- BLOG-POST-LIST:END -->
 
