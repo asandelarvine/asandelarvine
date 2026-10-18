@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Someone just starting out looking for feedback](https://dev.to/uwerelikewhat/someone-just-starting-out-looking-for-feedback-54gf)
-- [I built an in-browser search engine that finds the exact function to fix a bug](https://dev.to/lazeez/i-built-an-in-browser-search-engine-that-finds-the-exact-function-to-fix-a-bug-1efg)
-- [I got tired of &quot;can you see my screen?&quot; so I built a shared reading room for documents](https://dev.to/indiemaker/i-got-tired-of-can-you-see-my-screen-so-i-built-a-shared-reading-room-for-documents-32d9)
-- [Folio: Organize your files using AI on-device](https://dev.to/aravindsathesh/folio-organize-your-files-using-ai-on-device-3421)
+- [Build a 10-Case Eval Set for Your AI Agent and Run It on Every Change](https://dev.to/promptmaster/build-a-10-case-eval-set-for-your-ai-agent-and-run-it-on-every-change-4fpl)
+- [Our marketing pages never read your session, so the header guesses from a cookie with useSyncExternalStore](https://dev.to/daniel_pertu/our-marketing-pages-never-read-your-session-so-the-header-guesses-from-a-cookie-with-1odk)
+- [One .web.tsx in the whole app, and it is 196 lines of stack navigator that no phone will ever run](https://dev.to/daniel_pertu/one-webtsx-in-the-whole-app-and-it-is-196-lines-of-stack-navigator-that-no-phone-will-ever-run-he0)
+- [📊 Et si les données du recrutement répondaient à nos questions ?](https://dev.to/elodie_tran_data/et-si-les-donnees-du-recrutement-repondaient-a-nos-questions--1d5o)
 <!-- BLOG-POST-LIST:END -->
 
