@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Domain Is Public. But Do You Know What It Reveals? A Practical Security Assessment Guide](https://dev.to/rohan_singhrajput_39e0fa/your-domain-is-public-but-do-you-know-what-it-reveals-a-practical-security-assessment-guide-3792)
-- [Your safety check is the outage: cost-aware backoff for governed tool calls](https://dev.to/dekita/your-safety-check-is-the-outage-cost-aware-backoff-for-governed-tool-calls-3ia4)
-- [Your x402 paywall answers 402 forever, and your facilitator is why](https://dev.to/innerozma/your-x402-paywall-answers-402-forever-and-your-facilitator-is-why-13of)
-- [AI Chargeback Disputes: How Small Ecommerce Stores Automate Evidence and Win](https://dev.to/veduis/ai-chargeback-disputes-how-small-ecommerce-stores-automate-evidence-and-win-bhc)
+- [Gas Optimization Audit: Steakhouse Financial](https://dev.to/dannydoes_2abdf9c/gas-optimization-audit-steakhouse-financial-1cko)
+- [How ReadOnlySpan&lt;char&gt;.IndexOf finds a substring with SIMD](https://dev.to/pedrosakuma/how-readonlyspanindexof-finds-a-substring-with-simd-2i2d)
+- [Market Analysis: The Escalation of Physical Threats in Digital Asset Management: Addressing the Rise of &quot;Wrench Attacks&quot;](https://dev.to/ksp_fc16f85860b36c9a9/market-analysis-the-escalation-of-physical-threats-in-digital-asset-management-addressing-the-49ac)
+- [Nobody Noticed the Agents: What India&#39;s CERT-In Advisory Means for Your Network](https://dev.to/hlinor/nobody-noticed-the-agents-what-indias-cert-in-advisory-means-for-your-network-397a)
 <!-- BLOG-POST-LIST:END -->
 
