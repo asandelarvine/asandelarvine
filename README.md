@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gas Optimization Audit: Steakhouse Financial](https://dev.to/dannydoes_2abdf9c/gas-optimization-audit-steakhouse-financial-1cko)
-- [How ReadOnlySpan&lt;char&gt;.IndexOf finds a substring with SIMD](https://dev.to/pedrosakuma/how-readonlyspanindexof-finds-a-substring-with-simd-2i2d)
-- [Market Analysis: The Escalation of Physical Threats in Digital Asset Management: Addressing the Rise of &quot;Wrench Attacks&quot;](https://dev.to/ksp_fc16f85860b36c9a9/market-analysis-the-escalation-of-physical-threats-in-digital-asset-management-addressing-the-49ac)
-- [Nobody Noticed the Agents: What India&#39;s CERT-In Advisory Means for Your Network](https://dev.to/hlinor/nobody-noticed-the-agents-what-indias-cert-in-advisory-means-for-your-network-397a)
+- [Business Process Automation in Node.js and Postgres: Approval Flows](https://dev.to/geminate_solutions_9b6035/business-process-automation-in-nodejs-and-postgres-approval-flows-2ojp)
+- [&#39;Browser Tools, Server Checks, and a Directory: One Architecture&#39;](https://dev.to/laing_lii_8c1214ffb0b60ec/browser-tools-server-checks-and-a-directory-one-architecture-39jf)
+- [One Timeout Cannot Answer Two Questions: Why an AI Write&#39;s Confirmation Needs Two Windows](https://dev.to/rain6fish/one-timeout-cannot-answer-two-questions-why-an-ai-writes-confirmation-needs-two-windows-hj8)
+- [Debugging OpenAI Node SDK baseURL: capture the request before chasing a 404](https://dev.to/cmzz/debugging-openai-node-sdk-baseurl-capture-the-request-before-chasing-a-404-3d4k)
 <!-- BLOG-POST-LIST:END -->
 
