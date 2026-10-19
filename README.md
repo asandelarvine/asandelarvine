@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Dino3D.gg – Free 3D Dinosaur Runner with Google &amp; Discord Login](https://dev.to/renato_cindori/dino3dgg-free-3d-dinosaur-runner-with-google-discord-login-3ao3)
-- [7 PII-Safe Error Fields for Release Environment Request and Regional Rollbacks](https://dev.to/crimsonwave9361502/7-pii-safe-error-fields-for-release-environment-request-and-regional-rollbacks-416g)
-- [The Packaging Layer That Makes One Asset Sell Three Ways: Zips, Covers And 1280x720 Renders](https://dev.to/revanzart/the-packaging-layer-that-makes-one-asset-sell-three-ways-zips-covers-and-1280x720-renders-4kod)
-- [7 Claude Prompts That Run a Week of Social Media Over MCP &lpar;Copy-Paste Ready&rpar;](https://dev.to/olver_thorarinsson_bcf885/7-claude-prompts-that-run-a-week-of-social-media-over-mcp-copy-paste-ready-146o)
+- [Beyond the AI Hype: Navigating Migration, Compression, and the Future of Engineering](https://dev.to/divya_bathoju/beyond-the-ai-hype-navigating-migration-compression-and-the-future-of-engineering-497b)
+- [Made my OS without using Linux or any parent OS. Wrote my own kernel and bootloader. First test today, Works! Currently making https and encryption services.](https://dev.to/ismd-clutch/made-my-os-without-using-linux-or-any-parent-os-wrote-my-own-kernel-and-bootloader-first-test-5bb6)
+- [FastAPI: contrato de espera para emails de prueba](https://dev.to/oliviachen7/fastapi-contrato-de-espera-para-emails-de-prueba-1fci)
+- [Fix Missing MP3 Tags and Album Covers for Free](https://dev.to/thomate2011/how-to-fix-missing-mp3-tags-and-album-covers-for-free-using-chatgpt-codex-and-mp3tag-145n)
 <!-- BLOG-POST-LIST:END -->
 
