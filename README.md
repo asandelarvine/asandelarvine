@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Business Process Automation in Node.js and Postgres: Approval Flows](https://dev.to/geminate_solutions_9b6035/business-process-automation-in-nodejs-and-postgres-approval-flows-2ojp)
-- [&#39;Browser Tools, Server Checks, and a Directory: One Architecture&#39;](https://dev.to/laing_lii_8c1214ffb0b60ec/browser-tools-server-checks-and-a-directory-one-architecture-39jf)
-- [One Timeout Cannot Answer Two Questions: Why an AI Write&#39;s Confirmation Needs Two Windows](https://dev.to/rain6fish/one-timeout-cannot-answer-two-questions-why-an-ai-writes-confirmation-needs-two-windows-hj8)
-- [Debugging OpenAI Node SDK baseURL: capture the request before chasing a 404](https://dev.to/cmzz/debugging-openai-node-sdk-baseurl-capture-the-request-before-chasing-a-404-3d4k)
+- [Disney&#39;s Character.AI Bid Is a Hiring Signal, Not a Done Deal](https://dev.to/chandan_kumar_1afaffcf991/disneys-characterai-bid-is-a-hiring-signal-not-a-done-deal-13lj)
+- [Replay only some RabbitMQ dead letters: by exception, header or routing key](https://dev.to/viktorbaumann/replay-only-some-rabbitmq-dead-letters-by-exception-header-or-routing-key-3goa)
+- [Seamless Model Discovery and Download from HuggingFace Hub in llama.cpp UI](https://dev.to/pdrojack/seamless-model-discovery-and-download-from-huggingface-hub-in-llamacpp-ui-2e8g)
+- [BillBuddhi-Local-first AI invoice assistant for Indian small businesses using Gemma, Ollama, Tesseract OCR, and Streamlit.](https://dev.to/nidhi_jha/billbuddhi-local-first-ai-invoice-assistant-for-indian-small-businesses-using-gemma-ollama-4c25)
 <!-- BLOG-POST-LIST:END -->
 
