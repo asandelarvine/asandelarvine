@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Disney&#39;s Character.AI Bid Is a Hiring Signal, Not a Done Deal](https://dev.to/chandan_kumar_1afaffcf991/disneys-characterai-bid-is-a-hiring-signal-not-a-done-deal-13lj)
-- [Replay only some RabbitMQ dead letters: by exception, header or routing key](https://dev.to/viktorbaumann/replay-only-some-rabbitmq-dead-letters-by-exception-header-or-routing-key-3goa)
-- [Seamless Model Discovery and Download from HuggingFace Hub in llama.cpp UI](https://dev.to/pdrojack/seamless-model-discovery-and-download-from-huggingface-hub-in-llamacpp-ui-2e8g)
-- [BillBuddhi-Local-first AI invoice assistant for Indian small businesses using Gemma, Ollama, Tesseract OCR, and Streamlit.](https://dev.to/nidhi_jha/billbuddhi-local-first-ai-invoice-assistant-for-indian-small-businesses-using-gemma-ollama-4c25)
+- [State of AI Instruction Quality: Files With Persona Lines Score Lower](https://dev.to/reporails/state-of-ai-instruction-quality-files-with-persona-lines-score-lower-3dff)
+- [Top IoT Platforms for Students and Developers in 2026](https://dev.to/vijay_g_adefbd244d79c4c38/top-iot-platforms-for-students-and-developers-in-2026-1jef)
+- [About Hacktoberfest](https://dev.to/shreyas_61d0fbfe708d7aad9/about-hacktoberfest-2og7)
+- [MiniMax M3.1 Flash just went free on OpenRouter. Here&#39;s what it is.](https://dev.to/shouvik12/minimax-m31-flash-just-went-free-on-openrouter-heres-what-it-is-2g5m)
 <!-- BLOG-POST-LIST:END -->
 
