@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [State of AI Instruction Quality: Files With Persona Lines Score Lower](https://dev.to/reporails/state-of-ai-instruction-quality-files-with-persona-lines-score-lower-3dff)
-- [Top IoT Platforms for Students and Developers in 2026](https://dev.to/vijay_g_adefbd244d79c4c38/top-iot-platforms-for-students-and-developers-in-2026-1jef)
-- [About Hacktoberfest](https://dev.to/shreyas_61d0fbfe708d7aad9/about-hacktoberfest-2og7)
-- [MiniMax M3.1 Flash just went free on OpenRouter. Here&#39;s what it is.](https://dev.to/shouvik12/minimax-m31-flash-just-went-free-on-openrouter-heres-what-it-is-2g5m)
+- [Dino3D.gg – Free 3D Dinosaur Runner with Google &amp; Discord Login](https://dev.to/renato_cindori/dino3dgg-free-3d-dinosaur-runner-with-google-discord-login-3ao3)
+- [7 PII-Safe Error Fields for Release Environment Request and Regional Rollbacks](https://dev.to/crimsonwave9361502/7-pii-safe-error-fields-for-release-environment-request-and-regional-rollbacks-416g)
+- [The Packaging Layer That Makes One Asset Sell Three Ways: Zips, Covers And 1280x720 Renders](https://dev.to/revanzart/the-packaging-layer-that-makes-one-asset-sell-three-ways-zips-covers-and-1280x720-renders-4kod)
+- [7 Claude Prompts That Run a Week of Social Media Over MCP &lpar;Copy-Paste Ready&rpar;](https://dev.to/olver_thorarinsson_bcf885/7-claude-prompts-that-run-a-week-of-social-media-over-mcp-copy-paste-ready-146o)
 <!-- BLOG-POST-LIST:END -->
 
