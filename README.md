@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent = Model + Harness](https://dev.to/tridaai/agent-model-harness-1hg7)
-- [HIPAA on Kubernetes: what kops issue #1776 asked for and what Stave covers now](https://dev.to/bala_paranj_059d338e44e7e/hipaa-on-kubernetes-what-kops-issue-1776-asked-for-and-what-stave-covers-now-4993)
-- [Adding MCP servers to Claude Code: remote, local and team setups that actually connect](https://dev.to/giuliano_buzetti_e1ce3412/adding-mcp-servers-to-claude-code-remote-local-and-team-setups-that-actually-connect-dj0)
-- [Printing a receipt with a logo and Georgian text from a .NET Windows service, without System.Drawing](https://dev.to/azeem_ullah/printing-a-receipt-with-a-logo-and-georgian-text-from-a-net-windows-service-without-systemdrawing-3b5h)
+- [UX Icons JS : les icônes de Symfony UX, enfin en JavaScript, React et Vue](https://dev.to/guillaume_sainthillier/ux-icons-js-les-icones-de-symfony-ux-enfin-en-javascript-react-et-vue-c0h)
+- [Fixing Wide Tables on Mobile: Adding Horizontal Scroll without Layout Shift](https://dev.to/zaerohell/fixing-wide-tables-on-mobile-adding-horizontal-scroll-without-layout-shift-296d)
+- [What to Do When You Feel Stuck in Your Tech Career](https://dev.to/sbenhoff/what-to-do-when-you-feel-stuck-in-your-tech-career-24ck)
+- [From Natural Language to Type-Safe SQL in Java with Querier AI](https://dev.to/aissam_assouik/from-natural-language-to-type-safe-sql-in-java-with-querier-ai-542)
 <!-- BLOG-POST-LIST:END -->
 
