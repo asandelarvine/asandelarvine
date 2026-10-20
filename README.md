@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Much Should a Digital Product Cost? I Asked AI, Studied the Market, and Changed How I Think About Pricing](https://dev.to/vn_tunl_09a36fcbda701/how-much-should-a-digital-product-cost-i-asked-ai-studied-the-market-and-changed-how-i-think-297)
-- [Dev log #25 Hardening p2p networking and shipping interactive CLI features in Rust](https://dev.to/yashksaini/dev-log-25-hardening-p2p-networking-and-shipping-interactive-cli-features-in-rust-n36)
-- [My Tool for Finding Date Bombs in Tests Was Stuck on the Day I Wrote It](https://dev.to/dbsoul/my-tool-for-finding-date-bombs-in-tests-was-stuck-on-the-day-i-wrote-it-5af7)
-- [I Tested 5 Proxy Types for Web Scraping — Here&#39;s What Actually Matters](https://dev.to/vladoso/i-tested-5-proxy-types-for-web-scraping-heres-what-actually-matters-5flb)
+- [AI Edits the Art, Code Owns the Pixels: Shipping OG Images and Store Screenshots for Side Projects](https://dev.to/yuhao_li_f49d2fd408963ad8/ai-edits-the-art-code-owns-the-pixels-shipping-og-images-and-store-screenshots-for-side-projects-4p9j)
+- [When an Agent Changes One Field, How Do We Know It Got It Right?](https://dev.to/yuki-uix/when-an-agent-changes-one-field-how-do-we-know-it-got-it-right-h6f)
+- [28 of our 30 PDF tools never touch a server. Here&#39;s how we built them](https://dev.to/regentflow/28-of-our-30-pdf-tools-never-touch-a-server-heres-how-we-built-them-4e6m)
+- [TaxGst.in Free Income Tax Calculator, Free GST Tools &amp; Finance Guides India](https://dev.to/akaranjkar08/taxgstin-free-income-tax-calculator-free-gst-tools-finance-guides-india-2nbp)
 <!-- BLOG-POST-LIST:END -->
 
