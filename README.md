@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the AI Hype: Navigating Migration, Compression, and the Future of Engineering](https://dev.to/divya_bathoju/beyond-the-ai-hype-navigating-migration-compression-and-the-future-of-engineering-497b)
-- [Made my OS without using Linux or any parent OS. Wrote my own kernel and bootloader. First test today, Works! Currently making https and encryption services.](https://dev.to/ismd-clutch/made-my-os-without-using-linux-or-any-parent-os-wrote-my-own-kernel-and-bootloader-first-test-5bb6)
-- [FastAPI: contrato de espera para emails de prueba](https://dev.to/oliviachen7/fastapi-contrato-de-espera-para-emails-de-prueba-1fci)
-- [Fix Missing MP3 Tags and Album Covers for Free](https://dev.to/thomate2011/how-to-fix-missing-mp3-tags-and-album-covers-for-free-using-chatgpt-codex-and-mp3tag-145n)
+- [How Much Should a Digital Product Cost? I Asked AI, Studied the Market, and Changed How I Think About Pricing](https://dev.to/vn_tunl_09a36fcbda701/how-much-should-a-digital-product-cost-i-asked-ai-studied-the-market-and-changed-how-i-think-297)
+- [Dev log #25 Hardening p2p networking and shipping interactive CLI features in Rust](https://dev.to/yashksaini/dev-log-25-hardening-p2p-networking-and-shipping-interactive-cli-features-in-rust-n36)
+- [My Tool for Finding Date Bombs in Tests Was Stuck on the Day I Wrote It](https://dev.to/dbsoul/my-tool-for-finding-date-bombs-in-tests-was-stuck-on-the-day-i-wrote-it-5af7)
+- [I Tested 5 Proxy Types for Web Scraping — Here&#39;s What Actually Matters](https://dev.to/vladoso/i-tested-5-proxy-types-for-web-scraping-heres-what-actually-matters-5flb)
 <!-- BLOG-POST-LIST:END -->
 
