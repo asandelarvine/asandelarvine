@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Edits the Art, Code Owns the Pixels: Shipping OG Images and Store Screenshots for Side Projects](https://dev.to/yuhao_li_f49d2fd408963ad8/ai-edits-the-art-code-owns-the-pixels-shipping-og-images-and-store-screenshots-for-side-projects-4p9j)
-- [When an Agent Changes One Field, How Do We Know It Got It Right?](https://dev.to/yuki-uix/when-an-agent-changes-one-field-how-do-we-know-it-got-it-right-h6f)
-- [28 of our 30 PDF tools never touch a server. Here&#39;s how we built them](https://dev.to/regentflow/28-of-our-30-pdf-tools-never-touch-a-server-heres-how-we-built-them-4e6m)
-- [TaxGst.in Free Income Tax Calculator, Free GST Tools &amp; Finance Guides India](https://dev.to/akaranjkar08/taxgstin-free-income-tax-calculator-free-gst-tools-finance-guides-india-2nbp)
+- [Agent = Model + Harness](https://dev.to/tridaai/agent-model-harness-1hg7)
+- [HIPAA on Kubernetes: what kops issue #1776 asked for and what Stave covers now](https://dev.to/bala_paranj_059d338e44e7e/hipaa-on-kubernetes-what-kops-issue-1776-asked-for-and-what-stave-covers-now-4993)
+- [Adding MCP servers to Claude Code: remote, local and team setups that actually connect](https://dev.to/giuliano_buzetti_e1ce3412/adding-mcp-servers-to-claude-code-remote-local-and-team-setups-that-actually-connect-dj0)
+- [Printing a receipt with a logo and Georgian text from a .NET Windows service, without System.Drawing](https://dev.to/azeem_ullah/printing-a-receipt-with-a-logo-and-georgian-text-from-a-net-windows-service-without-systemdrawing-3b5h)
 <!-- BLOG-POST-LIST:END -->
 
