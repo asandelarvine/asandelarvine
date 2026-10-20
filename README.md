@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [UX Icons JS : les icônes de Symfony UX, enfin en JavaScript, React et Vue](https://dev.to/guillaume_sainthillier/ux-icons-js-les-icones-de-symfony-ux-enfin-en-javascript-react-et-vue-c0h)
-- [Fixing Wide Tables on Mobile: Adding Horizontal Scroll without Layout Shift](https://dev.to/zaerohell/fixing-wide-tables-on-mobile-adding-horizontal-scroll-without-layout-shift-296d)
-- [What to Do When You Feel Stuck in Your Tech Career](https://dev.to/sbenhoff/what-to-do-when-you-feel-stuck-in-your-tech-career-24ck)
-- [From Natural Language to Type-Safe SQL in Java with Querier AI](https://dev.to/aissam_assouik/from-natural-language-to-type-safe-sql-in-java-with-querier-ai-542)
+- [AWS Shipped a DynamoDB API That Stores Everything in Postgres. Read the Tables It Writes](https://dev.to/gabrielanhaia/aws-shipped-a-dynamodb-api-that-stores-everything-in-postgres-read-the-tables-it-writes-3kfc)
+- [A leak notice arrived. What to do today, this week, and in 30 days](https://dev.to/sunnydachs/a-leak-notice-arrived-what-to-do-today-this-week-and-in-30-days-4e8a)
+- [Backing Up 39 Products And Their CSVs On A 2 GB Single-Core Server](https://dev.to/revanzart/backing-up-39-products-and-their-csvs-on-a-2-gb-single-core-server-1mim)
+- [DentaNote: dental clinical notes with local Gemma, no audio leaves the operatory](https://dev.to/adalbertobrant/dentanote-dental-clinical-notes-with-local-gemma-no-audio-leaves-the-operatory-1fpl)
 <!-- BLOG-POST-LIST:END -->
 
