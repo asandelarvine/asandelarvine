@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to validate an email list in Python without SMTP &lpar;syntax, MX, disposable&rpar;](https://dev.to/jeezleweez_71e2a581f71298/how-to-validate-an-email-list-in-python-without-smtp-syntax-mx-disposable-546f)
-- [Implementing DDD and Hexagonal Architecture in NestJS: A Complete Practical Guide](https://dev.to/carlosgmdev/implementing-ddd-and-hexagonal-architecture-in-nestjs-a-complete-practical-guide-39l6)
-- [8.16 Million WordPress Sites and 5.16 Million in the US: Reading a CMS Baseline](https://dev.to/jeffreyciend/816-million-wordpress-sites-and-516-million-in-the-us-reading-a-cms-baseline-1k92)
-- [ServiceNow CAD Exam 2026: Domains, Weights and Study Plan](https://dev.to/sajeevsebastian/servicenow-cad-exam-2026-domains-weights-and-study-plan-1oel)
+- [Why does my Bevy character rise above the floor when I change its sprite size?](https://dev.to/framesprite-team/why-does-my-bevy-character-rise-above-the-floor-when-i-change-its-sprite-size-22pj)
+- [Showdev: A zero-dependency MCP server that runs on Android Termux](https://dev.to/lmeng486/showdev-a-zero-dependency-mcp-server-that-runs-on-android-termux-28fe)
+- [AI Can Read Product Discounts. What Does Your Compare-at Price Really Mean?](https://dev.to/weswoodtc/ai-can-read-product-discounts-what-does-your-compare-at-price-really-mean-17ak)
+- [GitHub Actions Concurrency Under Load: Measuring Queue Saturation and Runner Exhaustion at 500 RPS](https://dev.to/maya_patel/github-actions-concurrency-under-load-measuring-queue-saturation-and-runner-exhaustion-at-500-rps-oh0)
 <!-- BLOG-POST-LIST:END -->
 
