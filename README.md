@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure Multi-Tenant SaaS: Node.js, PostgreSQL &amp; Row-Level Security for Scale](https://dev.to/mtahir27/secure-multi-tenant-saas-nodejs-postgresql-row-level-security-for-scale-1dod)
-- [Illumination Systems | UE5 Devlog](https://dev.to/mt_indiedev/illumination-systems-ue5-devlog-4dml)
-- [Claude Opus 5.5: A Practical Guide](https://dev.to/kamya_shah_e69d5dd78f831c/claude-opus-55-a-practical-guide-3192)
-- [Verify Contractor Licenses Across Multiple US States with an Affordable API](https://dev.to/tuitorialboss/verify-contractor-licenses-across-multiple-us-states-with-an-affordable-api-fno)
+- [Why I&#39;m building a social media scheduler in a crowded market](https://dev.to/jonas_nguyen/why-im-building-a-social-media-scheduler-in-a-crowded-market-b47)
+- [Forward Deployed Engineer challenge: I built a company ERP portal in 2 days with AI](https://dev.to/nrejve/forward-deployed-engineer-challenge-i-built-a-company-erp-portal-in-2-days-with-ai-2afc)
+- [Next.js basePath 404 Nginx: Running Two Next.js Apps on One Domain](https://dev.to/nrejve/nextjs-basepath-404-nginx-running-two-nextjs-apps-on-one-domain-480h)
+- [How to Mail Merge from Excel &lpar;.xlsx / CSV&rpar; into Official IRS &amp; ACA PDFs &lpar;1095-C, W-9, Form 2848, SS-4&rpar; Without Adobe Acrobat](https://dev.to/justfill/how-to-mail-merge-from-excel-xlsx-csv-into-official-irs-aca-pdfs-1095-c-w-9-form-2848-2aj0)
 <!-- BLOG-POST-LIST:END -->
 
