@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Shipped a DynamoDB API That Stores Everything in Postgres. Read the Tables It Writes](https://dev.to/gabrielanhaia/aws-shipped-a-dynamodb-api-that-stores-everything-in-postgres-read-the-tables-it-writes-3kfc)
-- [A leak notice arrived. What to do today, this week, and in 30 days](https://dev.to/sunnydachs/a-leak-notice-arrived-what-to-do-today-this-week-and-in-30-days-4e8a)
-- [Backing Up 39 Products And Their CSVs On A 2 GB Single-Core Server](https://dev.to/revanzart/backing-up-39-products-and-their-csvs-on-a-2-gb-single-core-server-1mim)
-- [DentaNote: dental clinical notes with local Gemma, no audio leaves the operatory](https://dev.to/adalbertobrant/dentanote-dental-clinical-notes-with-local-gemma-no-audio-leaves-the-operatory-1fpl)
+- [How to validate an email list in Python without SMTP &lpar;syntax, MX, disposable&rpar;](https://dev.to/jeezleweez_71e2a581f71298/how-to-validate-an-email-list-in-python-without-smtp-syntax-mx-disposable-546f)
+- [Implementing DDD and Hexagonal Architecture in NestJS: A Complete Practical Guide](https://dev.to/carlosgmdev/implementing-ddd-and-hexagonal-architecture-in-nestjs-a-complete-practical-guide-39l6)
+- [8.16 Million WordPress Sites and 5.16 Million in the US: Reading a CMS Baseline](https://dev.to/jeffreyciend/816-million-wordpress-sites-and-516-million-in-the-us-reading-a-cms-baseline-1k92)
+- [ServiceNow CAD Exam 2026: Domains, Weights and Study Plan](https://dev.to/sajeevsebastian/servicenow-cad-exam-2026-domains-weights-and-study-plan-1oel)
 <!-- BLOG-POST-LIST:END -->
 
