@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I&#39;m building a social media scheduler in a crowded market](https://dev.to/jonas_nguyen/why-im-building-a-social-media-scheduler-in-a-crowded-market-b47)
-- [Forward Deployed Engineer challenge: I built a company ERP portal in 2 days with AI](https://dev.to/nrejve/forward-deployed-engineer-challenge-i-built-a-company-erp-portal-in-2-days-with-ai-2afc)
-- [Next.js basePath 404 Nginx: Running Two Next.js Apps on One Domain](https://dev.to/nrejve/nextjs-basepath-404-nginx-running-two-nextjs-apps-on-one-domain-480h)
-- [How to Mail Merge from Excel &lpar;.xlsx / CSV&rpar; into Official IRS &amp; ACA PDFs &lpar;1095-C, W-9, Form 2848, SS-4&rpar; Without Adobe Acrobat](https://dev.to/justfill/how-to-mail-merge-from-excel-xlsx-csv-into-official-irs-aca-pdfs-1095-c-w-9-form-2848-2aj0)
+- [There Are Two Dockerfiles. Your Agent Should Touch Neither.](https://dev.to/flisk/there-are-two-dockerfiles-your-agent-should-touch-neither-lge)
+- [Duplicate titles and meta descriptions on a docs site](https://dev.to/headlark/duplicate-titles-and-meta-descriptions-on-a-docs-site-ape)
+- [Every CLI You Run Has Your SSH Keys, Your `.env`, and Your Cloud Tokens. Here&#39;s a 100-Line Fence Around That.](https://dev.to/gap_hunterlabs/every-cli-you-run-has-your-ssh-keys-your-env-and-your-cloud-tokens-heres-a-100-line-fence-3m70)
+- [⚖️ HackAVP : guide d&#39;évaluation pour les membres du jury](https://dev.to/adriens/hackavp-guide-devaluation-pour-les-membres-du-jury-12i0)
 <!-- BLOG-POST-LIST:END -->
 
