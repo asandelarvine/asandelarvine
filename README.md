@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why does my Bevy character rise above the floor when I change its sprite size?](https://dev.to/framesprite-team/why-does-my-bevy-character-rise-above-the-floor-when-i-change-its-sprite-size-22pj)
-- [Showdev: A zero-dependency MCP server that runs on Android Termux](https://dev.to/lmeng486/showdev-a-zero-dependency-mcp-server-that-runs-on-android-termux-28fe)
-- [AI Can Read Product Discounts. What Does Your Compare-at Price Really Mean?](https://dev.to/weswoodtc/ai-can-read-product-discounts-what-does-your-compare-at-price-really-mean-17ak)
-- [GitHub Actions Concurrency Under Load: Measuring Queue Saturation and Runner Exhaustion at 500 RPS](https://dev.to/maya_patel/github-actions-concurrency-under-load-measuring-queue-saturation-and-runner-exhaustion-at-500-rps-oh0)
+- [Secure Multi-Tenant SaaS: Node.js, PostgreSQL &amp; Row-Level Security for Scale](https://dev.to/mtahir27/secure-multi-tenant-saas-nodejs-postgresql-row-level-security-for-scale-1dod)
+- [Illumination Systems | UE5 Devlog](https://dev.to/mt_indiedev/illumination-systems-ue5-devlog-4dml)
+- [Claude Opus 5.5: A Practical Guide](https://dev.to/kamya_shah_e69d5dd78f831c/claude-opus-55-a-practical-guide-3192)
+- [Verify Contractor Licenses Across Multiple US States with an Affordable API](https://dev.to/tuitorialboss/verify-contractor-licenses-across-multiple-us-states-with-an-affordable-api-fno)
 <!-- BLOG-POST-LIST:END -->
 
