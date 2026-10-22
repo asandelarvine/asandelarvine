@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Vibe-Coded Site Works. AI Search Can&#39;t See It.](https://dev.to/irfangulzarx/your-vibe-coded-site-works-ai-search-cant-see-it-2ep5)
-- [Shopify API Release Lag: Why Changelogs Miss Stable Dates](https://dev.to/shopify_dev/shopify-api-release-lag-why-changelogs-miss-stable-dates-26gk)
-- [The Bench Is Still Unfinished](https://dev.to/paifamily/the-bench-is-still-unfinished-3jd5)
-- [State Machines for Self-Regulation: Lessons From 20 Mindfulness Games](https://dev.to/theholisticcare/state-machines-for-self-regulation-lessons-from-20-mindfulness-games-3nhl)
+- [🌱 GreenBuddy AI: Your Local AI Companion for Getting Outdoors](https://dev.to/ujwalashetty660/greenbuddy-ai-your-local-ai-companion-for-getting-outdoors-1lib)
+- [77.1% on BIRD dev with one model call per question, and a test-set submission in](https://dev.to/ashish_sinha_5241c7673d93/771-on-bird-dev-with-one-model-call-per-question-and-a-test-set-submission-in-5g6p)
+- [Implicit Function or Implicit Type? Demystifying Rust Closures](https://dev.to/lorishu/implicit-function-or-implicit-type-demystifying-rust-closures-1pg7)
+- [SlothSort: I Built a Local-First AI File Organizer That Asks Before It Moves Anything](https://dev.to/tanmay3929/slothsort-i-built-a-local-first-ai-file-organizer-that-asks-before-it-moves-anything-5h00)
 <!-- BLOG-POST-LIST:END -->
 
