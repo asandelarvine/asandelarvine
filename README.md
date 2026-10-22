@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [There Are Two Dockerfiles. Your Agent Should Touch Neither.](https://dev.to/flisk/there-are-two-dockerfiles-your-agent-should-touch-neither-lge)
-- [Duplicate titles and meta descriptions on a docs site](https://dev.to/headlark/duplicate-titles-and-meta-descriptions-on-a-docs-site-ape)
-- [Every CLI You Run Has Your SSH Keys, Your `.env`, and Your Cloud Tokens. Here&#39;s a 100-Line Fence Around That.](https://dev.to/gap_hunterlabs/every-cli-you-run-has-your-ssh-keys-your-env-and-your-cloud-tokens-heres-a-100-line-fence-3m70)
-- [⚖️ HackAVP : guide d&#39;évaluation pour les membres du jury](https://dev.to/adriens/hackavp-guide-devaluation-pour-les-membres-du-jury-12i0)
+- [How the four Plex CVEs relate: three request flaws and one path to code execution](https://dev.to/andreagomez/how-the-four-plex-cves-relate-three-request-flaws-and-one-path-to-code-execution-251h)
+- [Choosing a Confluence Alternative for a Large Enterprise](https://dev.to/tomaszkrystman/choosing-a-confluence-alternative-for-a-large-enterprise-5ck3)
+- [Peering Inside the Black Box: How Mechanistic Interpretability is Decoding AI Minds](https://dev.to/malvintnw/peering-inside-the-black-box-how-mechanistic-interpretability-is-decoding-ai-minds-1l5b)
+- [Content API for Shopping 410 &lpar;content_api_sunset&rpar;: a practical Merchant API migration checklist](https://dev.to/trilliumcompany/content-api-for-shopping-410-contentapisunset-a-practical-merchant-api-migration-checklist-35ia)
 <!-- BLOG-POST-LIST:END -->
 
