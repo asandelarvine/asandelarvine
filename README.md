@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🌱 GreenBuddy AI: Your Local AI Companion for Getting Outdoors](https://dev.to/ujwalashetty660/greenbuddy-ai-your-local-ai-companion-for-getting-outdoors-1lib)
-- [77.1% on BIRD dev with one model call per question, and a test-set submission in](https://dev.to/ashish_sinha_5241c7673d93/771-on-bird-dev-with-one-model-call-per-question-and-a-test-set-submission-in-5g6p)
-- [Implicit Function or Implicit Type? Demystifying Rust Closures](https://dev.to/lorishu/implicit-function-or-implicit-type-demystifying-rust-closures-1pg7)
-- [SlothSort: I Built a Local-First AI File Organizer That Asks Before It Moves Anything](https://dev.to/tanmay3929/slothsort-i-built-a-local-first-ai-file-organizer-that-asks-before-it-moves-anything-5h00)
+- [Turn a GitHub project into three resume bullets a recruiter will believe](https://dev.to/hamzahassan/turn-a-github-project-into-three-resume-bullets-a-recruiter-will-believe-2lkl)
+- [A breach claim is trending. Ask three questions first](https://dev.to/dunimetech/a-breach-claim-is-trending-ask-three-questions-first-2fjc)
+- [Moving a Small Business to the Cloud: A Step by Step Guide That Avoids the Usual Mistakes](https://dev.to/cloudlifttech/moving-a-small-business-to-the-cloud-a-step-by-step-guide-that-avoids-the-usual-mistakes-2c1n)
+- [Automating Multi‑Platform Content Publishing – Adding VS Posts &amp; Bluesky Support](https://dev.to/zaerohell/automating-multi-platform-content-publishing-adding-vs-posts-bluesky-support-45i7)
 <!-- BLOG-POST-LIST:END -->
 
