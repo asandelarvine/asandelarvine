@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How the four Plex CVEs relate: three request flaws and one path to code execution](https://dev.to/andreagomez/how-the-four-plex-cves-relate-three-request-flaws-and-one-path-to-code-execution-251h)
-- [Choosing a Confluence Alternative for a Large Enterprise](https://dev.to/tomaszkrystman/choosing-a-confluence-alternative-for-a-large-enterprise-5ck3)
-- [Peering Inside the Black Box: How Mechanistic Interpretability is Decoding AI Minds](https://dev.to/malvintnw/peering-inside-the-black-box-how-mechanistic-interpretability-is-decoding-ai-minds-1l5b)
-- [Content API for Shopping 410 &lpar;content_api_sunset&rpar;: a practical Merchant API migration checklist](https://dev.to/trilliumcompany/content-api-for-shopping-410-contentapisunset-a-practical-merchant-api-migration-checklist-35ia)
+- [Your Vibe-Coded Site Works. AI Search Can&#39;t See It.](https://dev.to/irfangulzarx/your-vibe-coded-site-works-ai-search-cant-see-it-2ep5)
+- [Shopify API Release Lag: Why Changelogs Miss Stable Dates](https://dev.to/shopify_dev/shopify-api-release-lag-why-changelogs-miss-stable-dates-26gk)
+- [The Bench Is Still Unfinished](https://dev.to/paifamily/the-bench-is-still-unfinished-3jd5)
+- [State Machines for Self-Regulation: Lessons From 20 Mindfulness Games](https://dev.to/theholisticcare/state-machines-for-self-regulation-lessons-from-20-mindfulness-games-3nhl)
 <!-- BLOG-POST-LIST:END -->
 
