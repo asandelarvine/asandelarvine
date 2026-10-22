@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Turn a GitHub project into three resume bullets a recruiter will believe](https://dev.to/hamzahassan/turn-a-github-project-into-three-resume-bullets-a-recruiter-will-believe-2lkl)
-- [A breach claim is trending. Ask three questions first](https://dev.to/dunimetech/a-breach-claim-is-trending-ask-three-questions-first-2fjc)
-- [Moving a Small Business to the Cloud: A Step by Step Guide That Avoids the Usual Mistakes](https://dev.to/cloudlifttech/moving-a-small-business-to-the-cloud-a-step-by-step-guide-that-avoids-the-usual-mistakes-2c1n)
-- [Automating Multi‑Platform Content Publishing – Adding VS Posts &amp; Bluesky Support](https://dev.to/zaerohell/automating-multi-platform-content-publishing-adding-vs-posts-bluesky-support-45i7)
+- [How Exposed Is VeloCloud Orchestrator? Reading ZoomEye Evidence Honestly](https://dev.to/stark_zhuang_df5076f35c68/how-exposed-is-velocloud-orchestrator-reading-zoomeye-evidence-honestly-1bec)
+- [Private Image Storage: Signed Download Links, Retention, and Object-Store Trade-offs](https://dev.to/owensullivan9135/private-image-storage-signed-download-links-retention-and-object-store-trade-offs-461i)
+- [Parsing Property Owner Names in pandas: Individuals, Joint Owners, Trusts and LLCs](https://dev.to/locatenext/parsing-property-owner-names-in-pandas-individuals-joint-owners-trusts-and-llcs-61n)
+- [Part 5: After the Dispatch - Handling Delivery Events](https://dev.to/jeremy_tly/part-5-after-the-dispatch-handling-delivery-events-2o9a)
 <!-- BLOG-POST-LIST:END -->
 
