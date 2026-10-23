@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built Cube Solver: camera-based Rubik&#39;s cube solver](https://dev.to/niranjan_4407/how-i-built-cube-solver-camera-based-rubiks-cube-solver-4gc0)
-- [How I built MetroNow Chennai: live train tracking for Chennai Metro](https://dev.to/niranjan_4407/how-i-built-metronow-chennai-live-train-tracking-for-chennai-metro-21p7)
-- [TradingView alert to a real options order: picking the strike when the alert doesn&#39;t say](https://dev.to/nyriaautomation/tradingview-alert-to-a-real-options-order-picking-the-strike-when-the-alert-doesnt-say-1a54)
-- [QuietBox: Unsubscribe from newsletters you never open](https://dev.to/aravindsathesh/quietbox-unsubscribe-from-newsletters-you-never-open-5b84)
+- [Securing Autonomous Systems: A Practical Guide to Reliable Teleoperation](https://dev.to/marketingpro/securing-autonomous-systems-a-practical-guide-to-reliable-teleoperation-38j1)
+- [How to Build and Publish a Product Docs Site with Thally](https://dev.to/tonyedgal/how-to-build-and-publish-a-product-docs-site-with-thally-3cba)
+- [PHP 8.2.12 Is Vulnerable: How I Patched PHP2Shell RCE by Upgrading to PHP 8.2.35](https://dev.to/technicalvandar885/php-8212-is-vulnerable-how-i-patched-php2shell-rce-by-upgrading-to-php-8235-1o29)
+- [Como aprendi Apache Spark — Parte 4: Shuffle — onde a performance começa a ficar avançada](https://dev.to/renanpyd/como-aprendi-apache-spark-parte-4-shuffle-onde-a-performance-comeca-a-ficar-avancada-1e4g)
 <!-- BLOG-POST-LIST:END -->
 
