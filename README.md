@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Callback Function in JavaScript](https://dev.to/sajin_joe/callback-function-in-javascript-3gjl)
-- [How I Migrated a Production Platform from DigitalOcean to AWS With Zero Downtime](https://dev.to/rodrigo_orzari/how-i-migrated-a-production-platform-from-digitalocean-to-aws-with-zero-downtime-45ld)
-- [Multi-Tenant Data Isolation with Supabase RLS, Tested Through Real Logins in a Small Invoice Portal](https://dev.to/tomozilla/multi-tenant-data-isolation-with-supabase-rls-tested-through-real-logins-in-a-small-invoice-portal-4pbp)
-- [LibreChat: 12,283 fingerprints, 13,265 titles, and a chat front end that stores the keys to every model](https://dev.to/andreagomez/librechat-12283-fingerprints-13265-titles-and-a-chat-front-end-that-stores-the-keys-to-every-5725)
+- [How I built Cube Solver: camera-based Rubik&#39;s cube solver](https://dev.to/niranjan_4407/how-i-built-cube-solver-camera-based-rubiks-cube-solver-4gc0)
+- [How I built MetroNow Chennai: live train tracking for Chennai Metro](https://dev.to/niranjan_4407/how-i-built-metronow-chennai-live-train-tracking-for-chennai-metro-21p7)
+- [TradingView alert to a real options order: picking the strike when the alert doesn&#39;t say](https://dev.to/nyriaautomation/tradingview-alert-to-a-real-options-order-picking-the-strike-when-the-alert-doesnt-say-1a54)
+- [QuietBox: Unsubscribe from newsletters you never open](https://dev.to/aravindsathesh/quietbox-unsubscribe-from-newsletters-you-never-open-5b84)
 <!-- BLOG-POST-LIST:END -->
 
