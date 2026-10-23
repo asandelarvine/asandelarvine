@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Exposed Is VeloCloud Orchestrator? Reading ZoomEye Evidence Honestly](https://dev.to/stark_zhuang_df5076f35c68/how-exposed-is-velocloud-orchestrator-reading-zoomeye-evidence-honestly-1bec)
-- [Private Image Storage: Signed Download Links, Retention, and Object-Store Trade-offs](https://dev.to/owensullivan9135/private-image-storage-signed-download-links-retention-and-object-store-trade-offs-461i)
-- [Parsing Property Owner Names in pandas: Individuals, Joint Owners, Trusts and LLCs](https://dev.to/locatenext/parsing-property-owner-names-in-pandas-individuals-joint-owners-trusts-and-llcs-61n)
-- [Part 5: After the Dispatch - Handling Delivery Events](https://dev.to/jeremy_tly/part-5-after-the-dispatch-handling-delivery-events-2o9a)
+- [Callback Function in JavaScript](https://dev.to/sajin_joe/callback-function-in-javascript-3gjl)
+- [How I Migrated a Production Platform from DigitalOcean to AWS With Zero Downtime](https://dev.to/rodrigo_orzari/how-i-migrated-a-production-platform-from-digitalocean-to-aws-with-zero-downtime-45ld)
+- [Multi-Tenant Data Isolation with Supabase RLS, Tested Through Real Logins in a Small Invoice Portal](https://dev.to/tomozilla/multi-tenant-data-isolation-with-supabase-rls-tested-through-real-logins-in-a-small-invoice-portal-4pbp)
+- [LibreChat: 12,283 fingerprints, 13,265 titles, and a chat front end that stores the keys to every model](https://dev.to/andreagomez/librechat-12283-fingerprints-13265-titles-and-a-chat-front-end-that-stores-the-keys-to-every-5725)
 <!-- BLOG-POST-LIST:END -->
 
