@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Multi‑Platform Content Publishing with a Single Source of Truth](https://dev.to/zaerohell/automating-multi-platform-content-publishing-with-a-single-source-of-truth-39m3)
-- [A month of GitHub Actions, worked by hand: $54 on GitHub, $11 on 5 GHz bare metal](https://dev.to/sengi_runners/a-month-of-github-actions-worked-by-hand-54-on-github-11-on-5-ghz-bare-metal-3ool)
-- [Synchronizing Terminal Workflows: Building &amp; Deploying severn-trace v0.1.2](https://dev.to/davidamadie06code/synchronizing-terminal-workflows-building-deploying-severn-trace-v012-12de)
-- [SlothSort 🦥: A Slow and Steady Approach to AI-Powered File Organization](https://dev.to/namanguptaprog/slothsort-a-slow-and-steady-approach-to-ai-powered-file-organization-328b)
+- [Check a payTo before your agent pays it: a $0.01 x402 endpoint for Base](https://dev.to/albertbalestrini/check-a-payto-before-your-agent-pays-it-a-001-x402-endpoint-for-base-ebl)
+- [openindex-mcp: Local Shodan-style banner index with native MCP: your…](https://dev.to/ameobius/openindex-mcp-local-shodan-style-banner-index-with-native-mcp-your-2k4p)
+- [I Built TidyByte to Make Document Organization Less Tedious](https://dev.to/hrishu802/i-built-tidybyte-to-make-document-organization-less-tedious-463a)
+- [What It Means Not to Hesitate &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/what-it-means-not-to-hesitate-bite-size-article-2bia)
 <!-- BLOG-POST-LIST:END -->
 
