@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [EU CCAT Project Develops Open-Source Tools for Continuous Security Assessment](https://dev.to/alifar/eu-ccat-project-develops-open-source-tools-for-continuous-security-assessment-2m0a)
-- [Dutch security firm hacked millions of foreign computers to stop hidden threat](https://dev.to/hacksgr/dutch-security-firm-hacked-millions-of-foreign-computers-to-stop-hidden-threat-145l)
-- [WebBloom : Idea into Website](https://dev.to/ishlokdwivedicoder/webbloom-idea-into-website-3fml)
-- [GitHub CLI&#39;s New Expiring Tokens Still Leave Your Refresh Token Exposed to Malware](https://dev.to/suzukishunsuke/github-clis-new-expiring-tokens-still-leave-your-refresh-token-exposed-to-malware-2had)
+- [Claude Code hooks for teams: four hooks worth committing to your repo](https://dev.to/aiworkspacebuilder/claude-code-hooks-for-teams-four-hooks-worth-committing-to-your-repo-1kjp)
+- [20 of 21 agent configs just scored lower: what the Coding Agent Index v2.0 reset measures](https://dev.to/piekwerk/20-of-21-agent-configs-just-scored-lower-what-the-coding-agent-index-v20-reset-measures-70j)
+- [Quelle est la différence entre une MNBC et le Bitcoin ?](https://dev.to/sunlibcrypto/quelle-est-la-difference-entre-une-mnbc-et-le-bitcoin--4061)
+- [Why Your Automatic System Might Be Hiring and Firing for the Wrong Reasons](https://dev.to/techwithhari/why-your-automatic-system-might-be-hiring-and-firing-for-the-wrong-reasons-440g)
 <!-- BLOG-POST-LIST:END -->
 
