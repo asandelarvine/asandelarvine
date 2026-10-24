@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Email Auth Tests Need a Recovery Boundary](https://dev.to/sophiax99/email-auth-tests-need-a-recovery-boundary-44kh)
-- [I Built Free PDF Tools That Run 100% in the Browser — No Server, No Uploads](https://dev.to/timelyups/i-built-free-pdf-tools-that-run-100-in-the-browser-no-server-no-uploads-12ik)
-- [Build a Voice-Enabled Chatbot with ElevenLabs and OpenAI](https://dev.to/voice_developer/build-a-voice-enabled-chatbot-with-elevenlabs-and-openai-4i8h)
-- [How to get Amazon search results as JSON &lpar;rank, price, rating, sponsored flag&rpar; on any marketplace with Python or Node](https://dev.to/rel8ble/how-to-get-amazon-search-results-as-json-rank-price-rating-sponsored-flag-on-any-marketplace-4ea8)
+- [EU CCAT Project Develops Open-Source Tools for Continuous Security Assessment](https://dev.to/alifar/eu-ccat-project-develops-open-source-tools-for-continuous-security-assessment-2m0a)
+- [Dutch security firm hacked millions of foreign computers to stop hidden threat](https://dev.to/hacksgr/dutch-security-firm-hacked-millions-of-foreign-computers-to-stop-hidden-threat-145l)
+- [WebBloom : Idea into Website](https://dev.to/ishlokdwivedicoder/webbloom-idea-into-website-3fml)
+- [GitHub CLI&#39;s New Expiring Tokens Still Leave Your Refresh Token Exposed to Malware](https://dev.to/suzukishunsuke/github-clis-new-expiring-tokens-still-leave-your-refresh-token-exposed-to-malware-2had)
 <!-- BLOG-POST-LIST:END -->
 
