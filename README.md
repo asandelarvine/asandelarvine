@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Ethical, Privacy-Preserving Sponsorships for a Static Web App](https://dev.to/yunus_khan_d64b04c980b819/designing-ethical-privacy-preserving-sponsorships-for-a-static-web-app-5dne)
-- [A pre-flight checklist before domain continued pre-training](https://dev.to/conorbronsdon/a-pre-flight-checklist-before-domain-continued-pre-training-5afl)
-- [Day 9/100: AI Is a Tool, Not an Authority](https://dev.to/karan047/day-9100-ai-is-a-tool-not-an-authority-4o9o)
-- [GitLab Level 4](https://dev.to/hrlpavan/gitlab-level-4-31al)
+- [Sparse Federated Representation Learning for circular manufacturing supply chains with ethical auditability baked in](https://dev.to/rikinptl/sparse-federated-representation-learning-for-circular-manufacturing-supply-chains-with-ethical-21h4)
+- [Qwen 4 Is Coming: What&#39;s Confirmed and What It Means for Local AI](https://dev.to/rosgluk/qwen-4-is-coming-whats-confirmed-and-what-it-means-for-local-ai-2b8m)
+- [I Built a Telegram Folder Assistant for Hacktoberfest. The Hard Part Was Knowing When Not to Sort.](https://dev.to/zsnowww/i-built-a-telegram-folder-assistant-for-hacktoberfest-the-hard-part-was-knowing-when-not-to-sort-1n1)
+- [Taking the Slow Road to Understanding Code with RepoNap](https://dev.to/aditi_shetty_caaab207ff98/taking-the-slow-road-to-understanding-code-with-reponap-1kok)
 <!-- BLOG-POST-LIST:END -->
 
