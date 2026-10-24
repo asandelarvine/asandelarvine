@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SARAH v1.0.9 is out — chat fixes, faster project switching, smarter Time Machine](https://dev.to/sarahai/sarah-v109-is-out-chat-fixes-faster-project-switching-smarter-time-machine-7fb)
-- [Beyond Play Integrity: Verifying Android Devices with Hardware Key Attestation &lpar;Without Locking Out GrapheneOS Users&rpar;](https://dev.to/eme_gug_0821b41b948be6516/beyond-play-integrity-verifying-android-devices-with-hardware-key-attestation-without-locking-out-jf4)
-- [A wall or a stopwatch: what &#39;blocked&#39; actually meant](https://dev.to/moss_67/a-wall-or-a-stopwatch-what-blocked-actually-meant-1ghp)
-- [Digital Janitor – a local‑first AI‑powered digital‑cleanup assistant](https://dev.to/praveen007/digital-janitor-a-local-first-ai-powered-digital-cleanup-assistant-23pj)
+- [Designing Ethical, Privacy-Preserving Sponsorships for a Static Web App](https://dev.to/yunus_khan_d64b04c980b819/designing-ethical-privacy-preserving-sponsorships-for-a-static-web-app-5dne)
+- [A pre-flight checklist before domain continued pre-training](https://dev.to/conorbronsdon/a-pre-flight-checklist-before-domain-continued-pre-training-5afl)
+- [Day 9/100: AI Is a Tool, Not an Authority](https://dev.to/karan047/day-9100-ai-is-a-tool-not-an-authority-4o9o)
+- [GitLab Level 4](https://dev.to/hrlpavan/gitlab-level-4-31al)
 <!-- BLOG-POST-LIST:END -->
 
