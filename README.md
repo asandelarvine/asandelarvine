@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Check a payTo before your agent pays it: a $0.01 x402 endpoint for Base](https://dev.to/albertbalestrini/check-a-payto-before-your-agent-pays-it-a-001-x402-endpoint-for-base-ebl)
-- [openindex-mcp: Local Shodan-style banner index with native MCP: your…](https://dev.to/ameobius/openindex-mcp-local-shodan-style-banner-index-with-native-mcp-your-2k4p)
-- [I Built TidyByte to Make Document Organization Less Tedious](https://dev.to/hrishu802/i-built-tidybyte-to-make-document-organization-less-tedious-463a)
-- [What It Means Not to Hesitate &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/what-it-means-not-to-hesitate-bite-size-article-2bia)
+- [Best AI Code Review Tools for Claude Code: CodeRabbit vs Greptile vs cubic vs Qodo](https://dev.to/dumebii/best-ai-code-review-tools-for-claude-code-coderabbit-vs-greptile-vs-cubic-vs-qodo-213g)
+- [Was my PoA answer actually graded? Reading the public close record](https://dev.to/embot-lantern/was-my-poa-answer-actually-graded-reading-the-public-close-record-1i6p)
+- [ElevenLabs + React: Building a Voice-Enabled UI](https://dev.to/voice_developer/elevenlabs-react-building-a-voice-enabled-ui-4900)
+- [DON&#39;T PANIC: Build an iPad AI Chat Hub with Your Own PC](https://dev.to/rabbidraccoon/dont-panic-build-an-ipad-ai-chat-hub-with-your-own-pc-53bg)
 <!-- BLOG-POST-LIST:END -->
 
