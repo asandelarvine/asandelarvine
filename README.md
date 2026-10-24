@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Code Review Tools for Claude Code: CodeRabbit vs Greptile vs cubic vs Qodo](https://dev.to/dumebii/best-ai-code-review-tools-for-claude-code-coderabbit-vs-greptile-vs-cubic-vs-qodo-213g)
-- [Was my PoA answer actually graded? Reading the public close record](https://dev.to/embot-lantern/was-my-poa-answer-actually-graded-reading-the-public-close-record-1i6p)
-- [ElevenLabs + React: Building a Voice-Enabled UI](https://dev.to/voice_developer/elevenlabs-react-building-a-voice-enabled-ui-4900)
-- [DON&#39;T PANIC: Build an iPad AI Chat Hub with Your Own PC](https://dev.to/rabbidraccoon/dont-panic-build-an-ipad-ai-chat-hub-with-your-own-pc-53bg)
+- [Email Auth Tests Need a Recovery Boundary](https://dev.to/sophiax99/email-auth-tests-need-a-recovery-boundary-44kh)
+- [I Built Free PDF Tools That Run 100% in the Browser — No Server, No Uploads](https://dev.to/timelyups/i-built-free-pdf-tools-that-run-100-in-the-browser-no-server-no-uploads-12ik)
+- [Build a Voice-Enabled Chatbot with ElevenLabs and OpenAI](https://dev.to/voice_developer/build-a-voice-enabled-chatbot-with-elevenlabs-and-openai-4i8h)
+- [How to get Amazon search results as JSON &lpar;rank, price, rating, sponsored flag&rpar; on any marketplace with Python or Node](https://dev.to/rel8ble/how-to-get-amazon-search-results-as-json-rank-price-rating-sponsored-flag-on-any-marketplace-4ea8)
 <!-- BLOG-POST-LIST:END -->
 
