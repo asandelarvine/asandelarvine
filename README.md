@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code hooks for teams: four hooks worth committing to your repo](https://dev.to/aiworkspacebuilder/claude-code-hooks-for-teams-four-hooks-worth-committing-to-your-repo-1kjp)
-- [20 of 21 agent configs just scored lower: what the Coding Agent Index v2.0 reset measures](https://dev.to/piekwerk/20-of-21-agent-configs-just-scored-lower-what-the-coding-agent-index-v20-reset-measures-70j)
-- [Quelle est la différence entre une MNBC et le Bitcoin ?](https://dev.to/sunlibcrypto/quelle-est-la-difference-entre-une-mnbc-et-le-bitcoin--4061)
-- [Why Your Automatic System Might Be Hiring and Firing for the Wrong Reasons](https://dev.to/techwithhari/why-your-automatic-system-might-be-hiring-and-firing-for-the-wrong-reasons-440g)
+- [SARAH v1.0.9 is out — chat fixes, faster project switching, smarter Time Machine](https://dev.to/sarahai/sarah-v109-is-out-chat-fixes-faster-project-switching-smarter-time-machine-7fb)
+- [Beyond Play Integrity: Verifying Android Devices with Hardware Key Attestation &lpar;Without Locking Out GrapheneOS Users&rpar;](https://dev.to/eme_gug_0821b41b948be6516/beyond-play-integrity-verifying-android-devices-with-hardware-key-attestation-without-locking-out-jf4)
+- [A wall or a stopwatch: what &#39;blocked&#39; actually meant](https://dev.to/moss_67/a-wall-or-a-stopwatch-what-blocked-actually-meant-1ghp)
+- [Digital Janitor – a local‑first AI‑powered digital‑cleanup assistant](https://dev.to/praveen007/digital-janitor-a-local-first-ai-powered-digital-cleanup-assistant-23pj)
 <!-- BLOG-POST-LIST:END -->
 
