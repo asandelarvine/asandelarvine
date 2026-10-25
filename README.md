@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bloqueador de Anúncios com IA na Smart TV: Guia 2024](https://dev.to/leojulieta/bloqueador-de-anuncios-com-ia-na-smart-tv-guia-2024-4297)
-- [CareKit: Building a Little AI Assistant for Someone I Care About](https://dev.to/sumaiya_afreen_1ed2b248a3/carekit-building-a-little-ai-assistant-for-someone-i-care-about-38i4)
-- [Build an AI-Powered Ad Blocker for Any Smart TV in 2024](https://dev.to/leojulieta/build-an-ai-powered-ad-blocker-for-any-smart-tv-in-2024-18ai)
-- [Bloquea anuncios en tu Smart TV con IA: guía 2024 paso a paso](https://dev.to/leojulieta/bloquea-anuncios-en-tu-smart-tv-con-ia-guia-2024-paso-a-paso-fd4)
+- [OpenCode&#39;s Breach Shows What a Stored Provider Key Costs](https://dev.to/neticslabs/opencodes-breach-shows-what-a-stored-provider-key-costs-jaf)
+- [What&#39;s the Best Way to Give AI Agents Controlled Spending Authority?](https://dev.to/quinn_854b15f517d8632ed4f/whats-the-best-way-to-give-ai-agents-controlled-spending-authority-5fgo)
+- [Scaling to Trillions: A Look at Cerebras&#39; Weight‑Streaming Architecture](https://dev.to/hassanradwany/scaling-to-trillions-a-look-at-cerebras-weight-streaming-architecture-4meh)
+- [How to monitor WordPress sites without alert fatigue](https://dev.to/hamzaahmadaslam/how-to-monitor-wordpress-sites-without-alert-fatigue-nff)
 <!-- BLOG-POST-LIST:END -->
 
