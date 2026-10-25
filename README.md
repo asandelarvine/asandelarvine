@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Sparse Federated Representation Learning for circular manufacturing supply chains with ethical auditability baked in](https://dev.to/rikinptl/sparse-federated-representation-learning-for-circular-manufacturing-supply-chains-with-ethical-21h4)
-- [Qwen 4 Is Coming: What&#39;s Confirmed and What It Means for Local AI](https://dev.to/rosgluk/qwen-4-is-coming-whats-confirmed-and-what-it-means-for-local-ai-2b8m)
-- [I Built a Telegram Folder Assistant for Hacktoberfest. The Hard Part Was Knowing When Not to Sort.](https://dev.to/zsnowww/i-built-a-telegram-folder-assistant-for-hacktoberfest-the-hard-part-was-knowing-when-not-to-sort-1n1)
-- [Taking the Slow Road to Understanding Code with RepoNap](https://dev.to/aditi_shetty_caaab207ff98/taking-the-slow-road-to-understanding-code-with-reponap-1kok)
+- [MCP Shouldn&#39;t Require a Desktop: Designing a One-Tap Mobile MCP App](https://dev.to/jackymencz/mcp-shouldnt-require-a-desktop-designing-a-one-tap-mobile-mcp-app-4845)
+- [Kafka Retry Patterns vs AWS SQS Explained — 3 Recovery Boundaries for Fintech Jobs](https://dev.to/fluxh91/kafka-retry-patterns-vs-aws-sqs-explained-3-recovery-boundaries-for-fintech-jobs-n23)
+- [One wrong day at the EU border. So I made the European Commission grade my tests.](https://dev.to/mohamedwael201193/one-wrong-day-at-the-eu-border-so-i-made-the-european-commission-grade-my-tests-4edi)
+- [Production Pitfalls of Porting REST API to WebMCP in .NET](https://dev.to/amitesh0512/production-pitfalls-of-porting-rest-api-to-webmcp-in-net-13fg)
 <!-- BLOG-POST-LIST:END -->
 
