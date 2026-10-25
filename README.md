@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP Shouldn&#39;t Require a Desktop: Designing a One-Tap Mobile MCP App](https://dev.to/jackymencz/mcp-shouldnt-require-a-desktop-designing-a-one-tap-mobile-mcp-app-4845)
-- [Kafka Retry Patterns vs AWS SQS Explained — 3 Recovery Boundaries for Fintech Jobs](https://dev.to/fluxh91/kafka-retry-patterns-vs-aws-sqs-explained-3-recovery-boundaries-for-fintech-jobs-n23)
-- [One wrong day at the EU border. So I made the European Commission grade my tests.](https://dev.to/mohamedwael201193/one-wrong-day-at-the-eu-border-so-i-made-the-european-commission-grade-my-tests-4edi)
-- [Production Pitfalls of Porting REST API to WebMCP in .NET](https://dev.to/amitesh0512/production-pitfalls-of-porting-rest-api-to-webmcp-in-net-13fg)
+- [Bloqueador de Anúncios com IA na Smart TV: Guia 2024](https://dev.to/leojulieta/bloqueador-de-anuncios-com-ia-na-smart-tv-guia-2024-4297)
+- [CareKit: Building a Little AI Assistant for Someone I Care About](https://dev.to/sumaiya_afreen_1ed2b248a3/carekit-building-a-little-ai-assistant-for-someone-i-care-about-38i4)
+- [Build an AI-Powered Ad Blocker for Any Smart TV in 2024](https://dev.to/leojulieta/build-an-ai-powered-ad-blocker-for-any-smart-tv-in-2024-18ai)
+- [Bloquea anuncios en tu Smart TV con IA: guía 2024 paso a paso](https://dev.to/leojulieta/bloquea-anuncios-en-tu-smart-tv-con-ia-guia-2024-paso-a-paso-fd4)
 <!-- BLOG-POST-LIST:END -->
 
