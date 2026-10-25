@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenCode&#39;s Breach Shows What a Stored Provider Key Costs](https://dev.to/neticslabs/opencodes-breach-shows-what-a-stored-provider-key-costs-jaf)
-- [What&#39;s the Best Way to Give AI Agents Controlled Spending Authority?](https://dev.to/quinn_854b15f517d8632ed4f/whats-the-best-way-to-give-ai-agents-controlled-spending-authority-5fgo)
-- [Scaling to Trillions: A Look at Cerebras&#39; Weight‑Streaming Architecture](https://dev.to/hassanradwany/scaling-to-trillions-a-look-at-cerebras-weight-streaming-architecture-4meh)
-- [How to monitor WordPress sites without alert fatigue](https://dev.to/hamzaahmadaslam/how-to-monitor-wordpress-sites-without-alert-fatigue-nff)
+- [Why Cross-Platform Flutter Apps Still Need Native Kotlin MethodChannels for Low-Latency Hardware](https://dev.to/ayush_raina_50d571bb314d9/why-cross-platform-flutter-apps-still-need-native-kotlin-methodchannels-for-low-latency-hardware-4agn)
+- [[Release 0.4.0] VS Code-compatible extension for browsing crypto files/vaults](https://dev.to/marcusaprelius/release-040-vs-code-compatible-extension-for-browsing-crypto-filesvaults-5a6b)
+- [Building 8 Production Web Scrapers &amp; Manifest V3 Browser Extensions in Node.js](https://dev.to/kabeer099/building-8-production-web-scrapers-manifest-v3-browser-extensions-in-nodejs-4m08)
+- [SlothBrief AI: The 100% Local Overnight Chat Tamer for the Gloriously Lazy](https://dev.to/atharv_soni_8a5d9cd294432/slothbrief-ai-the-100-local-overnight-chat-tamer-for-the-gloriously-lazy-4eoc)
 <!-- BLOG-POST-LIST:END -->
 
