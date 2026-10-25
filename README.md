@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Cross-Platform Flutter Apps Still Need Native Kotlin MethodChannels for Low-Latency Hardware](https://dev.to/ayush_raina_50d571bb314d9/why-cross-platform-flutter-apps-still-need-native-kotlin-methodchannels-for-low-latency-hardware-4agn)
-- [[Release 0.4.0] VS Code-compatible extension for browsing crypto files/vaults](https://dev.to/marcusaprelius/release-040-vs-code-compatible-extension-for-browsing-crypto-filesvaults-5a6b)
-- [Building 8 Production Web Scrapers &amp; Manifest V3 Browser Extensions in Node.js](https://dev.to/kabeer099/building-8-production-web-scrapers-manifest-v3-browser-extensions-in-nodejs-4m08)
-- [SlothBrief AI: The 100% Local Overnight Chat Tamer for the Gloriously Lazy](https://dev.to/atharv_soni_8a5d9cd294432/slothbrief-ai-the-100-local-overnight-chat-tamer-for-the-gloriously-lazy-4eoc)
+- [Your API Process Should Not Hold the Money Key](https://dev.to/spread2009/your-api-process-should-not-hold-the-money-key-388a)
+- [I gave a 4B model all night to think, twice. It lost both times. Temporal never lost its place.](https://dev.to/vaidehisnk/i-gave-a-4b-model-all-night-to-think-twice-it-lost-both-times-temporal-never-lost-its-place-2dpp)
+- [Scraping a site behind a login in Python &lpar;and why I go for the API instead&rpar;](https://dev.to/branch42-labs/scraping-a-site-behind-a-login-in-python-and-why-i-go-for-the-api-instead-2n57)
+- [How to Turn an Article URL into a Video Without Rewriting It](https://dev.to/liubinpm/how-to-turn-an-article-url-into-a-video-without-rewriting-it-2dp5)
 <!-- BLOG-POST-LIST:END -->
 
