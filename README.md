@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Key Management &amp; Encryption &lpar;KMS&rpar;](https://dev.to/sri2614/key-management-encryption-kms-5a62)
-- [Runway vs Kling vs Luma: which AI video tool fits the shot you need](https://dev.to/rankedbytask/runway-vs-kling-vs-luma-which-ai-video-tool-fits-the-shot-you-need-1jj9)
-- [AI news roundup — morning, 26 Oct 2026: an agent past a paywall, $40B for chips, and Elvis&#39;s estate vs Anthropic](https://dev.to/sairamodela/ai-news-roundup-morning-26-oct-2026-an-agent-past-a-paywall-40b-for-chips-and-elviss-estate-4d9o)
-- [Prevent Hallucinated Bot Commands: Build an LLM Tool Loop for Telegram in Node.js](https://dev.to/serhii_a9c08345ac360cf5c8/prevent-hallucinated-bot-commands-build-an-llm-tool-loop-for-telegram-in-nodejs-2l6b)
+- [Scraping Cloudflare-Protected SPAs for Agentic Workflows: PyPI crawlengine-mcp Guide](https://dev.to/johann_schiffer/scraping-cloudflare-protected-spas-for-agentic-workflows-pypi-crawlengine-mcp-guide-27pj)
+- [Debug Log #10: A Post Didn&#39;t Publish On Schedule, and I Can&#39;t Fully Explain Why](https://dev.to/just_a_side_project/debug-log-10-a-post-didnt-publish-on-schedule-and-i-cant-fully-explain-why-1c6l)
+- [What Did They Have to Check or Redo?](https://dev.to/harryfloyd/what-did-they-have-to-check-or-redo-510c)
+- [The Codecs directory: why CVE-2026-96656 turns a transcoder preference into code execution](https://dev.to/onaeiuspkz/the-codecs-directory-why-cve-2026-96656-turns-a-transcoder-preference-into-code-execution-49a3)
 <!-- BLOG-POST-LIST:END -->
 
