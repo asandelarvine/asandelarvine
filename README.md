@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the AI-Powered App Testing Agent in Firebase: Web Architecture &amp; Implementation Guide](https://dev.to/codingcatdev/introducing-the-ai-powered-app-testing-agent-in-firebase-web-architecture-implementation-guide-35f0)
-- [Announcing Firebase Genkit 1.0 for Node.js: Web Architecture &amp; Implementation Guide](https://dev.to/codingcatdev/announcing-firebase-genkit-10-for-nodejs-web-architecture-implementation-guide-3l25)
-- [RAG Chunking Done Right: Split on Structure, Attach Metadata, and Measure Recall Before You Touch chunk_size](https://dev.to/m_t_ramkrushna/rag-chunking-done-right-split-on-structure-attach-metadata-and-measure-recall-before-you-touch-2b86)
-- [No API for Browser Translation: Adding an English Mode to a Chinese-Only Web App](https://dev.to/hoelee/no-api-for-browser-translation-adding-an-english-mode-to-a-chinese-only-web-app-4bd0)
+- [Your secrets don&#39;t need a git commit to leak into an AI tool](https://dev.to/cyclopt_dimitrisk/your-secrets-dont-need-a-git-commit-to-leak-into-an-ai-tool-be2)
+- [Stein Variational Gradient Descent: Particles That Repel Their Way to the Posterior](https://dev.to/umeshtharukaofficial/stein-variational-gradient-descent-particles-that-repel-their-way-to-the-posterior-1km8)
+- [Raspberry Pi Pico W vs ESP32: cuál elegir para tus proyectos IoT](https://dev.to/stevencarvajal/raspberry-pi-pico-w-vs-esp32-cual-elegir-para-tus-proyectos-iot-3d10)
+- [Why I Failed the DP-700 Exam, and How I Passed It](https://dev.to/revos_ai/why-i-failed-the-dp-700-exam-and-how-i-passed-it-poo)
 <!-- BLOG-POST-LIST:END -->
 
