@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Performance Benchmarks: How Fast We Are](https://dev.to/ahmed_isam_752b775a50fd90/performance-benchmarks-how-fast-we-are-4da1)
-- [Website Redesign SEO Checklist for Developers: Redirects, Staging Traps, and Launch Checks](https://dev.to/rankvelt/website-redesign-seo-checklist-for-developers-redirects-staging-traps-and-launch-checks-178g)
-- [&quot;Procedural generation in games: where the scatter has to stop&quot;](https://dev.to/idlecultivation/procedural-generation-in-games-where-the-scatter-has-to-stop-1095)
-- [192 people were paid to insult one stranger. Not one receipt names who paid](https://dev.to/mercedesgoldmoon/192-people-were-paid-to-insult-one-stranger-not-one-receipt-names-who-paid-542b)
+- [Introducing the AI-Powered App Testing Agent in Firebase: Web Architecture &amp; Implementation Guide](https://dev.to/codingcatdev/introducing-the-ai-powered-app-testing-agent-in-firebase-web-architecture-implementation-guide-35f0)
+- [Announcing Firebase Genkit 1.0 for Node.js: Web Architecture &amp; Implementation Guide](https://dev.to/codingcatdev/announcing-firebase-genkit-10-for-nodejs-web-architecture-implementation-guide-3l25)
+- [RAG Chunking Done Right: Split on Structure, Attach Metadata, and Measure Recall Before You Touch chunk_size](https://dev.to/m_t_ramkrushna/rag-chunking-done-right-split-on-structure-attach-metadata-and-measure-recall-before-you-touch-2b86)
+- [No API for Browser Translation: Adding an English Mode to a Chinese-Only Web App](https://dev.to/hoelee/no-api-for-browser-translation-adding-an-english-mode-to-a-chinese-only-web-app-4bd0)
 <!-- BLOG-POST-LIST:END -->
 
