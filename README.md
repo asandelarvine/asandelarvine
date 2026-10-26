@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your secrets don&#39;t need a git commit to leak into an AI tool](https://dev.to/cyclopt_dimitrisk/your-secrets-dont-need-a-git-commit-to-leak-into-an-ai-tool-be2)
-- [Stein Variational Gradient Descent: Particles That Repel Their Way to the Posterior](https://dev.to/umeshtharukaofficial/stein-variational-gradient-descent-particles-that-repel-their-way-to-the-posterior-1km8)
-- [Raspberry Pi Pico W vs ESP32: cuál elegir para tus proyectos IoT](https://dev.to/stevencarvajal/raspberry-pi-pico-w-vs-esp32-cual-elegir-para-tus-proyectos-iot-3d10)
-- [Why I Failed the DP-700 Exam, and How I Passed It](https://dev.to/revos_ai/why-i-failed-the-dp-700-exam-and-how-i-passed-it-poo)
+- [Key Management &amp; Encryption &lpar;KMS&rpar;](https://dev.to/sri2614/key-management-encryption-kms-5a62)
+- [Runway vs Kling vs Luma: which AI video tool fits the shot you need](https://dev.to/rankedbytask/runway-vs-kling-vs-luma-which-ai-video-tool-fits-the-shot-you-need-1jj9)
+- [AI news roundup — morning, 26 Oct 2026: an agent past a paywall, $40B for chips, and Elvis&#39;s estate vs Anthropic](https://dev.to/sairamodela/ai-news-roundup-morning-26-oct-2026-an-agent-past-a-paywall-40b-for-chips-and-elviss-estate-4d9o)
+- [Prevent Hallucinated Bot Commands: Build an LLM Tool Loop for Telegram in Node.js](https://dev.to/serhii_a9c08345ac360cf5c8/prevent-hallucinated-bot-commands-build-an-llm-tool-loop-for-telegram-in-nodejs-2l6b)
 <!-- BLOG-POST-LIST:END -->
 
