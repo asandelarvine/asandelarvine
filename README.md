@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript 7.1 Can Now Import Almost Anything. So I Made It Import C++, C, and Rust.](https://dev.to/mykhailen/typescript-71-can-now-import-almost-anything-so-i-made-it-import-c-c-and-rust-3h25)
-- [Auditing WordPress Changes - What Core Hooks Don&#39;t Tell You](https://dev.to/loyalsecuritywp/auditing-wordpress-changes-what-core-hooks-dont-tell-you-2c49)
-- [Why AI Agents Are Rediscovering Grep: The Limits of Vector RAG in Real-World Engineering](https://dev.to/john_hu_c9e41268b1f330d2e/why-ai-agents-are-rediscovering-grep-the-limits-of-vector-rag-in-real-world-engineering-2lf8)
-- [California Solar Permit Leads: Pull Every New Solar Install from County Open Data &lpar;Python&rpar;](https://dev.to/loomwise/california-solar-permit-leads-pull-every-new-solar-install-from-county-open-data-python-1lcm)
+- [Automating Multi‑Platform Content Publishing with a Node.js Generator](https://dev.to/zaerohell/automating-multi-platform-content-publishing-with-a-nodejs-generator-1bjj)
+- [Cómo validar RFC contra las listas del SAT &lpar;69, 69-B y 69-B Bis&rpar; sin abrir Excel a mano](https://dev.to/tasaveradata/como-validar-rfc-contra-las-listas-del-sat-69-69-b-y-69-b-bis-sin-abrir-excel-a-mano-2nk1)
+- [👻 Memoria Local: An Offline AI Digital Ofrenda for Día de los Muertos](https://dev.to/hardikxk/memoria-local-an-offline-ai-digital-ofrenda-for-dia-de-los-muertos-pkg)
+- [Car Dealership Simulator &lpar;Android&rpar;: Game Design Lessons From a Used Car Flipping Loop](https://dev.to/trendzbetagames/car-dealership-simulator-android-game-design-lessons-from-a-used-car-flipping-loop-4bj3)
 <!-- BLOG-POST-LIST:END -->
 
