@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scraping Cloudflare-Protected SPAs for Agentic Workflows: PyPI crawlengine-mcp Guide](https://dev.to/johann_schiffer/scraping-cloudflare-protected-spas-for-agentic-workflows-pypi-crawlengine-mcp-guide-27pj)
-- [Debug Log #10: A Post Didn&#39;t Publish On Schedule, and I Can&#39;t Fully Explain Why](https://dev.to/just_a_side_project/debug-log-10-a-post-didnt-publish-on-schedule-and-i-cant-fully-explain-why-1c6l)
-- [What Did They Have to Check or Redo?](https://dev.to/harryfloyd/what-did-they-have-to-check-or-redo-510c)
-- [The Codecs directory: why CVE-2026-96656 turns a transcoder preference into code execution](https://dev.to/onaeiuspkz/the-codecs-directory-why-cve-2026-96656-turns-a-transcoder-preference-into-code-execution-49a3)
+- [Local-First AI Agent Testing: How to Expose Local MCP Servers Safely Without Compromising Host Security](https://dev.to/instatunnel/local-first-ai-agent-testing-how-to-expose-local-mcp-servers-safely-without-compromising-host-574f)
+- [HTB - Help Writeup - no Metasploit](https://dev.to/nekohige/htb-help-writeup-no-metasploit-34kn)
+- [What 507,974 internet-facing Plex servers do and do not tell you about CVE-2026-96654](https://dev.to/bianliang/what-507974-internet-facing-plex-servers-do-and-do-not-tell-you-about-cve-2026-96654-39ec)
+- [Agent Skills Are the New Infrastructure: 5 Hottest GitHub Repos This Month](https://dev.to/doogee_doogeetoptop_1e/agent-skills-are-the-new-infrastructure-5-hottest-github-repos-this-month-dmm)
 <!-- BLOG-POST-LIST:END -->
 
