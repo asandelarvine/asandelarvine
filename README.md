@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hiding a cookie banner is not consent — what actually happens when you click &quot;Reject all&quot;](https://dev.to/glenkit/hiding-a-cookie-banner-is-not-consent-what-actually-happens-when-you-click-reject-all-2le7)
-- [GhostShell: A Local AI Coding Assistant with a Haunted Terminal Twist](https://dev.to/seco_61kshitijdines/ghostshell-a-local-ai-coding-assistant-with-a-haunted-terminal-twist-4526)
-- [Telehealth video visits with expiring links: one API call per appointment](https://dev.to/maxwell_lin_d59a2746f8a27/telehealth-video-visits-with-expiring-links-one-api-call-per-appointment-2nag)
-- [How to Audit Whether Your Website Is Ready for AI Search Citations](https://dev.to/enlimited/how-to-audit-whether-your-website-is-ready-for-ai-search-citations-18if)
+- [TypeScript 7.1 Can Now Import Almost Anything. So I Made It Import C++, C, and Rust.](https://dev.to/mykhailen/typescript-71-can-now-import-almost-anything-so-i-made-it-import-c-c-and-rust-3h25)
+- [Auditing WordPress Changes - What Core Hooks Don&#39;t Tell You](https://dev.to/loyalsecuritywp/auditing-wordpress-changes-what-core-hooks-dont-tell-you-2c49)
+- [Why AI Agents Are Rediscovering Grep: The Limits of Vector RAG in Real-World Engineering](https://dev.to/john_hu_c9e41268b1f330d2e/why-ai-agents-are-rediscovering-grep-the-limits-of-vector-rag-in-real-world-engineering-2lf8)
+- [California Solar Permit Leads: Pull Every New Solar Install from County Open Data &lpar;Python&rpar;](https://dev.to/loomwise/california-solar-permit-leads-pull-every-new-solar-install-from-county-open-data-python-1lcm)
 <!-- BLOG-POST-LIST:END -->
 
