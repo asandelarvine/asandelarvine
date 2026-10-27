@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Local-First AI Agent Testing: How to Expose Local MCP Servers Safely Without Compromising Host Security](https://dev.to/instatunnel/local-first-ai-agent-testing-how-to-expose-local-mcp-servers-safely-without-compromising-host-574f)
-- [HTB - Help Writeup - no Metasploit](https://dev.to/nekohige/htb-help-writeup-no-metasploit-34kn)
-- [What 507,974 internet-facing Plex servers do and do not tell you about CVE-2026-96654](https://dev.to/bianliang/what-507974-internet-facing-plex-servers-do-and-do-not-tell-you-about-cve-2026-96654-39ec)
-- [Agent Skills Are the New Infrastructure: 5 Hottest GitHub Repos This Month](https://dev.to/doogee_doogeetoptop_1e/agent-skills-are-the-new-infrastructure-5-hottest-github-repos-this-month-dmm)
+- [Hiding a cookie banner is not consent — what actually happens when you click &quot;Reject all&quot;](https://dev.to/glenkit/hiding-a-cookie-banner-is-not-consent-what-actually-happens-when-you-click-reject-all-2le7)
+- [GhostShell: A Local AI Coding Assistant with a Haunted Terminal Twist](https://dev.to/seco_61kshitijdines/ghostshell-a-local-ai-coding-assistant-with-a-haunted-terminal-twist-4526)
+- [Telehealth video visits with expiring links: one API call per appointment](https://dev.to/maxwell_lin_d59a2746f8a27/telehealth-video-visits-with-expiring-links-one-api-call-per-appointment-2nag)
+- [How to Audit Whether Your Website Is Ready for AI Search Citations](https://dev.to/enlimited/how-to-audit-whether-your-website-is-ready-for-ai-search-citations-18if)
 <!-- BLOG-POST-LIST:END -->
 
