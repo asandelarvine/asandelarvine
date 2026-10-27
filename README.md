@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Multi‑Platform Content Publishing with a Node.js Generator](https://dev.to/zaerohell/automating-multi-platform-content-publishing-with-a-nodejs-generator-1bjj)
-- [Cómo validar RFC contra las listas del SAT &lpar;69, 69-B y 69-B Bis&rpar; sin abrir Excel a mano](https://dev.to/tasaveradata/como-validar-rfc-contra-las-listas-del-sat-69-69-b-y-69-b-bis-sin-abrir-excel-a-mano-2nk1)
-- [👻 Memoria Local: An Offline AI Digital Ofrenda for Día de los Muertos](https://dev.to/hardikxk/memoria-local-an-offline-ai-digital-ofrenda-for-dia-de-los-muertos-pkg)
-- [Car Dealership Simulator &lpar;Android&rpar;: Game Design Lessons From a Used Car Flipping Loop](https://dev.to/trendzbetagames/car-dealership-simulator-android-game-design-lessons-from-a-used-car-flipping-loop-4bj3)
+- [Seasonal Theme Updates: What They Do to Daily Use](https://dev.to/ahmed_isam_752b775a50fd90/seasonal-theme-updates-what-they-do-to-daily-use-510h)
+- [Claude Code Auto-Compact: 12 of 22 Drops Were Real, Half Were One Turn](https://dev.to/sungwoo_lee_e0f26be4a29fd/claude-code-auto-compact-12-of-22-drops-were-real-half-were-one-turn-1aab)
+- [Ghostty 1.4 says scrollback compression saves 70-90%. I measured five kinds of text.](https://dev.to/frankchu/ghostty-14-says-scrollback-compression-saves-70-90-i-measured-five-kinds-of-text-2l06)
+- [GoAhead&#39;s DH bug turns a 2048-bit prime into 255. I counted the 8 secrets left.](https://dev.to/frankchu/goaheads-dh-bug-turns-a-2048-bit-prime-into-255-i-counted-the-8-secrets-left-3jn6)
 <!-- BLOG-POST-LIST:END -->
 
