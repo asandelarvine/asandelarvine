@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Three.js Post-Processing: 192 Desktop Trials Beyond the FPS Counter](https://dev.to/alicia_lu/threejs-post-processing-192-desktop-trials-beyond-the-fps-counter-4jcl)
-- [How to let ChatGPT operate your Android phone &lpar;open source, and you approve every action&rpar;](https://dev.to/ryoitabashi/how-to-let-chatgpt-operate-your-android-phone-open-source-and-you-approve-every-action-1mi6)
-- [DLT Registration for SMS and Voice: Step by Step](https://dev.to/xreach51/dlt-registration-for-sms-and-voice-step-by-step-12le)
-- [Your First Website Doesn&#39;t Need a Purchased Domain](https://dev.to/yanstd888/your-first-website-doesnt-need-a-purchased-domain-nbd)
+- [I Asked My Git Repository What It Remembered - and Found a Ghost 👻](https://dev.to/dinukaek/i-asked-my-git-repository-what-it-remembered-and-found-a-ghost-3d2j)
+- [Find newly registered UK companies by town with free Companies House data &lpar;Python, no API key&rpar;](https://dev.to/torix33/find-newly-registered-uk-companies-by-town-with-free-companies-house-data-python-no-api-key-3m01)
+- [Supabase&#39;s 30 Oct change: the next table your AI builder creates needs a GRANT. Here&#39;s the 2-minute check.](https://dev.to/vibetierlist/supabases-30-oct-change-the-next-table-your-ai-builder-creates-needs-a-grant-heres-the-2-minute-3c69)
+- [AQEMU vs Hyper-V, VirtualBox, VMware and plain QEMU on Windows: an honest comparison](https://dev.to/chronicengineering/aqemu-vs-hyper-v-virtualbox-vmware-and-plain-qemu-on-windows-an-honest-comparison-3ino)
 <!-- BLOG-POST-LIST:END -->
 
