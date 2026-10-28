@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Stock Market APIs for Python Developers in 2026](https://dev.to/thebitforge/best-stock-market-apis-for-python-developers-in-2026-4j15)
-- [AI Recommendation Bias Examples](https://dev.to/raylabs/ai-recommendation-bias-examples-2ij)
-- [What a Screenshot File Carries Besides Pixels](https://dev.to/978190375/what-a-screenshot-file-carries-besides-pixels-p9d)
-- [From Prompt to Production: The Hidden Engineering Behind Generative AI Features](https://dev.to/tamizuddin/from-prompt-to-production-the-hidden-engineering-behind-generative-ai-features-29om)
+- [Your macOS Git Still Trusts Compromised Certificates](https://dev.to/robust_true_try/your-macos-git-still-trusts-compromised-certificates-5691)
+- [Create an AI Voice Assistant with ElevenLabs and Node.js](https://dev.to/voice_developer/create-an-ai-voice-assistant-with-elevenlabs-and-nodejs-15fc)
+- [Your n8n Workflow Never Started: Build a Dead-Man&#39;s Switch That Notices](https://dev.to/aiautomationplaybook/your-n8n-workflow-never-started-build-a-dead-mans-switch-that-notices-1ejf)
+- [A Drone Remembers Everything It Saw. Now You Can Watch It Happen Again.](https://dev.to/harpreetsahota/a-drone-remembers-everything-it-saw-now-you-can-watch-it-happen-again-40f9)
 <!-- BLOG-POST-LIST:END -->
 
