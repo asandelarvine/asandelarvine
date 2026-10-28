@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Seasonal Theme Updates: What They Do to Daily Use](https://dev.to/ahmed_isam_752b775a50fd90/seasonal-theme-updates-what-they-do-to-daily-use-510h)
-- [Claude Code Auto-Compact: 12 of 22 Drops Were Real, Half Were One Turn](https://dev.to/sungwoo_lee_e0f26be4a29fd/claude-code-auto-compact-12-of-22-drops-were-real-half-were-one-turn-1aab)
-- [Ghostty 1.4 says scrollback compression saves 70-90%. I measured five kinds of text.](https://dev.to/frankchu/ghostty-14-says-scrollback-compression-saves-70-90-i-measured-five-kinds-of-text-2l06)
-- [GoAhead&#39;s DH bug turns a 2048-bit prime into 255. I counted the 8 secrets left.](https://dev.to/frankchu/goaheads-dh-bug-turns-a-2048-bit-prime-into-255-i-counted-the-8-secrets-left-3jn6)
+- [Three.js Post-Processing: 192 Desktop Trials Beyond the FPS Counter](https://dev.to/alicia_lu/threejs-post-processing-192-desktop-trials-beyond-the-fps-counter-4jcl)
+- [How to let ChatGPT operate your Android phone &lpar;open source, and you approve every action&rpar;](https://dev.to/ryoitabashi/how-to-let-chatgpt-operate-your-android-phone-open-source-and-you-approve-every-action-1mi6)
+- [DLT Registration for SMS and Voice: Step by Step](https://dev.to/xreach51/dlt-registration-for-sms-and-voice-step-by-step-12le)
+- [Your First Website Doesn&#39;t Need a Purchased Domain](https://dev.to/yanstd888/your-first-website-doesnt-need-a-purchased-domain-nbd)
 <!-- BLOG-POST-LIST:END -->
 
