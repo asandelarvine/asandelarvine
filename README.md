@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Asked My Git Repository What It Remembered - and Found a Ghost 👻](https://dev.to/dinukaek/i-asked-my-git-repository-what-it-remembered-and-found-a-ghost-3d2j)
-- [Find newly registered UK companies by town with free Companies House data &lpar;Python, no API key&rpar;](https://dev.to/torix33/find-newly-registered-uk-companies-by-town-with-free-companies-house-data-python-no-api-key-3m01)
-- [Supabase&#39;s 30 Oct change: the next table your AI builder creates needs a GRANT. Here&#39;s the 2-minute check.](https://dev.to/vibetierlist/supabases-30-oct-change-the-next-table-your-ai-builder-creates-needs-a-grant-heres-the-2-minute-3c69)
-- [AQEMU vs Hyper-V, VirtualBox, VMware and plain QEMU on Windows: an honest comparison](https://dev.to/chronicengineering/aqemu-vs-hyper-v-virtualbox-vmware-and-plain-qemu-on-windows-an-honest-comparison-3ino)
+- [Best Stock Market APIs for Python Developers in 2026](https://dev.to/thebitforge/best-stock-market-apis-for-python-developers-in-2026-4j15)
+- [AI Recommendation Bias Examples](https://dev.to/raylabs/ai-recommendation-bias-examples-2ij)
+- [What a Screenshot File Carries Besides Pixels](https://dev.to/978190375/what-a-screenshot-file-carries-besides-pixels-p9d)
+- [From Prompt to Production: The Hidden Engineering Behind Generative AI Features](https://dev.to/tamizuddin/from-prompt-to-production-the-hidden-engineering-behind-generative-ai-features-29om)
 <!-- BLOG-POST-LIST:END -->
 
