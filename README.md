@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Your macOS Git Still Trusts Compromised Certificates](https://dev.to/robust_true_try/your-macos-git-still-trusts-compromised-certificates-5691)
-- [Create an AI Voice Assistant with ElevenLabs and Node.js](https://dev.to/voice_developer/create-an-ai-voice-assistant-with-elevenlabs-and-nodejs-15fc)
-- [Your n8n Workflow Never Started: Build a Dead-Man&#39;s Switch That Notices](https://dev.to/aiautomationplaybook/your-n8n-workflow-never-started-build-a-dead-mans-switch-that-notices-1ejf)
-- [A Drone Remembers Everything It Saw. Now You Can Watch It Happen Again.](https://dev.to/harpreetsahota/a-drone-remembers-everything-it-saw-now-you-can-watch-it-happen-again-40f9)
+- [Why your video doorbell captures faces perfectly at noon and ruins them at night](https://dev.to/xingliao/why-your-video-doorbell-captures-faces-perfectly-at-noon-and-ruins-them-at-night-2cnp)
+- [ACH Return Codes Explained: Handling R01–R85 in Production Payout Systems](https://dev.to/payout_rail/ach-return-codes-explained-handling-r01-r85-in-production-payout-systems-2k2g)
+- [Stop Guessing Your Context Budget: Practical KV Cache Sizing for Local LLMs](https://dev.to/lyraalishaikh/stop-guessing-your-context-budget-practical-kv-cache-sizing-for-local-llms-1d0o)
+- [A Web Page Dropped AGENTS.md in Downloads. Codex Obeyed It in 90%+ of Tests](https://dev.to/gabrielanhaia/a-web-page-dropped-agentsmd-in-downloads-codex-obeyed-it-in-90-of-tests-530o)
 <!-- BLOG-POST-LIST:END -->
 
