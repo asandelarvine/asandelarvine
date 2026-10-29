@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why your video doorbell captures faces perfectly at noon and ruins them at night](https://dev.to/xingliao/why-your-video-doorbell-captures-faces-perfectly-at-noon-and-ruins-them-at-night-2cnp)
-- [ACH Return Codes Explained: Handling R01–R85 in Production Payout Systems](https://dev.to/payout_rail/ach-return-codes-explained-handling-r01-r85-in-production-payout-systems-2k2g)
-- [Stop Guessing Your Context Budget: Practical KV Cache Sizing for Local LLMs](https://dev.to/lyraalishaikh/stop-guessing-your-context-budget-practical-kv-cache-sizing-for-local-llms-1d0o)
-- [A Web Page Dropped AGENTS.md in Downloads. Codex Obeyed It in 90%+ of Tests](https://dev.to/gabrielanhaia/a-web-page-dropped-agentsmd-in-downloads-codex-obeyed-it-in-90-of-tests-530o)
+- [Clone a private repository over HTTPS: use an access token as the password](https://dev.to/wenping/clone-a-private-repository-over-https-use-an-access-token-as-the-password-26kl)
+- [How to handle multiple VS Code windows at a time](https://dev.to/zhekpisov/how-to-handle-multiple-vs-code-windows-at-a-time-3phc)
+- [When a data pipeline fails, can an AI agent explain why?](https://dev.to/corpulent/when-a-data-pipeline-fails-can-an-ai-agent-explain-why-266g)
+- [How to block vulnerabilities before merge](https://dev.to/wenping/how-to-block-vulnerabilities-before-merge-48m3)
 <!-- BLOG-POST-LIST:END -->
 
