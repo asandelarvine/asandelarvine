@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Clone a private repository over HTTPS: use an access token as the password](https://dev.to/wenping/clone-a-private-repository-over-https-use-an-access-token-as-the-password-26kl)
-- [How to handle multiple VS Code windows at a time](https://dev.to/zhekpisov/how-to-handle-multiple-vs-code-windows-at-a-time-3phc)
-- [When a data pipeline fails, can an AI agent explain why?](https://dev.to/corpulent/when-a-data-pipeline-fails-can-an-ai-agent-explain-why-266g)
-- [How to block vulnerabilities before merge](https://dev.to/wenping/how-to-block-vulnerabilities-before-merge-48m3)
+- [Does a GPU let you fit more users on a shared Linux desktop server? I measured it](https://dev.to/zhoorta/does-a-gpu-let-you-fit-more-users-on-a-shared-linux-desktop-server-i-measured-it-4k7f)
+- [NecroShell 👻 Ghost in the Machine: An Air-Gapped Possessed Terminal Powered by Local Open-Weight AI &lpar;Gemma&rpar;](https://dev.to/adikamubafna77/necroshell-ghost-in-the-machine-an-air-gapped-possessed-terminal-powered-by-local-open-weight-ai-p8i)
+- [&quot;🔌 MCP Servers Are Spreading. Treat Them Like APIs&quot;](https://dev.to/journal_ai/-mcp-servers-are-spreading-treat-them-like-apis-mp)
+- [&quot;⚡ Kafka Is a Better Agent Bus Than Your Chat Loop&quot;](https://dev.to/journal_ai/-kafka-is-a-better-agent-bus-than-your-chat-loop-mab)
 <!-- BLOG-POST-LIST:END -->
 
