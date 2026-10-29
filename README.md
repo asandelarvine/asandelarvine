@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Does a GPU let you fit more users on a shared Linux desktop server? I measured it](https://dev.to/zhoorta/does-a-gpu-let-you-fit-more-users-on-a-shared-linux-desktop-server-i-measured-it-4k7f)
-- [NecroShell 👻 Ghost in the Machine: An Air-Gapped Possessed Terminal Powered by Local Open-Weight AI &lpar;Gemma&rpar;](https://dev.to/adikamubafna77/necroshell-ghost-in-the-machine-an-air-gapped-possessed-terminal-powered-by-local-open-weight-ai-p8i)
-- [&quot;🔌 MCP Servers Are Spreading. Treat Them Like APIs&quot;](https://dev.to/journal_ai/-mcp-servers-are-spreading-treat-them-like-apis-mp)
-- [&quot;⚡ Kafka Is a Better Agent Bus Than Your Chat Loop&quot;](https://dev.to/journal_ai/-kafka-is-a-better-agent-bus-than-your-chat-loop-mab)
+- [zkLink Nova Exploit: A Stale Transient Hash Forged a Root](https://dev.to/pandasecurity/zklink-nova-exploit-a-stale-transient-hash-forged-a-root-oji)
+- [What JSON.parse does to a 20-digit integer, and how to keep the digits](https://dev.to/mercerk17/what-jsonparse-does-to-a-20-digit-integer-and-how-to-keep-the-digits-420j)
+- [AI 週報 — Gemini 4 Carbon、兆參數開放權重與代理外傳測試](https://dev.to/yang_goufang_23c7ba674984/ai-zhou-bao-gemini-4-carbon-zhao-can-shu-kai-fang-quan-zhong-yu-dai-li-wai-chuan-ce-shi-28bm)
+- [Six things I learned putting a REST API in front of Google Tasks](https://dev.to/manoelmartins1980/six-things-i-learned-putting-a-rest-api-in-front-of-google-tasks-3pce)
 <!-- BLOG-POST-LIST:END -->
 
