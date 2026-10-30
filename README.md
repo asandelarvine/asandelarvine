@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [zkLink Nova Exploit: A Stale Transient Hash Forged a Root](https://dev.to/pandasecurity/zklink-nova-exploit-a-stale-transient-hash-forged-a-root-oji)
-- [What JSON.parse does to a 20-digit integer, and how to keep the digits](https://dev.to/mercerk17/what-jsonparse-does-to-a-20-digit-integer-and-how-to-keep-the-digits-420j)
-- [AI 週報 — Gemini 4 Carbon、兆參數開放權重與代理外傳測試](https://dev.to/yang_goufang_23c7ba674984/ai-zhou-bao-gemini-4-carbon-zhao-can-shu-kai-fang-quan-zhong-yu-dai-li-wai-chuan-ce-shi-28bm)
-- [Six things I learned putting a REST API in front of Google Tasks](https://dev.to/manoelmartins1980/six-things-i-learned-putting-a-rest-api-in-front-of-google-tasks-3pce)
+- [Choosing a Resource Management Tool: A Practitioner’s Comparison](https://dev.to/tomaszkrystman/choosing-a-resource-management-tool-a-practitioners-comparison-8e4)
+- [How to Write a Google Ads Campaign Brief That Actually Produces Tight Ad Groups](https://dev.to/adeptads_growth/how-to-write-a-google-ads-campaign-brief-that-actually-produces-tight-ad-groups-2fk5)
+- [How to Build a Small Business Website: Pages, Content and Launch](https://dev.to/morlixcms/how-to-build-a-small-business-website-pages-content-and-launch-5864)
+- [Zepto Scraper in Python: Category Listings, Prices and Stock](https://dev.to/burahan/zepto-scraper-in-python-category-listings-prices-and-stock-44j4)
 <!-- BLOG-POST-LIST:END -->
 
