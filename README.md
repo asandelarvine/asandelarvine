@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a graveyard for dead AI agents. Each plot costs a cent more than the last.](https://dev.to/alex_mohseni_18af4321cb93/i-built-a-graveyard-for-dead-ai-agents-each-plot-costs-a-cent-more-than-the-last-3ae1)
-- [Designing a Robust Automation Strategy for Real-time Streaming Data Dashboards](https://dev.to/styrow_dev/designing-a-robust-automation-strategy-for-real-time-streaming-data-dashboards-4jga)
-- [Middleware is not your auth layer &lpar;a Next.js footgun I keep finding&rpar;](https://dev.to/somnath_khadanga_2e5c2364/middleware-is-not-your-auth-layer-a-nextjs-footgun-i-keep-finding-2n31)
-- [Human-in-the-Loop AI: Why Some Tasks Should Never Be Fully Automated](https://dev.to/vector_skill_academy/human-in-the-loop-ai-why-some-tasks-should-never-be-fully-automated-4lcm)
+- [Why I built HTTP Forge when Postman, Thunder Client, Bruno, and Insomnia already exist](https://dev.to/hslcalgary/why-i-built-http-forge-when-postman-thunder-client-bruno-and-insomnia-already-exist-4f03)
+- [GhostLog 👻 – AI-Powered Error Investigator Using Gemma 3 1B](https://dev.to/karthikeyan_bcfdbd86e07c0/ghostlog-ai-powered-error-investigator-using-gemma-3-1b-1325)
+- [Building a DEV.to Connector for Cognee: Giving AI Agents a Developer Knowledge Base](https://dev.to/swatiicfai/building-a-devto-connector-for-cognee-giving-ai-agents-a-developer-knowledge-base-4nm1)
+- [Lumbre: An Ofrenda That Never Leaves Your Laptop](https://dev.to/atharva1723/lumbre-an-ofrenda-that-never-leaves-your-laptop-30j6)
 <!-- BLOG-POST-LIST:END -->
 
