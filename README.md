@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I built HTTP Forge when Postman, Thunder Client, Bruno, and Insomnia already exist](https://dev.to/hslcalgary/why-i-built-http-forge-when-postman-thunder-client-bruno-and-insomnia-already-exist-4f03)
-- [GhostLog 👻 – AI-Powered Error Investigator Using Gemma 3 1B](https://dev.to/karthikeyan_bcfdbd86e07c0/ghostlog-ai-powered-error-investigator-using-gemma-3-1b-1325)
-- [Building a DEV.to Connector for Cognee: Giving AI Agents a Developer Knowledge Base](https://dev.to/swatiicfai/building-a-devto-connector-for-cognee-giving-ai-agents-a-developer-knowledge-base-4nm1)
-- [Lumbre: An Ofrenda That Never Leaves Your Laptop](https://dev.to/atharva1723/lumbre-an-ofrenda-that-never-leaves-your-laptop-30j6)
+- [What I changed in my 8-bit browser RPG this week](https://dev.to/snowrsps/what-i-changed-in-my-8-bit-browser-rpg-this-week-3ed5)
+- [From Research Brief to Branded Board Pack with DeepResearch](https://dev.to/valyuai/from-research-brief-to-branded-board-pack-with-deepresearch-1ij4)
+- [PhotoPrism internet exposure and the reverse-proxy security boundary](https://dev.to/facilishz/photoprism-internet-exposure-and-the-reverse-proxy-security-boundary-2c8e)
+- [Hacker sentenced to 42 months in prison for 2013 fake post that sent markets crashing](https://dev.to/hacksgr/hacker-sentenced-to-42-months-in-prison-for-2013-fake-post-that-sent-markets-crashing-20g1)
 <!-- BLOG-POST-LIST:END -->
 
