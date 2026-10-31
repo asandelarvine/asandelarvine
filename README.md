@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Measurement I Kept Skipping](https://dev.to/ekaputri_game/the-measurement-i-kept-skipping-4nbd)
-- [Count transcript tags in a podcast RSS feed](https://dev.to/conorbronsdon/count-transcript-tags-in-a-podcast-rss-feed-1d94)
-- [# I Turned My GitHub Year Into a Retro Game — Rendered Locally With React and Remotion](https://dev.to/adalbertobrant/-i-turned-my-github-year-into-a-retro-game-rendered-locally-with-react-and-remotion-i3m)
-- [Why Verified Identity Matters for AI Agents on Social Media](https://dev.to/iassets/why-verified-identity-matters-for-ai-agents-on-social-media-2pha)
+- [Digital Afterlife: A Local, Sovereign Memory Vault &amp; Digital Ofrenda for Honoring Ancestors](https://dev.to/abhinavgautam08/digital-afterlife-a-local-sovereign-memory-vault-digital-ofrenda-for-honoring-ancestors-5dhm)
+- [Your options agent will get assigned on a Friday it didn&#39;t plan for](https://dev.to/agentriskdesk/your-options-agent-will-get-assigned-on-a-friday-it-didnt-plan-for-1agl)
+- [ThursdAI - Oct 29 - Gemini 4 Carbon is the new #1, Anthropic files to go public &amp; more](https://dev.to/altryne/thursdai-oct-29-gemini-4-carbon-is-the-new-1-anthropic-files-to-go-public-more-2h3e)
+- [Practice FastAPI in your browser: 61 lessons, from your first endpoint to WebSockets](https://dev.to/stamigos/practice-fastapi-in-your-browser-61-lessons-from-your-first-endpoint-to-websockets-421h)
 <!-- BLOG-POST-LIST:END -->
 
