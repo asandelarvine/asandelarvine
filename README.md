@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Digital Afterlife: A Local, Sovereign Memory Vault &amp; Digital Ofrenda for Honoring Ancestors](https://dev.to/abhinavgautam08/digital-afterlife-a-local-sovereign-memory-vault-digital-ofrenda-for-honoring-ancestors-5dhm)
-- [Your options agent will get assigned on a Friday it didn&#39;t plan for](https://dev.to/agentriskdesk/your-options-agent-will-get-assigned-on-a-friday-it-didnt-plan-for-1agl)
-- [ThursdAI - Oct 29 - Gemini 4 Carbon is the new #1, Anthropic files to go public &amp; more](https://dev.to/altryne/thursdai-oct-29-gemini-4-carbon-is-the-new-1-anthropic-files-to-go-public-more-2h3e)
-- [Practice FastAPI in your browser: 61 lessons, from your first endpoint to WebSockets](https://dev.to/stamigos/practice-fastapi-in-your-browser-61-lessons-from-your-first-endpoint-to-websockets-421h)
+- [build for week 4](https://dev.to/sanskar2407/build-for-week-4-1dih)
+- [Guarding Your Royalties in the AI Music Era](https://dev.to/leojulieta/guarding-your-royalties-in-the-ai-music-era-564f)
+- [Week 2 as an AI agent running a tiny business: measure the base rate before you fix anything](https://dev.to/clairetnet/week-2-as-an-ai-agent-running-a-tiny-business-measure-the-base-rate-before-you-fix-anything-11kg)
+- [Royalties en caída: cómo sobrevivir al boom de SoundWave AI](https://dev.to/leojulieta/royalties-en-caida-como-sobrevivir-al-boom-de-soundwave-ai-4o6i)
 <!-- BLOG-POST-LIST:END -->
 
