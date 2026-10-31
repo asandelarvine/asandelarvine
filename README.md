@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Bilevel Optimisation: Why Meta-Learning Is an Optimisation Problem Inside an Optimisation Problem](https://dev.to/umeshtharukaofficial/bilevel-optimisation-why-meta-learning-is-an-optimisation-problem-inside-an-optimisation-problem-cid)
-- [AI, ML, and Data Engineering InfoQ Trends Report 2026 | 2026年AI、机器学习和数据工程InfoQ趋势报告](https://dev.to/cognitalk/ai-ml-and-data-engineering-infoq-trends-report-2026-1phk)
-- [What we got wrong building an MCP server for AI visibility data](https://dev.to/aniketh_shenoykota_cb316/what-we-got-wrong-building-an-mcp-server-for-ai-visibility-data-2h69)
-- [The “Broken Handshake” Liability: Why Agency Agreements Must Define Post-Termination Asset Custody](https://dev.to/instarenewal/the-broken-handshake-liability-why-agency-agreements-must-define-post-termination-asset-custody-2136)
+- [What a DocuSeal Count Says About the Signing Boundary](https://dev.to/andreagomez/what-a-docuseal-count-says-about-the-signing-boundary-2b56)
+- [MVP Development: What to Build First &lpar;And What to Skip&rpar;](https://dev.to/ironman_stark_07f742fa7d2/mvp-development-what-to-build-first-and-what-to-skip-2ofb)
+- [Locking Down Kubernetes RBAC in a Multi-Tenant Cluster](https://dev.to/devopsinterview_cloud/locking-down-kubernetes-rbac-in-a-multi-tenant-cluster-6i4)
+- [Ofrenda Local: An Air-Gapped Memory Altar Powered by Open-Source AI published: true tags: devchallenge, hf26challenge, opensource, ai](https://dev.to/tatvagna23/ofrenda-local-an-air-gapped-memory-altar-powered-by-open-source-ai-published-true-tags-2bc0)
 <!-- BLOG-POST-LIST:END -->
 
