@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What I changed in my 8-bit browser RPG this week](https://dev.to/snowrsps/what-i-changed-in-my-8-bit-browser-rpg-this-week-3ed5)
-- [From Research Brief to Branded Board Pack with DeepResearch](https://dev.to/valyuai/from-research-brief-to-branded-board-pack-with-deepresearch-1ij4)
-- [PhotoPrism internet exposure and the reverse-proxy security boundary](https://dev.to/facilishz/photoprism-internet-exposure-and-the-reverse-proxy-security-boundary-2c8e)
-- [Hacker sentenced to 42 months in prison for 2013 fake post that sent markets crashing](https://dev.to/hacksgr/hacker-sentenced-to-42-months-in-prison-for-2013-fake-post-that-sent-markets-crashing-20g1)
+- [Bilevel Optimisation: Why Meta-Learning Is an Optimisation Problem Inside an Optimisation Problem](https://dev.to/umeshtharukaofficial/bilevel-optimisation-why-meta-learning-is-an-optimisation-problem-inside-an-optimisation-problem-cid)
+- [AI, ML, and Data Engineering InfoQ Trends Report 2026 | 2026年AI、机器学习和数据工程InfoQ趋势报告](https://dev.to/cognitalk/ai-ml-and-data-engineering-infoq-trends-report-2026-1phk)
+- [What we got wrong building an MCP server for AI visibility data](https://dev.to/aniketh_shenoykota_cb316/what-we-got-wrong-building-an-mcp-server-for-ai-visibility-data-2h69)
+- [The “Broken Handshake” Liability: Why Agency Agreements Must Define Post-Termination Asset Custody](https://dev.to/instarenewal/the-broken-handshake-liability-why-agency-agreements-must-define-post-termination-asset-custody-2136)
 <!-- BLOG-POST-LIST:END -->
 
