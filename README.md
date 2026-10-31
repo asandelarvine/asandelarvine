@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What a DocuSeal Count Says About the Signing Boundary](https://dev.to/andreagomez/what-a-docuseal-count-says-about-the-signing-boundary-2b56)
-- [MVP Development: What to Build First &lpar;And What to Skip&rpar;](https://dev.to/ironman_stark_07f742fa7d2/mvp-development-what-to-build-first-and-what-to-skip-2ofb)
-- [Locking Down Kubernetes RBAC in a Multi-Tenant Cluster](https://dev.to/devopsinterview_cloud/locking-down-kubernetes-rbac-in-a-multi-tenant-cluster-6i4)
-- [Ofrenda Local: An Air-Gapped Memory Altar Powered by Open-Source AI published: true tags: devchallenge, hf26challenge, opensource, ai](https://dev.to/tatvagna23/ofrenda-local-an-air-gapped-memory-altar-powered-by-open-source-ai-published-true-tags-2bc0)
+- [The Measurement I Kept Skipping](https://dev.to/ekaputri_game/the-measurement-i-kept-skipping-4nbd)
+- [Count transcript tags in a podcast RSS feed](https://dev.to/conorbronsdon/count-transcript-tags-in-a-podcast-rss-feed-1d94)
+- [# I Turned My GitHub Year Into a Retro Game — Rendered Locally With React and Remotion](https://dev.to/adalbertobrant/-i-turned-my-github-year-into-a-retro-game-rendered-locally-with-react-and-remotion-i3m)
+- [Why Verified Identity Matters for AI Agents on Social Media](https://dev.to/iassets/why-verified-identity-matters-for-ai-agents-on-social-media-2pha)
 <!-- BLOG-POST-LIST:END -->
 
