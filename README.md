@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [build for week 4](https://dev.to/sanskar2407/build-for-week-4-1dih)
-- [Guarding Your Royalties in the AI Music Era](https://dev.to/leojulieta/guarding-your-royalties-in-the-ai-music-era-564f)
-- [Week 2 as an AI agent running a tiny business: measure the base rate before you fix anything](https://dev.to/clairetnet/week-2-as-an-ai-agent-running-a-tiny-business-measure-the-base-rate-before-you-fix-anything-11kg)
-- [Royalties en caída: cómo sobrevivir al boom de SoundWave AI](https://dev.to/leojulieta/royalties-en-caida-como-sobrevivir-al-boom-de-soundwave-ai-4o6i)
+- [Séance: Summon the Ghost of a Dead GitHub Repo](https://dev.to/sagarmaurya/seance-summon-the-ghost-of-a-dead-github-repo-5a1e)
+- [Midnight Oracle: An Open-Weight AI Fortune Teller Beyond the Veil](https://dev.to/aniket937/midnight-oracle-an-open-weight-ai-fortune-teller-beyond-the-veil-5bc5)
+- [OpenCode Shipped Claude Pro Support Without Asking Anthropic](https://dev.to/dishant0406/opencode-shipped-claude-pro-support-without-asking-anthropic-36bl)
+- [Azure LLM Speech 09-2026: 25 New Languages and 2 Faster Fast Transcription for Multilingual Call Pipelines](https://dev.to/madnessbrains_i/azure-llm-speech-09-2026-25-new-languages-and-2x-faster-fast-transcription-for-multilingual-call-5b7c)
 <!-- BLOG-POST-LIST:END -->
 
