@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Séance: Summon the Ghost of a Dead GitHub Repo](https://dev.to/sagarmaurya/seance-summon-the-ghost-of-a-dead-github-repo-5a1e)
-- [Midnight Oracle: An Open-Weight AI Fortune Teller Beyond the Veil](https://dev.to/aniket937/midnight-oracle-an-open-weight-ai-fortune-teller-beyond-the-veil-5bc5)
-- [OpenCode Shipped Claude Pro Support Without Asking Anthropic](https://dev.to/dishant0406/opencode-shipped-claude-pro-support-without-asking-anthropic-36bl)
-- [Azure LLM Speech 09-2026: 25 New Languages and 2 Faster Fast Transcription for Multilingual Call Pipelines](https://dev.to/madnessbrains_i/azure-llm-speech-09-2026-25-new-languages-and-2x-faster-fast-transcription-for-multilingual-call-5b7c)
+- [NGINX Explained: The Server in Front of Your Server](https://dev.to/practicaldevblog/nginx-explained-the-server-in-front-of-your-server-49gn)
+- [Your Company Has Offered to Move You to Its Office Abroad](https://dev.to/asael_shinder_9f53bdca840/your-company-has-offered-to-move-you-to-its-office-abroad-3d1a)
+- [One failing job in our nightly matrix cancelled the eleven that would have told us more](https://dev.to/sergey_shinder_ab2d943365/one-failing-job-in-our-nightly-matrix-cancelled-the-eleven-that-would-have-told-us-more-350b)
+- [PyTorch Explained: Machine Learning You Can Watch Learn](https://dev.to/practicaldevblog/pytorch-explained-machine-learning-you-can-watch-learn-obp)
 <!-- BLOG-POST-LIST:END -->
 
