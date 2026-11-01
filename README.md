@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [NGINX Explained: The Server in Front of Your Server](https://dev.to/practicaldevblog/nginx-explained-the-server-in-front-of-your-server-49gn)
-- [Your Company Has Offered to Move You to Its Office Abroad](https://dev.to/asael_shinder_9f53bdca840/your-company-has-offered-to-move-you-to-its-office-abroad-3d1a)
-- [One failing job in our nightly matrix cancelled the eleven that would have told us more](https://dev.to/sergey_shinder_ab2d943365/one-failing-job-in-our-nightly-matrix-cancelled-the-eleven-that-would-have-told-us-more-350b)
-- [PyTorch Explained: Machine Learning You Can Watch Learn](https://dev.to/practicaldevblog/pytorch-explained-machine-learning-you-can-watch-learn-obp)
+- [Manufacturer, trader or a badminton shop? Scoring the suppliers behind an Alibaba search with Python](https://dev.to/rel8ble/manufacturer-trader-or-a-badminton-shop-scoring-the-suppliers-behind-an-alibaba-search-with-python-3aj3)
+- [Colapso de Conexiones y Latencia P99: Patrones de Pooling y Mitigación de Cold Starts en AWS Lambda y Google Cloud Run](https://dev.to/merolhack/colapso-de-conexiones-y-latencia-p99-patrones-de-pooling-y-mitigacion-de-cold-starts-en-aws-lambda-290h)
+- [Inside the Block: How Solana Validators Actually Order Transactions Post-Alpenglow &lpar;Empirical Study&rpar;](https://dev.to/duongynhi000005oss/inside-the-block-how-solana-validators-actually-order-transactions-post-alpenglow-empirical-study-5b0i)
+- [Do German online shops let AI agents in? We checked robots.txt, bot walls and llms.txt on 100 stores](https://dev.to/fast_data_asap/do-german-online-shops-let-ai-agents-in-we-checked-robotstxt-bot-walls-and-llmstxt-on-100-stores-2j6)
 <!-- BLOG-POST-LIST:END -->
 
