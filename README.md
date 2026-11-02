@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Add Claude to your GitHub pull requests with one command in Claude Code](https://dev.to/dedupedai/add-claude-to-your-github-pull-requests-with-one-command-in-claude-code-5a2j)
-- [Use your Claude, ChatGPT or Gemini subscription in goose, no API key](https://dev.to/dedupedai/use-your-claude-chatgpt-or-gemini-subscription-in-goose-no-api-key-2mkn)
-- [Schema Markup Without Code: A Beginner&#39;s Guide to Rich Results](https://dev.to/quicklitytools/schema-markup-without-code-a-beginners-guide-to-rich-results-3lf6)
-- [Why Your Consistent Character AI Changes Face in Side Profile &lpar;and How to Fix It&rpar;](https://dev.to/lyric_li_3ece3678d9e199cb/why-your-consistent-character-ai-changes-face-in-side-profile-and-how-to-fix-it-ip)
+- [Our interview guide cluster went from 5 pages to 14, and the new code is a three-value union](https://dev.to/daniel_pertu/our-interview-guide-cluster-went-from-5-pages-to-14-and-the-new-code-is-a-three-value-union-15b3)
+- [Introduction](https://dev.to/ares_xxx_5c5e9883c7b3f229/introduction-3hm6)
+- [Fundamental IT Skills](https://dev.to/mishytechie/fundamental-it-skills-3lme)
+- [I brought millenium to bazzite os](https://dev.to/ethembeldagli/i-brought-millenium-to-bazzite-os-lh6)
 <!-- BLOG-POST-LIST:END -->
 
