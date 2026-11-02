@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Our interview guide cluster went from 5 pages to 14, and the new code is a three-value union](https://dev.to/daniel_pertu/our-interview-guide-cluster-went-from-5-pages-to-14-and-the-new-code-is-a-three-value-union-15b3)
-- [Introduction](https://dev.to/ares_xxx_5c5e9883c7b3f229/introduction-3hm6)
-- [Fundamental IT Skills](https://dev.to/mishytechie/fundamental-it-skills-3lme)
-- [I brought millenium to bazzite os](https://dev.to/ethembeldagli/i-brought-millenium-to-bazzite-os-lh6)
+- [Criei uma plataforma para desenvolvedores brasileiros. Agora vem a parte mais difícil: fazer ela crescer.](https://dev.to/realizar/criei-uma-plataforma-para-desenvolvedores-brasileiros-agora-vem-a-parte-mais-dificil-fazer-ela-3419)
+- [Keep file versions and observation dates separate when reading a CSV](https://dev.to/thesidelineco/keep-file-versions-and-observation-dates-separate-when-reading-a-csv-2f1h)
+- [Unslop Brings Staged UI Review to Claude Code and Codex](https://dev.to/dd8888/unslop-brings-staged-ui-review-to-claude-code-and-codex-12cb)
+- [CSS view transitions in Laravel and Livewire](https://dev.to/aimantas_e1b9dea60a53117d/css-view-transitions-in-laravel-and-livewire-32i)
 <!-- BLOG-POST-LIST:END -->
 
