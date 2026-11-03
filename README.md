@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Is AI Advancing So Rapidly in Mathematics?](https://dev.to/luhuidev/why-is-ai-advancing-so-rapidly-in-mathematics-2c4d)
-- [Give me one subject. I&#39;ll write the first 100 words, free, in this thread.](https://dev.to/ryanvale/give-me-one-subject-ill-write-the-first-100-words-free-in-this-thread-27ko)
-- [Our licence key is 60 bits in three groups of four, and it is unbiased only because the alphabet has 32 letters](https://dev.to/daniel_pertu/our-licence-key-is-60-bits-in-three-groups-of-four-and-it-is-unbiased-only-because-the-alphabet-3d7a)
-- [How I built a vision-token trimmer that prices images for one provider — and a reader caught it](https://dev.to/krish_verma_77e28d3fd63ca/how-i-built-a-vision-token-trimmer-that-prices-images-for-one-provider-and-a-reader-caught-it-1a0i)
+- [A Durable Google ADK Agent Needs Something to Notice the Crash](https://dev.to/casper_nielsen_47eb2e6023/a-durable-google-adk-agent-needs-something-to-notice-the-crash-5602)
+- [¿El Wi-Fi se corta en Windows 11? Descubre dónde con PowerShell antes de restablecer nada](https://dev.to/fecklesspleb/el-wi-fi-se-corta-en-windows-11-descubre-donde-con-powershell-antes-de-restablecer-nada-1ape)
+- [Implement Delayed Reminders Using Node.js Message Queue vs PostgreSQL Reaper &lpar;Recovery&rpar;](https://dev.to/pantaleonshaw8478/implement-delayed-reminders-using-nodejs-message-queue-vs-postgresql-reaper-recovery-g60)
+- [We built a free ATS resume checker that runs entirely in the browser](https://dev.to/hirastra/we-built-a-free-ats-resume-checker-that-runs-entirely-in-the-browser-53me)
 <!-- BLOG-POST-LIST:END -->
 
