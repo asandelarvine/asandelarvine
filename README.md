@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Durable Google ADK Agent Needs Something to Notice the Crash](https://dev.to/casper_nielsen_47eb2e6023/a-durable-google-adk-agent-needs-something-to-notice-the-crash-5602)
-- [¿El Wi-Fi se corta en Windows 11? Descubre dónde con PowerShell antes de restablecer nada](https://dev.to/fecklesspleb/el-wi-fi-se-corta-en-windows-11-descubre-donde-con-powershell-antes-de-restablecer-nada-1ape)
-- [Implement Delayed Reminders Using Node.js Message Queue vs PostgreSQL Reaper &lpar;Recovery&rpar;](https://dev.to/pantaleonshaw8478/implement-delayed-reminders-using-nodejs-message-queue-vs-postgresql-reaper-recovery-g60)
-- [We built a free ATS resume checker that runs entirely in the browser](https://dev.to/hirastra/we-built-a-free-ats-resume-checker-that-runs-entirely-in-the-browser-53me)
+- [Support Portal CAPTCHA: Signup and Login API Gates With Bounded Telemetry](https://dev.to/rivenor85/support-portal-captcha-signup-and-login-api-gates-with-bounded-telemetry-3146)
+- [Vocal Isolation and Voice Conversion: How AI Covers Actually Work Under the Hood](https://dev.to/taniaalwan/vocal-isolation-and-voice-conversion-how-ai-covers-actually-work-under-the-hood-9p2)
+- [Market Analysis: Systemic Risk and the Structural Shift Toward Decentralized Asset Custody](https://dev.to/ksp_fc16f85860b36c9a9/market-analysis-systemic-risk-and-the-structural-shift-toward-decentralized-asset-custody-4ooj)
+- [Implement and configure Privileged Identity Management &lpar;PIM&rpar;](https://dev.to/willvelida/implement-and-configure-privileged-identity-management-pim-28n0)
 <!-- BLOG-POST-LIST:END -->
 
