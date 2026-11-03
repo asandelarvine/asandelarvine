@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Criei uma plataforma para desenvolvedores brasileiros. Agora vem a parte mais difícil: fazer ela crescer.](https://dev.to/realizar/criei-uma-plataforma-para-desenvolvedores-brasileiros-agora-vem-a-parte-mais-dificil-fazer-ela-3419)
-- [Keep file versions and observation dates separate when reading a CSV](https://dev.to/thesidelineco/keep-file-versions-and-observation-dates-separate-when-reading-a-csv-2f1h)
-- [Unslop Brings Staged UI Review to Claude Code and Codex](https://dev.to/dd8888/unslop-brings-staged-ui-review-to-claude-code-and-codex-12cb)
-- [CSS view transitions in Laravel and Livewire](https://dev.to/aimantas_e1b9dea60a53117d/css-view-transitions-in-laravel-and-livewire-32i)
+- [🎄 Limn League Christmas 2026 — Festive Arcade Football](https://dev.to/kehinde_owolabi_e2e54567a/limn-league-christmas-2026-festive-arcade-football-6pj)
+- [Handling Google Search Console API 403 Errors When Automating URL Inspections in Next.js](https://dev.to/aditya_ekka_pulseroi/handling-google-search-console-api-403-errors-when-automating-url-inspections-in-nextjs-43pe)
+- [MySQL ALTER TABLE: Which Changes Lock the Table, and How to Make One Fail Instead of Copying](https://dev.to/tbson87/mysql-alter-table-which-changes-lock-the-table-and-how-to-make-one-fail-instead-of-copying-4e13)
+- [A passing test is only evidence for the configuration it ran on](https://dev.to/rowanvale/a-passing-test-is-only-evidence-for-the-configuration-it-ran-on-55mp)
 <!-- BLOG-POST-LIST:END -->
 
