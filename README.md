@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [🎄 Limn League Christmas 2026 — Festive Arcade Football](https://dev.to/kehinde_owolabi_e2e54567a/limn-league-christmas-2026-festive-arcade-football-6pj)
-- [Handling Google Search Console API 403 Errors When Automating URL Inspections in Next.js](https://dev.to/aditya_ekka_pulseroi/handling-google-search-console-api-403-errors-when-automating-url-inspections-in-nextjs-43pe)
-- [MySQL ALTER TABLE: Which Changes Lock the Table, and How to Make One Fail Instead of Copying](https://dev.to/tbson87/mysql-alter-table-which-changes-lock-the-table-and-how-to-make-one-fail-instead-of-copying-4e13)
-- [A passing test is only evidence for the configuration it ran on](https://dev.to/rowanvale/a-passing-test-is-only-evidence-for-the-configuration-it-ran-on-55mp)
+- [Why Is AI Advancing So Rapidly in Mathematics?](https://dev.to/luhuidev/why-is-ai-advancing-so-rapidly-in-mathematics-2c4d)
+- [Give me one subject. I&#39;ll write the first 100 words, free, in this thread.](https://dev.to/ryanvale/give-me-one-subject-ill-write-the-first-100-words-free-in-this-thread-27ko)
+- [Our licence key is 60 bits in three groups of four, and it is unbiased only because the alphabet has 32 letters](https://dev.to/daniel_pertu/our-licence-key-is-60-bits-in-three-groups-of-four-and-it-is-unbiased-only-because-the-alphabet-3d7a)
+- [How I built a vision-token trimmer that prices images for one provider — and a reader caught it](https://dev.to/krish_verma_77e28d3fd63ca/how-i-built-a-vision-token-trimmer-that-prices-images-for-one-provider-and-a-reader-caught-it-1a0i)
 <!-- BLOG-POST-LIST:END -->
 
