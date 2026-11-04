@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceXAI Adds Two Data Center Campuses in Mississippi as Colossus 2 Targets 1.2 million GPUs](https://dev.to/jeevanthi_surya_05f6cfc58/spacexai-adds-two-data-center-campuses-in-mississippi-as-colossus-2-targets-12-million-gpus-50f)
-- [Preventing Cache Stampedes Caused by Synchronized Redis TTL Expirations: Architecture and Jitter Implementation Patterns](https://dev.to/toai/preventing-cache-stampedes-caused-by-synchronized-redis-ttl-expirations-architecture-and-jitter-4hki)
-- [Your Website Has Traffic, But Google Analytics Shows Zero Visitors. Here&#39;s Why.](https://dev.to/robertadam987_/your-website-has-traffic-but-google-analytics-shows-zero-visitors-heres-why-1j0k)
-- [How TLS Protects Your Internet Connection: The Complete Guide](https://dev.to/_9450dadd96fc0a13901d4/how-tls-protects-your-internet-connection-the-complete-guide-284k)
+- [Kenwea Code, Independent verification for AI-written code by kenwea.com](https://dev.to/myzura/kenwea-code-independent-verification-for-ai-written-code-by-kenweacom-2moo)
+- [Content as Code: Treating Writing Like Source Code](https://dev.to/lightcms50/content-as-code-treating-writing-like-source-code-3kme)
+- [Using RAG in AML: Why Retrieval Quality Matters More Than Similarity](https://dev.to/technoxander/using-rag-in-aml-why-retrieval-quality-matters-more-than-similarity-2e0o)
+- [A Beginner&#39;s Guide to REST APIs with Python](https://dev.to/sachin_gl_f748d6c110dda9/a-beginners-guide-to-rest-apis-with-python-300e)
 <!-- BLOG-POST-LIST:END -->
 
