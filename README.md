@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Support Portal CAPTCHA: Signup and Login API Gates With Bounded Telemetry](https://dev.to/rivenor85/support-portal-captcha-signup-and-login-api-gates-with-bounded-telemetry-3146)
-- [Vocal Isolation and Voice Conversion: How AI Covers Actually Work Under the Hood](https://dev.to/taniaalwan/vocal-isolation-and-voice-conversion-how-ai-covers-actually-work-under-the-hood-9p2)
-- [Market Analysis: Systemic Risk and the Structural Shift Toward Decentralized Asset Custody](https://dev.to/ksp_fc16f85860b36c9a9/market-analysis-systemic-risk-and-the-structural-shift-toward-decentralized-asset-custody-4ooj)
-- [Implement and configure Privileged Identity Management &lpar;PIM&rpar;](https://dev.to/willvelida/implement-and-configure-privileged-identity-management-pim-28n0)
+- [SpaceXAI Adds Two Data Center Campuses in Mississippi as Colossus 2 Targets 1.2 million GPUs](https://dev.to/jeevanthi_surya_05f6cfc58/spacexai-adds-two-data-center-campuses-in-mississippi-as-colossus-2-targets-12-million-gpus-50f)
+- [Preventing Cache Stampedes Caused by Synchronized Redis TTL Expirations: Architecture and Jitter Implementation Patterns](https://dev.to/toai/preventing-cache-stampedes-caused-by-synchronized-redis-ttl-expirations-architecture-and-jitter-4hki)
+- [Your Website Has Traffic, But Google Analytics Shows Zero Visitors. Here&#39;s Why.](https://dev.to/robertadam987_/your-website-has-traffic-but-google-analytics-shows-zero-visitors-heres-why-1j0k)
+- [How TLS Protects Your Internet Connection: The Complete Guide](https://dev.to/_9450dadd96fc0a13901d4/how-tls-protects-your-internet-connection-the-complete-guide-284k)
 <!-- BLOG-POST-LIST:END -->
 
