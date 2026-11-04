@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kenwea Code, Independent verification for AI-written code by kenwea.com](https://dev.to/myzura/kenwea-code-independent-verification-for-ai-written-code-by-kenweacom-2moo)
-- [Content as Code: Treating Writing Like Source Code](https://dev.to/lightcms50/content-as-code-treating-writing-like-source-code-3kme)
-- [Using RAG in AML: Why Retrieval Quality Matters More Than Similarity](https://dev.to/technoxander/using-rag-in-aml-why-retrieval-quality-matters-more-than-similarity-2e0o)
-- [A Beginner&#39;s Guide to REST APIs with Python](https://dev.to/sachin_gl_f748d6c110dda9/a-beginners-guide-to-rest-apis-with-python-300e)
+- [The WordPress PHP Vulnerability Is Three CVEs With Three Owners](https://dev.to/teamvoy/the-wordpress-php-vulnerability-is-three-cves-with-three-owners-43cg)
+- [Always great to see TimescaleDB in the wild :&rpar;](https://dev.to/erinmikail/always-great-to-see-timescaledb-in-the-wild--2n72)
+- [Code Review Was Never Mostly About Bugs. With Agents, It&#39;s How You Learn Your Own Code](https://dev.to/gabrielanhaia/code-review-was-never-mostly-about-bugs-with-agents-its-how-you-learn-your-own-code-40ld)
+- [Headlamp Logins Inherit the Kubernetes Token Behind Them](https://dev.to/bianliang/headlamp-logins-inherit-the-kubernetes-token-behind-them-55c8)
 <!-- BLOG-POST-LIST:END -->
 
