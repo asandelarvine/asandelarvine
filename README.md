@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The WordPress PHP Vulnerability Is Three CVEs With Three Owners](https://dev.to/teamvoy/the-wordpress-php-vulnerability-is-three-cves-with-three-owners-43cg)
-- [Always great to see TimescaleDB in the wild :&rpar;](https://dev.to/erinmikail/always-great-to-see-timescaledb-in-the-wild--2n72)
-- [Code Review Was Never Mostly About Bugs. With Agents, It&#39;s How You Learn Your Own Code](https://dev.to/gabrielanhaia/code-review-was-never-mostly-about-bugs-with-agents-its-how-you-learn-your-own-code-40ld)
-- [Headlamp Logins Inherit the Kubernetes Token Behind Them](https://dev.to/bianliang/headlamp-logins-inherit-the-kubernetes-token-behind-them-55c8)
+- [Choosing Industrial Displays for Embedded Manufacturing Systems: An Integration-First Guide](https://dev.to/stone_module/choosing-industrial-displays-for-embedded-manufacturing-systems-an-integration-first-guide-36ig)
+- [Agent + RPA: Why Deterministic Execution Is the Missing Half of Agent Workflows](https://dev.to/fenju_fu/agent-rpa-why-deterministic-execution-is-the-missing-half-of-agent-workflows-47n4)
+- [Why a 70% Win Rate Over 20 Trades Means Nothing](https://dev.to/dronpancholi/why-a-70-win-rate-over-20-trades-means-nothing-j0d)
+- [GitHub Achievements Explained: Every Badge, Tier, and a CLI to Track Your Progress](https://dev.to/6t9/github-achievements-explained-every-badge-tier-and-a-cli-to-track-your-progress-3io)
 <!-- BLOG-POST-LIST:END -->
 
