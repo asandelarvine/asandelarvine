@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Forty Cells: Encoding a Fixed Lookup Table So the Output Can Be Audited](https://dev.to/taurusyao/forty-cells-encoding-a-fixed-lookup-table-so-the-output-can-be-audited-27k5)
-- [CVE-2026-61536: CVE-2026-61536: Remote Code Execution via Unsafe Reflection in masci/banks CompletionExtension](https://dev.to/cverports/cve-2026-61536-cve-2026-61536-remote-code-execution-via-unsafe-reflection-in-mascibanks-hc3)
-- [VRヘッドセットは視覚訓練のランタイムになれるか——Amblyotubeの設計を読み解く](https://dev.to/ashish_624379625242c5d263/vrhetudosetutohashi-jue-xun-lian-norantaimuninareruka-amblyotubenoshe-ji-wodu-mijie-ku-35fg)
-- [The Free AI Models Weren’t Failing Me. My Timer Was.](https://dev.to/matt_macosko_f3829cfd86b8/the-free-ai-models-werent-failing-me-my-timer-was-48on)
+- [I Built JARVIS OS: An AI-Powered Digital Workspace](https://dev.to/alexdevbr/i-built-jarvis-os-an-ai-powered-digital-workspace-4fnj)
+- [Sovereign Multi-Agent Brokerage: Zero-Trust Security, Dynamic Leases, and Rate-Limiting for 97+ Enterprise Connectors](https://dev.to/bennialencar/sovereign-multi-agent-brokerage-zero-trust-security-dynamic-leases-and-rate-limiting-for-97-46if)
+- [Um olhar Punk para tempos atuais](https://dev.to/wellingtonpragidi/um-olhar-punk-para-tempos-atuais-ijc)
+- [Claude Can Now Read Your Bank Account — 6 Months After ChatGPT](https://dev.to/paullovelace/claude-can-now-read-your-bank-account-6-months-after-chatgpt-21m8)
 <!-- BLOG-POST-LIST:END -->
 
