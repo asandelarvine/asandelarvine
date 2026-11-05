@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing Industrial Displays for Embedded Manufacturing Systems: An Integration-First Guide](https://dev.to/stone_module/choosing-industrial-displays-for-embedded-manufacturing-systems-an-integration-first-guide-36ig)
-- [Agent + RPA: Why Deterministic Execution Is the Missing Half of Agent Workflows](https://dev.to/fenju_fu/agent-rpa-why-deterministic-execution-is-the-missing-half-of-agent-workflows-47n4)
-- [Why a 70% Win Rate Over 20 Trades Means Nothing](https://dev.to/dronpancholi/why-a-70-win-rate-over-20-trades-means-nothing-j0d)
-- [GitHub Achievements Explained: Every Badge, Tier, and a CLI to Track Your Progress](https://dev.to/6t9/github-achievements-explained-every-badge-tier-and-a-cli-to-track-your-progress-3io)
+- [When Our AI Agent Said Committed Before It Had Executed Anything](https://dev.to/yashshah1211/when-our-ai-agent-said-committed-before-it-had-executed-anything-21b2)
+- [How to Secure an IoT Application: 8 Essential Practices for Connected Devices](https://dev.to/william_smith/how-to-secure-an-iot-application-8-essential-practices-for-connected-devices-5h95)
+- [Keeping OpenMed Local When Recovery Traffic Becomes the Outage](https://dev.to/sophia_nord/keeping-openmed-local-when-recovery-traffic-becomes-the-outage-57kg)
+- [Your brand has one color. The color wheel knows the other four.](https://dev.to/mubeenkhaaan/your-brand-has-one-color-the-color-wheel-knows-the-other-four-45b1)
 <!-- BLOG-POST-LIST:END -->
 
