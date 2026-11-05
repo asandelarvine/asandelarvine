@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Our AI Agent Said Committed Before It Had Executed Anything](https://dev.to/yashshah1211/when-our-ai-agent-said-committed-before-it-had-executed-anything-21b2)
-- [How to Secure an IoT Application: 8 Essential Practices for Connected Devices](https://dev.to/william_smith/how-to-secure-an-iot-application-8-essential-practices-for-connected-devices-5h95)
-- [Keeping OpenMed Local When Recovery Traffic Becomes the Outage](https://dev.to/sophia_nord/keeping-openmed-local-when-recovery-traffic-becomes-the-outage-57kg)
-- [Your brand has one color. The color wheel knows the other four.](https://dev.to/mubeenkhaaan/your-brand-has-one-color-the-color-wheel-knows-the-other-four-45b1)
+- [Forty Cells: Encoding a Fixed Lookup Table So the Output Can Be Audited](https://dev.to/taurusyao/forty-cells-encoding-a-fixed-lookup-table-so-the-output-can-be-audited-27k5)
+- [CVE-2026-61536: CVE-2026-61536: Remote Code Execution via Unsafe Reflection in masci/banks CompletionExtension](https://dev.to/cverports/cve-2026-61536-cve-2026-61536-remote-code-execution-via-unsafe-reflection-in-mascibanks-hc3)
+- [VRヘッドセットは視覚訓練のランタイムになれるか——Amblyotubeの設計を読み解く](https://dev.to/ashish_624379625242c5d263/vrhetudosetutohashi-jue-xun-lian-norantaimuninareruka-amblyotubenoshe-ji-wodu-mijie-ku-35fg)
+- [The Free AI Models Weren’t Failing Me. My Timer Was.](https://dev.to/matt_macosko_f3829cfd86b8/the-free-ai-models-werent-failing-me-my-timer-was-48on)
 <!-- BLOG-POST-LIST:END -->
 
