@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built JARVIS OS: An AI-Powered Digital Workspace](https://dev.to/alexdevbr/i-built-jarvis-os-an-ai-powered-digital-workspace-4fnj)
-- [Sovereign Multi-Agent Brokerage: Zero-Trust Security, Dynamic Leases, and Rate-Limiting for 97+ Enterprise Connectors](https://dev.to/bennialencar/sovereign-multi-agent-brokerage-zero-trust-security-dynamic-leases-and-rate-limiting-for-97-46if)
-- [Um olhar Punk para tempos atuais](https://dev.to/wellingtonpragidi/um-olhar-punk-para-tempos-atuais-ijc)
-- [Claude Can Now Read Your Bank Account — 6 Months After ChatGPT](https://dev.to/paullovelace/claude-can-now-read-your-bank-account-6-months-after-chatgpt-21m8)
+- [Managing Multiple Development Tasks Without Losing Focus](https://dev.to/projtl/managing-multiple-development-tasks-without-losing-focus-2hh4)
+- [How to make a business app work offline](https://dev.to/anas_kanafani/how-to-make-a-business-app-work-offline-1g5o)
+- [What is your role in your agentic setup?](https://dev.to/danionrails/what-is-your-role-in-your-agentic-setup-egb)
+- [VITI Field Report Part 2: Converged Security and the BIGF Break-Glass Protocol](https://dev.to/bigf_fellow/viti-field-report-part-2-converged-security-and-the-bigf-break-glass-protocol-4b2p)
 <!-- BLOG-POST-LIST:END -->
 
