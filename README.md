@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Multiple Development Tasks Without Losing Focus](https://dev.to/projtl/managing-multiple-development-tasks-without-losing-focus-2hh4)
-- [How to make a business app work offline](https://dev.to/anas_kanafani/how-to-make-a-business-app-work-offline-1g5o)
-- [What is your role in your agentic setup?](https://dev.to/danionrails/what-is-your-role-in-your-agentic-setup-egb)
-- [VITI Field Report Part 2: Converged Security and the BIGF Break-Glass Protocol](https://dev.to/bigf_fellow/viti-field-report-part-2-converged-security-and-the-bigf-break-glass-protocol-4b2p)
+- [CCAR-F vs CCAR-P: what each Claude Architect exam actually tests &lpar;from building 700+ practice questions&rpar;](https://dev.to/nikolas_mezias_03899b3876/ccar-f-vs-ccar-p-what-each-claude-architect-exam-actually-tests-from-building-700-practice-1kg2)
+- [Prove Your Characterization Test Can Fail Before You Refactor](https://dev.to/hackrs_6393/prove-your-characterization-test-can-fail-before-you-refactor-lj3)
+- [Stop Letting the Worker Rewrite the Checklist](https://dev.to/jiahui-miao/stop-letting-the-worker-rewrite-the-checklist-4i60)
+- [Outgrowing My First Data Pipeline](https://dev.to/cliffe_okoth/outgrowing-my-first-data-pipeline-4lg9)
 <!-- BLOG-POST-LIST:END -->
 
