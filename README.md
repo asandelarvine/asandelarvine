@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [CCAR-F vs CCAR-P: what each Claude Architect exam actually tests &lpar;from building 700+ practice questions&rpar;](https://dev.to/nikolas_mezias_03899b3876/ccar-f-vs-ccar-p-what-each-claude-architect-exam-actually-tests-from-building-700-practice-1kg2)
-- [Prove Your Characterization Test Can Fail Before You Refactor](https://dev.to/hackrs_6393/prove-your-characterization-test-can-fail-before-you-refactor-lj3)
-- [Stop Letting the Worker Rewrite the Checklist](https://dev.to/jiahui-miao/stop-letting-the-worker-rewrite-the-checklist-4i60)
-- [Outgrowing My First Data Pipeline](https://dev.to/cliffe_okoth/outgrowing-my-first-data-pipeline-4lg9)
+- [Como aprendi Apache Spark — Parte 16: Apache Kafka, CDC e pipelines incrementais](https://dev.to/renanpyd/como-aprendi-apache-spark-parte-16-apache-kafka-cdc-e-pipelines-incrementais-2bjn)
+- [Risk](https://dev.to/ali_b_f7919dcd6363bd97d05/risk-1gg1)
+- [Cara membuat dan meng-host aplikasi internal kecil dengan Custom App di osFoundry](https://dev.to/tauchi-id/cara-membuat-dan-meng-host-aplikasi-internal-kecil-dengan-custom-app-di-osfoundry-1la9)
+- [How to protect your plugin or app from piracy, step by step](https://dev.to/ka0/how-to-protect-your-plugin-or-app-from-piracy-step-by-step-fk3)
 <!-- BLOG-POST-LIST:END -->
 
