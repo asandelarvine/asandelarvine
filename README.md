@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Open-Weight LLM vs Hosted API: What Self-Hosting Gives You That an API Can’t](https://dev.to/sundarapandy/open-weight-llm-vs-hosted-api-what-self-hosting-gives-you-that-an-api-cant-19fj)
-- [Co-Founder Equity for Developers: Splits, Vesting and Dilution, With the Math in Code](https://dev.to/startupreader/co-founder-equity-for-developers-splits-vesting-and-dilution-with-the-math-in-code-3158)
-- [BurnSwitch: Stopping a Runaway AWS Bill With Switch, Two AI Agents and One Human Tap](https://dev.to/jeevesh_chaurasiya_738cb2/burnswitch-stopping-a-runaway-aws-bill-with-switch-two-ai-agents-and-one-human-tap-2j24)
-- [Node.js 26 Is Now LTS: A SaaS Production Upgrade Plan](https://dev.to/somnath_khadanga_2e5c2364/nodejs-26-is-now-lts-a-saas-production-upgrade-plan-271l)
+- [Slow-Breath Coach: your webcam scores how well you breathe along](https://dev.to/474443481/slow-breath-coach-your-webcam-scores-how-well-you-breathe-along-3a7f)
+- [set the title How Hindsight Lets a Support Chat Continue Across Sessions](https://dev.to/naveencb25/set-the-title-how-hindsight-lets-a-support-chat-continue-across-sessions-1195)
+- [Docker tag and digest: which one Kubernetes runs](https://dev.to/kadet-hub/docker-tag-and-digest-which-one-kubernetes-runs-2646)
+- [Renovate automerge with required reviews on GitHub](https://dev.to/kadet-hub/renovate-automerge-with-required-reviews-on-github-23ma)
 <!-- BLOG-POST-LIST:END -->
 
