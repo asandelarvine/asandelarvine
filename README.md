@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Slow-Breath Coach: your webcam scores how well you breathe along](https://dev.to/474443481/slow-breath-coach-your-webcam-scores-how-well-you-breathe-along-3a7f)
-- [set the title How Hindsight Lets a Support Chat Continue Across Sessions](https://dev.to/naveencb25/set-the-title-how-hindsight-lets-a-support-chat-continue-across-sessions-1195)
-- [Docker tag and digest: which one Kubernetes runs](https://dev.to/kadet-hub/docker-tag-and-digest-which-one-kubernetes-runs-2646)
-- [Renovate automerge with required reviews on GitHub](https://dev.to/kadet-hub/renovate-automerge-with-required-reviews-on-github-23ma)
+- [Stopped at the price: building a five-agent video team on Switch](https://dev.to/nishitbaria/stopped-at-the-price-building-a-five-agent-video-team-on-switch-1m8c)
+- [Building ERPSav: Finding the SaaS Subscriptions Nobody Owns — What Worked, What Broke](https://dev.to/onelifevibe/building-erpsav-finding-the-saas-subscriptions-nobody-owns-what-worked-what-broke-1kmn)
+- [Case Study: A Cassette Proxy That Records a Model Once and Replays It in CI](https://dev.to/devrs_9381/case-study-a-cassette-proxy-that-records-a-model-once-and-replays-it-in-ci-5fid)
+- [Claude встраивает в ответы незаметный след: как он работает и что его убирает](https://dev.to/agencyai/claude-vstraivaiet-v-otviety-niezamietnyi-slied-kak-on-rabotaiet-i-chto-iegho-ubiraiet-4fab)
 <!-- BLOG-POST-LIST:END -->
 
