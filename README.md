@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Stopped at the price: building a five-agent video team on Switch](https://dev.to/nishitbaria/stopped-at-the-price-building-a-five-agent-video-team-on-switch-1m8c)
-- [Building ERPSav: Finding the SaaS Subscriptions Nobody Owns — What Worked, What Broke](https://dev.to/onelifevibe/building-erpsav-finding-the-saas-subscriptions-nobody-owns-what-worked-what-broke-1kmn)
-- [Case Study: A Cassette Proxy That Records a Model Once and Replays It in CI](https://dev.to/devrs_9381/case-study-a-cassette-proxy-that-records-a-model-once-and-replays-it-in-ci-5fid)
-- [Claude встраивает в ответы незаметный след: как он работает и что его убирает](https://dev.to/agencyai/claude-vstraivaiet-v-otviety-niezamietnyi-slied-kak-on-rabotaiet-i-chto-iegho-ubiraiet-4fab)
+- [What I Learned Sending High-Volume Daily User Reminders by Email and SMS: Webhook Recovery](https://dev.to/sladebarrett9642/what-i-learned-sending-high-volume-daily-user-reminders-by-email-and-sms-webhook-recovery-4h6b)
+- [When AI Agents Write Code, Architecture Becomes the New programming language.](https://dev.to/dmitriy_7e0d2b00089d2009e/when-ai-agents-write-code-architecture-becomes-the-new-programming-language-fpm)
+- [How AI Voice Models Are Trained: A Technical Overview](https://dev.to/voice_developer/how-ai-voice-models-are-trained-a-technical-overview-108n)
+- [We sized a backend for 1M+ visitors it hadn&#39;t seen yet. Premature optimization?](https://dev.to/kryeo/we-sized-a-backend-for-1m-visitors-it-hadnt-seen-yet-premature-optimization-3c9c)
 <!-- BLOG-POST-LIST:END -->
 
