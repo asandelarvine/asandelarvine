@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como aprendi Apache Spark — Parte 16: Apache Kafka, CDC e pipelines incrementais](https://dev.to/renanpyd/como-aprendi-apache-spark-parte-16-apache-kafka-cdc-e-pipelines-incrementais-2bjn)
-- [Risk](https://dev.to/ali_b_f7919dcd6363bd97d05/risk-1gg1)
-- [Cara membuat dan meng-host aplikasi internal kecil dengan Custom App di osFoundry](https://dev.to/tauchi-id/cara-membuat-dan-meng-host-aplikasi-internal-kecil-dengan-custom-app-di-osfoundry-1la9)
-- [How to protect your plugin or app from piracy, step by step](https://dev.to/ka0/how-to-protect-your-plugin-or-app-from-piracy-step-by-step-fk3)
+- [Make your browser CLI smoke test prove one useful thing](https://dev.to/browser_act_e2505dbdf454a/make-your-browser-cli-smoke-test-prove-one-useful-thing-34ib)
+- [Plugins That Stay Local: Extending a Desktop AI Agent to Your Own Email, Sheets, and CRM](https://dev.to/aifetchly_ai/plugins-that-stay-local-extending-a-desktop-ai-agent-to-your-own-email-sheets-and-crm-1j82)
+- [A Municipal Voice Agent Needs a Service Directory, Not a Free-Form Prompt](https://dev.to/isabelle_dubuis_d858453d7/a-municipal-voice-agent-needs-a-service-directory-not-a-free-form-prompt-54hp)
+- [What Are the 4 Pillars of SEO?](https://dev.to/growganic/what-are-the-4-pillars-of-seo-42a1)
 <!-- BLOG-POST-LIST:END -->
 
