@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Make your browser CLI smoke test prove one useful thing](https://dev.to/browser_act_e2505dbdf454a/make-your-browser-cli-smoke-test-prove-one-useful-thing-34ib)
-- [Plugins That Stay Local: Extending a Desktop AI Agent to Your Own Email, Sheets, and CRM](https://dev.to/aifetchly_ai/plugins-that-stay-local-extending-a-desktop-ai-agent-to-your-own-email-sheets-and-crm-1j82)
-- [A Municipal Voice Agent Needs a Service Directory, Not a Free-Form Prompt](https://dev.to/isabelle_dubuis_d858453d7/a-municipal-voice-agent-needs-a-service-directory-not-a-free-form-prompt-54hp)
-- [What Are the 4 Pillars of SEO?](https://dev.to/growganic/what-are-the-4-pillars-of-seo-42a1)
+- [Open-Weight LLM vs Hosted API: What Self-Hosting Gives You That an API Can’t](https://dev.to/sundarapandy/open-weight-llm-vs-hosted-api-what-self-hosting-gives-you-that-an-api-cant-19fj)
+- [Co-Founder Equity for Developers: Splits, Vesting and Dilution, With the Math in Code](https://dev.to/startupreader/co-founder-equity-for-developers-splits-vesting-and-dilution-with-the-math-in-code-3158)
+- [BurnSwitch: Stopping a Runaway AWS Bill With Switch, Two AI Agents and One Human Tap](https://dev.to/jeevesh_chaurasiya_738cb2/burnswitch-stopping-a-runaway-aws-bill-with-switch-two-ai-agents-and-one-human-tap-2j24)
+- [Node.js 26 Is Now LTS: A SaaS Production Upgrade Plan](https://dev.to/somnath_khadanga_2e5c2364/nodejs-26-is-now-lts-a-saas-production-upgrade-plan-271l)
 <!-- BLOG-POST-LIST:END -->
 
