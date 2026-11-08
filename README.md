@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Regenerate, Don&#39;t Edit: A Protected-Overlay Build for Model-Drafted Documentation](https://dev.to/github_7727/regenerate-dont-edit-a-protected-overlay-build-for-model-drafted-documentation-18am)
-- [Best Practices for AI Voice in User Interfaces](https://dev.to/voice_developer/best-practices-for-ai-voice-in-user-interfaces-3fpc)
-- [A Rollback Drill and a Per-Commit Green Gate for Messy Refactors](https://dev.to/hackrs_6393/a-rollback-drill-and-a-per-commit-green-gate-for-messy-refactors-lil)
-- [Building Soclasica: A Product Page Is a Data Contract — What Worked, What Broke](https://dev.to/onelifevibe/building-soclasica-a-product-page-is-a-data-contract-what-worked-what-broke-456a)
+- [How to Remove C2PA Metadata from Images: A Free AI Watermark Stripper Guide](https://dev.to/info_linkbuilder_e3c26fd3/how-to-remove-c2pa-metadata-from-images-a-free-ai-watermark-stripper-guide-1781)
+- [Palo Alto Wants to Buy the Keys to Your AI Agents — and the Price Tag Tells You Why](https://dev.to/kami_butt_69b922ade8de012/palo-alto-wants-to-buy-the-keys-to-your-ai-agents-and-the-price-tag-tells-you-why-94a)
+- [No Laptop? No Problem! A Guide to Mobile Development on Android](https://dev.to/guarddog98/no-laptop-no-problem-a-guide-to-mobile-development-on-android-gh3)
+- [Laravel Mail Not Sending? 8 Fixes That Actually Work](https://dev.to/roman_web_dev/laravel-mail-not-sending-8-fixes-that-actually-work-2i84)
 <!-- BLOG-POST-LIST:END -->
 
