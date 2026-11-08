@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [รัฐแจก Gemini Enterprise ฟรีสูงสุด 9 เดือน: ใครได้ และทำไมวันเริ่มใช้ไม่ตรงกัน?](https://dev.to/sarantoon/rathaecchk-gemini-enterprise-friisuungsud-9-eduuen-aikhraid-aelathamaimwanerimaichaimtrngkan-1l47)
-- [Meta Quest 2·Pro &#39;기능 개발 종료&#39;가 던진 질문: 내 헤드셋으로 무엇을 더 할 수 있을까?](https://dev.to/ashish_624379625242c5d263/meta-quest-2pro-gineung-gaebal-jongryoga-deonjin-jilmun-nae-hedeuseseuro-mueoseul-deo-hal-su-isseulgga-1ao1)
-- [Como criei um sistema de SOS e Botão de Pânico com IA aos 15 anos &lpar;e sem cursos formais&rpar;](https://dev.to/mulher_amparada_765df7ce2/como-criei-um-sistema-de-sos-e-botao-de-panico-com-ia-aos-15-anos-e-sem-cursos-formais-44ok)
-- [Your analytics said 32 visitors yesterday. Nine of them were people.](https://dev.to/jianzhujisuan/your-analytics-said-32-visitors-yesterday-nine-of-them-were-people-49dd)
+- [Browser Document Uploads to Object Storage in 2026 &lpar;Presigned vs Server-Mediated&rpar;](https://dev.to/ignatiuscole6932/browser-document-uploads-to-object-storage-in-2026-presigned-vs-server-mediated-5933)
+- [Linux Says &quot;No Space Left on Device&quot; - But the Disk Isn&#39;t Full](https://dev.to/verin_is/linux-says-no-space-left-on-device-but-the-disk-isnt-full-3h48)
+- [Meta Learning and Few Shot Adaptation — Ch.09: Experiments and Benchmarks [KR]](https://dev.to/richard_minsoogo/meta-learning-and-few-shot-adaptation-ch09-experiments-and-benchmarks-kr-4j7m)
+- [Meta Learning and Few Shot Adaptation — Ch.08: Engineering and Deployment [KR]](https://dev.to/richard_minsoogo/meta-learning-and-few-shot-adaptation-ch08-engineering-and-deployment-kr-4n7a)
 <!-- BLOG-POST-LIST:END -->
 
