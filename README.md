@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned Sending High-Volume Daily User Reminders by Email and SMS: Webhook Recovery](https://dev.to/sladebarrett9642/what-i-learned-sending-high-volume-daily-user-reminders-by-email-and-sms-webhook-recovery-4h6b)
-- [When AI Agents Write Code, Architecture Becomes the New programming language.](https://dev.to/dmitriy_7e0d2b00089d2009e/when-ai-agents-write-code-architecture-becomes-the-new-programming-language-fpm)
-- [How AI Voice Models Are Trained: A Technical Overview](https://dev.to/voice_developer/how-ai-voice-models-are-trained-a-technical-overview-108n)
-- [We sized a backend for 1M+ visitors it hadn&#39;t seen yet. Premature optimization?](https://dev.to/kryeo/we-sized-a-backend-for-1m-visitors-it-hadnt-seen-yet-premature-optimization-3c9c)
+- [Regenerate, Don&#39;t Edit: A Protected-Overlay Build for Model-Drafted Documentation](https://dev.to/github_7727/regenerate-dont-edit-a-protected-overlay-build-for-model-drafted-documentation-18am)
+- [Best Practices for AI Voice in User Interfaces](https://dev.to/voice_developer/best-practices-for-ai-voice-in-user-interfaces-3fpc)
+- [A Rollback Drill and a Per-Commit Green Gate for Messy Refactors](https://dev.to/hackrs_6393/a-rollback-drill-and-a-per-commit-green-gate-for-messy-refactors-lil)
+- [Building Soclasica: A Product Page Is a Data Contract — What Worked, What Broke](https://dev.to/onelifevibe/building-soclasica-a-product-page-is-a-data-contract-what-worked-what-broke-456a)
 <!-- BLOG-POST-LIST:END -->
 
