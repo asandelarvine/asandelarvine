@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Remove C2PA Metadata from Images: A Free AI Watermark Stripper Guide](https://dev.to/info_linkbuilder_e3c26fd3/how-to-remove-c2pa-metadata-from-images-a-free-ai-watermark-stripper-guide-1781)
-- [Palo Alto Wants to Buy the Keys to Your AI Agents — and the Price Tag Tells You Why](https://dev.to/kami_butt_69b922ade8de012/palo-alto-wants-to-buy-the-keys-to-your-ai-agents-and-the-price-tag-tells-you-why-94a)
-- [No Laptop? No Problem! A Guide to Mobile Development on Android](https://dev.to/guarddog98/no-laptop-no-problem-a-guide-to-mobile-development-on-android-gh3)
-- [Laravel Mail Not Sending? 8 Fixes That Actually Work](https://dev.to/roman_web_dev/laravel-mail-not-sending-8-fixes-that-actually-work-2i84)
+- [รัฐแจก Gemini Enterprise ฟรีสูงสุด 9 เดือน: ใครได้ และทำไมวันเริ่มใช้ไม่ตรงกัน?](https://dev.to/sarantoon/rathaecchk-gemini-enterprise-friisuungsud-9-eduuen-aikhraid-aelathamaimwanerimaichaimtrngkan-1l47)
+- [Meta Quest 2·Pro &#39;기능 개발 종료&#39;가 던진 질문: 내 헤드셋으로 무엇을 더 할 수 있을까?](https://dev.to/ashish_624379625242c5d263/meta-quest-2pro-gineung-gaebal-jongryoga-deonjin-jilmun-nae-hedeuseseuro-mueoseul-deo-hal-su-isseulgga-1ao1)
+- [Como criei um sistema de SOS e Botão de Pânico com IA aos 15 anos &lpar;e sem cursos formais&rpar;](https://dev.to/mulher_amparada_765df7ce2/como-criei-um-sistema-de-sos-e-botao-de-panico-com-ia-aos-15-anos-e-sem-cursos-formais-44ok)
+- [Your analytics said 32 visitors yesterday. Nine of them were people.](https://dev.to/jianzhujisuan/your-analytics-said-32-visitors-yesterday-nine-of-them-were-people-49dd)
 <!-- BLOG-POST-LIST:END -->
 
