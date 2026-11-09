@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Localization Mapping and SLAM — Ch.04: 2D SLAM [EN]](https://dev.to/richard_minsoogo/localization-mapping-and-slam-ch04-2d-slam-en-21mo)
-- [Localization Mapping and SLAM — Ch.03: Map Representations [EN]](https://dev.to/richard_minsoogo/localization-mapping-and-slam-ch03-map-representations-en-cng)
-- [DFIR IRIS case RBAC should follow the API key, not the dashboard](https://dev.to/andreagomez/dfir-iris-case-rbac-should-follow-the-api-key-not-the-dashboard-1hg6)
-- [Localization Mapping and SLAM — Ch.02: Odometry [EN]](https://dev.to/richard_minsoogo/localization-mapping-and-slam-ch02-odometry-en-f5d)
+- [AuraRead](https://dev.to/noman_iftekhar/auraread-99b)
+- [Arquitetando AI Agents de Alta Velocidade: Lições do Release 0.30.0](https://dev.to/alairjt/arquitetando-ai-agents-de-alta-velocidade-licoes-do-release-0300-1me3)
+- [A CRM migration can pass the row count and fail the account history](https://dev.to/stackendbox/a-crm-migration-can-pass-the-row-count-and-fail-the-account-history-38j1)
+- [Leaked OTT Credentials and Account Sharing Abuse: What Platforms Should Do First](https://dev.to/ayatii/leaked-ott-credentials-and-account-sharing-abuse-what-platforms-should-do-first-1ond)
 <!-- BLOG-POST-LIST:END -->
 
