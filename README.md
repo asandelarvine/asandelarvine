@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Seven models, five runs, 18 books: a test of AI recommendations](https://dev.to/collectedreads/seven-models-five-runs-18-books-a-test-of-ai-recommendations-15h0)
-- [Handle Webhook Task Retries After Failure in a Delayed Queue](https://dev.to/lyrap22/handle-webhook-task-retries-after-failure-in-a-delayed-queue-231c)
-- [AI Audit Evidence, Part 6: A Record Nobody Read Is Only Stored](https://dev.to/rain6fish/ai-audit-evidence-part-6-a-record-nobody-read-is-only-stored-22nj)
-- [Faraday workspace scope is the real limit on API tokens](https://dev.to/johnettagaweraks/faraday-workspace-scope-is-the-real-limit-on-api-tokens-58b4)
+- [Localization Mapping and SLAM — Ch.04: 2D SLAM [EN]](https://dev.to/richard_minsoogo/localization-mapping-and-slam-ch04-2d-slam-en-21mo)
+- [Localization Mapping and SLAM — Ch.03: Map Representations [EN]](https://dev.to/richard_minsoogo/localization-mapping-and-slam-ch03-map-representations-en-cng)
+- [DFIR IRIS case RBAC should follow the API key, not the dashboard](https://dev.to/andreagomez/dfir-iris-case-rbac-should-follow-the-api-key-not-the-dashboard-1hg6)
+- [Localization Mapping and SLAM — Ch.02: Odometry [EN]](https://dev.to/richard_minsoogo/localization-mapping-and-slam-ch02-odometry-en-f5d)
 <!-- BLOG-POST-LIST:END -->
 
