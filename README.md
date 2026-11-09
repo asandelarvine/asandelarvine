@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Browser Document Uploads to Object Storage in 2026 &lpar;Presigned vs Server-Mediated&rpar;](https://dev.to/ignatiuscole6932/browser-document-uploads-to-object-storage-in-2026-presigned-vs-server-mediated-5933)
-- [Linux Says &quot;No Space Left on Device&quot; - But the Disk Isn&#39;t Full](https://dev.to/verin_is/linux-says-no-space-left-on-device-but-the-disk-isnt-full-3h48)
-- [Meta Learning and Few Shot Adaptation — Ch.09: Experiments and Benchmarks [KR]](https://dev.to/richard_minsoogo/meta-learning-and-few-shot-adaptation-ch09-experiments-and-benchmarks-kr-4j7m)
-- [Meta Learning and Few Shot Adaptation — Ch.08: Engineering and Deployment [KR]](https://dev.to/richard_minsoogo/meta-learning-and-few-shot-adaptation-ch08-engineering-and-deployment-kr-4n7a)
+- [Seven models, five runs, 18 books: a test of AI recommendations](https://dev.to/collectedreads/seven-models-five-runs-18-books-a-test-of-ai-recommendations-15h0)
+- [Handle Webhook Task Retries After Failure in a Delayed Queue](https://dev.to/lyrap22/handle-webhook-task-retries-after-failure-in-a-delayed-queue-231c)
+- [AI Audit Evidence, Part 6: A Record Nobody Read Is Only Stored](https://dev.to/rain6fish/ai-audit-evidence-part-6-a-record-nobody-read-is-only-stored-22nj)
+- [Faraday workspace scope is the real limit on API tokens](https://dev.to/johnettagaweraks/faraday-workspace-scope-is-the-real-limit-on-api-tokens-58b4)
 <!-- BLOG-POST-LIST:END -->
 
