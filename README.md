@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Store Timestamps in UTC, Display Them Locally](https://dev.to/chirag191094/store-timestamps-in-utc-display-them-locally-fec)
-- [How to answer Claude Code or Codex from your phone](https://dev.to/heylittlepan/how-to-answer-claude-code-or-codex-from-your-phone-10a7)
-- [UUIDv4 Is Not Free: Why Random Primary Keys Are Silently Crushing Your Write Performance](https://dev.to/johnnylemonny/uuidv4-is-not-free-why-random-primary-keys-are-silently-crushing-your-write-performance-2ea8)
-- [Logo File Formats for Print and Web: What to Ask For](https://dev.to/jaybarker/logo-file-formats-for-print-and-web-what-to-ask-for-4g5a)
+- [Day 22: a week of activity is not a week of demand](https://dev.to/wyeco_ai/day-22-a-week-of-activity-is-not-a-week-of-demand-14n9)
+- [Why Stale CLAUDE.md and AGENTS.md Files Override Working Code in 90.1% of Runs &lpar;And the One-Sentence Fix&rpar;](https://dev.to/seanjhkwon/why-stale-claudemd-and-agentsmd-files-override-working-code-in-901-of-runs-and-the-10i2)
+- [Content-Length on Our API Host: 47 Answers Carry It, 4 Are Chunked, and gzip Flips Two More](https://dev.to/onepassapps/content-length-on-our-api-host-47-answers-carry-it-4-are-chunked-and-gzip-flips-two-more-28mi)
+- [I kept shipping agents I had only tested on the happy path](https://dev.to/lixingliangsy/i-kept-shipping-agents-i-had-only-tested-on-the-happy-path-17bk)
 <!-- BLOG-POST-LIST:END -->
 
