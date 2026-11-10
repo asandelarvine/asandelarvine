@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Publish an App Inventor App on Google Play: Closed Testing](https://dev.to/vmzavas/publish-an-app-inventor-app-on-google-play-closed-testing-cg0)
-- [A Grading Race Condition: How to Avoid Evaluating an Outdated Submission](https://dev.to/haperforge/a-grading-race-condition-how-to-avoid-evaluating-an-outdated-submission-2hpc)
-- [Seven AI Music Generators for a Creator Pipeline: Match the Output to the Job](https://dev.to/carol_luo_ea61ea6c4bb07c1/seven-ai-music-generators-for-a-creator-pipeline-match-the-output-to-the-job-maj)
-- [Our employer pages now name the tests, and three different sentences say who told us](https://dev.to/daniel_pertu/our-employer-pages-now-name-the-tests-and-three-different-sentences-say-who-told-us-2cjh)
+- [Store Timestamps in UTC, Display Them Locally](https://dev.to/chirag191094/store-timestamps-in-utc-display-them-locally-fec)
+- [How to answer Claude Code or Codex from your phone](https://dev.to/heylittlepan/how-to-answer-claude-code-or-codex-from-your-phone-10a7)
+- [UUIDv4 Is Not Free: Why Random Primary Keys Are Silently Crushing Your Write Performance](https://dev.to/johnnylemonny/uuidv4-is-not-free-why-random-primary-keys-are-silently-crushing-your-write-performance-2ea8)
+- [Logo File Formats for Print and Web: What to Ask For](https://dev.to/jaybarker/logo-file-formats-for-print-and-web-what-to-ask-for-4g5a)
 <!-- BLOG-POST-LIST:END -->
 
