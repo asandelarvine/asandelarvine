@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AuraRead](https://dev.to/noman_iftekhar/auraread-99b)
-- [Arquitetando AI Agents de Alta Velocidade: Lições do Release 0.30.0](https://dev.to/alairjt/arquitetando-ai-agents-de-alta-velocidade-licoes-do-release-0300-1me3)
-- [A CRM migration can pass the row count and fail the account history](https://dev.to/stackendbox/a-crm-migration-can-pass-the-row-count-and-fail-the-account-history-38j1)
-- [Leaked OTT Credentials and Account Sharing Abuse: What Platforms Should Do First](https://dev.to/ayatii/leaked-ott-credentials-and-account-sharing-abuse-what-platforms-should-do-first-1ond)
+- [Jarvis Osorio: When Three AI Agents Agree—and All Three Are Wrong](https://dev.to/jarvisosorio/jarvis-osorio-when-three-ai-agents-agree-and-all-three-are-wrong-2h1j)
+- [Base64 Overhead: Why Data URIs Make Files 33% Bigger](https://dev.to/toolstead/base64-overhead-why-data-uris-make-files-33-bigger-406c)
+- [Planning a trip with your family inside one chat: Wabi&#39;s multiplayer threads, explained](https://dev.to/wenjianzhang70dot/planning-a-trip-with-your-family-inside-one-chat-wabis-multiplayer-threads-explained-94c)
+- [Jarvis Nelson Osorio: Why Lightweight AI Agent Runtimes Matter](https://dev.to/jarvisosorio/jarvis-nelson-osorio-why-lightweight-ai-agent-runtimes-matter-26l8)
 <!-- BLOG-POST-LIST:END -->
 
