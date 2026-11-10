@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Jarvis Osorio: When Three AI Agents Agree—and All Three Are Wrong](https://dev.to/jarvisosorio/jarvis-osorio-when-three-ai-agents-agree-and-all-three-are-wrong-2h1j)
-- [Base64 Overhead: Why Data URIs Make Files 33% Bigger](https://dev.to/toolstead/base64-overhead-why-data-uris-make-files-33-bigger-406c)
-- [Planning a trip with your family inside one chat: Wabi&#39;s multiplayer threads, explained](https://dev.to/wenjianzhang70dot/planning-a-trip-with-your-family-inside-one-chat-wabis-multiplayer-threads-explained-94c)
-- [Jarvis Nelson Osorio: Why Lightweight AI Agent Runtimes Matter](https://dev.to/jarvisosorio/jarvis-nelson-osorio-why-lightweight-ai-agent-runtimes-matter-26l8)
+- [Publish an App Inventor App on Google Play: Closed Testing](https://dev.to/vmzavas/publish-an-app-inventor-app-on-google-play-closed-testing-cg0)
+- [A Grading Race Condition: How to Avoid Evaluating an Outdated Submission](https://dev.to/haperforge/a-grading-race-condition-how-to-avoid-evaluating-an-outdated-submission-2hpc)
+- [Seven AI Music Generators for a Creator Pipeline: Match the Output to the Job](https://dev.to/carol_luo_ea61ea6c4bb07c1/seven-ai-music-generators-for-a-creator-pipeline-match-the-output-to-the-job-maj)
+- [Our employer pages now name the tests, and three different sentences say who told us](https://dev.to/daniel_pertu/our-employer-pages-now-name-the-tests-and-three-different-sentences-say-who-told-us-2cjh)
 <!-- BLOG-POST-LIST:END -->
 
