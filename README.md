@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reader Comments Shaped Three Releases of supabase-rls-check](https://dev.to/tthanh2k6/reader-comments-shaped-three-releases-of-supabase-rls-check-hi3)
-- [Kubernetes CI Needs Network Boundaries for Email Tests](https://dev.to/jasonmills94/kubernetes-ci-needs-network-boundaries-for-email-tests-n45)
-- [Per-Core Licensing for .NET Server Software: Counting Cores Correctly and Binding the Entitlement](https://dev.to/zero_heartbeat_06a3625d7a/per-core-licensing-for-net-server-software-counting-cores-correctly-and-binding-the-entitlement-3f9a)
-- [The Third Cloud Breaks Your Peering Model: Transitive Routing and the Hub Decision](https://dev.to/onelifevibe/the-third-cloud-breaks-your-peering-model-transitive-routing-and-the-hub-decision-469b)
+- [Fable/Mythos 5.2: cosa cambia davvero per chi scrive codice &lpar;e perché i numeri contano meno delle demo&rpar;](https://dev.to/frontendfacile/fablemythos-52-cosa-cambia-davvero-per-chi-scrive-codice-e-perche-i-numeri-contano-meno-delle-176d)
+- [I made a React component that opens and edits DOCX / XLSX / PPTX in the browser. 300k-row sheet in ~300ms, no server, MIT](https://dev.to/teiv2000/i-made-a-react-component-that-opens-and-edits-docx-xlsx-pptx-in-the-browser-300k-row-sheet-in-488o)
+- [I built Aegis — a personal cyber defense platform that checks links, emails, files and passwords before they hurt you](https://dev.to/manojthegeek/i-built-aegis-a-personal-cyber-defense-platform-that-checks-links-emails-files-and-passwords-3icm)
+- [Sinking Production with Silent Config Drifts: Building a Fail-Fast Guardrail for Giant YAML/JSON Setups](https://dev.to/toai/sinking-production-with-silent-config-drifts-building-a-fail-fast-guardrail-for-giant-yamljson-17gj)
 <!-- BLOG-POST-LIST:END -->
 
