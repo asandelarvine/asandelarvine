@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Fable/Mythos 5.2: cosa cambia davvero per chi scrive codice &lpar;e perché i numeri contano meno delle demo&rpar;](https://dev.to/frontendfacile/fablemythos-52-cosa-cambia-davvero-per-chi-scrive-codice-e-perche-i-numeri-contano-meno-delle-176d)
-- [I made a React component that opens and edits DOCX / XLSX / PPTX in the browser. 300k-row sheet in ~300ms, no server, MIT](https://dev.to/teiv2000/i-made-a-react-component-that-opens-and-edits-docx-xlsx-pptx-in-the-browser-300k-row-sheet-in-488o)
-- [I built Aegis — a personal cyber defense platform that checks links, emails, files and passwords before they hurt you](https://dev.to/manojthegeek/i-built-aegis-a-personal-cyber-defense-platform-that-checks-links-emails-files-and-passwords-3icm)
-- [Sinking Production with Silent Config Drifts: Building a Fail-Fast Guardrail for Giant YAML/JSON Setups](https://dev.to/toai/sinking-production-with-silent-config-drifts-building-a-fail-fast-guardrail-for-giant-yamljson-17gj)
+- [Microsoft Patches 1,259 Flaws as Outlook Zero-Day CVE-2026-124194 Leaks NTLMv2 Hashes](https://dev.to/etairos/microsoft-patches-1259-flaws-as-outlook-zero-day-cve-2026-124194-leaks-ntlmv2-hashes-i24)
+- [Codex 的三种新工作流：云端交接、语音调度与个人智能体](https://dev.to/arthur1988/codex-de-san-chong-xin-gong-zuo-liu-yun-duan-jiao-jie-yu-yin-diao-du-yu-ge-ren-zhi-neng-ti-3ph6)
+- [Break-Glass Access That Expires: IAM Conditions and Time-Bound Admin on GCP](https://dev.to/purvanshbhatt/break-glass-access-that-expires-iam-conditions-and-time-bound-admin-on-gcp-1hdn)
+- [Give internal links an acceptance test before a template release](https://dev.to/naslx/give-internal-links-an-acceptance-test-before-a-template-release-4j4p)
 <!-- BLOG-POST-LIST:END -->
 
