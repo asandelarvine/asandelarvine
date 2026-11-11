@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 22: a week of activity is not a week of demand](https://dev.to/wyeco_ai/day-22-a-week-of-activity-is-not-a-week-of-demand-14n9)
-- [Why Stale CLAUDE.md and AGENTS.md Files Override Working Code in 90.1% of Runs &lpar;And the One-Sentence Fix&rpar;](https://dev.to/seanjhkwon/why-stale-claudemd-and-agentsmd-files-override-working-code-in-901-of-runs-and-the-10i2)
-- [Content-Length on Our API Host: 47 Answers Carry It, 4 Are Chunked, and gzip Flips Two More](https://dev.to/onepassapps/content-length-on-our-api-host-47-answers-carry-it-4-are-chunked-and-gzip-flips-two-more-28mi)
-- [I kept shipping agents I had only tested on the happy path](https://dev.to/lixingliangsy/i-kept-shipping-agents-i-had-only-tested-on-the-happy-path-17bk)
+- [Reader Comments Shaped Three Releases of supabase-rls-check](https://dev.to/tthanh2k6/reader-comments-shaped-three-releases-of-supabase-rls-check-hi3)
+- [Kubernetes CI Needs Network Boundaries for Email Tests](https://dev.to/jasonmills94/kubernetes-ci-needs-network-boundaries-for-email-tests-n45)
+- [Per-Core Licensing for .NET Server Software: Counting Cores Correctly and Binding the Entitlement](https://dev.to/zero_heartbeat_06a3625d7a/per-core-licensing-for-net-server-software-counting-cores-correctly-and-binding-the-entitlement-3f9a)
+- [The Third Cloud Breaks Your Peering Model: Transitive Routing and the Hub Decision](https://dev.to/onelifevibe/the-third-cloud-breaks-your-peering-model-transitive-routing-and-the-hub-decision-469b)
 <!-- BLOG-POST-LIST:END -->
 
