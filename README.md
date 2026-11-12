@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Patches 1,259 Flaws as Outlook Zero-Day CVE-2026-124194 Leaks NTLMv2 Hashes](https://dev.to/etairos/microsoft-patches-1259-flaws-as-outlook-zero-day-cve-2026-124194-leaks-ntlmv2-hashes-i24)
-- [Codex 的三种新工作流：云端交接、语音调度与个人智能体](https://dev.to/arthur1988/codex-de-san-chong-xin-gong-zuo-liu-yun-duan-jiao-jie-yu-yin-diao-du-yu-ge-ren-zhi-neng-ti-3ph6)
-- [Break-Glass Access That Expires: IAM Conditions and Time-Bound Admin on GCP](https://dev.to/purvanshbhatt/break-glass-access-that-expires-iam-conditions-and-time-bound-admin-on-gcp-1hdn)
-- [Give internal links an acceptance test before a template release](https://dev.to/naslx/give-internal-links-an-acceptance-test-before-a-template-release-4j4p)
+- [Build a Stateful After-Hours Triage Chat with TypeScript and Telnyx](https://dev.to/sonam_gupta_dba00ec9473e5/build-a-stateful-after-hours-triage-chat-with-typescript-and-telnyx-10ll)
+- [I Built Toolnivoo: Free Browser-Based PDF and Image Tools](https://dev.to/himami_vlog_130241d1b2ae/i-built-toolnivoo-free-browser-based-pdf-and-image-tools-4dh4)
+- [Your Android TV home screen is a web page now: an open launcher anyone can reskin](https://dev.to/paulbennetjoshua/your-android-tv-home-screen-is-a-web-page-now-an-open-launcher-anyone-can-reskin-3ld5)
+- [Next.js API Handler for Generated PNGs — Object Storage with Expiring Download Grants](https://dev.to/falgrim78/nextjs-api-handler-for-generated-pngs-object-storage-with-expiring-download-grants-30dk)
 <!-- BLOG-POST-LIST:END -->
 
