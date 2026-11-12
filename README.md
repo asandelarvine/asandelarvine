@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Shipping a three-repo security platform on free tiers: what broke and why](https://dev.to/mundatic/shipping-a-three-repo-security-platform-on-free-tiers-what-broke-and-why-ffb)
-- [From 40–50% Less Rescanning to Eliminating a Tailwind Full Rescan in Ionify](https://dev.to/khaledmsalem/from-40-50-less-rescanning-to-eliminating-a-tailwind-full-rescan-in-ionify-1a0f)
-- [🚘 Tesla&#39;s Marketing Strategy](https://dev.to/abhishekjaiswal_4896/teslas-marketing-strategy-2485)
-- [Engineering a High-Concurrency E-Commerce Backend: Testing, Concurrency &amp; Resilience at Scale](https://dev.to/shitanshu686/engineering-a-high-concurrency-e-commerce-backend-testing-concurrency-resilience-at-scale-192l)
+- [Building DotShredzilla &lpar;Part 2&rpar;: A Glass Design System with Two Palettes](https://dev.to/freerave/building-dotshredzilla-part-2-a-glass-design-system-with-two-palettes-3f79)
+- [Vibe Coding Ships Fast.](https://dev.to/ankehmbom_yieh_0c4c0bb85b/vibe-coding-ships-fast-14mc)
+- [A tiny tripwire so your AI agent &lpar;or you&rpar; notices a wipe before doing more damage](https://dev.to/grokkius/a-tiny-tripwire-so-your-ai-agent-or-you-notices-a-wipe-before-doing-more-damage-4ilm)
+- [Tiki&#39;s Plugin Approval Boundary Starts With Group Permissions](https://dev.to/sorrelthorncroft/tikis-plugin-approval-boundary-starts-with-group-permissions-1gpf)
 <!-- BLOG-POST-LIST:END -->
 
