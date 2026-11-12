@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Building DotShredzilla &lpar;Part 2&rpar;: A Glass Design System with Two Palettes](https://dev.to/freerave/building-dotshredzilla-part-2-a-glass-design-system-with-two-palettes-3f79)
-- [Vibe Coding Ships Fast.](https://dev.to/ankehmbom_yieh_0c4c0bb85b/vibe-coding-ships-fast-14mc)
-- [A tiny tripwire so your AI agent &lpar;or you&rpar; notices a wipe before doing more damage](https://dev.to/grokkius/a-tiny-tripwire-so-your-ai-agent-or-you-notices-a-wipe-before-doing-more-damage-4ilm)
-- [Tiki&#39;s Plugin Approval Boundary Starts With Group Permissions](https://dev.to/sorrelthorncroft/tikis-plugin-approval-boundary-starts-with-group-permissions-1gpf)
+- [Gemini 4 Hydrogen Dropped This Week. Which AI Model Do You Actually Code With Every Day, and Why?](https://dev.to/hannanshoukat/gemini-4-hydrogen-dropped-this-week-which-ai-model-do-you-actually-code-with-every-day-and-why-fcn)
+- [301 vs. 302 Redirects: How Search Engines Treat a URL Change, Measured on This Blog](https://dev.to/susumun/301-vs-302-redirects-how-search-engines-treat-a-url-change-measured-on-this-blog-pc3)
+- [Non-conformité bloquante : ce que le RGAA 5 change pour la mention d’accessibilité](https://dev.to/claren_fr/non-conformite-bloquante-ce-que-le-rgaa-5-change-pour-la-mention-daccessibilite-5fia)
+- [Release-Day Checklist: Upload Localized Screenshots to App Store Connect and Google Play Without Surprises](https://dev.to/screenparcel/release-day-checklist-upload-localized-screenshots-to-app-store-connect-and-google-play-without-2hfk)
 <!-- BLOG-POST-LIST:END -->
 
