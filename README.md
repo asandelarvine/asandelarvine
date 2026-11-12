@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Stateful After-Hours Triage Chat with TypeScript and Telnyx](https://dev.to/sonam_gupta_dba00ec9473e5/build-a-stateful-after-hours-triage-chat-with-typescript-and-telnyx-10ll)
-- [I Built Toolnivoo: Free Browser-Based PDF and Image Tools](https://dev.to/himami_vlog_130241d1b2ae/i-built-toolnivoo-free-browser-based-pdf-and-image-tools-4dh4)
-- [Your Android TV home screen is a web page now: an open launcher anyone can reskin](https://dev.to/paulbennetjoshua/your-android-tv-home-screen-is-a-web-page-now-an-open-launcher-anyone-can-reskin-3ld5)
-- [Next.js API Handler for Generated PNGs — Object Storage with Expiring Download Grants](https://dev.to/falgrim78/nextjs-api-handler-for-generated-pngs-object-storage-with-expiring-download-grants-30dk)
+- [Shipping a three-repo security platform on free tiers: what broke and why](https://dev.to/mundatic/shipping-a-three-repo-security-platform-on-free-tiers-what-broke-and-why-ffb)
+- [From 40–50% Less Rescanning to Eliminating a Tailwind Full Rescan in Ionify](https://dev.to/khaledmsalem/from-40-50-less-rescanning-to-eliminating-a-tailwind-full-rescan-in-ionify-1a0f)
+- [🚘 Tesla&#39;s Marketing Strategy](https://dev.to/abhishekjaiswal_4896/teslas-marketing-strategy-2485)
+- [Engineering a High-Concurrency E-Commerce Backend: Testing, Concurrency &amp; Resilience at Scale](https://dev.to/shitanshu686/engineering-a-high-concurrency-e-commerce-backend-testing-concurrency-resilience-at-scale-192l)
 <!-- BLOG-POST-LIST:END -->
 
