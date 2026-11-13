@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini 4 Hydrogen Dropped This Week. Which AI Model Do You Actually Code With Every Day, and Why?](https://dev.to/hannanshoukat/gemini-4-hydrogen-dropped-this-week-which-ai-model-do-you-actually-code-with-every-day-and-why-fcn)
-- [301 vs. 302 Redirects: How Search Engines Treat a URL Change, Measured on This Blog](https://dev.to/susumun/301-vs-302-redirects-how-search-engines-treat-a-url-change-measured-on-this-blog-pc3)
-- [Non-conformité bloquante : ce que le RGAA 5 change pour la mention d’accessibilité](https://dev.to/claren_fr/non-conformite-bloquante-ce-que-le-rgaa-5-change-pour-la-mention-daccessibilite-5fia)
-- [Release-Day Checklist: Upload Localized Screenshots to App Store Connect and Google Play Without Surprises](https://dev.to/screenparcel/release-day-checklist-upload-localized-screenshots-to-app-store-connect-and-google-play-without-2hfk)
+- [What &quot;How Many People Play Siege&quot; Actually Measures](https://dev.to/siegeradar/what-how-many-people-play-siege-actually-measures-2jbn)
+- [Building a Local Equipment Control Panel with Raspberry Pi 5](https://dev.to/laakso/building-a-local-equipment-control-panel-with-raspberry-pi-5-571a)
+- [The importance of software engineering in web applications](https://dev.to/nchangwi188/the-importance-of-software-engineering-in-web-applications-32lf)
+- [把 50 万字古籍做成 3 MB 安卓阅读器：一条从 Markdown 到 APK 的流水线](https://dev.to/q1z2q3debug/ba-50-mo-zi-gu-ji-zuo-cheng-3-mb-an-zhuo-yue-du-qi-tiao-cong-markdown-dao-apk-de-liu-shui-xian-4o7b)
 <!-- BLOG-POST-LIST:END -->
 
