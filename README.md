@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [What &quot;How Many People Play Siege&quot; Actually Measures](https://dev.to/siegeradar/what-how-many-people-play-siege-actually-measures-2jbn)
-- [Building a Local Equipment Control Panel with Raspberry Pi 5](https://dev.to/laakso/building-a-local-equipment-control-panel-with-raspberry-pi-5-571a)
-- [The importance of software engineering in web applications](https://dev.to/nchangwi188/the-importance-of-software-engineering-in-web-applications-32lf)
-- [把 50 万字古籍做成 3 MB 安卓阅读器：一条从 Markdown 到 APK 的流水线](https://dev.to/q1z2q3debug/ba-50-mo-zi-gu-ji-zuo-cheng-3-mb-an-zhuo-yue-du-qi-tiao-cong-markdown-dao-apk-de-liu-shui-xian-4o7b)
+- [Zoho CRM workflow not triggering: the causes Zoho lists and how to check each one](https://dev.to/skyfall7/zoho-crm-workflow-not-triggering-the-causes-zoho-lists-and-how-to-check-each-one-1ajl)
+- [llama.cpp and ggml ship v1.0.0 — semantic versioning comes to the local AI stack](https://dev.to/delimitter/llamacpp-and-ggml-ship-v100-semantic-versioning-comes-to-the-local-ai-stack-1ag4)
+- [SilentAir Hijacks Signaling Gear in Asian Mobile Operators to Steal SMS 2FA Codes from Taiwanese Targets](https://dev.to/etairos/silentair-hijacks-signaling-gear-in-asian-mobile-operators-to-steal-sms-2fa-codes-from-taiwanese-30db)
+- [How to Check Real Estate Listings for Fair Housing Red Flags with an API](https://dev.to/awesomeapi/how-to-check-real-estate-listings-for-fair-housing-red-flags-with-an-api-bh6)
 <!-- BLOG-POST-LIST:END -->
 
