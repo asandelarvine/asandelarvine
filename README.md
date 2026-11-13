@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoho CRM workflow not triggering: the causes Zoho lists and how to check each one](https://dev.to/skyfall7/zoho-crm-workflow-not-triggering-the-causes-zoho-lists-and-how-to-check-each-one-1ajl)
-- [llama.cpp and ggml ship v1.0.0 — semantic versioning comes to the local AI stack](https://dev.to/delimitter/llamacpp-and-ggml-ship-v100-semantic-versioning-comes-to-the-local-ai-stack-1ag4)
-- [SilentAir Hijacks Signaling Gear in Asian Mobile Operators to Steal SMS 2FA Codes from Taiwanese Targets](https://dev.to/etairos/silentair-hijacks-signaling-gear-in-asian-mobile-operators-to-steal-sms-2fa-codes-from-taiwanese-30db)
-- [How to Check Real Estate Listings for Fair Housing Red Flags with an API](https://dev.to/awesomeapi/how-to-check-real-estate-listings-for-fair-housing-red-flags-with-an-api-bh6)
+- [Mail Authentication Provisioning: DNS Record Upsert and the Cutover Evidence Budget](https://dev.to/nevillechristensen2637/mail-authentication-provisioning-dns-record-upsert-and-the-cutover-evidence-budget-p0e)
+- [Guardrail en el tribunal](https://dev.to/beanstechbr/guardrail-en-el-tribunal-2f0o)
+- [Guardrail en input y output](https://dev.to/beanstechbr/guardrail-en-input-y-output-493e)
+- [Zoho CRM telephony: built-in calling, Zoho Voice and PhoneBridge compared](https://dev.to/skyfall7/zoho-crm-telephony-built-in-calling-zoho-voice-and-phonebridge-compared-3e58)
 <!-- BLOG-POST-LIST:END -->
 
