@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Review a Token Contract with AEGIXE: A Step-by-Step Guide](https://dev.to/aegixe/how-to-review-a-token-contract-with-aegixe-a-step-by-step-guide-6nb)
-- [如何使用 AEGIXE 审查代币合约：从输入地址到查看检测项](https://dev.to/aegixe/ru-he-shi-yong-aegixe-shen-cha-dai-bi-he-yue-cong-shu-ru-di-zhi-dao-cha-kan-jian-ce-xiang-4pg7)
-- [Why AI Fails in the Real World: The Mandatory Constraint Protocol &lpar;SSAP Card 00&rpar;](https://dev.to/gochinatripapp/why-ai-fails-in-the-real-world-the-mandatory-constraint-protocol-ssap-card-00-33j7)
-- [Preview each alarm&#39;s snooze schedule](https://dev.to/droidactor/preview-each-alarms-snooze-schedule-52m)
+- [A Security+ style PBQ, solved step by step: firewall rules from a scenario](https://dev.to/aurelio_avila/a-security-style-pbq-solved-step-by-step-firewall-rules-from-a-scenario-5cc)
+- [Designing for low vision: 7 accessibility fixes that help people with optic nerve conditions](https://dev.to/opticatrophy/designing-for-low-vision-7-accessibility-fixes-that-help-people-with-optic-nerve-conditions-18cd)
+- [10 Bugs Every Lovable App Has Before Launch](https://dev.to/testmylaunch/10-bugs-every-lovable-app-has-before-launch-2i42)
+- [Loading a 72 MB JSON list on a TV box without running out of memory](https://dev.to/usama_muhammad_d144933dd0/loading-a-72-mb-json-list-on-a-tv-box-without-running-out-of-memory-n33)
 <!-- BLOG-POST-LIST:END -->
 
