@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A Security+ style PBQ, solved step by step: firewall rules from a scenario](https://dev.to/aurelio_avila/a-security-style-pbq-solved-step-by-step-firewall-rules-from-a-scenario-5cc)
-- [Designing for low vision: 7 accessibility fixes that help people with optic nerve conditions](https://dev.to/opticatrophy/designing-for-low-vision-7-accessibility-fixes-that-help-people-with-optic-nerve-conditions-18cd)
-- [10 Bugs Every Lovable App Has Before Launch](https://dev.to/testmylaunch/10-bugs-every-lovable-app-has-before-launch-2i42)
-- [Loading a 72 MB JSON list on a TV box without running out of memory](https://dev.to/usama_muhammad_d144933dd0/loading-a-72-mb-json-list-on-a-tv-box-without-running-out-of-memory-n33)
+- [Laravel Composer Scripts: Replace Your README with One Command](https://dev.to/itxshakil/laravel-composer-scripts-replace-your-readme-with-one-command-g5e)
+- [SMS OTP API Dispatch — 120-Second Budgets for 2FA Login, Resend and Cancel](https://dev.to/knutberg8412/sms-otp-api-dispatch-120-second-budgets-for-2fa-login-resend-and-cancel-2l08)
+- [Restaurant Menu Retrieval Architecture: Go Audit Logs and Freshness Explained](https://dev.to/gagesterling2648/restaurant-menu-retrieval-architecture-go-audit-logs-and-freshness-explained-2e78)
+- [Laravel Slow Query Detection: Catch Them Before Users Do](https://dev.to/itxshakil/laravel-slow-query-detection-catch-them-before-users-do-1i5i)
 <!-- BLOG-POST-LIST:END -->
 
