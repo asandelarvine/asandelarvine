@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Mail Authentication Provisioning: DNS Record Upsert and the Cutover Evidence Budget](https://dev.to/nevillechristensen2637/mail-authentication-provisioning-dns-record-upsert-and-the-cutover-evidence-budget-p0e)
-- [Guardrail en el tribunal](https://dev.to/beanstechbr/guardrail-en-el-tribunal-2f0o)
-- [Guardrail en input y output](https://dev.to/beanstechbr/guardrail-en-input-y-output-493e)
-- [Zoho CRM telephony: built-in calling, Zoho Voice and PhoneBridge compared](https://dev.to/skyfall7/zoho-crm-telephony-built-in-calling-zoho-voice-and-phonebridge-compared-3e58)
+- [How to Review a Token Contract with AEGIXE: A Step-by-Step Guide](https://dev.to/aegixe/how-to-review-a-token-contract-with-aegixe-a-step-by-step-guide-6nb)
+- [如何使用 AEGIXE 审查代币合约：从输入地址到查看检测项](https://dev.to/aegixe/ru-he-shi-yong-aegixe-shen-cha-dai-bi-he-yue-cong-shu-ru-di-zhi-dao-cha-kan-jian-ce-xiang-4pg7)
+- [Why AI Fails in the Real World: The Mandatory Constraint Protocol &lpar;SSAP Card 00&rpar;](https://dev.to/gochinatripapp/why-ai-fails-in-the-real-world-the-mandatory-constraint-protocol-ssap-card-00-33j7)
+- [Preview each alarm&#39;s snooze schedule](https://dev.to/droidactor/preview-each-alarms-snooze-schedule-52m)
 <!-- BLOG-POST-LIST:END -->
 
