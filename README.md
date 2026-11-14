@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Composer Scripts: Replace Your README with One Command](https://dev.to/itxshakil/laravel-composer-scripts-replace-your-readme-with-one-command-g5e)
-- [SMS OTP API Dispatch — 120-Second Budgets for 2FA Login, Resend and Cancel](https://dev.to/knutberg8412/sms-otp-api-dispatch-120-second-budgets-for-2fa-login-resend-and-cancel-2l08)
-- [Restaurant Menu Retrieval Architecture: Go Audit Logs and Freshness Explained](https://dev.to/gagesterling2648/restaurant-menu-retrieval-architecture-go-audit-logs-and-freshness-explained-2e78)
-- [Laravel Slow Query Detection: Catch Them Before Users Do](https://dev.to/itxshakil/laravel-slow-query-detection-catch-them-before-users-do-1i5i)
+- [Hourly to Annual Pay: The Math and the Assumptions Behind It](https://dev.to/miri-calc/hourly-to-annual-pay-the-math-and-the-assumptions-behind-it-7cd)
+- [Pace: Converting Time and Distance Into a Number You Can Train With](https://dev.to/miri-calc/pace-converting-time-and-distance-into-a-number-you-can-train-with-1n4e)
+- [Best Time to Post on Social Media: 3 Studies, 3 Different Answers](https://dev.to/clienzodotco/best-time-to-post-on-social-media-3-studies-3-different-answers-21n1)
+- [I wired my own Symfony invoicing to a French e-invoicing platform. Five things I learned.](https://dev.to/pierrearthurdemengel/i-wired-my-own-symfony-invoicing-to-a-french-e-invoicing-platform-five-things-i-learned-4035)
 <!-- BLOG-POST-LIST:END -->
 
