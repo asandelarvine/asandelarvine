@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [FaceStealer: Fake Video Conferences and Recorded Footage Used to Induce Self-Infection and Steal Cryptocurrency and Developer Accounts](https://dev.to/anoymask/facestealer-fake-video-conferences-and-recorded-footage-used-to-induce-self-infection-and-steal-k6j)
-- [Play Console Account: Complete Guide for Developers](https://dev.to/playconsolestore1/play-console-account-complete-guide-for-developers-49jb)
-- [How did Microsoft outage affect you? Were you tempted or forced to use some other app? Is your organization showing any backup plans for when this happens again?](https://dev.to/debashish_ghosal/how-did-microsoft-outage-affect-you-were-you-tempted-or-forced-to-use-some-other-app-is-your-28jh)
-- [Summarize Emails with Claude AI and Save to Notion &lpar;No Code&rpar;](https://dev.to/stackscale/summarize-emails-with-claude-ai-and-save-to-notion-no-code-2pod)
+- [AGI and ASI — Ch.08: Memory Systems [EN]](https://dev.to/richard_minsoogo/agi-and-asi-ch08-memory-systems-en-m8i)
+- [AGI and ASI — Ch.07: Cognitive Architectures [EN]](https://dev.to/richard_minsoogo/agi-and-asi-ch07-cognitive-architectures-en-22nc)
+- [AGI and ASI — Ch.06: World Models [EN]](https://dev.to/richard_minsoogo/agi-and-asi-ch06-world-models-en-c4k)
+- [AGI and ASI — Ch.05: Causal Reasoning [EN]](https://dev.to/richard_minsoogo/agi-and-asi-ch05-causal-reasoning-en-1dpb)
 <!-- BLOG-POST-LIST:END -->
 
