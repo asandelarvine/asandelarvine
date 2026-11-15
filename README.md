@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hourly to Annual Pay: The Math and the Assumptions Behind It](https://dev.to/miri-calc/hourly-to-annual-pay-the-math-and-the-assumptions-behind-it-7cd)
-- [Pace: Converting Time and Distance Into a Number You Can Train With](https://dev.to/miri-calc/pace-converting-time-and-distance-into-a-number-you-can-train-with-1n4e)
-- [Best Time to Post on Social Media: 3 Studies, 3 Different Answers](https://dev.to/clienzodotco/best-time-to-post-on-social-media-3-studies-3-different-answers-21n1)
-- [I wired my own Symfony invoicing to a French e-invoicing platform. Five things I learned.](https://dev.to/pierrearthurdemengel/i-wired-my-own-symfony-invoicing-to-a-french-e-invoicing-platform-five-things-i-learned-4035)
+- [FaceStealer: Fake Video Conferences and Recorded Footage Used to Induce Self-Infection and Steal Cryptocurrency and Developer Accounts](https://dev.to/anoymask/facestealer-fake-video-conferences-and-recorded-footage-used-to-induce-self-infection-and-steal-k6j)
+- [Play Console Account: Complete Guide for Developers](https://dev.to/playconsolestore1/play-console-account-complete-guide-for-developers-49jb)
+- [How did Microsoft outage affect you? Were you tempted or forced to use some other app? Is your organization showing any backup plans for when this happens again?](https://dev.to/debashish_ghosal/how-did-microsoft-outage-affect-you-were-you-tempted-or-forced-to-use-some-other-app-is-your-28jh)
+- [Summarize Emails with Claude AI and Save to Notion &lpar;No Code&rpar;](https://dev.to/stackscale/summarize-emails-with-claude-ai-and-save-to-notion-no-code-2pod)
 <!-- BLOG-POST-LIST:END -->
 
