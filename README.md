@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [AGI and ASI — Ch.08: Memory Systems [EN]](https://dev.to/richard_minsoogo/agi-and-asi-ch08-memory-systems-en-m8i)
-- [AGI and ASI — Ch.07: Cognitive Architectures [EN]](https://dev.to/richard_minsoogo/agi-and-asi-ch07-cognitive-architectures-en-22nc)
-- [AGI and ASI — Ch.06: World Models [EN]](https://dev.to/richard_minsoogo/agi-and-asi-ch06-world-models-en-c4k)
-- [AGI and ASI — Ch.05: Causal Reasoning [EN]](https://dev.to/richard_minsoogo/agi-and-asi-ch05-causal-reasoning-en-1dpb)
+- [SonicWall CVE-2026-19868: A Valid Password That Skips SAML and Your MFA](https://dev.to/bit4bit_dfir/sonicwall-cve-2026-19868-a-valid-password-that-skips-saml-and-your-mfa-4ogi)
+- [Offline-First, Zero Backend: Building a Tailoring Business App That Works Without Internet](https://dev.to/saqib2619/offline-first-zero-backend-building-a-tailoring-business-app-that-works-without-internet-1lf1)
+- [AWS&#39;s Spring AI Agent Blueprint Gets the Boring Parts Right](https://dev.to/jamilxt/awss-spring-ai-agent-blueprint-gets-the-boring-parts-right-24e5)
+- [I Had Never Written a Line of Code. Then I Shipped a Paid App With AI.](https://dev.to/suikeke9/i-had-never-written-a-line-of-code-then-i-shipped-a-paid-app-with-ai-1ag5)
 <!-- BLOG-POST-LIST:END -->
 
