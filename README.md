@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SonicWall CVE-2026-19868: A Valid Password That Skips SAML and Your MFA](https://dev.to/bit4bit_dfir/sonicwall-cve-2026-19868-a-valid-password-that-skips-saml-and-your-mfa-4ogi)
-- [Offline-First, Zero Backend: Building a Tailoring Business App That Works Without Internet](https://dev.to/saqib2619/offline-first-zero-backend-building-a-tailoring-business-app-that-works-without-internet-1lf1)
-- [AWS&#39;s Spring AI Agent Blueprint Gets the Boring Parts Right](https://dev.to/jamilxt/awss-spring-ai-agent-blueprint-gets-the-boring-parts-right-24e5)
-- [I Had Never Written a Line of Code. Then I Shipped a Paid App With AI.](https://dev.to/suikeke9/i-had-never-written-a-line-of-code-then-i-shipped-a-paid-app-with-ai-1ag5)
+- [How to Explain What RTC Room Tokens Carry &lpar;Identity and Permissions&rpar;](https://dev.to/evanshepherd8274/how-to-explain-what-rtc-room-tokens-carry-identity-and-permissions-1nb5)
+- [How to Run DeepSeek Privately on Your Android Phone in 2026 &lpar;R1 Distill GGUF, Instead of the DeepSeek App&rpar;](https://dev.to/alichherawalla/how-to-run-deepseek-privately-on-your-android-phone-in-2026-r1-distill-gguf-instead-of-the-4a12)
+- [How to Run FLUX.2 klein on Your Android Phone in 2026 &lpar;On-Device Text-to-Image, No Cloud&rpar;](https://dev.to/alichherawalla/how-to-run-flux2-klein-on-your-android-phone-in-2026-on-device-text-to-image-no-cloud-1g37)
+- [Will this LLM run on my laptop? The memory math to do before you download](https://dev.to/ahmad_dogar_7d098f5e48f72/will-this-llm-run-on-my-laptop-the-memory-math-to-do-before-you-download-33pc)
 <!-- BLOG-POST-LIST:END -->
 
