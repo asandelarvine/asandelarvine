@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Solvra AI: Practical Notes on Enterprise ICT and AI Infrastructure](https://dev.to/solvra_ai/introducing-solvra-ai-practical-notes-on-enterprise-ict-and-ai-infrastructure-1bhf)
-- [Unwrapping a 3D Printer This Christmas? Six Free Prints for Your First Week](https://dev.to/thinger/unwrapping-a-3d-printer-this-christmas-six-free-prints-for-your-first-week-4dc7)
-- [Booking a Chinese train ticket is easy. Finding your train is not.](https://dev.to/sinostay/booking-a-chinese-train-ticket-is-easy-finding-your-train-is-not-44ne)
-- [An event bus for a terminal coding agent: deliver only when it&#39;s idle](https://dev.to/pankajgarkoti/an-event-bus-for-a-terminal-coding-agent-deliver-only-when-its-idle-798)
+- [From file names to a poster wall: parsing, matching and keeping paths private](https://dev.to/yonto/from-file-names-to-a-poster-wall-parsing-matching-and-keeping-paths-private-4e1d)
+- [My fix for Home Row Shift while ty](https://dev.to/argenkiwi/my-fix-for-home-row-shift-while-ty-1c4f)
+- [**Choosing a** pay after website is built plan for solo consultants](https://dev.to/naveed_ahmed_datics/choosing-a-pay-after-website-is-built-plan-for-solo-consultants-3a7g)
+- [A finished growth deliverable from a single HTTP request &lpar;no signup&rpar;](https://dev.to/guerra2fernando/a-finished-growth-deliverable-from-a-single-http-request-no-signup-3ckb)
 <!-- BLOG-POST-LIST:END -->
 
