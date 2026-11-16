@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Explain What RTC Room Tokens Carry &lpar;Identity and Permissions&rpar;](https://dev.to/evanshepherd8274/how-to-explain-what-rtc-room-tokens-carry-identity-and-permissions-1nb5)
-- [How to Run DeepSeek Privately on Your Android Phone in 2026 &lpar;R1 Distill GGUF, Instead of the DeepSeek App&rpar;](https://dev.to/alichherawalla/how-to-run-deepseek-privately-on-your-android-phone-in-2026-r1-distill-gguf-instead-of-the-4a12)
-- [How to Run FLUX.2 klein on Your Android Phone in 2026 &lpar;On-Device Text-to-Image, No Cloud&rpar;](https://dev.to/alichherawalla/how-to-run-flux2-klein-on-your-android-phone-in-2026-on-device-text-to-image-no-cloud-1g37)
-- [Will this LLM run on my laptop? The memory math to do before you download](https://dev.to/ahmad_dogar_7d098f5e48f72/will-this-llm-run-on-my-laptop-the-memory-math-to-do-before-you-download-33pc)
+- [Goal Engineering: ออกแบบเป้าหมายเอเจนต์ให้คนสอนได้](https://dev.to/sarantoon/goal-engineering-kaebbepaahmaayeecchntaihkhnsnaid-1cmb)
+- [Base64 vs Hex, Base32 and ASCII85: Encodings Compared](https://dev.to/toolstead/base64-vs-hex-base32-and-ascii85-encodings-compared-2f22)
+- [Local LLMs Need 96GB of GPU Memory. This $/GB Table Shows the Cheapest Way to Get It](https://dev.to/cartcheck/local-llms-need-96gb-of-gpu-memory-this-gb-table-shows-the-cheapest-way-to-get-it-52ln)
+- [React Native and Expo still ship a JavaScript bundle you can extract from the app](https://dev.to/veilvm/react-native-and-expo-still-ship-a-javascript-bundle-you-can-extract-from-the-app-31n8)
 <!-- BLOG-POST-LIST:END -->
 
