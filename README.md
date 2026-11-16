@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Goal Engineering: ออกแบบเป้าหมายเอเจนต์ให้คนสอนได้](https://dev.to/sarantoon/goal-engineering-kaebbepaahmaayeecchntaihkhnsnaid-1cmb)
-- [Base64 vs Hex, Base32 and ASCII85: Encodings Compared](https://dev.to/toolstead/base64-vs-hex-base32-and-ascii85-encodings-compared-2f22)
-- [Local LLMs Need 96GB of GPU Memory. This $/GB Table Shows the Cheapest Way to Get It](https://dev.to/cartcheck/local-llms-need-96gb-of-gpu-memory-this-gb-table-shows-the-cheapest-way-to-get-it-52ln)
-- [React Native and Expo still ship a JavaScript bundle you can extract from the app](https://dev.to/veilvm/react-native-and-expo-still-ship-a-javascript-bundle-you-can-extract-from-the-app-31n8)
+- [Introducing Solvra AI: Practical Notes on Enterprise ICT and AI Infrastructure](https://dev.to/solvra_ai/introducing-solvra-ai-practical-notes-on-enterprise-ict-and-ai-infrastructure-1bhf)
+- [Unwrapping a 3D Printer This Christmas? Six Free Prints for Your First Week](https://dev.to/thinger/unwrapping-a-3d-printer-this-christmas-six-free-prints-for-your-first-week-4dc7)
+- [Booking a Chinese train ticket is easy. Finding your train is not.](https://dev.to/sinostay/booking-a-chinese-train-ticket-is-easy-finding-your-train-is-not-44ne)
+- [An event bus for a terminal coding agent: deliver only when it&#39;s idle](https://dev.to/pankajgarkoti/an-event-bus-for-a-terminal-coding-agent-deliver-only-when-its-idle-798)
 <!-- BLOG-POST-LIST:END -->
 
