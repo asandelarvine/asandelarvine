@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Reduce meetings: a meeting audit for dev teams](https://dev.to/sascha-ms/reduce-meetings-a-meeting-audit-for-dev-teams-4jc2)
-- [GPT-6.2 Astra and Sol: Cheaper, Shorter Answers, and the Fine Print](https://dev.to/tokely/gpt-62-astra-and-sol-cheaper-shorter-answers-and-the-fine-print-4a9l)
-- [&quot;Claude Code&#39;s PreToolUse Hook Only Blocks a Tool Call on Exit Code 2, and Every Other Failure Mode Lets It Run Anyway&quot;](https://dev.to/enjoy_kumawat/claude-codes-pretooluse-hook-only-blocks-a-tool-call-on-exit-code-2-and-every-other-failure-mode-4ka2)
-- [C4 dinâmico | O que aconteceu entre o pedido e a confirmação?](https://dev.to/sophie-pyxis/c4-dinamico-o-que-aconteceu-entre-o-pedido-e-a-confirmacao-1hjp)
+- [Check Your NGINX HTTP/2 Config Before Attackers Do](https://dev.to/robust_true_try/check-your-nginx-http2-config-before-attackers-do-2e5k)
+- [Embeddings and vector databases, explained with one small piece of arithmetic](https://dev.to/deployedlabs/embeddings-and-vector-databases-explained-with-one-small-piece-of-arithmetic-5h42)
+- [SearchBlox Admin APIs and Consoles Share One High-Value Boundary](https://dev.to/bianliang/searchblox-admin-apis-and-consoles-share-one-high-value-boundary-10a)
+- [Generate a custom OpenAI API example without putting a key in your browser](https://dev.to/cheapclankers/generate-a-custom-openai-api-example-without-putting-a-key-in-your-browser-1fl1)
 <!-- BLOG-POST-LIST:END -->
 
