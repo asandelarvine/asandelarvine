@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Why TypeScript and ESLint Miss 80% of AI-Generated Frontend Bugs &lpar;And How to Catch Them with Autonomous Playwright QA&rpar;](https://dev.to/avivgerzhue/why-typescript-and-eslint-miss-80-of-ai-generated-frontend-bugs-and-how-to-catch-them-with-el7)
-- [How do I stop my coding agent from repeating the same mistake?](https://dev.to/rambozambo/how-do-i-stop-my-coding-agent-from-repeating-the-same-mistake-36mm)
-- [Rive vs Exode: Two Very Different Answers to the Same Word, &#39;State Machine&#39;](https://dev.to/shinoj_cm_6b559b3ab51bf47/rive-vs-exode-two-very-different-answers-to-the-same-word-state-machine-2gk9)
-- [How to Write Text That Sounds Great When Spoken by AI](https://dev.to/voice_developer/how-to-write-text-that-sounds-great-when-spoken-by-ai-3ek8)
+- [Getting 12 testers is the easy part: what 1,500+ Google Play closed tests taught us about tester activity](https://dev.to/codesky7/getting-12-testers-is-the-easy-part-what-1500-google-play-closed-tests-taught-us-about-tester-2f3l)
+- [Storage Object API Returned Malformed Responses While Uploading Resized Images: A Retention Boundary](https://dev.to/evanshepherd8274/storage-object-api-returned-malformed-responses-while-uploading-resized-images-a-retention-boundary-h9e)
+- [How to Answer &#39;Tell Me About Yourself&#39; in a Scrum Master Interview](https://dev.to/aiflowpm/how-to-answer-tell-me-about-yourself-in-a-scrum-master-interview-31jf)
+- [Part 29: Agent cards in practice](https://dev.to/thasha/part-29-agent-cards-in-practice-1oe9)
 <!-- BLOG-POST-LIST:END -->
 
