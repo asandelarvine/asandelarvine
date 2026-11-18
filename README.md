@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting 12 testers is the easy part: what 1,500+ Google Play closed tests taught us about tester activity](https://dev.to/codesky7/getting-12-testers-is-the-easy-part-what-1500-google-play-closed-tests-taught-us-about-tester-2f3l)
-- [Storage Object API Returned Malformed Responses While Uploading Resized Images: A Retention Boundary](https://dev.to/evanshepherd8274/storage-object-api-returned-malformed-responses-while-uploading-resized-images-a-retention-boundary-h9e)
-- [How to Answer &#39;Tell Me About Yourself&#39; in a Scrum Master Interview](https://dev.to/aiflowpm/how-to-answer-tell-me-about-yourself-in-a-scrum-master-interview-31jf)
-- [Part 29: Agent cards in practice](https://dev.to/thasha/part-29-agent-cards-in-practice-1oe9)
+- [Reduce meetings: a meeting audit for dev teams](https://dev.to/sascha-ms/reduce-meetings-a-meeting-audit-for-dev-teams-4jc2)
+- [GPT-6.2 Astra and Sol: Cheaper, Shorter Answers, and the Fine Print](https://dev.to/tokely/gpt-62-astra-and-sol-cheaper-shorter-answers-and-the-fine-print-4a9l)
+- [&quot;Claude Code&#39;s PreToolUse Hook Only Blocks a Tool Call on Exit Code 2, and Every Other Failure Mode Lets It Run Anyway&quot;](https://dev.to/enjoy_kumawat/claude-codes-pretooluse-hook-only-blocks-a-tool-call-on-exit-code-2-and-every-other-failure-mode-4ka2)
+- [C4 dinâmico | O que aconteceu entre o pedido e a confirmação?](https://dev.to/sophie-pyxis/c4-dinamico-o-que-aconteceu-entre-o-pedido-e-a-confirmacao-1hjp)
 <!-- BLOG-POST-LIST:END -->
 
