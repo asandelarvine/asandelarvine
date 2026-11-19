@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Blocked due to other 4xx issue&quot; in Search Console: 11 pages, all 200, last crawl 6 weeks ago](https://dev.to/ricco020/blocked-due-to-other-4xx-issue-in-search-console-11-pages-all-200-last-crawl-6-weeks-ago-3hld)
-- [Node.js Image Thumbnail Uploads to S3-Compatible Storage: Presigned Private Downloads](https://dev.to/zachariahholloway9058/nodejs-image-thumbnail-uploads-to-s3-compatible-storage-presigned-private-downloads-2lh)
-- [JavaScript Closures: How Functions Remember Their Variables](https://dev.to/sowntharya/javascript-closures-how-functions-remember-their-variables-2398)
-- [Start MeowShield variable renaming at Normal or Hexadecimal, not the most exotic alphabet](https://dev.to/veilvm/start-meowshield-variable-renaming-at-normal-or-hexadecimal-not-the-most-exotic-alphabet-1oki)
+- [Como instalar o Coolify numa VPS Ubuntu](https://dev.to/nuvits/como-instalar-o-coolify-numa-vps-ubuntu-3p8i)
+- [The n8n webhook shows localhost:5678](https://dev.to/nuvits/the-n8n-webhook-shows-localhost5678-3j86)
+- [357 type aliases, zero interfaces, and the only interface in our codebase belongs to the browser](https://dev.to/daniel_pertu/357-type-aliases-zero-interfaces-and-the-only-interface-in-our-codebase-belongs-to-the-browser-35a6)
+- [Part 4 — Databases &amp; Storage: What Happens When a Query Runs?](https://dev.to/heyitsalok/part-4-databases-storage-what-happens-when-a-query-runs-g2l)
 <!-- BLOG-POST-LIST:END -->
 
