@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Check Your NGINX HTTP/2 Config Before Attackers Do](https://dev.to/robust_true_try/check-your-nginx-http2-config-before-attackers-do-2e5k)
-- [Embeddings and vector databases, explained with one small piece of arithmetic](https://dev.to/deployedlabs/embeddings-and-vector-databases-explained-with-one-small-piece-of-arithmetic-5h42)
-- [SearchBlox Admin APIs and Consoles Share One High-Value Boundary](https://dev.to/bianliang/searchblox-admin-apis-and-consoles-share-one-high-value-boundary-10a)
-- [Generate a custom OpenAI API example without putting a key in your browser](https://dev.to/cheapclankers/generate-a-custom-openai-api-example-without-putting-a-key-in-your-browser-1fl1)
+- [&quot;Blocked due to other 4xx issue&quot; in Search Console: 11 pages, all 200, last crawl 6 weeks ago](https://dev.to/ricco020/blocked-due-to-other-4xx-issue-in-search-console-11-pages-all-200-last-crawl-6-weeks-ago-3hld)
+- [Node.js Image Thumbnail Uploads to S3-Compatible Storage: Presigned Private Downloads](https://dev.to/zachariahholloway9058/nodejs-image-thumbnail-uploads-to-s3-compatible-storage-presigned-private-downloads-2lh)
+- [JavaScript Closures: How Functions Remember Their Variables](https://dev.to/sowntharya/javascript-closures-how-functions-remember-their-variables-2398)
+- [Start MeowShield variable renaming at Normal or Hexadecimal, not the most exotic alphabet](https://dev.to/veilvm/start-meowshield-variable-renaming-at-normal-or-hexadecimal-not-the-most-exotic-alphabet-1oki)
 <!-- BLOG-POST-LIST:END -->
 
