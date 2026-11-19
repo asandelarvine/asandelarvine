@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Como instalar o Coolify numa VPS Ubuntu](https://dev.to/nuvits/como-instalar-o-coolify-numa-vps-ubuntu-3p8i)
-- [The n8n webhook shows localhost:5678](https://dev.to/nuvits/the-n8n-webhook-shows-localhost5678-3j86)
-- [357 type aliases, zero interfaces, and the only interface in our codebase belongs to the browser](https://dev.to/daniel_pertu/357-type-aliases-zero-interfaces-and-the-only-interface-in-our-codebase-belongs-to-the-browser-35a6)
-- [Part 4 — Databases &amp; Storage: What Happens When a Query Runs?](https://dev.to/heyitsalok/part-4-databases-storage-what-happens-when-a-query-runs-g2l)
+- [5 Real Bugs We Fixed Hardening a Zero-Dependency Node.js MCP Client](https://dev.to/nmorestd/5-real-bugs-we-fixed-hardening-a-zero-dependency-nodejs-mcp-client-1k4c)
+- [An AI sales assistant on Telegram that knows when to hand off](https://dev.to/gfirik/an-ai-sales-assistant-on-telegram-that-knows-when-to-hand-off-1pe1)
+- [Go Dispatch Rehearsals Explained — Property Welcome Email Templates and Suppression Lists](https://dev.to/carterhughes6853/go-dispatch-rehearsals-explained-property-welcome-email-templates-and-suppression-lists-aej)
+- [Why No Man&#39;s Sky Bet on a Custom Engine: The Procedural Math Behind 18 Quintillion Planets](https://dev.to/wlz/why-no-mans-sky-bet-on-a-custom-engine-the-procedural-math-behind-18-quintillion-planets-3gng)
 <!-- BLOG-POST-LIST:END -->
 
