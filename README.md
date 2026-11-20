@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [DMARC Monitoring With Node.js: Parse Aggregate Reports and Find Failing Senders in 60 Lines](https://dev.to/emaildigit/dmarc-monitoring-with-nodejs-parse-aggregate-reports-and-find-failing-senders-in-60-lines-2g6e)
-- [UPC-A, EAN-13 and GTIN-14: Leading Zeros Are Not Decoration](https://dev.to/fancy39_9841cbc02f99f729c/upc-a-ean-13-and-gtin-14-leading-zeros-are-not-decoration-4i2p)
-- [How to Split a Storyboard Grid and Test a Shot in Motion](https://dev.to/lee_xiaoyuan_a97212d2f33b/how-to-split-a-storyboard-grid-and-test-a-shot-in-motion-48oa)
-- [Don&#39;t Abort the Whole Batch: Per-Photo Errors, Temp Files, and Cancel-Safe Exports in Swift](https://dev.to/maxwelldispatch/dont-abort-the-whole-batch-per-photo-errors-temp-files-and-cancel-safe-exports-in-swift-2f6h)
+- [Which open models actually fit a 12 GB card? We measured instead of guessing](https://dev.to/aicomputeradar/which-open-models-actually-fit-a-12-gb-card-we-measured-instead-of-guessing-m0p)
+- [GA4 Consent Mode Gap: Counting Sales It Hides](https://dev.to/iurii_rogulia/ga4-consent-mode-gap-counting-sales-it-hides-30hd)
+- [Test your Android app with Claude Code on a cloud phone](https://dev.to/mobilebox/test-your-android-app-with-claude-code-on-a-cloud-phone-18pk)
+- [How to Add Google Analytics 4 to a Chrome Extension &lpar;Without Breaking It&rpar;](https://dev.to/aman_ranjanverma_c60af4b/how-to-add-google-analytics-4-to-a-chrome-extension-without-breaking-it-1dl9)
 <!-- BLOG-POST-LIST:END -->
 
