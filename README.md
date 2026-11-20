@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Which open models actually fit a 12 GB card? We measured instead of guessing](https://dev.to/aicomputeradar/which-open-models-actually-fit-a-12-gb-card-we-measured-instead-of-guessing-m0p)
-- [GA4 Consent Mode Gap: Counting Sales It Hides](https://dev.to/iurii_rogulia/ga4-consent-mode-gap-counting-sales-it-hides-30hd)
-- [Test your Android app with Claude Code on a cloud phone](https://dev.to/mobilebox/test-your-android-app-with-claude-code-on-a-cloud-phone-18pk)
-- [How to Add Google Analytics 4 to a Chrome Extension &lpar;Without Breaking It&rpar;](https://dev.to/aman_ranjanverma_c60af4b/how-to-add-google-analytics-4-to-a-chrome-extension-without-breaking-it-1dl9)
+- [From a messy CSV export to a release note: one task, nine small browser tools](https://dev.to/theomnikit/from-a-messy-csv-export-to-a-release-note-one-task-nine-small-browser-tools-4a00)
+- [How Promises Work: Building a Promise Core in TypeScript](https://dev.to/nodaldot/how-promises-work-building-a-promise-core-in-typescript-1p7l)
+- [Give Your AI Assistant Amazon Price History with an MCP Server &lpar;Setup + a Simple Buy-or-Wait Check&rpar;](https://dev.to/aidev01/give-your-ai-assistant-amazon-price-history-with-an-mcp-server-setup-a-simple-buy-or-wait-check-1eke)
+- [AdamW: Why Decoupling Weight Decay from the Gradient Fixes Adam](https://dev.to/umeshtharukaofficial/adamw-why-decoupling-weight-decay-from-the-gradient-fixes-adam-3i1g)
 <!-- BLOG-POST-LIST:END -->
 
