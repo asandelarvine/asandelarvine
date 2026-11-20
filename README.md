@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Real Bugs We Fixed Hardening a Zero-Dependency Node.js MCP Client](https://dev.to/nmorestd/5-real-bugs-we-fixed-hardening-a-zero-dependency-nodejs-mcp-client-1k4c)
-- [An AI sales assistant on Telegram that knows when to hand off](https://dev.to/gfirik/an-ai-sales-assistant-on-telegram-that-knows-when-to-hand-off-1pe1)
-- [Go Dispatch Rehearsals Explained — Property Welcome Email Templates and Suppression Lists](https://dev.to/carterhughes6853/go-dispatch-rehearsals-explained-property-welcome-email-templates-and-suppression-lists-aej)
-- [Why No Man&#39;s Sky Bet on a Custom Engine: The Procedural Math Behind 18 Quintillion Planets](https://dev.to/wlz/why-no-mans-sky-bet-on-a-custom-engine-the-procedural-math-behind-18-quintillion-planets-3gng)
+- [DMARC Monitoring With Node.js: Parse Aggregate Reports and Find Failing Senders in 60 Lines](https://dev.to/emaildigit/dmarc-monitoring-with-nodejs-parse-aggregate-reports-and-find-failing-senders-in-60-lines-2g6e)
+- [UPC-A, EAN-13 and GTIN-14: Leading Zeros Are Not Decoration](https://dev.to/fancy39_9841cbc02f99f729c/upc-a-ean-13-and-gtin-14-leading-zeros-are-not-decoration-4i2p)
+- [How to Split a Storyboard Grid and Test a Shot in Motion](https://dev.to/lee_xiaoyuan_a97212d2f33b/how-to-split-a-storyboard-grid-and-test-a-shot-in-motion-48oa)
+- [Don&#39;t Abort the Whole Batch: Per-Photo Errors, Temp Files, and Cancel-Safe Exports in Swift](https://dev.to/maxwelldispatch/dont-abort-the-whole-batch-per-photo-errors-temp-files-and-cancel-safe-exports-in-swift-2f6h)
 <!-- BLOG-POST-LIST:END -->
 
