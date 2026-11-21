@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How Agile Teams Turn Weaknesses Into Delivery Superpowers](https://dev.to/aiflowpm/how-agile-teams-turn-weaknesses-into-delivery-superpowers-1k5f)
-- [Scaling APIs Securely: Implementing Distributed Rate Limiting with Redis &amp; Node.js](https://dev.to/mtahir27/scaling-apis-securely-implementing-distributed-rate-limiting-with-redis-nodejs-550d)
-- [How I find newly incorporated UK companies by industry and postcode, using the free Companies House bulk data](https://dev.to/dedicated_crest/how-i-find-newly-incorporated-uk-companies-by-industry-and-postcode-using-the-free-companies-house-42l1)
-- [Designing a Cost-Per-Use Tracker for Android: Calculations, State and Data Integrity](https://dev.to/tsidevstudio01/designing-a-cost-per-use-tracker-for-android-calculations-state-and-data-integrity-5b8c)
+- [When Does Semaglutide Form Fibrils? What Circular Dichroism Can Tell You](https://dev.to/dessygil/when-does-semaglutide-form-fibrils-what-circular-dichroism-can-tell-you-301l)
+- [One Prompt, 18 Visual Styles: How I Proved My Short-Video Identities Are Actually Different](https://dev.to/hamdi_laadhari/one-prompt-18-visual-styles-how-i-proved-my-short-video-identities-are-actually-different-1b3b)
+- [Nvidia without Jensen Huang: the resignation, the earnings and the GPU/CUDA concentration risk](https://dev.to/dunirvana/nvidia-without-jensen-huang-the-resignation-the-earnings-and-the-gpucuda-concentration-risk-1o8f)
+- [spov: OpenCode in disposable Modal sandboxes](https://dev.to/jimutt/spov-opencode-in-disposable-modal-sandboxes-40ib)
 <!-- BLOG-POST-LIST:END -->
 
