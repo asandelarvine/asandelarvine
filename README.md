@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [From a messy CSV export to a release note: one task, nine small browser tools](https://dev.to/theomnikit/from-a-messy-csv-export-to-a-release-note-one-task-nine-small-browser-tools-4a00)
-- [How Promises Work: Building a Promise Core in TypeScript](https://dev.to/nodaldot/how-promises-work-building-a-promise-core-in-typescript-1p7l)
-- [Give Your AI Assistant Amazon Price History with an MCP Server &lpar;Setup + a Simple Buy-or-Wait Check&rpar;](https://dev.to/aidev01/give-your-ai-assistant-amazon-price-history-with-an-mcp-server-setup-a-simple-buy-or-wait-check-1eke)
-- [AdamW: Why Decoupling Weight Decay from the Gradient Fixes Adam](https://dev.to/umeshtharukaofficial/adamw-why-decoupling-weight-decay-from-the-gradient-fixes-adam-3i1g)
+- [Who called me about a faulty meter? Validating an identifier is not verifying it](https://dev.to/whocallmeuknotes/who-called-me-about-a-faulty-meter-validating-an-identifier-is-not-verifying-it-56m4)
+- [Preventing Out-of-Memory Crashes When Deserializing Massive JSON Payloads: A Deep Dive into Streaming Architecture](https://dev.to/toai/preventing-out-of-memory-crashes-when-deserializing-massive-json-payloads-a-deep-dive-into-4fd0)
+- [My first signed-in user imported 68 channels and 23 came up empty](https://dev.to/parkkh/my-first-signed-in-user-imported-68-channels-and-23-came-up-empty-h50)
+- [Same Moon: IA que cria contos multilíngues para crianças refugiadas](https://dev.to/leojulieta/same-moon-ia-que-cria-contos-multilingues-para-criancas-refugiadas-19kh)
 <!-- BLOG-POST-LIST:END -->
 
