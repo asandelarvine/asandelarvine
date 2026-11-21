@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Who called me about a faulty meter? Validating an identifier is not verifying it](https://dev.to/whocallmeuknotes/who-called-me-about-a-faulty-meter-validating-an-identifier-is-not-verifying-it-56m4)
-- [Preventing Out-of-Memory Crashes When Deserializing Massive JSON Payloads: A Deep Dive into Streaming Architecture](https://dev.to/toai/preventing-out-of-memory-crashes-when-deserializing-massive-json-payloads-a-deep-dive-into-4fd0)
-- [My first signed-in user imported 68 channels and 23 came up empty](https://dev.to/parkkh/my-first-signed-in-user-imported-68-channels-and-23-came-up-empty-h50)
-- [Same Moon: IA que cria contos multilíngues para crianças refugiadas](https://dev.to/leojulieta/same-moon-ia-que-cria-contos-multilingues-para-criancas-refugiadas-19kh)
+- [My Agent Signs Real Transactions. I Don&#39;t Trust It — I Verify It.](https://dev.to/babejoged/my-agent-signs-real-transactions-i-dont-trust-it-i-verify-it-2j0k)
+- [Building a Fully Automated CI/CD Pipeline on AWS with Docker, ECR, CodeBuild, CodePipeline and ECS Fargate](https://dev.to/ali_zaib_c01cd62f030d446f/building-a-fully-automated-cicd-pipeline-on-aws-with-docker-ecr-codebuild-codepipeline-and-ecs-3753)
+- [Estimating Popularity Without Collecting a Single Answer](https://dev.to/andystanly/estimating-popularity-without-collecting-a-single-answer-5675)
+- [Reading Telegram&#39;s gift catalogue with the Bot API: getAvailableGifts, prices and supply](https://dev.to/giftclub/reading-telegrams-gift-catalogue-with-the-bot-api-getavailablegifts-prices-and-supply-9jd)
 <!-- BLOG-POST-LIST:END -->
 
