@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Word Lists Are the Hard Part: Building a Four-Letter Graph by Hand](https://dev.to/poopleunlimited/word-lists-are-the-hard-part-building-a-four-letter-graph-by-hand-4m90)
-- [Small SaaS Europe-US: Public HTTPS Webhook Push, Queue Subscribe, or Polling Worker](https://dev.to/eliasfischer8351/small-saas-europe-us-public-https-webhook-push-queue-subscribe-or-polling-worker-5eca)
-- [Protect the module that holds your logic, not the vendor code around it](https://dev.to/veilvm/protect-the-module-that-holds-your-logic-not-the-vendor-code-around-it-o53)
-- [Scan your bundle for secrets before you obfuscate it: obfuscation will not make a leaked key safe](https://dev.to/veilvm/scan-your-bundle-for-secrets-before-you-obfuscate-it-obfuscation-will-not-make-a-leaked-key-safe-54b8)
+- [How a Local-Timezone Cron Skipped One Hour on the Night the Clocks Went Back and Under-Billed 212 Customers](https://dev.to/darshan_turakhia/how-a-local-timezone-cron-skipped-one-hour-on-the-night-the-clocks-went-back-and-under-billed-212-127g)
+- [Jarvis PowerShell: Building a Read-Only-by-Default PowerShell-Style CLI in Pure Python](https://dev.to/dreemux/jarvis-powershell-building-a-read-only-by-default-powershell-style-cli-in-pure-python-4ai2)
+- [Prompt rules are suggestions — the two guardrails I actually enforce on my coding agents &lpar;and the payment-readiness audit&rpar;](https://dev.to/nexusfoundry/prompt-rules-are-suggestions-the-two-guardrails-i-actually-enforce-on-my-coding-agents-and-the-110p)
+- [Error states that explain instead of blame: writing the &quot;this link did not work&quot; message](https://dev.to/mobeenahmedgondal/error-states-that-explain-instead-of-blame-writing-the-this-link-did-not-work-message-1dnh)
 <!-- BLOG-POST-LIST:END -->
 
