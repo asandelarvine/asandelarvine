@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How a Local-Timezone Cron Skipped One Hour on the Night the Clocks Went Back and Under-Billed 212 Customers](https://dev.to/darshan_turakhia/how-a-local-timezone-cron-skipped-one-hour-on-the-night-the-clocks-went-back-and-under-billed-212-127g)
-- [Jarvis PowerShell: Building a Read-Only-by-Default PowerShell-Style CLI in Pure Python](https://dev.to/dreemux/jarvis-powershell-building-a-read-only-by-default-powershell-style-cli-in-pure-python-4ai2)
-- [Prompt rules are suggestions — the two guardrails I actually enforce on my coding agents &lpar;and the payment-readiness audit&rpar;](https://dev.to/nexusfoundry/prompt-rules-are-suggestions-the-two-guardrails-i-actually-enforce-on-my-coding-agents-and-the-110p)
-- [Error states that explain instead of blame: writing the &quot;this link did not work&quot; message](https://dev.to/mobeenahmedgondal/error-states-that-explain-instead-of-blame-writing-the-this-link-did-not-work-message-1dnh)
+- [Kuberhealthy&#39;s check reports are a small but real authentication surface](https://dev.to/facilishz/kuberhealthys-check-reports-are-a-small-but-real-authentication-surface-481l)
+- [How an SMM panel actually works &lpar;and three ways to build one&rpar;](https://dev.to/wholesmm/how-an-smm-panel-actually-works-and-three-ways-to-build-one-jd4)
+- [Inkling 2 Mini vs Qwen3.8-27B and Arete-27B on agent tasks](https://dev.to/jacek_garbuliski/inkling-2-mini-vs-qwen38-27b-and-arete-27b-on-agent-tasks-54ii)
+- [P8 - Certificados, DNS y discos en OKE: los operadores que hacen que una app nueva se publique sola](https://dev.to/matugg18/p8-certificados-dns-y-discos-en-oke-los-operadores-que-hacen-que-una-app-nueva-se-publique-sola-4bjg)
 <!-- BLOG-POST-LIST:END -->
 
