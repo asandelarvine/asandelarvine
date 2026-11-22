@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [When Does Semaglutide Form Fibrils? What Circular Dichroism Can Tell You](https://dev.to/dessygil/when-does-semaglutide-form-fibrils-what-circular-dichroism-can-tell-you-301l)
-- [One Prompt, 18 Visual Styles: How I Proved My Short-Video Identities Are Actually Different](https://dev.to/hamdi_laadhari/one-prompt-18-visual-styles-how-i-proved-my-short-video-identities-are-actually-different-1b3b)
-- [Nvidia without Jensen Huang: the resignation, the earnings and the GPU/CUDA concentration risk](https://dev.to/dunirvana/nvidia-without-jensen-huang-the-resignation-the-earnings-and-the-gpucuda-concentration-risk-1o8f)
-- [spov: OpenCode in disposable Modal sandboxes](https://dev.to/jimutt/spov-opencode-in-disposable-modal-sandboxes-40ib)
+- [Word Lists Are the Hard Part: Building a Four-Letter Graph by Hand](https://dev.to/poopleunlimited/word-lists-are-the-hard-part-building-a-four-letter-graph-by-hand-4m90)
+- [Small SaaS Europe-US: Public HTTPS Webhook Push, Queue Subscribe, or Polling Worker](https://dev.to/eliasfischer8351/small-saas-europe-us-public-https-webhook-push-queue-subscribe-or-polling-worker-5eca)
+- [Protect the module that holds your logic, not the vendor code around it](https://dev.to/veilvm/protect-the-module-that-holds-your-logic-not-the-vendor-code-around-it-o53)
+- [Scan your bundle for secrets before you obfuscate it: obfuscation will not make a leaked key safe](https://dev.to/veilvm/scan-your-bundle-for-secrets-before-you-obfuscate-it-obfuscation-will-not-make-a-leaked-key-safe-54b8)
 <!-- BLOG-POST-LIST:END -->
 
