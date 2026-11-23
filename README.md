@@ -79,13 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Similar-App Discovery in Elixir: Search Snowballing, Description Shingles and Jaccard, and the Walls You&#39;ll Hit &lpar;2026&rpar;](https://dev.to/fekdaoui_/similar-app-discovery-in-elixir-search-snowballing-description-shingles-and-jaccard-and-the-fbm)
-- [Your AI-built website looks fine. Here is how to check what Google actually reads](https://dev.to/manhdigital68/your-ai-built-website-looks-fine-here-is-how-to-check-what-google-actually-reads-3be5)
-- [From Shop Floor to Project Pipeline: What Consumer Durables Trade Marketing Still Teaches B2B Teams](https://dev.to/khalednasrmba/from-shop-floor-to-project-pipeline-what-consumer-durables-trade-marketing-still-teaches-b2b-teams-2o69)
-- [Starting My Journey into Software Engineering 🚀
-
-Hello, DEV Community!
-
-I&#39;m a beginner in software engineering, and I&#39;m working towards becoming a professional programmer and AI developer. I put everything in God&#39;s hands 🙏](https://dev.to/veron123/starting-my-journey-into-software-engineering-hello-dev-community-im-a-beginner-in-software-51l9)
+- [Presenting Our Research on Computer Vision for Arthropod Detection at IEEE LACCI 2026](https://dev.to/pmc3/presenting-our-research-on-computer-vision-for-arthropod-detection-at-ieee-lacci-2026-3bf9)
+- [The State of x402 AI Agent Payments: Market Data from Running 90 APIs, Entry Strategies, and Building on AWS](https://dev.to/tarokagurazaka/the-state-of-x402-ai-agent-payments-market-data-from-running-90-apis-entry-strategies-and-68p)
+- [OffSec Assessment: Startup &lpar;TryHackMe&rpar; — Penetration Testing Report](https://dev.to/araizcorp/offsec-assessment-startup-tryhackme-penetration-testing-report-5cbi)
+- [The U.S. AI Meeting Assistants Market: Growth, Consolidation, and Where the Money Actually Goes](https://dev.to/julianebova/the-us-ai-meeting-assistants-market-growth-consolidation-and-where-the-money-actually-goes-3oc7)
 <!-- BLOG-POST-LIST:END -->
 
