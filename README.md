@@ -79,9 +79,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Sovereign Stack: Decomposing China’s Red-Chip Listing Ban Through Deterministic Systems Engineering](https://dev.to/sharathjapa/the-sovereign-stack-decomposing-chinas-red-chip-listing-ban-through-deterministic-systems-1f61)
-- [Building an Axios-based Supabase auth client in React Native](https://dev.to/warrendeleon/building-an-axios-based-supabase-auth-client-in-react-native-4k29)
-- [Local AI Is a Systems Problem, Not Just a Model Choice](https://dev.to/vikassri/local-ai-is-a-systems-problem-not-just-a-model-choice-a15)
-- [Binary Rewards and the Robotics Abyss: Solving Sparse Feedback with Deterministic Orchestration](https://dev.to/sharathjapa/binary-rewards-and-the-robotics-abyss-solving-sparse-feedback-with-deterministic-orchestration-48k7)
+- [Similar-App Discovery in Elixir: Search Snowballing, Description Shingles and Jaccard, and the Walls You&#39;ll Hit &lpar;2026&rpar;](https://dev.to/fekdaoui_/similar-app-discovery-in-elixir-search-snowballing-description-shingles-and-jaccard-and-the-fbm)
+- [Your AI-built website looks fine. Here is how to check what Google actually reads](https://dev.to/manhdigital68/your-ai-built-website-looks-fine-here-is-how-to-check-what-google-actually-reads-3be5)
+- [From Shop Floor to Project Pipeline: What Consumer Durables Trade Marketing Still Teaches B2B Teams](https://dev.to/khalednasrmba/from-shop-floor-to-project-pipeline-what-consumer-durables-trade-marketing-still-teaches-b2b-teams-2o69)
+- [Starting My Journey into Software Engineering 🚀
+
+Hello, DEV Community!
+
+I&#39;m a beginner in software engineering, and I&#39;m working towards becoming a professional programmer and AI developer. I put everything in God&#39;s hands 🙏](https://dev.to/veron123/starting-my-journey-into-software-engineering-hello-dev-community-im-a-beginner-in-software-51l9)
 <!-- BLOG-POST-LIST:END -->
 
