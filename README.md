@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Kuberhealthy&#39;s check reports are a small but real authentication surface](https://dev.to/facilishz/kuberhealthys-check-reports-are-a-small-but-real-authentication-surface-481l)
-- [How an SMM panel actually works &lpar;and three ways to build one&rpar;](https://dev.to/wholesmm/how-an-smm-panel-actually-works-and-three-ways-to-build-one-jd4)
-- [Inkling 2 Mini vs Qwen3.8-27B and Arete-27B on agent tasks](https://dev.to/jacek_garbuliski/inkling-2-mini-vs-qwen38-27b-and-arete-27b-on-agent-tasks-54ii)
-- [P8 - Certificados, DNS y discos en OKE: los operadores que hacen que una app nueva se publique sola](https://dev.to/matugg18/p8-certificados-dns-y-discos-en-oke-los-operadores-que-hacen-que-una-app-nueva-se-publique-sola-4bjg)
+- [The Sovereign Stack: Decomposing China’s Red-Chip Listing Ban Through Deterministic Systems Engineering](https://dev.to/sharathjapa/the-sovereign-stack-decomposing-chinas-red-chip-listing-ban-through-deterministic-systems-1f61)
+- [Building an Axios-based Supabase auth client in React Native](https://dev.to/warrendeleon/building-an-axios-based-supabase-auth-client-in-react-native-4k29)
+- [Local AI Is a Systems Problem, Not Just a Model Choice](https://dev.to/vikassri/local-ai-is-a-systems-problem-not-just-a-model-choice-a15)
+- [Binary Rewards and the Robotics Abyss: Solving Sparse Feedback with Deterministic Orchestration](https://dev.to/sharathjapa/binary-rewards-and-the-robotics-abyss-solving-sparse-feedback-with-deterministic-orchestration-48k7)
 <!-- BLOG-POST-LIST:END -->
 
