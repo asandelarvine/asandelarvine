@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Presenting Our Research on Computer Vision for Arthropod Detection at IEEE LACCI 2026](https://dev.to/pmc3/presenting-our-research-on-computer-vision-for-arthropod-detection-at-ieee-lacci-2026-3bf9)
-- [The State of x402 AI Agent Payments: Market Data from Running 90 APIs, Entry Strategies, and Building on AWS](https://dev.to/tarokagurazaka/the-state-of-x402-ai-agent-payments-market-data-from-running-90-apis-entry-strategies-and-68p)
-- [OffSec Assessment: Startup &lpar;TryHackMe&rpar; — Penetration Testing Report](https://dev.to/araizcorp/offsec-assessment-startup-tryhackme-penetration-testing-report-5cbi)
-- [The U.S. AI Meeting Assistants Market: Growth, Consolidation, and Where the Money Actually Goes](https://dev.to/julianebova/the-us-ai-meeting-assistants-market-growth-consolidation-and-where-the-money-actually-goes-3oc7)
+- [A one-line request is not enough to change a homepage](https://dev.to/sam_novak_574b07811e18495/a-one-line-request-is-not-enough-to-change-a-homepage-3c1m)
+- [How to close CVE-2026-99312 by disabling nested virtualization safely](https://dev.to/bianliang/how-to-close-cve-2026-99312-by-disabling-nested-virtualization-safely-18pj)
+- [OpenAI Python SDK stream hangs on base_url switch](https://dev.to/paipizze/openai-python-sdk-stream-hangs-on-baseurl-switch-333j)
+- [AirLLM Explained: How a 4GB GPU Runs a 2.8T Model, and What Each Token Costs](https://dev.to/jamilxt/airllm-explained-how-a-4gb-gpu-runs-a-28t-model-and-what-each-token-costs-44ad)
 <!-- BLOG-POST-LIST:END -->
 
