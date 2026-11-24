@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [A one-line request is not enough to change a homepage](https://dev.to/sam_novak_574b07811e18495/a-one-line-request-is-not-enough-to-change-a-homepage-3c1m)
-- [How to close CVE-2026-99312 by disabling nested virtualization safely](https://dev.to/bianliang/how-to-close-cve-2026-99312-by-disabling-nested-virtualization-safely-18pj)
-- [OpenAI Python SDK stream hangs on base_url switch](https://dev.to/paipizze/openai-python-sdk-stream-hangs-on-baseurl-switch-333j)
-- [AirLLM Explained: How a 4GB GPU Runs a 2.8T Model, and What Each Token Costs](https://dev.to/jamilxt/airllm-explained-how-a-4gb-gpu-runs-a-28t-model-and-what-each-token-costs-44ad)
+- [Three small tools, three lessons](https://dev.to/ayushwing/three-small-tools-three-lessons-29d9)
+- [Private SaaS User Documents: Choosing Object Storage and Presigned Download Links](https://dev.to/nilsberg2187/private-saas-user-documents-choosing-object-storage-and-presigned-download-links-db8)
+- [Transactional Email Deliverability Setup: Custom Domain Receipts With Owned Templates](https://dev.to/rasmusberg6592/transactional-email-deliverability-setup-custom-domain-receipts-with-owned-templates-1276)
+- [Build a Stories of the Prophets &amp; Sahaba CLI in Rust &lpar;serde + ureq, offline cache, 9 languages&rpar;](https://dev.to/sunnahsource/build-a-stories-of-the-prophets-sahaba-cli-in-rust-serde-ureq-offline-cache-9-languages-2a5n)
 <!-- BLOG-POST-LIST:END -->
 
