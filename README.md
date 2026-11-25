@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Three small tools, three lessons](https://dev.to/ayushwing/three-small-tools-three-lessons-29d9)
-- [Private SaaS User Documents: Choosing Object Storage and Presigned Download Links](https://dev.to/nilsberg2187/private-saas-user-documents-choosing-object-storage-and-presigned-download-links-db8)
-- [Transactional Email Deliverability Setup: Custom Domain Receipts With Owned Templates](https://dev.to/rasmusberg6592/transactional-email-deliverability-setup-custom-domain-receipts-with-owned-templates-1276)
-- [Build a Stories of the Prophets &amp; Sahaba CLI in Rust &lpar;serde + ureq, offline cache, 9 languages&rpar;](https://dev.to/sunnahsource/build-a-stories-of-the-prophets-sahaba-cli-in-rust-serde-ureq-offline-cache-9-languages-2a5n)
+- [I Completed OpenAI Academy&#39;s Get Started with Codex 🎉](https://dev.to/harry_jees/i-completed-openai-academys-get-started-with-codex-43m)
+- [How to Automate Stateful Headless Browsers With Cloudflare Browser Run /script](https://dev.to/mango7777/how-to-automate-stateful-headless-browsers-with-cloudflare-browser-run-script-4fag)
+- [Building a floating Markdown notebook with calculations and Vim on macOS](https://dev.to/dofy/building-a-floating-markdown-notebook-with-calculations-and-vim-on-macos-2f2p)
+- [Structured Output &amp; Function Calling Under Stress: 5 Production Failure Modes Across 201 Calls](https://dev.to/wangguode/structured-output-function-calling-under-stress-5-production-failure-modes-across-201-calls-62e)
 <!-- BLOG-POST-LIST:END -->
 
