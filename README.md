@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [How a Browser Extension Hands a Link to a Desktop App: Native Messaging Lessons](https://dev.to/jeffreysanchez_adm/how-a-browser-extension-hands-a-link-to-a-desktop-app-native-messaging-lessons-60c)
-- [DotShare 3.8.1: Charging for X posts like a card payment](https://dev.to/freerave/dotshare-381-charging-for-x-posts-like-a-card-payment-512p)
-- [Flutter reconnect catch-up: the chat that stayed blank](https://dev.to/frankmilvus/flutter-reconnect-catch-up-the-chat-that-stayed-blank-mm8)
-- [OpenAI and Cisco Open-Source Shirudo — Agent eBPF Shields Still Leave the Windows Capture Path to You](https://dev.to/madnessbrains_i/openai-and-cisco-open-source-shirudo-agent-ebpf-shields-still-leave-the-windows-capture-path-to-2e43)
+- [Fixing Grade-D Storefront Security Headers + Building Zero-Login ZATCA TLV QR Invoices on Cloudflare Pages](https://dev.to/antigravitydev/fixing-grade-d-storefront-security-headers-building-zero-login-zatca-tlv-qr-invoices-on-4i8p)
+- [Naemon&#39;s Tiny Fingerprint Still Represents a Monitoring Control Plane](https://dev.to/johnettagaweraks/naemons-tiny-fingerprint-still-represents-a-monitoring-control-plane-54ea)
+- [The Doorway Bit: Why a Readable Linux Directory Can Still Refuse Entry](https://dev.to/pbxqdown/the-doorway-bit-why-a-readable-linux-directory-can-still-refuse-entry-17b2)
+- [Crouch y capas de tronco superior con Motion Matching en Unreal Engine 5](https://dev.to/cocinando3d/crouch-y-capas-de-tronco-superior-con-motion-matching-en-unreal-engine-5-1am1)
 <!-- BLOG-POST-LIST:END -->
 
