@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Completed OpenAI Academy&#39;s Get Started with Codex 🎉](https://dev.to/harry_jees/i-completed-openai-academys-get-started-with-codex-43m)
-- [How to Automate Stateful Headless Browsers With Cloudflare Browser Run /script](https://dev.to/mango7777/how-to-automate-stateful-headless-browsers-with-cloudflare-browser-run-script-4fag)
-- [Building a floating Markdown notebook with calculations and Vim on macOS](https://dev.to/dofy/building-a-floating-markdown-notebook-with-calculations-and-vim-on-macos-2f2p)
-- [Structured Output &amp; Function Calling Under Stress: 5 Production Failure Modes Across 201 Calls](https://dev.to/wangguode/structured-output-function-calling-under-stress-5-production-failure-modes-across-201-calls-62e)
+- [How a Browser Extension Hands a Link to a Desktop App: Native Messaging Lessons](https://dev.to/jeffreysanchez_adm/how-a-browser-extension-hands-a-link-to-a-desktop-app-native-messaging-lessons-60c)
+- [DotShare 3.8.1: Charging for X posts like a card payment](https://dev.to/freerave/dotshare-381-charging-for-x-posts-like-a-card-payment-512p)
+- [Flutter reconnect catch-up: the chat that stayed blank](https://dev.to/frankmilvus/flutter-reconnect-catch-up-the-chat-that-stayed-blank-mm8)
+- [OpenAI and Cisco Open-Source Shirudo — Agent eBPF Shields Still Leave the Windows Capture Path to You](https://dev.to/madnessbrains_i/openai-and-cisco-open-source-shirudo-agent-ebpf-shields-still-leave-the-windows-capture-path-to-2e43)
 <!-- BLOG-POST-LIST:END -->
 
