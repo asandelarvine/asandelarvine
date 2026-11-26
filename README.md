@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Scheduling retries in a publishing pipeline #2dz20](https://dev.to/devnote2319/scheduling-retries-in-a-publishing-pipeline-2dz20-4ign)
-- [AI Audit Evidence, Part 9: One &quot;Not Executed&quot; Can Stand for Two Pasts](https://dev.to/rain6fish/ai-audit-evidence-part-9-one-not-executed-can-stand-for-two-pasts-joi)
-- [Building a multi-tenant real-estate CRM for Indian developers: 5 decisions we&#39;d make again](https://dev.to/sthancrm/building-a-multi-tenant-real-estate-crm-for-indian-developers-5-decisions-wed-make-again-4f1h)
-- [Acceptance criteria your AI coding agent can actually test](https://dev.to/web-dev-mehedi/acceptance-criteria-your-ai-coding-agent-can-actually-test-3l1e)
+- [Recriei o CVPorVaga só que gratuito](https://dev.to/matefs/recriei-o-cvporvaga-so-que-gratuito-abp)
+- [How to Use Claude &lpar;2026&rpar;](https://dev.to/tech4genz0/how-to-use-claude-2026-90b)
+- [Six Tax Calculators, Six Answers: Publishing the Math Instead of the Result](https://dev.to/selftaxlab/six-tax-calculators-six-answers-publishing-the-math-instead-of-the-result-3fgn)
+- [Which Path Does Your Filter See? A High Vulnerability in Axelix Master](https://dev.to/axelix-labs/which-path-does-your-filter-see-a-high-vulnerability-in-axelix-master-fbh)
 <!-- BLOG-POST-LIST:END -->
 
