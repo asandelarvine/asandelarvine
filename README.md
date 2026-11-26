@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Recriei o CVPorVaga só que gratuito](https://dev.to/matefs/recriei-o-cvporvaga-so-que-gratuito-abp)
-- [How to Use Claude &lpar;2026&rpar;](https://dev.to/tech4genz0/how-to-use-claude-2026-90b)
-- [Six Tax Calculators, Six Answers: Publishing the Math Instead of the Result](https://dev.to/selftaxlab/six-tax-calculators-six-answers-publishing-the-math-instead-of-the-result-3fgn)
-- [Which Path Does Your Filter See? A High Vulnerability in Axelix Master](https://dev.to/axelix-labs/which-path-does-your-filter-see-a-high-vulnerability-in-axelix-master-fbh)
+- [An HTTP and DNS audit of 100 SaaS domains found two HTML responses at llms-full.txt](https://dev.to/karpiom/an-http-and-dns-audit-of-100-saas-domains-found-two-html-responses-at-llms-fulltxt-45hg)
+- [The three numbers every freelancer should know by Friday](https://dev.to/dudu7x/the-three-numbers-every-freelancer-should-know-by-friday-4og2)
+- [Give Your AI Agent Its Own Wallet: Vlad Tenev&#39;s Blast-Radius Rule for Agents That Touch Money](https://dev.to/blobxiaoyao/give-your-ai-agent-its-own-wallet-vlad-tenevs-blast-radius-rule-for-agents-that-touch-money-4dgg)
+- [Screen the Hyperliquid leaderboard before you copy a trader, in Python](https://dev.to/copytop/screen-the-hyperliquid-leaderboard-before-you-copy-a-trader-in-python-30fp)
 <!-- BLOG-POST-LIST:END -->
 
