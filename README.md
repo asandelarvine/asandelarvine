@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [An HTTP and DNS audit of 100 SaaS domains found two HTML responses at llms-full.txt](https://dev.to/karpiom/an-http-and-dns-audit-of-100-saas-domains-found-two-html-responses-at-llms-fulltxt-45hg)
-- [The three numbers every freelancer should know by Friday](https://dev.to/dudu7x/the-three-numbers-every-freelancer-should-know-by-friday-4og2)
-- [Give Your AI Agent Its Own Wallet: Vlad Tenev&#39;s Blast-Radius Rule for Agents That Touch Money](https://dev.to/blobxiaoyao/give-your-ai-agent-its-own-wallet-vlad-tenevs-blast-radius-rule-for-agents-that-touch-money-4dgg)
-- [Screen the Hyperliquid leaderboard before you copy a trader, in Python](https://dev.to/copytop/screen-the-hyperliquid-leaderboard-before-you-copy-a-trader-in-python-30fp)
+- [UK AI Weekly: OpenAI’s cheaper models are making us ask whether…](https://dev.to/rpgbyters/uk-ai-weekly-openais-cheaper-models-are-making-us-ask-whether-11ig)
+- [How to run two Claude Code accounts on one machine &lpar;and what doesn&#39;t carry over&rpar;](https://dev.to/offrun/how-to-run-two-claude-code-accounts-on-one-machine-and-what-doesnt-carry-over-468b)
+- [Nextcloud &quot;file is locked&quot; &lpar;423 Locked&rpar;: fix](https://dev.to/mikweb2025design/nextcloud-file-is-locked-423-locked-fix-5fp0)
+- [Paperwork Killer: photograph a letter, send it by WhatsApp, and the workflow handles deadline and filing](https://dev.to/mikweb2025design/paperwork-killer-photograph-a-letter-send-it-by-whatsapp-and-the-workflow-handles-deadline-and-21o5)
 <!-- BLOG-POST-LIST:END -->
 
