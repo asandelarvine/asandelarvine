@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [UK AI Weekly: OpenAI’s cheaper models are making us ask whether…](https://dev.to/rpgbyters/uk-ai-weekly-openais-cheaper-models-are-making-us-ask-whether-11ig)
-- [How to run two Claude Code accounts on one machine &lpar;and what doesn&#39;t carry over&rpar;](https://dev.to/offrun/how-to-run-two-claude-code-accounts-on-one-machine-and-what-doesnt-carry-over-468b)
-- [Nextcloud &quot;file is locked&quot; &lpar;423 Locked&rpar;: fix](https://dev.to/mikweb2025design/nextcloud-file-is-locked-423-locked-fix-5fp0)
-- [Paperwork Killer: photograph a letter, send it by WhatsApp, and the workflow handles deadline and filing](https://dev.to/mikweb2025design/paperwork-killer-photograph-a-letter-send-it-by-whatsapp-and-the-workflow-handles-deadline-and-21o5)
+- [Frontend resume keywords belong in your bullets, not a tag cloud](https://dev.to/sarah_m/frontend-resume-keywords-belong-in-your-bullets-not-a-tag-cloud-3iap)
+- [Agent Memory Persistence: Redis, Vector DB, Hybrid Code](https://dev.to/devtoaaron/agent-memory-persistence-redis-vector-db-hybrid-code-1b8h)
+- [Build Feature Flags Service in Node for Auditable Toggle Functionality](https://dev.to/caspianhayes3586/build-feature-flags-service-in-node-for-auditable-toggle-functionality-59nj)
+- [Google Search AI Mode Begins Opt-In Personal Context Integrations](https://dev.to/franklinai/google-search-ai-mode-begins-opt-in-personal-context-integrations-349c)
 <!-- BLOG-POST-LIST:END -->
 
