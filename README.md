@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [SC-500 deep dive #3: &quot;private&quot; storage that still had a public door](https://dev.to/cdsecuritylab/sc-500-deep-dive-3-private-storage-that-still-had-a-public-door-30mc)
-- [Postgres Recovery: Verified Channels over Support Tickets &lpar;With Prior Enrollment&rpar;](https://dev.to/becketthayes6821/postgres-recovery-verified-channels-over-support-tickets-with-prior-enrollment-569m)
-- [Running Autonomous Pentest Agents for About $1 &lpar;What Our Benchmarks Taught Us&rpar;](https://dev.to/nodecode/running-autonomous-pentest-agents-for-about-1-what-our-benchmarks-taught-us-5gda)
-- [Kiểm tra rò rỉ DNS, WebRTC và IPv6 khi chạy Playwright qua proxy dân cư](https://dev.to/ipvora/kiem-tra-ro-ri-dns-webrtc-va-ipv6-khi-chay-playwright-qua-proxy-dan-cu-56ej)
+- [I Built MCP Token X-Ray: A Zero-Dependency Firewall &amp; Context Profiler for Model Context Protocol Servers](https://dev.to/huyvv533/i-built-mcp-token-x-ray-a-zero-dependency-firewall-context-profiler-for-model-context-protocol-46gj)
+- [Dario Amodei Says Humans Must Keep the Wheel — While Anthropic Hands Claude the Keys to Its Own Codebase](https://dev.to/kami_butt_69b922ade8de012/dario-amodei-says-humans-must-keep-the-wheel-while-anthropic-hands-claude-the-keys-to-its-own-21j0)
+- [The Options Expiry Did Not Make Friday&#39;s Drop. The U.S. Hour Did.](https://dev.to/coinpred/the-options-expiry-did-not-make-fridays-drop-the-us-hour-did-545b)
+- [CVE-2025-48757 and Lovable: what the record says, and 6 checks to see if your Supabase data is exposed](https://dev.to/proofforge_live/cve-2025-48757-and-lovable-what-the-record-says-and-6-checks-to-see-if-your-supabase-data-is-524)
 <!-- BLOG-POST-LIST:END -->
 
