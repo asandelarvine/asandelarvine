@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend resume keywords belong in your bullets, not a tag cloud](https://dev.to/sarah_m/frontend-resume-keywords-belong-in-your-bullets-not-a-tag-cloud-3iap)
-- [Agent Memory Persistence: Redis, Vector DB, Hybrid Code](https://dev.to/devtoaaron/agent-memory-persistence-redis-vector-db-hybrid-code-1b8h)
-- [Build Feature Flags Service in Node for Auditable Toggle Functionality](https://dev.to/caspianhayes3586/build-feature-flags-service-in-node-for-auditable-toggle-functionality-59nj)
-- [Google Search AI Mode Begins Opt-In Personal Context Integrations](https://dev.to/franklinai/google-search-ai-mode-begins-opt-in-personal-context-integrations-349c)
+- [SC-500 deep dive #3: &quot;private&quot; storage that still had a public door](https://dev.to/cdsecuritylab/sc-500-deep-dive-3-private-storage-that-still-had-a-public-door-30mc)
+- [Postgres Recovery: Verified Channels over Support Tickets &lpar;With Prior Enrollment&rpar;](https://dev.to/becketthayes6821/postgres-recovery-verified-channels-over-support-tickets-with-prior-enrollment-569m)
+- [Running Autonomous Pentest Agents for About $1 &lpar;What Our Benchmarks Taught Us&rpar;](https://dev.to/nodecode/running-autonomous-pentest-agents-for-about-1-what-our-benchmarks-taught-us-5gda)
+- [Kiểm tra rò rỉ DNS, WebRTC và IPv6 khi chạy Playwright qua proxy dân cư](https://dev.to/ipvora/kiem-tra-ro-ri-dns-webrtc-va-ipv6-khi-chay-playwright-qua-proxy-dan-cu-56ej)
 <!-- BLOG-POST-LIST:END -->
 
