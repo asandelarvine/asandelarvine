@@ -79,9 +79,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built MCP Token X-Ray: A Zero-Dependency Firewall &amp; Context Profiler for Model Context Protocol Servers](https://dev.to/huyvv533/i-built-mcp-token-x-ray-a-zero-dependency-firewall-context-profiler-for-model-context-protocol-46gj)
-- [Dario Amodei Says Humans Must Keep the Wheel — While Anthropic Hands Claude the Keys to Its Own Codebase](https://dev.to/kami_butt_69b922ade8de012/dario-amodei-says-humans-must-keep-the-wheel-while-anthropic-hands-claude-the-keys-to-its-own-21j0)
-- [The Options Expiry Did Not Make Friday&#39;s Drop. The U.S. Hour Did.](https://dev.to/coinpred/the-options-expiry-did-not-make-fridays-drop-the-us-hour-did-545b)
-- [CVE-2025-48757 and Lovable: what the record says, and 6 checks to see if your Supabase data is exposed](https://dev.to/proofforge_live/cve-2025-48757-and-lovable-what-the-record-says-and-6-checks-to-see-if-your-supabase-data-is-524)
+- [Điểm tin Trí tuệ Nhân tạo &amp; Mô hình Ngôn ngữ lớn &lpar;LLMs&rpar; tại Việt Nam &lpar;29/11/2026&rpar;](https://dev.to/vuhung16au/diem-tin-tri-tue-nhan-tao-mo-hinh-ngon-ngu-lon-llms-tai-viet-nam-29112026-3dhc)
+- [The Freelance Cash Flow Spreadsheet I Actually Use &lpar;Runway, Tax, and a 12-Month Forecast&rpar;](https://dev.to/aliamini/the-freelance-cash-flow-spreadsheet-i-actually-use-runway-tax-and-a-12-month-forecast-215m)
+- [Stop Giving AI Agents Your Admin Credentials](https://dev.to/forgeflows/stop-giving-ai-agents-your-admin-credentials-3g33)
+- [The Agent-First Web: Reimagining the Internet for an Autonomous AI Era From Human-Centric Websites to Machine-Native Digital Services](https://dev.to/mauryaarun/the-agent-first-web-reimagining-the-internet-for-an-autonomous-ai-era-from-human-centric-websites-4p6d)
 <!-- BLOG-POST-LIST:END -->
 
